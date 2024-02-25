@@ -1,0 +1,22 @@
+{
+  "name": "crimbo",
+  "version": "0.0.1",
+  "description": "Match donations to requests with Ollama",
+  "main": "postprocess.js",
+  "scripts": {
+    "test": "echo \"No tests written\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoneRifle/kringle.git"
+  },
+  "author": "LoneRifle <LoneRifle@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoneRifle/kringle/issues"
+  },
+  "homepage": "https://github.com/LoneRifle/kringle#readme",
+  "dependencies": {
+    "ollama": "^0.4.6"
+  }
+}

@@ -1,0 +1,50 @@
+name: Flat Data
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Ollama
+        run: curl -fsSL https://ollama.com/install.sh | sh
+      # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.10.x
+      # This step installs Node, for the postprocess script
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
+      # Check out the repository so it can read the files inside of it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Create crimbo model
+        run: ollama create crimbo -f Modelfile
+      - name: Install postprocess script dependencies
+        run: npm ci
+      # cURL data from the specified URL and overwrite the destination file.
+      # Rely on the Flat Action to check the data in on our behalf
+      - name: Fetch requests
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://raw.githubusercontent.com/datascapesg/passiton/main/requests.json
+          downloaded_filename: requests.json
+      # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
+      - name: Fetch offers
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://raw.githubusercontent.com/datascapesg/passiton/main/offers.json
+          downloaded_filename: offers.json
+      - name: Postprocess
+        env:
+          POSTPROCESS_FILENAME: matches.json
+        run: node postprocess.js
