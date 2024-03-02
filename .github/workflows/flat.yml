@@ -12,8 +12,6 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Ollama
-        run: curl -fsSL https://ollama.com/install.sh | sh
       # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
       - name: Setup deno
         uses: denoland/setup-deno@main
