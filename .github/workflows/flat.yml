@@ -17,11 +17,6 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.10.x
-      # This step installs Node, for the postprocess script
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: latest
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v4
@@ -40,9 +35,6 @@ jobs:
         with:
           http_url: https://raw.githubusercontent.com/datascapesg/passiton/main/offers.json
           downloaded_filename: offers.json
-      - name: Postprocess
+          postprocess: postprocess.js
         env:
           POSTPROCESS_FILENAME: matches.json
-        run: |
-          node postprocess.js
-          git add $POSTPROCESS_FILENAME

@@ -1,9 +1,9 @@
-const fs = require('node:fs')
+import { readJSON } from 'https://deno.land/x/flat@0.0.15/mod.ts' 
 
-const { Document } = require('flexsearch')
+import { Document } from 'npm:flexsearch'
 
-const requests = JSON.parse(fs.readFileSync('requests.json'))
-const offers = JSON.parse(fs.readFileSync('offers.json'))
+const requests = await readJSON('requests.json')
+const offers = await readJSON('offers.json')
 
 const document = new Document({
   preset: 'match',
@@ -32,7 +32,7 @@ for (const request of requests) {
   }
 }
 
-fs.writeFileSync(
-  process.env.POSTPROCESS_FILENAME || 'matches.json',  
+Deno.writeTextFileSync(
+  Deno.env.get('POSTPROCESS_FILENAME') || 'matches.json',  
   JSON.stringify(matches, null, 2)
 )
