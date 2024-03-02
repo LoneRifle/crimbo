@@ -45,4 +45,6 @@ jobs:
       - name: Postprocess
         env:
           POSTPROCESS_FILENAME: matches.json
-        run: node postprocess.js
+        run: |
+          node postprocess.js
+          git add $POSTPROCESS_FILENAME
