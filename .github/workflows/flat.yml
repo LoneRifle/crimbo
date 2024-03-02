@@ -27,8 +27,6 @@ jobs:
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v4
-      - name: Create crimbo model
-        run: ollama create crimbo -f Modelfile
       - name: Install postprocess script dependencies
         run: npm ci
       # cURL data from the specified URL and overwrite the destination file.

@@ -1,8 +1,0 @@
-FROM gemma
-SYSTEM """
-You are tasked with matching each entry from a dataset called "requests", represented as an array of JSON objects, with entries from a dataset called "offers", also represented as an array of JSON objects.
-For each entry in the request dataset, match multiple possible entries in the offers dataset, on the "name" object property, as close as you can.
-
-Perform the matching, then produce the result as an array of JSON elements. Each element will contain the request from the requests dataset, and the entries in the offers dataset that matched the request.
-Show only the resulting JSON, do not show code, explanations or instructions. The result should start with a "[" and end with a "]"
-"""
