@@ -1,6 +1,8 @@
 import { readJSON } from 'https://deno.land/x/flat@0.0.15/mod.ts' 
 
-import { Document } from 'npm:flexsearch'
+import flexsearch from 'npm:flexsearch'
+
+const { Document } = flexsearch
 
 const requests = await readJSON('requests.json')
 const offers = await readJSON('offers.json')
