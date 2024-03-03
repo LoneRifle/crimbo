@@ -21,16 +21,19 @@ for (const offer of offers) {
   document.add(offer)
 }
 
-const matchesPio = []
+const matches = []
 const misses = []
 
 for (const request of requests) {
   const result = document.search(request.name, { enrich: true })
     .flatMap(({ result }) => result)
   if (result.length) {
-    matchesPio.push({
+    matches.push({
       ...request,
-      matches: result.map(({ doc }) => doc),
+      matches: {
+        passiton: result.map(({ doc }) => doc),
+        carousell: [],
+      },
     })
   } else {
     misses.push(request)
@@ -38,6 +41,6 @@ for (const request of requests) {
 }
 
 Deno.writeTextFileSync(
-  'matches.pio.json',  
-  JSON.stringify(matchesPio, null, 2)
+  'matches.json',  
+  JSON.stringify(matches, null, 2)
 )
