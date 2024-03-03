@@ -21,20 +21,23 @@ for (const offer of offers) {
   document.add(offer)
 }
 
-const matches = []
+const matchesPio = []
+const misses = []
 
 for (const request of requests) {
   const result = document.search(request.name, { enrich: true })
     .flatMap(({ result }) => result)
   if (result.length) {
-    matches.push({
+    matchesPio.push({
       ...request,
       matches: result.map(({ doc }) => doc),
     })
+  } else {
+    misses.push(request)
   }
 }
 
 Deno.writeTextFileSync(
-  Deno.env.get('POSTPROCESS_FILENAME') || 'matches.json',  
-  JSON.stringify(matches, null, 2)
+  'matches.pio.json',  
+  JSON.stringify(matchesPio, null, 2)
 )
