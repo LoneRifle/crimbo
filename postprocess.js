@@ -29,7 +29,7 @@ for (const request of requests) {
   if (result.length) {
     matches.push({
       ...request,
-      matches: result.doc,
+      matches: result.map(({ doc }) => doc),
     })
   }
 }
