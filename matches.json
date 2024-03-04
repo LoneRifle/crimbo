@@ -101,64 +101,65 @@
     }
   },
   {
-    "id": "131100",
+    "id": "131337",
     "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client (F/41) living in a public rental flat with 2 young children. Husband is trying to find work and family is on public assistance. Family looking for a sofa \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you!!",
+    "name": "wardrobe",
+    "description": "Client is senior residing in a rental flat with multiple health condition. He is undergoing clearing of furniture due to bed bugs infestation and is looking for a single door wardrobe to replace his current worn down item.\n\nPlease contact Qhairah (Case manager) at 91776614 or qhairahqhaliesah@thkmc.org.sg",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Tasya Puspita Maulany",
-      "email": "tasya@amkfsc.org.sg",
+      "org": "THK Cluster Support @ Bedok",
+      "name": "Qhairah Qhaliesah",
+      "email": "qhairahqhaliesah@thkmc.org.sg",
       "phone": [
-        "64535349"
+        "62418171"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "24 Feb 2024",
+    "date": "04 Mar 2024",
     "matches": {
       "passiton": [
         {
-          "id": "131327",
-          "name": "Sofa Set",
-          "description": "3 + 2 Sofa.\nStill in good condition, the fabric might need cleaning for the stains from kids spilling drinks on them",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "06 Mar 2024",
+          "id": "131310",
+          "name": "3 door wardrobe with shelves and 2 drawers",
+          "description": "3 door wardrobe with shelves and 2 drawers in working condition. Top drawer has lock but can't be locked because key is lost.\nCollection on Sat.\nAppreciate discounted rate pls.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "17 Mar 2024",
           "ageInYears": 4,
-          "dimensions": null,
+          "dimensions": "120 cm x 176 cm x 52 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "131336",
+    "category": "Home Furnishing",
+    "name": "Wardrobe (2-door)",
+    "description": "Mother of 2 young children in urgent need of a 2-door wardrobe (living in 1-room rental flat) because her current one has broken down. She needs one urgently to hang up their clothes in a hygienic and tidy manner. Family cannot afford their own because their breadwinner is currently incarcerated.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Victoria Chong",
+      "email": "victoriachong@fycs.org",
+      "phone": [
+        "69783482",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Mar 2024",
+    "matches": {
+      "passiton": [
         {
-          "id": "131303",
-          "name": "Brown Sofa 180cm",
-          "description": "I’m able to pay for the delivery, but pleas help to arrange. Thanks!",
-          "location": null,
-          "validTill": "09 Mar 2024",
-          "ageInYears": 1,
-          "dimensions": "180cm x 80cm x 73cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "131246",
-          "name": "Grey fabric 3-seater sofa",
-          "description": "We have a 3-seater L-shaped sofa to donate. It is still a good condition. Would be good for a family of 4-5. \n\nWhen moving, the sofa can be dismantled into 2 parts (the L shaped section and the rest of the sofa).",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "06 Mar 2024",
+          "id": "131310",
+          "name": "3 door wardrobe with shelves and 2 drawers",
+          "description": "3 door wardrobe with shelves and 2 drawers in working condition. Top drawer has lock but can't be locked because key is lost.\nCollection on Sat.\nAppreciate discounted rate pls.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "17 Mar 2024",
           "ageInYears": 4,
-          "dimensions": "240cm x 67cm x 157cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "131197",
-          "name": "L SHAPED HALF LEATHER SOFA",
-          "description": "L shaped Lorenzo half leather sofa. Leather peeling a bit but can put cover over it",
-          "location": null,
-          "validTill": "05 Mar 2024",
-          "ageInYears": 4,
-          "dimensions": null,
+          "dimensions": "120 cm x 176 cm x 52 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -411,6 +412,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "131339",
+          "name": "Queen Size Bedframe",
+          "description": "Queen size bedframe with optional mattress.\nBedframe is about 5 years but still sturdy.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Mar 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "131309",
           "name": "Queen size bedframe",
           "description": "Queen size bedframe. Solid wood, varnished.\nSaturday collection only.\nWill need to dismantle. Could transport be discounted pls?",
@@ -477,6 +489,17 @@
     "date": "05 Feb 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "131339",
+          "name": "Queen Size Bedframe",
+          "description": "Queen size bedframe with optional mattress.\nBedframe is about 5 years but still sturdy.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Mar 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "131309",
           "name": "Queen size bedframe",
