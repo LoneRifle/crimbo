@@ -77,6 +77,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "131330",
+    "name": "Fridge",
+    "description": "In good condition",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Mar 2024",
+    "ageInYears": 3,
+    "dimensions": "L60cmXW60cmXH170cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "131316",
     "name": "Dish washer",
     "description": "Brand new",
@@ -95,17 +106,6 @@
     "validTill": "01 Apr 2024",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "131304",
-    "name": "Mitsubishi 3door fridge",
-    "description": "A six year old 3 door fridge that is still working well. A waste to throw away.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "05 Mar 2024",
-    "ageInYears": 4,
-    "dimensions": "68cm x 72cm x 173cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -152,6 +152,50 @@
     "dimensions": "20 x 22 x 21cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "131329",
+    "name": "King Size Bed",
+    "description": "King Size Bed, Mattress is optional",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "07 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "131328",
+    "name": "Display Set Book Shelf",
+    "description": "Looks almost brand new with copper handles recently changed.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "06 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": "89cm x 32cm x 198cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "131327",
+    "name": "Sofa Set",
+    "description": "3 + 2 Sofa.\nStill in good condition, the fabric might need cleaning for the stains from kids spilling drinks on them",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "06 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "131326",
+    "name": "Full solid wood dining table",
+    "description": "Full solid wood",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "07 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "131311",
@@ -374,39 +418,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "131295",
-    "name": "Boys clothes and potty training pants for 2yo- 4yo",
-    "description": "Casual shirts, socks, jacket, toddler potty training pants for boys 2-4yo",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "131294",
-    "name": "English and Chinese activity, storybooks for young toddlers to preschoolers",
-    "description": "11 pieces of Huggies XXL diapers",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "131293",
-    "name": "Early stages puzzles, Melissa &Doug lock, Counting puzzles",
-    "description": "Educational toys(counting, motor skills) and puzzles (early stages) for toddlers",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "131284",
     "name": "Stroller",
     "description": "Graco stroller, compact, lightweight and easy to use.",
@@ -457,17 +468,6 @@
     "location": null,
     "validTill": "28 Mar 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "131149",
-    "name": "Baby clothes",
-    "description": "Good conditioned clothing. No stains.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "28 Mar 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"

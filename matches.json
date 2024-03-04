@@ -19,13 +19,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "131304",
-          "name": "Mitsubishi 3door fridge",
-          "description": "A six year old 3 door fridge that is still working well. A waste to throw away.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "05 Mar 2024",
-          "ageInYears": 4,
-          "dimensions": "68cm x 72cm x 173cm",
+          "id": "131330",
+          "name": "Fridge",
+          "description": "In good condition",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Mar 2024",
+          "ageInYears": 3,
+          "dimensions": "L60cmXW60cmXH170cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -119,6 +119,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "131327",
+          "name": "Sofa Set",
+          "description": "3 + 2 Sofa.\nStill in good condition, the fabric might need cleaning for the stains from kids spilling drinks on them",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "06 Mar 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "131303",
           "name": "Brown Sofa 180cm",
           "description": "I’m able to pay for the delivery, but pleas help to arrange. Thanks!",
@@ -193,6 +204,17 @@
           "validTill": "07 Mar 2024",
           "ageInYears": 4,
           "dimensions": "105x50x140",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "131326",
+          "name": "Full solid wood dining table",
+          "description": "Full solid wood",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "07 Mar 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
