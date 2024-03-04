@@ -292,6 +292,40 @@
     }
   },
   {
+    "id": "130917",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client is a single mother caring for daughter who has recently reintegrated back to stay with her in her 1-room rental flat. She would like to request for a cupboard as the one at home is faulty.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "131349",
+          "name": "Storage Cupboard",
+          "description": "Storage shelf cupboard",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "10 Mar 2024",
+          "ageInYears": 4,
+          "dimensions": "100cm x 37cm x 130cmĺ",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "130810",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -318,6 +352,39 @@
           "validTill": "17 Mar 2024",
           "ageInYears": 4,
           "dimensions": "120 cm x 176 cm x 52 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "130733",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client (F/40) living in a public rental flat and unable to work due to chronic health issues. She is looking for a cupboard to store clothes/items. Can whatsapp 8022 9012. May not be able to reply fast if have meetings.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@amkfsc.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Feb 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "131349",
+          "name": "Storage Cupboard",
+          "description": "Storage shelf cupboard",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "10 Mar 2024",
+          "ageInYears": 4,
+          "dimensions": "100cm x 37cm x 130cmĺ",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
