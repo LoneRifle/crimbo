@@ -67,40 +67,6 @@
     }
   },
   {
-    "id": "130869",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "My client is a single mother with 3 school-going children. She just moved to her new HDB rental flat and is in need of some household furnishing. They have been living at a shelter for the past 2 years and do not have much savings currently. We would appreciate for delivery costs to be covered by donor. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Joycelin Wong",
-      "email": "joycelinwong@fycs.org",
-      "phone": [
-        "66901011",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Feb 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "131429",
-          "name": "Panasonic refrigerator",
-          "description": "Old fridge but still working perfectly",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "16 Mar 2024",
-          "ageInYears": 4,
-          "dimensions": "675x695x1769",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "130860",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -354,6 +320,17 @@
     "date": "23 Feb 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "131440",
+          "name": "IKEA Children Table, Chair, Soft Toys",
+          "description": "Lightly used IKEA wooden study table + chair\n101cm×61cm\n3 adjustable height, max 61cm tall\nSlight bum in laminate as shown in picture. \nComplete IKEA manual & tools to adjust table height and dismantle.\nCan fit in big car, SUV without dismantle.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "05 Apr 2024",
+          "ageInYears": 4,
+          "dimensions": "101cm x 61cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "131251",
           "name": "IKEA Alex Table",
