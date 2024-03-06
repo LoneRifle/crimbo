@@ -110,17 +110,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "131219",
-    "name": "Flour mixer 2",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "30 Mar 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "131218",
     "name": "Flour mixer 1",
     "description": "Delivery on weekday evening and weekend.",
@@ -143,13 +132,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "131402",
-    "name": "Dining Chairs x 6",
-    "description": "Chairs x 6 in good condition despite the age. Can be used as dining chairs or other purposes.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 4,
-    "dimensions": null,
+    "id": "131409",
+    "name": "Pillows (2) and blankets (3)",
+    "description": "Foam contour pillows with pillow cover- used\n3 standard single size blankies",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Mar 2024",
+    "ageInYears": 3,
+    "dimensions": "Standard size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -183,17 +172,6 @@
     "validTill": "02 Apr 2024",
     "ageInYears": 3,
     "dimensions": "202cm x 106cm x 35cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "131363",
-    "name": "Dining Set",
-    "description": "Clean, as new condition dining set. Table top extends from 120cm length to 160cm. \nMechanism working fine without problem. Fabric chairs are 51cm high from floor to bottom cushion - all clean. 5(+1) chairs are provided (- the +1 chair could not be assembled.)",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "04 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": "120(160)x80x75",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -314,17 +292,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "31 Mar 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "131321",
-    "name": "Soft baby seat",
-    "description": "Soft baby chair. Only used a few times.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -570,6 +537,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "131408",
+    "name": "Nespro Nutrition mill",
+    "description": "19 bottles\n\nNepro LP is high in calories and lower in protein (9.94g per bottle) and provides complete renal nutrition to help maintain the nutritional status of people with reduced kidney function who are not on dialysis.",
+    "location": null,
+    "validTill": "05 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "131224",
