@@ -66,17 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "131118",
-    "name": "Teenage boys clothes (various)",
-    "description": "I have various teenage boys t shirts, shorts, pants. Some are not even worn!",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "07 Mar 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "131429",
     "name": "Panasonic refrigerator",
     "description": "Old fridge but still working perfectly",
@@ -130,6 +119,17 @@
     "dimensions": "20 x 22 x 21cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "131441",
+    "name": "Dining Table",
+    "description": "Solid dark red dining table. Chairs NOT included. Class top can be removed (protects table surface so there are no scratches).",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "31 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": "180cm (L) x 90 cm (W) x 75cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "131440",
@@ -242,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "131248",
-    "name": "White study table",
-    "description": "White study table from Ikea with magnetic notice board, shelving on the side, two drawers and cupboard with 3 shelves. Very functional and practical, and good for storage. Got me through my studies and work. Letting go as it can no longer fit in my room after refurbishing.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "07 Mar 2024",
-    "ageInYears": 4,
-    "dimensions": "105x50x140",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "131222",
     "name": "Lazy Susan",
     "description": "Delivery on weekday evening and weekend.",
@@ -260,17 +249,6 @@
     "validTill": "30 Mar 2024",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "131159",
-    "name": "Coconut Shape Lounge Chair",
-    "description": "Coconut Shape Lounge Chair",
-    "location": null,
-    "validTill": "07 Mar 2024",
-    "ageInYears": 4,
-    "dimensions": "101x84x86",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,6 +550,28 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "131442",
+    "name": "Fossil Gen 3 Smartwatch Q Venture",
+    "description": "I have two sets of fossil smartwatch. Comes with additional watch straps unused before.",
+    "location": null,
+    "validTill": "10 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "131443",
+    "name": "Fossil Gen 3 Smartwatch Q Venture",
+    "description": "I have two sets of fossil smartwatch. Comes with additional watch straps unused before.",
+    "location": null,
+    "validTill": "10 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "130762",
     "name": "Books on copyright and teaching English",
     "description": "1 book on copyrights and another on Teaching English to China students. Can post to you direct.",
@@ -720,28 +720,6 @@
     "description": "Walking stick with 4 rubber foot",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "05 Apr 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "130597",
-    "name": "Hospital Bed",
-    "description": "I have a hospital bed for donation. In general good working condition, except that the wire to the remote has been taped since the outer covering of the wire has worn off.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "07 Mar 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "130967",
-    "name": "Hospital Bed",
-    "description": "Fully operational hospital bed with mattress and electric operated backrest",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "07 Mar 2024",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
