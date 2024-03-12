@@ -201,6 +201,83 @@
     }
   },
   {
+    "id": "131607",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "This is a family composed of two 70+ years old elderly clients. The husband is suffering from terminal cancer and is undergoing chemotherapy. Since there is no other source of income in the household, they are currently in need of a sofa. The previously donated second-hand sofa is now damaged. They are hoping to find new donors who can contribute any form of sofa. Would appreciate if donor can cover transport costs. Please WhatsApp messages Hsin Yu at 8911 8058 or email to hsinyu_lee@viriya.org.sg to liaise.",
+    "specifications": "2 seaters",
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Lee Hsin-Yu",
+      "email": "hsinyu_lee@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Mar 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "131615",
+          "name": "Sofa chair and 3 coffee table top",
+          "description": "Sofa chair is in good condition. The 3 table top comes in 3 sizes and versatile. (Small, Medium and large. )",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Mar 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "131564",
+          "name": "Foldable Single Sofa Bed",
+          "description": "Seldom used, clean sofa bed",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Mar 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "131606",
+    "category": "Home Furnishing",
+    "name": "Sofa bed",
+    "description": "Client is a single mother with a 10-year-old son living in a rental flat. Due to low income, they cannot afford a new mattress even though the current one has started to smell. Therefore, they plead with donors to donate a double sofa bed (considering that the rental flat doesn't have separate rooms, space is limited). We would be extremely grateful if the donor can cover the delivery costs. Please contact Hsin Yu via WhatsApp messages at 8911 8058 or email: hsinyu_lee@viriya.org.sg to liaise.",
+    "specifications": "Size for 2 people",
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Lee Hsin-Yu",
+      "email": "hsinyu_lee@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Mar 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "131564",
+          "name": "Foldable Single Sofa Bed",
+          "description": "Seldom used, clean sofa bed",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Mar 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "131599",
     "category": "Home Furnishing",
     "name": "Queen-size mattress",
@@ -563,6 +640,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        },
+        {
+          "id": "131615",
+          "name": "Sofa chair and 3 coffee table top",
+          "description": "Sofa chair is in good condition. The 3 table top comes in 3 sizes and versatile. (Small, Medium and large. )",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Mar 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
