@@ -150,50 +150,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        },
-        {
-          "id": "131449",
-          "name": "Stackable bed frame only x 2 (without mattress)",
-          "description": "Height, 2 beds: 46 cm\n\nLength: 205 cm\n\nWidth: 83 cm\n\nHeight: 23 cm\n\nGood quality. In good condition",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "01 Apr 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "131636",
-    "category": "Mobility Aids",
-    "name": "Commode",
-    "description": "Client (F/72) has an elderly mother (F/94) who has recently got discharged from hospital and requires support in her ADLs. Client is an elderly herself and not employed. She requires a commode for her mother to support in her bathing.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Mar 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "131630",
-          "name": "Commode",
-          "description": "Commode in good working condition available",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "12 Apr 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -493,6 +449,17 @@
           "validTill": "31 Mar 2024",
           "ageInYears": 4,
           "dimensions": "180cm (L) x 90 cm (W) x 75cm (H)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "131654",
+          "name": "Small ikea table",
+          "description": "Small Ikea table. Do note the pink laminate have started to chip off from the table legs (see photo) but it is otherwise in a structurally good condition. If recipient is staying around commonwealth area I can deliver the table.  If not - appreciate if VWO can arrange for pick up from commonwealth",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Apr 2024",
+          "ageInYears": 4,
+          "dimensions": "55cm x 55cm x 45cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
