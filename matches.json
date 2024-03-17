@@ -356,6 +356,40 @@
     }
   },
   {
+    "id": "131765",
+    "category": "Home Furnishing",
+    "name": "TV console",
+    "description": "Client is a single mother caring for daughter who has recently reintegrated back to stay with her in her 1-room rental flat. She would like to request for a TV console to watch the television.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "131707",
+          "name": "White TV console",
+          "description": "Low tv console with 3 drawers",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Apr 2024",
+          "ageInYears": 4,
+          "dimensions": "180x40x36cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "131697",
     "category": "Home Furnishing",
     "name": "Mattress and Bed Frame",
@@ -629,6 +663,17 @@
     "date": "23 Feb 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "131763",
+          "name": "Table",
+          "description": "Study table with wheel",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "16 Apr 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "131556",
           "name": "Working Table",
