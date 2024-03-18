@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "131819",
+    "name": "Sofa",
+    "description": "Well-maintained sofa. Able to cover delivery cost.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "25 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "131763",
     "name": "Table",
     "description": "Study table with wheel",
@@ -106,17 +117,6 @@
     "validTill": "16 Apr 2024",
     "ageInYears": 2,
     "dimensions": "90cmLx90cmW",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "131751",
-    "name": "Queen size wooden bed frame and mattress",
-    "description": "Queen-size wooden bed frame with mattress (very firm), seldom used (guest room)",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 4,
-    "dimensions": "158x202cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -369,17 +369,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "31 Mar 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "131434",
-    "name": "Small travel cot",
-    "description": "Small travel cot ready to go to anyone who needs one, with a mattress cover.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Mar 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
