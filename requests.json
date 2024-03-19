@@ -1017,24 +1017,6 @@
     "date": "18 Feb 2024"
   },
   {
-    "id": "130888",
-    "category": "Others",
-    "name": "Urgent Groceries",
-    "description": "Family of 7 living in a 3-room flat requires urgent support in the form of halal groceries. The family has health issues, especially mother who has frequent asthma attacks. This has affected the father's ability to work and as such his income for February is insufficient to support the basic needs of the family.",
-    "specifications": "Halal",
-    "contact": {
-      "org": "HEART @ Fei Yue",
-      "name": "Sonya Paige",
-      "email": "sonya@fycs.org",
-      "phone": [
-        "88692114",
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Feb 2024"
-  },
-  {
     "id": "131845",
     "category": "Medical Aids",
     "name": "Adult Diapers  (Brand: Premium Softess, Size: M (Adult Slim Pants, Unisex))",
@@ -1231,6 +1213,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "18 Feb 2024"
+  },
+  {
+    "id": "131884",
+    "category": "Electrical Home Appliances",
+    "name": "handphone",
+    "description": "Elderly client aged 61. Living alone in a 1-room rental flat. Client has vasculitis on her right leg and had fractured her left collarbone/shoulder in 2019. Due to this, her mobility had been affected.\nClient requires a walker to move around, and cannot walk unassisted.\nClient spends her time at coffeeshop during the day and only returns to her flat at night. She shared that she feels bored at home, and prefers to be in the community. She also shared that neighbour is noisy and disturbing, thus she does not feel comfortable or at ease at home. Client shared that neighbour put a lot of things and clutter along the corridor and makes it difficult for her to walk.\nThe handphone would beneficial for CW to contact client.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2024"
   },
   {
     "id": "131878",
@@ -2333,24 +2332,6 @@
       "email": "noorfaiza@newlifestories.org.sg",
       "phone": [
         "63867688"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Mar 2024"
-  },
-  {
-    "id": "131365",
-    "category": "Electrical Home Appliances",
-    "name": "10kg washing machine",
-    "description": "Family has 7 children and requires assistance to replace their washing machine which is spoilt. This family only has a single income earner as the other parent has to care for a child with special needs.",
-    "specifications": "Washing machine with at least 10kg load",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Loh Yun Yu",
-      "email": "yunyu_loh@awwa.org.sg",
-      "phone": [
-        "65119435",
-        "65119456"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4219,6 +4200,57 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Feb 2024"
+  },
+  {
+    "id": "131885",
+    "category": "Home Furnishing",
+    "name": "Queen-sized metal bedframe",
+    "description": "Client is sole breadwinner, earning low income as sales assistant. Husband is not working due to health issues and caregiving for child with special needs.(JY)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2024"
+  },
+  {
+    "id": "131883",
+    "category": "Home Furnishing",
+    "name": "Shoe cabinet",
+    "description": "similar to https://shp.ee/nrbemro\nClient is sole breadwinner, earning low income as sales assistant. Husband is not working due to health issues and caregiving for child with special needs. (JY)",
+    "specifications": "Shoe cabinet, similar to https://shp.ee/nrbemro",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2024"
+  },
+  {
+    "id": "131882",
+    "category": "Home Furnishing",
+    "name": "Drawer cabinet",
+    "description": "Client is sole breadwinner, earning low income as sales assistant. Husband is not working due to health issues and caregiving for child with special needs.",
+    "specifications": "similar to https://shp.ee/h03ta9b",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2024"
   },
   {
     "id": "131863",
