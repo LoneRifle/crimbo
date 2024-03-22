@@ -33,23 +33,23 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "131978",
+    "name": "RGB LED light strip",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "21 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": "5m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "131972",
     "name": "WALL FAN",
     "description": "USABLE WALL FAN. FAN CANNOT OSCILLATTEDOES NOT HAVE FRONT COVER. PULL STRING IS BROKEN. DESPITE ALL THE FAULTY, THE FAN IS STILL USABLE AND WIND IS ACCEPTABLE",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "21 Apr 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "131950",
-    "name": "Eu Yan Sang Multi-Purpose Electric Glass Kettle 0.8L",
-    "description": "This item was a free gift from my purchase with Eu Yang San, and I do mot have a use for it, hence giving it away to a needy family.\n\nhttps://shp.ee/0usv67x",
-    "location": null,
-    "validTill": "20 Apr 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -117,17 +117,6 @@
     "validTill": "02 Apr 2024",
     "ageInYears": 4,
     "dimensions": "104cm (L) each",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "131897",
-    "name": "Shelf",
-    "description": "Islandwide delivery will be arranged by me. \n\nIf you can take other items of mine would be good.\n\nPlease WhatsApp (faster response) or email me.",
-    "location": null,
-    "validTill": "28 Mar 2024",
-    "ageInYears": 3,
-    "dimensions": "48cm x 24cm x 80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -275,12 +264,23 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "131948",
-    "name": "Pram for babies/toddlers",
-    "description": "Pram that can sit one baby or 2 toddlers.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "20 Apr 2024",
-    "ageInYears": 2,
+    "id": "131974",
+    "name": "Sterilizer",
+    "description": "Sterilizer",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "21 Apr 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "131973",
+    "name": "Baby Stroller",
+    "description": "Spacious stroller in good  condition  to bless",
+    "location": null,
+    "validTill": "31 Mar 2024",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -625,6 +625,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "131979",
+    "name": "wheelchair, rattan chair, commode chair",
+    "description": "lightweight, foldable wheelchair x 1 unit\nsturdy rattan chair x 1 unit\ncommode chair w/wheels x 1 unit (dismantled)",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "21 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "131822",
