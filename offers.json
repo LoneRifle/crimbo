@@ -649,6 +649,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "132149",
+    "name": "Geriatic chair",
+    "description": "geriatic chair",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "131822",
     "name": "Hospital bed with remote",
     "description": "Hospital bed with remote control. Comes with air pressure mattress.",
