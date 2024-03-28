@@ -66,31 +66,32 @@
     }
   },
   {
-    "id": "131121",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A low-income family with 5 young children is in need of a new TV as their current one is no longer functional. The TV would greatly benefit their pregnant mother, providing entertainment and helping her manage the household while her husband is at work.",
-    "specifications": "No requirements",
+    "id": "132190",
+    "category": "Home Furnishing",
+    "name": "Study Table",
+    "description": "Client is a single mum with 2 young children and are facing financial constraints. Mum is unable to have stable employment due to her health conditions. Children will need a study table and study chairs to do their school homework. Family does not have any furniture in their rental home.",
+    "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Yu Ki",
-      "email": "yuki@carecorner.org.sg",
+      "org": "Fei Yue Family Service Centre @ Yew Tee",
+      "name": "Deborah Lee",
+      "email": "deborahlee@fycs.org",
       "phone": [
-        "64761481"
+        "64162165",
+        "64162162"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "26 Feb 2024",
+    "date": "28 Mar 2024",
     "matches": {
       "passiton": [
         {
-          "id": "131915",
-          "name": "TV console",
-          "description": "Accessories, TV, toys are not included.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "02 Apr 2024",
+          "id": "131658",
+          "name": "Glass study table with stool",
+          "description": "Only table with stool. Small cabinet below not included",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Apr 2024",
           "ageInYears": 4,
-          "dimensions": "104cm (L) each",
+          "dimensions": "100x30x73cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
