@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "132308",
+    "name": "Air curtain",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": "120cmW x 20cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "132230",
     "name": "Philips rice cooker",
     "description": "Philips rice cooker\nHeavily used. Working well. \nThe inside of the pot has scratches as seen in picture. \nWill send if convenient.",
@@ -53,6 +64,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "132311",
+    "name": "Queen bed",
+    "description": "Queen bed. Mattress has some stains but is firm and comfortable to lie on. Will provide 2 mattress protectors and 2 pcs bed sheets.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "02 May 2024",
+    "ageInYears": 4,
+    "dimensions": "L190cm W152cm H59cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "132305",
@@ -84,17 +106,6 @@
     "validTill": "09 Apr 2024",
     "ageInYears": 1,
     "dimensions": "Single",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132299",
-    "name": "Bed frame with pullout plus drawers",
-    "description": "wooden frame with pullout plus drawers.\nmattress excluded.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "19 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": "198cm x 96cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -273,6 +284,17 @@
     "dimensions": "79x39x79cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "132318",
+    "name": "MamyPoko Extra Dry (Size M)",
+    "description": "Individual pieces\n26 PIECES\nSIZE M (6~11kg)",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "132204",
@@ -495,6 +517,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "132316",
+    "name": "Comfycare Night Unisex Adult Diaper (Size L)",
+    "description": "Brand New in Bag\n7 PACKS SIZE L \n10 pcs/pack",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": "Fits 115-150cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "132268",
     "name": "Electronic Hospital Bed",
     "description": "Electric Hospital in v good condition. Used for less than 8 months.",
@@ -570,6 +603,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "132319",
+    "name": "Transfer Board",
+    "description": "Suitable for transfer between wheelchair and bed/other surface areas",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132315",
+    "name": "DNR WHEELS air mattress with pump",
+    "description": "Lightly used air mattress. Comes with air pump.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132313",
+    "name": "TRANSPORT air mattress + pump",
+    "description": "Used air mattress. Comes with pump.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 2,
+    "dimensions": "180cm x 90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132312",
+    "name": "Electrical Hydraulic Hospital Bed Frame",
+    "description": "Used hospital bed frame.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "132276",
@@ -669,6 +746,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "132321",
+    "name": "Medical Disposables Cotton Balls Sterile (Various Brands)",
+    "description": "Brand New In Bag\n13 PACKETS (10pcs/pkt):\n• 1pkt (ASSURE)\n• 12pkt (HospiGuard)",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "132320",
+    "name": "ASSURE Medical Disposables Cotton Balls Sterile",
+    "description": "Brand New In Bag\n8 BOXES (10pcs/pkt, 20pkt/box)",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "132275",
