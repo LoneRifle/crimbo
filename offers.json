@@ -55,15 +55,15 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "132226",
-    "name": "Air fryer",
-    "description": "Good working condition",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "29 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": null,
+    "id": "132324",
+    "name": "TV console/long bench table",
+    "description": "Long bench table can be used as tv console or coffee table",
+    "location": null,
+    "validTill": "12 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": "120cmx40cmx40",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
+    "category": "Home Furnishing"
   },
   {
     "id": "132311",
@@ -84,17 +84,6 @@
     "validTill": "07 Apr 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132302",
-    "name": "Super Single Mattress",
-    "description": "Brand new and unused mattress, just bought this year in March",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "02 May 2024",
-    "ageInYears": 1,
-    "dimensions": "190cm x 107cm x 25cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -605,6 +594,39 @@
     "category": "Medical Aids"
   },
   {
+    "id": "132326",
+    "name": "DNR Raised Toilet Seat with Handle",
+    "description": "Used a few times and has been washed",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": "43 x 41 x 7.6",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132325",
+    "name": "DNR Shower Chair",
+    "description": "Not used, back rest is removable",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132323",
+    "name": "DNR Walker",
+    "description": "The walker has been used a few times, mostly at home and the height is adjustable.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": "39 x 53.3 x 94cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "132319",
     "name": "Transfer Board",
     "description": "Suitable for transfer between wheelchair and bed/other surface areas",
@@ -746,6 +768,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "132328",
+    "name": "Wound Dressing Bandages",
+    "description": "New\n\nURGOTUL 10 X 10 (7 pieces)\nURGOTUL AG/SILVER 10 X 12 (6 pieces)\nGAMGEE PAD 10 X 20 (1 pieces)",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "132321",
