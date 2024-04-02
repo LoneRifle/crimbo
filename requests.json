@@ -1,5 +1,40 @@
 [
   {
+    "id": "132281",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family has 4 school-going children who are living in a rental flat. Recently they met with a spoilt washing machine and wish to look for one that could help mom off-load.",
+    "specifications": "7-10kg",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Jasmin Ong",
+      "email": "jasmin.ong@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132280",
+    "category": "Electrical Home Appliances",
+    "name": "Bladeless fan or Tower fan",
+    "description": "Client is a stay alone senior with comorbid health condition and certified permanently unable to work. She resides in a 1-room rental flat that receives sunlight throughout the afternoon. She is currently using an old donated fan (that makes a lot of noise) to ventilate the house. Despite her efforts, the house gets very warm & humid through the day. With the heat, humidity, and noise, she is unable to rest well at night, which complicates her health condition. Client would benefit greatly from receiving a bladeless or tower fan, to cool the house and sleep well at night.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Siti Syaziah Binte Mohd Sufi",
+      "email": "syaziah.sufi@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
     "id": "132278",
     "category": "Electrical Home Appliances",
     "name": "Standing Fan",
@@ -325,24 +360,6 @@
       "email": "anabellelim@allkin.org.sg",
       "phone": [
         "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Mar 2024"
-  },
-  {
-    "id": "132101",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Family of 5 staying in a 2-room flat with 2 special needs children. Family's refrigerator has been serving them for about 10 years is gradually malfunctioning with a lot of noise coming out from the motor. It will be good for the family to have a new bigger 3-door refrigerator.",
-    "specifications": "3-door fridge",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Yew Tee",
-      "name": "Calyn Xu",
-      "email": "calynxu@fycs.org",
-      "phone": [
-        "64162155",
-        "64162162"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1544,23 +1561,6 @@
     "date": "07 Mar 2024"
   },
   {
-    "id": "131438",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Client lives in a one-room rental flat. He was recently certified as unfit for work due to his medical condition which requires him to be on follow-up frequently. Currently, he requires a microwave oven which will help him to prepare his own meals.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Lee Ann Dominique",
-      "email": "leeann.dominique@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "06 Mar 2024"
-  },
-  {
     "id": "131412",
     "category": "Electrical Home Appliances",
     "name": "Clothes dryer",
@@ -1732,6 +1732,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Mar 2024"
+  },
+  {
+    "id": "132292",
+    "category": "Learning Aids",
+    "name": "Macbook",
+    "description": "Client has no active income as client is on active chemotherapy. Single mother and has 4 school-going children. The eldest is starting her school-term this April, requires a MacBook for school. Thank you for your kind assistance. Appreciate it alot!",
+    "specifications": "Macbook",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
   },
   {
     "id": "132267",
@@ -2160,6 +2178,42 @@
     "date": "07 Mar 2024"
   },
   {
+    "id": "132288",
+    "category": "Medical Aids",
+    "name": "hygiene sheets",
+    "description": "Ct is in her 70s and has end stage pancreatic cancer. Incontinence, requires hygiene sheets. Caregiver is currently caring for a school-going child and a spouse with disability. Thank you for your kind assistance. Appreciate it alot!",
+    "specifications": "Hygiene Sheets",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132286",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Ct is in her 70s and has end stage pancreatic cancer. Incontinence, requires diapers and hygiene sheets. Caregiver is currently caring for a school-going child and a spouse with disability. Thank you for your kind assistance. Appreciate it alot!",
+    "specifications": "Proskin Pants Tena Size L",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
     "id": "132229",
     "category": "Medical Aids",
     "name": "Height Adjustable (overbed) table",
@@ -2337,6 +2391,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Mar 2024"
+  },
+  {
+    "id": "132301",
+    "category": "Infant and Children Items",
+    "name": "Double Stroller",
+    "description": "Client has two young children aged 3 and 1 yo. As a single parent, she requires a double stroller to aid her in bringing the children out, as well as to and fro school. \n\nIf you have a suitable stroller for donation, please contact me at 92960569 or drop me an email at muhammadsuffian@mws.sg. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
   },
   {
     "id": "132266",
@@ -3330,6 +3401,193 @@
     "date": "04 Mar 2024"
   },
   {
+    "id": "132296",
+    "category": "Others",
+    "name": "spaghetti (halal)",
+    "description": "PPIS FSC(West) would like to request for 20 packets of 500g spaghetti (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132295",
+    "category": "Others",
+    "name": "Sardines can (Halal)",
+    "description": "PPIS FSC(West) would like to request for 15 or more cans of sardines (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132294",
+    "category": "Others",
+    "name": "Mushroom cans (halal)",
+    "description": "PPIS FSC(West) would like to request for 20 cans of Mushroom (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132293",
+    "category": "Others",
+    "name": "Curry Chicken Can (Halal)",
+    "description": "PPIS FSC(West) would like to request for 20 cans of Curry chicken (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132291",
+    "category": "Others",
+    "name": "Bee Hoon (halal)",
+    "description": "PPIS FSC(West) would like to request for 20 packets of Bee Hoon (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132290",
+    "category": "Others",
+    "name": "Instant noodles (halal)",
+    "description": "PPIS FSC(West) would like to request for 20 packets of instant noodles (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132289",
+    "category": "Others",
+    "name": "450g Breakfast Cereal (Halal)",
+    "description": "PPIS FSC(West) would like to request for 20 big packets of Breakfast cereal (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132287",
+    "category": "Others",
+    "name": "5 kg rice",
+    "description": "PPIS FSC(West) would like to request for 10 or more packets of 5kg rice (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132285",
+    "category": "Others",
+    "name": "3-in-1 instant Milo",
+    "description": "PPIS FSC(West) would like to request for 15 or more packets of 3-in-1 Milo (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132284",
+    "category": "Others",
+    "name": "Halal Assortment biscuits",
+    "description": "PPIS FSC(West) would like to request for 10 or more packets of Assortment biscuits (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132283",
+    "category": "Others",
+    "name": "Halal Cream Crackers",
+    "description": "PPIS FSC(West) would like to request for 20 big packets of Cream Cracker (Halal) for our low-income beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yang Yan Si",
+      "email": "yang.yansi@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
     "id": "132269",
     "category": "Others",
     "name": "Glucerna liquid 250ml (for diabetic)",
@@ -4169,6 +4427,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Mar 2024"
+  },
+  {
+    "id": "132303",
+    "category": "Home Furnishing",
+    "name": "Sliding Door Cupboard",
+    "description": "Client is a low-income mother with special needs and chronic health condition. Her current cupboard is broken and acts as a safety hazard as the door can fall and hit her anytime. The cupboard is no longer usable, resulting in her cluttering of the household items around the flat and blocking of common passageway, being a fall hazard where she trips occasionally. Client lives in Tampines area and cannot afford to transport the item, would require donor to cover transport costs.\n\nIf you have suitable wardrobe for donation, please drop me a text at 92960569 or email at muhammadsuffian@mws.sg. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
+  },
+  {
+    "id": "132282",
+    "category": "Home Furnishing",
+    "name": "Double Decker Bed",
+    "description": "Family consists of a single mother with 5 children aged 16-27, and an elderly grandfather. The father passed away a few years ago, hence mother is the sole breadwinner working as a Grab driver. The youngest son (16) has special needs and requires a helper to care for him. Currently, the two youngest children (16 and 19) are sharing a room with the helper, and they sleep on three separate beds. The family is hoping to get a double-decker bed (preferably one with a bigger bottom bunk as the youngest son needs more space) instead so that there is more space in the room for them to walk around.",
+    "specifications": null,
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Daniel Chee",
+      "email": "danielchee@rainbowcentre.org.sg",
+      "phone": [
+        "68179433",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Apr 2024"
   },
   {
     "id": "132279",
@@ -5728,24 +6021,6 @@
     "date": "15 Mar 2024"
   },
   {
-    "id": "131681",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "A 22yo youth with Asperger's syndrome from a family of 5 with financial difficulty just managed to get enrolled into polytechnic and will be starting school in April. To save transportation cost, youth desires to cycle to school (about 15mins from home) and hopes to have a bicycle to commute with.",
-    "specifications": "Normal for an average-sized male",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Tan Wee Han",
-      "email": "weehan_tan@awwa.org.sg",
-      "phone": [
-        "65119462",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Mar 2024"
-  },
-  {
     "id": "131678",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Bicycle (Kids)",
@@ -5813,24 +6088,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Mar 2024"
-  },
-  {
-    "id": "132261",
-    "category": "Kitchen Utility Items",
-    "name": "Induction Cooker",
-    "description": "Client is a single mother with a 11 year old son. She is hoping to cook home meals for her son and herself but currently her induction cooker is faulty. Hence she would require a new one to aid her in cooking. She is unfit for her and hence she is unable to buy meals outside that often and cooking would be more feasible for her financially.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Madeline d/o Krishnasamy",
-      "email": "madeline@frcsfsc.sg",
-      "phone": [
-        "67799488ext32",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Apr 2024"
   },
   {
     "id": "132192",
