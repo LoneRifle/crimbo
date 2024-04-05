@@ -1,5 +1,38 @@
 [
   {
+    "id": "132436",
+    "category": "Electrical Home Appliances",
+    "name": "Rice Cooker",
+    "description": "Family of 5 with 2 school going childrn residing in a 2-room rental flat urgently requires a rice cooker as their current one has broken down. With Hari Raya approaching, they urgently requires a rice cooker to prepare their meals.",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Noorfaiza Hassan",
+      "email": "noorfaiza@newlifestories.org.sg",
+      "phone": [
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "132230",
+          "name": "Philips rice cooker",
+          "description": "Philips rice cooker\nHeavily used. Working well. \nThe inside of the pot has scratches as seen in picture. \nWill send if convenient.",
+          "location": null,
+          "validTill": "30 Apr 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "132377",
     "category": "Electrical Home Appliances",
     "name": "Fan",
@@ -17,17 +50,6 @@
     "date": "03 Apr 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "132366",
-          "name": "FLOOR INDUSTRIAL FAN",
-          "description": "INDUSTRIAL FLOOR FAN. STRONG WIND. THE FAN IS RUSTED DUE TO PROLONG STORAGE. STILL WORKABLE",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Apr 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "132367",
           "name": "FLOOR INDUSTRIAL FAN",
@@ -49,6 +71,39 @@
           "dimensions": "275mm x 275mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "132435",
+    "category": "Home Furnishing",
+    "name": "Study Table",
+    "description": "Client lives in a 2-room flat with husband and 5 kids. Due to a lack of finances to purchase a study table, the kids have been doing their homework on their floor and this has recently caused the kids to have back pains. As such, client hopes that a study table will allow the kids to complete their homework more comfortably, serving as a form of motivation as well. Interested donors to kindly contact Claudine at 6365 8751. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Lei Hui Yun",
+      "email": "leihuiyun@carecorner.org.sg",
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "131658",
+          "name": "Glass study table with stool",
+          "description": "Only table with stool. Small cabinet below not included",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Apr 2024",
+          "ageInYears": 4,
+          "dimensions": "100x30x73cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
