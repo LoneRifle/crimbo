@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "132546",
+    "name": "Stand fan",
+    "description": "Standing fan.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "30 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": "1.2m (H) x 0.5m (L) x 0.2m (W)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "132524",
     "name": "WALL FAN",
     "description": "FAN IS WORKIGN CONDITION EXCEPT THE OSCILLIATION AND THE PULL STRING IS NOT WORKING. THE SPEED COULD BE ADJUSTED MANUAALY BY TURNING THE BUTTON",
@@ -647,17 +658,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "132514",
-    "name": "Walking Frame",
-    "description": "Walking frame, in good condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "132454",
