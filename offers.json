@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "132583",
+    "name": "Fridge",
+    "description": "It's a hitachi 5 door fridge with automatic ice maker, used by a Muslim family. Kindly arrange for own delivery.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "15 Apr 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "132567",
     "name": "Philips Iron",
     "description": "Second hand iron. In good working condition. Comes with box.",
@@ -40,17 +51,6 @@
     "validTill": "09 May 2024",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "132546",
-    "name": "Stand fan",
-    "description": "Standing fan.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 2,
-    "dimensions": "1.2m (H) x 0.5m (L) x 0.2m (W)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -194,17 +194,6 @@
     "validTill": "30 Apr 2024",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132470",
-    "name": "Wooden TV console",
-    "description": "Tv Console available on 01 June",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 May 2024",
-    "ageInYears": 4,
-    "dimensions": "160 x 40 x 50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -363,6 +352,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "132576",
+    "name": "Micuna Baby cot",
+    "description": "To bless - Micuna baby cot with anti reflux system (able to slight incline up slope) in working condition. Able to pull down side panel to half height, to carry baby out. Not for fussy, as paint has came off at the top of side panels. Self collection or self arranged delivery to pick up. Do not advise to dismantle as hard to fix back.",
+    "location": null,
+    "validTill": "11 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "132556",
     "name": "Hape wooden blocks for kids",
     "description": "Wooden building blocks for kids.\nVery good quality, good for kids free play.",
@@ -379,17 +379,6 @@
     "description": "Excellent condition, clean breast pump, nursing covers and breast pads",
     "location": null,
     "validTill": "15 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "132472",
-    "name": "Newborn baby electric swing and rocker",
-    "description": "Brand: Ingenuity 2-in-1 Dreamcomfort. Swing has been dismantled for easy transportation. Manual included.",
-    "location": "Bishan",
-    "validTill": "12 Apr 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -504,6 +493,17 @@
     "dimensions": "33cm x 45cm x 1cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "132581",
+    "name": "Frying pan (Brand new)",
+    "description": "Brand new. Donate to those with family not single person.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "11 May 2024",
+    "ageInYears": 1,
+    "dimensions": "H-7cm, L-30cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "131745",
@@ -887,17 +887,6 @@
     "validTill": "01 May 2024",
     "ageInYears": 1,
     "dimensions": "190*100*26",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "132480",
-    "name": "Home bakes",
-    "description": "We are group of home bakers from FB SG Blessing Bakers. We would like to support charity for your mothers day celebrations. We have bakers at various locations and happy to support with cookies, muffins, brownies etc depending on baker. Charity to collect from Baker's home",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
