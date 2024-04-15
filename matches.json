@@ -459,40 +459,6 @@
     }
   },
   {
-    "id": "131702",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "1) Elderly lady recently fell down and requires a wheelchair for ambulation outside her home. Caregiver is currently using one she borrowed from a neighbor.\n2) Elderly man's wheelchair has wear and tear, recommended to get a new one instead of repairing it. \n\nCoordinator - Jiemei (81266854)",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Chen Jie Mei",
-      "email": "jiemei.chen@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Mar 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "132698",
-          "name": "Used wheelchair",
-          "description": "Used wheelchair in good/working condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "15 May 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "132677",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -884,6 +850,39 @@
           "validTill": "15 May 2024",
           "ageInYears": 4,
           "dimensions": "52x124x180.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "131987",
+    "category": "Home Furnishing",
+    "name": "Dressing Table",
+    "description": "Client is 69years old under SSO assistance, with chronic health condition. Her current dressing table is in poor condition and wishes to replace the table. Thank you in advance.",
+    "specifications": "L 50cm X W 80cm X H 73cm",
+    "contact": {
+      "org": "Care Corner - Community Case Management Service North",
+      "name": "Abby Soh",
+      "email": "abbysoh@carecorner.org.sg",
+      "phone": [
+        "65703919"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Mar 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "132703",
+          "name": "Dressing table",
+          "description": "Good spacing and storage",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "15 May 2024",
+          "ageInYears": 4,
+          "dimensions": "79x40x168cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
