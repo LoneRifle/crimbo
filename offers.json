@@ -77,17 +77,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "132451",
-    "name": "Tefal Rice cooker 1.8L",
-    "description": "Tefal RK7321, 1.8L White.  Purchased on 12 Jan 24.  In good condition. Non-Halal as I cooked pork in porridge before.   Preferred VWO location (punggol/sengkang/AMK).",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": "‎28.5 x 29.2 x 23 cm; 4 kg",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "132308",
     "name": "Air curtain",
     "description": "Delivery on weekday evening and weekend.",
@@ -119,6 +108,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "132682",
+    "name": "Toddler Bed - NEW",
+    "description": "Brand New toddler bed with mattress. All sides covered to prevent falling and comes with a step ladder.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": "200 x 80 x 40 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "132676",
@@ -205,17 +205,6 @@
     "validTill": "14 May 2024",
     "ageInYears": 1,
     "dimensions": "38 cm diameter",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132664",
-    "name": "Foldable Table",
-    "description": "For office and home use",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 May 2024",
-    "ageInYears": 4,
-    "dimensions": "120 x 60 x 75",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -746,6 +735,28 @@
     "dimensions": "190 x 85 x 10cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "132681",
+    "name": "Commode",
+    "description": "Commode",
+    "location": null,
+    "validTill": "15 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132680",
+    "name": "Hospital bed",
+    "description": "Hospital bed with mattress and air pump",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "132454",
