@@ -481,61 +481,6 @@
     }
   },
   {
-    "id": "132628",
-    "category": "Home Furnishing",
-    "name": "Single Bed",
-    "description": "Client is visually impaired, unemployed and has just moved into her new rental unit. She requires a single bed.",
-    "specifications": "Single Bed",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Farisha",
-      "email": "nurfarisha@allkin.org.sg",
-      "phone": [
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Apr 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "132729",
-          "name": "Single bed frame with mattress",
-          "description": "Almost brand new single bed, not used much",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "16 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "132534",
-          "name": "Foldable single sofa bed",
-          "description": "Blue foldable single sofa bed",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "01 May 2024",
-          "ageInYears": 1,
-          "dimensions": "190*100*26",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
-        {
-          "id": "132722",
-          "name": "Seahorse Super Single Bed Mattress",
-          "description": "Still wrapped in plastic",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Apr 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "132627",
     "category": "Home Furnishing",
     "name": "Single Bed",
@@ -638,6 +583,39 @@
           "validTill": "30 Apr 2024",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "132592",
+    "category": "Home Furnishing",
+    "name": "Queen size bed with mattress",
+    "description": "Current mattress has seen better day and require replacement. \n\nSole breadwinner is certified temporary unfit to work for 6 months and facing financial difficulties.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Li Wei Qiang",
+      "email": "liweiqiang@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "132732",
+          "name": "Queen size bed frame with mattress",
+          "description": "Queen size bed frame with mattress (must go together)",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "18 Apr 2024",
+          "ageInYears": 4,
+          "dimensions": "154cm x 204cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
