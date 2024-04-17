@@ -1,72 +1,5 @@
 [
   {
-    "id": "132573",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave oven",
-    "description": "Client has 4 kids and is currently pregnant with a baby. Client experiences caregiving and financial stress as her husband has variable income due to workplace injury affecting their household finances.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Chan Yvonne",
-      "email": "yvonne-chan@fycs.org",
-      "phone": [
-        "69783516",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Apr 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "132695",
-          "name": "Electric oven/grill (microwave function spoilt)",
-          "description": "NOTE: microwave function is spoilt. So can only use the functions that are NOT microwave related.\n\nPickup from my place. If nearby, I might be able to help to deliver",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "15 May 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "132506",
-    "category": "Electrical Home Appliances",
-    "name": "Oven",
-    "description": "Family of 3 stays in a rental flat. Their oven has recently short-circuited and is looking to get a new one to help in preparing food. Middle-aged daughter and elderly mother are working as delivery persons while father has health conditions that lead to difficulties in being employed.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Jana Lim",
-      "email": "jana.lim@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Apr 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "132695",
-          "name": "Electric oven/grill (microwave function spoilt)",
-          "description": "NOTE: microwave function is spoilt. So can only use the functions that are NOT microwave related.\n\nPickup from my place. If nearby, I might be able to help to deliver",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "15 May 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "132150",
     "category": "Electrical Home Appliances",
     "name": "Wall Fan",
@@ -125,17 +58,6 @@
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
           "validTill": "17 May 2024",
           "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "132695",
-          "name": "Electric oven/grill (microwave function spoilt)",
-          "description": "NOTE: microwave function is spoilt. So can only use the functions that are NOT microwave related.\n\nPickup from my place. If nearby, I might be able to help to deliver",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "15 May 2024",
-          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -263,6 +185,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "132760",
+          "name": "Hospital Bed",
+          "description": "Hospital bed with mattress",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "10 May 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         },
         {
           "id": "132268",
@@ -455,13 +388,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "132723",
-          "name": "Haylee Super Single Mattress",
-          "description": "Slightly stained",
+          "id": "132759",
+          "name": "Dunlopillo Super Single Bed Frame - with Mattress (not dunlopillo)",
+          "description": "Used by ex tenant only, good condition and steady.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Apr 2024",
-          "ageInYears": 3,
-          "dimensions": null,
+          "validTill": "17 May 2024",
+          "ageInYears": 4,
+          "dimensions": "209CM x 107CM x 102CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -508,6 +441,17 @@
           "dimensions": "190*100*26",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "132759",
+          "name": "Dunlopillo Super Single Bed Frame - with Mattress (not dunlopillo)",
+          "description": "Used by ex tenant only, good condition and steady.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "17 May 2024",
+          "ageInYears": 4,
+          "dimensions": "209CM x 107CM x 102CM",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -552,6 +496,17 @@
           "dimensions": "190*100*26",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "132759",
+          "name": "Dunlopillo Super Single Bed Frame - with Mattress (not dunlopillo)",
+          "description": "Used by ex tenant only, good condition and steady.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "17 May 2024",
+          "ageInYears": 4,
+          "dimensions": "209CM x 107CM x 102CM",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -619,40 +574,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "132136",
-    "category": "Kitchen Utility Items",
-    "name": "Oven",
-    "description": "Client is a mother of 5, children aged 1, 4,8,10, and 14. Together with her husband, the family stays in a 2-room rental flat. Husband used to be the sole income earner, with client taking charge of the household  chores and caregiving of children. However, he suffered a stroke towards the end of last year and had to stop work. Client has since started her own home baking business, whilst managing the multiple caregiving responsibilities at home, which includes both caring for children and husband. Client's oven broke down recently and she hopes to acquire a new oven to help keep her business running to supplement the household income. Oven will go straight to client to help her generate income to meet the basic needs at home.",
-    "specifications": "TEFAL OF2858 DELICE XL OVEN (39L)",
-    "contact": {
-      "org": "Touch Community Services - Touch Family Enablement",
-      "name": "Neo Xiao Hui",
-      "email": "xioahui.neo@touch.org.sg",
-      "phone": [
-        "63179990",
-        "63770122"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Mar 2024",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "132695",
-          "name": "Electric oven/grill (microwave function spoilt)",
-          "description": "NOTE: microwave function is spoilt. So can only use the functions that are NOT microwave related.\n\nPickup from my place. If nearby, I might be able to help to deliver",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "15 May 2024",
-          "ageInYears": 2,
-          "dimensions": null,
+          "id": "132759",
+          "name": "Dunlopillo Super Single Bed Frame - with Mattress (not dunlopillo)",
+          "description": "Used by ex tenant only, good condition and steady.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "17 May 2024",
+          "ageInYears": 4,
+          "dimensions": "209CM x 107CM x 102CM",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
