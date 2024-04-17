@@ -11,12 +11,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "132736",
-    "name": "Microwave",
-    "description": "LIKE BRAND NEW CONDITION",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "id": "132770",
+    "name": "Home Appliances",
+    "description": "To give away 2 rice cooker and 1 water heater. collect at block near Mayflower MRT.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "17 May 2024",
-    "ageInYears": 1,
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -165,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "132732",
-    "name": "Queen size bed frame with mattress",
-    "description": "Queen size bed frame with mattress (must go together)",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "18 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": "154cm x 204cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "132729",
     "name": "Single bed frame with mattress",
     "description": "Almost brand new single bed, not used much",
@@ -238,6 +227,17 @@
     "validTill": "07 May 2024",
     "ageInYears": 3,
     "dimensions": "40cms x 40cms x 90cms",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132765",
+    "name": "Grey 3 seater sofa",
+    "description": "Well used 3 seater microfibre sofa, has some wear and tear but still good enough to use for another few years.",
+    "location": "Marine Parade",
+    "validTill": "07 May 2024",
+    "ageInYears": 4,
+    "dimensions": "225 cms x 105 cms x 70 cms",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -427,28 +427,6 @@
     "dimensions": "3 seater",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "132749",
-    "name": "Chest of Drawers (4 Drawers)",
-    "description": "A Chest of Drawers of 4 Drawers.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "29 Apr 2024",
-    "ageInYears": 2,
-    "dimensions": "80cm(W) x 110cm(H) x 40cm(D)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132742",
-    "name": "Baby Items",
-    "description": "- Baby Bathtub\n- Brand new Baby Blanket\n- Assorted Baby toys",
-    "location": null,
-    "validTill": "20 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "132711",
