@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "132861",
+    "name": "Toaster",
+    "description": "Small toaster. Good for toasting slices of bread. China plug.",
+    "location": null,
+    "validTill": "02 May 2024",
+    "ageInYears": 3,
+    "dimensions": "35cm x 22cm x 20cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "132836",
     "name": "Refrigerator",
     "description": "Well-used fridge but fully functioning\n*request for the agency to bear the expenses for the collection and transportation of item",
@@ -130,6 +141,28 @@
     "dimensions": "120cmW x 20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "132862",
+    "name": "Reclining Chair",
+    "description": "Well used single reclining sofa. Recliner is well functioning. Comfortable cushioning. Colour is faded and patchy though.",
+    "location": null,
+    "validTill": "27 Apr 2024",
+    "ageInYears": 4,
+    "dimensions": "110cm(L) x 100cm(B) x 97cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132860",
+    "name": "Queen size bedframe with single pull out",
+    "description": "Queen size bedframe with single pull out\n\nHardly used.\n\nWidth 153cm\nLength 203cm\nBase height 40cm\nHeadboard height 96cm\n\nFor pull out bottom frame, it is single size",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "05 May 2024",
+    "ageInYears": 1,
+    "dimensions": "203 x 153 (LxB)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "132850",
@@ -429,17 +462,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "132844",
-    "name": "EPSON Ecotank Printer/Scan/Fax",
-    "description": "Excellent condition. Ecotank for economical ink usage. Black, white, colour. For scan, duplex printer and fax. Self-collect.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 May 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "132830",
     "name": "Computer table",
     "description": "Very good computer table. Adjustable height.\nWhatsApp if keen.",
@@ -465,28 +487,6 @@
     "id": "132856",
     "name": "Tena Diapers (Value L)",
     "description": "Have around 7 x tena diapers to donate.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "132855",
-    "name": "Hospicare wet wipes",
-    "description": "Around 12 packs of Hospicare wet wipes.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "132854",
-    "name": "Tena Wet Wipes",
-    "description": "Have about 9 packs of Tena wet wipes to donate.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "21 May 2024",
     "ageInYears": 1,
@@ -784,17 +784,6 @@
     "id": "132841",
     "name": "Monitor Stand",
     "description": "Monitor stand",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "21 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "132840",
-    "name": "Trolley Bag",
-    "description": "Brand new",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "21 May 2024",
     "ageInYears": 1,
