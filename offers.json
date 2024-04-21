@@ -1,5 +1,16 @@
 [
   {
+    "id": "132869",
+    "name": "CLOTHES",
+    "description": "SHIRTS & T SHIRTS",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "21 May 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "132650",
     "name": "Baby and 2-3yo girl clothes and shoes",
     "description": "Girl’s clothes and shoes from 0-3years old",
@@ -11,11 +22,11 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "132865",
-    "name": "Washer and Dryer 7.5kg",
-    "description": "Electrolux washer and dryer 7.5kg",
+    "id": "132866",
+    "name": "Fridge",
+    "description": "Collection will be in 8th May.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 May 2024",
+    "validTill": "26 Apr 2024",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -152,6 +163,28 @@
     "dimensions": "120cmW x 20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "132868",
+    "name": "IKEA bookshelf",
+    "description": "Bought from IKEA as is (patches) nut in good working condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "21 May 2024",
+    "ageInYears": 4,
+    "dimensions": "W60cm x D40cm x H64cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132867",
+    "name": "IKEA bookshelves",
+    "description": "Well used but in good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "21 May 2024",
+    "ageInYears": 4,
+    "dimensions": "W60cm x D30cm x H64cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "132863",
@@ -774,17 +807,6 @@
     "name": "900g of Nestle Thickenup Clear",
     "description": "A 900g pack of Nestle ThickenUp. Expiry October 2024.",
     "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "132846",
-    "name": "Towel",
-    "description": "Brand New Bath Towel x 50 pieces (various colours)",
-    "location": "Boon Lay, Jurong, Tuas",
     "validTill": "21 May 2024",
     "ageInYears": 1,
     "dimensions": null,
