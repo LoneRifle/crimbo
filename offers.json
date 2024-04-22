@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "132873",
+    "name": "Fridge, microwave oven and air fryer",
+    "description": "All working well",
+    "location": null,
+    "validTill": "23 Apr 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "132866",
     "name": "Fridge",
     "description": "Collection will be in 8th May.",
@@ -121,17 +132,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "132828",
-    "name": "Kdk 16\" standing fan",
-    "description": "Good working condition. Giving away as switched to ceiling fan.\nDetails see manufacturer spec\nhttps://www.kdk.sg/p40us.html",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "14 May 2024",
-    "ageInYears": 2,
-    "dimensions": "16\" fan height adjustable 129cm to 154cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "132826",
     "name": "Tefal Cake mixer -Brand new",
     "description": "Brand new. Unable to bear delivery cost as item quite heavy. Giving to someone who is in baking & running small biz.",
@@ -163,6 +163,39 @@
     "dimensions": "120cmW x 20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "132877",
+    "name": "Quuen Bed frame",
+    "description": "Queen Bed frame size, very good condition, moving to new place and not needed.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "24 Apr 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132876",
+    "name": "3seater sofa",
+    "description": "3 seater sofa, newly upholstered.",
+    "location": null,
+    "validTill": "01 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132874",
+    "name": "Scanteak sofa and coffee table set",
+    "description": "Very well maintained scanteak sofa and coffee table set",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "28 Apr 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "132870",
