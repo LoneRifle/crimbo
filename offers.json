@@ -165,6 +165,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "132892",
+    "name": "Single seat sofa",
+    "description": "Single seat sofa",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "132880",
     "name": "Office chair",
     "description": "Delivery on weekday evening and weekend.",
@@ -182,17 +193,6 @@
     "location": null,
     "validTill": "01 May 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132874",
-    "name": "Scanteak sofa and coffee table set",
-    "description": "Very well maintained scanteak sofa and coffee table set",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "28 Apr 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -418,17 +418,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "132845",
-    "name": "Baby Girl Clothes",
-    "description": "3-6 months baby girl clothes",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "132834",
     "name": "3 tins of Formula milk powder brand new unopened",
     "description": "2 tins of Kendamil Organic Stage 3 Cow Milk formula for 12-36 months toddler. Brand new unopened Best Before 13.03.2025\n\n1 tin of NAN Lactose Free Cow Milk formula suitable from birth. Brand new unopened Use by 30.06.2024",
@@ -517,6 +506,28 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "132896",
+    "name": "upright piano 30 years",
+    "description": "Will arrange for piano tuning after delivery. Piano cover is chipped in several places.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "22 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "132891",
+    "name": "Wooden rocking chair",
+    "description": "Wooden rocking chair",
+    "location": null,
+    "validTill": "22 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "132871",
     "name": "Upright piano",
     "description": "Young Chang piano in good condition. \nTuning done every 6 to 9 months. Last tuned 4 Jan 2024. \nHeater kept on 24/7.\nAble to support to grade 5 or as leisure. \nHope for it to find new owner who will cherish it.",
@@ -566,17 +577,6 @@
     "description": "Very new (less than 2 months) hospital bed and hospital chair.\nYou have to pay for delivery fee.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "132856",
-    "name": "Tena Diapers (Value L)",
-    "description": "Have around 7 x tena diapers to donate.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 May 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -658,6 +658,39 @@
     "dimensions": "190 x 85 x 10cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "132890",
+    "name": "Adjustable Toilet Safety Rail",
+    "description": "Toilet safety rail. See image for min/max dimensions. Brand new.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "20 May 2024",
+    "ageInYears": 1,
+    "dimensions": "Max L:41 x W:55 xH:73",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132889",
+    "name": "Bathroom Safety Rail",
+    "description": "Bathroom safety rail with base plate for stability. No drilling work required.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "20 May 2024",
+    "ageInYears": 1,
+    "dimensions": "W:51 cm D:53",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132888",
+    "name": "Walking Frame",
+    "description": "Foldable Walking frame - suitable for tall people. Brand new.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "20 May 2024",
+    "ageInYears": 1,
+    "dimensions": "H: Min 32”, Max 39”, W:24.5”",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "132803",
