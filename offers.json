@@ -33,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "132914",
-    "name": "Washer and Dryer 7.5kg",
-    "description": "Electrolux washer and dryer 7.5kg",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 May 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "132861",
     "name": "Toaster",
     "description": "Small toaster. Good for toasting slices of bread. China plug.",
@@ -132,6 +121,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "132929",
+    "name": "King size bed frame with mattress",
+    "description": "Ikea king size bed frame with 4 storage drawers and a king size mattress",
+    "location": null,
+    "validTill": "20 May 2024",
+    "ageInYears": 4,
+    "dimensions": "180x200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132928",
+    "name": "Office desk/Study desk",
+    "description": "Giving away Office/Study desk bought from Ikea 3 yrs ago. Is in very good condition. Just has some minor marker stains on it",
+    "location": null,
+    "validTill": "23 May 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "132892",
     "name": "Single seat sofa",
     "description": "Single seat sofa",
@@ -148,17 +159,6 @@
     "description": "Delivery on weekday evening and weekend.",
     "location": null,
     "validTill": "22 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132876",
-    "name": "3seater sofa",
-    "description": "3 seater sofa, newly upholstered.",
-    "location": null,
-    "validTill": "01 May 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -209,12 +209,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "132728",
-    "name": "dining table",
-    "description": "Sturdy wood dining table",
+    "id": "132930",
+    "name": "Single bed frame with mattress",
+    "description": "Almost brand new single bed, not used much",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "16 May 2024",
-    "ageInYears": 4,
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -396,17 +396,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "132834",
-    "name": "3 tins of Formula milk powder brand new unopened",
-    "description": "2 tins of Kendamil Organic Stage 3 Cow Milk formula for 12-36 months toddler. Brand new unopened Best Before 13.03.2025\n\n1 tin of NAN Lactose Free Cow Milk formula suitable from birth. Brand new unopened Use by 30.06.2024",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "20 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "132818",
     "name": "Baby Cot and Mattress",
     "description": "solid wood\nGood as new, no defects\n3 adjustable heights\nComes with base storage",
@@ -482,6 +471,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "132920",
+    "name": "Trolley",
+    "description": "Trolley",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "03 May 2024",
+    "ageInYears": 1,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "132896",
@@ -682,6 +682,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "132923",
+    "name": "Used commode",
+    "description": "Used commode in good/working condition.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "132699",
     "name": "Used walker",
     "description": "Used walker in good/working condition",
@@ -779,6 +790,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "132924",
+    "name": "Hospital bed",
+    "description": "The electric hospital bed comes with pressure relief mattress was used by my late father for about 1.5 month from Mar to Apr 2024.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "23 May 2024",
+    "ageInYears": 1,
+    "dimensions": "(210x100x60) cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "132919",
