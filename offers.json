@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "132979",
+    "name": "Tefal Pressure Cooker",
+    "description": "Pressure, Slow, RIce cooker all in 1",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "27 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "132882",
     "name": "Ventilation fan",
     "description": "KDK ventilation fans - 4 nos.\n\nDelivery on weekday evening and weekend.",
@@ -40,17 +51,6 @@
     "validTill": "02 May 2024",
     "ageInYears": 3,
     "dimensions": "35cm x 22cm x 20cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "132835",
-    "name": "Microwave",
-    "description": "Sharp Microwave oven in working condition.",
-    "location": null,
-    "validTill": "20 May 2024",
-    "ageInYears": 4,
-    "dimensions": "12 x 20 x 24 inches",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -121,12 +121,23 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "132961",
-    "name": "drawers",
-    "description": "A little water damage as it was caught in the rain during moving.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "23 May 2024",
-    "ageInYears": 4,
+    "id": "132977",
+    "name": "Rack",
+    "description": "Multipurpose rack",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "27 Apr 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132976",
+    "name": "Cabinet (Shoe/ Books)",
+    "description": "Multipurpose cabinet. Used for shoe cabinet and works fine.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "27 Apr 2024",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -137,17 +148,6 @@
     "description": "A little water damage on the bottom.",
     "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
     "validTill": "22 May 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132951",
-    "name": "desk drawer/rack",
-    "description": "the bottom wheels is a little weak",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "23 May 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -638,6 +638,39 @@
     "category": "Medical Aids"
   },
   {
+    "id": "132982",
+    "name": "Toilet chair",
+    "description": "Stable shower chair",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "24 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132981",
+    "name": "Toilet chair",
+    "description": "Chair with wheels to move to toilet. Opening on seat so need to transfer to toilet seat.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "24 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132980",
+    "name": "Walking frame",
+    "description": "Walking frame with changeable front wheels",
+    "location": null,
+    "validTill": "24 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "132890",
     "name": "Adjustable Toilet Safety Rail",
     "description": "Toilet safety rail. See image for min/max dimensions. Brand new.",
@@ -801,6 +834,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "132983",
+    "name": "Bedside rail",
+    "description": "For safety and pull up when wake up",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "24 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "132966",
