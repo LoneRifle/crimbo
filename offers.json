@@ -286,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "132934",
-    "name": "Cupboard",
-    "description": "Cupboard comes with 2 hanging rods and 3 wire baskets.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": "192cm x 60cm x 53cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "132668",
     "name": "High Chair",
     "description": "3 pieces of high/counter chairs in very good condition.",
@@ -457,6 +446,28 @@
     "location": null,
     "validTill": "11 May 2024",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "132998",
+    "name": "Bed guard/rail",
+    "description": "Mesh/cloth barrier can be removed for washing",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "04 May 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "132999",
+    "name": "Bed guard/rail",
+    "description": "Mesh/cloth barrier can be removed for washing",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "04 May 2024",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
