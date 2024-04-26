@@ -1,16 +1,5 @@
 [
   {
-    "id": "133038",
-    "name": "Undergarments",
-    "description": "BRAND NEW undergarments (brassiere)",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "132869",
     "name": "CLOTHES",
     "description": "SHIRTS & T SHIRTS",
@@ -374,6 +363,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "133063",
+    "name": "Green Sofa with settee",
+    "description": "Cloth sofa with settee",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 May 2024",
+    "ageInYears": 4,
+    "dimensions": "190 x 90 x 117",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "132462",
     "name": "LOFT BED WITH STORAGE",
     "description": "IKEA loft bed frames with storage (2 sets).\nNeeds to be dismantled.",
@@ -526,17 +526,6 @@
     "dimensions": "1.5m X 30cm X 20cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
-  },
-  {
-    "id": "132969",
-    "name": "New Induction cooking pot",
-    "description": "Brand new induction cooking pot to bless. The measurement is in one of the picture.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "24 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
   },
   {
     "id": "132920",
