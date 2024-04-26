@@ -1,5 +1,16 @@
 [
   {
+    "id": "133038",
+    "name": "Undergarments",
+    "description": "BRAND NEW undergarments (brassiere)",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "132869",
     "name": "CLOTHES",
     "description": "SHIRTS & T SHIRTS",
@@ -20,6 +31,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "133043",
+    "name": "Slow Cooker",
+    "description": "1.1L capacity, almost new",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "132882",
@@ -121,32 +143,10 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "133010",
-    "name": "Hot Water Flask",
-    "description": "Brand new",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "132960",
     "name": "4x4 shelf from Ikea",
     "description": "A little water damage on the bottom.",
     "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "22 May 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132892",
-    "name": "Single seat sofa",
-    "description": "Single seat sofa",
-    "location": "Boon Lay, Jurong, Tuas",
     "validTill": "22 May 2024",
     "ageInYears": 4,
     "dimensions": null,
@@ -271,17 +271,6 @@
     "validTill": "30 Apr 2024",
     "ageInYears": 4,
     "dimensions": "2010cm x 990cm x 1650cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132933",
-    "name": "Cupboard",
-    "description": "Cupboard comes with 2 hanging rods and 3 wire baskets.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": "192cm x 60cm x 53cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -550,6 +539,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "133039",
+    "name": "Exercise Machine - X Trainer",
+    "description": "Barely used, very good condition",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "132896",
     "name": "upright piano 30 years",
     "description": "Will arrange for piano tuning after delivery. Piano cover is chipped in several places.",
@@ -616,6 +616,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "133040",
+    "name": "Commode",
+    "description": "Barely used, almost new Commode",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "132898",
     "name": "Hospital Bed",
     "description": "New Hospital Bed. Never been used.",
@@ -660,6 +671,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "133037",
+    "name": "Walker Frame (Foldable)",
+    "description": "Very lightly used walking frame",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "133034",
+    "name": "Geriatic Chair with removable table",
+    "description": "Barely used, very clean Geriatic Chair",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "133024",
     "name": "Wheelchair",
     "description": "Wheelchair",
@@ -674,17 +707,6 @@
     "id": "133023",
     "name": "Wheelchair",
     "description": "Wheelchair (good for travel)",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "133022",
-    "name": "Geriatic Chair with removable table",
-    "description": "Geriatic Chair with removable table",
     "location": null,
     "validTill": "30 Apr 2024",
     "ageInYears": 1,
@@ -889,6 +911,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "133035",
+    "name": "Exercise Machine",
+    "description": "Exercise machine to strengthen the leg muscles. Compact and easy to use.",
+    "location": null,
+    "validTill": "30 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "132983",
