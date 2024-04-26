@@ -246,5 +246,39 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "132925",
+    "category": "Home Furnishing",
+    "name": "Queen Size Bed + Frame",
+    "description": "Family residing at Telok Blangah has 5 young children aged 6 and below. The family is seeking a queen size bed to replace the children's sleeping space. Their current bed is in bad condition as a child vomited multiple times on the bed resulting in a foul smell. Delivery assistance is required as the family is unable to afford the delivery fees.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Joyce Cheong",
+      "email": "joyce_cheong@msf.gov.sg",
+      "phone": [
+        "63733981",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133055",
+          "name": "Queen Size Bed Frame with Storage",
+          "description": "This is a queen size bed frame with storage. (excluding mattress)",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "10 May 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
