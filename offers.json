@@ -121,6 +121,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "133077",
+    "name": "Queen Size Mattress",
+    "description": "Still new and good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "04 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "133076",
+    "name": "Front desk counter",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "28 May 2024",
+    "ageInYears": 2,
+    "dimensions": "120cmLx50cmWx100cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "133055",
     "name": "Queen Size Bed Frame with Storage",
     "description": "This is a queen size bed frame with storage. (excluding mattress)",
@@ -372,6 +394,17 @@
     "dimensions": "3 seater",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "133075",
+    "name": "IKEA toddler mattress",
+    "description": "Ikea mattress suitable for young children.",
+    "location": null,
+    "validTill": "28 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "133030",
