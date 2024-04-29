@@ -1,30 +1,31 @@
 [
   {
-    "id": "132506",
+    "id": "133152",
     "category": "Electrical Home Appliances",
-    "name": "Oven",
-    "description": "Family of 3 stays in a rental flat. Their oven has recently short-circuited and is looking to get a new one to help in preparing food. Middle-aged daughter and elderly mother are working as delivery persons while father has health conditions that lead to difficulties in being employed.",
+    "name": "Standing fan",
+    "description": "Low-income family is relocating to a HDB 2-room rental flat. However, their current furniture has fallen into disparity and no longer suitable for the relocation.\n\nTo contact social worker Kathryn Chia via kathrynchia@thkmc.org.sg or WhatsApp 88554012 for delivery details. Donor is to absorb delivery cost.",
     "specifications": null,
     "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Jana Lim",
-      "email": "jana.lim@montfortcare.org.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
       "phone": [
-        "64450100"
+        "64961272",
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "08 Apr 2024",
+    "date": "29 Apr 2024",
     "matches": {
       "passiton": [
         {
-          "id": "133093",
-          "name": "Panasonic 3-in-1 Oven",
-          "description": "3 in 1 over - Microwave, Grill & Steam",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "24 May 2024",
-          "ageInYears": 2,
-          "dimensions": null,
+          "id": "133155",
+          "name": "standing fan",
+          "description": "The elderly couple is donating the fan, they are unable to pay for delivery charges.,",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 May 2024",
+          "ageInYears": 1,
+          "dimensions": "standing fan stad size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -163,6 +164,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "133153",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Low-income family is relocating to a HDB 2-room rental flat. However, their current furniture has fallen into disparity and no longer suitable for the relocation.\n\nTo contact social worker Kathryn Chia via kathrynchia@thkmc.org.sg or WhatsApp 88554012 for delivery details. Donor is to absorb delivery cost.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133149",
+          "name": "Sofa",
+          "description": "Sofa bought secondhand a year ago but still in good condition. Can easily seat 4 people or more.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "14 May 2024",
+          "ageInYears": 4,
+          "dimensions": "180x260cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "132831",
+          "name": "sofa set",
+          "description": "sofa set which can be taken separately. 2 single seaters, 1 double seater, 1 coffee table",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "16 May 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
