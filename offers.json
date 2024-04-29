@@ -66,6 +66,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "133167",
+    "name": "Ventilation fan",
+    "description": "I have 2 KDK ventilation fans left to donate.\n\nDelivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "30 May 2024",
+    "ageInYears": 1,
+    "dimensions": "30cmWx30cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "133156",
     "name": "Garment steamer",
     "description": "An elderly couple is having this brand new item, and they are unable to pay for delivery, need to collect from their residence",
@@ -84,17 +95,6 @@
     "validTill": "10 May 2024",
     "ageInYears": 1,
     "dimensions": "standing fan stad size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "133043",
-    "name": "Slow Cooker",
-    "description": "1.1L capacity, almost new",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -150,17 +150,6 @@
     "validTill": "11 May 2024",
     "ageInYears": 1,
     "dimensions": "4L",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "132308",
-    "name": "Air curtain",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 2,
-    "dimensions": "120cmW x 20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -275,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "133011",
-    "name": "Thermo Flask",
-    "description": "350ml capacity Thermo Flask",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "132960",
     "name": "4x4 shelf from Ikea",
     "description": "A little water damage on the bottom.",
@@ -326,17 +304,6 @@
     "validTill": "16 May 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "132942",
-    "name": "Toddler Bed - NEW",
-    "description": "Brand New toddler bed with mattress. All sides covered to prevent falling and comes with a step ladder.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": "200 x 80 x 40 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -407,17 +374,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "132228",
-    "name": "Couch",
-    "description": "Ok 3 seater sofa bed / middle seat is torn and not sturdy",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": "3 seater",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "133129",
     "name": "White Adjustable Baby Cot / Child Bed w Mattress",
     "description": "Baby cot with mattress. Convertible into child bed. Adjustable height. Wheels. Guard rail",
@@ -451,39 +407,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "133014",
-    "name": "Baby Bouncer",
-    "description": "Preloved Baby Bouncer",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "133009",
-    "name": "Mittens and Booties",
-    "description": "Very lightly used",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "133007",
-    "name": "Baby Bottles - Pureen",
-    "description": "Brand new",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "132964",
     "name": "IKEA baby high chair",
     "description": "Very good condition. Only seat turns greyish due to aging",
@@ -502,17 +425,6 @@
     "validTill": "23 May 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "132818",
-    "name": "Baby Cot and Mattress",
-    "description": "solid wood\nGood as new, no defects\n3 adjustable heights\nComes with base storage",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": "100 x 60",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -561,17 +473,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "133039",
-    "name": "Exercise Machine - X Trainer",
-    "description": "Barely used, very good condition",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "132896",
     "name": "upright piano 30 years",
     "description": "Will arrange for piano tuning after delivery. Piano cover is chipped in several places.",
@@ -605,17 +506,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "132304",
-    "name": "Children scooter",
-    "description": "There’s a seat if I can find it, can send together. Otherwise would be just the scooter. I just wash — photos are before wash.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "132830",
     "name": "Computer table",
     "description": "Very good computer table. Adjustable height.\nWhatsApp if keen.",
@@ -644,17 +534,6 @@
     "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "26 May 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "133040",
-    "name": "Commode",
-    "description": "Barely used, almost new Commode",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
@@ -693,17 +572,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "132550",
-    "name": "Hoist Transfer",
-    "description": "For Transfer of patient.",
-    "location": "Hougang",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "133079",
     "name": "White (walking) stick",
     "description": "Standard white collapsible stick\n\nIf location at woodland or  Bedok, will send to needy.",
@@ -721,28 +589,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "26 May 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "133037",
-    "name": "Walker Frame (Foldable)",
-    "description": "Very lightly used walking frame",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "133023",
-    "name": "Wheelchair",
-    "description": "Wheelchair (good for travel)",
-    "location": null,
-    "validTill": "30 Apr 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -799,17 +645,6 @@
     "validTill": "20 May 2024",
     "ageInYears": 1,
     "dimensions": "W:51 cm D:53",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "132803",
-    "name": "Hospital Bed",
-    "description": "4 wheels. Use remote control change different alleviations for patient to sleep or sit up.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "30 Apr 2024",
-    "ageInYears": 4,
-    "dimensions": "96cm by 210cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
