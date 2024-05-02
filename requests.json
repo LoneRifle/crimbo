@@ -1,17 +1,51 @@
 [
   {
-    "id": "133252",
+    "id": "133260",
     "category": "Electrical Home Appliances",
-    "name": "Table Fan",
-    "description": "Client visually impaired with no children and is a caregiver to wife who has mobility difficulty and multiple chronic condition, unable to get a new fan on his own. Client also has a low income but refused financial aid and is selling tissue to supplement silver support income.",
-    "specifications": "~< 50 cm",
+    "name": "Standing Fan",
+    "description": "Family of 2 schooling children, aged 18 and 16. Ct is a single mother with limited income. Her current standing fan has spoilt. She does not have financial resources to buy a new one.",
+    "specifications": null,
     "contact": {
-      "org": "NTUC Health Cluster Support @ Bukit Merah",
-      "name": "Jordan Kek",
-      "email": "jordan.k@ntuchealth.sg",
+      "org": "Whampoa Family Service Centre",
+      "name": "Tan Limin",
+      "email": "tanlimin@kkcs.org.sg",
       "phone": [
-        "97978057",
-        "62741602"
+        "63260308",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 May 2024"
+  },
+  {
+    "id": "133257",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family is a single mother household, struggling to work alongside the caregiving commitments of her 30 month old toddler. She has been finding it difficult to make ends meet, as her young child has poor immunity and falls sick often, and has to fend for medical costs for her child's needs.\nShe is in need of a washing machine as her current one is faulty, and has only been able to hand wash her child's school uniforms.",
+    "specifications": null,
+    "contact": {
+      "org": "Whispering Hearts Family Service Centre",
+      "name": "Tee Hui Wen",
+      "email": "huiwen@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 May 2024"
+  },
+  {
+    "id": "133255",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "This a family of 7 (of 5 school-going children) living in a 2-room HDB rental unit. Due to low income and large family, PCI is low and the family struggle with large expenses. Recently, their fridge had gone faulty and they are hoping to receive a donation for a second-hand fridge (preferably Halal).",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Clarice Lim",
+      "email": "claricelim@allkin.org.sg",
+      "phone": [
+        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -63,24 +97,6 @@
       "email": "annling@carecorner.org.sg",
       "phone": [
         "63622481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 May 2024"
-  },
-  {
-    "id": "133241",
-    "category": "Electrical Home Appliances",
-    "name": "portable aircon",
-    "description": "Client is an elderly man living with his son. Recently, client's air condition broke and he is not able to afford the cost of repairing the whole air condition system, which amounts to $2000. Client has multiple health issues, including mobility and eyesight problems, he is also going for dialysis many times a week. He is feeling affected by the recent hot weather and only has a single stnading fan. His son is unwilling to purchase another fan for client and he claimed the clivate voucher with the intention of using it for himself. Hence, client would benefit from a portable air conditioner to cool his room down and help him sleep better and cope with his health issues.",
-    "specifications": null,
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Samuel Lim",
-      "email": "samuellim@kkcs.org.sg",
-      "phone": [
-        "63260316",
-        "63260300"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1720,6 +1736,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "04 Apr 2024"
+  },
+  {
+    "id": "133258",
+    "category": "Others",
+    "name": "Groceries",
+    "description": "Mdm Lin and her family has been facing financial difficulties since Mdm Lin experienced a scam that resulted in a loss of her life savings. Mdm Lin has many dependents on her, and would appreciate help with her household needs.",
+    "specifications": "Groceries",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Jeanie Ho",
+      "email": "jeanieho@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 May 2024"
   },
   {
     "id": "133239",
@@ -3831,6 +3864,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "01 Apr 2024"
+  },
+  {
+    "id": "133259",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family of 2 schooling children, aged 18 and 16. Ct is a single mother with limited income. Her current wardrobe is too small for the family. She would like to request for a wardrobe with 2 sliding doors and preferably with shelves on the inside.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Tan Limin",
+      "email": "tanlimin@kkcs.org.sg",
+      "phone": [
+        "63260308",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 May 2024"
+  },
+  {
+    "id": "133256",
+    "category": "Home Furnishing",
+    "name": "L Shaped Sofa",
+    "description": "Hi all, my elderly client is in her 80s hoping to get a furnished sofa as her sofa is spoilt. She has thrown the sofa out so it will be good if the sofa can be sent over ASAP. Kindly contact me @ 9642 3618 if you have a lobang! Thank you very much",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Christy Lim",
+      "email": "christylim@fycs.org",
+      "phone": [
+        "96423618",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 May 2024"
   },
   {
     "id": "133253",
