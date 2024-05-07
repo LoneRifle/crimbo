@@ -28,17 +28,6 @@
           "dimensions": "120cm by 80cm by 75cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "133210",
-          "name": "Extendable Dining Table (extends to 180cm)",
-          "description": "Extendable Dining Table. Heavy! But in good condition. Has a induction piece when extended.\n\nTable legs are currently disassembled for easier transport.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -167,68 +156,44 @@
     }
   },
   {
-    "id": "132990",
+    "id": "132506",
     "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Single mother parent with 4 school going children. Family recently receive their rental flat but faces financial struggles in preparing for her new rental flat",
+    "name": "Oven",
+    "description": "Family of 3 stays in a rental flat. Their oven has recently short-circuited and is looking to get a new one to help in preparing food. Middle-aged daughter and elderly mother are working as delivery persons while father has health conditions that lead to difficulties in being employed.",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Joel Tay",
-      "email": "joeltay@amkfsc.org.sg",
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Jana Lim",
+      "email": "jana.lim@montfortcare.org.sg",
       "phone": [
-        "65536643",
-        "64535349"
+        "64450100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "24 Apr 2024",
+    "date": "08 Apr 2024",
     "matches": {
       "passiton": [
         {
-          "id": "133362",
-          "name": "TV Console",
-          "description": "Well-maintained TV console (wood)",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "20 May 2024",
-          "ageInYears": 4,
+          "id": "133372",
+          "name": "Like new oven + hood and cooker",
+          "description": "Oven: 60cm length x 54cm depth x 58cm height\n- condition: 10/10 never used. no defects as far as I can see.\n\nHood: 90cm length x 49cm depth x 14cm height (tcm for hood function)\n- condition: 9/10 need to change steel filter for hygiene purposes. minimal scratches, buttons are all functional . \n\nCooker: 77cm length x 51cm depth x 2cm height\n- condition: 8/10 in need of a good clean but no food stuck/no cracks at all \n\nVwo pls arrange courier as I'm tight with finances too.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 May 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "132774",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "An elderly individual residing in a rental unit and deemed unable to work, is looking for a television and a 2-3-way multi-plug extension. Please contact me at 8859 5662 if you need more information. Thank you for your support.",
-    "specifications": null,
-    "contact": {
-      "org": "Viriya Family Service Centre",
-      "name": "Grace Ang",
-      "email": "grace_ang@viriya.org.sg",
-      "phone": [
-        "62855033",
-        "62858033"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Apr 2024",
-    "matches": {
-      "passiton": [
+          "category": "Kitchen Utility Items"
+        },
         {
-          "id": "133362",
-          "name": "TV Console",
-          "description": "Well-maintained TV console (wood)",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "20 May 2024",
-          "ageInYears": 4,
+          "id": "133371",
+          "name": "Like new oven + hood and cooker",
+          "description": "Oven: 60cm length x 54cm depth x 58cm height\n- condition: 10/10 never used. no defects as far as I can see.\n\nHood: 90cm length x 49cm depth x 14cm height (tcm for hood function)\n- condition: 9/10 need to change steel filter for hygiene purposes. minimal scratches, buttons are all functional . \n\nCooker: 77cm length x 51cm depth x 2cm height\n- condition: 8/10 in need of a good clean but no food stuck/no cracks at all \n\nVwo pls arrange courier as I'm tight with finances too.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 May 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Kitchen Utility Items"
         }
       ],
       "carousell": []
