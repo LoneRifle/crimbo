@@ -99,34 +99,34 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "133440",
+    "name": "Queen size mattress",
+    "description": "Used for 2 months. Spotless and very good quality mattress with spring, foam and latex layers. Please note that transportation fees are not covered, to be paid by receiver.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "17 May 2024",
+    "ageInYears": 1,
+    "dimensions": "150 x 190 x 25",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "133437",
+    "name": "Dining Table",
+    "description": "HipVan dining table, sits up to 8 people (6 people comfortably). Has been lightly used, but well looked after.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "22 May 2024",
+    "ageInYears": 2,
+    "dimensions": "90cm wide by 160cm long",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "133430",
     "name": "single metal bed frame",
     "description": "suitable for single bed mattress",
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "07 Jun 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133429",
-    "name": "Queen size bed c/w mattress",
-    "description": "Small area slightly stain",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "07 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133426",
-    "name": "New pillow & pillow case",
-    "description": "Brand new.",
-    "location": null,
-    "validTill": "07 Jun 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -238,17 +238,6 @@
     "validTill": "05 Jun 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133327",
-    "name": "King size bed",
-    "description": "King Bed. good condition. moving house",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "24 May 2024",
-    "ageInYears": 4,
-    "dimensions": "190cmx210cmx45cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -462,6 +451,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "133439",
+    "name": "Baby/ toddler clothes",
+    "description": "I have few bag of the baby/toddler clothes need to donate to someone who need them.",
+    "location": null,
+    "validTill": "28 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "133324",
     "name": "Baby cot",
     "description": "Wooden baby cot dismantled",
@@ -583,17 +583,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "133191",
-    "name": "Printer",
-    "description": "Printer and scanner. Fairly basic model. Need to change ink cartridge. Will provide one new cartridge",
-    "location": null,
-    "validTill": "30 May 2024",
-    "ageInYears": 4,
-    "dimensions": "45cm length x 36cm breadth x 12 cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "132643",
     "name": "A-frame blackboard",
     "description": "Delivery on weekday evening and weekend.",
@@ -622,6 +611,17 @@
     "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "26 May 2024",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "133438",
+    "name": "Hospital Bed",
+    "description": "New Hospital Bed. Never been used.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2024",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
