@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "133511",
+    "name": "2-seater sofa",
+    "description": "Recipient to pay for transportation cost",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "133497",
     "name": "10 seater table and 8 chairs",
     "description": "Heavy table with 8 chairs",
@@ -117,17 +128,6 @@
     "validTill": "31 May 2024",
     "ageInYears": 4,
     "dimensions": "120cm x 40cm x 38cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133468",
-    "name": "Single bed",
-    "description": "Good condition single bed except for some peeling off at the bottom side.",
-    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
-    "validTill": "16 May 2024",
-    "ageInYears": 4,
-    "dimensions": "190x110x30",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -216,17 +216,6 @@
     "validTill": "03 Jun 2024",
     "ageInYears": 4,
     "dimensions": "45cm (L) x 60cm (w) x 90cm (h)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133317",
-    "name": "Armchair",
-    "description": "Armchairs in good condition",
-    "location": "Pasir Ris",
-    "validTill": "31 May 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -392,17 +381,6 @@
     "validTill": "09 Jun 2024",
     "ageInYears": 4,
     "dimensions": "135x75x110",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "133462",
-    "name": "Mamy Poko Tape Diapers XXL",
-    "description": "Diapers are unopened and bought in 2023.",
-    "location": null,
-    "validTill": "06 Jun 2024",
-    "ageInYears": 3,
-    "dimensions": "XXL",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -660,6 +638,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "133515",
+    "name": "Walking frame",
+    "description": "Clean, used it only indoor area",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "133514",
+    "name": "Commode",
+    "description": "Clean, no damaged",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "133212",
     "name": "Transfer Aid Chair",
     "description": "The Height Adjustable Easy Transfer Chair makes transferring easy and reduces strain. This innovative design has reinvented patient transfer by minimising the movement of the user, while allowing caregivers to avoid back strain from carrying out transfers daily.",
@@ -724,17 +724,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "133498",
-    "name": "printer",
-    "description": "printers",
-    "location": null,
-    "validTill": "20 May 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "133361",
