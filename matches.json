@@ -64,6 +64,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "133588",
+          "name": "King-size mattress(used only 1year)",
+          "description": "Hippomatt king-size\nUsed for only 1 year.\n\nWe are moving out on 24th May.\nWe appreciate if you can accept the mattress exactly on 24th May.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 May 2024",
+          "ageInYears": 1,
+          "dimensions": "182㎝×190㎝",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "133569",
           "name": "Bed with mattress and study table",
           "description": "Bed with mattress and study table.  Still in very good condition",
@@ -106,6 +117,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "133589",
+          "name": "Kid's bed with mattress",
+          "description": "IKEA- MINNEN\nExt bed frame with slatted bed base, light pink, 80x200 cm\n*Used only 1 year\n\nWe are welcome to let go the bed any time until 20th May.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 May 2024",
+          "ageInYears": 1,
+          "dimensions": "80×200",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "133506",
@@ -152,6 +174,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "133588",
+          "name": "King-size mattress(used only 1year)",
+          "description": "Hippomatt king-size\nUsed for only 1 year.\n\nWe are moving out on 24th May.\nWe appreciate if you can accept the mattress exactly on 24th May.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 May 2024",
+          "ageInYears": 1,
+          "dimensions": "182㎝×190㎝",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "133569",
           "name": "Bed with mattress and study table",
           "description": "Bed with mattress and study table.  Still in very good condition",
@@ -196,6 +229,17 @@
           "category": "Infant and Children Items"
         },
         {
+          "id": "133589",
+          "name": "Kid's bed with mattress",
+          "description": "IKEA- MINNEN\nExt bed frame with slatted bed base, light pink, 80x200 cm\n*Used only 1 year\n\nWe are welcome to let go the bed any time until 20th May.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 May 2024",
+          "ageInYears": 1,
+          "dimensions": "80×200",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "133506",
           "name": "Brown solid wood baby cot with mattress",
           "description": "has some teeth marks on the two ends of the cot.\nsolid wood. can lower as a bed.",
@@ -205,6 +249,40 @@
           "dimensions": "135x75x110",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "133204",
+    "category": "Home Furnishing",
+    "name": "Bed frame",
+    "description": "A family of 4 who is recently displaced and staying at a temporary shelter. Due to financial constraints, they are unable to afford a bed frame.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133587",
+          "name": "Bed frame",
+          "description": "Super single bed frame",
+          "location": null,
+          "validTill": "20 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -240,6 +318,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "133588",
+          "name": "King-size mattress(used only 1year)",
+          "description": "Hippomatt king-size\nUsed for only 1 year.\n\nWe are moving out on 24th May.\nWe appreciate if you can accept the mattress exactly on 24th May.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 May 2024",
+          "ageInYears": 1,
+          "dimensions": "182㎝×190㎝",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "133569",
           "name": "Bed with mattress and study table",
           "description": "Bed with mattress and study table.  Still in very good condition",
@@ -284,6 +373,17 @@
           "category": "Infant and Children Items"
         },
         {
+          "id": "133589",
+          "name": "Kid's bed with mattress",
+          "description": "IKEA- MINNEN\nExt bed frame with slatted bed base, light pink, 80x200 cm\n*Used only 1 year\n\nWe are welcome to let go the bed any time until 20th May.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 May 2024",
+          "ageInYears": 1,
+          "dimensions": "80×200",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "133506",
           "name": "Brown solid wood baby cot with mattress",
           "description": "has some teeth marks on the two ends of the cot.\nsolid wood. can lower as a bed.",
@@ -293,6 +393,51 @@
           "dimensions": "135x75x110",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "133590",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is a mother of 5, children aged 1, 4,8,10, and 14. Together with her husband, the family stays in a 2-room rental flat. Husband used to be the sole income earner, with client taking charge of the household chores and caregiving of children. However, he suffered a stroke towards the end of last year and had to stop work. Client has since started her own home baking business, whilst managing the multiple caregiving responsibilities at home, which includes both caring for children and husband. Client's oven broke down recently and she hopes to acquire a new oven to help keep her business running to supplement the household income. Oven will go straight to client to help her generate income to meet the basic needs at home.",
+    "specifications": "TEFAL OF2858 DELICE XL OVEN (39L)",
+    "contact": {
+      "org": "Touch Community Services - Touch Family Enablement",
+      "name": "Neo Xiao Hui",
+      "email": "xioahui.neo@touch.org.sg",
+      "phone": [
+        "63179990",
+        "63770122"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133372",
+          "name": "Like new oven + hood and cooker",
+          "description": "Oven: 60cm length x 54cm depth x 58cm height\n- condition: 10/10 never used. no defects as far as I can see.\n\nHood: 90cm length x 49cm depth x 14cm height (tcm for hood function)\n- condition: 9/10 need to change steel filter for hygiene purposes. minimal scratches, buttons are all functional . \n\nCooker: 77cm length x 51cm depth x 2cm height\n- condition: 8/10 in need of a good clean but no food stuck/no cracks at all \n\nVwo pls arrange courier as I'm tight with finances too.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        },
+        {
+          "id": "133371",
+          "name": "Like new oven + hood and cooker",
+          "description": "Oven: 60cm length x 54cm depth x 58cm height\n- condition: 10/10 never used. no defects as far as I can see.\n\nHood: 90cm length x 49cm depth x 14cm height (tcm for hood function)\n- condition: 9/10 need to change steel filter for hygiene purposes. minimal scratches, buttons are all functional . \n\nCooker: 77cm length x 51cm depth x 2cm height\n- condition: 8/10 in need of a good clean but no food stuck/no cracks at all \n\nVwo pls arrange courier as I'm tight with finances too.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
         }
       ],
       "carousell": []
