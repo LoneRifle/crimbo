@@ -1,5 +1,57 @@
 [
   {
+    "id": "133564",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Single mother of 5 children. Client's current wardrobe for her children's clothes is spoilt, and she requires another one in good condition.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Grace Lim",
+      "email": "gracelim@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "131261",
+    "category": "Home Furnishing",
+    "name": "Metal Cabinet",
+    "description": "Sunbeam Place @ Children's Society requires 1pc of Metal cabinet with lock, for storage of sports equipment for children.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133559",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Single father staying with 2 young daughters requires a sofa bed to replace the current faulty one. A sofa bed is suitable for the family due to space constraint. Father is working part-time due to health conditions and unable to afford a replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Ye Jiancheng",
+      "email": "jiancheng@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
     "id": "133544",
     "category": "Home Furnishing",
     "name": "Leather Sofa",
@@ -402,24 +454,6 @@
     "date": "03 May 2024"
   },
   {
-    "id": "133273",
-    "category": "Home Furnishing",
-    "name": "Dining Table",
-    "description": "Sunbeam Place @ Children's Society requires 1 dining table with 8 seater with noi preferenace of brand for the residential home.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 May 2024"
-  },
-  {
     "id": "133271",
     "category": "Home Furnishing",
     "name": "Study Tables",
@@ -667,23 +701,6 @@
     "date": "29 Apr 2024"
   },
   {
-    "id": "133082",
-    "category": "Home Furnishing",
-    "name": "Double Decker Bed",
-    "description": "Single mother staying with 4 young children, requires a double decker bed for the children. Double decker bed would be useful to save on space at home. Family has tight financial situation as mother is currently not working and under financial assistance, unable to afford to buy a double decker bed.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Ye Jiancheng",
-      "email": "jiancheng@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Apr 2024"
-  },
-  {
     "id": "133070",
     "category": "Home Furnishing",
     "name": "Single Bed Bunk",
@@ -822,6 +839,113 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "16 Apr 2024"
+  },
+  {
+    "id": "131259",
+    "category": "Others",
+    "name": "CAMPING BEDS",
+    "description": "Sunbeam Place @ Children's Society requires 5pcs of Camping Bed Basic Camp Bed 60 cm for the residents usage for camping activities.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "131258",
+    "category": "Others",
+    "name": "Hiking Camping Equipment Terrain Transport Trolley",
+    "description": "Sunbeam Place @ Children's Society requires 2pcs of Nature Hiking Camping Equipment Terrain Transport Trolley Quechua for the home.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "131257",
+    "category": "Others",
+    "name": "Foldable Chair",
+    "description": "Sunbeam Place @ Children's Society requires 3pcs of Mountain Hiking Low Folding Camping Chair Quecha MH100 - Blue for the home.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133560",
+    "category": "Others",
+    "name": "Glucolin Glucose",
+    "description": "Mother is a single-mother, caring for 2 young children. She had recently loss her employment and is medically unwell to secure full-time job. Her daughter is taking glucose powder for her everyday nutrition. This has helped her with her health. As she have no more income, she is facing financial constraints to purchase this item for her daughter's well-being.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133555",
+    "category": "Others",
+    "name": "Groceries",
+    "description": "This is a family of 5. As the family is struggling to make ends meet due to elderly and 2 young children staying in the house, they will need some support for groceries this month. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133552",
+    "category": "Others",
+    "name": "Art Materials",
+    "description": "The client is a single mother (F34) who resides with her biological daughter (F8), elderly parents (F64 and M68) and her sister (F29). The client has faced difficulties in getting her ex-husband to comply with the terms stated in their final judgement of divorce, and the impact of his non-compliance has led to difficulties in client being eligible for aid programs. Despite the client working 2 jobs, she faces financial difficulties in meeting her and her daughter's needs. This has contributed to high feelings of stress and anxiety. Due to the family's difficulties in applying for financial assistance schemes, the client also has insufficient financial resources to pay for school-related materials (i.e. daughter's art and craft CCA materials), which has also affected her daughter's ability to be meaningfully engaged in school.",
+    "specifications": "Art Materials",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
   },
   {
     "id": "133519",
@@ -1689,28 +1813,61 @@
     "date": "12 Apr 2024"
   },
   {
-    "id": "133551",
+    "id": "133562",
     "category": "Electrical Home Appliances",
-    "name": "Standing fan",
-    "description": "Client is living with her husband and 3 children. Her eldest child is 21y/o with moderate intellectual disability and warded in IMH due to his aggressive behaviours. Client needs a new standing fan as the current blade has broken. Husband works as a cleaner and part-time GRAB delivery and struggles keeping the family finances afloat, let alone purchasing new household items for the family.",
+    "name": "Washing machine",
+    "description": "Family has 3 young children and they do not have enough financial resources to replace their washing machine. This is a single income family as one of the parent is required to care for the 3rd child (newborn) before being admitted to a child care centre.",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Nur Ashikin Binte Hazlan",
-      "email": "NurAshikin@thkmc.org.sg",
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Alex Tan",
+      "email": "alex_tan@viriya.org.sg",
       "phone": [
-        "90021391",
-        "67671740"
+        "67951008"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "13 May 2024"
   },
   {
-    "id": "133550",
+    "id": "133561",
     "category": "Electrical Home Appliances",
-    "name": "Table fan",
-    "description": "Client is a 64y/o single lady living ina rental flat. She is unemployed due to her health conditions. She is always noticed drenched in her sweat during home visits as her corner unit lacks ventilation. A table fan would help her living condition.",
+    "name": "1) Refrigerator",
+    "description": "Family has 3 young children, including one newborn. Family's refrigerator is spoilt and family does not have enough financial resources to buy a new one. Family has urgent needs on this as they require a working refrigerator to store milk for the newborn.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Alex Tan",
+      "email": "alex_tan@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133553",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Hi, there is a client with 5 children in need of a washing machine as her current one is faulty. She is the sole breadwinner but is only able to work on an ad-hoc basis as she needs to juggle with her caregiving responsibilities for her children. She hopes to receive a usable washing machine with a load of 9kg or more to support her in the household chores. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133551",
+    "category": "Electrical Home Appliances",
+    "name": "Standing fan",
+    "description": "Client is living with her husband and 3 children. Her eldest child is 21y/o with moderate intellectual disability and warded in IMH due to his aggressive behaviours. Client needs a new standing fan as the current blade has broken. Husband works as a cleaner and part-time GRAB delivery and struggles keeping the family finances afloat, let alone purchasing new household items for the family.",
     "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Bukit Panjang",
@@ -3215,6 +3372,149 @@
     "date": "12 Apr 2024"
   },
   {
+    "id": "132502",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Yishun Family Service @ Children's Society requires 3pkt of Drypers Drypantz Pants - XXL for their beneficiaries.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "132503",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Yishun Family Service @ Children's Society requires 3 Tin of Dugro Stage 4 for their beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "132504",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Yishun Family Service @ Children's Society requires 3pkt of Drypants Drypers XL for their beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "132505",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Yishun Family Service @ Children's Society requires 3 Tin of Stage 3 Dugro Milk (for 1-3 yrs) for their beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133558",
+    "category": "Infant and Children Items",
+    "name": "Formula Milk - Lactogen 3",
+    "description": "Mother is a single-mother, caring for 2 young children. She had recently loss her employment and is medically unwell to secure full-time job. Therefore, she is facing financial constraints to purchase milk powder and diapers for children.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133557",
+    "category": "Infant and Children Items",
+    "name": "Formula Milk - Dugro stage 4",
+    "description": "A family of 3, grandmother is the sole breadwinner. She is working as a cleaner. Her daughter, is the main caregiver of son as they are facing financial constraints to send child to pre-school. Child is stateless and therefore his school fees are high. Family needs milk powder and diapers for child as they are facing a deficit in their household expenditure.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133556",
+    "category": "Infant and Children Items",
+    "name": "Diapers - Drypers (Size XL & XXL)",
+    "description": "A family of 3, grandmother is the sole breadwinner. She is working as a cleaner. Her daughter, is the main caregiver of son as they are facing financial constraints to send child to pre-school. Child is stateless and therefore his school fees are high. Family needs milk powder and diapers for child as they are facing a deficit in their household expenditure.",
+    "specifications": "Size XL & XXL",
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
+    "id": "133554",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is married with a 2 year old child. Family has been in high financial difficulty due to high arrears accumulated. They need some interim support for the child's needs for milk powder. Thank you.\nMilk powder brand: Similac Gain Kid, Stage: 4 milk powder, Quantity: 2-3 tins.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024"
+  },
+  {
     "id": "133521",
     "category": "Infant and Children Items",
     "name": "MIlk for infant (mthly or one off)",
@@ -4203,24 +4503,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 May 2024"
-  },
-  {
-    "id": "133090",
-    "category": "Medical Aids",
-    "name": "Salonpas",
-    "description": "Sunbeam Place @ Children's Society requires 20 boxes of 20 patches of Salonpas Pain relieving patch for the first aid kit.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Apr 2024"
   },
   {
     "id": "132913",
