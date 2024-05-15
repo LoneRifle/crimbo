@@ -220,49 +220,5 @@
       ],
       "carousell": []
     }
-  },
-  {
-    "id": "133635",
-    "category": "Mobility Aids",
-    "name": "Hospital bed",
-    "description": "Elderly female 85y/o has a fear of sleeping on the bed due to previous fall which scared her as injuries were sustained from it. Having a hospital bed will allow her to sleep on the bed rather than the floor.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Angel Lone",
-      "email": "angel@frcsfsc.sg",
-      "phone": [
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133490",
-          "name": "Hospital Bed",
-          "description": "This hospital bed was only slept on for 10 days and had been unused for more than 4 years. It was well kept and covered up.  The mattress is unblemished and all in working condition.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "08 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "133361",
-          "name": "Hospital Bed",
-          "description": "Hospital Bed similar to hospital",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "05 Jun 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
   }
 ]
