@@ -41,17 +41,6 @@
           "category": "Infant and Children Items"
         },
         {
-          "id": "133840",
-          "name": "Ikea Single bed w mattress, Ikea wooden dining table chairs",
-          "description": "new and barely used",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "29 May 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "133793",
           "name": "Hospital Bed with Air Pressure Mattress",
           "description": "A single electric nursing bed for donation with an air pressure mattress. We plan to give these items together, along with all relevant accessories. Do note that there is some wear on the wiring but item is otherwise in good working condition.",
@@ -139,6 +128,17 @@
           "dimensions": "84cm X 42cm X 175cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "133863",
+          "name": "Chest of Drawers and Entertainment Cabinet",
+          "description": "Excellent Condition\n\nDimensions in cm\n\nChest of drawers\nW 66 H 76 D 38\n\nEntertainment Cabinet \nW 93 x H 70 x D 50",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -184,17 +184,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        },
-        {
-          "id": "133840",
-          "name": "Ikea Single bed w mattress, Ikea wooden dining table chairs",
-          "description": "new and barely used",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "29 May 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         },
         {
           "id": "133793",
@@ -263,17 +252,6 @@
           "category": "Infant and Children Items"
         },
         {
-          "id": "133840",
-          "name": "Ikea Single bed w mattress, Ikea wooden dining table chairs",
-          "description": "new and barely used",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "29 May 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "133793",
           "name": "Hospital Bed with Air Pressure Mattress",
           "description": "A single electric nursing bed for donation with an air pressure mattress. We plan to give these items together, along with all relevant accessories. Do note that there is some wear on the wiring but item is otherwise in good working condition.",
@@ -318,6 +296,17 @@
     "date": "20 May 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "133860",
+          "name": "Baby Cot/Playpen",
+          "description": "Excellent Condition, can be folded",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
         {
           "id": "133663",
           "name": "Baby Spring Cot",
@@ -368,6 +357,40 @@
     }
   },
   {
+    "id": "133292",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "A widowed 72 years old elderly needs a vacuum cleaner to save time and energy in maintaining her home clean.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Yew Tee",
+      "name": "Jane Chua",
+      "email": "janechua@fycs.org",
+      "phone": [
+        "64162169",
+        "64162162"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133861",
+          "name": "Vacuum Cleaner",
+          "description": "Excellent Condition, barely used",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "133275",
     "category": "Electrical Home Appliances",
     "name": "Dryer",
@@ -394,6 +417,39 @@
           "validTill": "05 Jun 2024",
           "ageInYears": 4,
           "dimensions": "W56cm x L53cm x H79cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "133229",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "Couple facing mental health concerns and are currently certified unfit for employment. Vacuum cleaner spoiled. They have pet rabbits and unable to clean the house properly without the vacuum. One of my client is quite sensitive to the fur.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Nurul Huda Binte Elias",
+      "email": "nurulhuda@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133861",
+          "name": "Vacuum Cleaner",
+          "description": "Excellent Condition, barely used",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -436,6 +492,40 @@
     }
   },
   {
+    "id": "132043",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Yishun Family Service @ Children's Society requires a vacuum cleaner with no preferenece in size and brand for their beneficary who's from a low income family. They will be using it for their daily housekeeping.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133861",
+          "name": "Vacuum Cleaner",
+          "description": "Excellent Condition, barely used",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "132990",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -461,6 +551,73 @@
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "15 Jun 2024",
           "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "132947",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "A 72 year-old widowed elderly and also a sole caregiver f9r a grandson needs a vacuum cleaner to effectively maintain the home environment clean.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Yew Tee",
+      "name": "Jane Chua",
+      "email": "janechua@fycs.org",
+      "phone": [
+        "64162169",
+        "64162162"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133861",
+          "name": "Vacuum Cleaner",
+          "description": "Excellent Condition, barely used",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "132848",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Client is single male, and living in a rental flat. Poor health has made maintaining the cleanliness of his home a challenge. He hopes to receive a vacuum cleaner to make tidying up more efficient and thorough.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Apr 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133861",
+          "name": "Vacuum Cleaner",
+          "description": "Excellent Condition, barely used",
+          "location": null,
+          "validTill": "27 May 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
