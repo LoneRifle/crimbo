@@ -268,6 +268,39 @@
     }
   },
   {
+    "id": "133911",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a single mother with 3 school going children and resides in a rental flat in Punggol. Her current fridge is leaking water and she does not mind if donor has refrigerator bigger than the dimensions requested.",
+    "specifications": "width 54, length 55, height 160",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Lim Li Min",
+      "email": "limlimin@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "133900",
+          "name": "Samsung fridge",
+          "description": "In working conditions",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "03 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "133709",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -488,17 +521,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "133903",
-          "name": "fridge",
-          "description": "Height -173cm\nwidth and depth- 68cm \n531L",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "05 Jun 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "133900",
           "name": "Samsung fridge",
           "description": "In working conditions",
@@ -532,17 +554,6 @@
     "date": "06 May 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "133903",
-          "name": "fridge",
-          "description": "Height -173cm\nwidth and depth- 68cm \n531L",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "05 Jun 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "133900",
           "name": "Samsung fridge",
