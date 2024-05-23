@@ -44,28 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "133905",
-    "name": "dryer",
-    "description": "2 year old dryer - 7kg.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "01 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "133904",
-    "name": "washer",
-    "description": "2 year old washer - 8.5kg",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "01 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "133885",
     "name": "Refrigerator",
     "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
@@ -86,6 +64,17 @@
     "dimensions": "W56cm x L53cm x H79cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "133920",
+    "name": "Wooden Dining Table",
+    "description": "Dining table has been used for 4 years, maintained in good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 May 2024",
+    "ageInYears": 4,
+    "dimensions": "160x90x75",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "133915",
@@ -150,17 +139,6 @@
     "validTill": "24 May 2024",
     "ageInYears": 2,
     "dimensions": "91*190 CM",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133853",
-    "name": "Display shelf",
-    "description": "In good condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "03 Jun 2024",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -348,17 +326,6 @@
     "validTill": "31 May 2024",
     "ageInYears": 2,
     "dimensions": "80cm x 70cm x 110cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133847",
-    "name": "Queen Size Bed",
-    "description": "Queen Size Mattress",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "12 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -592,17 +559,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
-  },
-  {
-    "id": "133871",
-    "name": "Kitchen Items",
-    "description": "We have 5 boxes of these kitchen items to give away. One box for each low income family who needs these. All in excellent condition.",
-    "location": null,
-    "validTill": "27 May 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
   },
   {
     "id": "133788",
