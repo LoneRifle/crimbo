@@ -73,17 +73,6 @@
           "dimensions": "112x147",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "133767",
-          "name": "cabinet",
-          "description": "above is shelves for books, below is 2 drawers of filing system.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "84cm X 42cm X 175cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -223,313 +212,34 @@
     }
   },
   {
-    "id": "133836",
-    "category": "Infant and Children Items",
-    "name": "baby cot",
-    "description": "Single mother is requesting for newborn baby items including baby cot, clothes, baby bottles, baby carrier, milk powder, and diapers. She is staying at a no income household together with her elderly mum and sister with visual impairment.",
-    "specifications": null,
+    "id": "132885",
+    "category": "Mobility Aids",
+    "name": "Geriatric chair",
+    "description": "single female elder with physical condition requires geri chair. Need donor to provide delivery to telok blangah.",
+    "specifications": "NA",
     "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "mbinny@catholicwelfare.org.sg",
+      "org": "Tsao Foundation - Hua Mei Clinic",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
       "phone": [
-        "68017489",
-        "63394711"
+        "65939576",
+        "66619545"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "20 May 2024",
+    "date": "22 Apr 2024",
     "matches": {
       "passiton": [
         {
-          "id": "133860",
-          "name": "Baby Cot/Playpen",
-          "description": "Excellent Condition, can be folded",
-          "location": null,
-          "validTill": "27 May 2024",
+          "id": "133923",
+          "name": "Geriatric chair",
+          "description": "Weight: 45.05kg\nRecline Angle: 35 degree\nColour: Rosewood\nDimension: 104.1cm X 72.4cm X 119.9cm",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "22 Jun 2024",
           "ageInYears": 1,
-          "dimensions": null,
+          "dimensions": "41\" X 28.5\" 47.2\" inch",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "133663",
-          "name": "Baby Spring Cot",
-          "description": "Used item by previous tenant. Have to assemble from parts with light screwing. Sarong cloth will need washed and dried before donating. Self collection preferred (negotiable).",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "01 Jun 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133709",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "A family of 3 (F/37, M/66 and their six-month-old infant) are relocating from a shelter to a rental unit, thus they do not have most of the essential appliances due to financial constraints. The family requires a refrigerator because they frequently cook at home to save money and provide solid food for the infant. The family does not mind a used refrigerator as long as it is in good functioning order.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Kelly Lim",
-      "email": "kelly.lim@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133671",
-    "category": "Electrical Home Appliances",
-    "name": "refrigerator",
-    "description": "Two elderly siblings staying together in a one room rental flat, requiring a refrigerator as their previous one has already broken down. Client is unable to keep food items in fridge without it going bad.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - @27 Family Service Centre",
-      "name": "Muhammad Shahideen",
-      "email": "shahideen.m@montfortcare.org.sg",
-      "phone": [
-        "96585479",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133603",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Single mother of 2 school-going children who just moved into rental flat requires electrical items such as refrigerator for the family.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Wei Shimin",
-      "email": "shimin.wei@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133508",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "This is a young single mother (24 year old) with a 6 year old daughter. Mother is currently doing ad-hoc delivery jobs which does not pay well. She has been having difficulty in maintaining her employment due to caregiving of her child. They recently moved out from the crisis shelter to their own rental flat and is in need of furnishings in their house. Donor to kindly arrange for own delivery as client is unable to afford delivery fees.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Joycelin Wong",
-      "email": "joycelinwong@fycs.org",
-      "phone": [
-        "66901011",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133447",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is a single mother to 3 other family members. Family is currently facing financial struggles to manage housing expenses and mortgage, after sudden passing of father in the household. Fridge has recently malfunctioned and they are unable to store food items. It is not sustainable for them to buy food everyday, and the refrigerator would greatly help them to store food ingredients which can be used for cooking.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Hafizul Hafiz",
-      "email": "hafizulhafiz@allkin.org.sg",
-      "phone": [
-        "88547675",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133396",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "A 61 years old client stays alone in a rental flat, mainly home bound. Not working has no income and relies on ex-wife for small amounts of pocket money. His refrigerator has dead cockroaches inside he has been low mood and wound appreciate if there is new refrigerator that he could look forward.",
-    "specifications": "Normal",
-    "contact": {
-      "org": "SingHealth (CGH) – Community Care",
-      "name": "Yick Lai Cheng",
-      "email": "yick.lai.cheng@singhealth.com.sg",
-      "phone": [
-        "64268053"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133275",
-    "category": "Electrical Home Appliances",
-    "name": "Dryer",
-    "description": "*** UREGNTLY REQUIRED!! *** Sunbeam Place @ Children's Society requires a clothes dryer urgently for the home. The current one is spoilt and they required it urgently. Any brand and preferably larger in size for big loads. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133704",
-          "name": "Dryer",
-          "description": "Working condition.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "05 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "W56cm x L53cm x H79cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133255",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "This a family of 7 (of 5 school-going children) living in a 2-room HDB rental unit. Due to low income and large family, PCI is low and the family struggle with large expenses. Recently, their fridge had gone faulty and they are hoping to receive a donation for a second-hand fridge (preferably Halal).",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Clarice Lim",
-      "email": "claricelim@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "133885",
-          "name": "Refrigerator",
-          "description": "In good working condition. I will cover half the cost of delivery which is $30. Must be picked up by Saturday 25 May.",
-          "location": null,
-          "validTill": "27 May 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
