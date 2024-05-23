@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "133912",
-    "name": "Sony hi-fi set",
-    "description": "Ok to meet common place to handover",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "21 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "133909",
     "name": "Sokany Citrus Juicer",
     "description": "300ml juicer",
@@ -271,6 +260,17 @@
     "validTill": "31 May 2024",
     "ageInYears": 4,
     "dimensions": "190cm x 150cm x 120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "133924",
+    "name": "King size bed with storage bed frame",
+    "description": "Very clean and well maintained king size mattress and storage bed frame. Giving up to create more space at home.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jun 2024",
+    "ageInYears": 3,
+    "dimensions": "190 cm × 182 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -702,6 +702,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "133923",
+    "name": "Geriatric chair",
+    "description": "Weight: 45.05kg\nRecline Angle: 35 degree\nColour: Rosewood\nDimension: 104.1cm X 72.4cm X 119.9cm",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": "41\" X 28.5\" 47.2\" inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "133793",
