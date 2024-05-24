@@ -1,5 +1,16 @@
 [
   {
+    "id": "133986",
+    "name": "Philips Rice Cooker",
+    "description": "5 year old Rice cooker, still works well.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "133909",
     "name": "Sokany Citrus Juicer",
     "description": "300ml juicer",
@@ -20,6 +31,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "133985",
+    "name": "Single Bed",
+    "description": "Single bed, silver frame and solid mattress",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "30 May 2024",
+    "ageInYears": 4,
+    "dimensions": "196 x 98 approx",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "133983",
@@ -548,6 +570,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "133987",
+    "name": "Kitchen items",
+    "description": "Excellent condition - plates, Corningware pots, assorted kitchen and baking items.",
+    "location": null,
+    "validTill": "29 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "133788",
