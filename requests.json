@@ -174,23 +174,6 @@
     "date": "20 May 2024"
   },
   {
-    "id": "133844",
-    "category": "Home Furnishing",
-    "name": "Super Single Mattress",
-    "description": "Family is a single-income household and the client's mattress was damaged due to water condensation from unit below. The client is unable to afford a new mattress due to low income.",
-    "specifications": "Super Single",
-    "contact": {
-      "org": "Lakeside Family Centre - Jurong West",
-      "name": "Felicia Wong",
-      "email": "felicia-wong@lakeside.org.sg",
-      "phone": [
-        "65671908"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 May 2024"
-  },
-  {
     "id": "133798",
     "category": "Home Furnishing",
     "name": "2 door cupboard",
@@ -311,24 +294,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 May 2024"
-  },
-  {
-    "id": "133576",
-    "category": "Home Furnishing",
-    "name": "TV Console (Prefer with drawers)",
-    "description": "Client is isolated elderly with health issues which has rendered her unfit for work. \nThere is no family member who is available to care for her and she is dependent on the formal support of the social services. She received her TV console previously from a donor. However, it was faulty and broken. She needs a proper TV console to store items in her 1-Room flat.",
-    "specifications": "TV Console (Prefer with drawers)",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 May 2024"
   },
   {
     "id": "133574",
@@ -2180,6 +2145,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "26 Apr 2024"
+  },
+  {
+    "id": "134035",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Family of young children require diapers assistance, where family includes newborn and a special child.",
+    "specifications": "Newborn/Size S, XL, XXL",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Hidayati Bte Sa'adon",
+      "email": "nurhidayati.saadon@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024"
+  },
+  {
+    "id": "134034",
+    "category": "Infant and Children Items",
+    "name": "Breast pump",
+    "description": "Family has 3 school going children and a newborn baby. They live in  a 2 room rental flat. Father work as a daily wage earner as a mover and mother is also a daily wage earner but she has not return back to work as she has just given birth. she will need the breast pump so that she can pump milk for the baby so that she can place baby in infant care and go to work.",
+    "specifications": null,
+    "contact": {
+      "org": "Canossaville Children and Community Services",
+      "name": "Regina Leong",
+      "email": null,
+      "phone": [
+        "68128555",
+        "68120697"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024"
   },
   {
     "id": "134025",
@@ -4306,6 +4306,58 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 May 2024"
+  },
+  {
+    "id": "134038",
+    "category": "Electrical Home Appliances",
+    "name": "Standing Fan",
+    "description": "Mdm Koh is a single senior living in a 1 room rental flat. \n\nShe is unable to afford a new fan and currently subsists on her mini fan that has barely any wind speed. \n\nAs her flat is not well ventilated, it gets especially stuffy during the afternoon.\n\nThis fan would help to improve her quality of life and living condition.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Sabrina Wong",
+      "email": "sabrina.wong@thkmc.org.sg",
+      "phone": [
+        "63371201",
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024"
+  },
+  {
+    "id": "134037",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Client is a single parent and has 2 young school going children who has mental health concerns. Client has requested for a vacuum cleaner due to her bad eczema issues. She will need the vacuum cleaner to clean up her flaky skin around the house due to hygiene purpose. It was noted that her current vacuum cleaner has spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Max Hong",
+      "email": "maxhong@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024"
+  },
+  {
+    "id": "134036",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "The client's household includes herself and 2 children, 1 infant and an elderly. Her husband is presently residing at another household. The single-income family have been facing financial difficulties in making ends meet for the family of 6. Their household washing machine spoilt recently, causing the family to incur more expenses having to using the laundromat downstairs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Max Hong",
+      "email": "maxhong@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024"
   },
   {
     "id": "134033",
