@@ -41,6 +41,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "134071",
+          "name": "King Size Bedframe + Mattress",
+          "description": "King Sized Bedframe + Mattress to be given away . \nonly able to collect after 12th June.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "14 Jun 2024",
+          "ageInYears": 3,
+          "dimensions": "207cm X 183cm X 28cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "134029",
           "name": "King Size Bed Frame and mattress",
           "description": "as per pic",
@@ -116,6 +127,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        },
+        {
+          "id": "134071",
+          "name": "King Size Bedframe + Mattress",
+          "description": "King Sized Bedframe + Mattress to be given away . \nonly able to collect after 12th June.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "14 Jun 2024",
+          "ageInYears": 3,
+          "dimensions": "207cm X 183cm X 28cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "134029",
@@ -247,73 +269,6 @@
           "validTill": "26 Jun 2024",
           "ageInYears": 4,
           "dimensions": "45.5cm x 35.5cm x 35.1 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133292",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum cleaner",
-    "description": "A widowed 72 years old elderly needs a vacuum cleaner to save time and energy in maintaining her home clean.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Yew Tee",
-      "name": "Jane Chua",
-      "email": "janechua@fycs.org",
-      "phone": [
-        "64162169",
-        "64162162"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "134056",
-          "name": "Vacuum Cleaner",
-          "description": "Barely used, functioning well.",
-          "location": null,
-          "validTill": "31 May 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133229",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum Cleaner",
-    "description": "Couple facing mental health concerns and are currently certified unfit for employment. Vacuum cleaner spoiled. They have pet rabbits and unable to clean the house properly without the vacuum. One of my client is quite sensitive to the fur.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Nurul Huda Binte Elias",
-      "email": "nurulhuda@allkin.org.sg",
-      "phone": [
-        "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "134056",
-          "name": "Vacuum Cleaner",
-          "description": "Barely used, functioning well.",
-          "location": null,
-          "validTill": "31 May 2024",
-          "ageInYears": 2,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
