@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "134056",
+    "name": "Vacuum Cleaner",
+    "description": "Barely used, functioning well.",
+    "location": null,
+    "validTill": "31 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134028",
     "name": "Panasonic Steam Oven NU-SC100",
     "description": "Used oven in working condition.\nHealthy cooking with steam technology.",
@@ -55,28 +66,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "134043",
-    "name": "IKEA Rectangle Modular Cupboard (with legs)",
-    "description": "This is a special colour from IKEA that isn't always readily available :) Very functional and still in excellent condition. \n\nHas 8 cubes, we chose to insert 4 of them with drawers (as shown in picture).",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": "143.5cm x 39.5cm x 94cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134042",
-    "name": "IKEA Square 4-box Cupboard",
-    "description": "Very modular piece and in excellent condition! Have stuck on a couple of bumpers on the sharp corners. \n\nWe left the 2 top boxes open and fill them with inserts (like the woven box). The bottom 2 boxes have drawers and a swing door. \n\nWhole furniture is 76.5cm x 76.5cm (box). Depth is approximately 39.5cm.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": "76.5cm x 39.5cm x 76.5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "134041",
     "name": "Glass Table",
     "description": "The glass round table for big family",
@@ -95,17 +84,6 @@
     "validTill": "15 Jun 2024",
     "ageInYears": 4,
     "dimensions": "1.4M x 0.8M (wide)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134039",
-    "name": "Queen size bed frame and mattress",
-    "description": "Queen size bed frame and mattress. Bed frame dimension is 158 x 204 x 100. I’m waiting for confirmation of when I can move the bed but should be around first or second week of June.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "15 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -216,17 +194,6 @@
     "validTill": "30 May 2024",
     "ageInYears": 4,
     "dimensions": "L120cm x W70cm x H45cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133901",
-    "name": "Study Table",
-    "description": "Bought from IKEA during COVID lockdown for WFH. Now back to office, no longer needed.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 May 2024",
-    "ageInYears": 2,
-    "dimensions": "L 105cm, W 50cm, H 76cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
