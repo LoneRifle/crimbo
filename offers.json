@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "134210",
+    "name": "Refridgerator",
+    "description": "4 ticks energy saving, 2 door fridge.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "68 x 68 x 170",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134199",
     "name": "Samsung Washing Machine",
     "description": "Older but still in good working condition washing machine.\n\nSpecifications here https://www.samsung.com/sg/support/model/WD702U4BKWQ/SP/",
@@ -150,39 +161,6 @@
     "validTill": "29 Jun 2024",
     "ageInYears": 3,
     "dimensions": "158 x 65",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134119",
-    "name": "6-seater dining table",
-    "description": "Excellent condition with 6 chairs",
-    "location": null,
-    "validTill": "03 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": "2m × 1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134118",
-    "name": "6-seater Dining Table",
-    "description": "Beautiful glass table with 6 chairs, excellent condition",
-    "location": null,
-    "validTill": "03 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": "180cm by 90cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134117",
-    "name": "Rosewood Table",
-    "description": "Beautiful Rosewood Table (can be extended). Needs to be delivered by 5th June",
-    "location": null,
-    "validTill": "03 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -359,17 +337,6 @@
     "validTill": "05 Jun 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133320",
-    "name": "Ergonomic chair",
-    "description": "The chair is in good condition except for water stain.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "03 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "45cm (L) x 60cm (w) x 90cm (h)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
