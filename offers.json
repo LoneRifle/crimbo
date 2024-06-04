@@ -1,16 +1,5 @@
 [
   {
-    "id": "134210",
-    "name": "Refridgerator",
-    "description": "4 ticks energy saving, 2 door fridge.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "68 x 68 x 170",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "134153",
     "name": "Sterra Water Dispenser",
     "description": "Sterra Water Dispenser \nRetail :$1.6k \nCold / warm / normal temp all working\nHot water not working \nUsed for 2 years\nTankless , need to do piping\n\nI wont send to VWO/ needy nor pay for any delivery fee. Collection at Canberra Plaza",
@@ -42,6 +31,17 @@
     "dimensions": "14cm diameter, 22cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "134310",
+    "name": "cabinet",
+    "description": "cabinet",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "134300",
@@ -106,17 +106,6 @@
     "validTill": "04 Jul 2024",
     "ageInYears": 1,
     "dimensions": "65x40x23",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134268",
-    "name": "Chairs",
-    "description": "4 X Chairs (Dining)",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "09 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -194,17 +183,6 @@
     "validTill": "28 Jun 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134041",
-    "name": "Glass Table",
-    "description": "The glass round table for big family",
-    "location": null,
-    "validTill": "20 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": "150x150x80",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,6 +319,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "134312",
+    "name": "baby gate",
+    "description": "baby gate",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "134311",
+    "name": "baby mats",
+    "description": "baby mats",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "134302",
     "name": "Baby cot & bumper",
     "description": "Cot(120cm x 60cm) + cot bumper only.\nDue to hygiene reason, will not be giving away mattress.\nNot in perfect condition, only used for less than 2 years",
@@ -460,17 +460,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
-  },
-  {
-    "id": "134114",
-    "name": "Round white Plates",
-    "description": "Japanese porcelain white round plate",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "05 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": "28cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
   },
   {
     "id": "133788",
