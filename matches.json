@@ -75,6 +75,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "134343",
+          "name": "Bed frame with mattress",
+          "description": "Comes with bed protector sheet \nBed condition is relatively new as it is well taken care of",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "134207",
           "name": "Leather King bed with mattress",
           "description": "The height includes the mattress.",
@@ -151,6 +162,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "134346",
+          "name": "Display/ book cabinet",
+          "description": "Self collect please",
+          "location": null,
+          "validTill": "22 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": "105w,183h,30d. 240h,90w,40d",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -185,6 +207,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        },
+        {
+          "id": "134343",
+          "name": "Bed frame with mattress",
+          "description": "Comes with bed protector sheet \nBed condition is relatively new as it is well taken care of",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "134207",
@@ -229,6 +262,74 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134084",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client wish to request for a new electric over to support her home-based business.\n\nClient is a main caregiver for 2 primary school children. She relies on formal \nassistance for household expenses and is managing a heart condition which requires bypass. To uplift family's financial capacity, client intends to restart her home-based business.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Muhammad Danial Bin Mazlan",
+      "email": "danialmazlan@allkin.org.sg",
+      "phone": [
+        "65536643",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "29 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134341",
+          "name": "Panasonic cubie oven",
+          "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "05 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": "40.4 cm x 40.4 cm x 37.6 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "133590",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is a mother of 5, children aged 1, 4,8,10, and 14. Together with her husband, the family stays in a 2-room rental flat. Husband used to be the sole income earner, with client taking charge of the household chores and caregiving of children. However, he suffered a stroke towards the end of last year and had to stop work. Client has since started her own home baking business, whilst managing the multiple caregiving responsibilities at home, which includes both caring for children and husband. Client's oven broke down recently and she hopes to acquire a new oven to help keep her business running to supplement the household income. Oven will go straight to client to help her generate income to meet the basic needs at home.",
+    "specifications": "TEFAL OF2858 DELICE XL OVEN (39L)",
+    "contact": {
+      "org": "Touch Community Services - Touch Family Enablement",
+      "name": "Neo Xiao Hui",
+      "email": "xioahui.neo@touch.org.sg",
+      "phone": [
+        "63179990",
+        "63770122"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134341",
+          "name": "Panasonic cubie oven",
+          "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "05 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": "40.4 cm x 40.4 cm x 37.6 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
