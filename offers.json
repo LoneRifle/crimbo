@@ -1,5 +1,16 @@
 [
   {
+    "id": "134363",
+    "name": "Washing machine",
+    "description": "Used washing machine but still in workable condition",
+    "location": null,
+    "validTill": "05 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134341",
     "name": "Panasonic cubie oven",
     "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
@@ -42,6 +53,17 @@
     "dimensions": "14cm diameter, 22cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "134362",
+    "name": "IKEA dressing table",
+    "description": "White IKEA dressing table",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "L: 110cm, H: 76cm, W: 45cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "134361",
@@ -271,17 +293,6 @@
     "validTill": "11 Jun 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133379",
-    "name": "Single sofa",
-    "description": "Single sofa.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "06 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "76x76x85cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
