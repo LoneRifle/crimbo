@@ -1,5 +1,16 @@
 [
   {
+    "id": "134457",
+    "name": "Men Clothes and Pants",
+    "description": "Men shirt L\nPants 32 to 34",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "07 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "134369",
     "name": "Microwave Oven",
     "description": "Excellent Condition Panasonic Microwave Oven. Non-halal. Self collect at 289883",
@@ -64,6 +75,39 @@
     "dimensions": "14cm diameter, 22cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "134460",
+    "name": "Children's single size bed frame",
+    "description": "Single size bed frame with railing.\nThis is the upper deck of a double decker bed.\nIn good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "134459",
+    "name": "Toddler bed frame",
+    "description": "This is the bottom layer of a double decker bed that serves as a toddler bed. In good condition. Scratches and marks with use and age.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "134458",
+    "name": "King size bed and mattress",
+    "description": "King size bed with mattress. In good condition. Cloth covering the underside of the bed frame is torn. Mattress has some stains from normal use and age (no damage)",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "134433",
@@ -262,6 +306,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "134450",
+    "name": "School bag",
+    "description": "Lightly used school bag. Suitable for school going children. it’s washed and clean.",
+    "location": null,
+    "validTill": "07 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "134449",
+    "name": "Ikea mammut table, stool, chair",
+    "description": "Preloved. More than 10 years but still in useable condition. slight scratches. some discoloring. \n\nIkea Mammut Children's table (red) 77x55 cm\n\nIkea Mammut  Children’s chair (blue)\nMeasurements:\nWidth: 39 cm\nDepth: 36 cm\nHeight: 67 cm\nSeat depth: 26 cm\nSeat height: 30 cm\n\nIkea Mammut  Children’s stool (white)\n\nMeasurements\n\nSeat diameter: 30 cm\nWidth: 35 cm\nSeat height: 30 cm\nMax. load: 35 kg",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "07 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "see description section",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "134365",
@@ -579,39 +645,6 @@
     "validTill": "09 Jun 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "133490",
-    "name": "Hospital Bed",
-    "description": "This hospital bed was only slept on for 10 days and had been unused for more than 4 years. It was well kept and covered up.  The mattress is unblemished and all in working condition.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "08 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "133845",
-    "name": "Hospital Bed & AirMattress",
-    "description": "Electronic Hospital bed to give away. Have air mattress and pump too.\n\nKindly contact me",
-    "location": null,
-    "validTill": "08 Jun 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "133471",
-    "name": "Mechanical bed",
-    "description": "Bought in july2012. My healthy n mobile father fell. Used for 11 months.  Left the bed in same spot ever since. Regular wiped. \nSome plastic parts a bit wear off. But still working condition.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "08 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "Typical mechanical bed lifeline",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
