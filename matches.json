@@ -1,5 +1,39 @@
 [
   {
+    "id": "134421",
+    "category": "Others",
+    "name": "Rice",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more packets of rice for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Sim Yan Ling",
+      "email": "yanling.sim@ppis.sg",
+      "phone": [
+        "65613462ext503",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134467",
+          "name": "Mini Rice cooker",
+          "description": "Used 3 times. Comes with steam plate (unused), rice cup and scoop.\n\nSuitable for 1 - 2 person household",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "08 Jul 2024",
+          "ageInYears": 1,
+          "dimensions": "18.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "134440",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -26,17 +60,6 @@
           "validTill": "12 Jun 2024",
           "ageInYears": 2,
           "dimensions": "32 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -116,17 +139,6 @@
           "dimensions": "32 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -159,17 +171,6 @@
           "validTill": "12 Jun 2024",
           "ageInYears": 2,
           "dimensions": "32 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -205,17 +206,6 @@
           "dimensions": "32 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -248,17 +238,6 @@
           "validTill": "12 Jun 2024",
           "ageInYears": 2,
           "dimensions": "32 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -430,15 +409,37 @@
           "dimensions": "32 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134133",
+    "category": "Electrical Home Appliances",
+    "name": "Rice Cooker",
+    "description": "Client is a divorcee with 4 children under her care. She is unable to work due to the caregiving needs of her children and the family has been receiving financial assistance from the Social Service Office for their basic needs. Client is requesting for donation for the listed items as they are broken/spoilt and she does not have the additional means to purchase new ones.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 May 2024",
+    "matches": {
+      "passiton": [
         {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
+          "id": "134467",
+          "name": "Mini Rice cooker",
+          "description": "Used 3 times. Comes with steam plate (unused), rice cup and scoop.\n\nSuitable for 1 - 2 person household",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "08 Jul 2024",
+          "ageInYears": 1,
+          "dimensions": "18.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -473,17 +474,6 @@
           "validTill": "12 Jun 2024",
           "ageInYears": 2,
           "dimensions": "32 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -938,40 +928,6 @@
     }
   },
   {
-    "id": "133617",
-    "category": "Electrical Home Appliances",
-    "name": "SMART TV",
-    "description": "Client is a single mother who has reintegrated with eldest daughter in her teens and is pregnant with child. Client would like to request for donation of smart tv as the one at home is faulty. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "133602",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -1200,51 +1156,6 @@
           "dimensions": "Expendable",
           "deliveryCostsCoveredByDonor": true,
           "category": "Kitchen Utility Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "133509",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "This is a young single mother (24 year old) with a 6 year old daughter. Mother is currently doing ad-hoc delivery jobs which does not pay well. She has been having difficulty in maintaining her employment due to caregiving of her child. They recently moved out from the crisis shelter to their own rental flat and is in need of furnishings in their house. The TV is daughter's request to mother as she wishes to watch TV for entertainment. Donor to kindly arrange for own delivery as client is unable to afford delivery fees.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Joycelin Wong",
-      "email": "joycelinwong@fycs.org",
-      "phone": [
-        "66901011",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 May 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "134368",
-          "name": "32 inch TV",
-          "description": "Excellent Condition, Non-SMART TV. Self collect at 150049",
-          "location": null,
-          "validTill": "12 Jun 2024",
-          "ageInYears": 2,
-          "dimensions": "32 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -1599,17 +1510,6 @@
           "validTill": "12 Jun 2024",
           "ageInYears": 2,
           "dimensions": "32 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "134465",
-          "name": "LG 43\" Smart TV",
-          "description": "LG 43 inch Smart TV, working well, but has a strip of discoloration at the bottom edge. refer to pictures. normally does not affect viewing.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Jun 2024",
-          "ageInYears": 4,
-          "dimensions": "43 inch TV",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
