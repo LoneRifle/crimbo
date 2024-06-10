@@ -66,6 +66,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "134494",
+    "name": "Mattress",
+    "description": "queen sized mattress",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "30 Jun 2024",
+    "ageInYears": 2,
+    "dimensions": "152cm x 190cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134473",
     "name": "Two seater sofa bed",
     "description": "Ektorp 2 seater sofa bed. The mechanism makes it difficult to take the bed out and back in. Very comfy sofa",
@@ -73,17 +84,6 @@
     "validTill": "20 Jun 2024",
     "ageInYears": 4,
     "dimensions": "197 cm wide, 90 cm deep, and 88 cm high",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134471",
-    "name": "Sofa bed",
-    "description": "Unused item",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "13 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": "1400x800x630mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -647,6 +647,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "134493",
+    "name": "Panasonic Digital Piano",
+    "description": "A fully functional Panasonic Digital Piano.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "137cm x 50cm x 82cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "134416",
