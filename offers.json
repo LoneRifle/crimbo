@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "134561",
+    "name": "Air curtain",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": "120cmL",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134341",
     "name": "Panasonic cubie oven",
     "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
@@ -42,6 +53,17 @@
     "dimensions": "14cm diameter, 22cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "134560",
+    "name": "Wall mount shelf",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": "100cmL",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "134549",
@@ -293,17 +315,6 @@
     "validTill": "06 Jul 2024",
     "ageInYears": 4,
     "dimensions": "200x120x50",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134384",
-    "name": "Half leather sofa",
-    "description": "Half leather sofa",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "2.1m x 1m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -649,6 +660,28 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "134562",
+    "name": "Sushi rolling bamboo",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "12 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "134557",
+    "name": "Children cutlery",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "133788",
     "name": "Kid utensils",
     "description": "2 sets, 1 red and 1 blue.\n\nDelivery on weekday evening and weekend.",
@@ -845,6 +878,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "134558",
+    "name": "Car breakdown triangle",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "134510",
