@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "134750",
+    "name": "Hitachi Washing Machine",
+    "description": "collect and deliver on 25 jun",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134561",
     "name": "Air curtain",
     "description": "Delivery on weekday evening and weekend.",
@@ -117,17 +128,6 @@
     "validTill": "28 Jun 2024",
     "ageInYears": 3,
     "dimensions": "44cm width x 39cm depth x 185cm high",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134592",
-    "name": "Dinner table and 6 chairs",
-    "description": "One Dinning Table and 6 Chairs",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "19 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "150x90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -440,17 +440,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "134742",
-    "name": "Electric Breast Pump",
-    "description": "1.5 years. Working well. Low usage history.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "18 Jul 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "134683",
     "name": "Preloved baby clothes",
     "description": "Blessing preloved baby clothes for 1-3months old.\nThe white tops have some very light yellowish stains. Otherwise they are in good condition. I can discard those if beneficiary does not want them.",
@@ -616,6 +605,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "134744",
+    "name": "Luggage with wheels",
+    "description": "Working luggage bag",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "17 x 13 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "134628",
     "name": "Linden Piano with Bench",
     "description": "Linden Piano with Bench",
@@ -669,6 +669,28 @@
     "dimensions": "1.5m x 1m x 1.5m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "134749",
+    "name": "Tena Men Active Fit (NOT diapers)",
+    "description": "Tena Men Active Fit.\nPads to stick onto underwear. \nIdeal for mobile men with irritable bladders or slight incontinence, to catch small urinary leaks in case they can’t make it to the toilet in time. \n\nI can deliver to central/south areas only.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "30 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "134748",
+    "name": "Contour Plus test strips",
+    "description": "Contour plus blood sugar test strip. Bought in error. Opened and used 1 strip before realised wrong strip.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "18 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "134671",
@@ -801,17 +823,6 @@
     "dimensions": "L212cm W95cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "134704",
-    "name": "Nespresso machine and Starbucks capsules",
-    "description": "Well used. Still working",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "19 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "23x26cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "134558",
