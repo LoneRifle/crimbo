@@ -296,6 +296,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "134743",
+          "name": "Philips Milk Bottle Warmer",
+          "description": "1.5 years. Low usage. Good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "18 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -363,6 +374,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "134743",
+          "name": "Philips Milk Bottle Warmer",
+          "description": "1.5 years. Low usage. Good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "18 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -394,6 +416,73 @@
           "location": "Admiralty Drive, Sembawang, Yishun",
           "validTill": "15 Jul 2024",
           "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134034",
+    "category": "Infant and Children Items",
+    "name": "Breast pump",
+    "description": "Family has 3 school going children and a newborn baby. They live in  a 2 room rental flat. Father work as a daily wage earner as a mover and mother is also a daily wage earner but she has not return back to work as she has just given birth. she will need the breast pump so that she can pump milk for the baby so that she can place baby in infant care and go to work.",
+    "specifications": null,
+    "contact": {
+      "org": "Canossaville Children and Community Services",
+      "name": "Regina Leong",
+      "email": null,
+      "phone": [
+        "68128555",
+        "68120697"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134742",
+          "name": "Electric Breast Pump",
+          "description": "1.5 years. Working well. Low usage history.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "18 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134025",
+    "category": "Infant and Children Items",
+    "name": "Electric breast pump",
+    "description": "Client is from a low income family consisting of 8 persons. with 3 young children aged 3 to new born. They are currently living in a 2 room public rental flat. \n\nMother just gave birth and would love to request for an electric breast pump.\n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 May 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134742",
+          "name": "Electric Breast Pump",
+          "description": "1.5 years. Working well. Low usage history.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "18 Jul 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
