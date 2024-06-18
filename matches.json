@@ -269,6 +269,39 @@
     }
   },
   {
+    "id": "134724",
+    "category": "Infant and Children Items",
+    "name": "Milk",
+    "description": "A family with 5 children living in a rental flat and father recently left the job due to health issues. They are in need of milk and diapers for their youngest child. For further liaison, kindly contact me at 81383741, thank you!",
+    "specifications": "Dumex Dugro Milk Stage 3",
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134209",
+          "name": "Milk storage bottles and flange",
+          "description": "4 maymom milk storage bottles (160 ml). 1 flange (not sure of size). Used condition.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "02 Jul 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "134390",
     "category": "Infant and Children Items",
     "name": "milk bottles",
@@ -403,39 +436,6 @@
     }
   },
   {
-    "id": "134320",
-    "category": "Home Furnishing",
-    "name": "3 Seater Sofa",
-    "description": "Client has recently moved into a 2-room rental flat and uses a motorized wheelchair for travelling. Her daughter has been diagnosed with mental health and she has stopped her ITE studies. \nClient hopes to be blessed with a 3 seater Sofa set (e.g. https://www.fortytwo.sg/living-room/sofas/3-seaters-large-sofas/phrun-pvc-sofa-set.html )\nYour generosity can significantly impact their journey toward stability and relief. \nDonor please arrange for the transport of the item. Please WhatsApp Navin @ 8388 7562",
-    "specifications": "Width: 188cm, Depth: 81cm, Height: 89cm",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Navin Nathaniel Kirinaris",
-      "email": "navin@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jun 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "134681",
-          "name": "3-seater Blue-ribbed sofa",
-          "description": "This is a 3-seater blue-ribbed sofa in excellent working condition. It is firm and long enough for laying down",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "21 Jun 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "134317",
     "category": "Home Furnishing",
     "name": "Dressing Table",
@@ -498,6 +498,17 @@
     "date": "31 May 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "134726",
+          "name": "Book shelf - shelve",
+          "description": "White bookshelf",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "01 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "81cm x 30cm x 212cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "134394",
           "name": "book shelf",
@@ -577,6 +588,17 @@
           "category": "Mobility Aids"
         },
         {
+          "id": "134722",
+          "name": "Electri8c bed with air mattress &  wheelchair",
+          "description": "Electric hospital bed with air mattress in  good condition, wheelchair rarely used.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "30 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
           "id": "134052",
           "name": "Electric hospital bed with air mattress",
           "description": "Well maintained. Height of bed is adjustable. Comes with remote control. Without serving tray.",
@@ -584,6 +606,107 @@
           "validTill": "27 Jun 2024",
           "ageInYears": 4,
           "dimensions": "L212cm W95cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134638",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Senior is staying with FDW. He needs a wheelchair with working brakes.",
+    "specifications": "Conventional",
+    "contact": {
+      "org": "Agency for Integrated Care",
+      "name": "Raymond Goh",
+      "email": "raymond.goh@aic.sg",
+      "phone": [
+        "67213711",
+        "66036800"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134722",
+          "name": "Electri8c bed with air mattress &  wheelchair",
+          "description": "Electric hospital bed with air mattress in  good condition, wheelchair rarely used.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "30 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134554",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client was previously employed with stable income. He however had a bad fall at work and was recently discharged home after rehabilitation. Client was using a self-propelling wheelchair, but it has become faulty. Due to his tight finances with no source of income, Client has difficulty affording another wheelchair and would appreciate donation of it. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134722",
+          "name": "Electri8c bed with air mattress &  wheelchair",
+          "description": "Electric hospital bed with air mattress in  good condition, wheelchair rarely used.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "30 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "134378",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client requires a new wheelchair as his current wheelchair was passed down by multiple users and current is not sturdy anymore. Client would also prefer for the arm rest to be able to be removed as it would be more convenient for him to transport himself from the wheelchair to a chair/bed.\n\nIf you have a suitable wheelchair for donation, please drop me a text at 92960569 or email me at muhammadsuffian@mws.sg. Thank you!",
+    "specifications": "20\"",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134722",
+          "name": "Electri8c bed with air mattress &  wheelchair",
+          "description": "Electric hospital bed with air mattress in  good condition, wheelchair rarely used.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "30 Jun 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         }

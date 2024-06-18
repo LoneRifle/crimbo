@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "134726",
+    "name": "Book shelf - shelve",
+    "description": "White bookshelf",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "01 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "81cm x 30cm x 212cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134697",
     "name": "2 panels of almost new purple curtains",
     "description": "The curtains are good quality material that was custom made and cost about $400.00. They are dark purple with silver stripes. Each panel is 54cm and 2 panels are 108 cm that will cover a 3 glass panel window of a 4 room flat.",
@@ -73,28 +84,6 @@
     "validTill": "17 Jul 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134681",
-    "name": "3-seater Blue-ribbed sofa",
-    "description": "This is a 3-seater blue-ribbed sofa in excellent working condition. It is firm and long enough for laying down",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "21 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134679",
-    "name": "Sofa",
-    "description": "3 seater sofa + ottomen\nSofa 2.4m x 90cm\nOttomen 90 x 90cm\n\nCleaned but do note some stains that cant be removed",
-    "location": null,
-    "validTill": "22 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "2.4m x 90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,6 +330,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "134717",
+    "name": "Display/ book cabinet",
+    "description": "Self collect please",
+    "location": null,
+    "validTill": "22 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "105w,183h,30d. 240h,90w,40d",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134298",
     "name": "Brown corner table unit",
     "description": "Dark brown corner table unit comprising corner table and separate 4-drawer unit on wheels \n\nIn good condition, minor scuff marks along table edge",
@@ -427,94 +427,6 @@
     "dimensions": "120cm by 60 cm by 75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "134695",
-    "name": "Toys and books",
-    "description": "Educational toys",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134694",
-    "name": "Toys",
-    "description": "Toys",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134693",
-    "name": "Toys",
-    "description": "Toys",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134692",
-    "name": "Toys",
-    "description": "Toys",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134691",
-    "name": "Toys",
-    "description": "Toys",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134690",
-    "name": "Toys",
-    "description": "Chess sets",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134689",
-    "name": "Toys and books",
-    "description": "Toys and books",
-    "location": null,
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134688",
-    "name": "Toys and books",
-    "description": "Toys and books",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "134683",
@@ -682,17 +594,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "134696",
-    "name": "Gym roller",
-    "description": "Gym roller",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "134628",
     "name": "Linden Piano with Bench",
     "description": "Linden Piano with Bench",
@@ -858,6 +759,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "134722",
+    "name": "Electri8c bed with air mattress &  wheelchair",
+    "description": "Electric hospital bed with air mattress in  good condition, wheelchair rarely used.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "30 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "134052",
     "name": "Electric hospital bed with air mattress",
     "description": "Well maintained. Height of bed is adjustable. Comes with remote control. Without serving tray.",
@@ -867,6 +779,17 @@
     "dimensions": "L212cm W95cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "134704",
+    "name": "Nespresso machine and Starbucks capsules",
+    "description": "Well used. Still working",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "19 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "23x26cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "134558",
@@ -898,6 +821,50 @@
     "validTill": "06 Jul 2024",
     "ageInYears": 2,
     "dimensions": "20-35L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134718",
+    "name": "Boy sports shoe",
+    "description": "Size 39\nAble to meet at common venue",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134720",
+    "name": "Boy sports shoe",
+    "description": "Size 39\nAble to meet at common venue",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134719",
+    "name": "Girl sports shoes",
+    "description": "US6\nIn good condition.\nAble to meet at common convenient place",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134721",
+    "name": "Girl sports shoes",
+    "description": "US6\nIn good condition.\nAble to meet at common convenient place",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
