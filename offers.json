@@ -132,6 +132,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "134810",
+    "name": "Coffee Table",
+    "description": "A marble coffee table still in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jun 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134560",
     "name": "Wall mount shelf",
     "description": "Delivery on weekday evening and weekend.",
@@ -183,17 +194,6 @@
     "validTill": "11 Jul 2024",
     "ageInYears": 2,
     "dimensions": "60cm x 60cm x 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134528",
-    "name": "Dining Table and Chairs",
-    "description": "Can be extended to sit 10 persons.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "11 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "L112cm x W84 cm x HT 79cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -361,6 +361,39 @@
     "dimensions": "120cm by 60 cm by 75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "134813",
+    "name": "Toddler ride on push car",
+    "description": "Toddler Ride On Pusher Car With Music and Handle Exercises Children's Walking Ability And Legs",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "134812",
+    "name": "Baby Walker",
+    "description": "Fisher-Price FHY94 Laugh & Learn Smart Stages Learn with Puppy Walker",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "134811",
+    "name": "Milk Powder stage 3 (1-3 yrs old) by Hipp",
+    "description": "2 tins of 800g Hipp milk powder stage 3, expiring April 2025.\n1 box of 500g Hipp milk powder stage 3, expiring September 2024\nCondition: new, unopened.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "134682",
@@ -572,17 +605,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "134797",
-    "name": "Tena Lady Super Pad 430mm",
-    "description": "4 packets of 30 pcs each\n430mm long",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "20 Jul 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "134749",
     "name": "Tena Men Active Fit (NOT diapers)",
     "description": "Tena Men Active Fit.\nPads to stick onto underwear. \nIdeal for mobile men with irritable bladders or slight incontinence, to catch small urinary leaks in case they can’t make it to the toilet in time. \n\nI can deliver to central/south areas only.",
@@ -658,6 +680,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "134809",
+    "name": "Walking stick",
+    "description": "Well keep",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "20 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "52 x 42 x 78cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "134699",
