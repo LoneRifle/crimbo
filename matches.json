@@ -793,5 +793,39 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "134401",
+    "category": "Mobility Aids",
+    "name": "commode chair",
+    "description": "Patient is single, staying alone in a 1 rm rental flat. \nHe hopes to receive a new commode with foot pedals as his current one is faulty. \nHe had a fall and injured himself.",
+    "specifications": null,
+    "contact": {
+      "org": "National Kidney Foundation (NKF)",
+      "name": "Liau Lian Lee",
+      "email": "lianlee.liau@nkfs.org",
+      "phone": [
+        "63593657",
+        "65062244"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "06 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134905",
+          "name": "Commode Chair without wheels",
+          "description": "Commode Chair hardly used",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "04 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
