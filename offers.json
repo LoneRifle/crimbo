@@ -22,6 +22,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135011",
+    "name": "Book cupboard",
+    "description": "Cupboard with see through glass door. Good for books.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "26 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "89cmx38cmx190cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135006",
+    "name": "Loft Bed with integrated study desk",
+    "description": "Transform your child’s room or your study space with this multifunctional loft bed with an integrated desk and storage solutions.\n\nFeatures:\n\n •Space-Saving Design: Combines a comfortable bed, functional desk, and ample storage in one unit.\n •Comfortable Bed, with mattress included \n •Functional Desk: Spacious desk area perfect for studying or working from home.\n •Storage Solutions: Includes drawers and shelves to keep essentials organized.",
+    "location": null,
+    "validTill": "26 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": "1970*1430*1060 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134968",
     "name": "sofa - fabric",
     "description": "3 seater sofa .",
@@ -36,17 +58,6 @@
     "id": "134962",
     "name": "Revolving Standing Mirror",
     "description": "Clear Mirror, completely functional as new",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "06 Jul 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134959",
-    "name": "Beige Fabric Sofa",
-    "description": "Used Sofa still very sturdy and functional",
     "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "06 Jul 2024",
     "ageInYears": 2,
@@ -407,6 +418,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "135013",
+    "name": "Small fish tank",
+    "description": "Includes small pump.\n\nDelivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": "40cmLx20cmWx30cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "134546",
     "name": "Children bicycle helmet",
     "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
@@ -501,17 +523,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "23 Jul 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "134906",
-    "name": "Shower chair with wheels",
-    "description": "Brand new",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "04 Jul 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
