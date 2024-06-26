@@ -300,5 +300,39 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "134983",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Client has recently been released from prison, and has applied to further her studies under Yellow Ribbon. She hopes to receives donation of bicycle while she tries to reintegrate herself back to the community, to enable her to seek delivery-type of employment while she searches for stable employment. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jun 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134546",
+          "name": "Children bicycle helmet",
+          "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "11 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
