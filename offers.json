@@ -33,6 +33,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135029",
+    "name": "Office Chair",
+    "description": "40 x chairs",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "12 Jul 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135028",
+    "name": "Office table",
+    "description": "1200mm by 700mm Work Desk \n1400mm by 700mm Work Desk \n1500mm by 700mm Work Desk \nLShape 1500mm x 1700mm Desk",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "12 Jul 2024",
+    "ageInYears": 3,
+    "dimensions": "1200mm by 700mm Work Desk  1400mm by 700mm Work Desk  1500mm by 700mm Work Desk  LShape 1500mm x 1700mm Desk",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135023",
+    "name": "Brass dresser and wall mirror",
+    "description": "In very good condition. In rustic Italian design",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "27 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": "1200x700",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135006",
     "name": "Loft Bed with integrated study desk",
     "description": "Transform your child’s room or your study space with this multifunctional loft bed with an integrated desk and storage solutions.\n\nFeatures:\n\n •Space-Saving Design: Combines a comfortable bed, functional desk, and ample storage in one unit.\n •Comfortable Bed, with mattress included \n •Functional Desk: Spacious desk area perfect for studying or working from home.\n •Storage Solutions: Includes drawers and shelves to keep essentials organized.",
@@ -99,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "134790",
-    "name": "White KIng Leather bed frame and mattress",
-    "description": "Well used",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "225 X 215 X 99 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "134786",
     "name": "Sofa",
     "description": "L shaped sofa\nONLY AVAILABLE ON 23-24 JULY",
@@ -139,6 +161,17 @@
     "validTill": "17 Jul 2024",
     "ageInYears": 2,
     "dimensions": "Width - 54cm  height 140cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135026",
+    "name": "Coffee Table",
+    "description": "A marble coffee table still in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jun 2024",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
