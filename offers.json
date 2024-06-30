@@ -77,6 +77,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135105",
+    "name": "IKEA desk",
+    "description": "Well used desk but still in good working condition. Has to be delivered by 13 July 2023",
+    "location": null,
+    "validTill": "13 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135104",
+    "name": "Mattress",
+    "description": "Single mattress still in good condition. Has to be delivered to the client by 13 July.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "13 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135103",
+    "name": "desk",
+    "description": "3 desks available",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "30 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135102",
+    "name": "1 or 2 Bed single size",
+    "description": "single size bed with mattress \n2 beds available",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "30 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135098",
     "name": "Study desk",
     "description": "2 desks with drawers and storage space",
@@ -713,6 +757,17 @@
     "dimensions": "Length 204cm x Width 100cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "135101",
+    "name": "Laundry Pods - 2 tubs",
+    "description": "Laundry pods x 2 tubs - unopened n new.\n60 capsules inside each tub. Just throw in with laundry to wash.",
+    "location": null,
+    "validTill": "30 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": "Nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "135069",
