@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "135132",
+    "name": "Washing machine",
+    "description": "Washing machine to bless out..",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "135119",
     "name": "Computer power cable",
     "description": "Connector type IEC C13 - 7 pieces.\nConnector type IEC C15 - 1 piece.\n\nDelivery on weekday evening and weekend.",
@@ -209,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "134786",
-    "name": "Sofa",
-    "description": "L shaped sofa\nONLY AVAILABLE ON 23-24 JULY",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "19 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "277x60x90",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "134770",
     "name": "Ikea study desk",
     "description": "Blue top study table with  keyboard tray, drawer & shelves. Item in good condition",
@@ -325,17 +325,6 @@
     "location": null,
     "validTill": "03 Jul 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "135075",
-    "name": "Baby Cot",
-    "description": "Baby cot, well used.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Jul 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
