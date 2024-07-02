@@ -1,5 +1,40 @@
 [
   {
+    "id": "135180",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client is a single elderly living by herself. She has trouble going out of her house as she is on wheelchair. Her television spoilt and needs a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135170",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a single mother with three children under her care. Due to her chronic health issues, client is medically unfit for work at present, and the family is reliant on financial assistance. Client is requesting for a washing machine urgently as hers broke.",
+    "specifications": "8kg Top Loader",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Joanna Tan",
+      "email": "joannatan@carecorner.org.sg",
+      "phone": [
+        "67984211",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
     "id": "135167",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine (Top load)",
@@ -11,24 +46,6 @@
       "email": "joyce_cheong@msf.gov.sg",
       "phone": [
         "63733981",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2024"
-  },
-  {
-    "id": "135159",
-    "category": "Electrical Home Appliances",
-    "name": "Top-Loading Washing Machine (8kg)",
-    "description": "Family of four (parents and two young children) is staying in a HDB rental flat. Their washing machine is malfunctioning. Due to financial constraints (father is the sole bread winner as mother is visually handicapped), the family cannot afford a new washing machine. They hope to get a top-loading washing machine (8kg load) to help them with their laundry.",
-    "specifications": "NA",
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Navarraj Navanitham",
-      "email": "navarraj_navanitham@msf.gov.sg",
-      "phone": [
-        "62319647",
         "1800-222-0000"
       ]
     },
@@ -70,23 +87,6 @@
     "date": "02 Jul 2024"
   },
   {
-    "id": "135126",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is a 56 year old woman living alone in a rental flat. She was recently diagnosed with cancer and is currently recovering after seeking treatment. Client requires a new or secondhand refrigerator as her current one has broken down.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre - Hougang",
-      "name": "Chan Jun Ren",
-      "email": "chanjunren@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2024"
-  },
-  {
     "id": "135125",
     "category": "Electrical Home Appliances",
     "name": "oven",
@@ -99,57 +99,6 @@
       "phone": [
         "64546678",
         "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2024"
-  },
-  {
-    "id": "135124",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "An elderly man living alone in a rented flat would require a standing fan for himself. He has mobility issues and has difficulties finding a suitable job currently.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Wei Shimin",
-      "email": "shimin.wei@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2024"
-  },
-  {
-    "id": "135118",
-    "category": "Electrical Home Appliances",
-    "name": "Boil Water Dispenser",
-    "description": "Client's husband is the sole breadwinner for their family with 1 child, and client is currently pregnant. Family will benefit from essential items for their home.\n\nClient is accepting of second hand items, but it will need to be in good condition and halal only",
-    "specifications": "5L Electric Water Dispenser",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Thiviya D/O Athimoolam",
-      "email": "thiviya@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2024"
-  },
-  {
-    "id": "135117",
-    "category": "Electrical Home Appliances",
-    "name": "Rice Cooker",
-    "description": "Client's husband is the sole breadwinner for their family with 1 child, and client is currently pregnant. Family will benefit from essential items for their home.\n\nClient is accepting of second hand items, but it will need to be in good condition and halal only.",
-    "specifications": "2.8L Rice cooker with Aluminium Inner Pot",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Thiviya D/O Athimoolam",
-      "email": "thiviya@allkin.org.sg",
-      "phone": [
-        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -203,24 +152,6 @@
       "email": "regine.yeo@ppis.sg",
       "phone": [
         "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Jun 2024"
-  },
-  {
-    "id": "135071",
-    "category": "Electrical Home Appliances",
-    "name": "Floor standing lamp short",
-    "description": "The flatmate residents are both seniors with multiple health conditions and are retired. They would need the fan to help with the heat otherwise they would sleep on the floor as it is cooler, although it is not recommended. \nPlease let me know if further assistance is needed. Can always reach out to me at 8126 2493.",
-    "specifications": "mid height fan",
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Julia Soh Ying Li",
-      "email": "juliasoh@fycs.org",
-      "phone": [
-        "63809155",
-        "63809169"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -804,23 +735,6 @@
     "date": "18 Jun 2024"
   },
   {
-    "id": "134723",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Family of six lives in a 2-room rental flat. Their TV is in poor condition and is about to spoil. They hope to have a TV in good working condition to replace their current TV.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Quak Mei Qing",
-      "email": "meiqing@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jun 2024"
-  },
-  {
     "id": "134701",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -906,23 +820,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Jun 2024"
-  },
-  {
-    "id": "134624",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Client is married with 2 young children below the age of 2. The family has been facing financial strains due to health and employment issues. Client is staying at a rented room but had just gotten the keys to her new rental flat. The family has not been able to move in as they are still saving up for furnishing and home appliances. Client is requesting for a television as part of her house furnishing.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Jun 2024"
   },
   {
     "id": "134611",
@@ -1506,6 +1403,78 @@
     "date": "03 Jun 2024"
   },
   {
+    "id": "131052",
+    "category": "Others",
+    "name": "Tena L size adult diapers (pants)",
+    "description": "Client is elderly and diagnosed with cancer. Apart from requiring consuming ensure milk to supplement her diet, he is also required to use diapers on a daily basis.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "131739",
+    "category": "Others",
+    "name": "TENA Wet Wipes",
+    "description": "Female client, 89 yo, diagnosed with Breast Cancer. Due to her age, she has difficulties to walk after completing her treatment. Currently is wheelchair bound. She requires TENA Wet Wipes to help her clean her body and use it for changing her diapers. She has sensitive skin, therefore she only uses certain brands that suit her skin.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "133119",
+    "category": "Others",
+    "name": "Ensure Plus - Individual Packets",
+    "description": "CT is diagnosed with end stage cancer and is currently bed bound. She required addition nutrients as she can no longer consume solid food. Family has exhausted their savings and salary for Ct's consumable expenses.",
+    "specifications": "Individual Packets",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "131667",
+    "category": "Others",
+    "name": "TENA DIAPER L (PANTS)",
+    "description": "A male client age 66 years old requires Tena Diaper Pants size L. He the diapers daily since he was diagnosed with Bladder Cancer in 2022. He stays with his spouse. He is not working and his wife is a full caregiver.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Jul 2024"
+  },
+  {
     "id": "135162",
     "category": "Others",
     "name": "TENA adult wet wipes",
@@ -1536,24 +1505,6 @@
       "phone": [
         "66977519",
         "65632281"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2024"
-  },
-  {
-    "id": "135160",
-    "category": "Others",
-    "name": "Printer",
-    "description": "Client is a 33-year-old single mother, living with her 6-year-old son. Client has been unemployed since late-April 2023, due to mental health concerns, and is looking to join back the workforce. Client requires a printer to support her in trainings and upskilling as she prepares to re-enter the workforce.",
-    "specifications": "Printer",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2474,24 +2425,6 @@
     "date": "04 Jun 2024"
   },
   {
-    "id": "134283",
-    "category": "Others",
-    "name": "Tea Bags",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more tea bags for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Sim Yan Ling",
-      "email": "yanling.sim@ppis.sg",
-      "phone": [
-        "65613462ext503",
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jun 2024"
-  },
-  {
     "id": "134282",
     "category": "Others",
     "name": "Body wash",
@@ -2610,24 +2543,6 @@
       "email": "shimah@ainsociety.org.sg",
       "phone": [
         "68485163",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Jun 2024"
-  },
-  {
-    "id": "134238",
-    "category": "Others",
-    "name": "TENA PROSKIN TAPE SIZE L (ADULT DIAPERS)",
-    "description": "Ct is in her 70s and has end stage pancreatic cancer. Incontinence, requires diapers and hygiene sheets. Caregiver is currently caring for a school-going child and a spouse with disability, therefore is facing a lot of financial burden. Caregiver requires TENA PROSKIN TAPE SIZE L (ADULT DIAPERS). Thank you for your kind assistance.",
-    "specifications": "one carton",
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nur'Ain Binte Mohamed Said",
-      "email": "nurain@ainsociety.org.sg",
-      "phone": [
-        "68485116",
         "68485166"
       ]
     },
@@ -3679,6 +3594,59 @@
     "date": "03 Jun 2024"
   },
   {
+    "id": "135184",
+    "category": "Infant and Children Items",
+    "name": "Diapers (Merries Size S)",
+    "description": "Young parents of a month old baby needs help with diapers (Merries Size S). Father does part-time repair works while completing his national service currently and will appreciate the help with the diapers donation. If you are able to help, please contact Jessie at 9125 0028 or email jessielim@fycs.org. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Jessie Lim",
+      "email": "jessielim@fycs.org",
+      "phone": [
+        "91250028",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135183",
+    "category": "Infant and Children Items",
+    "name": "Lactogen Milk Power (Stage 1)",
+    "description": "Young parents of a newborn baby needs help with milk powder (Lactogen Stage 1). Father does part-time repair works while completing his national service currently and will appreciate the help with the milk powder donation. If you are able to help, please contact Jessie at 9125 0028 or email jessielim@fycs.org. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Jessie Lim",
+      "email": "jessielim@fycs.org",
+      "phone": [
+        "91250028",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135179",
+    "category": "Infant and Children Items",
+    "name": "Milk Tins",
+    "description": "Request for milk support for a family of 6. Parents are both working to support 4 children, however NF has to stop his second job to be present at home to ensure safe caregiving of his children. Additionally, the family has also recently incurred debts, and are working towards clearing them. Thus, the family is in need of support for milk tins to tide through this period while NF's income has reduced. - Similac milk infant stage 3 (1 year and above) 2 tins - Please WhatsApp/text me @ 8907 8297.",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Bernice  Chai",
+      "email": "bernicechai@fycs.org",
+      "phone": [
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
     "id": "135145",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -3887,23 +3855,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "26 Jun 2024"
-  },
-  {
-    "id": "134958",
-    "category": "Infant and Children Items",
-    "name": "Baby Play Yard",
-    "description": "Client is supporting her daughter's care for her 3 children, ages 2 , 1 and 7 months. Daughter is undergoing divorce and is financially reliant on financial assistance as children is not receiving financial support from their father. Daughter is hoping to receive a play yard for her toddler as her current one is no longer in good working condition. For further liaison, kindly contact me at 98598768, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Jun 2024"
   },
   {
     "id": "134928",
