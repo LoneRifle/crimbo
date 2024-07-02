@@ -1,5 +1,57 @@
 [
   {
+    "id": "135159",
+    "category": "Electrical Home Appliances",
+    "name": "Top-Loading Washing Machine (8kg)",
+    "description": "Family of four (parents and two young children) is staying in a HDB rental flat. Their washing machine is malfunctioning. Due to financial constraints (father is the sole bread winner as mother is visually handicapped), the family cannot afford a new washing machine. They hope to get a top-loading washing machine (8kg load) to help them with their laundry.",
+    "specifications": "NA",
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Navarraj Navanitham",
+      "email": "navarraj_navanitham@msf.gov.sg",
+      "phone": [
+        "62319647",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135152",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "The family of five is staying in an HDB rental flat. Their washing machine has spoiled. Due to financial constraints, the family cannot afford a new washing machine. They hope to get a second-hand machine still in good condition to help them with their laundry.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre - Hougang",
+      "name": "Reina Chantelle Reyes",
+      "email": "reinachantelle@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135148",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is 57 year old woman living alone in a rental flat. She was recently diagnosed with cancer and is currently seeking treatment. Due to her diagnosis, she is unable to squat to do her laundry, as such she is looking for a top load washing machine to ease the physical strain on her body.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre - Hougang",
+      "name": "Chan Jun Ren",
+      "email": "chanjunren@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
     "id": "135126",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -1436,6 +1488,95 @@
     "date": "03 Jun 2024"
   },
   {
+    "id": "135162",
+    "category": "Others",
+    "name": "TENA adult wet wipes",
+    "description": "Client is a 21 year old with Cancer stage 4 & a low prognosis.Client lives with his parents. Currently, mother is the caregiver and step-father is the sole income earner.",
+    "specifications": "30x20cm",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135161",
+    "category": "Others",
+    "name": "Cardiac Table",
+    "description": "Pt is staying alone and not working due to multiple illness. He is financially needy and is under Medifund in hospitals. As pt is bed-bound, he requires a cardiac table for his daily activities.",
+    "specifications": "NA",
+    "contact": {
+      "org": "St Luke's Hospital Ltd",
+      "name": "Lee Xin Yi",
+      "email": "xinyilee@stluke.org.sg",
+      "phone": [
+        "66977519",
+        "65632281"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135160",
+    "category": "Others",
+    "name": "Printer",
+    "description": "Client is a 33-year-old single mother, living with her 6-year-old son. Client has been unemployed since late-April 2023, due to mental health concerns, and is looking to join back the workforce. Client requires a printer to support her in trainings and upskilling as she prepares to re-enter the workforce.",
+    "specifications": "Printer",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135153",
+    "category": "Others",
+    "name": "Diapers and toiletries",
+    "description": "Family of 4 consisting of 2 special needs children and the sole breadwinner is only able to work part-time due to high caregiving needs of M/15.",
+    "specifications": "3x 3XL Diapers and 2x wet tissue tubs",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 206B",
+      "name": "Nurhanisah Binte Abdul Rahman",
+      "email": "nurhanisah@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135150",
+    "category": "Others",
+    "name": "used laptop/Ipad",
+    "description": "Client's adult daughter with down's syndrome is unable to see clearly because of cross eye syndrome. She currently relies on the phone which she cannot see clearly for learning and leisure purposes. Client hopes to receive assistance in getting an old/used device with a bigger screen for her instead.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Wong Wing Sang",
+      "email": "wongwingsang@fycs.org",
+      "phone": [
+        "69784261",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
     "id": "135147",
     "category": "Others",
     "name": "Handphone (Can be pre-used)",
@@ -1590,23 +1731,6 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "28 Jun 2024"
-  },
-  {
-    "id": "135033",
-    "category": "Others",
-    "name": "Food rations",
-    "description": "Client (M/38) is unemployed as he is the main caregiver of his daughter (5), who had been diagnosed with Autism, son (3), son (new born) who is suspected to have down syndrome and his wife (38) who has been diagnosed with depression and border-line personality disorder and is currently unfit for work. The family will benefit from donation for food rations as they are struggling to meet their basic needs with limited finances.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Jeanie Ho",
-      "email": "jeanieho@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jun 2024"
   },
   {
     "id": "135005",
@@ -2598,6 +2722,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Jun 2024"
+  },
+  {
+    "id": "135158",
+    "category": "Home Furnishing",
+    "name": "Mattress (suitable for three people)",
+    "description": "The family of 3 is staying in an HDB rental unit. Due to financial constraints, they are unable to buy mattresses. They are currently sleeping on the floor and experiencing back pain.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre - Hougang",
+      "name": "Reina Chantelle Reyes",
+      "email": "reinachantelle@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135157",
+    "category": "Home Furnishing",
+    "name": "Bedframe",
+    "description": "Client's spouse is a patient of NKF and has kidney issues requiring him to go for dialysis 3 times a week. The family has 4 children requiring caregiving. Due to dialysis, client's spouse is physically weak and has difficulty commuting to and fro NKF. Therefore, they would greatly benefit if they have a wheelchair to navigate spouse around. For further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": "Queen Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135155",
+    "category": "Home Furnishing",
+    "name": "Single Mattress",
+    "description": "Family was homeless and was staying in a shelter. After years of hardwork, they have attained their rental flat and will be moving in, in early June 2024. With their limited income and financial constraints, they are facing difficulties to purchase household items. They are looking for 2nd hand furniture to ease their journey in building a home.",
+    "specifications": "Single Sized",
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
+  },
+  {
+    "id": "135154",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame with Bottom Pull Out Bed (with Mattress)",
+    "description": "Family was homeless and was staying in a shelter. After years of hardwork, they have attained their rental flat and will be moving in, in early June 2024. With their limited income and financial constraints, they are facing difficulties to purchase household items. They are looking for 2nd hand furniture to ease their journey in building a home.",
+    "specifications": "Single Sized",
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
   },
   {
     "id": "135095",
@@ -5097,24 +5291,6 @@
     "date": "10 Jun 2024"
   },
   {
-    "id": "134479",
-    "category": "Kitchen Utility Items",
-    "name": "Food blender",
-    "description": "Low income family with 3 young children reside in a one room rental flat. Husband is a LTVP+ holder, working with limited income. The family hopes to receive food blender so that they can prepare their own meals, which will help to save costs on meal. Please WhatsApp Fang Ling at 8588 6196 or email to fangling.koh@thkmc.org.sg to liaise.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Jun 2024"
-  },
-  {
     "id": "134232",
     "category": "Kitchen Utility Items",
     "name": "kitchen cabinet",
@@ -5219,5 +5395,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Jun 2024"
+  },
+  {
+    "id": "135149",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Family of 4 has 2 school-going children who requires a working laptop to help with their school work. Their current laptop is faulty.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Yew Tee",
+      "name": "Fu Xiu Ting",
+      "email": "fuxiuting@fycs.org",
+      "phone": [
+        "64162186",
+        "64162162"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024"
   }
 ]
