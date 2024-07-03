@@ -33,6 +33,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "135246",
+    "name": "Washing machine",
+    "description": "Toshiba top-loading washing machine, 9kg load capacity.  Easy-to-use, just load and press start",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "02 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": "0.93m (H) x 0.55m (W) x 0.62m (D)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135245",
+    "name": "Fridge",
+    "description": "Sharp 2-door fridge",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "02 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": "1.57m (H)x 0.56m (W) x 0.53m (D)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135244",
+    "name": "Colour TV",
+    "description": "Sony flat screen colour tv, with remote control and indoor digital antennae",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "02 Aug 2024",
+    "ageInYears": 3,
+    "dimensions": "32-inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "135204",
     "name": "Iron board & phillips iron",
     "description": "Iron board & phillips azur iron",
