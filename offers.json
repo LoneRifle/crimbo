@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "135249",
+    "name": "Washing machine",
+    "description": "Would prefer to bless to someone who is really in need and not fussy..washer is working well just ocassionally u need to knock to get the machine running that about all",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "135245",
     "name": "Fridge",
     "description": "Sharp 2-door fridge",
@@ -64,6 +75,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135248",
+    "name": "IKEA chest of 6 drawers",
+    "description": "Good condition x 1 set",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "80x48x124",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "135235",
@@ -215,17 +237,6 @@
     "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "06 Jul 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134904",
-    "name": "foldable chairs",
-    "description": "There are 8 chairs available at the moment.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "04 Jul 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -644,17 +655,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "23 Jul 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "134905",
-    "name": "Commode Chair without wheels",
-    "description": "Commode Chair hardly used",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "04 Jul 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
