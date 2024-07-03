@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135224",
+    "name": "Single size mattress",
+    "description": "Single size mattress to be blessed out",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135211",
     "name": "Chest of 7 drawers",
     "description": "Wooden chest of 7 drawers",
@@ -319,11 +330,33 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "135220",
+    "name": "Drypers wee wee dry size",
+    "description": "M size x 2 packs available",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "30 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "135092",
     "name": "Baby milk bottle warmer",
     "description": "Milk bottle warmer still in very good condition",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "29 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "135222",
+    "name": "Baby Cot",
+    "description": "Baby cot, well used.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jul 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -622,17 +655,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "16 Jul 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "134536",
-    "name": "Hospital Bed",
-    "description": "Electrical control hospital bed",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "11 Jul 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
