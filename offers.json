@@ -44,6 +44,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "135299",
+    "name": "Living room lamp",
+    "description": "Crate & barrell living room lamp",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "45x45x70",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135298",
+    "name": "Weber electric bbq on stand",
+    "description": "Weber electric bbq on stand with cover and bbq cooking utensils",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "70x50x96",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "135294",
     "name": "Canon pixma colour scan printer",
     "description": "Canon Pixma Printer",
@@ -108,6 +130,50 @@
     "dimensions": "W153 D79 H111 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135300",
+    "name": "Study chair with arm rests",
+    "description": "IKEA study chair with hydraulic lever raises seat up / down and backwards, head & back support",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "50x62x137",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135297",
+    "name": "Outdoor furniture setting",
+    "description": "3 seat couch 190x75x85\n2 x single arm chairs 70x75x85\n1 x glass top table 150x87x72\n2 x padded stools 38x38x46",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "Refer description",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135296",
+    "name": "2 x metal IKEA storage racks",
+    "description": "2 x metal IKEA storage racks (excluding all the items :)",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "60x30x140",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135295",
+    "name": "2 x Metal IKEA Storage Racks",
+    "description": "2 x metal IKEA storage racks (excluding all the items :)",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "80x38x165",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "135289",
@@ -484,17 +550,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "134334",
-    "name": "Wooden marble track + marbles",
-    "description": "Wooden marble track for children to build. Can create all kinds of designs for marbles to run down and it’s lots of fun. Note that the marbles are small so not for children that are too young",
-    "location": null,
-    "validTill": "05 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "134562",
     "name": "Sushi rolling bamboo",
     "description": "Delivery on weekday evening and weekend.",
@@ -581,17 +636,6 @@
     "dimensions": "120Lx90W",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "135293",
-    "name": "Gloves M size",
-    "description": "Disposable gloves. M size. \n\nI have 20 boxes (100 gloves per box)\nExp Nov 2024.\n\nI can only deliver to central/south areas",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "20 Jul 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "135272",
@@ -746,17 +790,6 @@
     "dimensions": "Length 204cm x Width 100cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "135069",
-    "name": "Yamagata Recorders",
-    "description": "3 x Yamaha ABS Recorders. In good condition.  Ideal for school use.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "05 Jul 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "134558",
