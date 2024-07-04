@@ -1,5 +1,16 @@
 [
   {
+    "id": "135291",
+    "name": "Clothes",
+    "description": "Suitable for female elderly between 70-80 years old.  L size. About 30 pieces of both tops and bottom. In good condition.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "19 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "135151",
     "name": "Women jacket and dress",
     "description": "Brand new puff jacket, dress and shoe size 5",
@@ -31,17 +42,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
-  },
-  {
-    "id": "135286",
-    "name": "Prism+ 32-inch Android TV with Receiving Antenna",
-    "description": "Bought this TV for study room and own it less than 2 years. We have a new Smart TV so do not have use for this Android TV. All working well except sometimes need to today off main power and reboot. Perfectly ok with scanning and accessing local channels.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 2,
-    "dimensions": "72cm length x 46cm height x 16cm depth, including tabletop stand legs",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
   },
   {
     "id": "135283",
@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135289",
+    "name": "king bedsheet set",
+    "description": "King sized white fitted bedsheet , duvet cover , and pillow cases . all washed and cleaned.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "03 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": "king size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135280",
     "name": "Study table",
     "description": "Slight damage at the left side of the table. Overall still in ok condition",
@@ -150,17 +161,6 @@
     "validTill": "31 Jul 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135211",
-    "name": "Chest of 7 drawers",
-    "description": "Wooden chest of 7 drawers",
-    "location": null,
-    "validTill": "01 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": "58x45x152",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -350,17 +350,6 @@
     "dimensions": "60cm x 60cm x 75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "135231",
-    "name": "Aprica day bed rocker",
-    "description": "Pre-loved and still in good condition. Cushion and cover have been washed and kept.\nSuitable from new born to 3 years old (up to 15kg)\nCan be used as a high-low bed or as a high chair as it comes with 5 point harness and removable table\n5 recline positions to a full recline\nSwing mechanism cradles the baby as if in mom's arms\nBody support cushion\n4 wheels with brakes",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "135177",
@@ -581,6 +570,17 @@
     "dimensions": "120Lx90W",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "135293",
+    "name": "Gloves M size",
+    "description": "Disposable gloves. M size. \n\nI have 20 boxes (100 gloves per box)\nExp Nov 2024.\n\nI can only deliver to central/south areas",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "20 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "135272",
