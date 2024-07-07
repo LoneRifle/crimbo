@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "135348",
-    "name": "16\" standing fan",
-    "description": "Working like new.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "01 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": "45x45x140",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "135346",
     "name": "16\" standing fan",
     "description": "Fan oscillator not functioning but fan speed is very much working.",
@@ -130,6 +119,17 @@
     "dimensions": "W153 D79 H111 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135358",
+    "name": "Wooden  5-seater sofa",
+    "description": "Item is about 20 years but wood is still good although surface is no longer shiny.",
+    "location": null,
+    "validTill": "06 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "135353",
@@ -603,6 +603,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "135357",
+    "name": "Monitor",
+    "description": "Monitor for person who needs to project laptop screen",
+    "location": null,
+    "validTill": "06 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "65cm diagonally for screen",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
+    "id": "135356",
+    "name": "Laptop",
+    "description": "Except for one button that came off. Laptop is still in working condition.",
+    "location": null,
+    "validTill": "06 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "38 x 26 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "134913",
