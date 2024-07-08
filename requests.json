@@ -984,18 +984,53 @@
     "date": "07 Jun 2024"
   },
   {
-    "id": "135394",
+    "id": "135418",
     "category": "Home Furnishing",
-    "name": "Single Mattress",
-    "description": "Client is a 19 years old mother of infant twins who just moved in to her 1-room rental flat. Due to her caregiving role and responsibilities, client is unable to work and is hoping to receive one single size mattress for her children to rest comfortably. Please WhatsApp Jie Qi at 8484 6181 or email to jieqi.yeo@thkmc.org.sg to liaise.",
+    "name": "Mattress",
+    "description": "Client's husband is the sole breadwinner for their family with 1 child, and client is currently pregnant. Family will benefit from essential items for their home. Client is requesting for a new queen sized mattress for her family.",
+    "specifications": "Queen Sized mattress",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
+  },
+  {
+    "id": "135416",
+    "category": "Home Furnishing",
+    "name": "Smart TV",
+    "description": "Family of 3 staying in a 1-room public rental flat in Woodlands. They recently moved into the flat. Both parents are still looking for a stable job, and child is in Pri 2. They are looking out for a donated smart TV so that they can save money for other necessary expenses.",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Nur Farizan Hashim",
+      "email": "nur_farizan_hashim@msf.gov.sg",
       "phone": [
-        "64961272",
-        "62706711"
+        "60138532",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
+  },
+  {
+    "id": "135413",
+    "category": "Home Furnishing",
+    "name": "Fridge (malay family)",
+    "description": "Family of 4 moving into their 2-room flat and requires some basic household items like fridge, washing machine and TV. \n\n2 young children, 1 is 8 years old with special needs while the other is 7 years old.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA School @ Napiri",
+      "name": "Zhang Ciyun Ruby",
+      "email": "ruby_zhang@awwa.org.sg",
+      "phone": [
+        "65117666",
+        "65115280"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2117,24 +2152,6 @@
     "date": "05 Jul 2024"
   },
   {
-    "id": "135310",
-    "category": "Infant and Children Items",
-    "name": "Nestlé LACTOGEN 3",
-    "description": "Low-income family with four children. The mother has difficulty finding employment due to low cognitive functioning.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Joyce Ng",
-      "email": "joyceng@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Jul 2024"
-  },
-  {
     "id": "135278",
     "category": "Infant and Children Items",
     "name": "Stroller",
@@ -2819,23 +2836,6 @@
     "date": "07 Jun 2024"
   },
   {
-    "id": "135403",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client is a caregiver and sole breadwinner to her ill spouse and three school going children. Client is hoping to source for adult diapers for spouse's usage as he is unable to control his bowel movements as his health had deteriorated. Client could not afford to buy additional adult diapers due to family's financial struggles and commitments. Hence, family is requesting for a few packets of Tena Slip Plus size L. For further liaison, kindly contact me at 98598768, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jul 2024"
-  },
-  {
     "id": "135395",
     "category": "Medical Aids",
     "name": "Adult Diapers Size L (TENA)",
@@ -3114,6 +3114,77 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Jun 2024"
+  },
+  {
+    "id": "135421",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Senior gentleman living alone in 2 room flat, now unable to hand wash his own garments due to his physical condition.\nHis current old washing machine is beyond repair.  \nThank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
+      "phone": [
+        "66814941",
+        "63758600"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
+  },
+  {
+    "id": "135419",
+    "category": "Electrical Home Appliances",
+    "name": "Stove",
+    "description": "Client's husband is the sole breadwinner for their family with 1 child, and client is currently pregnant. Family will benefit from essential items for their home. Client is accepting of second hand two in one stove, but it will need to be in good condition and halal only.",
+    "specifications": "2 in 1 stove",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
+  },
+  {
+    "id": "135415",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Family of 4 moving into their 2-room flat and requires some basic household items like fridge, washing machine and TV. \n\n2 young children, 1 is 8 years old with special needs while the other is 7 years old.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA School @ Napiri",
+      "name": "Zhang Ciyun Ruby",
+      "email": "ruby_zhang@awwa.org.sg",
+      "phone": [
+        "65117666",
+        "65115280"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
+  },
+  {
+    "id": "135414",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 4 moving into their 2-room flat and requires some basic household items like fridge, washing machine and TV. \n\n2 young children, 1 is 8 years old with special needs while the other is 7 years old.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA School @ Napiri",
+      "name": "Zhang Ciyun Ruby",
+      "email": "ruby_zhang@awwa.org.sg",
+      "phone": [
+        "65117666",
+        "65115280"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
   },
   {
     "id": "135397",
@@ -4429,6 +4500,24 @@
     "date": "07 Jun 2024"
   },
   {
+    "id": "135412",
+    "category": "Mobility Aids",
+    "name": "Electric Wheelchair",
+    "description": "My client is a 70 yr-old mother that continues to work and care for her two children with mental health conditions and her grandchild with similar struggles. Recently, she has been having difficulties walking and wishes to have an electric wheelchair that can be controlled with a joystick. She hopes that this electric wheelchair can benefit her 74 yr-old husband as well.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Ng Rui Fang",
+      "email": "ruifang@frcsfsc.sg",
+      "phone": [
+        "67799488ext18",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2024"
+  },
+  {
     "id": "135339",
     "category": "Mobility Aids",
     "name": "Wheelchair",
@@ -4724,23 +4813,5 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Jun 2024"
-  },
-  {
-    "id": "135392",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is in her 50s. She is looking to upgrade herself and is attending a course by a social service organisation to learn IT skills. She is unable to afford for a laptop, and a donation of one will be helpful for her. Client is experiencing grief over her late daughter's passing last year, hence learning new skills will be helpful for her to re-discover her sense of self. Please WhatsApp Odelia at 8588 3163 or email to odelia.teo@thkmc.org.sg to liaise.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jul 2024"
   }
 ]
