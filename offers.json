@@ -198,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135561",
-    "name": "IKEA desk",
-    "description": "Well used desk but still in good working condition. Has to be delivered by 13 July 2023",
-    "location": null,
-    "validTill": "13 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135103",
     "name": "desk",
     "description": "3 desks available",
@@ -262,6 +251,17 @@
     "dimensions": "Width - 54cm  height 140cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "135577",
+    "name": "Similac Stage 2",
+    "description": "2 cans of Similac stage 2 (850g) available, expiry date December 2024. Can deliver to any MRT station.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "11 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "135438",
@@ -363,6 +363,28 @@
     "category": "Learning Aids"
   },
   {
+    "id": "135579",
+    "name": "Gout granules",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "135578",
+    "name": "Glucose drink",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "135473",
     "name": "Hospital Bed",
     "description": "A hospital bed in good working condition",
@@ -446,17 +468,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "18 Jul 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "134474",
-    "name": "commode chair",
-    "description": "The silicone pad has recently started to crack (first pix). Refer to second pix without chair pad. \n\nCommode comes with bin and lid with locking wheels and may be placed in bathroom or bedroom.",
-    "location": null,
-    "validTill": "15 Aug 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
