@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "135596",
+    "name": "Rice cooker",
+    "description": "Hitachi Rice Cooker",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jul 2024",
+    "ageInYears": 3,
+    "dimensions": "40x30x25",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "135401",
     "name": "Novita dehumidifier",
     "description": "Dehumidifier, provided as it is",
@@ -97,6 +108,28 @@
     "dimensions": "W153 D79 H111 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "135597",
+    "name": "Curtains and new IKEA curtain rod",
+    "description": "New 140cm IKEA curtain rod\n1 set of preloved curtains per photo",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "13 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "140cm length curtain",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135595",
+    "name": "Single mattress",
+    "description": "Single size Mattress\nUsed for 6 mths only\n11 inch thick",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "13 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "135593",
