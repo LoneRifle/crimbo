@@ -234,68 +234,33 @@
     }
   },
   {
-    "id": "135530",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Our Client has been homeless for one year and only recently got approval from HDB to have a rental flat. They do not have sufficient funds to purchase the above-said items which are necessary for ease of living.",
-    "specifications": "TV",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135613",
-          "name": "Samsung 32 inches TV",
-          "description": "32 inches TV",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "14 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135514",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A 73year old gentleman, after spending some time in the transitional shelter, finally managed to get a public housing rental flat. Even though of age, he is still working. To ease his financial burden, he like to request for a TV for his new 1 room flat,which he sharing with another senior, so that they can get suitable entertainment during their free time.   Appreciate if donor can deliver the item to their unit too.\n\nIf this speaks to you, please email their social worker (anntat@newhopecs.org.sg) or whatsapp him at 87952925\n\nThank you for your kindness.",
+    "id": "135380",
+    "category": "Infant and Children Items",
+    "name": "Baby Crib",
+    "description": "Client has given birth recently to her 6th child. She has 5 other young children, and her husband is working dual jobs to supplement the family's income. The couple does not have the financial capacity to afford a baby crib for their newborn.",
     "specifications": null,
     "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Farisha",
+      "email": "nurfarisha@allkin.org.sg",
       "phone": [
-        "87952925",
-        "63059620"
+        "64578559"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jul 2024",
+    "date": "08 Jul 2024",
     "matches": {
       "passiton": [
         {
-          "id": "135613",
-          "name": "Samsung 32 inches TV",
-          "description": "32 inches TV",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "14 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
+          "id": "135632",
+          "name": "Baby crib",
+          "description": "Baby crib with mattress x  5nos",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "01 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": "98cm x 58cm x86cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -341,6 +306,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135637",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is diagnosed with cerebral palsy and needs a wheelchair when she attends her appointments. Currently, her sister is her main caregiver. Her brother in law is the sole breadwinner and faces financial difficulties to purchase a new wheelchair to replace her current one which is spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135609",
+          "name": "Bion iLight Wheelchair L120",
+          "description": "Bion iLight Wheelchair L120\nhttps://bion.sg/products/bion-ilight-wheelchair-l120",
+          "location": "Redhill",
+          "validTill": "14 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []

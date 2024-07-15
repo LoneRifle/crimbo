@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "135613",
-    "name": "Samsung 32 inches TV",
-    "description": "32 inches TV",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "14 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "135596",
     "name": "Rice cooker",
     "description": "Hitachi Rice Cooker",
@@ -121,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135617",
+    "name": "3 seater brown leather sofa",
+    "description": "It is very usable although it has some minor cracks on the leather cushion seats. clearing space. Urgent donation",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "20 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "170cm x 90cm x 92cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135601",
     "name": "White Bar Counter",
     "description": "This white bar counter was used for one of our recent event, please let me know if you would be keen to accept this item as a donation",
@@ -183,6 +183,28 @@
     "validTill": "31 Jul 2024",
     "ageInYears": 4,
     "dimensions": "190 X 152 x 25.5",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135621",
+    "name": "Blue Canvas Sofa",
+    "description": "Sofa is good condition",
+    "location": null,
+    "validTill": "24 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "2060mm X 700mm X 700mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135622",
+    "name": "Blue Canvas Sofa",
+    "description": "Sofa is good condition",
+    "location": null,
+    "validTill": "24 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "2060mm X 700mm X 700mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -317,6 +339,17 @@
     "dimensions": "Width - 54cm  height 140cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "135632",
+    "name": "Baby crib",
+    "description": "Baby crib with mattress x  5nos",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "01 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": "98cm x 58cm x86cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "135610",
@@ -534,6 +567,28 @@
     "location": "Redhill",
     "validTill": "14 Aug 2024",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "135618",
+    "name": "Walking aid",
+    "description": "No covering delivery, self collect only.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "135627",
+    "name": "Walking aid",
+    "description": "No covering delivery, self collect only.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Aug 2024",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
