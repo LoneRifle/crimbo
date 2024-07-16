@@ -110,6 +110,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135687",
+    "name": "Small table with 2 stools",
+    "description": "Ikea table not foldable, see dimensions above. 2 metal black stools, not foldable 39cm x 39cm x 46cm",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "70cm x 70cm x 72cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135685",
+    "name": "Metal Rack",
+    "description": "Metal Rack with wooden bases",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "185cm x 152cm x 47cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135684",
+    "name": "Metal Rack",
+    "description": "Metal utility rack with wooden bases",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "185cm x 52cm x 92cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135683",
+    "name": "Coffee table",
+    "description": "Glass top,wooden drawers, metal legs",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "114cm x 65cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135665",
     "name": "3 Seater Half Leather Sofa",
     "description": "Lorenzo pre loved half leather sofa\nAvailable from 3-7 Sep",
@@ -139,17 +183,6 @@
     "validTill": "31 Jul 2024",
     "ageInYears": 4,
     "dimensions": "about L197 x W106 x H176",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135658",
-    "name": "Lazy sofa",
-    "description": "I have 3 pcs of these lazy sofas. Covers able to remove for washing. Firm sponges",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "14 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": "100x50x35 (height)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -205,17 +238,6 @@
     "validTill": "13 Aug 2024",
     "ageInYears": 4,
     "dimensions": "140cm length curtain",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135595",
-    "name": "Single mattress",
-    "description": "Single size Mattress\nUsed for 6 mths only\n11 inch thick",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "13 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -440,17 +462,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "135308",
-    "name": "Breast pump",
-    "description": "The breast pump still working well.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "04 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "135537",
     "name": "Children utensils",
     "description": "2 plates, 2 pairs of fork/spoon, 1 cup",
@@ -523,17 +534,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "14 Aug 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "135584",
-    "name": "hospital bed",
-    "description": "my father don't need it anymore",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "12 Aug 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
@@ -724,6 +724,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "135703",
+    "name": "Chair",
+    "description": "Detail of chair here: https://www.comfortfurniture.com.sg/products/office/training-chairs/whiz-side-chair-castors-nestable",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "135582",
