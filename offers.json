@@ -110,13 +110,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "135713",
-    "name": "Standing Storage Shelves",
-    "description": "Used condition but well maintained.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "25 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "46cm x 30cm x 146cm each",
+    "id": "135738",
+    "name": "Sofa",
+    "description": "Fabric sofa, in good condition. Can convert to sofa bed.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": "L200cm x W110cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135719",
+    "name": "Children Loft Bed",
+    "description": "Loft bed with slide as picture. Still in very good condition. NO MATTRESS. Color and dimensions as pictured. Can be dismantled for delivery. Please arrange pick up.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "10 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -253,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135592",
-    "name": "Queen size bed frame",
-    "description": "This durable queen-size bed frame is light-weight, and can be easily stowed away/transported. It is also possible to put storage boxes under the bed.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "190 X 152 x 25.5",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135511",
     "name": "Not covering delivery charges, please arrange for collection!",
     "description": "Items are in good condition.\n\nN.B. Not covering delivery charges, please arrange for collection!",
@@ -374,6 +374,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "135724",
+    "name": "Kids Standing Whiteboard",
+    "description": "Used condition but well maintained.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "25 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "60cm x 39cm x 118cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "135712",
     "name": "Kids Table With Chair",
     "description": "Used condition but well maintained. Standard wear and tear.",
@@ -381,17 +392,6 @@
     "validTill": "25 Jul 2024",
     "ageInYears": 4,
     "dimensions": "83cm x 58cm x 49cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "135657",
-    "name": "Baby Cot",
-    "description": "Very New Baby Cot to be bless away.",
-    "location": "Punggol",
-    "validTill": "14 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -517,13 +517,13 @@
     "category": "Learning Aids"
   },
   {
-    "id": "135660",
-    "name": "Latex gloves M size",
-    "description": "2 boxes of M size gloves. \n\nExp Nov 2024. \n\nI can only send to central/south areas.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Jul 2024",
+    "id": "135736",
+    "name": "knee support size S",
+    "description": "new",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "16 Aug 2024",
     "ageInYears": 1,
-    "dimensions": null,
+    "dimensions": "small",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -605,23 +605,34 @@
     "category": "Medical Aids"
   },
   {
-    "id": "135663",
-    "name": "clutches",
-    "description": "i also have boot for fractured foot/ ankle ( teenager 13 yo )",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2024",
+    "id": "135718",
+    "name": "Hospital bed",
+    "description": "Hospital bed motorised.  Ps contact me for collection. Thank you.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "16 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": "183x80x60 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "135717",
+    "name": "Floor ramp for wheel chair",
+    "description": "This is brand new\n\nCan use for wheelchair ramp\n\nFree delivery to house",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "16 Aug 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
   {
-    "id": "135662",
-    "name": "walking frame",
-    "description": "i have 2 spare walking frames",
+    "id": "135663",
+    "name": "clutches",
+    "description": "i also have boot for fractured foot/ ankle ( teenager 13 yo )",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "14 Aug 2024",
-    "ageInYears": 2,
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -743,17 +754,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "10 Aug 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "135459",
-    "name": "Hospital Bed",
-    "description": "Well maintained hospital Bed with remote. And in good and working condition.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "08 Aug 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
