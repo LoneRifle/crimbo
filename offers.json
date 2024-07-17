@@ -110,6 +110,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135713",
+    "name": "Standing Storage Shelves",
+    "description": "Used condition but well maintained.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "25 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "46cm x 30cm x 146cm each",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135711",
+    "name": "Wall Mount Shelves",
+    "description": "Used condition but well maintained.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "25 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "99cm x 21cm x 30cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135687",
     "name": "Small table with 2 stools",
     "description": "Ikea table not foldable, see dimensions above. 2 metal black stools, not foldable 39cm x 39cm x 46cm",
@@ -176,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135659",
-    "name": "Solid Wood Double Decker Bed Frame",
-    "description": "Solid wood double decker bed frame only.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "about L197 x W106 x H176",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135641",
     "name": "Cupboard/Writing Desk",
     "description": "Good condition cupboard/writing desk for blessing",
@@ -220,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135606",
-    "name": "Wooden frame.double decker.bed",
-    "description": "Strong and sturdy bed frame",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "13 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135597",
     "name": "Curtains and new IKEA curtain rod",
     "description": "New 140cm IKEA curtain rod\n1 set of preloved curtains per photo",
@@ -260,17 +260,6 @@
     "validTill": "31 Jul 2024",
     "ageInYears": 4,
     "dimensions": "190 X 152 x 25.5",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135621",
-    "name": "Blue Canvas Sofa",
-    "description": "Sofa is good condition",
-    "location": null,
-    "validTill": "24 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "2060mm X 700mm X 700mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -383,6 +372,17 @@
     "dimensions": "110Lx60Wx70H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "135712",
+    "name": "Kids Table With Chair",
+    "description": "Used condition but well maintained. Standard wear and tear.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "25 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": "83cm x 58cm x 49cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "135657",
@@ -601,17 +601,6 @@
     "validTill": "03 Aug 2024",
     "ageInYears": 2,
     "dimensions": "Size: 111.3mm Diameter x 424mm Height  Weight: 2.4Kg",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "134993",
-    "name": "Geriatric Chair",
-    "description": "Geriatric chair comes with tray and in good condition.",
-    "location": null,
-    "validTill": "15 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
