@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "135744",
-    "name": "Refrigerator",
-    "description": "2 door LG\nPls arrange for own collection. I am not willing to pay",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "L860 H1830 D660",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "135596",
     "name": "Rice cooker",
     "description": "Hitachi Rice Cooker",
@@ -121,6 +110,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135773",
+    "name": "Tv Console",
+    "description": "Great tv unit with drawers. A few scratches but otherwise in good condition",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 Aug 2024",
+    "ageInYears": 3,
+    "dimensions": "180 cm x 45 cm x 50 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135767",
+    "name": "Child bed frame",
+    "description": "Child extendable bed frame from toddler size to 10 year old. Picture is the max size it can go up to.Can be contracted to shorter length",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 Jul 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135766",
+    "name": "Square wooden table with 4 wooden chairs",
+    "description": "Square wooden table with 4 wooden chairs of same material",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135763",
+    "name": "Study table/dresser table",
+    "description": "2 study table/dresser table to donate",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135746",
     "name": "Dining Table (no chairs)",
     "description": "Castlery Bryce Dining Table (160cm)",
@@ -183,17 +216,6 @@
     "validTill": "15 Aug 2024",
     "ageInYears": 4,
     "dimensions": "200cm L, 97cm W, 97cm H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135664",
-    "name": "Full length Mirror",
-    "description": "Full length IKEA wall mirror",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "14 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": "40cm x 160cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -374,17 +396,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "135752",
-    "name": "Playpen",
-    "description": "Very good condition playpen for kids",
-    "location": null,
-    "validTill": "25 Jul 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "135724",
     "name": "Kids Standing Whiteboard",
     "description": "Used condition but well maintained.",
@@ -403,17 +414,6 @@
     "validTill": "25 Jul 2024",
     "ageInYears": 4,
     "dimensions": "83cm x 58cm x 49cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "135610",
-    "name": "Baby cot",
-    "description": "we have baby cot to donate and is barely use. it is still in good condition and comes with mattress",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "14 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -702,6 +702,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "135768",
+    "name": "Flower Vase",
+    "description": "Vase for flowers. 2 items",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 Jul 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "135703",
