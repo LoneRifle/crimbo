@@ -99,17 +99,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "135773",
-    "name": "Tv Console",
-    "description": "Great tv unit with drawers. A few scratches but otherwise in good condition",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "15 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": "180 cm x 45 cm x 50 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135767",
     "name": "Child bed frame",
     "description": "Child extendable bed frame from toddler size to 10 year old. Picture is the max size it can go up to.Can be contracted to shorter length",
@@ -264,17 +253,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135424",
-    "name": "Desk",
-    "description": "Please arrange for pick up",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "07 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": "80.5cm x 60.5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135341",
     "name": "Rattan lounge chair",
     "description": "Good condition. Just need a new coat of paint.",
@@ -293,17 +271,6 @@
     "validTill": "04 Aug 2024",
     "ageInYears": 2,
     "dimensions": "88 x 218 x 45 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135174",
-    "name": "Study Table And Chair",
-    "description": "Ergo works study table with chair. \nHeight can be adjusted. Lightly used and in good working condition.",
-    "location": "Springleaf, Tagore, Upper Thomson",
-    "validTill": "01 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": "100cm by 60cm.",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -339,6 +306,28 @@
     "dimensions": "queen size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "135791",
+    "name": "Nestle Nan Stage 3 Milk Powder (850g + 400g)",
+    "description": "Nestle Nan Stage 3 milk powder. For children 1 year old onwards. One full size tin (850g, expiry in 2026) and one sample size tin (400g, expiry in 2025). New and unopened. NOTE: I have an earlier post (ID 135790) stating the same item; but I have made an error and am unable to edit my item, so I am creating a new post.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "135790",
+    "name": "Nestle Nan Stage 3 Milk Powder (850g + 400g)",
+    "description": "Nestle Nan Stage 3 milk powder. For children 1 - 3 years old. One full size (850g) and one sample tin (400g). New and unopened. Expiry of full tin is in 2026, and expiry of sample tin is in 2025.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "135753",
@@ -559,6 +548,17 @@
     "dimensions": "Size: 111.3mm Diameter x 424mm Height  Weight: 2.4Kg",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "135786",
+    "name": "Brown walking stick",
+    "description": "Considerably new walking stick, rarely used.",
+    "location": null,
+    "validTill": "18 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "135718",
