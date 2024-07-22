@@ -30,17 +30,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "135847",
-          "name": "3 FOLDED SINGLE MATTRESS",
-          "description": "SEA HORSE 3 FOLDED SINGLE MATTRESS\n\nGOOD CONDITION",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "21 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135828",
           "name": "Single bed frame with mattress",
           "description": "Pls arrange for self collection.",
@@ -75,17 +64,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "135826",
-          "name": "2 mattress",
-          "description": "Standard Single  bed frame and 1 13 inch kingcoil mattress and topper and 1more normal single size mattress.\nAll dry clean before donating.",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "20 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": "Standard Single bed size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135795",
           "name": "Single Size Mattress",
           "description": "Single Size Mattress\nonly used for 6 months\n11 inch thick",
@@ -93,28 +71,6 @@
           "validTill": "18 Aug 2024",
           "ageInYears": 1,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "135847",
-          "name": "3 FOLDED SINGLE MATTRESS",
-          "description": "SEA HORSE 3 FOLDED SINGLE MATTRESS\n\nGOOD CONDITION",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "21 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "135841",
-          "name": "Queen Bed Frame with Mattress",
-          "description": "No covering delivery charges, self collection only",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": "Queen size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -428,6 +384,342 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135796",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Mr. Sng requires a functional wheelchair to help him attend his appointments more easily. He experienced a severe fall in December 2023, which has rendered him unable to continue working as a security guard. Currently, he receives a monthly CPF payout of $400 and is using a walking frame. A wheelchair would significantly improve his mobility and overall well-being.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Nur Sabrina Binte Sanizal",
+      "email": "nur.sabrina@thkmc.org.sg",
+      "phone": [
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135772",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client, 55 years old has diabetes and kidney failure, she is permanently unfit for work. Due to her condition, she is unable to walk due to swollen limbs and fatigue. She would need a wheelchair for commuting in the neighborhood and to attend her medical appointments. Her current wheelchair is faulty. \n\nHer family has financial difficulties as her husband suffered stroke in 2023 and is unfit for work as well. Her eldest son is unemployed as he is waiting to be enlisted this year. Her youngest son is in Primary 6.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Ignatius Koh",
+      "email": "ignatiuskoh@fycs.org",
+      "phone": [
+        "66901022",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135672",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Husband was the sole breadwinner, fell ill due to multiple health conditions and  \nrequires a wheelchair. Wife is presently working part-time to caregive for daughter and husband.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135523",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is largely wheelchair-bound due to her back issue, chemotherapy treatment and medication tiring her out. As her current wheelchair is no longer usable, it would be a great help for client to receive a workable wheelchair.\n\nAs client is obese, it would be great if client could receive a wheelchair with wider seats.",
+    "specifications": "Larger size for plus size person",
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Elijah Koh",
+      "email": "elijahkoh@kkcs.org.sg",
+      "phone": [
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135504",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Elderly amputee man who lives alone requires mobility device (width cannot be more than 20 inch or 51cm) to ambulate within the house and reduce high fall risk. \n\nIdeally, a one-arm drive wheelchair would be fantastic. However it requires customisation by local supplier DNR wheels and costs $2.5-3k. If this is however out of your budget, a regular wheelchair would suffice. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Josef Woon",
+      "email": "josefwoon@fycs.org",
+      "phone": [
+        "60117651",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135503",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Elderly amputee man who lives alone has been falling increasingly at home and needs a mobility device to assist him to ambulate within his house. \n\nIdeally, a one-arm drive wheelchair would be great but it costs around 2.5-3k and requires customisation by local supplier DNR wheels. If this is out of your budget, a regular wheelchair would suffice. Thank you!",
+    "specifications": "Width (wheel to wheel) below 20inch/51cm",
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Josef Woon",
+      "email": "josefwoon@fycs.org",
+      "phone": [
+        "60117651",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135429",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is currently undergoing dialysis treatment regularly where he would have difficulty walking as he would be dizzy and experience other side effects symptoms. Having a wheelchair allows his family members to assist him safer to go back home.",
+    "specifications": null,
+    "contact": {
+      "org": "Catholic Welfare Services",
+      "name": "Ian Michael Binny",
+      "email": "mbinny@catholicwelfare.org.sg",
+      "phone": [
+        "68017489",
+        "63394711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135339",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Family of 6, client is the sole bread winner. Wife is visually handicapped and the wheelchair has spoilt. A new/second hand wheelchair will help family when they are out running errands.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shannon Ong",
+      "email": "shannonong@fycs.org",
+      "phone": [
+        "69783488",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135233",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is 48 years old, and she has 4 children who are currently still studying in secondary school and primary school. Client has a medical condition on both of her legs that has caused her to be permanently unfit for work. As client is currently not a senior citizen, it is often difficult for client to obtain assistance for her mobility issues. Due to client’s mobility issue, she has been relying solely on the wheelchair for her daily activities. Client shared that her wheelchair has broken down 2 weeks ago and a wheelchair is a necessity for client’s movement.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135214",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Ct recently got married to her disabled spouse from China and his motorised wheelchair got detained at the customs. Ct is currently short on cash and unable to purchase a wheelchair at the moment.",
+    "specifications": "for 60kg and above",
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Shirley Lee",
+      "email": "shirley_lee@viriya.org.sg",
+      "phone": [
+        "67451008",
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135867",
+          "name": "Wheelchair",
+          "description": "Full functioning wheelchair.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []

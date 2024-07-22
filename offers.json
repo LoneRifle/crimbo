@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "135846",
-    "name": "AIR COOLER",
-    "description": "PRELOVED IFAN AIR COOLER\n\nGOOD CONDITION AND WORKABLE",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "135845",
     "name": "WALL FAN",
     "description": "GOOD CONDITION WALL FAN EXCEPT THE OSCILLATION IS SPOILT AND NEED TO MANUALLY TURN THE SPEED KNOB\n\nFRONT COVER OF THE FAN IS MISSING\n\nOVERALL STILL WORKABLE",
@@ -132,39 +121,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "135847",
-    "name": "3 FOLDED SINGLE MATTRESS",
-    "description": "SEA HORSE 3 FOLDED SINGLE MATTRESS\n\nGOOD CONDITION",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135841",
-    "name": "Queen Bed Frame with Mattress",
-    "description": "No covering delivery charges, self collection only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": "Queen size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135840",
-    "name": "Dining table with 2 designer chairs",
-    "description": "No covering delivery charges, self collection only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": "120cm length, 80cm width",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135835",
     "name": "White plastic chairs",
     "description": "Plastic white chairs still in good condition. Washed.",
@@ -179,17 +135,6 @@
     "id": "135833",
     "name": "Mothercare Rocking Chair",
     "description": "Rocking chair for mother's with their baby. Comes with rocking foot rest. One arm is missing a screw - should be easy to find and repair. Collection is from Storhub Yishun. Please note we are washing the covers, so the stains should be gone.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135830",
-    "name": "Ikea Baby Changing Table",
-    "description": "Folding diaper changing table from Ikea. It has drawers for storage and the top folds out to accommodate the baby changing area. Overall condition is good with one blemish in the white wood stain as shown.",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "31 Jul 2024",
     "ageInYears": 4,
@@ -231,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135826",
-    "name": "2 mattress",
-    "description": "Standard Single  bed frame and 1 13 inch kingcoil mattress and topper and 1more normal single size mattress.\nAll dry clean before donating.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "20 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": "Standard Single bed size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135823",
     "name": "Grey sofa",
     "description": "Grey sofa with removable and washable covers in very good condition",
@@ -249,17 +183,6 @@
     "validTill": "28 Jul 2024",
     "ageInYears": 3,
     "dimensions": "218cm x 88cm x 88cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135817",
-    "name": "sofa",
-    "description": "Well use very good condition",
-    "location": null,
-    "validTill": "09 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": "No",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -359,6 +282,17 @@
     "validTill": "08 Aug 2024",
     "ageInYears": 4,
     "dimensions": "Width 172cm x depth 113cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135851",
+    "name": "Outdoor furniture setting",
+    "description": "3 seat couch 190x75x85\n2 x single arm chairs 70x75x85\n1 x glass top table 150x87x72\n2 x padded stools 38x38x46",
+    "location": null,
+    "validTill": "01 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "Refer description",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -583,17 +517,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "135578",
-    "name": "Glucose drink",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "11 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "135844",
     "name": "Hospital Bed",
     "description": "A hospital bed in good working condition",
@@ -616,15 +539,15 @@
     "category": "Medical Aids"
   },
   {
-    "id": "135272",
-    "name": "Portable Oxygen Cylinder / Light weight oxygen therapy set",
-    "description": "It was bought as new in Oct 2022 and used once.  It was kept for nearly 2 years so the oxygen had depleted.",
+    "id": "135867",
+    "name": "Wheelchair",
+    "description": "Full functioning wheelchair.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": "Size: 111.3mm Diameter x 424mm Height  Weight: 2.4Kg",
+    "validTill": "21 Aug 2024",
+    "ageInYears": 3,
+    "dimensions": "HT fr handle 88cm.  Seat width 44cm Ht 43cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
+    "category": "Mobility Aids"
   },
   {
     "id": "135786",
@@ -754,17 +677,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "15 Aug 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "135582",
-    "name": "bathroom stool",
-    "description": "my father don't need it anymore",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "12 Aug 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
