@@ -121,6 +121,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "135910",
+    "name": "Stainless sink",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "22 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": "80cmLx60cmWx66cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "135883",
     "name": "Sofa Bed",
     "description": "Sofa Bed",
@@ -128,28 +139,6 @@
     "validTill": "07 Aug 2024",
     "ageInYears": 1,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135897",
-    "name": "Queen Bed Frame with Mattress",
-    "description": "No covering delivery charges, self collection only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": "Queen size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135835",
-    "name": "White plastic chairs",
-    "description": "Plastic white chairs still in good condition. Washed.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -165,34 +154,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135829",
-    "name": "Rattan chair",
-    "description": "Good",
-    "location": null,
-    "validTill": "20 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135814",
     "name": "Single Bed Frame",
     "description": "has bed rails, the hydraulic is spoilt",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "31 Jul 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135795",
-    "name": "Single Size Mattress",
-    "description": "Single Size Mattress\nonly used for 6 months\n11 inch thick",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "18 Aug 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -238,17 +205,6 @@
     "validTill": "13 Aug 2024",
     "ageInYears": 4,
     "dimensions": "140cm length curtain",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135593",
-    "name": "IKEA dining solid wood table 1.2m",
-    "description": "4 dining chairs included with cloth covers, PU covers underneath is peeling and faded. Please indicate if prefer no chairs. \nTable top has some scratches.\nCollection from lift landing unit.  Appreciate if mover can quote cheaper or volunteer the move.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "13 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": "Please refer to photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -359,17 +315,6 @@
     "validTill": "25 Jul 2024",
     "ageInYears": 4,
     "dimensions": "83cm x 58cm x 49cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "135594",
-    "name": "Breast pump, baby bottles and other related items",
-    "description": "Brand of pump is Mendela",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "13 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -614,17 +559,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "135816",
-    "name": "Baby bag",
-    "description": "Multiple pockets backpack for carrying baby things outdoor. Very clean and good condition. Waterproof. No stain.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "19 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": "35cm x 15cm x 33cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "135774",
