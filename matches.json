@@ -19,17 +19,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "135930",
-          "name": "Queen Bed Frame with Mattress",
-          "description": "No covering delivery charges, self collection only",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": "Queen size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135931",
           "name": "Queen Bed Frame with Mattress",
           "description": "No covering delivery charges, self collection only",
@@ -85,15 +74,15 @@
           "category": "Medical Aids"
         },
         {
-          "id": "135467",
-          "name": "Hospital bed",
-          "description": "Hospital bed with remote",
-          "location": null,
-          "validTill": "01 Aug 2024",
-          "ageInYears": 2,
-          "dimensions": null,
+          "id": "135962",
+          "name": "HOSPITAL BED",
+          "description": "Hospital bed in good and working condition.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "23 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "Single size hospital bed",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
+          "category": "Mobility Aids"
         },
         {
           "id": "135718",
@@ -274,17 +263,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "135924",
-          "name": "Bedframe & Mattress",
-          "description": "Mattress from IKEA: VATNESTRÖM Pocket sprung mattress, extra firm/natural (180 x 200cm)\nBedframe from IKEA: MALM Bed frame, high, black-brown/Luröy (180 x 200cm)",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Jul 2024",
-          "ageInYears": 1,
-          "dimensions": "180 x 200cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135950",
           "name": "King size Mattress Topper",
           "description": "Peace Lily brand king size mattress topper.",
@@ -292,17 +270,6 @@
           "validTill": "23 Aug 2024",
           "ageInYears": 4,
           "dimensions": "180cm x 190cm x 6cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "135930",
-          "name": "Queen Bed Frame with Mattress",
-          "description": "No covering delivery charges, self collection only",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": "Queen size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -327,39 +294,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135157",
-    "category": "Home Furnishing",
-    "name": "Bedframe",
-    "description": "Client's spouse is a patient of NKF and has kidney issues requiring him to go for dialysis 3 times a week. The family has 4 children requiring caregiving. Due to dialysis, client's spouse is physically weak and has difficulty commuting to and fro NKF. Therefore, they would greatly benefit if they have a wheelchair to navigate spouse around. For further liaison, kindly contact Harsheni at 81383741, thank you!",
-    "specifications": "Queen Size",
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135924",
-          "name": "Bedframe & Mattress",
-          "description": "Mattress from IKEA: VATNESTRÖM Pocket sprung mattress, extra firm/natural (180 x 200cm)\nBedframe from IKEA: MALM Bed frame, high, black-brown/Luröy (180 x 200cm)",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Jul 2024",
-          "ageInYears": 1,
-          "dimensions": "180 x 200cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -518,6 +452,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "135964",
+          "name": "Baby / toddler cot",
+          "description": "Bought new at motherwork 2 years ago\nGiving due to relocation\nVery good condition - mattress was always protected",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": "137cm x 80cm x 92cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "135423",
           "name": "Wooden baby cot",
           "description": "Wooden crib still in good condition. The sponge on the poles can be removed, only put up 2 mths ago.",
@@ -594,6 +539,17 @@
     "date": "08 Jul 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "135964",
+          "name": "Baby / toddler cot",
+          "description": "Bought new at motherwork 2 years ago\nGiving due to relocation\nVery good condition - mattress was always protected",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Jul 2024",
+          "ageInYears": 2,
+          "dimensions": "137cm x 80cm x 92cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
         {
           "id": "135423",
           "name": "Wooden baby cot",
