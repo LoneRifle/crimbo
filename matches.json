@@ -52,17 +52,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "135006",
-          "name": "Loft Bed with integrated study desk",
-          "description": "Transform your child’s room or your study space with this multifunctional loft bed with an integrated desk and storage solutions.\n\nFeatures:\n\n •Space-Saving Design: Combines a comfortable bed, functional desk, and ample storage in one unit.\n •Comfortable Bed, with mattress included \n •Functional Desk: Spacious desk area perfect for studying or working from home.\n •Storage Solutions: Includes drawers and shelves to keep essentials organized.",
-          "location": null,
-          "validTill": "26 Jul 2024",
-          "ageInYears": 1,
-          "dimensions": "1970*1430*1060 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135844",
           "name": "Hospital Bed",
           "description": "A hospital bed in good working condition",
@@ -245,6 +234,39 @@
     }
   },
   {
+    "id": "135157",
+    "category": "Home Furnishing",
+    "name": "Bedframe",
+    "description": "Client's spouse is a patient of NKF and has kidney issues requiring him to go for dialysis 3 times a week. The family has 4 children requiring caregiving. Due to dialysis, client's spouse is physically weak and has difficulty commuting to and fro NKF. Therefore, they would greatly benefit if they have a wheelchair to navigate spouse around. For further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": "Queen Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135998",
+          "name": "IKEA Children Bedframe",
+          "description": "It is a used bed frame. Mattress not included due to hygiene but if required, will includes it in.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "27 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "160cm x 70cm x 22cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "134957",
     "category": "Home Furnishing",
     "name": "Cabinet",
@@ -270,6 +292,210 @@
           "validTill": "04 Aug 2024",
           "ageInYears": 4,
           "dimensions": "93cm x 48cm x 112cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135946",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Low-income family, dependent on ComCare assistance, is in need of a television as their current one is faulty.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Lee Yan Jun",
+      "email": "leeyanjun@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135798",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "69 year old elderly man living alone in a rental flat at Toa Payoh Lor 7, requires a TV so he can keep up to date with the news and also to keep him occupied as he lives alone and has lost contact with his family. He requires a TV with the appropriate wires and fittings to be able to work upon delivery as he would not be able to afford to pay for the appropriate wires as he is on government financial support. You may contact me at my email: michaelbinny@catholicwelfare.org.sg, or on my work mobile: 84840008. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Catholic Welfare Services",
+      "name": "Ian Michael Binny",
+      "email": "mbinny@catholicwelfare.org.sg",
+      "phone": [
+        "68017489",
+        "63394711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135754",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is 60 years old who has just gotten his own HDB Rental flat. He is staying on his own and has no next of kin for financial support. It would be a great help to get essential home appliances.",
+    "specifications": null,
+    "contact": {
+      "org": "Selarang Halfway House",
+      "name": "Fathin Afifah Kambali",
+      "email": "fathin_afifah@yri.com.sg",
+      "phone": [
+        "88142157",
+        "62450434"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135748",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "A single elderly (age 67) living alone in AMK rental flat, she is unemployed due to unfit physical conditions and does not have any TV at home, home is barely furnished. Appreciate if there is any donor is willing to donate and install their TV set for this needy elderly.",
+    "specifications": "Any size",
+    "contact": {
+      "org": "AWWA Health and Senior Care",
+      "name": "Lulu Loke",
+      "email": "lulu_loke@awwa.org.sg",
+      "phone": [
+        "97865352",
+        "65115200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135530",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Our Client has been homeless for one year and only recently got approval from HDB to have a rental flat. They do not have sufficient funds to purchase the above-said items which are necessary for ease of living.",
+    "specifications": "TV",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135514",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "A 73year old gentleman, after spending some time in the transitional shelter, finally managed to get a public housing rental flat. Even though of age, he is still working. To ease his financial burden, he like to request for a TV for his new 1 room flat,which he sharing with another senior, so that they can get suitable entertainment during their free time.   Appreciate if donor can deliver the item to their unit too.\n\nIf this speaks to you, please email their social worker (anntat@newhopecs.org.sg) or whatsapp him at 87952925\n\nThank you for your kindness.",
+    "specifications": null,
+    "contact": {
+      "org": "New Hope Community Services",
+      "name": "Goh Ann Tat",
+      "email": "anntat@newhopecs.org.sg",
+      "phone": [
+        "87952925",
+        "63059620"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -584,243 +810,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "134926",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Family is a low income family with 7 kids. Mother is the main breadwinner while father is the caregiver. She usually earns enough for the family, and the family is on financial assistance as well. However, as mother has been sick this month and was even hospitalized (overwork), the family is experiecing financial difficulties (mum works as a sales person and if she does not work and earn commision, she does not earn enough for the family). Husband is trying to look for a part-time job, but that will take some time too. FSC has provided them with some emergency cash this month for their basic needs but they need some support for diapers. They have 2 young children still on diapers and it would be helpful if they can get 4 packets of L and XL diapers each for each child (any brand is fine). This should last them for 1 month plus till mother feels better and the family's financial situation stabilises a bit. It would be helpful if they can get a few tins of Lactogen 3 too as the current tins that they have can only last for a few more weeks. Thank you for supporting the family, please feel free to reach out to me through email should you require more information.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Anabelle Lim",
-      "email": "anabellelim@allkin.org.sg",
-      "phone": [
-        "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jun 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135837",
-          "name": "BW Generation tape diapers (Size M)",
-          "description": "We have 2 pkts of the above diapers. Please find product link here for reference: https://www.geriatriccare.asia/product/ultra-wrappers-medium-10-per-pack/\n\nWe are unable to cover delivery fees. Please arrange for own delivery.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "21 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135946",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Low-income family, dependent on ComCare assistance, is in need of a television as their current one is faulty.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Lee Yan Jun",
-      "email": "leeyanjun@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135969",
-          "name": "TV Console",
-          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "28 Jul 2024",
-          "ageInYears": 4,
-          "dimensions": "120cm x 40cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135798",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "69 year old elderly man living alone in a rental flat at Toa Payoh Lor 7, requires a TV so he can keep up to date with the news and also to keep him occupied as he lives alone and has lost contact with his family. He requires a TV with the appropriate wires and fittings to be able to work upon delivery as he would not be able to afford to pay for the appropriate wires as he is on government financial support. You may contact me at my email: michaelbinny@catholicwelfare.org.sg, or on my work mobile: 84840008. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "mbinny@catholicwelfare.org.sg",
-      "phone": [
-        "68017489",
-        "63394711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135969",
-          "name": "TV Console",
-          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "28 Jul 2024",
-          "ageInYears": 4,
-          "dimensions": "120cm x 40cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135754",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is 60 years old who has just gotten his own HDB Rental flat. He is staying on his own and has no next of kin for financial support. It would be a great help to get essential home appliances.",
-    "specifications": null,
-    "contact": {
-      "org": "Selarang Halfway House",
-      "name": "Fathin Afifah Kambali",
-      "email": "fathin_afifah@yri.com.sg",
-      "phone": [
-        "88142157",
-        "62450434"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135969",
-          "name": "TV Console",
-          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "28 Jul 2024",
-          "ageInYears": 4,
-          "dimensions": "120cm x 40cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135748",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A single elderly (age 67) living alone in AMK rental flat, she is unemployed due to unfit physical conditions and does not have any TV at home, home is barely furnished. Appreciate if there is any donor is willing to donate and install their TV set for this needy elderly.",
-    "specifications": "Any size",
-    "contact": {
-      "org": "AWWA Health and Senior Care",
-      "name": "Lulu Loke",
-      "email": "lulu_loke@awwa.org.sg",
-      "phone": [
-        "97865352",
-        "65115200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135969",
-          "name": "TV Console",
-          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "28 Jul 2024",
-          "ageInYears": 4,
-          "dimensions": "120cm x 40cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135530",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Our Client has been homeless for one year and only recently got approval from HDB to have a rental flat. They do not have sufficient funds to purchase the above-said items which are necessary for ease of living.",
-    "specifications": "TV",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135969",
-          "name": "TV Console",
-          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "28 Jul 2024",
-          "ageInYears": 4,
-          "dimensions": "120cm x 40cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135514",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A 73year old gentleman, after spending some time in the transitional shelter, finally managed to get a public housing rental flat. Even though of age, he is still working. To ease his financial burden, he like to request for a TV for his new 1 room flat,which he sharing with another senior, so that they can get suitable entertainment during their free time.   Appreciate if donor can deliver the item to their unit too.\n\nIf this speaks to you, please email their social worker (anntat@newhopecs.org.sg) or whatsapp him at 87952925\n\nThank you for your kindness.",
-    "specifications": null,
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135969",
-          "name": "TV Console",
-          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "28 Jul 2024",
-          "ageInYears": 4,
-          "dimensions": "120cm x 40cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
