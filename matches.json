@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136037",
+          "name": "King bed with mattress",
+          "description": "King mattress (Haylee) with bed frame. Mattress has washable cover. Mattress thickness 25cm. Standard Singapore King size. Bed frame height 25cm.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "04 Aug 2024",
+          "ageInYears": 2,
+          "dimensions": "190cm x 183cm x 50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "135814",
           "name": "Single Bed Frame",
           "description": "has bed rails, the hydraulic is spoilt",
@@ -94,40 +105,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135932",
-    "category": "Home Furnishing",
-    "name": "Queen Size Mattress",
-    "description": "Client is a 21 year old with Cancer stage 4 & a low prognosis.Client lives with his parents. Currently, mother is the caregiver and step-father is the sole income earner.Client is also bed-bound and needs a higher queen sized bed.",
-    "specifications": "Queen Sized",
-    "contact": {
-      "org": "AIN Society",
-      "name": "Norhashimah Binti Kamarudin",
-      "email": "shimah@ainsociety.org.sg",
-      "phone": [
-        "68485163",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jul 2024",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "136025",
-          "name": "Queen Size Mattress",
-          "description": "Mattress in a great condition. Just needs to be cleaned and sanitised before using",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "id": "136026",
+          "name": "Air mattress for hospital bed",
+          "description": "Inflated air mattress with motor",
+          "location": "Admiralty Drive, Sembawang, Yishun",
           "validTill": "25 Aug 2024",
-          "ageInYears": 3,
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -220,15 +208,15 @@
     "matches": {
       "passiton": [
         {
-          "id": "136025",
-          "name": "Queen Size Mattress",
-          "description": "Mattress in a great condition. Just needs to be cleaned and sanitised before using",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "id": "136026",
+          "name": "Air mattress for hospital bed",
+          "description": "Inflated air mattress with motor",
+          "location": "Admiralty Drive, Sembawang, Yishun",
           "validTill": "25 Aug 2024",
-          "ageInYears": 3,
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Mobility Aids"
         },
         {
           "id": "135950",
@@ -238,6 +226,17 @@
           "validTill": "23 Aug 2024",
           "ageInYears": 4,
           "dimensions": "180cm x 190cm x 6cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "136037",
+          "name": "King bed with mattress",
+          "description": "King mattress (Haylee) with bed frame. Mattress has washable cover. Mattress thickness 25cm. Standard Singapore King size. Bed frame height 25cm.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "04 Aug 2024",
+          "ageInYears": 2,
+          "dimensions": "190cm x 183cm x 50cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -315,6 +314,40 @@
           "validTill": "04 Aug 2024",
           "ageInYears": 4,
           "dimensions": "93cm x 48cm x 112cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136030",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is a 76 year old elderly who lives alone. Because she uses a wheelchair due to a fall, she cannot go out of the house much. She feels bored at home as her old TV is broken. Client would like a new TV to help her pass the time when she is home.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Eunice Soh",
+      "email": "eunice.soh@montfortcare.org.sg",
+      "phone": [
+        "89407226",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135969",
+          "name": "TV Console",
+          "description": "White IKEA TV console \nOnly available to collect on 27 July or 28 July. If there is no taker, we will dispose the item as we are moving house.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "120cm x 40cm x 40cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
