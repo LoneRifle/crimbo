@@ -19,17 +19,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136037",
-          "name": "King bed with mattress",
-          "description": "King mattress (Haylee) with bed frame. Mattress has washable cover. Mattress thickness 25cm. Standard Singapore King size. Bed frame height 25cm.",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "04 Aug 2024",
-          "ageInYears": 2,
-          "dimensions": "190cm x 183cm x 50cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135814",
           "name": "Single Bed Frame",
           "description": "has bed rails, the hydraulic is spoilt",
@@ -122,6 +111,40 @@
     }
   },
   {
+    "id": "135743",
+    "category": "Home Furnishing",
+    "name": "Shoe Rack",
+    "description": "The client, who resides alone and has mental health conditions, is currently looking for shoe rack. Please contact me at 8859 5662 if you need more information. Thank you for your support.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Grace Ang",
+      "email": "grace_ang@viriya.org.sg",
+      "phone": [
+        "62855033",
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136040",
+          "name": "Shoe Rack",
+          "description": "5 tier shoe rack. Can be used as shoe rack or multipurpose rack. In very good condition. \n\nKindly note self-collection only please.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "26 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": "3ft tall x 2ft length x 1ft depth",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "135715",
     "category": "Home Furnishing",
     "name": "Gaming Chair",
@@ -147,6 +170,40 @@
           "validTill": "28 Jul 2024",
           "ageInYears": 3,
           "dimensions": "56 x 71 x 142cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135701",
+    "category": "Home Furnishing",
+    "name": "Shoe Rack",
+    "description": "Family of 4 who requires help with keeping their items organized in the living room, as currently there are clutters in unit, making it a less conducive environment for the 2 young children to study.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136040",
+          "name": "Shoe Rack",
+          "description": "5 tier shoe rack. Can be used as shoe rack or multipurpose rack. In very good condition. \n\nKindly note self-collection only please.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "26 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": "3ft tall x 2ft length x 1ft depth",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -237,17 +294,6 @@
           "validTill": "23 Aug 2024",
           "ageInYears": 4,
           "dimensions": "180cm x 190cm x 6cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "136037",
-          "name": "King bed with mattress",
-          "description": "King mattress (Haylee) with bed frame. Mattress has washable cover. Mattress thickness 25cm. Standard Singapore King size. Bed frame height 25cm.",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "04 Aug 2024",
-          "ageInYears": 2,
-          "dimensions": "190cm x 183cm x 50cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -573,6 +619,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135789",
+    "category": "Mobility Aids",
+    "name": "Commode",
+    "description": "Client is a widowed and staying alone. \nRequires a commode due to her slow movements. \n\nTo liaise with Iris - 62500255",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Chen Jie Mei",
+      "email": "jiemei.chen@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136041",
+          "name": "Walking frame / wheelchairs / walking stick   / commode",
+          "description": "Items are all new and rarely used.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "18 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
