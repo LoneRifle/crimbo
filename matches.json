@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136043",
+          "name": "Medical bed with air mattress",
+          "description": "Would prefer to donate to people who have financial issues / non profit organisations. To help pple who cant afford. I can pay for the delivery and installation.\nDonating on behalf of my late granny. We hope 1 day if you do not use, pls use it to help others if the item is in working condition. Tks",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "26 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "135814",
           "name": "Single Bed Frame",
           "description": "has bed rails, the hydraulic is spoilt",
@@ -298,6 +309,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "136043",
+          "name": "Medical bed with air mattress",
+          "description": "Would prefer to donate to people who have financial issues / non profit organisations. To help pple who cant afford. I can pay for the delivery and installation.\nDonating on behalf of my late granny. We hope 1 day if you do not use, pls use it to help others if the item is in working condition. Tks",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "26 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "135831",
           "name": "Ikea Gonatt Baby Crib / Cot (unassembled) with mattress",
           "description": "Good condition but needs assembly. I should have most of the parts, but if anything is missing you can get the bolts, etc. from Ikea. Need to collect from Storhub Yishun.",
@@ -307,6 +329,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135446",
+    "category": "Home Furnishing",
+    "name": "medical air mattress",
+    "description": "Client is an elderly lady in her 80s and is the main caregiver for her physically disabled son who is wheelchair bound. Her son requires an bedsore air mattress. (Dyl)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136043",
+          "name": "Medical bed with air mattress",
+          "description": "Would prefer to donate to people who have financial issues / non profit organisations. To help pple who cant afford. I can pay for the delivery and installation.\nDonating on behalf of my late granny. We hope 1 day if you do not use, pls use it to help others if the item is in working condition. Tks",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "26 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -643,6 +699,28 @@
     "date": "19 Jul 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "136050",
+          "name": "commode chair",
+          "description": "Commode chair with seats a bit peel off, but still functional.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "25 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "nil",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "136042",
+          "name": "commode chair (stationery)",
+          "description": "commode chair (with no wheels)",
+          "location": "Toa Payoh",
+          "validTill": "24 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "nil",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
         {
           "id": "136041",
           "name": "Walking frame / wheelchairs / walking stick   / commode",
