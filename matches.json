@@ -882,50 +882,5 @@
       ],
       "carousell": []
     }
-  },
-  {
-    "id": "135789",
-    "category": "Mobility Aids",
-    "name": "Commode",
-    "description": "Client is a widowed and staying alone. \nRequires a commode due to her slow movements. \n\nTo liaise with Iris - 62500255",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Chen Jie Mei",
-      "email": "jiemei.chen@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136050",
-          "name": "commode chair",
-          "description": "Commode chair with seats a bit peel off, but still functional.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "25 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "nil",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "136042",
-          "name": "commode chair (stationery)",
-          "description": "commode chair (with no wheels)",
-          "location": "Toa Payoh",
-          "validTill": "24 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "nil",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
   }
 ]
