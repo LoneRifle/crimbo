@@ -1,20 +1,76 @@
 [
   {
-    "id": "136101",
+    "id": "136125",
     "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client's sofa is worn-out. She is unable to afford to purchase a set of sofa as it would be financially taxing for her. Client is a single-mother of two daughters with ID. There is no source of income in the family.",
-    "specifications": "70 x 30 inch",
+    "name": "Dining table",
+    "description": "Client would be released from halfway house in mid-August 2024 and has successfully gotten the keys to his rental flat with daughter. Client is requesting for these items to furnish the new rental flat. He is experiencing some financial difficulties as he started work recently. (HW)",
+    "specifications": null,
     "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Eunice Koh",
-      "email": "eunice@frcsfsc.sg",
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
       "phone": [
-        "67799488ext17",
-        "67799488"
+        "81883314",
+        "64491440"
       ]
     },
-    "deliveryCostsCoveredByDonor": false,
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135746",
+          "name": "Dining Table (no chairs)",
+          "description": "Castlery Bryce Dining Table (160cm)",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Jul 2024",
+          "ageInYears": 4,
+          "dimensions": "L: 160cm W: 80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "136077",
+          "name": "Dining table",
+          "description": "Dining table or study desk",
+          "location": null,
+          "validTill": "01 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "175x90x76",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "136078",
+          "name": "Dining table",
+          "description": "Dining table or study desk",
+          "location": null,
+          "validTill": "01 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "175x90x76",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136124",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client would be released from halfway house in mid-August 2024 and has successfully gotten the keys to his rental flat with daughter. Client is requesting for these items to furnish the new rental flat. He is experiencing some financial difficulties as he started work recently. (HW)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
     "date": "30 Jul 2024",
     "matches": {
       "passiton": [
@@ -26,6 +82,17 @@
           "validTill": "08 Aug 2024",
           "ageInYears": 4,
           "dimensions": "Width 172cm x depth 113cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "136117",
+          "name": "Cream leather (Full) sofa",
+          "description": "Full genuine leather",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "15 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "225x80x60cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -285,6 +352,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136114",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Hi, there is a mother who is a sole breadwinner supporting her family of 3 children under 6 years old. She will need some support with diapers for this month as finances are very tight for her. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135837",
+          "name": "BW Generation tape diapers (Size M)",
+          "description": "We have 2 pkts of the above diapers. Please find product link here for reference: https://www.geriatriccare.asia/product/ultra-wrappers-medium-10-per-pack/\n\nWe are unable to cover delivery fees. Please arrange for own delivery.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
