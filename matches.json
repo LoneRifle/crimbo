@@ -28,17 +28,6 @@
           "dimensions": "Width 172cm x depth 113cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "136095",
-          "name": "Used sofa bed with storage",
-          "description": "Used sofa bed was used as a guests’ bed. Lightly used.   Azz Za",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "29 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "Reflected on image",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -119,17 +108,6 @@
           "category": "Mobility Aids"
         },
         {
-          "id": "136095",
-          "name": "Used sofa bed with storage",
-          "description": "Used sofa bed was used as a guests’ bed. Lightly used.   Azz Za",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "29 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "Reflected on image",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135719",
           "name": "Children Loft Bed",
           "description": "Loft bed with slide as picture. Still in very good condition. NO MATTRESS. Color and dimensions as pictured. Can be dismantled for delivery. Please arrange pick up.",
@@ -186,6 +164,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136107",
+          "name": "Drawer cabinet",
+          "description": "Ignore the items ontop of the drawer",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "05 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "135919",
           "name": "Customized Cabinet / Book Shelf with doors",
           "description": "Solid wood cabinet.",
@@ -229,6 +218,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "136106",
+          "name": "Queen Size Mattress",
+          "description": "Mattress in a great condition. Just needs to be cleaned and sanitised before using",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "25 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "136043",
@@ -541,244 +541,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136030",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is a 76 year old elderly who lives alone. Because she uses a wheelchair due to a fall, she cannot go out of the house much. She feels bored at home as her old TV is broken. Client would like a new TV to help her pass the time when she is home.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - @27 Family Service Centre",
-      "name": "Eunice Soh",
-      "email": "eunice.soh@montfortcare.org.sg",
-      "phone": [
-        "89407226",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135946",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Low-income family, dependent on ComCare assistance, is in need of a television as their current one is faulty.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Lee Yan Jun",
-      "email": "leeyanjun@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135798",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "69 year old elderly man living alone in a rental flat at Toa Payoh Lor 7, requires a TV so he can keep up to date with the news and also to keep him occupied as he lives alone and has lost contact with his family. He requires a TV with the appropriate wires and fittings to be able to work upon delivery as he would not be able to afford to pay for the appropriate wires as he is on government financial support. You may contact me at my email: michaelbinny@catholicwelfare.org.sg, or on my work mobile: 84840008. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "mbinny@catholicwelfare.org.sg",
-      "phone": [
-        "68017489",
-        "63394711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135754",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is 60 years old who has just gotten his own HDB Rental flat. He is staying on his own and has no next of kin for financial support. It would be a great help to get essential home appliances.",
-    "specifications": null,
-    "contact": {
-      "org": "Selarang Halfway House",
-      "name": "Fathin Afifah Kambali",
-      "email": "fathin_afifah@yri.com.sg",
-      "phone": [
-        "88142157",
-        "62450434"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135748",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A single elderly (age 67) living alone in AMK rental flat, she is unemployed due to unfit physical conditions and does not have any TV at home, home is barely furnished. Appreciate if there is any donor is willing to donate and install their TV set for this needy elderly.",
-    "specifications": "Any size",
-    "contact": {
-      "org": "AWWA Health and Senior Care",
-      "name": "Lulu Loke",
-      "email": "lulu_loke@awwa.org.sg",
-      "phone": [
-        "97865352",
-        "65115200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135530",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Our Client has been homeless for one year and only recently got approval from HDB to have a rental flat. They do not have sufficient funds to purchase the above-said items which are necessary for ease of living.",
-    "specifications": "TV",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135514",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A 73year old gentleman, after spending some time in the transitional shelter, finally managed to get a public housing rental flat. Even though of age, he is still working. To ease his financial burden, he like to request for a TV for his new 1 room flat,which he sharing with another senior, so that they can get suitable entertainment during their free time.   Appreciate if donor can deliver the item to their unit too.\n\nIf this speaks to you, please email their social worker (anntat@newhopecs.org.sg) or whatsapp him at 87952925\n\nThank you for your kindness.",
-    "specifications": null,
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136097",
-          "name": "40” LED TV and sound bar",
-          "description": "1 x LG LED TV with remote in working condition except a bit of flare close to the bottom of the screen but doesn’t affect the viewing \n\n1x Samsung sound bar but works well with the TV",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "40 inch TV",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
