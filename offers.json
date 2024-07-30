@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "136134",
+    "name": "MacBook Air (13-inch, 2017)",
+    "description": "13-inch MacBook Air (2017) features a 2.2GHz dual-core Intel Core i7 processor, 8GB of 1600MHz LPDDR3 RAM, and 500GB SSD storage. It has a 13.3-inch LED-backlit display with a 1440x900 resolution, Intel HD Graphics 6000, a 720p FaceTime HD camera, and connectivity includes two USB 3 ports, a Thunderbolt 2 port, and an SDXC card slot. It weighs 2.96 pounds and runs macOS.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "08 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "32.5cm x 22.7cm x 1.7cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "135845",
     "name": "WALL FAN",
     "description": "GOOD CONDITION WALL FAN EXCEPT THE OSCILLATION IS SPOILT AND NEED TO MANUALLY TURN THE SPEED KNOB\n\nFRONT COVER OF THE FAN IS MISSING\n\nOVERALL STILL WORKABLE",
@@ -51,17 +62,6 @@
     "validTill": "01 Aug 2024",
     "ageInYears": 4,
     "dimensions": "70x50x96",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "135119",
-    "name": "Computer power cable",
-    "description": "Connector type IEC C13 - 7 pieces.\nConnector type IEC C15 - 1 piece.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "31 Jul 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -154,39 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135833",
-    "name": "Mothercare Rocking Chair",
-    "description": "Rocking chair for mother's with their baby. Comes with rocking foot rest. One arm is missing a screw - should be easy to find and repair. Collection is from Storhub Yishun. Please note we are washing the covers, so the stains should be gone.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135814",
-    "name": "Single Bed Frame",
-    "description": "has bed rails, the hydraulic is spoilt",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "135746",
-    "name": "Dining Table (no chairs)",
-    "description": "Castlery Bryce Dining Table (160cm)",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "L: 160cm W: 80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135719",
     "name": "Children Loft Bed",
     "description": "Loft bed with slide as picture. Still in very good condition. NO MATTRESS. Color and dimensions as pictured. Can be dismantled for delivery. Please arrange pick up.",
@@ -264,17 +231,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "135831",
-    "name": "Ikea Gonatt Baby Crib / Cot (unassembled) with mattress",
-    "description": "Good condition but needs assembly. I should have most of the parts, but if anything is missing you can get the bolts, etc. from Ikea. Need to collect from Storhub Yishun.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "135438",
     "name": "Older child car seat",
     "description": "Spaco older child car seat. not used.",
@@ -282,17 +238,6 @@
     "validTill": "08 Aug 2024",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "135423",
-    "name": "Wooden baby cot",
-    "description": "Wooden crib still in good condition. The sponge on the poles can be removed, only put up 2 mths ago.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Jul 2024",
-    "ageInYears": 3,
-    "dimensions": "120cm x 60cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -440,17 +385,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "135844",
-    "name": "Hospital Bed",
-    "description": "A hospital bed in good working condition",
-    "location": null,
-    "validTill": "31 Jul 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "136050",
     "name": "commode chair",
     "description": "Commode chair with seats a bit peel off, but still functional.",
@@ -583,12 +517,12 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "135774",
-    "name": "HP LaserJet Printer",
-    "description": "Used printer",
+    "id": "136135",
+    "name": "Peritoneal dialysis Solutions",
+    "description": "These are sealed and unused kidney dialysis solutions that I will like to donate to needy people.",
     "location": null,
-    "validTill": "31 Jul 2024",
-    "ageInYears": 3,
+    "validTill": "30 Aug 2024",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
