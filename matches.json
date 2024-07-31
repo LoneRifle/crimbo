@@ -19,17 +19,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136149",
-          "name": "Queen Bed Frame with Mattress",
-          "description": "No covering delivery charges, self collection only",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": "Queen size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135538",
           "name": "Sofa bed",
           "description": "Modular sofa bed - can be placed together or separately if needed.\n\nCover on sitting area is torn but it has been mended.",
@@ -164,13 +153,46 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "136149",
-          "name": "Queen Bed Frame with Mattress",
-          "description": "No covering delivery charges, self collection only",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Aug 2024",
-          "ageInYears": 1,
-          "dimensions": "Queen size",
+          "id": "136162",
+          "name": "Queen size Sealy Mattress and storage bedframe",
+          "description": "Queen size leather storage bed frame(pull up with hydraulic)is still in perfect working condition. Exterior of the headboard have some stains due to humidity. But not noticeable. Queen size mattress(sealy brand) is still in sleepable condition but have stains due to spilled milk. (Yellowish). Not for the fussy. Overall still a good bedding to use",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "152x190cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135157",
+    "category": "Home Furnishing",
+    "name": "Bedframe",
+    "description": "Client's spouse is a patient of NKF and has kidney issues requiring him to go for dialysis 3 times a week. The family has 4 children requiring caregiving. Due to dialysis, client's spouse is physically weak and has difficulty commuting to and fro NKF. Therefore, they would greatly benefit if they have a wheelchair to navigate spouse around. For further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": "Queen Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136162",
+          "name": "Queen size Sealy Mattress and storage bedframe",
+          "description": "Queen size leather storage bed frame(pull up with hydraulic)is still in perfect working condition. Exterior of the headboard have some stains due to humidity. But not noticeable. Queen size mattress(sealy brand) is still in sleepable condition but have stains due to spilled milk. (Yellowish). Not for the fussy. Overall still a good bedding to use",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "152x190cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
