@@ -187,6 +187,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136222",
+          "name": "Childcare Mattress",
+          "description": "Mattress used to sleep in childcare.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "20 Aug 2024",
+          "ageInYears": 2,
+          "dimensions": "about L120 x W62 x H4",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136026",
           "name": "Air mattress for hospital bed",
           "description": "Inflated air mattress with motor",
