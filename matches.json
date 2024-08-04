@@ -41,17 +41,6 @@
           "category": "Mobility Aids"
         },
         {
-          "id": "136251",
-          "name": "Queen sized bed and storage bedframe",
-          "description": "Serta Queen sized bed with storage bed frame to go as we have sold the flat and we don’t need it at the next flat.",
-          "location": null,
-          "validTill": "03 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "135719",
           "name": "Children Loft Bed",
           "description": "Loft bed with slide as picture. Still in very good condition. NO MATTRESS. Color and dimensions as pictured. Can be dismantled for delivery. Please arrange pick up.",
@@ -214,40 +203,6 @@
           "validTill": "31 Aug 2024",
           "ageInYears": 3,
           "dimensions": "100cmx190cmx8inch thick",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135269",
-    "category": "Home Furnishing",
-    "name": "Queen Sized Bed",
-    "description": "Client is a single mother with two school-going children. Client is the sole breadwinner and has recently been struggling financially. Family have recently moved into their new rental home and is in need of a Sofa Bed. They are looking for donations for home appliances and setting up their new home. They are open for good condition second-hand appliances. (K)",
-    "specifications": "Queen Sized Bed",
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136251",
-          "name": "Queen sized bed and storage bedframe",
-          "description": "Serta Queen sized bed with storage bed frame to go as we have sold the flat and we don’t need it at the next flat.",
-          "location": null,
-          "validTill": "03 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -477,6 +432,39 @@
     }
   },
   {
+    "id": "136234",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Seeking a vacuum cleaner for a 79 y/o elderly who stays with 2 sons(both have own medical issues). The elderly had went through pacemaker implantation early this year and a vacuum cleaner would be helpful to ease her job as a homemaker.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Bedok",
+      "name": "Lee Wei Kit",
+      "email": "lee.weikit@thkmc.org.sg",
+      "phone": [
+        "62418171"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136259",
+          "name": "Vacuum cleaner",
+          "description": "In good condition",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "50 x 30 x 35cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136218",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -646,6 +634,39 @@
     }
   },
   {
+    "id": "136003",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "Client is a single mother who has challenges caregiving for 2 young children. She is currently unemployed as well due to depression hence she is unable to sustain on basic needs for now and struggles financially. Currently, her household appliances are faulty and will need replacement of the items for her daily use.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Nurul Nadiah Binte Mustapha",
+      "email": "nurulnadiah@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136259",
+          "name": "Vacuum cleaner",
+          "description": "In good condition",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "50 x 30 x 35cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "135946",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -664,6 +685,17 @@
     "date": "24 Jul 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "136258",
+          "name": "Samsung TV (used)",
+          "description": "Used 32inch tv",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "32 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "136237",
           "name": "5\" Portable TV set  plus build in radio",
@@ -706,6 +738,40 @@
           "validTill": "03 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135887",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "The client is recently unemployed and responsible for the sole care of her 3 children. Client faces financial challenges as she is a low-income earner who does not have the financial means to purchase household necessities. Client is seeking assistance in obtaining a vacuum cleaner to alleviate household difficulties.",
+    "specifications": "Vacuum Cleaner",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136259",
+          "name": "Vacuum cleaner",
+          "description": "In good condition",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "50 x 30 x 35cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -835,6 +901,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136258",
+          "name": "Samsung TV (used)",
+          "description": "Used 32inch tv",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "32 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "136237",
           "name": "5\" Portable TV set  plus build in radio",
           "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
@@ -903,6 +980,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136258",
+          "name": "Samsung TV (used)",
+          "description": "Used 32inch tv",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "32 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "136237",
           "name": "5\" Portable TV set  plus build in radio",
           "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
@@ -944,6 +1032,40 @@
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135638",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "Family is currently homeless and living in a temporary shelter. They require a vacuum cleaner (preferably wireless) as it will be easier for mum to clean the floors as compared to sweeping. Mum is still recovering from stroke and able to do simple house chores. Daughter is mostly out for work.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136259",
+          "name": "Vacuum cleaner",
+          "description": "In good condition",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "50 x 30 x 35cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1005,6 +1127,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136258",
+          "name": "Samsung TV (used)",
+          "description": "Used 32inch tv",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "32 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "136237",
           "name": "5\" Portable TV set  plus build in radio",
           "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
@@ -1012,6 +1145,40 @@
           "validTill": "15 Aug 2024",
           "ageInYears": 4,
           "dimensions": "NA",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135525",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Client is staying alone and has very limited support. She has a low paying job and has to pay off the debts that her husband had left after he passed away. Client suffers from myelodysplastic syndrome which causes low blood and frequent tiredness and weakness in the body. Client would greatly benefit from having a vacuum cleaner which would help aid her as she does her household chores.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Annabel Dass",
+      "email": "annabeldass@fycs.org",
+      "phone": [
+        "69783483",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136259",
+          "name": "Vacuum cleaner",
+          "description": "In good condition",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "50 x 30 x 35cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1038,6 +1205,17 @@
     "date": "11 Jul 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "136258",
+          "name": "Samsung TV (used)",
+          "description": "Used 32inch tv",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "32 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "136237",
           "name": "5\" Portable TV set  plus build in radio",

@@ -11,6 +11,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "136259",
+    "name": "Vacuum cleaner",
+    "description": "In good condition",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "03 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "50 x 30 x 35cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136258",
+    "name": "Samsung TV (used)",
+    "description": "Used 32inch tv",
+    "location": null,
+    "validTill": "03 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "32 inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "136254",
     "name": "Fridge",
     "description": "Fridge with freezer in good working condition. Self-collection please.",
@@ -136,17 +158,6 @@
     "name": "Round extendable table",
     "description": "Very sturdy and solid wood dining table that can be extended. Can sit eight to ten persons. Self-collection please.",
     "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "03 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "136251",
-    "name": "Queen sized bed and storage bedframe",
-    "description": "Serta Queen sized bed with storage bed frame to go as we have sold the flat and we don’t need it at the next flat.",
-    "location": null,
     "validTill": "03 Sep 2024",
     "ageInYears": 4,
     "dimensions": null,
@@ -484,6 +495,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "136263",
+    "name": "AccuChek glucose meter and lancet",
+    "description": "Brand new with box.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "03 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "136245",
     "name": "ELECTRIC MEDICAL BED",
     "description": "ELECTRIC MEDICAL BED IN GOOD CONDITION FOR DONATION",
@@ -702,6 +724,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "136260",
+    "name": "3G/4G USB stick/Mobile broadband",
+    "description": "Huawei Mobile Broadband. Connect via USB. 3G/4G. LTE Wingle. Wifi certified.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "03 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "136182",
