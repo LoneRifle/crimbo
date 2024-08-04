@@ -41,6 +41,17 @@
           "category": "Mobility Aids"
         },
         {
+          "id": "136251",
+          "name": "Queen sized bed and storage bedframe",
+          "description": "Serta Queen sized bed with storage bed frame to go as we have sold the flat and we don’t need it at the next flat.",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "135719",
           "name": "Children Loft Bed",
           "description": "Loft bed with slide as picture. Still in very good condition. NO MATTRESS. Color and dimensions as pictured. Can be dismantled for delivery. Please arrange pick up.",
@@ -152,6 +163,17 @@
           "category": "Mobility Aids"
         },
         {
+          "id": "136250",
+          "name": "King sized mattress and storage bedframe",
+          "description": "8 year old kingkoil mattress and bed frame. Donating it away as we have sold the flat and this set is extra.",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136239",
           "name": "Super Single Mattress only",
           "description": "standard Super Single size",
@@ -181,6 +203,40 @@
           "validTill": "31 Aug 2024",
           "ageInYears": 3,
           "dimensions": "100cmx190cmx8inch thick",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135269",
+    "category": "Home Furnishing",
+    "name": "Queen Sized Bed",
+    "description": "Client is a single mother with two school-going children. Client is the sole breadwinner and has recently been struggling financially. Family have recently moved into their new rental home and is in need of a Sofa Bed. They are looking for donations for home appliances and setting up their new home. They are open for good condition second-hand appliances. (K)",
+    "specifications": "Queen Sized Bed",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136251",
+          "name": "Queen sized bed and storage bedframe",
+          "description": "Serta Queen sized bed with storage bed frame to go as we have sold the flat and we don’t need it at the next flat.",
+          "location": null,
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -410,6 +466,107 @@
     }
   },
   {
+    "id": "136218",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single person needs a fridge as her current one is spoilt. She has medical conditions and cannot work, and hence unable to afford one. Small 2-door fridge is sufficient.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Chan Xian Jie",
+      "email": "xianjie@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136176",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family consists of an older couple and 4 school-going children. They require a new fridge (can be secondhand) as their current fridge is faulty. Father is the sole breadwinner and does not earn enough to purchase a new fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136127",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 3 has been staying apart the past 2 years due to financial and accommodation issues. They have recently balloted for a BTO flat successfully and gotten the keys to their interim rental housing under PPHS. Family is requesting for the items to furnish their PPHS flat. (HW)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136033",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -435,6 +592,40 @@
           "location": null,
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136024",
+    "category": "Electrical Home Appliances",
+    "name": "fridge",
+    "description": "Family with 3 school going children with single mother requires a fridge as their current fridge is faulty. They are living in a rental flat and requires support for a fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Choong Ying",
+      "email": "choongying@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -470,6 +661,142 @@
           "validTill": "15 Aug 2024",
           "ageInYears": 4,
           "dimensions": "NA",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135939",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 3 who were homeless and recently received their keys to their rental flat. Mother is the sole breadwinner, working as a cleaner. Therefore, she has financial difficulties to purchase home appliances and furnitures for her new home.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135882",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a single mom of 7 month-old twin boys. The twins father are not contributing in any way. Client is not in good terms with her family either and have been affecting her emotionally.\n\nClient is getting her rental flat on 24 Jul 2024, and moving her items on 26 Jul 2024. She requires a Fridge and can't afford to buy a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Nur Ashikin Binte Hazlan",
+      "email": "NurAshikin@thkmc.org.sg",
+      "phone": [
+        "90021391",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135876",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a Vietnamese, single parent with a young child. Client requires a fridge, as her current one is missing a leg, and it may cause a safety hazard. She is unable to afford one due to financial difficulties and debts. A donation of a fridge is greatly appreciated. Please WhatsApp Odelia at 8588 3163 or email to odelia.teo@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135858",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "The client is a divorcee, aged 46 years old. He was previously facing chronic homelessness and recently managed to secure a rental flat from HDB. He just started his employment and does not have adequate money to purchase a fridge. He would like to seek help to receive a donation for a fridge. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Lim Hui Ling",
+      "email": "limhuiling@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -614,6 +941,40 @@
     }
   },
   {
+    "id": "135626",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "2 elderly ladies staying in a rental flat would like to request for a fridge to store their food. They are currently sharing a very tiny fridge (hotel room sized) and they are having difficulties as they need to bend down to the floor level to access the fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "New Hope Community Services",
+      "name": "Lee Hui Xian",
+      "email": "huixian@newhopecs.org.sg",
+      "phone": [
+        "80488854",
+        "63059620"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "135530",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -674,6 +1035,39 @@
           "validTill": "15 Aug 2024",
           "ageInYears": 4,
           "dimensions": "NA",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135502",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Stay alone senior (68 years old), with mobility issues, resides in a rented unit. Senior would benefit from a new fridge as current one is not working.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Bedok",
+      "name": "Chea Hui Sing",
+      "email": "huising.chea@montfortcare.org.sg",
+      "phone": [
+        "63123988"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136254",
+          "name": "Fridge",
+          "description": "Fridge with freezer in good working condition. Self-collection please.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "03 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
