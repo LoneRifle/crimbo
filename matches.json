@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136300",
+          "name": "Bed",
+          "description": "Item age is more than 10 years. (10-15) However, it is still in good working condition. It is a double-decker bed with a bottom pull-out mattress. Both mattresses are super single. Dimensions are measured according to the size of the entire double-decker bed shown in the pictures.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "20 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "190x 105x 55",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "135538",
           "name": "Sofa bed",
           "description": "Modular sofa bed - can be placed together or separately if needed.\n\nCover on sitting area is torn but it has been mended.",
@@ -382,39 +393,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136274",
-    "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Senior is an amputee and caregiver to his uncle with stoma bag, his fan has broken down and would need a new fan as the weather is getting very hot and humid",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-      "name": "Kei Ng",
-      "email": "ngkhuankungkei@allkin.org.sg",
-      "phone": [
-        "64510898"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "135845",
-          "name": "WALL FAN",
-          "description": "GOOD CONDITION WALL FAN EXCEPT THE OSCILLATION IS SPOILT AND NEED TO MANUALLY TURN THE SPEED KNOB\n\nFRONT COVER OF THE FAN IS MISSING\n\nOVERALL STILL WORKABLE",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "21 Aug 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
