@@ -172,6 +172,50 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "136314",
+          "name": "Baby cot with mattress",
+          "description": "Bed is in good condition. Mattress bought 1 year ago.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136207",
+    "category": "Infant and Children Items",
+    "name": "BABY CHAIR",
+    "description": "Client, male, 22 years old, and his fiancée are a young couple with a 6-month-old baby. They need support to acquire toddler furnishings, as their son has started eating solid food. Additionally, they are facing financial constraints as they start their new family. Therefore, we hope a donor can provide a baby high chair for client.",
+    "specifications": "Standard Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136315",
+          "name": "Baby chair",
+          "description": "Meant for baby feeding. Can use up to toddler stage",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
