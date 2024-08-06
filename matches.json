@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136352",
+          "name": "Single bed frame w/o mattress",
+          "description": "Single bedframe, white, does not include mattress. Material is wood.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "09 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "L 200cm x D 101.5cm x H 66.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136333",
           "name": "Sofa Bed",
           "description": "less than a year sofa bed",
@@ -194,6 +205,105 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "136352",
+          "name": "Single bed frame w/o mattress",
+          "description": "Single bedframe, white, does not include mattress. Material is wood.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "09 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "L 200cm x D 101.5cm x H 66.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136344",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client and husband are financially tight currently, and in need of diapers for their child. Husband is the sole breadwinner and client had just gone through 2nd pregnancy. Hence, family will benefit from diapers support.",
+    "specifications": "Huggies Wonder Pants (size NB/XS)",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136184",
+          "name": "Cloth diapers",
+          "description": "2 Newborn nappies (Ocean Meadow and Delivery Storker), 6 Prefold unbleached organic cotton\nhttps://littlelalang.com/collections/newborn",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Aug 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "135837",
+          "name": "BW Generation tape diapers (Size M)",
+          "description": "We have 2 pkts of the above diapers. Please find product link here for reference: https://www.geriatriccare.asia/product/ultra-wrappers-medium-10-per-pack/\n\nWe are unable to cover delivery fees. Please arrange for own delivery.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136343",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client and husband are financially tight currently, and in need of diapers for their child. Husband is the sole breadwinner and client had just gone through 2nd pregnancy. Hence, family will benefit from diapers support.",
+    "specifications": "Huggies Airsoft Pants (XXL)",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136184",
+          "name": "Cloth diapers",
+          "description": "2 Newborn nappies (Ocean Meadow and Delivery Storker), 6 Prefold unbleached organic cotton\nhttps://littlelalang.com/collections/newborn",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Aug 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "135837",
+          "name": "BW Generation tape diapers (Size M)",
+          "description": "We have 2 pkts of the above diapers. Please find product link here for reference: https://www.geriatriccare.asia/product/ultra-wrappers-medium-10-per-pack/\n\nWe are unable to cover delivery fees. Please arrange for own delivery.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "21 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -448,6 +558,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136353",
+    "category": "Electrical Home Appliances",
+    "name": "tv",
+    "description": "client needs a new tv as the current is broken",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136237",
+          "name": "5\" Portable TV set  plus build in radio",
+          "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "15 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "NA",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
