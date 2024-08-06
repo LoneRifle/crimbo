@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136355",
+          "name": "Queen bed and mattress",
+          "description": "Please help to cover collection fee.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "10 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "Queen bed dimensions",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136352",
           "name": "Single bed frame w/o mattress",
           "description": "Single bedframe, white, does not include mattress. Material is wood.",
@@ -192,6 +203,17 @@
           "validTill": "25 Aug 2024",
           "ageInYears": 3,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "136355",
+          "name": "Queen bed and mattress",
+          "description": "Please help to cover collection fee.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "10 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "Queen bed dimensions",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -558,40 +580,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136353",
-    "category": "Electrical Home Appliances",
-    "name": "tv",
-    "description": "client needs a new tv as the current is broken",
-    "specifications": null,
-    "contact": {
-      "org": "Thye Hua Kwan Moral Charities",
-      "name": "Penelope Lim",
-      "email": "penelope.lim@thkmc.org.sg",
-      "phone": [
-        "68461228",
-        "63371201"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136237",
-          "name": "5\" Portable TV set  plus build in radio",
-          "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "NA",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
