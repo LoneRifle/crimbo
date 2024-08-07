@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136364",
+          "name": "Bed + Mattress",
+          "description": "Princess bed (kids) + mattress from King Coil",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "17 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "91cm x 190cm x 50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136355",
           "name": "Queen bed and mattress",
           "description": "Please help to cover collection fee.",
@@ -83,6 +94,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        },
+        {
+          "id": "136371",
+          "name": "Single & Twin Bunk bed",
+          "description": "Single mattress : L190xW90cm\nTwin mattress : L190xW120cm\nBed Frame : L198xW126cm",
+          "location": null,
+          "validTill": "16 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "136167",
@@ -151,6 +173,17 @@
     "date": "15 Jul 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "136364",
+          "name": "Bed + Mattress",
+          "description": "Princess bed (kids) + mattress from King Coil",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "17 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "91cm x 190cm x 50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "136222",
           "name": "Childcare Mattress",
@@ -569,39 +602,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136337",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client's previous refrigerator is spoilt.   Client is medically unfit for work and client is unable to afford a new one. Client seeks to have a new refrigerator to help keep his frozen items cold.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Nur Fatin Athirah Binte Mohamad Husaini",
-      "email": "fatinathirah@allkin.org.sg",
-      "phone": [
-        "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136248",
-          "name": "Refrigerator",
-          "description": "Giving away the refrigerator to whoever need it. Pls arrange own transport. Only defect is that the rubber for the bottom door will be abit hard to close as is abit loose if u left it open for too long..",
-          "location": null,
-          "validTill": "31 Aug 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
