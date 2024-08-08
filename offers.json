@@ -110,78 +110,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "136409",
-    "name": "Washin Machine",
-    "description": "Good working condition. Family moved to new unit",
-    "location": null,
-    "validTill": "31 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136408",
-    "name": "Fridge",
-    "description": "Working condition. Family moved to new unit.",
-    "location": null,
-    "validTill": "31 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136404",
-    "name": "TV",
-    "description": "self collect only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136403",
-    "name": "Bar Fridge",
-    "description": "self collect only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136399",
-    "name": "Fridge",
-    "description": "self collect only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "136397",
     "name": "wall fan",
     "description": "self collect only",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "05 Sep 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136394",
-    "name": "Top load washing machine",
-    "description": "self collect only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Sep 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -286,6 +220,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "136413",
+    "name": "Brand New Carpets",
+    "description": "Brand new carpets with 3cm-6cm long furts, bottom antislip, round and rectangular with various sizes. those who wants can collect from me. No delivery covered. Self collection only.",
+    "location": "Woodlands",
+    "validTill": "07 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": "variety sizes",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "136398",
     "name": "Shoe Cabinet",
     "description": "self collection",
@@ -352,28 +297,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "136375",
-    "name": "Brown reclinable two-seater sofa",
-    "description": "Very comfortable two- seater couch. Can recline. Easy maintenance - made of PVC leather",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "136371",
-    "name": "Single & Twin Bunk bed",
-    "description": "Single mattress : L190xW90cm\nTwin mattress : L190xW120cm\nBed Frame : L198xW126cm",
-    "location": null,
-    "validTill": "16 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "136364",
     "name": "Bed + Mattress",
     "description": "Princess bed (kids) + mattress from King Coil",
@@ -425,6 +348,17 @@
     "validTill": "31 Aug 2024",
     "ageInYears": 4,
     "dimensions": "120cm x 90cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136417",
+    "name": "Sofa Bed",
+    "description": "less than a year sofa bed",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": "NA",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
