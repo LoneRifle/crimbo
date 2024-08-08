@@ -110,6 +110,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "136409",
+    "name": "Washin Machine",
+    "description": "Good working condition. Family moved to new unit",
+    "location": null,
+    "validTill": "31 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136408",
+    "name": "Fridge",
+    "description": "Working condition. Family moved to new unit.",
+    "location": null,
+    "validTill": "31 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "136404",
     "name": "TV",
     "description": "self collect only",
@@ -145,17 +167,6 @@
   {
     "id": "136397",
     "name": "wall fan",
-    "description": "self collect only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136395",
-    "name": "standing fan",
     "description": "self collect only",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "05 Sep 2024",
