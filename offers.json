@@ -110,6 +110,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "136434",
+    "name": "Washing machine",
+    "description": "Washing machine front load",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "136397",
     "name": "wall fan",
     "description": "self collect only",
@@ -218,6 +229,72 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136437",
+    "name": "Queen size beds",
+    "description": "Pls arrange own transport\nQueen bed frame, with and without mattress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "08 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136436",
+    "name": "Sofa",
+    "description": "Pls arrange own transport\nSofa bed",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "08 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": "1.98*0.96*0.7",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136435",
+    "name": "Sofa",
+    "description": "Sofa 3 seater",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136433",
+    "name": "Bookshelf",
+    "description": "Bookshelf in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "23 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "81cmx33cmx183cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136432",
+    "name": "Foldable Table",
+    "description": "Foldable table \n- Foldable and easy to carry around\n\n- Perfect for eating, reading, working, gaming, and studying",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "23 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": "60cmx40cmx27cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136431",
+    "name": "Ikea Study Table",
+    "description": "Ikea Study Table in good condition",
+    "location": "Sengkang",
+    "validTill": "23 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": "120mmx60mmx70mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "136424",
@@ -680,6 +757,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "136430",
+    "name": "Hospital Bed with air mattress",
+    "description": "Hospital Bed air mattress of used of less than 2 years. Air mattress still in good and used condition. The patient passed on peacefully few weeks ago. Do sincerely wish to donate out.\n\nSelf arrangement of transport collection is needed. No covering of delivery charges. Do contact me if you have any questions. Thank you.",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "25 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "136429",
+    "name": "New Patient Transferring boards from wheel Chairs to Car",
+    "description": "The new transferring boards of less than a year. Purpose is to use to transfer patient from wheel chairs to car or vice versa upon doctor appointments or etc. Only used less than 5 times. Sincerely wish to donate out.\n\nKindly note that self arrangement of transport is needed, no covering of delivery charges. Do contact me if you have any questions. Thank you.",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "25 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "136428",
