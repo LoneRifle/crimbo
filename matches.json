@@ -119,6 +119,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "136461",
+          "name": "2 Super single storage bed",
+          "description": "Firm foam mattresses in good condition, one of the headboards is broken, the storage mechanism still working well.\nP.s. Pillows and bolster not included",
+          "location": null,
+          "validTill": "10 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "Super single bed",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136026",
           "name": "Air mattress for hospital bed",
           "description": "Inflated air mattress with motor",
@@ -318,6 +329,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135524",
+    "category": "Home Furnishing",
+    "name": "Super Single Storage Bed",
+    "description": "Our clients has been homeless for one year and only recently got approval from HDB to have a rental flat. They do not have sufficient funds to purchase the above-said items which are necessary for ease of living.",
+    "specifications": "Super Single Storage Bed",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136461",
+          "name": "2 Super single storage bed",
+          "description": "Firm foam mattresses in good condition, one of the headboards is broken, the storage mechanism still working well.\nP.s. Pillows and bolster not included",
+          "location": null,
+          "validTill": "10 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "Super single bed",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
