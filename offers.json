@@ -198,6 +198,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "136515",
+    "name": "Clothes Drying Rack",
+    "description": "Wall mountable clothes dryer",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136510",
+    "name": "Ikea single mattress",
+    "description": "Ikea Agotnes foam mattress used by helper\nGood condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "17 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": "90 x 200 firm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "136505",
     "name": "Study chair",
     "description": "Study chair for up to 16 years old.  Adjustable seat and height",
@@ -572,17 +594,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "136054",
-    "name": "Baby Crib",
-    "description": "Baby/toddler cot in good condition. Cot and mattress from IKEA. Will also provide mattress protector",
-    "location": null,
-    "validTill": "26 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "136452",
     "name": "Kenwood blender",
     "description": "Kenwood blender, under utilised. Comes in complete set including instruction manual. Only suitable for use with cold ingredients. \n\nSelf-collection at home address.",
@@ -898,6 +909,17 @@
     "validTill": "09 Sep 2024",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "136509",
+    "name": "Diaper pants",
+    "description": "One packet with 10 pieces unopened. \nAlso have 2 clean used pieces",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "09 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": "XL9",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },

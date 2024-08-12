@@ -254,6 +254,17 @@
           "category": "Mobility Aids"
         },
         {
+          "id": "136510",
+          "name": "Ikea single mattress",
+          "description": "Ikea Agotnes foam mattress used by helper\nGood condition",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "17 Aug 2024",
+          "ageInYears": 2,
+          "dimensions": "90 x 200 firm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136106",
           "name": "Queen Size Mattress",
           "description": "Mattress in a great condition. Just needs to be cleaned and sanitised before using",
@@ -285,6 +296,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136517",
+    "category": "Electrical Home Appliances",
+    "name": "Rice cooker",
+    "description": "Single mother and sole breadwinner of family of 5 in financial hardship request for essential household items: washing machine, refrigerator and rice cooker as they are moving to a 2-room HDB rental flat in Sept.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Lau Chor Eng",
+      "email": "choreng_lau@awwa.org.sg",
+      "phone": [
+        "65117271",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136159",
+          "name": "Takahi Slow Cooker (4.7l) & Tefal Rice cooker",
+          "description": "Giving away lightly used Takahi 4.7L slow cooker and used Tefal 10 cups rice cooker.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "30 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
