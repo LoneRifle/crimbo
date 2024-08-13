@@ -324,6 +324,39 @@
     }
   },
   {
+    "id": "136563",
+    "category": "Electrical Home Appliances",
+    "name": "blender",
+    "description": "Family (2 adults+ 3 pri/sec school going nephew/niece) is staying in a 2 room rental flat. \nThey are looking for a blender to enhance their living condition. Can whatsapp 8022 9012.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136452",
+          "name": "Kenwood blender",
+          "description": "Kenwood blender, under utilised. Comes in complete set including instruction manual. Only suitable for use with cold ingredients. \n\nSelf-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "09 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136541",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -909,6 +942,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136555",
+    "category": "Mobility Aids",
+    "name": "Walking Stick",
+    "description": "Senior has weak legs and difficulties moving around, hence need a walking stick",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Cluster Support - Taman Jurong",
+      "name": "Aaron Cai",
+      "email": "yuxiang.c@ntuchealth.sg",
+      "phone": [
+        "94552302",
+        "62674197"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "135786",
+          "name": "Brown walking stick",
+          "description": "Considerably new walking stick, rarely used.",
+          "location": null,
+          "validTill": "18 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
