@@ -110,6 +110,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "136551",
+    "name": "Refrigerator",
+    "description": "Pass it on due to home relocation.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "09 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "H 183cm, D73cm, W72cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "136447",
     "name": "Wifi Router",
     "description": "ASUS wifi router is still in working condition. No warranty, but comes in box with manual included. \n\nSelf-collection at home address",
@@ -176,17 +187,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "136159",
-    "name": "Takahi Slow Cooker (4.7l) & Tefal Rice cooker",
-    "description": "Giving away lightly used Takahi 4.7L slow cooker and used Tefal 10 cups rice cooker.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "30 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "135845",
     "name": "WALL FAN",
     "description": "GOOD CONDITION WALL FAN EXCEPT THE OSCILLATION IS SPOILT AND NEED TO MANUALLY TURN THE SPEED KNOB\n\nFRONT COVER OF THE FAN IS MISSING\n\nOVERALL STILL WORKABLE",
@@ -196,6 +196,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136552",
+    "name": "Clothes Drying Rack",
+    "description": "Wall mountable clothes dryer",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136550",
+    "name": "Pillow",
+    "description": "Long pillow",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136537",
+    "name": "Single Mattress",
+    "description": "Single mattress without bed",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "136525",
@@ -504,6 +537,17 @@
     "dimensions": "200cm L, 97cm W, 97cm H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "136538",
+    "name": "Baby feeding chair",
+    "description": "IKEA , Baby Feeding chair",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "136524",
