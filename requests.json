@@ -1,5 +1,58 @@
 [
   {
+    "id": "136535",
+    "category": "Home Furnishing",
+    "name": "Table / Kitchen Cabinet",
+    "description": "Our client is a single mother with a school-going child. She was recently released from prison, is currently jobless, and was allocated an HDB rental unit a few weeks ago. She has no money to buy the basic necessities to move into the flat, but she is open to secondhand items.",
+    "specifications": "Table / Kitchen Cabinet",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
+  },
+  {
+    "id": "136531",
+    "category": "Home Furnishing",
+    "name": "2 Door Wardrobes x 2",
+    "description": "Our client is a single mother with a school-going child. She was recently released from prison, is currently jobless, and was allocated an HDB rental unit a few weeks ago. She has no money to buy the basic necessities to move into the flat, but she is open to secondhand items.",
+    "specifications": "2 Door Wardrobes x 2",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
+  },
+  {
+    "id": "136528",
+    "category": "Home Furnishing",
+    "name": "toyogo 4 tier drawer",
+    "description": "Client has mobility issues, and diabetes. \nShe has difficulties packing and doing her house chores due to limited mobility. \nShe Will benefit from having the 4-tier drawer to help her in organizing her medications needed for her diabetes and to keep things neat and tidy.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "13 Aug 2024"
+  },
+  {
     "id": "136512",
     "category": "Home Furnishing",
     "name": "Full Length Clothes Wardrobe",
@@ -669,6 +722,95 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Jul 2024"
+  },
+  {
+    "id": "136536",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "A client has just started work and has been doing the laundry by hand as their washing machine has broken down",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
+  },
+  {
+    "id": "136534",
+    "category": "Electrical Home Appliances",
+    "name": "Stove / Induction Cooker",
+    "description": "Our client is a single mother with a school-going child. She was recently released from prison, is currently jobless, and was allocated an HDB rental unit a few weeks ago. She has no money to buy the basic necessities to move into the flat, but she is open to secondhand items.",
+    "specifications": "Stove / Induction Cooker",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
+  },
+  {
+    "id": "136533",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine For 2",
+    "description": "Our client is a single mother with a school-going child. She was recently released from prison, is currently jobless, and was allocated an HDB rental unit a few weeks ago. She has no money to buy the basic necessities to move into the flat, but she is open to secondhand items.",
+    "specifications": "Washing Machine For 2",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
+  },
+  {
+    "id": "136532",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Our client is a single mother with a school-going child. She was recently released from prison, is currently jobless, and was allocated an HDB rental unit a few weeks ago. She has no money to buy the basic necessities to move into the flat, but she is open to secondhand items.",
+    "specifications": "Fridge",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
+  },
+  {
+    "id": "136527",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client, with family of 5 has received their rental unit and hopes to receive a Television.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Wong Wing Sang",
+      "email": "wongwingsang@fycs.org",
+      "phone": [
+        "69784261",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024"
   },
   {
     "id": "136517",
@@ -2376,22 +2518,21 @@
     "date": "15 Jul 2024"
   },
   {
-    "id": "136518",
+    "id": "136529",
     "category": "Others",
-    "name": "Samsung Mobile Phone",
-    "description": "An elderly with no next of kin requires a Samsung mobile phone to learn to access email and What's app.  If you are willing to help this elderly please What's app social worker Christoher at 87188439.  Thank you.",
-    "specifications": "N.A.",
+    "name": "Halal Food Ration",
+    "description": "Client (M/38) is unemployed as he is the main caregiver of his daughter (5), who had been diagnosed with Autism, son (3), son (2-month-old) with Down Syndrome and his wife (38) who has been diagnosed with depression and is currently unfit for work and pregnant. The family will benefit from donation for groceries as they are struggling to meet their basic needs with limited finances.",
+    "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Navarraj",
-      "email": "navarraj@thkmc.org.sg",
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
       "phone": [
-        "64961278",
-        "62706711"
+        "63128100"
       ]
     },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Aug 2024"
+    "deliveryCostsCoveredByDonor": false,
+    "date": "13 Aug 2024"
   },
   {
     "id": "132258",
