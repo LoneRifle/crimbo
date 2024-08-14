@@ -18,17 +18,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136522",
-          "name": "3 Seater Half Leather Sofa",
-          "description": "Lorenzo pre loved half leather sofa\nAvailable from 3-7 Sep",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "200cm L, 97cm W, 97cm H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "136567",
           "name": "Sancal 3 seater sofa",
           "description": "Preloved 3 seater sofa from Sancal.\nseat cushion on one side is damage at the bottom by cats. But still very comfortable .",
@@ -157,17 +146,6 @@
           "description": "3 Functions Electric Hospital Bed (Panel Side Frames)\n\n3 functions electric hospital bed:\n1) Back recline function\n2) Leg elevating function\n3) High-low adjustable\n\nSinga Cell Mattress 4\" with Static & Digital Mode Pump\n(D 200cm x W 90cm)",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "12 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "136592",
-          "name": "Sofa bed",
-          "description": "Perfect condition sofa bed",
-          "location": "Springleaf, Tagore, Upper Thomson",
-          "validTill": "15 Aug 2024",
           "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -408,17 +386,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "136314",
-          "name": "Baby cot with mattress",
-          "description": "Bed is in good condition. Mattress bought 1 year ago.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "136605",
           "name": "single ikea bedframe with mattress",
           "description": "https://www.ikea.com/sg/en/p/blakullen-uph-bed-frame-with-corner-headboard-knisa-medium-blue-50507186/",
@@ -528,17 +495,6 @@
     "date": "02 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "136315",
-          "name": "Baby chair",
-          "description": "Meant for baby feeding. Can use up to toddler stage",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
         {
           "id": "136538",
           "name": "Baby feeding chair",
@@ -757,40 +713,6 @@
           "validTill": "13 Sep 2024",
           "ageInYears": 2,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136527",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client, with family of 5 has received their rental unit and hopes to receive a Television.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Wong Wing Sang",
-      "email": "wongwingsang@fycs.org",
-      "phone": [
-        "69784261",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136237",
-          "name": "5\" Portable TV set  plus build in radio",
-          "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "NA",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1269,40 +1191,6 @@
     }
   },
   {
-    "id": "135946",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Low-income family, dependent on ComCare assistance, is in need of a television as their current one is faulty.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Lee Yan Jun",
-      "email": "leeyanjun@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136237",
-          "name": "5\" Portable TV set  plus build in radio",
-          "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "NA",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "135940",
     "category": "Electrical Home Appliances",
     "name": "Washing machine",
@@ -1337,40 +1225,6 @@
     }
   },
   {
-    "id": "135798",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "69 year old elderly man living alone in a rental flat at Toa Payoh Lor 7, requires a TV so he can keep up to date with the news and also to keep him occupied as he lives alone and has lost contact with his family. He requires a TV with the appropriate wires and fittings to be able to work upon delivery as he would not be able to afford to pay for the appropriate wires as he is on government financial support. You may contact me at my email: michaelbinny@catholicwelfare.org.sg, or on my work mobile: 84840008. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "mbinny@catholicwelfare.org.sg",
-      "phone": [
-        "68017489",
-        "63394711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136237",
-          "name": "5\" Portable TV set  plus build in radio",
-          "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "NA",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "135769",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -1397,40 +1251,6 @@
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135754",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is 60 years old who has just gotten his own HDB Rental flat. He is staying on his own and has no next of kin for financial support. It would be a great help to get essential home appliances.",
-    "specifications": null,
-    "contact": {
-      "org": "Selarang Halfway House",
-      "name": "Fathin Afifah Kambali",
-      "email": "fathin_afifah@yri.com.sg",
-      "phone": [
-        "88142157",
-        "62450434"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136237",
-          "name": "5\" Portable TV set  plus build in radio",
-          "description": "Recycle this 5\"TV Set plus build in Radio. (Screen at right bottom have cracked) But able to view local channel",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "15 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "NA",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
