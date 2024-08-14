@@ -110,6 +110,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "136602",
+    "name": "Washing machine",
+    "description": "As shown pictures. \nSelf collection.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "13 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "136582",
     "name": "Multi Cooker 1.5L (New)",
     "description": "Tested the cooker with water, in good working condition. \nGood for 1 to 2 pax.",
@@ -207,6 +218,61 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136604",
+    "name": "Kettler Ergonomic Kids Study Desk",
+    "description": "Children Study Desk. It is a quality ergonomic desk with adjustable height. Brand is Kettler.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "110x68cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136603",
+    "name": "Ikea Study Table (Alex Table)",
+    "description": "Ikea Study Desk. Used for 4 years. Still in good condition.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "132x58cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136600",
+    "name": "Study table and chair",
+    "description": "Ikea table with 2 drawers. Can have the chair too but slightly stained.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "30 Aug 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136599",
+    "name": "Bunk bed",
+    "description": "Dark grey bunk bed, fits single size",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "30 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136598",
+    "name": "Outdoor cabana",
+    "description": "Outdoor furniture",
+    "location": null,
+    "validTill": "30 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": "73 inches height 88 inches width 49 inches depth",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "136572",
@@ -578,6 +644,28 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "25 Aug 2024",
     "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136591",
+    "name": "Sofa bed",
+    "description": "Perfect condition sofa bed",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "15 Aug 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "136592",
+    "name": "Sofa bed",
+    "description": "Perfect condition sofa bed",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "15 Aug 2024",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -955,17 +1043,6 @@
     "dimensions": "183x80x60 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "136568",
-    "name": "Wheelchair and hospital bed",
-    "description": "Wheelchair and hospital bed",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "18 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "136463",
