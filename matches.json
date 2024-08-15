@@ -74,17 +74,6 @@
           "category": "Mobility Aids"
         },
         {
-          "id": "135718",
-          "name": "Hospital bed",
-          "description": "Hospital bed motorised.  Ps contact me for collection. Thank you.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "16 Aug 2024",
-          "ageInYears": 2,
-          "dimensions": "183x80x60 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
           "id": "136424",
           "name": "Single Size Bed frame",
           "description": "Made of solid beechwood and made in Germany (cost was $2k+). The hydraulics is spolit but bed still good for normal use. it has 4 separate railings that can be lowered or risen.",
@@ -113,17 +102,6 @@
           "location": "Admiralty Drive, Sembawang, Yishun",
           "validTill": "30 Sep 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "136311",
-          "name": "Basic Electric 3-function Hospital Bed",
-          "description": "Basic Electric 3-function hospital bed. Used only for 2 weeks.\nCome with mattress",
-          "location": "Farrer Park, Little India, Serangoon Road",
-          "validTill": "04 Sep 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
@@ -271,6 +249,17 @@
           "validTill": "17 Aug 2024",
           "ageInYears": 2,
           "dimensions": "90 x 200 firm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "136644",
+          "name": "Super Single Bedframe + Mattress",
+          "description": "Super Single bed and mattress",
+          "location": null,
+          "validTill": "25 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
