@@ -96,17 +96,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136364",
-          "name": "Bed + Mattress",
-          "description": "Princess bed (kids) + mattress from King Coil",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "17 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": "91cm x 190cm x 50cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "136716",
           "name": "Sofa bed",
           "description": "Can collect any time from 18th aug to 21 aug. Self collection.",
@@ -237,40 +226,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Jul 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136707",
-          "name": "Shoe Cabinet",
-          "description": "self collection",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Sep 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "135698",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Family is a single mother with 2 children age 4 and 1. Due to health issues, she is unfit for work temporarily. She is a hardworking mother who attends to her children’s developmental and medical appointments well and maintains a safe home environment for her children. She requires a kitchen cabinet as she is moving into her first rental flat in Woodlands. Family has multiple items to coordinate, and thus would appreciate for the donor to pay for the delivery of items.",
-    "specifications": "Height: Waist Length",
-    "contact": {
-      "org": "AWWA Transitional Shelter",
-      "name": "Nur Hazleena Binte Roslee",
-      "email": "nur_hazleena@awwa.org.sg",
-      "phone": [
-        "65511676",
-        "65117272"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Jul 2024",
     "matches": {
       "passiton": [
         {
@@ -524,17 +479,6 @@
           "validTill": "15 Sep 2024",
           "ageInYears": 1,
           "dimensions": "Std",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "136538",
-          "name": "Baby feeding chair",
-          "description": "IKEA , Baby Feeding chair",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "17 Aug 2024",
-          "ageInYears": 2,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
         }
