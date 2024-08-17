@@ -121,17 +121,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "136718",
-    "name": "Washing machine",
-    "description": "No covering delivery, self collection only",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "16 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "136699",
     "name": "Toyomi 1.2L slow cooker",
     "description": "Vegetarian home cooking.\nStill in good working condition.\nPls text or WhatsApp if keen.",
@@ -174,6 +163,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136732",
+    "name": "Queen size bed with mattress",
+    "description": "Queen size bed with mattress and bedsheets; good working condition, owner wants to downsize bed; bed is dismantled and in another location.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "Queen size bed",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "136731",
@@ -680,6 +680,17 @@
     "dimensions": "80cmLx60cmWx66cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "136733",
+    "name": "Kids school bag",
+    "description": "New and seal in plastic as shown",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "136697",
