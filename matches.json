@@ -63,6 +63,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136723",
+          "name": "Single bed frame & mattress",
+          "description": "Wooden bed frame and single mattress.  Sturdy. Easy to assemble.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "24 Aug 2024",
+          "ageInYears": 4,
+          "dimensions": "90cmx190cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136716",
           "name": "Sofa bed",
           "description": "Can collect any time from 18th aug to 21 aug. Self collection.",
@@ -211,6 +222,40 @@
     }
   },
   {
+    "id": "135743",
+    "category": "Home Furnishing",
+    "name": "Shoe Rack",
+    "description": "The client, who resides alone and has mental health conditions, is currently looking for shoe rack. Please contact me at 8859 5662 if you need more information. Thank you for your support.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Grace Ang",
+      "email": "grace_ang@viriya.org.sg",
+      "phone": [
+        "62855033",
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136725",
+          "name": "Shoe rack",
+          "description": "Fits 14 shoes and more.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 1,
+          "dimensions": "110cm x 45cm x 24 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136682",
     "category": "Electrical Home Appliances",
     "name": "Wall Fan",
@@ -237,6 +282,39 @@
           "validTill": "21 Aug 2024",
           "ageInYears": 3,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136678",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is looking for an electric as his current one is broken. He is a single father and has a daughter living with him. He has medical issues and has mobility issues. He hopes to do a home baking business with the oven.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136721",
+          "name": "Electric oven",
+          "description": "I won this new unopened electric oven in a lucky draw last year. I realize I don’t have the space to use it in the kitchen. So I’m donating it.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 1,
+          "dimensions": "441x425x368 mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -406,6 +484,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136527",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client, with family of 5 has received their rental unit and hopes to receive a Television.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Wong Wing Sang",
+      "email": "wongwingsang@fycs.org",
+      "phone": [
+        "69784261",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136727",
+          "name": "Apple TV 3rd gen",
+          "description": "For individuals or an organization can utilize it for learning instead of just using as smart tv.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "Nil",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
         }
       ],
       "carousell": []
@@ -780,6 +892,40 @@
     }
   },
   {
+    "id": "135946",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Low-income family, dependent on ComCare assistance, is in need of a television as their current one is faulty.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Lee Yan Jun",
+      "email": "leeyanjun@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136727",
+          "name": "Apple TV 3rd gen",
+          "description": "For individuals or an organization can utilize it for learning instead of just using as smart tv.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "Nil",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "135940",
     "category": "Electrical Home Appliances",
     "name": "Washing machine",
@@ -808,6 +954,74 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135798",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "69 year old elderly man living alone in a rental flat at Toa Payoh Lor 7, requires a TV so he can keep up to date with the news and also to keep him occupied as he lives alone and has lost contact with his family. He requires a TV with the appropriate wires and fittings to be able to work upon delivery as he would not be able to afford to pay for the appropriate wires as he is on government financial support. You may contact me at my email: michaelbinny@catholicwelfare.org.sg, or on my work mobile: 84840008. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Catholic Welfare Services",
+      "name": "Ian Michael Binny",
+      "email": "mbinny@catholicwelfare.org.sg",
+      "phone": [
+        "68017489",
+        "63394711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136727",
+          "name": "Apple TV 3rd gen",
+          "description": "For individuals or an organization can utilize it for learning instead of just using as smart tv.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "Nil",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "135754",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is 60 years old who has just gotten his own HDB Rental flat. He is staying on his own and has no next of kin for financial support. It would be a great help to get essential home appliances.",
+    "specifications": null,
+    "contact": {
+      "org": "Selarang Halfway House",
+      "name": "Fathin Afifah Kambali",
+      "email": "fathin_afifah@yri.com.sg",
+      "phone": [
+        "88142157",
+        "62450434"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jul 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136727",
+          "name": "Apple TV 3rd gen",
+          "description": "For individuals or an organization can utilize it for learning instead of just using as smart tv.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "Nil",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
         }
       ],
       "carousell": []
