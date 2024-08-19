@@ -52,6 +52,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136779",
+          "name": "single bed witth mattress",
+          "description": "barely used single bed with mattress",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "25 Aug 2024",
+          "ageInYears": 1,
+          "dimensions": "3 ft x6 ft",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136723",
           "name": "Single bed frame & mattress",
           "description": "Wooden bed frame and single mattress.  Sturdy. Easy to assemble.",
@@ -214,51 +225,6 @@
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "21 Aug 2024",
           "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136649",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "2 brothers - 68YO and 58Yo have just collected keys to their forever home in Geylang Bahru after a long period of homelessness and stay in transitional shelter. Both clients have several health concerns, limiting their work ability and resulting in financial constraints. Both brothers hope for a washing machine so that they can maintain hygiene standards. We would greatly appreciate if donor can also support delivery to their place in Geylang Bahru. Thank you in advance for supporting our clients!",
-    "specifications": null,
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Claire Yuen",
-      "email": "claire@newhopecs.org.sg",
-      "phone": [
-        "80310939",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136749",
-          "name": "Washing machine",
-          "description": "No covering delivery, self collection only",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "16 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "136750",
-          "name": "Washing machine",
-          "description": "No covering delivery, self collection only",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "16 Sep 2024",
-          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
