@@ -18,6 +18,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "136785",
+          "name": "Study table",
+          "description": "Still well-kept conditioned study table.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "31 Aug 2024",
+          "ageInYears": 3,
+          "dimensions": "190 x 60 x 75",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "136600",
           "name": "Study table and chair",
           "description": "Ikea table with 2 drawers. Can have the chair too but slightly stained.",
@@ -80,17 +91,6 @@
           "location": "Changi, Flora, Loyang",
           "validTill": "30 Aug 2024",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "136564",
-          "name": "Hospital bed",
-          "description": "3 Functions Electric Hospital Bed (Panel Side Frames)\n\n3 functions electric hospital bed:\n1) Back recline function\n2) Leg elevating function\n3) High-low adjustable\n\nSinga Cell Mattress 4\" with Static & Digital Mode Pump\n(D 200cm x W 90cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "12 Sep 2024",
-          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -194,6 +194,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136784",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Father and son living in rental unit seeking basic but new washing machine ($250 to $300) \nFather has multiple medical conditions and son is diagnosed with Mild ID. Getting a used machine would also require plumber to help install, hence family hope to have donor to purchase and included installation.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Tsao Foundation - Hua Mei Clinic",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "66619545"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136749",
+          "name": "Washing machine",
+          "description": "No covering delivery, self collection only",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "136750",
+          "name": "Washing machine",
+          "description": "No covering delivery, self collection only",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
