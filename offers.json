@@ -154,17 +154,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "136749",
-    "name": "Washing machine",
-    "description": "No covering delivery, self collection only",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "16 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "136750",
     "name": "Washing machine",
     "description": "No covering delivery, self collection only",
@@ -227,17 +216,6 @@
     "validTill": "31 Aug 2024",
     "ageInYears": 4,
     "dimensions": "90x120",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "136789",
-    "name": "Dining Table",
-    "description": "Full white, tempered glass table top\nWith matching 2-seater bench",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "31 Aug 2024",
-    "ageInYears": 3,
-    "dimensions": "1.2m L x 70cm W",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -902,11 +880,11 @@
     "category": "Learning Aids"
   },
   {
-    "id": "136748",
-    "name": "Commode chair",
-    "description": "Used less than 3 months, currently stored in storeroom",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "18 Sep 2024",
+    "id": "136855",
+    "name": "Oxygen Concentrator",
+    "description": "The oxygen concentrator is for those with breathing difficulty as it provides oxygen to patient",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Aug 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -968,23 +946,45 @@
     "category": "Medical Aids"
   },
   {
-    "id": "136521",
-    "name": "Lightweight Quad Cane",
-    "description": "Lightweight Quad Cane\nNew not used as elderly don't want to use.\npreference someone stayed near bukit panjang choa chua kang so I can delivery myself",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "11 Sep 2024",
+    "id": "136858",
+    "name": "Wheelchair",
+    "description": "Light Wheelchair for elderly",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Aug 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
   {
-    "id": "136430",
-    "name": "Hospital Bed with air mattress",
-    "description": "Hospital Bed air mattress of used of less than 2 years. Air mattress still in good and used condition. The patient passed on peacefully few weeks ago. Do sincerely wish to donate out.\n\nSelf arrangement of transport collection is needed. No covering of delivery charges. Do contact me if you have any questions. Thank you.",
-    "location": "Springleaf, Tagore, Upper Thomson",
-    "validTill": "25 Aug 2024",
-    "ageInYears": 2,
+    "id": "136857",
+    "name": "Commode",
+    "description": "Commode for toilet",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "136856",
+    "name": "Carbon Fiber Walking Stick",
+    "description": "This walking stick is very light to the elderly.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "136521",
+    "name": "Lightweight Quad Cane",
+    "description": "Lightweight Quad Cane\nNew not used as elderly don't want to use.\npreference someone stayed near bukit panjang choa chua kang so I can delivery myself",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "11 Sep 2024",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
