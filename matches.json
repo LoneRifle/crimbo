@@ -1,5 +1,39 @@
 [
   {
+    "id": "136801",
+    "category": "Home Furnishing",
+    "name": "Clothes Drying Rack",
+    "description": "An elderly man with slipped disc and broken ankle requires a standing clothes rack to dry his clothes properly, as he is no longer able to hang up clothes on the tall ceiling rack. He does not have savings and is unable to work due to his disability.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Victoria Chong",
+      "email": "victoriachong@fycs.org",
+      "phone": [
+        "69783482",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136552",
+          "name": "Clothes Drying Rack",
+          "description": "Wall mountable clothes dryer",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Sep 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136676",
     "category": "Home Furnishing",
     "name": "Study table",
@@ -271,6 +305,50 @@
           "validTill": "21 Aug 2024",
           "ageInYears": 3,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136678",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is looking for an electric as his current one is broken. He is a single father and has a daughter living with him. He has medical issues and has mobility issues. He hopes to do a home baking business with the oven.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136794",
+          "name": "Electric oven",
+          "description": "I won this new unopened electric oven in a lucky draw last year. I realize I don’t have the space to use it in the kitchen. So I’m donating it.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 1,
+          "dimensions": "441x425x368 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "136795",
+          "name": "Electric oven",
+          "description": "I won this new unopened electric oven in a lucky draw last year. I realize I don’t have the space to use it in the kitchen. So I’m donating it.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 1,
+          "dimensions": "441x425x368 mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
