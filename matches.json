@@ -1,38 +1,5 @@
 [
   {
-    "id": "136820",
-    "category": "Home Furnishing",
-    "name": "3 seater sofa",
-    "description": "Client is a single father living with 2 sons in a 2-room flat.  He ekes out a living as a private hire, working long hours to make ends meet.  He recently found that his furniture was infested with bugs.  He threw them out and is now sleeping on a mattress on the floor.  His flat is now scarce with only a few plastic chairs in the living room.  He hopes to be able to get a 3-seater sofa to replace the one he had thrown out.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre - Hougang",
-      "name": "Reina Chantelle Reyes",
-      "email": "reinachantelle@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "136755",
-          "name": "3 seater sofa chairs",
-          "description": "3 seaters sofa chair\nsome cleaning needed",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "136801",
     "category": "Home Furnishing",
     "name": "Clothes Drying Rack",
@@ -145,6 +112,51 @@
     }
   },
   {
+    "id": "136841",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client has just received her HDB rental unit and would like to be blessed with washing machine for her family of 5. She would require donor to cover delivery costs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Wong Wing Sang",
+      "email": "wongwingsang@fycs.org",
+      "phone": [
+        "69784261",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "136749",
+          "name": "Washing machine",
+          "description": "No covering delivery, self collection only",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "136750",
+          "name": "Washing machine",
+          "description": "No covering delivery, self collection only",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136784",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -241,17 +253,6 @@
     "date": "16 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "136794",
-          "name": "Electric oven",
-          "description": "I won this new unopened electric oven in a lucky draw last year. I realize I don’t have the space to use it in the kitchen. So I’m donating it.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "16 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": "441x425x368 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "136795",
           "name": "Electric oven",
