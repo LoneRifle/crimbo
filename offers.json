@@ -231,6 +231,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "136982",
+    "name": "Sofa chair",
+    "description": "3 seater sofa chair",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "136918",
     "name": "TV console",
     "description": "Sideboard",
@@ -407,17 +418,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "136666",
-    "name": "Italian Leather Sofa",
-    "description": "Italian brown leather sofa in great condition on the seats. Some leather damage to the sides. Cleaned and conditioned weekly to maintain. Comes with 2 free pouff (not pillows). Worth over 8K.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "02 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "280cm v 170cm v 70cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "136754",
     "name": "Super Single Bedframe + Mattress",
     "description": "Super Single bed and mattress",
@@ -583,17 +583,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "136396",
-    "name": "extendable dining table",
-    "description": "self collect only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "136390",
     "name": "3 stools",
     "description": "Never been used, but has rusted a bit due to being left in the backyard. Recently cleaned. Solidly built and good quality otherwise.",
@@ -658,39 +647,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "136972",
-    "name": "IKEA Antilop Highchair",
-    "description": "For more product information: https://www.ikea.com/sg/en/p/antilop-highchair-with-safety-belt-light-blue-silver-colour-s19254822/",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "03 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "136971",
-    "name": "Fisher-Price Push Walker",
-    "description": "Fisher-Price 2 Sided Steady Speed Tiger Walker\nfor 6-36 months toddler\nFor more product information: https://www.toysrus.com.sg/fisher-price-2-sided-steady-speed-tiger-walker-1170068.html",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "03 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "136970",
-    "name": "3-in-1 Rocker-Napper",
-    "description": "For more product information: https://www.mothercare.com.sg/tiny-love-3-in-1-rocker-napper-luxe-denim",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "03 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "136941",
@@ -900,6 +856,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "136984",
+    "name": "air mattress",
+    "description": "air mattress to prevent bed sores. you will need a normal mattress to put beneath the air mattress. Item is just the air mattress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "22 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "136983",
+    "name": "hospital bed",
+    "description": "fully functoning hospital bed. No mattress.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "22 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "136521",
