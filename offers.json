@@ -231,6 +231,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "137170",
+    "name": "2 seater dining table set",
+    "description": "Compact and functional dining table set for 2 pax",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "16 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137169",
+    "name": "2 seater sofa",
+    "description": "2 seater sofa, lightly used and comfortable.",
+    "location": null,
+    "validTill": "16 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137168",
+    "name": "Queen Sized bed mattress only",
+    "description": "Queen size bed mattress only. Lightly used but comfortable and thick.",
+    "location": null,
+    "validTill": "16 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "137150",
     "name": "Study table",
     "description": "Study table in decent condition.",
@@ -304,17 +337,6 @@
     "validTill": "25 Sep 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137023",
-    "name": "Red 3 seater leather sofa",
-    "description": "Removable back cushion to convert to sofa bed. Comfortable for 1.6m height youth.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "18 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": "3 Seater - W2060 x D980 x H810 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -748,17 +770,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137163",
-    "name": "2 Packs of Diapers - XXL",
-    "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Aug 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "137145",
     "name": "baby stroller",
     "description": "baby stroller in good condition to give away.",
@@ -876,17 +887,6 @@
     "validTill": "15 Sep 2024",
     "ageInYears": 1,
     "dimensions": "Std",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "136500",
-    "name": "Diapers -newborn size, wrap swaddle",
-    "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-    "location": null,
-    "validTill": "11 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -1012,12 +1012,34 @@
     "category": "Medical Aids"
   },
   {
+    "id": "134993",
+    "name": "Geriatric Chair",
+    "description": "Geriatric chair comes with tray and in good condition.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "136984",
     "name": "air mattress",
     "description": "air mattress to prevent bed sores. you will need a normal mattress to put beneath the air mattress. Item is just the air mattress",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "22 Sep 2024",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "134474",
+    "name": "commode chair",
+    "description": "The silicone pad has recently started to crack (first pix). Refer to second pix without chair pad. \n\nCommode comes with bin and lid with locking wheels and may be placed in bathroom or bedroom.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"

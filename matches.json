@@ -33,50 +33,6 @@
     }
   },
   {
-    "id": "136820",
-    "category": "Home Furnishing",
-    "name": "3 seater sofa",
-    "description": "Client is a single father living with 2 sons in a 2-room flat.  He ekes out a living as a private hire, working long hours to make ends meet.  He recently found that his furniture was infested with bugs.  He threw them out and is now sleeping on a mattress on the floor.  His flat is now scarce with only a few plastic chairs in the living room.  He hopes to be able to get a 3-seater sofa to replace the one he had thrown out.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre - Hougang",
-      "name": "Reina Chantelle Reyes",
-      "email": "reinachantelle@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137041",
-          "name": "3 seater sofa chairs",
-          "description": "3 seaters sofa chair\nsome cleaning needed",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "137023",
-          "name": "Red 3 seater leather sofa",
-          "description": "Removable back cushion to convert to sofa bed. Comfortable for 1.6m height youth.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "18 Sep 2024",
-          "ageInYears": 3,
-          "dimensions": "3 Seater - W2060 x D980 x H810 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "137154",
     "category": "Electrical Home Appliances",
     "name": "Blender",
@@ -513,6 +469,39 @@
     }
   },
   {
+    "id": "136842",
+    "category": "Others",
+    "name": "geriatric chair",
+    "description": "Frail elderly needs a geri chair as his current chair is very low and he finds it difficult to get up from it",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "134993",
+          "name": "Geriatric Chair",
+          "description": "Geriatric chair comes with tray and in good condition.",
+          "location": null,
+          "validTill": "30 Sep 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "136851",
     "category": "Infant and Children Items",
     "name": "Stroller",
@@ -564,17 +553,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -592,17 +570,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -630,17 +597,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -658,17 +614,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -696,17 +641,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -724,17 +658,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -762,17 +685,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -790,17 +702,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -828,17 +729,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -856,17 +746,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -894,17 +773,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -922,17 +790,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -960,17 +817,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -988,17 +834,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -1026,17 +861,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -1054,17 +878,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -1092,17 +905,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -1120,17 +922,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -1291,17 +1082,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -1319,17 +1099,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -1390,17 +1159,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "136500",
-          "name": "Diapers -newborn size, wrap swaddle",
-          "description": "-unused newborn size diapers, tape. About 35. Bag is open but remaining diapers are unused. \n-wrap swaddle x2. Almost new. Were a bit tight for my 1.5month old.",
-          "location": null,
-          "validTill": "11 Sep 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "137012",
           "name": "12 diapers, 4 swim diapers",
           "description": "Diapers S/M, 20-31kg- 12 pieces\nSwim diapers L & XL - 7 prices",
@@ -1418,17 +1176,6 @@
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Aug 2024",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "137163",
-          "name": "2 Packs of Diapers - XXL",
-          "description": "we got 2 packs of this diaper to donate. First one unopened. 2nd one opened but used a few only recently.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
