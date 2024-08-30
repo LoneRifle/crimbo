@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "137187",
+    "name": "Washing Machine",
+    "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "137172",
     "name": "Endo Magic Thermal Cooker",
     "description": "Lightly used for vegetarian cooking only.\nPls text or whatsapp if keen.",
@@ -157,17 +168,6 @@
     "id": "137169",
     "name": "2 seater sofa",
     "description": "2 seater sofa, lightly used and comfortable.",
-    "location": null,
-    "validTill": "16 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137168",
-    "name": "Queen Sized bed mattress only",
-    "description": "Queen size bed mattress only. Lightly used but comfortable and thick.",
     "location": null,
     "validTill": "16 Sep 2024",
     "ageInYears": 1,
@@ -473,6 +473,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "137183",
+    "name": "Italian Leather Sofa",
+    "description": "Italian brown leather sofa in great condition on the seats. Some leather damage to the sides. Cleaned and conditioned weekly to maintain. Comes with 2 free pouff (not pillows). Worth over 8K.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "02 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "280cm v 170cm v 70cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137184",
+    "name": "Italian Leather Sofa",
+    "description": "Italian brown leather sofa in great condition on the seats. Some leather damage to the sides. Cleaned and conditioned weekly to maintain. Comes with 2 free pouff (not pillows). Worth over 8K.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "02 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "280cm v 170cm v 70cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "136637",
     "name": "bathroom basin",
     "description": "bathroom basin; brand new, installed after renovation but removed due to measurements issue.\nreceipient will need get plumbr to install",
@@ -625,17 +647,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "137145",
-    "name": "baby stroller",
-    "description": "baby stroller in good condition to give away.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "27 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": "60cm x 60cm x 45cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "137101",
@@ -834,6 +845,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "137188",
+    "name": "Carton of M Size Adult Diapers",
+    "description": "1 Carton and few packets of M-size Tena Adult Diapers",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "137094",
