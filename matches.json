@@ -41,6 +41,17 @@
           "category": "Mobility Aids"
         },
         {
+          "id": "137210",
+          "name": "Hospital Bed",
+          "description": "Hopsital bed, in good condition. Comes with mattress.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "29 Sep 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
           "id": "137058",
           "name": "Single Size Bed frame",
           "description": "Made of solid beechwood and made in Germany (cost was $2k+). The hydraulics is spolit but bed still good for normal use. it has 4 separate railings that can be lowered or risen.",
@@ -59,17 +70,6 @@
           "validTill": "31 Aug 2024",
           "ageInYears": 4,
           "dimensions": "L210 (internal 205} B104 (86) H40 (69)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "137198",
-          "name": "Ikea LYCKSELE LÖVÅS 2-seat sofa-bed, Tutstad multicolour",
-          "description": "Self pickup please.  Thanks",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "29 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -102,39 +102,6 @@
           "location": "Bt timah",
           "validTill": "08 Sep 2024",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137047",
-    "category": "Home Furnishing",
-    "name": "Sofa Bed",
-    "description": "Post-surgery elderly living with spouse in a 2-room HDB. Sofa bed is easier to get in and out of than a traditional bed, which is important given client's current mobility challenges. Requesting for sofa bed instead of hospital bed due to limited space.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Bedok",
-      "name": "Lee Wei Kit",
-      "email": "lee.weikit@thkmc.org.sg",
-      "phone": [
-        "62418171"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137198",
-          "name": "Ikea LYCKSELE LÖVÅS 2-seat sofa-bed, Tutstad multicolour",
-          "description": "Self pickup please.  Thanks",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "29 Sep 2024",
-          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -195,17 +162,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -240,17 +196,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -284,17 +229,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -327,17 +261,6 @@
     "date": "21 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "137197",
           "name": "Washing machine",
@@ -406,17 +329,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -449,17 +361,6 @@
     "date": "21 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "137197",
           "name": "Washing machine",
@@ -495,17 +396,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -539,17 +429,6 @@
     "date": "19 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "137197",
           "name": "Washing machine",
@@ -651,17 +530,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -694,17 +562,6 @@
     "date": "13 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "137197",
           "name": "Washing machine",
@@ -807,17 +664,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -852,17 +698,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "137197",
           "name": "Washing machine",
           "description": "I hv other items like console, cupboard n sideboard",
@@ -895,17 +730,6 @@
     "date": "01 Aug 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "137187",
-          "name": "Washing Machine",
-          "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Aug 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "137197",
           "name": "Washing machine",

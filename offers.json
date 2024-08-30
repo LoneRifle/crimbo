@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "137187",
-    "name": "Washing Machine",
-    "description": "10kg capacity, good condition washing machine. Needs to be picked up before 01 Sept.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "137172",
     "name": "Endo Magic Thermal Cooker",
     "description": "Lightly used for vegetarian cooking only.\nPls text or whatsapp if keen.",
@@ -141,17 +130,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "137198",
-    "name": "Ikea LYCKSELE LÖVÅS 2-seat sofa-bed, Tutstad multicolour",
-    "description": "Self pickup please.  Thanks",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "29 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "137179",
@@ -649,6 +627,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "137213",
+    "name": "Baby shower net on bathtub",
+    "description": "Baby shower net on bathtub (used less than 3 times)",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "137209",
+    "name": "Cimilre S6 plus breast pump",
+    "description": "Cimilre S6 plus breast pump machine",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "137101",
     "name": "Kids tri cycle, 2 in 1 scooter",
     "description": "No covering delivery, self collection only",
@@ -869,6 +869,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "137212",
+    "name": "Walking frame",
+    "description": "Foldable walking frame. In good Condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "29 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "137211",
+    "name": "Commode",
+    "description": "Commode in good condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "29 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "137194",
     "name": "Hospital bed",
     "description": "In good condition",
@@ -889,6 +911,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "137210",
+    "name": "Hospital Bed",
+    "description": "Hopsital bed, in good condition. Comes with mattress.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "29 Sep 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "136997",
