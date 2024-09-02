@@ -199,6 +199,40 @@
     }
   },
   {
+    "id": "137248",
+    "category": "Home Furnishing",
+    "name": "Single Bed",
+    "description": "Client has just moved to a rental flat from a shelter and is in need of a single sized bed with mattress. He is unable to procure one due to financial hardships as his pay is not very high. Please kindly assist him in getting a bed. Thank you!",
+    "specifications": "Single",
+    "contact": {
+      "org": "New Hope Community Services",
+      "name": "Goh Ann Tat",
+      "email": "anntat@newhopecs.org.sg",
+      "phone": [
+        "87952925",
+        "63059620"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137221",
+          "name": "Single Bed with pull out floor bed.",
+          "description": "Single children bed with pull out floor bed.  Generally is in good condition.  Do note this is a used item and hope it would goes to those who need 1 for their child.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "09 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137200",
     "category": "Home Furnishing",
     "name": "bed",
