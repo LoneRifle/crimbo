@@ -11,6 +11,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "137321",
+    "name": "Refrigerator",
+    "description": "Perfectly good working conditions",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "W85 x D75 x H175",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "137319",
+    "name": "Toshiba dryer",
+    "description": "Bought in sep 2023\n9kg.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "137272",
     "name": "EuroAce 16inch fan",
     "description": "-used, working EuroAce 16 inch fan\n-can spin, 3 power levels\n-signs of rust on fan cover",
@@ -110,17 +132,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "137280",
-    "name": "L shaped 3 seater sofa",
-    "description": "Item comes with 5 years warranty so there is at least 4 years left. Color is light grey.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "137279",
     "name": "Brown fabric 3 seater sofa + chaise lounge",
     "description": "3 seater sofa together with a chaise lounge in brown fabric material.  Used for 8 years but in reasonably good condition. \n\nDimension for the 3 seater 190x100x80cm and chaise lounge at 97x177x80cm. \n\nCan also take the 3 seater sofa without the chaise lounge.",
@@ -135,17 +146,6 @@
     "id": "137275",
     "name": "Super single size bed frame only",
     "description": "Super single frame without mattress",
-    "location": null,
-    "validTill": "06 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137274",
-    "name": "Single bed frame w mattress",
-    "description": "Single bed w mattress",
     "location": null,
     "validTill": "06 Sep 2024",
     "ageInYears": 4,
@@ -183,17 +183,6 @@
     "validTill": "06 Sep 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137265",
-    "name": "Wardrobe",
-    "description": "Items is more than 4 yrs old but in good condition. Will need to dismantle and reinstall.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "06 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "L 150 x H 240cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -271,6 +260,28 @@
     "validTill": "07 Sep 2024",
     "ageInYears": 4,
     "dimensions": "See picture above",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137313",
+    "name": "Tempur single mattress",
+    "description": "A single size 17” Tempur mattress to be donated. There is a slight stain which has been disinfected and cleansed. There is no odour. Mattress is still in good condition.",
+    "location": null,
+    "validTill": "28 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "17 inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137314",
+    "name": "Tempur single mattress",
+    "description": "A single size 17” Tempur mattress to be donated. There is a slight stain which has been disinfected and cleansed. There is no odour. Mattress is still in good condition.",
+    "location": null,
+    "validTill": "28 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "17 inch",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,17 +583,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137293",
-    "name": "Assorted Baby Items",
-    "description": "1. Water resistant feeding bibs to bless. A mix of long sleeve and short sleeve\n2. Socks\n3. Brand New Milk Storage Bags",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "12 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "137292",
     "name": "White Baby Cot",
     "description": "Good condition, height adjustable. One side of the cot frame's height can be adjusted as well.",
@@ -619,17 +619,6 @@
     "id": "137229",
     "name": "Fisher Price Rocker",
     "description": "Condition 9/10. Rarely used and very clean Fisher Price Rocker",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "07 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "137225",
-    "name": "Play Pen",
-    "description": "Play Pen for donation",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "07 Sep 2024",
     "ageInYears": 1,
