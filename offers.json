@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "137380",
+    "name": "Karcher Vacuum Cleaner",
+    "description": "In good working condition.\nComes with full set not in picture.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "04 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "137353",
     "name": "Toshiba dryer",
     "description": "Bought in sep 2023\n9kg.",
@@ -66,17 +77,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "136940",
-    "name": "Kenwood Fruit Extractor",
-    "description": "In mint condition, 3 years old but only used less than 5 times.  220-240W, able to extract up to 600ml juice. Items body slightly yellowish due to keeping it too long, totally working great.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "06 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "136769",
     "name": "Air cooler",
     "description": "Maxcool Air Cooler - MCI-CF 10B. Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
@@ -108,6 +108,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "137373",
+    "name": "Barang Barang TV Console",
+    "description": "TV Console with 4 opened shelves and 2 bigger shelves with door.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "04 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "200cm x 60cm width x 55cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137372",
+    "name": "Barang Barang TV Console",
+    "description": "TLV console with two storage drawers.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "04 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "110cm x 55cm width x 55cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "137350",
@@ -220,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137244",
-    "name": "Chairs",
-    "description": "outdoor chairs",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "10 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "137226",
     "name": "Ikea Dining Table (Torsby)",
     "description": "Used but in good condition",
@@ -304,17 +315,6 @@
     "validTill": "10 Sep 2024",
     "ageInYears": 4,
     "dimensions": "105cm x 50cm x 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137095",
-    "name": "Outdoor weather resistant dining table & 6 chairs",
-    "description": "Outdoor dining table with 6 chairs made of durable weather resistant rattan material. Great for indoors too. The whole set is in good condition with very minimal or zero wear and  tear.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "15 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": "L1.5 x W0.9 x H0.7 m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -889,6 +889,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "137370",
+    "name": "Computer or laptop mouse",
+    "description": "Wired mouse for computer desktop or laptop. Hardly used.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "137369",
