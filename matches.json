@@ -701,6 +701,39 @@
     }
   },
   {
+    "id": "137100",
+    "category": "Medical Aids",
+    "name": "Oximeter",
+    "description": "A 72 year old single Indian gentleman who is suffering from COPD. He is resides in a 1 room rental flat and is unemployed due to his health condition and his age, he is currently subsisting on government assistance and would benefit from an oximeter to help monitor his oxygen levels in view of his condition.",
+    "specifications": "Blood oxygen oximeter SP02 PR monitor",
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Yick Lai Cheng",
+      "email": "yick.lai.cheng@singhealth.com.sg",
+      "phone": [
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137453",
+          "name": "Fingertip Oximeter",
+          "description": "Fingertip Oximeter PC-60FW from Temasek Foundation. \nNew and unused.\nSelf-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "08 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137398",
     "category": "Infant and Children Items",
     "name": "Diapers",
