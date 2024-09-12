@@ -1,5 +1,77 @@
 [
   {
+    "id": "129637",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client is living in a 1 room rental flat with her 12 year old son. Due to health concerns, she has to take a break from employment and is unable to have enough finances to replace her faulty refrigerator.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Inez Hong",
+      "email": "inezhong@fycs.org",
+      "phone": [
+        "69783104",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
+    "id": "137620",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "A young mother, with 2 children aged 2 and 5 year old. She also needs a new washing machine as her washing machine is faulty.  (Far)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
+    "id": "137616",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family with four children are dependent on SSO financial assistance. Client is medically unfit for work and her husband provides caregiving for her. Their fridge is broken and the family requires a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Amanda Soo",
+      "email": "amandasoo@carecorner.org.sg",
+      "phone": [
+        "69784084",
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
+    "id": "137609",
+    "category": "Electrical Home Appliances",
+    "name": "A gas cooker with one burner",
+    "description": "The Helping Hand is a Volunteer Welfare Organization affiliated with the National Council of Social Service.  We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore.  This is a residential programme carried out in our agency home, which is graciously provided by the Singapore government in recognition of our services to the community. Our services are free and none of our residents pay their way in and through their stay with us.\n\nThe kitchen department prepare three meals a day from Monday to Saturday to all the residents and staff. The kitchen department needs a gas cooker with one burner for regular cooking.",
+    "specifications": null,
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Chan Toh Han",
+      "email": "chantohhan@thehelpinghand.org.sg",
+      "phone": [
+        "67184081",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
     "id": "137604",
     "category": "Electrical Home Appliances",
     "name": "standing fan",
@@ -1286,6 +1358,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "12 Aug 2024"
+  },
+  {
+    "id": "137621",
+    "category": "Others",
+    "name": "black canvas shoes",
+    "description": "Family consists of a single mother with 4 school-going boys aged 11-14. They stay in a 1-room public rental flat. The mother is unemployed due to chronic health condition and is currently looking for a job. 2 of the sons' school shoes have worn down and have holes. Hence, they would appreciate black canvas shoes in US sizes 10 & 11.",
+    "specifications": "US size 11 &10",
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Nur Farizan Hashim",
+      "email": "nur_farizan_hashim@msf.gov.sg",
+      "phone": [
+        "60138532",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
   },
   {
     "id": "137590",
@@ -3904,6 +3994,60 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "12 Aug 2024"
+  },
+  {
+    "id": "137619",
+    "category": "Infant and Children Items",
+    "name": "Dumex stage 1-3 year old.",
+    "description": "A young mother, with 2 children aged 2 and 5 year old needs diaper and milk powder for her toddlers.(Far)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
+    "id": "137618",
+    "category": "Infant and Children Items",
+    "name": "Dumex stage 3-6 years old",
+    "description": "A young mother, with 2 children aged 2 and 5 year old needs diaper and milk powder for her toddlers. (Far)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
+    "id": "137617",
+    "category": "Infant and Children Items",
+    "name": "Diapers Size L",
+    "description": "A young mother, with 2 children aged 2 and 5 year old needs diaper and milk powder for her toddlers.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
   },
   {
     "id": "137607",
@@ -6770,6 +6914,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Aug 2024"
+  },
+  {
+    "id": "137611",
+    "category": "Mobility Aids",
+    "name": "Children wheelchair",
+    "description": "Ct's 4 year old has recently sustained a fracture and requires urgently a wheelchair. Family is under significant financial strain",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Hannah Wong",
+      "email": "wongteenteen@fycs.org",
+      "phone": [
+        "69783108",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
+  },
+  {
+    "id": "137610",
+    "category": "Mobility Aids",
+    "name": "A wheelchair",
+    "description": "An uncle of a Helper from a Halfway House is seeking the public for donating a wheelchair because he is immobility.",
+    "specifications": null,
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Chan Toh Han",
+      "email": "chantohhan@thehelpinghand.org.sg",
+      "phone": [
+        "67184081",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024"
   },
   {
     "id": "137605",
