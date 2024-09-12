@@ -1,16 +1,5 @@
 [
   {
-    "id": "136786",
-    "name": "Boy clothes of 6months to 3 years",
-    "description": "Will not send clothings of specified age. You need to take all or I will not pay for courier. Clearing everything.",
-    "location": null,
-    "validTill": "18 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "137499",
     "name": "Yoei Electric Lunch Box",
     "description": "Yoei Double-layer Electric Lunch Box ELB-643  lunch box 1.5L",
@@ -88,6 +77,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "137623",
+    "name": "Super Single Bed and Mattress",
+    "description": "Lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "137622",
     "name": "Coffee Table",
     "description": "Good condition",
@@ -95,17 +95,6 @@
     "validTill": "20 Sep 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137599",
-    "name": "4 Seater L shape sofa",
-    "description": "Sturdy structure sofa, firm cushioning, easy to care genuine leather",
-    "location": null,
-    "validTill": "12 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": "230 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -139,17 +128,6 @@
     "validTill": "20 Sep 2024",
     "ageInYears": 4,
     "dimensions": "90cm by 160cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137495",
-    "name": "3 seater red leather sofa",
-    "description": "Back cushions can be removed, spacious as a sofa bed for 1.6m frame.\nLeather is bit aged while cushion and frame is in good sturdy condition.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "19 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": "3 Seater - W2060 x D980 x H810 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -480,28 +458,6 @@
     "validTill": "19 Sep 2024",
     "ageInYears": 2,
     "dimensions": "See below for all dimensions",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "136738",
-    "name": "Children t shirt and shorts 3 to 5 years old",
-    "description": "Assorted clothes for boy 3 to 5 years old",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "17 Sep 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "136733",
-    "name": "Kids school bag",
-    "description": "New and seal in plastic as shown",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },

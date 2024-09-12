@@ -180,6 +180,40 @@
     }
   },
   {
+    "id": "137606",
+    "category": "Home Furnishing",
+    "name": "single bed",
+    "description": "client need a single bed and bed frame.",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137623",
+          "name": "Super Single Bed and Mattress",
+          "description": "Lightly used",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "20 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137480",
     "category": "Home Furnishing",
     "name": "Side Table",
@@ -287,6 +321,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "137623",
+          "name": "Super Single Bed and Mattress",
+          "description": "Lightly used",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "20 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "137496",
