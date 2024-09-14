@@ -690,6 +690,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "137676",
+          "name": "Queen Bed",
+          "description": "Solid wood in good condition. Giving away due to relocation.",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "18 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "212 cm x 166cm x 115cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "137227",
           "name": "Hospital Bed with matress",
           "description": "Electronic hospital bed. Comes with the mattress, it is still wrapped up in it's original packaging, as we use it as a base and not as the main mattress.",
@@ -732,6 +743,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137000",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Low income and single mother family of 2 (mother and teenage daughter) currently needs a new or preloved cupboard as its spoilt and they do not have money to get a new one or a second hand one as they are fully dependent on financial assistance as mother is unable to work due to her physical health issues and is on long term MC. She has limited mobility as well and requires a walking frame to walk. They put their clothes on the floor at the moment and its messy. They hope to receive some support for a new or preloved but good working condition cupboard so that they can store their clothes. Please feel free to reach out to me for more information if needed through email. Thank you for supporting the family!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Anabelle Lim",
+      "email": "anabellelim@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137679",
+          "name": "Cupboard w Glass",
+          "description": "Solid Teak Wood. Giving away due to relocation.",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "18 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "84cm x 40cm x  87cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
