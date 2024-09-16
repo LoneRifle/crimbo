@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "137739",
+    "name": "Wooden Table",
+    "description": "Wooden Table for 4 persons. Functional and pretty. Comes with 4 plastic stools",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Oct 2024",
+    "ageInYears": 3,
+    "dimensions": "58cm x 45cm x 76cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "137731",
     "name": "Hospital Bed",
     "description": "Hospital Bed for donation.",
@@ -282,17 +293,6 @@
     "validTill": "20 Sep 2024",
     "ageInYears": 4,
     "dimensions": "90cm by 160cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137372",
-    "name": "Barang Barang TV Console",
-    "description": "TLV console with two storage drawers.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "04 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "110cm x 55cm width x 55cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -627,17 +627,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "137733",
-    "name": "Osim uJolly Full Back Massager",
-    "description": "Hardly used, dark brown, Osim uJolly Back Massager. https://sg.osim.com/product/category/Upper-Body-Massagers/uJolly-Back-Massager",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "137728",
     "name": "Osim U divine massage chair",
     "description": "Fully functioning",
@@ -843,6 +832,28 @@
     "validTill": "17 Sep 2024",
     "ageInYears": 3,
     "dimensions": "54cm x 37cm x 21cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "137736",
+    "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+    "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "137737",
+    "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+    "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },

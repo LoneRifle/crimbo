@@ -1,5 +1,49 @@
 [
   {
+    "id": "137741",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client currently staying in a 2-room rental flat along with 9 others consisting of 5 children, 3 adults, and 1 elderly family member. They are from a low-income family. Their television was recently damaged due to an accident involving one of the grandchildren.",
+    "specifications": "Standard Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137684",
+          "name": "TV Console",
+          "description": "Relocating",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 3,
+          "dimensions": "180x40x48cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137692",
+          "name": "Side Cabinet/TV Console",
+          "description": "Glass Side Cabinet / TV Console",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "21 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137723",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -70,17 +114,6 @@
           "validTill": "21 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "137372",
-          "name": "Barang Barang TV Console",
-          "description": "TLV console with two storage drawers.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "04 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "110cm x 55cm width x 55cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -193,17 +226,6 @@
           "validTill": "21 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "137372",
-          "name": "Barang Barang TV Console",
-          "description": "TLV console with two storage drawers.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "04 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "110cm x 55cm width x 55cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -518,17 +540,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "137372",
-          "name": "Barang Barang TV Console",
-          "description": "TLV console with two storage drawers.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "04 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "110cm x 55cm width x 55cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -605,74 +616,6 @@
           "validTill": "20 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137480",
-    "category": "Home Furnishing",
-    "name": "Side Table",
-    "description": "The client, a single mother with two young children, is moving into a new rental flat after her previous rental flat became heavily infested with bed bugs. Unfortunately, she couldn't bring any of her furniture or electrical appliances to the new flat as they were all infested. The client has also developed undiagnosed Obsessive-Compulsive Disorder (OCD) in addition to her diagnosed mental health conditions. Due to her OCD, she is hoping for donations of new furniture and electrical appliances for her new home. If you require further information, please feel free to discuss it with her social worker, Ms. Seelvi. If you are willing to assist, please contact Ms. Seelvi at 86993152. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137349",
-          "name": "Side-table",
-          "description": "A small side-table that can be used to put a telephone on in the living room, or used to put a lamp &/or clock next to a bed",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "30 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": "52cm x 46cm x 48cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137478",
-    "category": "Home Furnishing",
-    "name": "Side Table",
-    "description": "A single man, homeless since January 2024, was recently diagnosed with a mental health condition and has now moved into a new rental flat. He is currently seeking household items such as a wardrobe, side table, foldable table and chairs, a laptop, and a smart TV to furnish his new home.  If you require further information, please feel free to discuss it with her social worker, Ms. Seelvi. If you are willing to assist, please contact Ms. Seelvi at 86993152. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137349",
-          "name": "Side-table",
-          "description": "A small side-table that can be used to put a telephone on in the living room, or used to put a lamp &/or clock next to a bed",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "30 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": "52cm x 46cm x 48cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -1712,6 +1655,139 @@
     }
   },
   {
+    "id": "137729",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a cancer patient diagnosed with colorectal cancer (stage 4). His cancer has spread after almost 2 years of treatment and has worsened. He is unfit to work, and his wife is looking after him. Client requires a wheelchair to aid mobility and allow him to travel for his cancer treatments with ease.",
+    "specifications": "Standard size for adult, preferably with higher back height",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137700",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Standard wheelchair needed for the AAC to lend wheelchairs to seniors in the community who may need one.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Charis ACE Active Ageing Centre - Geylang East",
+      "name": "Sarah Seetow",
+      "email": "sarahseetow@mws.sg",
+      "phone": [
+        "68420497"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137645",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Member is a middle-aged lady who is suffering from fits and spine issues. As she is not a citizen, her medical bills have been causing significant strain for herself and her husband. As she is unable to walk/stand for extended periods, having a wheelchair will help her to move from home to the hospital more safely.",
+    "specifications": "wider/larger",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137605",
     "category": "Mobility Aids",
     "name": "Walking Stick",
@@ -1740,6 +1816,229 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137533",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Low income family. Son fell and leg is in a cast, requires a wheelchair to aid with his mobility while he recovers.",
+    "specifications": null,
+    "contact": {
+      "org": "Lakeside Family Centre - Jurong West",
+      "name": "Leah Lim",
+      "email": "leah-lim@lakeside.org.sg",
+      "phone": [
+        "65671908ext424",
+        "65671908"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137327",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a mother to 3 young children. Family is a low income family. Client's husband who is the sole bread winner of the family recently lost his job in Feb 24 due to health issues. Client suffers from multiple health issues which impacts on her weight and employability. Client is overweight and requires a wheelchair to move around.\n\n100kg Capacity",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Fahmi Bin Jazid",
+      "email": "fahmi@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137070",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "The client is unfit for work and cannot afford to purchase a wheelchair for his wife, who has mobility issues requiring one.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Joyce Ng",
+      "email": "joyceng@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137060",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a mother to 3 young children. Family is a low income family. Client's husband who is the sole bread winner of the family recently lost his job in Feb 24 due to health issues. Client suffers from multiple health issues which impacts on her weight and employability. Client is overweight and requires a wheelchair to move around.",
+    "specifications": "100kg Capacity",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Farisha",
+      "email": "nurfarisha@allkin.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137049",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is pending paellative care and needs a wheelchair as he is losing strength to walk",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137736",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "137737",
+          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
+          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
