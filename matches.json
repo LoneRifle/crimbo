@@ -1,32 +1,111 @@
 [
   {
-    "id": "137660",
+    "id": "137709",
     "category": "Electrical Home Appliances",
-    "name": "Halal Fridge",
-    "description": "Halal Fridge\nClient is the primary caregiver to her elderly mother, 2 daughters, and 3 grandchildren. The family has been facing financial strains due to husband’s recent incarceration and health conditions that hinder members’ ability to sustain employment. All family members are also diagnosed with multiple health conditions, including diabetes. Client is urgently requesting for a halal fridge to store insulin.",
+    "name": "TV",
+    "description": "Family of 4 with young children has recently moved into their new rental flat. They are sourcing a TV to meet their family's needs as their TV has broken down. As family is lower income, they hope to reduce their expenses through donated items. Would appreciate if donor can cover the delivery costs too. Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
     "specifications": null,
     "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
       "phone": [
-        "67547050"
+        "64961272",
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "13 Sep 2024",
+    "date": "16 Sep 2024",
     "matches": {
       "passiton": [
         {
-          "id": "137664",
-          "name": "Non-halal 2 door fridge",
-          "description": "In excellent condition, not even 2 years old was used mainly to store drinks and frozen finger foods",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": "68x72x177",
+          "id": "137684",
+          "name": "TV Console",
+          "description": "Relocating",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 3,
+          "dimensions": "180x40x48cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137692",
+          "name": "Side Cabinet/TV Console",
+          "description": "Glass Side Cabinet / TV Console",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "21 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137372",
+          "name": "Barang Barang TV Console",
+          "description": "TLV console with two storage drawers.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "04 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "110cm x 55cm width x 55cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137708",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Family of 5 with young children has recently moved into their new rental flat. They are sourcing a TV to meet their family's needs. As family is lower income, they hope to reduce their expenses through donated items. Would appreciate if donor can cover the delivery costs too. Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137684",
+          "name": "TV Console",
+          "description": "Relocating",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 3,
+          "dimensions": "180x40x48cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137692",
+          "name": "Side Cabinet/TV Console",
+          "description": "Glass Side Cabinet / TV Console",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "21 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137372",
+          "name": "Barang Barang TV Console",
+          "description": "TLV console with two storage drawers.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "04 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "110cm x 55cm width x 55cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -58,17 +137,6 @@
           "validTill": "30 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -103,51 +171,6 @@
           "validTill": "30 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137616",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family with four children are dependent on SSO financial assistance. Client is medically unfit for work and her husband provides caregiving for her. Their fridge is broken and the family requires a new one.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Amanda Soo",
-      "email": "amandasoo@carecorner.org.sg",
-      "phone": [
-        "69784084",
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137664",
-          "name": "Non-halal 2 door fridge",
-          "description": "In excellent condition, not even 2 years old was used mainly to store drinks and frozen finger foods",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": "68x72x177",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -212,39 +235,6 @@
     }
   },
   {
-    "id": "137559",
-    "category": "Electrical Home Appliances",
-    "name": "Halal Fridge",
-    "description": "Client recently moved in to a new accommodation and requires basic items to furnish her new home. She also has mental health issues which hinders her opportunity to work and to sustain employment.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Han Wen Ting",
-      "email": "hanwenting@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137664",
-          "name": "Non-halal 2 door fridge",
-          "description": "In excellent condition, not even 2 years old was used mainly to store drinks and frozen finger foods",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": "68x72x177",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "136980",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -271,50 +261,6 @@
           "validTill": "30 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136899",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge (Halal/non halal)",
-    "description": "Hi! Client is a single elderly mother, from a low income family on PMD, living together with her teenage son. They hope to get a fridge as their fridge has been spoilt and is unable to store her groceries. \n\nDonor to cover delivery cost and transport delivery please. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Tasya Puspita Maulany",
-      "email": "tasya@allkin.org.sg",
-      "phone": [
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137664",
-          "name": "Non-halal 2 door fridge",
-          "description": "In excellent condition, not even 2 years old was used mainly to store drinks and frozen finger foods",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": "68x72x177",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -350,17 +296,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -392,17 +327,6 @@
           "validTill": "30 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -438,17 +362,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -480,17 +393,6 @@
           "validTill": "30 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -527,17 +429,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -570,17 +461,6 @@
           "validTill": "30 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "137663",
-          "name": "Refrigerator",
-          "description": "Samsung 2 door Fridge \nRT32K503ASL/SS\nThis Fridge has a 10years Warranty.\nPlease arrange transport to collect the item.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "13 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": "67.5 in ( L)X 23.5 in (W)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -616,6 +496,128 @@
           "dimensions": "12\" x 8\" x8\"",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137706",
+    "category": "Home Furnishing",
+    "name": "TV Console",
+    "description": "Family of 5 with young children has recently moved into their new rental flat. They are sourcing a TV console to meet their family's needs. As family is lower income, they hope to reduce their expenses through donated items. Would apperciate if donor can cover the delivery costs too. Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137684",
+          "name": "TV Console",
+          "description": "Relocating",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 3,
+          "dimensions": "180x40x48cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137692",
+          "name": "Side Cabinet/TV Console",
+          "description": "Glass Side Cabinet / TV Console",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "21 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "137372",
+          "name": "Barang Barang TV Console",
+          "description": "TLV console with two storage drawers.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "04 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "110cm x 55cm width x 55cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137704",
+    "category": "Home Furnishing",
+    "name": "Single size mattress",
+    "description": "Item: Single size mattress. Client and her husband were working as full-time cleaners until their retrenchment in mid 2023. Since then, the middle-aged couple have been struggling to secure stable employment and have been taking on ad-hoc cleaning assignments to sustain their basic needs. The couple also support their two adult children with mental health and physical health needs. However, in recent times the couple have been struggling to get ad-hoc cleaning assignments and have scarce savings to ensure their day-to-day needs. The couple hopes to seek support in securing a single size mattress as their current one is worn out and they do not have sufficient finances to replace it.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Sabrina Than",
+      "email": "sabrinathan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137713",
+          "name": "Super Single Size Mattress",
+          "description": "75 inch (length) X 42 inch (breadth) X 12 inch (Thickness)",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137628",
+    "category": "Home Furnishing",
+    "name": "Single size mattress",
+    "description": "Single Size Mattress. Client and her husband were working as full-time cleaners until their retrenchment in mid 2023. Since then, the middle-aged couple have been struggling to secure stable employment and have been taking on ad-hoc cleaning assignments to sustain their basic needs. The couple also support their two adult children with mental health and physical health needs. However, in recent times the couple have been struggling to get ad-hoc cleaning assignments and have scarce savings to ensure their day-to-day needs. The couple hope to seek support in securing a single size mattress as their current one is worn out and they do not have sufficient finances to replace it.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Sabrina Than",
+      "email": "sabrinathan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137713",
+          "name": "Super Single Size Mattress",
+          "description": "75 inch (length) X 42 inch (breadth) X 12 inch (Thickness)",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 Oct 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -659,39 +661,6 @@
           "validTill": "20 Sep 2024",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137591",
-    "category": "Home Furnishing",
-    "name": "Queen Size Bed Frame",
-    "description": "Family of 3 (young infant) is shifting into their new rental flat. The furniture would benefit them to  start their home with necessary items. Can whatsapp 65 6038 4091 directly ~",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Cassandra Chia",
-      "email": "cassandrachia@allkin.org.sg",
-      "phone": [
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137695",
-          "name": "Queen Size Mattress with compartment bed frame",
-          "description": "all in good working condition. \n\nused for 10 years",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "28 inches in height (mattress and bedframe",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -862,50 +831,6 @@
           "dimensions": "200 cm by 98cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "137695",
-          "name": "Queen Size Mattress with compartment bed frame",
-          "description": "all in good working condition. \n\nused for 10 years",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "28 inches in height (mattress and bedframe",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137157",
-    "category": "Home Furnishing",
-    "name": "queen size bed frame",
-    "description": "Family of 3 (young infant) is shifting into their new rental flat. The furniture would benefit them to start their home with necessary items. Can whatsapp directly +65 6038 4091",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Cassandra Chia",
-      "email": "cassandrachia@allkin.org.sg",
-      "phone": [
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137695",
-          "name": "Queen Size Mattress with compartment bed frame",
-          "description": "all in good working condition. \n\nused for 10 years",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "28 inches in height (mattress and bedframe",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -937,107 +862,6 @@
           "validTill": "18 Sep 2024",
           "ageInYears": 4,
           "dimensions": "84cm x 40cm x 87cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136991",
-    "category": "Home Furnishing",
-    "name": "Queen Size Bed with Bed Frame",
-    "description": "Queen Size Bed with Bed Frame\nClient is a single mother with a 12 year old son dealing with severe scoliosis. They are looking for a new bed for them as currently they are sleeping on the floor mattress which is affecting son's back issues further. Client would like a thicker quality mattress with a bed frame as sleeping on the floor might hurt son's back. Client is looking for a New bed.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Madeline d/o Krishnasamy",
-      "email": "madeline@frcsfsc.sg",
-      "phone": [
-        "67799488ext32",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137695",
-          "name": "Queen Size Mattress with compartment bed frame",
-          "description": "all in good working condition. \n\nused for 10 years",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "28 inches in height (mattress and bedframe",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136865",
-    "category": "Home Furnishing",
-    "name": "Queen-size Mattress",
-    "description": "A family of seven needs a baby cot for their coming 6th child.\n\nDue to financial struggles, they are unable to afford a laptop and a queen size mattress.\n\nThey are seeking a kind-hearted individual willing to donate a baby cot, a laptop for the children to do their online learning and a queen size mattress for the children to sleep on as their current one are worn out. \n\nThe mother also hopes for donation of Dumex Dugro stage 5 green colour packet and similac stage 3 milk powder for her 1-year-old to 3- year-old children.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137695",
-          "name": "Queen Size Mattress with compartment bed frame",
-          "description": "all in good working condition. \n\nused for 10 years",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "28 inches in height (mattress and bedframe",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136791",
-    "category": "Home Furnishing",
-    "name": "Queen size mattress",
-    "description": "Client is a 35- year old divorcee and single mother to two sons aged 16 and 14. She is unemployed and unfit for work due to multiple health issues - chronic asthma, high blood pressure, eczema, anxiety and depression. Client's oldest son has mild ID. (Siti)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137695",
-          "name": "Queen Size Mattress with compartment bed frame",
-          "description": "all in good working condition. \n\nused for 10 years",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "28 inches in height (mattress and bedframe",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -1831,30 +1655,31 @@
     }
   },
   {
-    "id": "137645",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Member is a middle-aged lady who is suffering from fits and spine issues. As she is not a citizen, her medical bills have been causing significant strain for herself and her husband. As she is unable to walk/stand for extended periods, having a wheelchair will help her to move from home to the hospital more safely.",
-    "specifications": "wider/larger",
+    "id": "137705",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Family of 5 with young children has recently moved into their new rental flat. They are sourcing a laptop to meet their children's school needs. As family is lower income, they hope to reduce their expenses through donated items.  Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
+    "specifications": null,
     "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Regina Leong",
-      "email": "regina@sccfsc.org.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
       "phone": [
-        "64619200"
+        "64961272",
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "13 Sep 2024",
+    "date": "16 Sep 2024",
     "matches": {
       "passiton": [
         {
-          "id": "137693",
-          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
-          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 1,
+          "id": "137370",
+          "name": "Computer or laptop mouse",
+          "description": "Wired mouse for computer desktop or laptop. Hardly used.",
+          "location": null,
+          "validTill": "30 Sep 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
@@ -1892,174 +1717,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137533",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Low income family. Son fell and leg is in a cast, requires a wheelchair to aid with his mobility while he recovers.",
-    "specifications": null,
-    "contact": {
-      "org": "Lakeside Family Centre - Jurong West",
-      "name": "Leah Lim",
-      "email": "leah-lim@lakeside.org.sg",
-      "phone": [
-        "65671908ext424",
-        "65671908"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137693",
-          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
-          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137327",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is a mother to 3 young children. Family is a low income family. Client's husband who is the sole bread winner of the family recently lost his job in Feb 24 due to health issues. Client suffers from multiple health issues which impacts on her weight and employability. Client is overweight and requires a wheelchair to move around.\n\n100kg Capacity",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137693",
-          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
-          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137070",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "The client is unfit for work and cannot afford to purchase a wheelchair for his wife, who has mobility issues requiring one.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Joyce Ng",
-      "email": "joyceng@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137693",
-          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
-          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137060",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is a mother to 3 young children. Family is a low income family. Client's husband who is the sole bread winner of the family recently lost his job in Feb 24 due to health issues. Client suffers from multiple health issues which impacts on her weight and employability. Client is overweight and requires a wheelchair to move around.",
-    "specifications": "100kg Capacity",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Farisha",
-      "email": "nurfarisha@allkin.org.sg",
-      "phone": [
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137693",
-          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
-          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137049",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is pending paellative care and needs a wheelchair as he is losing strength to walk",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-      "name": "Kei Ng",
-      "email": "ngkhuankungkei@allkin.org.sg",
-      "phone": [
-        "64510898"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "137693",
-          "name": "Wheelchair/Adult Wet Wipe/Underpad (pee pad)",
-          "description": "Wheelchair\nAdult Wet Wipe\nUnderpad (pee pad)\nPLEASE NOTE THAT THE VALID DATE IS ESTIMATED",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "15 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []
