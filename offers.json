@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "137683",
-    "name": "Refrigerator",
-    "description": "Measures 167x70x70cm",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "137675",
     "name": "Philips Electric Kettle",
     "description": "1.2 litre electric kettle with auto-off function",
@@ -99,13 +88,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "137739",
-    "name": "Wooden Table",
-    "description": "Wooden Table for 4 persons. Functional and pretty. Comes with 4 plastic stools",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "16 Oct 2024",
-    "ageInYears": 3,
-    "dimensions": "58cm x 45cm x 76cm",
+    "id": "137791",
+    "name": "Coffee Table and TV Console",
+    "description": "Coffee table and TV console, thick tempered glass top and metal construction.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137783",
+    "name": "Brand new mattress",
+    "description": "Brand new. I have a few bed for donation. \n\nx2 single\nx1 super single",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "17 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -330,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137218",
-    "name": "Dark brown hardwood sofa set",
-    "description": "Dark brown hardwood sofa set - 1 x 3 seater, 2 x one seater, 1 x coffee table and 1 x side table. Donating as elderly at home is old and cannot sit on hard surface so much. Please contact me for more photos and info. Thanks",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "As in photos",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "137314",
     "name": "Tempur single mattress",
     "description": "A single size 17” Tempur mattress to be donated. There is a slight stain which has been disinfected and cleansed. There is no odour. Mattress is still in good condition.",
@@ -363,7 +352,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "136773",
+    "id": "137790",
     "name": "Ikea study desk",
     "description": "Hardly used.",
     "location": "Boon Lay, Jurong, Tuas",
@@ -614,6 +603,17 @@
     "dimensions": "450ml",
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "137788",
+    "name": "Jordan access \"Black/Gym Red-White\" sneaker",
+    "description": "This shoe has been worn less than a year.\nSize got too small. Overall condition still very good. Size US 9/ UK 8/ Euro 42.5.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "17 Oct 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "137571",
