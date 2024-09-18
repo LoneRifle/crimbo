@@ -11,28 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "137675",
-    "name": "Philips Electric Kettle",
-    "description": "1.2 litre electric kettle with auto-off function",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "1.2 Litre",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "137665",
-    "name": "rice cooker",
-    "description": "2 litres",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "137499",
     "name": "Yoei Electric Lunch Box",
     "description": "Yoei Double-layer Electric Lunch Box ELB-643  lunch box 1.5L",
@@ -260,6 +238,17 @@
     "validTill": "20 Sep 2024",
     "ageInYears": 4,
     "dimensions": "90cm by 160cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137810",
+    "name": "Single bed frame and mattress (optional)",
+    "description": "IKEA wooden bed frame with mattress (optional), in good condition. smoke free pet free home.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "04 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "200x90",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -636,6 +625,17 @@
     "dimensions": "227 grams",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "137809",
+    "name": "Medical Bed",
+    "description": "Medical bed in working condition with minor defect bed guard and missing remote buttons",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "01 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "137766",
