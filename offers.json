@@ -1,5 +1,16 @@
 [
   {
+    "id": "137836",
+    "name": "Microwave",
+    "description": "Microwave (halal) still in good working condition",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": "L x b x h",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "137499",
     "name": "Yoei Electric Lunch Box",
     "description": "Yoei Double-layer Electric Lunch Box ELB-643  lunch box 1.5L",
@@ -53,6 +64,17 @@
     "dimensions": "12\" x 8\" x8\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "137837",
+    "name": "Grey Sofa / Couch",
+    "description": "Grey couch from IKEA.  Small marks but still looks ok.  Under the cushions, the fabric is coming apart, but you can't tell from looking at the couch or sitting on it.  Quite comfortable to sleep on for 1 person.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "20 Sep 2024",
+    "ageInYears": 3,
+    "dimensions": "235cm by 155cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "137829",
@@ -154,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137623",
-    "name": "Super Single Bed and Mattress",
-    "description": "Lightly used",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "137622",
     "name": "Coffee Table",
     "description": "Good condition",
@@ -194,6 +205,28 @@
     "validTill": "20 Sep 2024",
     "ageInYears": 4,
     "dimensions": "90cm by 160cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137833",
+    "name": "Ikea display cabinet",
+    "description": "x2 Display cabinet.\nMoving out - please collect asap.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": "32 x 35 x 151 CM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137834",
+    "name": "Ikea display cabinet",
+    "description": "x2 Display cabinet.\nMoving out - please collect asap.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": "32 x 35 x 151 CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -260,6 +293,17 @@
     "validTill": "02 Oct 2024",
     "ageInYears": 4,
     "dimensions": "L52xB38xH108cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137218",
+    "name": "Dark brown hardwood sofa set",
+    "description": "Dark brown hardwood sofa set - 1 x 3 seater, 2 x one seater, 1 x coffee table and 1 x side table. Donating as elderly at home is old and cannot sit on hard surface so much. Please contact me for more photos and info. Thanks",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "30 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "As in photos",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -539,6 +583,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "137843",
+    "name": "Hospital bed",
+    "description": "See spec in Bion web site for Homecare Bed H100",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "19 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": "210 cm (L) x 102 cm (W)x 81cm H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "137831",
     "name": "Hospital Bed",
     "description": "Hospital bed in working condition",
@@ -699,17 +754,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "08 Oct 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "137227",
-    "name": "Hospital Bed with matress",
-    "description": "Electronic hospital bed. Comes with the mattress, it is still wrapped up in it's original packaging, as we use it as a base and not as the main mattress.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
