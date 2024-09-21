@@ -355,6 +355,39 @@
     }
   },
   {
+    "id": "137840",
+    "category": "Home Furnishing",
+    "name": "3 seater sofa",
+    "description": "Single mother with 2 children receiving government assistance wants to have a 3 -seater sofa. The current sofa is faulty. The mother is taking care of the younger child and the elder child is working part-time delivery job while he is studying in ITE.",
+    "specifications": "3 seater sofa",
+    "contact": {
+      "org": "Hougang Sheng Hong Family Service Centre",
+      "name": "Peter Mao",
+      "email": "maopeter@shenghong.org.sg",
+      "phone": [
+        "62895022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137931",
+          "name": "Grey 3-seater sofa in good condition",
+          "description": "It's a grey 3-seater sofa in good condition, as we always placed a blanket over it when sitting.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Oct 2024",
+          "ageInYears": 3,
+          "dimensions": "LENGTH 2M X  WIDTH 1CM",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137801",
     "category": "Home Furnishing",
     "name": "Single Mattress",
@@ -560,6 +593,39 @@
           "validTill": "15 Oct 2024",
           "ageInYears": 4,
           "dimensions": "200 cm by 98cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "136887",
+    "category": "Home Furnishing",
+    "name": "Foldable table",
+    "description": "The family is a low-income single parent household with 5 young dependents. Client is the sole breadwinner of the family working as a security guard and faces chronic financial difficulties. They require a foldable table for the children to eat and study at as the house lacks space for a permanent dining/study table.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Vivien Kwok",
+      "email": "vivienkwok@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137932",
+          "name": "Foldable wooden table",
+          "description": "Foldable table for study.",
+          "location": null,
+          "validTill": "30 Sep 2024",
+          "ageInYears": 4,
+          "dimensions": "1m×0.8mx0.8m",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
