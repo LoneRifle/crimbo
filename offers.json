@@ -1,5 +1,16 @@
 [
   {
+    "id": "137979",
+    "name": "Vacuum cleaner",
+    "description": "Bagless cordless",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "23 Oct 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "137499",
     "name": "Yoei Electric Lunch Box",
     "description": "Yoei Double-layer Electric Lunch Box ELB-643  lunch box 1.5L",
@@ -73,17 +84,6 @@
     "validTill": "30 Sep 2024",
     "ageInYears": 4,
     "dimensions": "1m×0.8mx0.8m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137929",
-    "name": "Glass Dining Table for 4-6 people",
-    "description": "Air Furniture - Tate table. Glass dining table with wooden legs, can sit 4-6 adults. Minor scratches and dents on the side. 160cm (L) , 90cm (W), 72cm (H)\n\nhttps://www.airfurniture.com.sg/home/tate-dining-table.html",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "160cm (L) , 90cm (W), 72cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -566,28 +566,6 @@
     "description": "perfectly usable",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "17 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "137688",
-    "name": "Pair of elbow crutches",
-    "description": "Pair of elbow crutches",
-    "location": null,
-    "validTill": "15 Oct 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "137687",
-    "name": "Elbow Crutches",
-    "description": "Pair of elbow crutches",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Oct 2024",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
