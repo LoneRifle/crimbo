@@ -1,16 +1,5 @@
 [
   {
-    "id": "137945",
-    "name": "Hotpot grill combo",
-    "description": "2 units of hotpot - grill combo.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "137836",
     "name": "Microwave",
     "description": "Microwave (halal) still in good working condition",
@@ -29,17 +18,6 @@
     "validTill": "09 Oct 2024",
     "ageInYears": 2,
     "dimensions": "1.5L",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "137498",
-    "name": "Mini rice cooker 0.6L",
-    "description": "TOYOMI 0.6L Mini Rice Cooker with Stainless Steel Pot RC 616",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "09 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": "0.6L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -385,6 +363,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "137953",
+    "name": "Ear muff",
+    "description": "Ear muffs washed and drying",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "23 Oct 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "137935",
     "name": "Baby Seat",
     "description": "A well-maintained baby car seat.",
@@ -581,6 +570,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "137957",
+    "name": "Electrical hospital bed",
+    "description": "Item is less than 2 years old. Height of bed can be adjusted using remote. Bed has side bars that can be removed.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "30 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": "Single bed size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "137909",
@@ -801,17 +801,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "137946",
-    "name": "under armour shoes",
-    "description": "track shoes",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": "39 EUR",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "137940",

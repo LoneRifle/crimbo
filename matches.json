@@ -135,6 +135,40 @@
     }
   },
   {
+    "id": "137954",
+    "category": "Home Furnishing",
+    "name": "TV console",
+    "description": "The client is a single mother with 2 school-going children, including a child diagnosed with autism who has high caregiving needs. As such, mother is unable to secure any employment and is relying on social assistance for their daily needs. Family is hoping to receive a TV console to place a TV for the children's learning needs, and to organise children's books.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137684",
+          "name": "TV Console",
+          "description": "Relocating",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 3,
+          "dimensions": "180x40x48cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137904",
     "category": "Home Furnishing",
     "name": "Bed",
@@ -228,6 +262,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "137957",
+          "name": "Electrical hospital bed",
+          "description": "Item is less than 2 years old. Height of bed can be adjusted using remote. Bed has side bars that can be removed.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 2,
+          "dimensions": "Single bed size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         },
         {
           "id": "137694",
@@ -507,6 +552,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "137957",
+          "name": "Electrical hospital bed",
+          "description": "Item is less than 2 years old. Height of bed can be adjusted using remote. Bed has side bars that can be removed.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "30 Sep 2024",
+          "ageInYears": 2,
+          "dimensions": "Single bed size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         },
         {
           "id": "137694",
@@ -987,17 +1043,6 @@
     "date": "20 Sep 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "137946",
-          "name": "under armour shoes",
-          "description": "track shoes",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "22 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": "39 EUR",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
         {
           "id": "137571",
           "name": "Adidas ULTRABOOST 4.0 DNA SHOES",
