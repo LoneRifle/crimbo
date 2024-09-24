@@ -1,17 +1,34 @@
 [
   {
-    "id": "137990",
+    "id": "137998",
     "category": "Electrical Home Appliances",
-    "name": "Electric Cooker",
-    "description": "A socially vulnerable elderly client aged 78, had just moved into a 1 room rental flat. Flat is sparse and needs an electric cooker",
+    "name": "Television set",
+    "description": "Client is a father of 6 children, 4 with special needs, aged 2 to 10. Client requests for a new TV for his family as the TV they currently own is damaged and they do not have the financial means to get a new one.",
+    "specifications": "NIL",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "24 Sep 2024"
+  },
+  {
+    "id": "137996",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine and Fridge",
+    "description": "This is a family of 3 consisting of 2 very young parents in their early 20s who just started working and have a 7 month old baby to take care of too. Family just moved into their rental flat and require basic home appliances such as a fridge and Refrigerator.",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
+      "org": "MSF Social Service Office @ Tampines",
+      "name": "Bryan Chua",
+      "email": "bryan_chua@msf.gov.sg",
       "phone": [
-        "88333080",
-        "67169466"
+        "67025741",
+        "64244017"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -826,18 +843,17 @@
     "date": "25 Aug 2024"
   },
   {
-    "id": "137992",
+    "id": "137997",
     "category": "Others",
-    "name": "laptop",
-    "description": "A family who are displaced without home, living under shelter arrangement have 2 young adults studying at Uni. Due to their heavy financial challenges, unable to purchase a suitable laptop. Donated laptop previously received unable to perform as required based on course of study and is spoilt. In view of their financial challenges, heavy debts, school funding for laptop exhausted for survival needs. Not able to getting government scheme for subsidised laptop purchase due to certain registration limitations too. Seems all means explored and exhausted. We trying here to see if any one keen to donate brand new laptops for these hardworking students. Even one laptop will help too. \n\nHere the minimum specs required to support course of study: \n-Able to have at least I-5 processor \n-Able to support Windows 10 and above \n-Able to use programming software (Python, Java, C+ and C++) \n-Able to install and use Microsoft Office 2010 onwards\n\nThank you and God Bless",
+    "name": "grocery trolley",
+    "description": "hii! :) family of 5 with another child EDD end of year, currently family has 3 young children and father is the only sole breadwinner supporting his family. they are hoping to receive a trolley (for groceries) and to collect some items from the Family Service Centre. donor to kind cover transport arrangement and delivery cost please. thank you!",
     "specifications": null,
     "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Farhana (Hana)",
-      "email": "farhana_ibrahim@awwa.org.sg",
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
       "phone": [
-        "93687434whatsapp",
-        "65119456"
+        "64535349"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1978,6 +1994,23 @@
     "date": "25 Aug 2024"
   },
   {
+    "id": "137995",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "An elderly with low finance needs a 3-door wardrobe for her clothes. She currently stacks her clothes up in the room and it is getting messier and occupying the walking space.\nAppreciate covering of delivery fee as well.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner - Community Case Management Service Central",
+      "name": "Josherine Toh",
+      "email": "josherinetoh@carecorner.org.sg",
+      "phone": [
+        "62586601"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Sep 2024"
+  },
+  {
     "id": "137985",
     "category": "Home Furnishing",
     "name": "Foldable Tables with Wheels",
@@ -2166,24 +2199,6 @@
       "email": "harith_husaini@msf.gov.sg",
       "phone": [
         "63254547",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Sep 2024"
-  },
-  {
-    "id": "137808",
-    "category": "Home Furnishing",
-    "name": "2-seater sofa bed",
-    "description": "Family of 7 is living in a HDB rental flat requiring a sofa bed as there is insufficient bed in the house. Young children currently sleeping in the living room floor.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Angel Lee",
-      "email": "angel_lee@msf.gov.sg",
-      "phone": [
-        "65928117",
         "1800-222-0000"
       ]
     },
@@ -3081,6 +3096,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Aug 2024"
+  },
+  {
+    "id": "137999",
+    "category": "Infant and Children Items",
+    "name": "Diapers (XL & XXL)",
+    "description": "hii! family of 5 with another EDD coming in the end of the year. Family has 3 young children currently and father is the only sole breadwinner support the family with his meagre income. Family is requesting for XL and XXL diapers for the 3 young children to alleviate their expenses. Donor to kindly cover transport arrangement and delivery cost please. Thank youu :)",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Sep 2024"
   },
   {
     "id": "137989",
