@@ -1,5 +1,27 @@
 [
   {
+    "id": "138018",
+    "name": "Onitsuka Tiger  Shoes",
+    "description": "Shoes used less than 10 times and condition is very new.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "138017",
+    "name": "Puma Shoes",
+    "description": "Shoes are used less than 10 times and is in good condition.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "138003",
     "name": "Hot pot grill combo",
     "description": "Combo hotpot and grill",
@@ -31,6 +53,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138023",
+    "name": "Black leather sofa",
+    "description": "Black synthetic sofa. 2 seater. Good condition.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "25 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "180cm x 87cm x 66cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "138005",
@@ -286,17 +319,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "137972",
-    "name": "New Stainless Steel Kitchen Sink+Counter Cabinet",
-    "description": "The entire kitchen sink+counter cabinet unit is a movable unit. Item is almost brand new. Cost $650. Currently installed at premise but never used. Need to remove installed pipe and can carry the unit away. Need to arrange to remove pipe and own transport please.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "28 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": "1.2M * 55cm * 80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "137503",
     "name": "Tea Pots and assorted stuff",
     "description": "Tea pots are brand new. Other things seldom used. All in good condition.",
@@ -372,17 +394,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "137442",
-    "name": "Samsung 18.5\" VGA Monitor",
-    "description": "Samsung 18.5\" VGA Monitor. Will provide VGA-to-HDMI adaptor if needed.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "07 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
   },
   {
     "id": "137976",
@@ -482,6 +493,17 @@
     "dimensions": "227 grams",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "138015",
+    "name": "WHEELCHAIR",
+    "description": "Used wheelchair for around 1.5years. in good condition. 12kg",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "25 Oct 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "137944",
@@ -621,17 +643,6 @@
     "description": "As shown. \nSelf collect.\nCan deliver if on the way",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "14 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "137555",
-    "name": "Yamaha U1 Upright Silent Piano",
-    "description": "Extremely well maintained, tuned every 6 months since purchase \nPiano was purchased in 2004\n\nComes with:\n- Power adaptor\n- Metronome\n- Piano seat \n- Owner's manual\n- Key to open piano \n\nHeadphones (6.1mm) are NOT included",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "10 Oct 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
