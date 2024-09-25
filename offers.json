@@ -55,28 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "138023",
-    "name": "Black leather sofa",
-    "description": "Black synthetic sofa. 2 seater. Good condition.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "25 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "180cm x 87cm x 66cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138005",
-    "name": "electric hospital bed,dining table with 2 chairs, coffee table, 1 single bed and mattress, wheelchair, Tena adult diaper M size",
-    "description": "The items will only be available from 1st Dec 24 onward.",
-    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-    "validTill": "24 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138002",
     "name": "Well used altar",
     "description": "In good condition. Would like to bless this altar for prayer purpose.",
@@ -117,6 +95,17 @@
     "validTill": "30 Sep 2024",
     "ageInYears": 4,
     "dimensions": "1m×0.8mx0.8m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138032",
+    "name": "Glass Dining Table for 4-6 people",
+    "description": "Air Furniture - Tate table. Glass dining table with wooden legs, can sit 4-6 adults. Minor scratches and dents on the side. 160cm (L) , 90cm (W), 72cm (H)\n\nhttps://www.airfurniture.com.sg/home/tate-dining-table.html",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "30 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "160cm (L) , 90cm (W), 72cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -493,6 +482,39 @@
     "dimensions": "227 grams",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "138028",
+    "name": "Wheeled & Decling Commode Chair",
+    "description": "Commonde chair can be declining with wheel.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "138027",
+    "name": "Reclining Wheelchair",
+    "description": "Wheelchair 18\", can be foldable",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "138026",
+    "name": "electric hospital bed",
+    "description": "Standard single hospital bed, bed height can be adjusted using remote, this includes the Air Mattress that good condition used less then 1 year.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "138015",
