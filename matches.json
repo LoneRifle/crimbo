@@ -935,6 +935,39 @@
     }
   },
   {
+    "id": "138009",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a 63-year-old senior who is staying with her husband and 19-year-old daughter. Client recently had a fall and is on bed rest. She hopes to get a wheelchair to aid in her mobility. However, the family is unable to afford one as both client and her husband are unemployed. Client has not been working as she is the main caregiver for her daughter who has mental health issues, while her husband is above retirement age.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138005",
+          "name": "electric hospital bed,dining table with 2 chairs, coffee table, 1 single bed and mattress, wheelchair, Tena adult diaper M size",
+          "description": "The items will only be available from 1st Dec 24 onward.",
+          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
+          "validTill": "24 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137729",
     "category": "Mobility Aids",
     "name": "Wheelchair",
