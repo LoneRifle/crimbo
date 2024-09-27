@@ -1,5 +1,49 @@
 [
   {
+    "id": "138071",
+    "category": "Electrical Home Appliances",
+    "name": "Fan",
+    "description": "A low income elderly needs a standing fan to ease the extreme skin itchiness that he experience from chronic eczema condition.\nCollection can be arranged.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner - Community Case Management Service Central",
+      "name": "Josherine Toh",
+      "email": "josherinetoh@carecorner.org.sg",
+      "phone": [
+        "62586601"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138045",
+          "name": "Metal Floor standing fan",
+          "description": "16 inch Mistral metal floor standing fan\nsigns of rust on the fan covers\nFan can turn, has 3 speeds",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Oct 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "137408",
+          "name": "Bowls, plates, cups, flask, fan",
+          "description": "Household items",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "05 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137758",
     "category": "Electrical Home Appliances",
     "name": "fan",
@@ -817,6 +861,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138070",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "Client suffers from multiple medical conditions such as polio, urinary tract infection, gout, hypertension, diabetes, gastric, and cataract. Polio was diagnosed since young and it affects her right limbs unable to function well. Due to her gout and weak limbs, she walks slowly at home. Client has to attend multiple medical appointments and usually ambulates by using a wheelchair via the MET transport however, client shared that her wheelchair is currently unserviceable  hence, has requested for a wheelchair.",
+    "specifications": null,
+    "contact": {
+      "org": "THK CCMS @ AMK",
+      "name": "Nurul Syasya Binti Rosli",
+      "email": "nurul.syasya@thkmc.org.sg",
+      "phone": [
+        "65564833"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138027",
+          "name": "Reclining Wheelchair",
+          "description": "Wheelchair 18\", can be foldable",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "25 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
