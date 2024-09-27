@@ -1,5 +1,22 @@
 [
   {
+    "id": "138090",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of three is facing significant health and financial challenges. Both the client and her husband are unable to work due to medical conditions, while their daughter is currently studying. The client experiences frequent pain due to her condition, which limits her ability to perform simple household chores. Their situation has been further complicated by the recent breakdown of their washing machine. Given their poor health, skin conditions, and time constraints, they are unable to manage laundry manually. Having a washing machine will offer practical support for managing laundry tasks and help ease some of the family's stress.",
+    "specifications": null,
+    "contact": {
+      "org": "Woodlands Social Centre",
+      "name": "Sharon Wu",
+      "email": "sharon.wu@wsc.org.sg",
+      "phone": [
+        "63655234"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Sep 2024"
+  },
+  {
     "id": "138082",
     "category": "Electrical Home Appliances",
     "name": "Phone",
@@ -22,23 +39,6 @@
     "category": "Electrical Home Appliances",
     "name": "Television",
     "description": "Student with special needs is cared for by his grandparents. The family live in a 1-room rental flat. Grandfather is working part time. Grandmother has mobility issues & unable to work. They do not have a TV and would like to have a small TV.",
-    "specifications": null,
-    "contact": {
-      "org": "MINDS - Lee Kong Chian Gardens School",
-      "name": "Jane Antony",
-      "email": "jane.antony@minds.org.sg",
-      "phone": [
-        "64738332"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Sep 2024"
-  },
-  {
-    "id": "138080",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Student with special needs is cared for by his grandparents. The family live in a 1-room rental flat. Grandfather is working part time. Grandmother has mobility issues & unable to work. Their washing machine is spoilt and grandfather has to wash clothes by hand.",
     "specifications": null,
     "contact": {
       "org": "MINDS - Lee Kong Chian Gardens School",
@@ -238,24 +238,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "24 Sep 2024"
-  },
-  {
-    "id": "137996",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine and Fridge",
-    "description": "This is a family of 3 consisting of 2 very young parents in their early 20s who just started working and have a 7 month old baby to take care of too. Family just moved into their rental flat and require basic home appliances such as a fridge and Refrigerator.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines",
-      "name": "Bryan Chua",
-      "email": "bryan_chua@msf.gov.sg",
-      "phone": [
-        "67025741",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "24 Sep 2024"
   },
   {
@@ -959,6 +941,92 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "29 Aug 2024"
+  },
+  {
+    "id": "138095",
+    "category": "Others",
+    "name": "Body Shower Gel",
+    "description": "Client (M/56) and his wife (F/47) requires body shower gel for them to shower at public facilities as they are currently homeless and does not have the financial means to buy a shower gel.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "27 Sep 2024"
+  },
+  {
+    "id": "138094",
+    "category": "Others",
+    "name": "2 x Bathing Towel",
+    "description": "Client (M/56) and his wife (F/47) requires 2 bathing towels as they are currently homeless and sleeping in the bus as client is working as bus driver who struggles to meet basic daily needs and showers at public facilities.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "27 Sep 2024"
+  },
+  {
+    "id": "138093",
+    "category": "Others",
+    "name": "Blanket",
+    "description": "Client (M/56) and his wife (F/47) requires blanket for them to cover themselves in the bus as it can get cold sleeping on the floor of the bus. Client is working as a bus driver and they are currently homeless awaiting for shelter.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "27 Sep 2024"
+  },
+  {
+    "id": "138092",
+    "category": "Others",
+    "name": "2 x Head Pillows",
+    "description": "Client (M/56) and his wife (F/47) requires 2 head pillows for them to sleep in the bus as client is working as a bus driver and they are currently homeless awaiting for shelter.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "27 Sep 2024"
+  },
+  {
+    "id": "138084",
+    "category": "Others",
+    "name": "House Needs",
+    "description": "Client is a 24-year-old stay-home mother with 2 children, aged 8 and 2 months respectively. \nTogether with her husband, the family stays in a 2-room flexi flat in Yishun. Her husband, who is currently the sole breadwinner of the household, will be serving his sentence in Oct 2024. \nThe family requires the window grills to ensure safety of the young children when the family opens the windows in their living room, bedroom and kitchen for ventilation.",
+    "specifications": "House Needs",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Sep 2024"
   },
   {
     "id": "138033",
@@ -2058,6 +2126,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Aug 2024"
+  },
+  {
+    "id": "138091",
+    "category": "Home Furnishing",
+    "name": "Foldable Mattress",
+    "description": "Client (M/56) and his wife (F/47) requires a foldable mattress for them to sleep in the bus as client is working as a bus driver and they are currently homeless awaiting for shelter. They are currently using cardboard boxes to sleep on the floor of the bus which is not beneficia for their spine and back.",
+    "specifications": "NIL",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "27 Sep 2024"
   },
   {
     "id": "138078",
