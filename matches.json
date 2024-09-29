@@ -185,17 +185,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "137731",
-          "name": "Hospital Bed",
-          "description": "Hospital Bed for donation.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "137843",
           "name": "Hospital bed",
           "description": "See spec in Bion web site for Homecare Bed H100",
@@ -249,17 +238,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        },
-        {
-          "id": "137957",
-          "name": "Electrical hospital bed",
-          "description": "Item is less than 2 years old. Height of bed can be adjusted using remote. Bed has side bars that can be removed.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "30 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": "Single bed size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         },
         {
           "id": "138026",
@@ -597,17 +575,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "137731",
-          "name": "Hospital Bed",
-          "description": "Hospital Bed for donation.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Sep 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "137843",
           "name": "Hospital bed",
           "description": "See spec in Bion web site for Homecare Bed H100",
@@ -661,17 +628,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        },
-        {
-          "id": "137957",
-          "name": "Electrical hospital bed",
-          "description": "Item is less than 2 years old. Height of bed can be adjusted using remote. Bed has side bars that can be removed.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "30 Sep 2024",
-          "ageInYears": 2,
-          "dimensions": "Single bed size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         },
         {
           "id": "138026",
@@ -1079,39 +1035,6 @@
     }
   },
   {
-    "id": "137520",
-    "category": "Kitchen Utility Items",
-    "name": "Kitchen Cabinet",
-    "description": "Client recently moved in to a new accommodation and requires basic items to furnish her new home. She also has mental health issues which hinders her opportunity to work and to sustain employment. If you have a suitable item please reach out to me at 9828 7307 thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Han Wen Ting",
-      "email": "hanwenting@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138115",
-          "name": "Kitchen Cabinet",
-          "description": "Grey Kitchen Cabinet",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "02 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "184cm X 90cm X 46cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "137817",
     "category": "Mobility Aids",
     "name": "Wheeled Commode Chair",
@@ -1140,6 +1063,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137520",
+    "category": "Kitchen Utility Items",
+    "name": "Kitchen Cabinet",
+    "description": "Client recently moved in to a new accommodation and requires basic items to furnish her new home. She also has mental health issues which hinders her opportunity to work and to sustain employment. If you have a suitable item please reach out to me at 9828 7307 thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Han Wen Ting",
+      "email": "hanwenting@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138115",
+          "name": "Kitchen Cabinet",
+          "description": "Grey Kitchen Cabinet",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "02 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "184cm X 90cm X 46cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []

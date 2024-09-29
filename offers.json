@@ -1,27 +1,5 @@
 [
   {
-    "id": "138018",
-    "name": "Onitsuka Tiger  Shoes",
-    "description": "Shoes used less than 10 times and condition is very new.",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "138017",
-    "name": "Puma Shoes",
-    "description": "Shoes are used less than 10 times and is in good condition.",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "138118",
     "name": "Washer/Dryer: 7.5/5kg Washer+Dryer with Vapour Care",
     "description": "2 years old good working condition Electrolux washer+dryer to bless. Need the space for a small fridge hence letting go.",
@@ -86,6 +64,17 @@
     "dimensions": "1.5L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138119",
+    "name": "Study Table",
+    "description": "Scanteak study table",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "138116",
@@ -209,50 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137932",
-    "name": "Foldable wooden table",
-    "description": "Foldable table for study.",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "1m×0.8mx0.8m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138032",
-    "name": "Glass Dining Table for 4-6 people",
-    "description": "Air Furniture - Tate table. Glass dining table with wooden legs, can sit 4-6 adults. Minor scratches and dents on the side. 160cm (L) , 90cm (W), 72cm (H)\n\nhttps://www.airfurniture.com.sg/home/tate-dining-table.html",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "160cm (L) , 90cm (W), 72cm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137893",
-    "name": "Kids Study desk+chair",
-    "description": "Children study desk and chair to give away",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137894",
-    "name": "Kids Study desk+chair",
-    "description": "Children study desk and chair to give away",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "137910",
     "name": "Wooden Table",
     "description": "Wooden Table for 4 persons. Functional and pretty. Comes with 4 plastic stools",
@@ -271,17 +216,6 @@
     "validTill": "16 Oct 2024",
     "ageInYears": 3,
     "dimensions": "58cm x 45cm x 76cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137731",
-    "name": "Hospital Bed",
-    "description": "Hospital Bed for donation.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -308,57 +242,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "137350",
-    "name": "Ottoman with storage",
-    "description": "An ottoman made of fabric that can be used as seating, has storage space when the lid is removed",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "38cm x 38cm x 37cm",
+    "id": "138121",
+    "name": "child stool",
+    "description": "see photo",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "29 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": "25 cm x 25 cm x 25 cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
-    "id": "137349",
-    "name": "Side-table",
-    "description": "A small side-table that can be used to put a telephone on in the living room, or used to put a lamp &/or clock next to a bed",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "52cm x 46cm x 48cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137348",
-    "name": "Pair of Chairs",
-    "description": "2-piece set of chairs",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "47cm x 39cm x 85cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "137218",
-    "name": "Dark brown hardwood sofa set",
-    "description": "Dark brown hardwood sofa set - 1 x 3 seater, 2 x one seater, 1 x coffee table and 1 x side table. Donating as elderly at home is old and cannot sit on hard surface so much. Please contact me for more photos and info. Thanks",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "As in photos",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138101",
-    "name": "Baby toiletries item",
-    "description": "For children assistance",
-    "location": "Choa chu kang",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": null,
+    "id": "138120",
+    "name": "Baby fence, baby lock and toys",
+    "description": "first photo - baby fence (can be installed with flexible shape)\n\nsecond photo - size of individual fence\n\nthird photo - baby toys, plastic ball (left), new soft toys and baby locks (centre), plastic ball rolling tower",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "29 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": "baby fence with maximum 6.4 m width (flexible shape) x 0.6 m (height)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -390,17 +291,6 @@
     "description": "Well used walked. Some accessories may be missing but still functional as only will need to use for a few months to aid in learning. Appreciate if can self collect",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "18 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "137753",
-    "name": "Children Story Books",
-    "description": "Pre-loved story books.  In good condition but not for the fussy.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Sep 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -528,17 +418,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "137957",
-    "name": "Electrical hospital bed",
-    "description": "Item is less than 2 years old. Height of bed can be adjusted using remote. Bed has side bars that can be removed.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": "Single bed size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "137909",
     "name": "Crutches",
     "description": "Only used for 10 days less than 1 year ago. Fully functional.",
@@ -577,17 +456,6 @@
     "description": "Brand new glucose meter.",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "01 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "137596",
-    "name": "Oximeter exercise watch",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "30 Sep 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -726,17 +594,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "137640",
-    "name": "Manual walking frame",
-    "description": "Manual walking frame still in good condition",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "Tall 82cm,lenght 52,deep43cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "138106",
     "name": "Door lock",
     "description": "Door lock, 4pcs",
@@ -754,28 +611,6 @@
     "location": null,
     "validTill": "27 Oct 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138000",
-    "name": "HP Envy 5020 Inkjet Printer",
-    "description": "HP Envy 5020 inkjet printer with scan and photocopy functions. It comes with a brand new pack of colour cartridge and a used colour cartridge installed in the printer. Rarely used and still in good working condition. User will need to get  own black cartridge. Please contact via SMS or Whatsapp only. Thank you.",
-    "location": "Upper Thomson Road",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "137752",
-    "name": "HP laser printer - black and white",
-    "description": "About 4 year old HP laser printer. Works well except you need to use finger / cloth to wet the rubber roller which grips the paper a bit as it has hardened",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
@@ -803,44 +638,11 @@
     "category": "Others"
   },
   {
-    "id": "137461",
-    "name": "Red packets",
-    "description": "Red packets of different sizes - suggest for art and craft work in care centre",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "137436",
     "name": "Lenovo ThinkPad monitor screen",
     "description": "2 to give away\nPls self collect",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "06 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "137370",
-    "name": "Computer or laptop mouse",
-    "description": "Wired mouse for computer desktop or laptop. Hardly used.",
-    "location": null,
-    "validTill": "30 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "137369",
-    "name": "Radio small radio",
-    "description": "Small radio new never used.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Sep 2024",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
