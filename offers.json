@@ -1,38 +1,5 @@
 [
   {
-    "id": "138123",
-    "name": "Cornell Air Fryer",
-    "description": "Pink cornell air fryer. Clean and in excellent condition.",
-    "location": null,
-    "validTill": "30 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": "22.5cm x 29cm x 30cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "138118",
-    "name": "Washer/Dryer: 7.5/5kg Washer+Dryer with Vapour Care",
-    "description": "2 years old good working condition Electrolux washer+dryer to bless. Need the space for a small fridge hence letting go.",
-    "location": null,
-    "validTill": "01 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": "600 mm (W)  570 mm (D) 850 mm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "138117",
-    "name": "Electrolux Fridge ETB3700H-A",
-    "description": "Almost new fridge to bless. Use for only two years. Giving away as i need the space for a washer-tower.",
-    "location": null,
-    "validTill": "01 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": "175.5 x 59.5 x 65 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -75,6 +42,39 @@
     "dimensions": "1.5L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138131",
+    "name": "American Standard Heron Toilet Bowl (brand new)",
+    "description": "Brand new American Standard Heron Toilet Bowl from our BTO. We have a sink with tap to bless together. Self collection at Tampines Greenglade BTO if interested",
+    "location": null,
+    "validTill": "23 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": "613mm x 396mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138130",
+    "name": "American Standard Sink with Tap (brand new)",
+    "description": "Brand New just taken out from BTO. We have a brand new toilet bowl to bless too (613mm length, 396mm width) self collect altogether at our BTO if interested.",
+    "location": null,
+    "validTill": "23 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": "700mm x 450mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138129",
+    "name": "Family dining table/reading, study table",
+    "description": "Solid antique dining table with unique table leg design. Fits family or group use for both dining, reading or studying. \nMuch treasured item. Hopefully whoever receives it will take good care of it and put it to good use.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "04 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "60\" (L), 36\" (W) 30\" (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "138119",
@@ -161,17 +161,6 @@
     "validTill": "04 Oct 2024",
     "ageInYears": 3,
     "dimensions": "See attachment in pic 3",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138083",
-    "name": "Hospital Bed (Brand New)",
-    "description": "Brand New Hospital Bed\nSingle Bed",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "27 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -506,6 +495,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "134993",
+    "name": "Geriatric Chair",
+    "description": "Geriatric chair comes with tray and in good condition.",
+    "location": null,
+    "validTill": "30 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "138036",
     "name": "Hospital Bed with air mattress",
     "description": "Can delivery anytime at your convenience",
@@ -610,6 +610,17 @@
     "description": "Crutches to give away. Good condition, adjustable",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "08 Oct 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "134474",
+    "name": "commode chair",
+    "description": "The silicone pad has recently started to crack (first pix). Refer to second pix without chair pad. \n\nCommode comes with bin and lid with locking wheels and may be placed in bathroom or bedroom.",
+    "location": null,
+    "validTill": "30 Nov 2024",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
