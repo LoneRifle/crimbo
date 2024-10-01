@@ -22,28 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138189",
-    "name": "2 door fridge",
-    "description": "2 door fridge Well kept. Still in good working condition",
-    "location": null,
-    "validTill": "10 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "138181",
-    "name": "Fridge",
-    "description": "60cm by 60cm by 167-170cm",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "06 Oct 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -88,13 +66,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "138191",
-    "name": "3 seater sofa.",
-    "description": "3 seater sofa. Well kept and cleaned regularly.",
-    "location": null,
-    "validTill": "10 Oct 2024",
+    "id": "138194",
+    "name": "2 seater sofa (Fabric)",
+    "description": "To bless a 2 seater sofa. This has been wrapped up in storage for 7 months. In need of a new sofa cover.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "15 Oct 2024",
     "ageInYears": 2,
-    "dimensions": null,
+    "dimensions": "179cm x 88cm x 88cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138193",
+    "name": "Dining Table for 6",
+    "description": "Used dining table from Castlery that fits 6 seats.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "90cm x 160cm x 76cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
