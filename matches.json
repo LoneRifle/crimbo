@@ -133,73 +133,6 @@
     }
   },
   {
-    "id": "137805",
-    "category": "Infant and Children Items",
-    "name": "Stroller",
-    "description": "Stroller for child with special needs who is currently in primary 1. Child's mother have to send her to school every morning from the shelter they are staying at and it is challenging to bring the child to school without a stroller due to her special needs.\n\nIf you have a suitable stroller for donation do drop me a message on WhatsApp at 92960569 or email me at muhammadsuffian@mws.sg. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Muhammad Suffian Bin Bahrin",
-      "email": "muhammadsuffian@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138142",
-          "name": "Combi Stroller",
-          "description": "Still in very good working condition, fabric just need a wash. VWO to arrange for own collection, able to fit in car.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "30 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137779",
-    "category": "Infant and Children Items",
-    "name": "Stroller",
-    "description": "Clients are looking for a queen sized bed as their child is due to deliver in Dec. CLient's husband is in a daily wage and clients have no savings due to client's unstable income due to his job schedule.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Valery Lee",
-      "email": "valery.lee@montfortcare.org.sg",
-      "phone": [
-        "89381639",
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138142",
-          "name": "Combi Stroller",
-          "description": "Still in very good working condition, fabric just need a wash. VWO to arrange for own collection, able to fit in car.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "30 Oct 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "137722",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -463,6 +396,95 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138007",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client (60+) is wheelchair bound with multiple chronic illnesses and lives with her 2 children aged 21 and 23. One of them is unemployed due to medical conditions, while the other was previously released from prison. Looking for fridge as spoilt. Can whatsapp directly to work phone: +65 6038 4091. Donor to arrange transport & cover delivery cost ~",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138181",
+          "name": "Fridge",
+          "description": "60cm by 60cm by 167-170cm",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "06 Oct 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "138189",
+          "name": "2 door fridge",
+          "description": "2 door fridge Well kept. Still in good working condition",
+          "location": null,
+          "validTill": "10 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137961",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Beneficiary is visually impaired, was previously homeless but now has secured a rental unit for his family, including his 8-year-old son and foreign wife. Due to his medical condition,he is currently unemployed, and they require essential household items to ease their financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138181",
+          "name": "Fridge",
+          "description": "60cm by 60cm by 167-170cm",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "06 Oct 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "138189",
+          "name": "2 door fridge",
+          "description": "2 door fridge Well kept. Still in good working condition",
+          "location": null,
+          "validTill": "10 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
