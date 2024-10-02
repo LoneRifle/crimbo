@@ -504,6 +504,39 @@
     }
   },
   {
+    "id": "138236",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame",
+    "description": "Client has recently acquired a new rental unit but currently does not have a proper bed to sleep on. She has mental health issues and does not get enough rest through the night. We hope that if she has a proper bed to sleep on then she would be able to get a better rest at night.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138264",
+          "name": "2 single bed frame",
+          "description": "2 singer bed frames \nStill good condition",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "05 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138226",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -567,6 +600,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "138262",
+          "name": "Hospital Bed",
+          "description": "Fully electronic hospital bed comes with foam and air mattress",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "01 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
           "id": "137843",
           "name": "Hospital bed",
           "description": "See spec in Bion web site for Homecare Bed H100",
@@ -609,6 +653,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "138264",
+          "name": "2 single bed frame",
+          "description": "2 singer bed frames \nStill good condition",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "05 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "138026",
@@ -663,6 +718,17 @@
           "validTill": "05 Oct 2024",
           "ageInYears": 4,
           "dimensions": "1.9 x 1m x 1.6m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "138264",
+          "name": "2 single bed frame",
+          "description": "2 singer bed frames \nStill good condition",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "05 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
