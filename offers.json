@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "138259",
+    "name": "Refrigerator",
+    "description": "Refrigerator to donate, non-halal",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -64,17 +75,6 @@
     "dimensions": "1.5L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "138234",
-    "name": "mattress",
-    "description": "Single mattress with bed frame & a super single mattress",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "01 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "138233",

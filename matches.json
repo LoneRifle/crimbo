@@ -402,6 +402,40 @@
     }
   },
   {
+    "id": "138244",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Low-income family requires a working refrigerator as their current appliance has broken down. Elderly grandmother is a full-time caregiver for granddaughter with special needs while Uncle works as a full-time cleaner to support with monthly household expenses",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Muhammad Danial Bin Mazlan",
+      "email": "danialmazlan@allkin.org.sg",
+      "phone": [
+        "65536643",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138259",
+          "name": "Refrigerator",
+          "description": "Refrigerator to donate, non-halal",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137758",
     "category": "Electrical Home Appliances",
     "name": "fan",
@@ -430,6 +464,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "129637",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client is living in a 1 room rental flat with her 12 year old son. Due to health concerns, she has to take a break from employment and is unable to have enough finances to replace her faulty refrigerator.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Inez Hong",
+      "email": "inezhong@fycs.org",
+      "phone": [
+        "69783104",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138259",
+          "name": "Refrigerator",
+          "description": "Refrigerator to donate, non-halal",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
