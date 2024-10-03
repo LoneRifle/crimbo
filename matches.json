@@ -436,6 +436,72 @@
     }
   },
   {
+    "id": "138300",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Family requires a new sofa as their current one is worn down. Family has difficulties affording a new one as husband is the sole breadwinner of the household and wife has to care for their 2 young children.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138194",
+          "name": "2 seater sofa (Fabric)",
+          "description": "To bless a 2 seater sofa. This has been wrapped up in storage for 7 months. In need of a new sofa cover.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": "179cm x 88cm x 88cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138293",
+    "category": "Home Furnishing",
+    "name": "Queen size mattress",
+    "description": "Family requires a new queen size mattress as their current one is spoilt and client has difficulties sleeping, thus contributing to her worsening mental health. Family has difficulties affording a new mattress as father is the sole breadwinner of the household but is unable to work at the moment due to an accident, and mother has to care for their 2 young children. Bed frame not required.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138295",
+          "name": "Queen size mattress",
+          "description": "Queen size mattress. Very clean. Maintained regularly with a dust mite vacuum.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "11 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "Singapore queen 23cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138236",
     "category": "Home Furnishing",
     "name": "Single Bed Frame",
@@ -469,32 +535,66 @@
     }
   },
   {
-    "id": "138226",
+    "id": "138180",
     "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Mother of 2 school-going children moved into a new rental flat location and requires a 3-seater sofa. Mother is unable to work due to chronic conditions and husband is incarcerated.",
-    "specifications": null,
+    "name": "Cupboard",
+    "description": "Family of 7 people staying in rental unit with 5 children and youth require a new cupboard where their children can put their clothes in. Father is sole bread winner and finances are tight.",
+    "specifications": "1m x 1.7m",
     "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Amanda Soo",
-      "email": "amandasoo@carecorner.org.sg",
+      "org": "Fei Yue Community Services - Youth GO!",
+      "name": "Jesse Chua",
+      "email": "youthgo@fycs.org",
       "phone": [
-        "69784084",
-        "64761481"
+        "96286110",
+        "67622779"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "02 Oct 2024",
+    "date": "01 Oct 2024",
     "matches": {
       "passiton": [
         {
-          "id": "138194",
-          "name": "2 seater sofa (Fabric)",
-          "description": "To bless a 2 seater sofa. This has been wrapped up in storage for 7 months. In need of a new sofa cover.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "id": "138306",
+          "name": "Cupboard",
+          "description": "2 Door Cupboard",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "15 Oct 2024",
-          "ageInYears": 2,
-          "dimensions": "179cm x 88cm x 88cm",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138162",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Single mother and sole breadwinner of family of 5 in financial hardship has just shifted to a HDB rental flat and need a cupboard for clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Lau Chor Eng",
+      "email": "choreng_lau@awwa.org.sg",
+      "phone": [
+        "65117271",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138306",
+          "name": "Cupboard",
+          "description": "2 Door Cupboard",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -524,6 +624,107 @@
           "id": "138275",
           "name": "Wood Cabinet",
           "description": "Used Wooden Cabinet with shelf",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138158",
+    "category": "Home Furnishing",
+    "name": "Queen size mattress",
+    "description": "Client stays in a rental flat and is caring for 5 young children. Her previous mattress was infested with bed bugs and would require a new mattress for herself and children to sleep on.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138295",
+          "name": "Queen size mattress",
+          "description": "Queen size mattress. Very clean. Maintained regularly with a dust mite vacuum.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "11 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "Singapore queen 23cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138078",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "A low income elderly requires a 3-door wardrobe with drawers to store and organize her clothes. Her clothes are currently placed in high stacks and occupying significant space in the bedroom.\nSponsorship of the delivery fee is appreciate as well!",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner - Community Case Management Service Central",
+      "name": "Josherine Toh",
+      "email": "josherinetoh@carecorner.org.sg",
+      "phone": [
+        "62586601"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138306",
+          "name": "Cupboard",
+          "description": "2 Door Cupboard",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137964",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Beneficiary is visually impaired, was previously homeless but now has secured a rental unit for his family, including his 8-year-old son and foreign wife. Due to his medical condition,he is currently unemployed, and they require essential household items to ease their financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138306",
+          "name": "Cupboard",
+          "description": "2 Door Cupboard",
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "15 Oct 2024",
           "ageInYears": 4,

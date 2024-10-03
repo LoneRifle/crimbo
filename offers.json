@@ -66,6 +66,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "138306",
+    "name": "Cupboard",
+    "description": "2 Door Cupboard",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "138286",
     "name": "Single bed plus pull out bed",
     "description": "Single bed with pull out bed - rarely used",
@@ -194,6 +205,17 @@
     "validTill": "28 Oct 2024",
     "ageInYears": 1,
     "dimensions": "25 cm x 25 cm x 25 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138295",
+    "name": "Queen size mattress",
+    "description": "Queen size mattress. Very clean. Maintained regularly with a dust mite vacuum.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "Singapore queen 23cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -468,17 +490,6 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "15 Oct 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "138284",
-    "name": "Wheel chairs",
-    "description": "Wheel chair",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "15 Oct 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
