@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138259",
-    "name": "Refrigerator",
-    "description": "Refrigerator to donate, non-halal",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -77,6 +66,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "138275",
+    "name": "Wood Cabinet",
+    "description": "Used Wooden Cabinet with shelf",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138268",
+    "name": "Large Bean Bag",
+    "description": "Polka dot beanbag",
+    "location": null,
+    "validTill": "02 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "1.6m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "138264",
     "name": "2 single bed frame",
     "description": "2 singer bed frames \nStill good condition",
@@ -95,28 +106,6 @@
     "validTill": "01 Nov 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138267",
-    "name": "mattress",
-    "description": "Single mattress with bed frame & a super single mattress",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "01 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138233",
-    "name": "Dining table & 4 dining chairs",
-    "description": "Wood and glass dining table with 4 dining chairs\n4 dining chairs still in plastic wrap",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "05 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "76cm x 1.2m x 78cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
