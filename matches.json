@@ -173,11 +173,11 @@
     "description": "A single-parent family with a 4-months old baby. Child is requiring Huggies Nature diapers due to sensitive skin. His mother is unable to look for a job at the moment as she still need to go through a series of medical appointments due to bleeding issues after childbirth. Family is only depending on the meager income of the grandfather who earns around $1000/month which is barely enough to meet their daily basic needs.",
     "specifications": "Small",
     "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
+      "org": "Singapore Children’s Society - Community Services &amp; Programmes @ Children’s Society",
       "name": "Katherine Ofiaza",
       "email": "kofiaza@childrensociety.org.sg",
       "phone": [
-        "67537331"
+        "64486658"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -206,11 +206,11 @@
     "description": "A 4-months old baby is requiring Huggies Nature diapers due to eczema. His mother, 23 years old, is a single mother and is still looking for a job. Child has yet to be placed in an infantcare so that his mother will be able to find a job.",
     "specifications": "Medium",
     "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
+      "org": "Singapore Children’s Society - Community Services &amp; Programmes @ Children’s Society",
       "name": "Katherine Ofiaza",
       "email": "kofiaza@childrensociety.org.sg",
       "phone": [
-        "67537331"
+        "64486658"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -402,6 +402,39 @@
     }
   },
   {
+    "id": "138240",
+    "category": "Electrical Home Appliances",
+    "name": "Standing Fan",
+    "description": "Client is a single mother with a 17-year old daughter. She is currently working as a freelance security guard and income is only sufficient to cover basic needs. She currently needs a replacement for her standing fan.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Joanne Kok",
+      "email": "joannekoh@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138341",
+          "name": "Standing fan",
+          "description": "My friend had to migrate urgently so I'm helping her to submit. Hopefully can be not too far and I'll drop off the items myself.  Thank you!\nMy phone is faulty, please contact me via WhatsApp.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "27 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "137758",
     "category": "Electrical Home Appliances",
     "name": "fan",
@@ -420,6 +453,17 @@
     "date": "17 Sep 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "138341",
+          "name": "Standing fan",
+          "description": "My friend had to migrate urgently so I'm helping her to submit. Hopefully can be not too far and I'll drop off the items myself.  Thank you!\nMy phone is faulty, please contact me via WhatsApp.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "27 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "137408",
           "name": "Bowls, plates, cups, flask, fan",
