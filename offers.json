@@ -275,10 +275,32 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "138368",
+    "name": "Milk powder",
+    "description": "Expires Jan 2025",
+    "location": null,
+    "validTill": "31 Oct 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "138367",
+    "name": "Milk powder",
+    "description": "Expiring in 2025 Jan",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "31 Oct 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "138156",
     "name": "As good as new, baby car seat",
     "description": "As good as new baby car seat.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "location": "Tiong Bahru",
     "validTill": "31 Oct 2024",
     "ageInYears": 2,
     "dimensions": null,
