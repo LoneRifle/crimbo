@@ -233,6 +233,73 @@
     }
   },
   {
+    "id": "138200",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "An elderly man living in a rental flat is looking for a TV as his current TV is old and no longer working.",
+    "specifications": null,
+    "contact": {
+      "org": "Yong-En Care Centre",
+      "name": "Felix Leo",
+      "email": "felix-leo@yong-en.org.sg",
+      "phone": [
+        "63090571",
+        "62251002"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138383",
+          "name": "Working Samsung 32 inch LCD TV",
+          "description": "Samsung LCD TV in good working condition",
+          "location": null,
+          "validTill": "05 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137741",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client currently staying in a 2-room rental flat along with 9 others consisting of 5 children, 3 adults, and 1 elderly family member. They are from a low-income family. Their television was recently damaged due to an accident involving one of the grandchildren.",
+    "specifications": "Standard Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138383",
+          "name": "Working Samsung 32 inch LCD TV",
+          "description": "Samsung LCD TV in good working condition",
+          "location": null,
+          "validTill": "05 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138293",
     "category": "Home Furnishing",
     "name": "Queen size mattress",
