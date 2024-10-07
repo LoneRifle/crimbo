@@ -267,31 +267,42 @@
     }
   },
   {
-    "id": "138293",
+    "id": "138399",
     "category": "Home Furnishing",
-    "name": "Queen size mattress",
-    "description": "Family requires a new queen size mattress as their current one is spoilt and client has difficulties sleeping, thus contributing to her worsening mental health. Family has difficulties affording a new mattress as father is the sole breadwinner of the household but is unable to work at the moment due to an accident, and mother has to care for their 2 young children. Bed frame not required.",
-    "specifications": null,
+    "name": "Dining Table",
+    "description": "Family of 8 living in 2-room rental. Father suffered from stroke and therefore has been unable to secure employment. Mother is the sole caregiver of the whole family. For further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": "120cm x 80 cm",
     "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Clarissa Ang",
-      "email": "clarissaang@allkin.org.sg",
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
       "phone": [
-        "64355323"
+        "60156970"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "03 Oct 2024",
+    "date": "07 Oct 2024",
     "matches": {
       "passiton": [
         {
-          "id": "138295",
-          "name": "Queen size mattress",
-          "description": "Queen size mattress. Very clean. Maintained regularly with a dust mite vacuum.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "11 Oct 2024",
+          "id": "138396",
+          "name": "White dining table including chairs",
+          "description": "While dining table including 6 chairs, one chair's surface slightly peeled off",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "31 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": "130x80x75",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "138382",
+          "name": "Oval dining table (NOT for hdb)",
+          "description": "DO NOT reserve until you’ve checked size.  \nSits 6-8. Too large for hdb.\nGreat for care homes",
+          "location": null,
+          "validTill": "25 Oct 2024",
           "ageInYears": 4,
-          "dimensions": "Singapore queen 23cm height",
+          "dimensions": "180cm long x 116cm wide",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -344,40 +355,6 @@
     }
   },
   {
-    "id": "138158",
-    "category": "Home Furnishing",
-    "name": "Queen size mattress",
-    "description": "Client stays in a rental flat and is caring for 5 young children. Her previous mattress was infested with bed bugs and would require a new mattress for herself and children to sleep on.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138295",
-          "name": "Queen size mattress",
-          "description": "Queen size mattress. Very clean. Maintained regularly with a dust mite vacuum.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "11 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "Singapore queen 23cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "137756",
     "category": "Home Furnishing",
     "name": "Cabinet",
@@ -417,39 +394,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138372",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "60 year old client with multiple health conditions, unable to walk long distances. Client's wheelchair recently spoilt and is now renting from a nearby community facility and would benefit from having her own.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Faith Felice Chiam",
-      "email": "fchiam@childrensociety.org.sg",
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138136",
-          "name": "Motorised Wheelchair",
-          "description": "The 2 back wheels need replacement. I can pay for the repair cost but would request receiving party to arrange the repair for me. Thanks in advance.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "30 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "Please refer photos",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
