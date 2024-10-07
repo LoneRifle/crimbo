@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138403",
-    "name": "Mini Fridge",
-    "description": "Second-hand mini fridge that is still fully functioning. Used in office environment for more than 5-6 years.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "25 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "19cm x 20.5cm x 30.5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -75,6 +64,17 @@
     "dimensions": "30*30*40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138405",
+    "name": "3 crank electric hospital bed",
+    "description": "In very good condition, fully functional. Also have pressure relief mattress and electric air pump.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "06 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "138396",
