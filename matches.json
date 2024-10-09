@@ -1,5 +1,39 @@
 [
   {
+    "id": "138436",
+    "category": "Infant and Children Items",
+    "name": "Stroller",
+    "description": "Client is a 2 years old diagnosed with eye cancer.She recently had her left eye surgically removed and is undergoing chemotherapy. Her mother is the caregiver and father does adhoc delivery. The family is financially constrained.",
+    "specifications": "Toddler",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138456",
+          "name": "Tricycle Stroller",
+          "description": "Lightly used",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "07 Nov 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138141",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -124,6 +158,40 @@
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "14 Oct 2024",
           "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137779",
+    "category": "Infant and Children Items",
+    "name": "Stroller",
+    "description": "Clients are looking for a queen sized bed as their child is due to deliver in Dec. CLient's husband is in a daily wage and clients have no savings due to client's unstable income due to his job schedule.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Valery Lee",
+      "email": "valery.lee@montfortcare.org.sg",
+      "phone": [
+        "89381639",
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138456",
+          "name": "Tricycle Stroller",
+          "description": "Lightly used",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "07 Nov 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
