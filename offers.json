@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138437",
-    "name": "Small electrical items",
-    "description": "New items, unused, unopened box",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -55,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "138341",
-    "name": "Standing fan",
-    "description": "My friend had to migrate urgently so I'm helping her to submit. Hopefully can be not too far and I'll drop off the items myself.  Thank you!\nMy phone is faulty, please contact me via WhatsApp.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "27 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138047",
     "name": "Electric claypot slow cooker",
     "description": "Please feel free to take it, for free. This is a electric clay old one, that I used it for cooking bean soup, cooking slowly is good for many kinds of food. Now I don't want to use it anymore as I realized it big for me. It's suitable for cooking for many people.\nIt has a rift in the fringe, however, is still useable. I used it regardless of that.",
@@ -77,6 +55,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "138448",
+    "name": "Coffee Table",
+    "description": "Item comes with glass top. Still in good condition and very sturdy. Made from solid wood.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "23 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "1400mm x 800mm x 480mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138443",
+    "name": "foldable single bed",
+    "description": "This foldable single bed frame has been lightly used with a sleeping pad (mat). It is slightly shorter than a normal single bed frame which means normal single mattress would be too long for it.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "20 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": "1.76mx0.93mx0.33 (LxWxH)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "138432",
     "name": "SCANTEAK Writing Table (Qty 2)",
     "description": "Classic, quality & durable table. Spacious enough to place a monitor (or two!) or laptop. \n\nPreferred if party makes delivery arrangement and bears delivery fee",
@@ -84,17 +84,6 @@
     "validTill": "16 Oct 2024",
     "ageInYears": 4,
     "dimensions": "105cm Width, 62cm Depth, 75cm Height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138417",
-    "name": "Cabinet with Sliding Door",
-    "description": "Display shelf from IKEA, used for 1 year. New and well maintained.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -165,17 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "138373",
-    "name": "Curtains",
-    "description": "Standard curtains for HDB flats.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "04 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "Short curtain 3 ft (W) by 4 ft (L); Long curtain 6.5 ft (W) by 7.5 ft (L)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138321",
     "name": "Brown sofa",
     "description": "Used sofa\nOnly part that is spoilt is the seat, otherwise still in ok condition",
@@ -183,17 +161,6 @@
     "validTill": "11 Oct 2024",
     "ageInYears": 4,
     "dimensions": "210cm by 95cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138286",
-    "name": "Single bed plus pull out bed",
-    "description": "Single bed with pull out bed - rarely used",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "15 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -227,17 +194,6 @@
     "validTill": "23 Oct 2024",
     "ageInYears": 1,
     "dimensions": "700mm x 450mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138119",
-    "name": "Study Table",
-    "description": "Scanteak study table",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -603,6 +559,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "138449",
+    "name": "Single Bed Metal Frame (Foldable )",
+    "description": "Single size metal bed frame (without mattress)",
+    "location": null,
+    "validTill": "13 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": "192 x 90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "138397",
