@@ -335,6 +335,39 @@
     }
   },
   {
+    "id": "138479",
+    "category": "Home Furnishing",
+    "name": "Queen-size Mattress",
+    "description": "This is a family of 6 which consists of client, her husband and their 4 young children. Client is the sole breadwinner and her income is unable to sustain the family’s living.\n\nThe queen-sized bed mattress that they have is infested with bedbugs so client is hoping to receive a new queen-sized bed as she is unable to buy a new one for her family.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138502",
+          "name": "1 King size and 1 queen bed , both w mattress",
+          "description": "1 king size bed and 1 queen size bed both with mattresses",
+          "location": null,
+          "validTill": "20 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "6 x 6 ft",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138466",
     "category": "Home Furnishing",
     "name": "Bed mattress",
@@ -363,6 +396,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "138502",
+          "name": "1 King size and 1 queen bed , both w mattress",
+          "description": "1 king size bed and 1 queen size bed both with mattresses",
+          "location": null,
+          "validTill": "20 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "6 x 6 ft",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -461,6 +505,73 @@
           "validTill": "13 Oct 2024",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137729",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a cancer patient diagnosed with colorectal cancer (stage 4). His cancer has spread after almost 2 years of treatment and has worsened. He is unfit to work, and his wife is looking after him. Client requires a wheelchair to aid mobility and allow him to travel for his cancer treatments with ease.",
+    "specifications": "Standard size for adult, preferably with higher back height",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138503",
+          "name": "Foldable wheelchair",
+          "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "120 x 50 x 50 estimated",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137645",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Member is a middle-aged lady who is suffering from fits and spine issues. As she is not a citizen, her medical bills have been causing significant strain for herself and her husband. As she is unable to walk/stand for extended periods, having a wheelchair will help her to move from home to the hospital more safely.",
+    "specifications": "wider/larger",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138503",
+          "name": "Foldable wheelchair",
+          "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "120 x 50 x 50 estimated",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         }
