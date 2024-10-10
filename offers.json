@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138451",
-    "name": "Samsung Fridge",
-    "description": "Samsung fridge, about 10 years old but still in good working condition...",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "30 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138114",
     "name": "E14 LED light",
     "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -73,17 +62,6 @@
     "validTill": "23 Oct 2024",
     "ageInYears": 4,
     "dimensions": "1400mm x 800mm x 480mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138443",
-    "name": "foldable single bed",
-    "description": "This foldable single bed frame has been lightly used with a sleeping pad (mat). It is slightly shorter than a normal single bed frame which means normal single mattress would be too long for it.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "20 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": "1.76mx0.93mx0.33 (LxWxH)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -405,6 +383,17 @@
     "dimensions": "200 x 90 x 51 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "138489",
+    "name": "hospital bed",
+    "description": "Hospital  bed - good condition (VWO to cover transportation cost)",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "30 Oct 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "138420",
