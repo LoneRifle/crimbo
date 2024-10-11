@@ -11,7 +11,7 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138516",
+    "id": "138523",
     "name": "Washing machine",
     "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
     "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -95,17 +95,6 @@
     "validTill": "16 Oct 2024",
     "ageInYears": 4,
     "dimensions": "105cm Width, 62cm Depth, 75cm Height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138405",
-    "name": "3 crank electric hospital bed",
-    "description": "In very good condition, fully functional. Also have pressure relief mattress and electric air pump.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "06 Nov 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -231,17 +220,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "138338",
-    "name": "MaxiCosi Car Safety Seat for 0-4yo",
-    "description": "Hardly used and in superb condition. \nVery comfy and secure, easy to assemble and remove. \nRotatable for infant and toddler use.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "137953",
     "name": "Ear muff",
     "description": "Ear muffs washed and drying",
@@ -363,6 +341,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "138522",
+    "name": "Foldable wheelchair",
+    "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "09 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "120 x 50 x 50 estimated",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "138489",
     "name": "hospital bed",
     "description": "Hospital  bed - good condition (VWO to cover transportation cost)",
@@ -392,17 +381,6 @@
     "validTill": "03 Nov 2024",
     "ageInYears": 2,
     "dimensions": "1.1mL x 0.7mD x 1.2mH (sitting position size)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "138348",
-    "name": "Brand new Bed ridden aids, wheel chair, commode",
-    "description": "As picture. To take all items. A few more not in pictures to help with bed ridden .",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "02 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },

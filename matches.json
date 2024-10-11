@@ -251,7 +251,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -285,7 +285,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -319,7 +319,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -353,7 +353,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -386,7 +386,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -420,7 +420,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -453,7 +453,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "138516",
+          "id": "138523",
           "name": "Washing machine",
           "description": "Sorry, I'm retired, I'm prepared to donate but not paying for collection fee. Neither I'm in the position of sending to VWO/needy. Your system does not allow unselect both options.",
           "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -462,6 +462,39 @@
           "dimensions": "580x600x960",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138518",
+    "category": "Others",
+    "name": "Diapers",
+    "description": "Single-parent family of 4 consisting of 2 special needs children. Mother is unable to work due to high caregiving needs of her second child.",
+    "specifications": "3x 3XL Diapers",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 206B",
+      "name": "Nurhanisah Binte Abdul Rahman",
+      "email": "nurhanisah@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "137671",
+          "name": "Reusable cloth diapers",
+          "description": "These are reusable cloth diapers , never been used,\n\nNeed to be washed  & dried before use, \n\nThe elastics may need some rework. \n\nIf you need help with the rework, there are organisations that might be handy. \nBut work is required to clean them and reuse the each time . \n\nThey are quality materials, Please only take them if you truly can use them, \n\nThe number given on the site, is a Whatsapp  number only.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "14 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -535,40 +568,6 @@
     }
   },
   {
-    "id": "137703",
-    "category": "Home Furnishing",
-    "name": "bed frame",
-    "description": "50yo lady diagnosed with depression and adjustment disorder due to sudden health crisis. She has stopped work due to her health issues and is not receiving any income. Her wooden bed frame is faulty hence she would like to request for a loft bed frame with mattress. Feel free to call or whatsapp me at 96409381 for coordination. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Shanelle Tan",
-      "email": "shanelle.tan@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138449",
-          "name": "Single Bed Metal Frame (Foldable )",
-          "description": "Single size metal bed frame (without mattress)",
-          "location": null,
-          "validTill": "13 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "192 x 90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "138445",
     "category": "Mobility Aids",
     "name": "Crutches",
@@ -594,6 +593,73 @@
           "validTill": "13 Oct 2024",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137729",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a cancer patient diagnosed with colorectal cancer (stage 4). His cancer has spread after almost 2 years of treatment and has worsened. He is unfit to work, and his wife is looking after him. Client requires a wheelchair to aid mobility and allow him to travel for his cancer treatments with ease.",
+    "specifications": "Standard size for adult, preferably with higher back height",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138522",
+          "name": "Foldable wheelchair",
+          "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "120 x 50 x 50 estimated",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137645",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Member is a middle-aged lady who is suffering from fits and spine issues. As she is not a citizen, her medical bills have been causing significant strain for herself and her husband. As she is unable to walk/stand for extended periods, having a wheelchair will help her to move from home to the hospital more safely.",
+    "specifications": "wider/larger",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138522",
+          "name": "Foldable wheelchair",
+          "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "120 x 50 x 50 estimated",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         }
