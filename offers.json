@@ -11,10 +11,43 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "138581",
+    "name": "Refrigerator",
+    "description": "Giving away this refrigerator to a family who needs, bought the place with this fridge but we don’t need this.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "600x600x1700",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138578",
+    "name": "Wifi Router",
+    "description": "Working wifi router. As upgrading current one hence giving this away. ASUS router, supports 5G wifi. Self-collection at home address.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138576",
+    "name": "Small fan",
+    "description": "Mistral small floor fan. Only 1 speed works well but still has life in jt",
+    "location": "Novena ",
+    "validTill": "26 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "138572",
     "name": "Two desktop lamps",
     "description": "Two desk lamps",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "location": "Novena ",
     "validTill": "12 Nov 2024",
     "ageInYears": 4,
     "dimensions": null,
@@ -66,6 +99,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "138582",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed to give away to pass on the love to people who may require it.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "18 Oct 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138577",
+    "name": "Study desk",
+    "description": "Metal legs adjustable to approx 60 to 90cms\n\n120cm length and 80cm depth",
+    "location": "Novena ",
+    "validTill": "19 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "138575",
     "name": "Bunk Bed",
     "description": "Bunk Bed with single bed size mattress",
@@ -102,7 +157,7 @@
     "id": "138571",
     "name": "Two sets of bedroom curtains",
     "description": "2 sets of Ikea curtains. Can be strung up on curtain rods",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "location": "Novena ",
     "validTill": "12 Nov 2024",
     "ageInYears": 2,
     "dimensions": "Length: 250 cm Width: 145 cm Weight: 2.24 kg Area: 3.63 m²",
@@ -374,6 +429,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "138580",
+    "name": "Foldable mobile wheelchair",
+    "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "138440",
     "name": "Hospital bed  aspirator, 2 cartons (60 bottles) Nepro LP",
     "description": "1 regular hospital bed\n1 aspirator\n2 cartons Nepro  LP (60 bottles)unopen",
@@ -570,6 +636,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "138579",
+    "name": "3G/4G USB stick/Mobile broadband",
+    "description": "3G/4G USB stick, can be used as mobile broadband after inserting a SIM card. Self-collection at home address.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "138474",

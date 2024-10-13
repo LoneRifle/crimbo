@@ -167,6 +167,73 @@
     }
   },
   {
+    "id": "136897",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client's current refrigerator is spoilt. Client is unable to work due to medical conditions and is not able to afford a new refrigerator. Your donation will be help to reduce the stress faced by client.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Nur Fatin Athirah Binte Mohamad Husaini",
+      "email": "fatinathirah@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138581",
+          "name": "Refrigerator",
+          "description": "Giving away this refrigerator to a family who needs, bought the place with this fridge but we don’t need this.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "600x600x1700",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "129637",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client is living in a 1 room rental flat with her 12 year old son. Due to health concerns, she has to take a break from employment and is unable to have enough finances to replace her faulty refrigerator.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Inez Hong",
+      "email": "inezhong@fycs.org",
+      "phone": [
+        "69783104",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138581",
+          "name": "Refrigerator",
+          "description": "Giving away this refrigerator to a family who needs, bought the place with this fridge but we don’t need this.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "600x600x1700",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138518",
     "category": "Others",
     "name": "Diapers",
@@ -396,6 +463,17 @@
           "dimensions": "120 x 50 x 50 estimated",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "138580",
+          "name": "Foldable mobile wheelchair",
+          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -451,6 +529,17 @@
           "dimensions": "120 x 50 x 50 estimated",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "138580",
+          "name": "Foldable mobile wheelchair",
+          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
