@@ -34,6 +34,50 @@
     }
   },
   {
+    "id": "138589",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Single mother with a 4 month old just obtained her own rental flat and is looking for donations to furnish her home. To deliver to her rental flat in Choa Chu Kang.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138386",
+          "name": "Large sofa for 3 (NOT suitable for hdb)",
+          "description": "DO NOT reserve until you’ve checked size. Sits 3-4. Too large for hdb. Great for care homes. Ty",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "25 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "230cm long, 100cm wide",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "138194",
+          "name": "2 seater sofa (Fabric)",
+          "description": "To bless a 2 seater sofa. This has been wrapped up in storage for 7 months. In need of a new sofa cover.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "15 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": "179cm x 88cm x 88cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138560",
     "category": "Home Furnishing",
     "name": "2-seater sofa",
@@ -60,40 +104,6 @@
           "validTill": "15 Oct 2024",
           "ageInYears": 2,
           "dimensions": "179cm x 88cm x 88cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138548",
-    "category": "Home Furnishing",
-    "name": "Queen-sized Storage Bed",
-    "description": "Client is a single parent who just moved into her rental flat with her 6 year old child not long ago. Client has not been able to find stable employment and the family is facing financial difficulties. They would require some furniture in the house and hope to receive a sofa bed if possible. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138573",
-          "name": "Queen-sized storage bed",
-          "description": "Good condition, with storage underneath the mattress.",
-          "location": null,
-          "validTill": "12 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -140,39 +150,6 @@
           "dimensions": "180cm long x 116cm wide",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "136897",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client's current refrigerator is spoilt. Client is unable to work due to medical conditions and is not able to afford a new refrigerator. Your donation will be help to reduce the stress faced by client.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Nur Fatin Athirah Binte Mohamad Husaini",
-      "email": "fatinathirah@allkin.org.sg",
-      "phone": [
-        "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138581",
-          "name": "Refrigerator",
-          "description": "Giving away this refrigerator to a family who needs, bought the place with this fridge but we don’t need this.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "12 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": "600x600x1700",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
