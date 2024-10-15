@@ -1,5 +1,72 @@
 [
   {
+    "id": "138200",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "An elderly man living in a rental flat is looking for a TV as his current TV is old and no longer working.",
+    "specifications": null,
+    "contact": {
+      "org": "Yong-En Care Centre",
+      "name": "Felix Leo",
+      "email": "felix-leo@yong-en.org.sg",
+      "phone": [
+        "63090571",
+        "62251002"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138583",
+          "name": "Tv table with free standing Three drawers",
+          "description": "Tv table flip it back to front and will look good as new",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "210x40x58",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "137741",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client currently staying in a 2-room rental flat along with 9 others consisting of 5 children, 3 adults, and 1 elderly family member. They are from a low-income family. Their television was recently damaged due to an accident involving one of the grandchildren.",
+    "specifications": "Standard Size",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138583",
+          "name": "Tv table with free standing Three drawers",
+          "description": "Tv table flip it back to front and will look good as new",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Oct 2024",
+          "ageInYears": 4,
+          "dimensions": "210x40x58",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138324",
     "category": "Others",
     "name": "Bicycle",
@@ -28,40 +95,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138431",
-    "category": "Home Furnishing",
-    "name": "TV Console",
-    "description": "Client is a single mother taking care of 3 young boys on her own.  She is currently unemployed due to health and caregiving issues.  Client had a major surgery 2-3 years ago which affected her strength and employment options.  Besides her 2 school-going sons, client also helps to care for her friend's 3-year old son without any payment as her friend's family is not able to care for the baby.  Family lives in a rental flat and is dependent on financial assistance.  Client recently moved to another rental flat in Bedok and is looking for a TV console.  Please Whatsapp Calyssa at 84848596 or email weiyin.wong@thkmc.org.sg",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138602",
-          "name": "TV Console",
-          "description": "Would like to bless this tv console from ikea as I am making way for new furniture. Still in good condition. Dimensions for this console are one of the attached photo.",
-          "location": null,
-          "validTill": "13 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -112,129 +145,6 @@
     }
   },
   {
-    "id": "137954",
-    "category": "Home Furnishing",
-    "name": "TV console",
-    "description": "The client is a single mother with 2 school-going children, including a child diagnosed with autism who has high caregiving needs. As such, mother is unable to secure any employment and is relying on social assistance for their daily needs. Family is hoping to receive a TV console to place a TV for the children's learning needs, and to organise children's books.",
-    "specifications": null,
-    "contact": {
-      "org": "AWWA Transitional Shelter",
-      "name": "Nur Atikah Binte Hamdan",
-      "email": "nur_atikah@awwa.org.sg",
-      "phone": [
-        "88860487",
-        "65117272"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138602",
-          "name": "TV Console",
-          "description": "Would like to bless this tv console from ikea as I am making way for new furniture. Still in good condition. Dimensions for this console are one of the attached photo.",
-          "location": null,
-          "validTill": "13 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138200",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "An elderly man living in a rental flat is looking for a TV as his current TV is old and no longer working.",
-    "specifications": null,
-    "contact": {
-      "org": "Yong-En Care Centre",
-      "name": "Felix Leo",
-      "email": "felix-leo@yong-en.org.sg",
-      "phone": [
-        "63090571",
-        "62251002"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138602",
-          "name": "TV Console",
-          "description": "Would like to bless this tv console from ikea as I am making way for new furniture. Still in good condition. Dimensions for this console are one of the attached photo.",
-          "location": null,
-          "validTill": "13 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "138583",
-          "name": "Tv table with free standing Three drawers",
-          "description": "Tv table flip it back to front and will look good as new",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "26 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "210x40x58",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137741",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client currently staying in a 2-room rental flat along with 9 others consisting of 5 children, 3 adults, and 1 elderly family member. They are from a low-income family. Their television was recently damaged due to an accident involving one of the grandchildren.",
-    "specifications": "Standard Size",
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Muhammamd Farhan Bin Abdul Rahman",
-      "email": "muhdfarhan.abdrahman@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138602",
-          "name": "TV Console",
-          "description": "Would like to bless this tv console from ikea as I am making way for new furniture. Still in good condition. Dimensions for this console are one of the attached photo.",
-          "location": null,
-          "validTill": "13 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "138583",
-          "name": "Tv table with free standing Three drawers",
-          "description": "Tv table flip it back to front and will look good as new",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "26 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "210x40x58",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "138628",
     "category": "Mobility Aids",
     "name": "Commode",
@@ -274,62 +184,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137729",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is a cancer patient diagnosed with colorectal cancer (stage 4). His cancer has spread after almost 2 years of treatment and has worsened. He is unfit to work, and his wife is looking after him. Client requires a wheelchair to aid mobility and allow him to travel for his cancer treatments with ease.",
-    "specifications": "Standard size for adult, preferably with higher back height",
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nur'Ain Binte Mohamed Said",
-      "email": "nurain@ainsociety.org.sg",
-      "phone": [
-        "68485116",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Sep 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138541",
-          "name": "Foldable Wheelchair",
-          "description": "Fully functional foldable wheelchair.\nAll good except for some rust at the joints",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "31 Oct 2024",
-          "ageInYears": 4,
-          "dimensions": "90cm x 90cm x 30cm folded",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "138522",
-          "name": "Foldable wheelchair",
-          "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "09 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": "120 x 50 x 50 estimated",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "138580",
-          "name": "Foldable mobile wheelchair",
-          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "12 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
