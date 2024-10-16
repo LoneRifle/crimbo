@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "138674",
-    "name": "Microwave",
-    "description": "Microwave",
-    "location": null,
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138625",
     "name": "Bread toaster",
     "description": "Can use normally",
@@ -75,6 +64,17 @@
     "dimensions": "30*30*40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "138676",
+    "name": "cabinet",
+    "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "04 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "170x50x80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "138670",
