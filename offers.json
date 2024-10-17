@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "138723",
+    "name": "Refrigerated",
+    "description": "Fridge to bless. Still in good condition after clean up except for the exterior.\n\nPlease arrange self collection",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Oct 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "138572",
     "name": "Two desktop lamps",
     "description": "Two desk lamps",
@@ -73,17 +84,6 @@
     "validTill": "09 Nov 2024",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138603",
-    "name": "single bed frame wood",
-    "description": "used Ikea single mattress (optional)\nused clean Ikea bedsheets (optional)\nwood bedside table (optional)",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "200 x 90 x 40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -154,17 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "138705",
-    "name": "Queen size Bedframe and mattress",
-    "description": "Queen size Bedframe and mattress in good condition. Contact me on actual collection date",
-    "location": null,
-    "validTill": "30 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138706",
     "name": "Queen size Bedframe and mattress",
     "description": "Queen size Bedframe and mattress in good condition. Contact me on actual collection date",
@@ -201,7 +190,7 @@
     "id": "138680",
     "name": "Curtains",
     "description": "Standard curtains for HDB flats.",
-    "location": "Pasir Ris, Simei, Tampines",
+    "location": "Pasir Ris ",
     "validTill": "04 Nov 2024",
     "ageInYears": 4,
     "dimensions": "Short curtain 3 ft (W) by 4 ft (L); Long curtain 6.5 ft (W) by 7.5 ft (L)",
@@ -212,7 +201,7 @@
     "id": "138681",
     "name": "Curtains",
     "description": "Standard curtains for HDB flats.",
-    "location": "Pasir Ris, Simei, Tampines",
+    "location": "Pasir Ris ",
     "validTill": "04 Nov 2024",
     "ageInYears": 4,
     "dimensions": "Short curtain 3 ft (W) by 4 ft (L); Long curtain 6.5 ft (W) by 7.5 ft (L)",
@@ -396,34 +385,12 @@
     "category": "Learning Aids"
   },
   {
-    "id": "138709",
-    "name": "Accuniq BC380 body composition analysis machine",
-    "description": "You can refer to the website for more information on the machine: \n\nhttps://www.accuniq.com/en/product/product_view.php?idx=10&part_idx=4",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "64 x 44 x 100 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "138580",
     "name": "Foldable mobile wheelchair",
     "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "12 Nov 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "138440",
-    "name": "Hospital bed  aspirator, 2 cartons (60 bottles) Nepro LP",
-    "description": "1 regular hospital bed\n1 aspirator\n2 cartons Nepro  LP (60 bottles)unopen",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "08 Nov 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
@@ -447,17 +414,6 @@
     "validTill": "30 Oct 2024",
     "ageInYears": 1,
     "dimensions": "60cm x 24cm x 20cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "137843",
-    "name": "Hospital bed",
-    "description": "See spec in Bion web site for Homecare Bed H100",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": "210 cm (L) x 102 cm (W)x 81cm H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -506,34 +462,12 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "138489",
-    "name": "hospital bed",
-    "description": "Hospital  bed - good condition (VWO to cover transportation cost)",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "30 Oct 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "138420",
     "name": "Cruthes",
     "description": "Cruthes. Rarely used.",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "07 Nov 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "138036",
-    "name": "Hospital Bed with air mattress",
-    "description": "Can delivery anytime at your convenience",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "25 Oct 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
