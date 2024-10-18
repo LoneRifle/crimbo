@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "138767",
+    "name": "Dish washer",
+    "description": "It’s a tabletop dish washer.",
+    "location": null,
+    "validTill": "01 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "W550xD500xH590MM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "138745",
     "name": "Iron",
     "description": "Brand new",
@@ -66,6 +77,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "138765",
+    "name": "Blanket#3",
+    "description": "Blanket",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "10 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138763",
+    "name": "Towel",
+    "description": "Towel",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "10 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138762",
+    "name": "Blanket#2",
+    "description": "Blanket",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "10 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "138761",
+    "name": "Blanket",
+    "description": "Blanket",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "10 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "138741",
     "name": "Study desk",
     "description": "Imported European glass top computer desk.\nIt is in good condition.",
@@ -84,17 +139,6 @@
     "validTill": "01 Nov 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138733",
-    "name": "TV cabinet / console w 6 drawers",
-    "description": "Good condition solid wood 6 drawer-cabinet suitable for TV/living room or bedroom storage of various items eg. clothes, electronics accessories,  toys, sundry items, etc",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": "L70\" W20\" H18\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -183,17 +227,6 @@
     "validTill": "23 Oct 2024",
     "ageInYears": 4,
     "dimensions": "1400mm x 800mm x 480mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138706",
-    "name": "Queen size Bedframe and mattress",
-    "description": "Queen size Bedframe and mattress in good condition. Contact me on actual collection date",
-    "location": null,
-    "validTill": "30 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -523,28 +556,6 @@
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
     "validTill": "15 Nov 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138673",
-    "name": "Painting",
-    "description": "No longer need it. As i don’t own a car & the painting is very big & expensive (bought around $400). Hooe the social worker can beat transport costs.",
-    "location": null,
-    "validTill": "14 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "29x39inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138579",
-    "name": "3G/4G USB stick/Mobile broadband",
-    "description": "3G/4G USB stick, can be used as mobile broadband after inserting a SIM card. Self-collection at home address.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "12 Nov 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
