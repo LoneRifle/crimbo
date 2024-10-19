@@ -539,17 +539,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "138801",
-    "name": "Knife set",
-    "description": "Knives set",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "10 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "138103",
     "name": "Mop pails and small bin",
     "description": "Delivery on weekday evening and weekend.",
@@ -702,6 +691,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "138810",
+    "name": "Chair",
+    "description": "Sturdy height adjustable chair",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": "21cmx19.5cmx33.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "138802",
