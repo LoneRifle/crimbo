@@ -145,39 +145,6 @@
     }
   },
   {
-    "id": "138776",
-    "category": "Electrical Home Appliances",
-    "name": "Clothes Dryer",
-    "description": "Client is a single parent and has 2 young children and has complex needs. She is trying to sustain with basic needs from her limited income which is not sufficient for her. Hence, the requested household items will be beneficial for client and her children to sustain for this period of time.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Nurul Nadiah Binte Mustapha",
-      "email": "nurulnadiah@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138816",
-          "name": "Clothes Dryer",
-          "description": "Good condition",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Oct 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "138200",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -230,6 +197,17 @@
     "date": "17 Oct 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "138865",
+          "name": "Commode with Wheels",
+          "description": "Commode still in good conditions. With wheels.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Oct 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
         {
           "id": "138593",
           "name": "Commode chair with wheels",
