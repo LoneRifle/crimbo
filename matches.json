@@ -335,6 +335,40 @@
     }
   },
   {
+    "id": "138876",
+    "category": "Home Furnishing",
+    "name": "Bunk bed",
+    "description": "Client is a single mother of 2 primary school going children with financial difficulties. Due to her caregiving duties, she has difficulties finding employment.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "65536643",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138575",
+          "name": "Bunk Bed",
+          "description": "Bunk Bed with single bed size mattress",
+          "location": null,
+          "validTill": "25 Oct 2024",
+          "ageInYears": 3,
+          "dimensions": "90x200cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138685",
     "category": "Home Furnishing",
     "name": "bolster",
