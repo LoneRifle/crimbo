@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "138886",
+    "name": "Small refrigerator",
+    "description": "Small refrigerator that is in good working condition",
+    "location": null,
+    "validTill": "21 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "138823",
     "name": "Induction cooker",
     "description": "Iona induction cooker. Tested still working. Under utilised hence giving away. Best if can collect together with the Tefal pot together. Self-collection at home address.",
@@ -660,28 +671,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "138870",
-    "name": "Adult diapers",
-    "description": "3 packs of adult diapers. Preferably to arrange for collection on weekends",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "20 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "138835",
-    "name": "Hearing Aids",
-    "description": "Minimally used hearing aids in good working condition. Would like to pass it on as no longer needed",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "20 Nov 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "138580",
     "name": "Foldable mobile wheelchair",
     "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
@@ -729,17 +718,6 @@
     "id": "138868",
     "name": "Commode with pot (without cover)",
     "description": "Can used for showering as well. Preferably to arrange on weekends in river valley area",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "20 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "138866",
-    "name": "Foldable walking frame",
-    "description": "Foldable walking frame. Preferably to arrange for collection on weekends.",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "20 Nov 2024",
     "ageInYears": 1,
