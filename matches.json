@@ -414,6 +414,39 @@
     }
   },
   {
+    "id": "138947",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client's current refrigerator is spoilt. Client is unable to work due to medical conditions and is not able to afford a new refrigerator. Your donation will be help to reduce the stress faced by client.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Nur Fatin Athirah Binte Mohamad Husaini",
+      "email": "fatinathirah@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138886",
+          "name": "Small refrigerator",
+          "description": "Small refrigerator that is in good working condition",
+          "location": null,
+          "validTill": "21 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138872",
     "category": "Electrical Home Appliances",
     "name": "TV",
