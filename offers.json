@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "139009",
-    "name": "Refrigerator",
-    "description": "Heavily used fridge but still in very good condition \n2 fridge - Hitachi and Samsung \nBoth are 2 doors",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138886",
     "name": "Small refrigerator",
     "description": "Small refrigerator that is in good working condition",
@@ -141,6 +130,17 @@
     "dimensions": "30*30*40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "139012",
+    "name": "Tempur Pillow Medium Size for Side Sleepers",
+    "description": "good for side sleepers",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "16 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": "60cm x40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "138990",
@@ -220,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "138901",
-    "name": "2 door wardrobe",
-    "description": "Still good to use. Please arrangements self collection",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138896",
     "name": "Motorised Reclining Bed",
     "description": "good condition",
@@ -293,6 +282,28 @@
     "validTill": "26 Oct 2024",
     "ageInYears": 4,
     "dimensions": "L:108cm, W:68cm, H74cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139010",
+    "name": "cabinet",
+    "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "04 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "170x50x80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139011",
+    "name": "cabinet",
+    "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "04 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "170x50x80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -405,6 +416,17 @@
     "dimensions": "25 cm x 25 cm x 25 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "139025",
+    "name": "Aprica Baby Stroller",
+    "description": "Lightweight brown stroller by brand Aprica. Used but well maintained and still in good condition.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "24 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "138983",
@@ -660,17 +682,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "138974",
-    "name": "Geriatric Chair with Table",
-    "description": "• Reclining Back & Foot Rest\n• Adjustable Height\n• Detachable Table\nhttps://www.rainbowcare.com.sg/home-furnishings/geriatric-chairs/kw-wf-geriatric-chair",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "138580",
     "name": "Foldable mobile wheelchair",
     "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
@@ -768,6 +779,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "139016",
+    "name": "Foot massage",
+    "description": "Need to collect the item from the donor",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "24 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "139008",
