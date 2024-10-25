@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "139009",
+    "name": "Refrigerator",
+    "description": "Heavily used fridge but still in very good condition \n2 fridge - Hitachi and Samsung \nBoth are 2 doors",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "31 Oct 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "138886",
     "name": "Small refrigerator",
     "description": "Small refrigerator that is in good working condition",
@@ -170,17 +181,6 @@
     "description": "In good condition",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "02 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138976",
-    "name": "3-Seater leather sofa",
-    "description": "Though the sofa is more than 4 years, but it is still in relatively good condition. Hence, we hope the organisation can consider this donation.",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 Oct 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -768,6 +768,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "139008",
+    "name": "Stationery",
+    "description": "Used and unused stationery,child's play items and painting materials",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "24 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "138987",
