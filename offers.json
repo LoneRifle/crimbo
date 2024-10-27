@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "139034",
-    "name": "2 door side-by-side Fridge",
-    "description": "Can only deliver on 27 or 28 Nov 2024",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "25 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "In cm 180H x 92W x 68D",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "139030",
     "name": "Refrigerator",
     "description": "Working condition fridge",
@@ -150,17 +139,6 @@
     "validTill": "25 Nov 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139039",
-    "name": "Wooden shelves",
-    "description": "Wooden shelves. 2 by 4 compartments. This furniture is more than 4 years old. But it is still in good condition.",
-    "location": null,
-    "validTill": "15 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "147 cm x 40cm x 77cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -462,17 +440,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "139040",
-    "name": "Reusable utensils",
-    "description": "Reusable utensils",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "25 Nov 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "139025",
     "name": "Aprica Baby Stroller",
     "description": "Lightweight brown stroller by brand Aprica. Used but well maintained and still in good condition.",
@@ -735,6 +702,17 @@
     "dimensions": "60cm x 24cm x 20cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "139042",
+    "name": "Hospital bed with mattress",
+    "description": "Hospital bed with air mattress in good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "26 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "138868",
