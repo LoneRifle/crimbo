@@ -153,6 +153,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "139046",
+          "name": "Dining Table w Glass top",
+          "description": "Dining table good for 4-6 people",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "26 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "160cm (L), 90cm (W), 72cm (H)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "138555",
           "name": "Dining Table with 2 chairs",
           "description": "Good condition. Can clean off markings on tabletop with some soap",
@@ -474,6 +485,72 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138385",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Smart Phone",
+    "description": "1 smart phone (Android or iPhone) requested from senior who are retiree with no family support. Current phones are damaged. Donors kindly email me at: travislee@kkcs.org.sg Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Travis Lee",
+      "email": "travislee@kkcs.org.sg",
+      "phone": [
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139043",
+          "name": "Xiaomi max3 smart phone",
+          "description": "Smart phone. Screen a bit jumpy but actually good to use. Collection from lakeside mrt.",
+          "location": null,
+          "validTill": "03 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138126",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Smart phone",
+    "description": "A smart phone is required for a housewife who earns no income and is supporting husband who is cancer stricken. \nShe needs a smart phone to correspond with the hospital on the medical appointments and treatment arrangement of her husband.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner - Community Case Management Service Central",
+      "name": "Josherine Toh",
+      "email": "josherinetoh@carecorner.org.sg",
+      "phone": [
+        "62586601"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139043",
+          "name": "Xiaomi max3 smart phone",
+          "description": "Smart phone. Screen a bit jumpy but actually good to use. Collection from lakeside mrt.",
+          "location": null,
+          "validTill": "03 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []

@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "139044",
+    "name": "Travel cooker",
+    "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "03 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "139030",
     "name": "Refrigerator",
     "description": "Working condition fridge",
@@ -130,6 +141,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "139046",
+    "name": "Dining Table w Glass top",
+    "description": "Dining table good for 4-6 people",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "26 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "160cm (L), 90cm (W), 72cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "139041",
@@ -583,6 +605,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "139045",
+    "name": "Weighing scale",
+    "description": "Analog Food weighing scale. Collection at lakeside mrt.",
+    "location": null,
+    "validTill": "03 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "138923",
     "name": "Disposable aluminum insulation bags",
     "description": "Disposable aluminum insulation bags",
@@ -768,6 +801,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "139047",
+    "name": "Ensure Liquid",
+    "description": "8 individual bottles available, expiry date 1 March 2025. I can deliver to any MRT station.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "26 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": "8 individual bottles",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "139043",
+    "name": "Xiaomi max3 smart phone",
+    "description": "Smart phone. Screen a bit jumpy but actually good to use. Collection from lakeside mrt.",
+    "location": null,
+    "validTill": "03 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "139016",
