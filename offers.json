@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "139030",
-    "name": "Refrigerator",
-    "description": "Working condition fridge",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "07 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138886",
     "name": "Small refrigerator",
     "description": "Small refrigerator that is in good working condition",
@@ -707,7 +696,7 @@
     "id": "139038",
     "name": "Hospital bed",
     "description": "Almost-new 1 x automatic crank hospital bed AND 1 x air mattress \n\n[NOTE: Not covering delivery charges; kindly arrange for self-collection]",
-    "location": "Pasir Ris, Simei, Tampines",
+    "location": "Simei",
     "validTill": "25 Nov 2024",
     "ageInYears": 1,
     "dimensions": null,
@@ -755,6 +744,17 @@
     "validTill": "30 Oct 2024",
     "ageInYears": 1,
     "dimensions": "60cm x 24cm x 20cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "134993",
+    "name": "Geriatric Chair",
+    "description": "Geriatric chair comes with tray and in good condition.",
+    "location": null,
+    "validTill": "30 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -820,6 +820,17 @@
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "07 Nov 2024",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "134474",
+    "name": "Commode Chair",
+    "description": "The silicone pad has recently started to crack (first pix). Refer to second pix without chair pad. \n\nCommode comes with bin and lid with locking wheels and may be placed in bathroom or bedroom.",
+    "location": null,
+    "validTill": "30 Nov 2024",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
