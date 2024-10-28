@@ -230,6 +230,39 @@
           "dimensions": "170x50x80cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "139095",
+          "name": "IKEA glass cabinet",
+          "description": "Good condition\nExcludes all contents",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "43W x 37D x 163H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139097",
+          "name": "IKEA white wood/glass cabinet",
+          "description": "Good condition, with internal glass shelves",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "78W x 95H x 41D",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139096",
+          "name": "Dining table and shoe cabinet",
+          "description": "A dining table and a shoe cabinet",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "160cm x 80cm &amp; 80cm x 99 cm x 36cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -253,6 +286,17 @@
     "date": "07 Oct 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "139096",
+          "name": "Dining table and shoe cabinet",
+          "description": "A dining table and a shoe cabinet",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "160cm x 80cm &amp; 80cm x 99 cm x 36cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "139046",
           "name": "Dining Table w Glass top",
@@ -375,6 +419,39 @@
           "dimensions": "170x50x80cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "139095",
+          "name": "IKEA glass cabinet",
+          "description": "Good condition\nExcludes all contents",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "43W x 37D x 163H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139097",
+          "name": "IKEA white wood/glass cabinet",
+          "description": "Good condition, with internal glass shelves",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "78W x 95H x 41D",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139096",
+          "name": "Dining table and shoe cabinet",
+          "description": "A dining table and a shoe cabinet",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "09 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "160cm x 80cm &amp; 80cm x 99 cm x 36cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -492,6 +569,39 @@
     }
   },
   {
+    "id": "138784",
+    "category": "Electrical Home Appliances",
+    "name": "fridge",
+    "description": "client is staying in a 2-room flat and has 2 young children. she is not working as she needs to care for her young children. she usually cooks saves money, but recently her fridge stopped working and it has been difficult for her to cook.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139098",
+          "name": "Fridge",
+          "description": "Used sparingly",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "01 Nov 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138737",
     "category": "Electrical Home Appliances",
     "name": "refrigerator",
@@ -550,6 +660,40 @@
           "location": null,
           "validTill": "21 Nov 2024",
           "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138537",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Help client in his recovery journey. Single adult male, recently separated from wife starting a fresh in his own rental unit apartment. Has been struggling with mental health issues and working hard in recovery to be able to continue to manage his own needs. Has poor family support hence often feels helpless on his own without constant support. Looking for appliances such as fridge, induction cooker and washing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+      "name": "Dian Maisarah Sulaiman",
+      "email": "dian.maisarah@montfortcare.org.sg",
+      "phone": [
+        "92310194",
+        "62746904"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139098",
+          "name": "Fridge",
+          "description": "Used sparingly",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "01 Nov 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"

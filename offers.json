@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "139098",
+    "name": "Fridge",
+    "description": "Used sparingly",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "01 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "139044",
     "name": "Travel cooker",
     "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
@@ -108,6 +119,61 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "139099",
+    "name": "Sofa bed",
+    "description": "Used but still in good condition.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "01 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": "L 179 x W 94 x H 77 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139097",
+    "name": "IKEA white wood/glass cabinet",
+    "description": "Good condition, with internal glass shelves",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "18 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "78W x 95H x 41D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139096",
+    "name": "Dining table and shoe cabinet",
+    "description": "A dining table and a shoe cabinet",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "09 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "160cm x 80cm &amp; 80cm x 99 cm x 36cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139095",
+    "name": "IKEA glass cabinet",
+    "description": "Good condition\nExcludes all contents",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "18 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "43W x 37D x 163H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139094",
+    "name": "IKEA Kallax book case white",
+    "description": "Book rack only, excludes all contents\nSome discolouration however bookcase is strong and sturdy\n\nPlease check that this piece can fit into HDB lift",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "18 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "147H x 147W x 39D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "139084",
