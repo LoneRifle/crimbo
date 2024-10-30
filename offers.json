@@ -77,34 +77,12 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "139128",
-    "name": "Refrigerated",
-    "description": "Fridge to bless. Still in good condition after clean up except for the exterior.\n\nPlease arrange self collection",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "138572",
     "name": "Two desktop lamps",
     "description": "Two desk lamps",
     "location": "Novena ",
     "validTill": "12 Nov 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "138955",
-    "name": "Small refigerator",
-    "description": "Fridge is in good working condition",
-    "location": null,
-    "validTill": "31 Oct 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -517,17 +495,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "138844",
-    "name": "White Ottoman",
-    "description": "White Ottoman suitable for dressing table, slight stains but should be removable",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138681",
     "name": "Curtains",
     "description": "Standard curtains for HDB flats.",
@@ -555,17 +522,6 @@
     "description": "The stroller is in good functional condition and comes complete with accessories such as raincover.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "21 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "139092",
-    "name": "Zoe Twin+ Double Stroller",
-    "description": "Well used ~5 years, some cleaning required\nIn usable condition, but not for fussy users",
-    "location": null,
-    "validTill": "31 Oct 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -644,17 +600,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "05 Nov 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "138156",
-    "name": "As good as new, baby car seat",
-    "description": "As good as new baby car seat.",
-    "location": "Tiong Bahru",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -781,6 +726,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "139205",
+    "name": "Crutches a pair",
+    "description": "Only use couple of times.\n\nSelf collect or meet Hougang MRT",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "139138",
     "name": "Hospital Bed",
     "description": "Homed electric hospital bed that can be adjusted to different heights",
@@ -847,50 +803,6 @@
     "category": "Others"
   },
   {
-    "id": "138973",
-    "name": "Black School Shoes",
-    "description": "Size 36.5 Black school shoes",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138963",
-    "name": "Short Book Shelf - Shelves",
-    "description": "Collection/Delivery: \nSelf-pickup only - no delivery and  delivery charges are not covered.(pls ignore submitted form)     \n\nWhite color short bookcase - shelves.  \n\nNot covering delivery charges or delivery, kindly arrange for self-collection”.Thank you.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 3,
-    "dimensions": "90cm wide x 107cm height x 31cm deep,",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138935",
-    "name": "Queen-size Comforter",
-    "description": "Clean Queen-size Comforter Blanket",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138874",
-    "name": "High Chair with Table",
-    "description": "High Chair with table",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "138810",
     "name": "Chair",
     "description": "Sturdy height adjustable chair",
@@ -931,17 +843,6 @@
     "validTill": "14 Nov 2024",
     "ageInYears": 4,
     "dimensions": "29x39inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "138474",
-    "name": "Shoes",
-    "description": "New shoes",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
