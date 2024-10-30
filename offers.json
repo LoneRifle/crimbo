@@ -88,17 +88,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "139125",
-    "name": "Wood Dining Table (2pcs)",
-    "description": "Wood Table L1400 X W810 (2pcs) \nCan take 1 or 2 pcs at the same time\nCollection after 18 Nov from 1000 to 1700hrs Mon to Thurs",
-    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-    "validTill": "28 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "1400 X 810 X 750",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "139124",
     "name": "Wood Dining Table",
     "description": "Wood dining table\nCollection after 18 Nov from 1000 to 1700hrs Mon to Thurs",
@@ -205,6 +194,17 @@
     "validTill": "18 Nov 2024",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139179",
+    "name": "Teakwood TV console",
+    "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "18 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "200W x 45D x 45H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -693,17 +693,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "139176",
-    "name": "Wheel Chair",
-    "description": "foldable wheel chair in excellent condition. Comes with wheel chair ramps",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "10 Nov 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "139138",
     "name": "Hospital Bed",
     "description": "Homed electric hospital bed that can be adjusted to different heights",
@@ -761,17 +750,6 @@
   {
     "id": "139150",
     "name": "Brand new sinks",
-    "description": "Brand new",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "139148",
-    "name": "Brand new Shower Heads",
     "description": "Brand new",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "05 Nov 2024",
