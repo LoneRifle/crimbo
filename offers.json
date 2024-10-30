@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "139166",
+    "name": "Vacuum cleaner charger",
+    "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "29 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "139044",
     "name": "Travel cooker",
     "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
@@ -194,17 +205,6 @@
     "validTill": "18 Nov 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139051",
-    "name": "Teakwood TV console",
-    "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "18 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "200W x 45D x 45H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -385,17 +385,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "139010",
-    "name": "cabinet",
-    "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "04 Nov 2024",
-    "ageInYears": 3,
-    "dimensions": "170x50x80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138622",
     "name": "Blanket",
     "description": "blankets",
@@ -468,17 +457,6 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "29 Nov 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "139134",
-    "name": "Kids Floor Bed",
-    "description": "Kids Little Floor Bed with mattress \nBaby cot x2",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "10 Nov 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -713,6 +691,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "139176",
+    "name": "Wheel Chair",
+    "description": "foldable wheel chair in excellent condition. Comes with wheel chair ramps",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "10 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "139138",

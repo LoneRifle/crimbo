@@ -187,17 +187,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139010",
-          "name": "cabinet",
-          "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "04 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": "170x50x80cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139107",
           "name": "IKEA glass cabinet",
           "description": "Good condition\nExcludes all contents",
@@ -299,17 +288,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139010",
-          "name": "cabinet",
-          "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "04 Nov 2024",
-          "ageInYears": 3,
-          "dimensions": "170x50x80cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139107",
           "name": "IKEA glass cabinet",
           "description": "Good condition\nExcludes all contents",
@@ -392,6 +370,73 @@
     }
   },
   {
+    "id": "139170",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "hii! client is a mother of 4 children is currently facing financial difficulties. family is hoping to receive a vacuum cleaner to support in the ease of cleaning of the house. \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139166",
+          "name": "Vacuum cleaner charger",
+          "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "29 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139112",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Client has postnatal depression and multiple young children of primary school and preschool age. Husband does delivery jobs for multiple companies. (JY)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139166",
+          "name": "Vacuum cleaner charger",
+          "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "29 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138947",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -415,6 +460,40 @@
           "description": "Small refrigerator that is in good working condition",
           "location": null,
           "validTill": "21 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138890",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "My client is currently living alone in a 1-room rental flat in Jurong West. He's diagnosed with schizophrenia,\nhence unable to work because of his condtion, and currently receiving monthly financial assistance from the\nSSO. His vacuum cleaner of many years seems to have broken down, as when he recently tried to use it, it started emitting white fumes and for his safety, I had advised him to dispose of it. Any help will be much appreciated! :)",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Cluster Support - Taman Jurong",
+      "name": "Teh Jin Yu",
+      "email": "jinyu.teh@ntuchealth.sg",
+      "phone": [
+        "86128301",
+        "62674197"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139166",
+          "name": "Vacuum cleaner charger",
+          "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "29 Nov 2024",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,

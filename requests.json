@@ -1,5 +1,57 @@
 [
   {
+    "id": "139171",
+    "category": "Home Furnishing",
+    "name": "Queen size bedframe & mattress",
+    "description": "hii! client and family is experiencing financial difficulties and hope to request for a queen size bedframe & mattress. \n\nDonor to kindly cover transport arrangement and delivery cost. Thank you :)",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
+    "id": "139169",
+    "category": "Home Furnishing",
+    "name": "2 door wardrobe",
+    "description": "hii! family with 6 children (primary school and below), mother just had a surgery and will be starting her part time work. Family hopes to receive a 2 door wardrobe for their clothing and to support in their financial situation. \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
+    "id": "139168",
+    "category": "Home Furnishing",
+    "name": "Double-decker bed (queen mattress lower deck)",
+    "description": "Family of 10 currently sleeps on the floor of the bedroom as they are unable to afford a replacement mattress and bed. Family relies on the little income of the sole breadwinner.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Victoria Chong",
+      "email": "victoriachong@fycs.org",
+      "phone": [
+        "69783482",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
     "id": "139164",
     "category": "Home Furnishing",
     "name": "Super single size bed frame + mattress (1set)",
@@ -1266,6 +1318,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Oct 2024"
+  },
+  {
+    "id": "139173",
+    "category": "Infant and Children Items",
+    "name": "Huggies Dry Comfort Pants XL",
+    "description": "A mother to her 3-year-old daughter is urgently seeking assistance with the provision of diaper pants for her child. Mother has just started working her part-time security job and is facing tight financial constraint to buy baby necessities. Mother is greatly appreciative for donor's kind provision of diaper pants as it will ease her financial load and help her save up for their basic needs. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Esther Tan",
+      "email": "esther_tan@awwa.org.sg",
+      "phone": [
+        "65117278",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
+    "id": "139172",
+    "category": "Infant and Children Items",
+    "name": "Nestle Lactogen Milk Powder Stage 3",
+    "description": "A mother to her 3-year-old daughter is urgently seeking assistance with the provision of milk powder for her child. Mother has just started working her part-time security job and is facing tight financial constraint to buy baby necessities. Mother is greatly appreciative for donor's kind provision of formula milk as it will ease her financial load and help her save up for their basic needs. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Esther Tan",
+      "email": "esther_tan@awwa.org.sg",
+      "phone": [
+        "65117278",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
   },
   {
     "id": "123679",
@@ -3456,6 +3544,42 @@
     "date": "09 Oct 2024"
   },
   {
+    "id": "139175",
+    "category": "Others",
+    "name": "Canola Oil",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 bottles of 2 litre Canola Oil for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": "2 litre",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Sim Yan Ling",
+      "email": "yanling.sim@ppis.sg",
+      "phone": [
+        "65613462ext503",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
+    "id": "139174",
+    "category": "Others",
+    "name": "5kg Rice",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 bags of 5kg rice for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": "5kg",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Sim Yan Ling",
+      "email": "yanling.sim@ppis.sg",
+      "phone": [
+        "65613462ext503",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
     "id": "139141",
     "category": "Others",
     "name": "Halal Food Ration",
@@ -4594,24 +4718,6 @@
     "date": "07 Oct 2024"
   },
   {
-    "id": "136016",
-    "category": "Others",
-    "name": "Razer Shaver",
-    "description": "Sunbeam Place @ Children's Society requires 100pcs with no preference of brands for the residents usage. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Oct 2024"
-  },
-  {
     "id": "131258",
     "category": "Others",
     "name": "Hiking Camping Equipment Terrain Transport Trolley",
@@ -5134,6 +5240,58 @@
     "date": "30 Sep 2024"
   },
   {
+    "id": "139170",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "hii! client is a mother of 4 children is currently facing financial difficulties. family is hoping to receive a vacuum cleaner to support in the ease of cleaning of the house. \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
+    "id": "139167",
+    "category": "Electrical Home Appliances",
+    "name": "A Multi-function Rice Cooker and a Hot water flask",
+    "description": "A financially stressed family of 6 are struggling to make ends meet needs a kind donor to provide them with a Cooker and a hot water flask. \nMdm Ho is the primary caregiver of Jayden, a premature baby born with multiple medical conditions and an elderly demented mother and stroked father while her husband works long hours to put food on the table. Now that their Rick cooker and hot water flask is out of order, Mdm Ho using them requires a longer time to prepare the meals.\nYour kind donation of a cooker and flask will make a big difference to this family with dependent minors and frail elders.",
+    "specifications": "1.5-1.8L",
+    "contact": {
+      "org": "Hougang Sheng Hong Family Service Centre",
+      "name": "Chen Qian Hui",
+      "email": "qianhui@shenghong.org.sg",
+      "phone": [
+        "62895022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
+    "id": "139165",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge (big for7 pax, at least 340L)",
+    "description": "Client has postnatal depression and multiple young children of primary school and preschool age. Husband does delivery jobs for multiple companies. (JY)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024"
+  },
+  {
     "id": "139162",
     "category": "Electrical Home Appliances",
     "name": "Bread toaster (New)",
@@ -5171,23 +5329,6 @@
     "id": "139158",
     "category": "Electrical Home Appliances",
     "name": "Rice cooker (New)",
-    "description": "PPIS Family Service Centre (West) has been organising the \"Back to School\" event since 2016 for our low-income families. This year, it will be held on the 7th December 2024. The purpose of the event is to encourage family bonding and to celebrate the success of their children in completing the school academic year to move on to the next year.  \n \nWe kindly seek your support in donating practical items to assist low-income families with their daily needs.",
-    "specifications": "1",
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Regine Yeo",
-      "email": "regine.yeo@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Oct 2024"
-  },
-  {
-    "id": "139157",
-    "category": "Electrical Home Appliances",
-    "name": "Electric kettle (New)",
     "description": "PPIS Family Service Centre (West) has been organising the \"Back to School\" event since 2016 for our low-income families. This year, it will be held on the 7th December 2024. The purpose of the event is to encourage family bonding and to celebrate the success of their children in completing the school academic year to move on to the next year.  \n \nWe kindly seek your support in donating practical items to assist low-income families with their daily needs.",
     "specifications": "1",
     "contact": {
@@ -6657,24 +6798,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Oct 2024"
-  },
-  {
-    "id": "139149",
-    "category": "Mobility Aids",
-    "name": "Wheelchair with flippable arm and leg rests",
-    "description": "Elderly dialysis patient requires wheelchair for use at home and for transport to and from dialysis. His current wheelchair wheels and seat are peeling. His caregiver is also elderly hence requires arm and leg rests to be able to flip away so she can transfer him in and out of the wheelchair.",
-    "specifications": "58cm wide",
-    "contact": {
-      "org": "National Kidney Foundation (NKF)",
-      "name": "Johanna Lim",
-      "email": "johanna.lim@nkfs.org",
-      "phone": [
-        "62990200",
-        "65062244"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Oct 2024"
   },
   {
     "id": "138965",
