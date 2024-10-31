@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "139207",
+    "name": "Fridge",
+    "description": "2-door fridge",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "07 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "139166",
     "name": "Vacuum cleaner charger",
     "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
@@ -38,17 +49,6 @@
     "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "03 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "139188",
-    "name": "Washing machine",
-    "description": "Working condition washing machine",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "07 Nov 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -86,6 +86,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "139209",
+    "name": "3 seater sofa",
+    "description": "3 seater sofa with some white stains. Centre part of cushion seat has spring protruding but PU leather is intact - refer to last photo.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "06 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139208",
+    "name": "Moll Ergonomic Study Desk",
+    "description": "Moll Ergonomic Study Desk /w under drawer, mobile rack for school bag and lights. Angle adjustable table top.\n\nCondition: 7/10",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "14 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "115cm x 67 x 72",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139206",
+    "name": "Eunice Hong",
+    "description": "Toddler bed that is adjustable to 165cm in length.\nCome with mattress that has always been wrapped with waterproof mattress protector.",
+    "location": null,
+    "validTill": "30 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": "206 by 96 by 57",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "139203",
