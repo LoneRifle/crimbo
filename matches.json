@@ -100,6 +100,73 @@
     }
   },
   {
+    "id": "138653",
+    "category": "Home Furnishing",
+    "name": "Double-decker bed",
+    "description": "Single mum with multiple surgeries and depression needs a double decker bed for her children and herself to sleep. They live in a small flat, and do not have savings and have limited income as mum is struggling to find work, so they cannot afford their own.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Victoria Chong",
+      "email": "victoriachong@fycs.org",
+      "phone": [
+        "69783482",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139217",
+          "name": "Double decker metal bed frame",
+          "description": "Double decker metal bed frame without mattress",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "22 Nov 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138641",
+    "category": "Home Furnishing",
+    "name": "Double Decker Bed",
+    "description": "The client's family of 6 consists of parents, elderly grandmother and 3 young children aged 1,2 and 7 years old. They are facing significant financial difficulties and client requests for a double decker bed for his children.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139217",
+          "name": "Double decker metal bed frame",
+          "description": "Double decker metal bed frame without mattress",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "22 Nov 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138633",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -380,40 +447,6 @@
       "email": "tasya@allkin.org.sg",
       "phone": [
         "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139189",
-          "name": "Washing machine",
-          "description": "Working condition washing machine",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "07 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139117",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Client is married with 7 young children. Family has multiple needs which is further compounded by intergenerational poverty. (HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
