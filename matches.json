@@ -1172,6 +1172,74 @@
     }
   },
   {
+    "id": "139240",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Elderly client living alone in a rental flat. He relies on big wheel manual wheelchair daily as his way of ambulation due to one of his leg being amputated. His current wheelchair is faulty which resulted in him facing difficulties to go for his dialysis and medical appointments. He also raises financial difficulty in attaining one wheelchair on his own due to the cost. \n\nHe hopes that kind donors could donate to him as the wheelchair would aid him greatly in his daily living.",
+    "specifications": "Weight capacity up to 100kg",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Joyce Ng",
+      "email": "jiapei.n@ntuchealth.sg",
+      "phone": [
+        "96549067",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138580",
+          "name": "Foldable mobile wheelchair",
+          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139239",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "Client is an elderly cancer patient diagnosed with cervical cancer. She is from low income family and requires a wheelchair to aid mobility and allow her to travel to hospital for cancer treatments.",
+    "specifications": "Seat Width 18 Inch, Weight below 14.5KG",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138580",
+          "name": "Foldable mobile wheelchair",
+          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138445",
     "category": "Mobility Aids",
     "name": "Crutches",
