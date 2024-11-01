@@ -347,6 +347,50 @@
     }
   },
   {
+    "id": "139264",
+    "category": "Electrical Home Appliances",
+    "name": "Standing Fan",
+    "description": "Single lady is unable to afford a fan. Currently, the weather is very humid and warm in the flat. Requested to arrange free delivery to her home.",
+    "specifications": null,
+    "contact": {
+      "org": "SAMH Mobile Support Team (West)",
+      "name": "Valerie Low",
+      "email": "valerie_low@samhealth.org.sg",
+      "phone": [
+        "85112678"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139260",
+          "name": "Floor standing fan",
+          "description": "Morries 16inch red floor standing fan\nFan cover with rust",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "01 Dec 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "139259",
+          "name": "Floor standing fan",
+          "description": "Iona 16 inch black fan\nFan cover with rust",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "01 Dec 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139229",
     "category": "Electrical Home Appliances",
     "name": "Standing fan",
@@ -1332,40 +1376,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "01 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138580",
-          "name": "Foldable mobile wheelchair",
-          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "12 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139239",
-    "category": "Mobility Aids",
-    "name": "wheelchair",
-    "description": "Client is an elderly cancer patient diagnosed with cervical cancer. She is from low income family and requires a wheelchair to aid mobility and allow her to travel to hospital for cancer treatments.",
-    "specifications": "Seat Width 18 Inch, Weight below 14.5KG",
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nur'Ain Binte Mohamed Said",
-      "email": "nurain@ainsociety.org.sg",
-      "phone": [
-        "68485116",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
     "date": "01 Nov 2024",
     "matches": {
       "passiton": [
