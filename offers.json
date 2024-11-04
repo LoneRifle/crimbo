@@ -33,28 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "139260",
-    "name": "Floor standing fan",
-    "description": "Morries 16inch red floor standing fan\nFan cover with rust",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "139259",
-    "name": "Floor standing fan",
-    "description": "Iona 16 inch black fan\nFan cover with rust",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "139215",
     "name": "Singtel Wifi 6 Router",
     "description": "Brand new Singtel Wifi 6 Router. Self collection at Buangkok MRT only.",
@@ -72,17 +50,6 @@
     "location": null,
     "validTill": "29 Nov 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "139189",
-    "name": "Washing machine",
-    "description": "Working condition washing machine",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "07 Nov 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -128,17 +95,6 @@
     "validTill": "03 Dec 2024",
     "ageInYears": 3,
     "dimensions": "40cm x 65cm x 24cm/30cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139274",
-    "name": "bed with 120 cm mattress",
-    "description": "IKEA bed W 135 L200 H 60 with pullout draws and mattress. Mattress width 120.\nMatching chest of draws /side table W 40 D 50 H 55\nLetting go due downsizing.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "11 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "200 x 135 x 60",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -726,17 +682,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "138570",
-    "name": "My Happy Helper Bifold tower - white and varnish",
-    "description": "Used but still in good condition. https://www.myhappyhelpers.com",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Nov 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "138569",
     "name": "Brand New Potty",
     "description": "Brand new car potty. Given as a gift unused",
@@ -933,6 +878,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "139300",
+    "name": "Boy Toys",
+    "description": "Toys for Blessing",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "139299",
+    "name": "Girl Toys",
+    "description": "Good condition toys for blessing",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "139269",
