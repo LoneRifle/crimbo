@@ -236,6 +236,62 @@
     }
   },
   {
+    "id": "139340",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is a single parent of a school-going child, and the sole breadwinner of her family. Family has just secured a flat of their own and is seeking a donation of a TV for the home.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Farahlina Tan",
+      "email": "farahlina_tan@awwa.org.sg",
+      "phone": [
+        "65119458",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139199",
+          "name": "TV Console",
+          "description": "solid wood TV console",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "08 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139033",
+          "name": "TV stand",
+          "description": "Glass and metal 3 shelf TV stand",
+          "location": null,
+          "validTill": "25 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "120x40x60",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139179",
+          "name": "Teakwood TV console",
+          "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": "200W x 45D x 45H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139170",
     "category": "Electrical Home Appliances",
     "name": "Vacuum cleaner",
@@ -375,6 +431,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139341",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is caring for her elderly mother who requires a wheelchair to get around. As client is also an elderly, she has difficulties pushing the existing wheelchair as it is big and bulky. Hence, client hopes to get a small and lightweight wheelchair.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138580",
+          "name": "Foldable mobile wheelchair",
+          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
