@@ -1,5 +1,16 @@
 [
   {
+    "id": "139319",
+    "name": "Boy Clothes",
+    "description": "Barely used 1-3 yr old Boy Clothing. In excellent condition. Have a big bag full of clothes. Must take all.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "138807",
     "name": "New coffee/milk tea print tshirt (140, S, M, L, XL)",
     "description": "New coffee/milk tea print tshirt, size 140 (milk tea x2), size S (coffee x2, milk tea x2), size M (coffee x1, milk tea x1), size L (coffee x1), size XL (coffee x1, milk tea x1)",
@@ -50,17 +61,6 @@
     "location": null,
     "validTill": "29 Nov 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "138572",
-    "name": "Two desktop lamps",
-    "description": "Two desk lamps",
-    "location": "Novena ",
-    "validTill": "12 Nov 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -194,17 +194,6 @@
     "validTill": "16 Nov 2024",
     "ageInYears": 4,
     "dimensions": "75cm x 40cm x 142cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139209",
-    "name": "3 seater sofa",
-    "description": "3 seater sofa with some white stains. Centre part of cushion seat has spring protruding but PU leather is intact - refer to last photo.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "06 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -548,6 +537,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "139320",
+    "name": "Baby Carriers",
+    "description": "Good condition Baby Carriers, no tears no stains",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "139313",
