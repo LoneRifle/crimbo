@@ -18,17 +18,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139416",
-          "name": "Recliner Sofa & Dining Table",
-          "description": "To bless recliner sofa & dining table + chairs -   well-maintained",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "07 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "2280 x 940 - 3 seater",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139408",
           "name": "3 seater sofa",
           "description": "1/2 leather Sofa. No crack or torn but the seat have stains.",
@@ -83,17 +72,6 @@
     "date": "07 Nov 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "139416",
-          "name": "Recliner Sofa & Dining Table",
-          "description": "To bless recliner sofa & dining table + chairs -   well-maintained",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "07 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "2280 x 940 - 3 seater",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "139408",
           "name": "3 seater sofa",
@@ -481,6 +459,73 @@
     }
   },
   {
+    "id": "138653",
+    "category": "Home Furnishing",
+    "name": "Double-decker bed",
+    "description": "Single mum with multiple surgeries and depression needs a double decker bed for her children and herself to sleep. They live in a small flat, and do not have savings and have limited income as mum is struggling to find work, so they cannot afford their own.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Victoria Chong",
+      "email": "victoriachong@fycs.org",
+      "phone": [
+        "69783482",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139428",
+          "name": "Ikea double decker bed",
+          "description": "Bed is disassembled for easy transfer.",
+          "location": null,
+          "validTill": "07 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "138641",
+    "category": "Home Furnishing",
+    "name": "Double Decker Bed",
+    "description": "The client's family of 6 consists of parents, elderly grandmother and 3 young children aged 1,2 and 7 years old. They are facing significant financial difficulties and client requests for a double decker bed for his children.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139428",
+          "name": "Ikea double decker bed",
+          "description": "Bed is disassembled for easy transfer.",
+          "location": null,
+          "validTill": "07 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "138633",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -588,72 +633,6 @@
           "dimensions": "43W x 37D x 163H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139420",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family is living in a rental flat and they have 6 children. Their current fridge has spoiled. They are looking for a refrigerator with freezer. Best if it is a halal fridge.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Dini Dzulaikha Bte Dzulkifli",
-      "email": null,
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139417",
-          "name": "Bar Fridge",
-          "description": "Less than 1 year usage. \n\nPlease refer to the link below \nhttps://www.amazon.sg/Tecno-TFR-48-Fridge-Stainless/dp/B07VPCYW9Y/ref=asc_df_B07VPCYW9Y/?tag=sgsmrtphshopg-22&linkCode=df0&hvadid=692879705746&hvpos=&hvnetw=g&hvrand=5888188268976959835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9062546&hvtargid=pla-1185493157000&psc=1&mcid=164ca03d6f4d3a7fba66c31bd1e4158f&gad_source=1",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139407",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "A elderly staying in rental HDB unit is currently using a spoilt fridge; door cannot close fully, water dripping...\nElderly man is staying alone.",
-    "specifications": "Nil",
-    "contact": {
-      "org": "MWS Wesley Active Ageing Centre - Jalan Berseh",
-      "name": "Hsu Hsia Yang",
-      "email": "hsuhsiayang@mws.sg",
-      "phone": [
-        "62980194"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139417",
-          "name": "Bar Fridge",
-          "description": "Less than 1 year usage. \n\nPlease refer to the link below \nhttps://www.amazon.sg/Tecno-TFR-48-Fridge-Stainless/dp/B07VPCYW9Y/ref=asc_df_B07VPCYW9Y/?tag=sgsmrtphshopg-22&linkCode=df0&hvadid=692879705746&hvpos=&hvnetw=g&hvrand=5888188268976959835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9062546&hvtargid=pla-1185493157000&psc=1&mcid=164ca03d6f4d3a7fba66c31bd1e4158f&gad_source=1",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -885,73 +864,6 @@
           "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
           "location": null,
           "validTill": "29 Nov 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138784",
-    "category": "Electrical Home Appliances",
-    "name": "fridge",
-    "description": "client is staying in a 2-room flat and has 2 young children. she is not working as she needs to care for her young children. she usually cooks saves money, but recently her fridge stopped working and it has been difficult for her to cook.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Nurhidayah Binte Sazali",
-      "email": "hidayah@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139417",
-          "name": "Bar Fridge",
-          "description": "Less than 1 year usage. \n\nPlease refer to the link below \nhttps://www.amazon.sg/Tecno-TFR-48-Fridge-Stainless/dp/B07VPCYW9Y/ref=asc_df_B07VPCYW9Y/?tag=sgsmrtphshopg-22&linkCode=df0&hvadid=692879705746&hvpos=&hvnetw=g&hvrand=5888188268976959835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9062546&hvtargid=pla-1185493157000&psc=1&mcid=164ca03d6f4d3a7fba66c31bd1e4158f&gad_source=1",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138537",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Help client in his recovery journey. Single adult male, recently separated from wife starting a fresh in his own rental unit apartment. Has been struggling with mental health issues and working hard in recovery to be able to continue to manage his own needs. Has poor family support hence often feels helpless on his own without constant support. Looking for appliances such as fridge, induction cooker and washing machine.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Kreta Ayer",
-      "name": "Dian Maisarah Sulaiman",
-      "email": "dian.maisarah@montfortcare.org.sg",
-      "phone": [
-        "92310194",
-        "62746904"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139417",
-          "name": "Bar Fridge",
-          "description": "Less than 1 year usage. \n\nPlease refer to the link below \nhttps://www.amazon.sg/Tecno-TFR-48-Fridge-Stainless/dp/B07VPCYW9Y/ref=asc_df_B07VPCYW9Y/?tag=sgsmrtphshopg-22&linkCode=df0&hvadid=692879705746&hvpos=&hvnetw=g&hvrand=5888188268976959835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9062546&hvtargid=pla-1185493157000&psc=1&mcid=164ca03d6f4d3a7fba66c31bd1e4158f&gad_source=1",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Dec 2024",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
