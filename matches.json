@@ -366,7 +366,18 @@
     "matches": {
       "passiton": [
         {
-          "id": "139474",
+          "id": "139479",
+          "name": "King sized bed frame and mattress",
+          "description": "Used but still in good condition.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139480",
           "name": "King sized bed frame and mattress",
           "description": "Used but still in good condition.",
           "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -1265,40 +1276,6 @@
     }
   },
   {
-    "id": "138820",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client is a 40 years old female who is currently staying in a 1-room rental flat. Due to her mental health and medical condition, client is assessed to be permanently unfit for work. Client is currently on adult diapers as she has frequent seizures. Hence, she would require diapers assistance temporarily while waiting for her diapers assistance application outcome. Please WhatsApp Jie Qi at 8484 6181 or email to jieqi.yeo@thkmc.org.sg to liaise.",
-    "specifications": "Tena Proskin  (Pull-up Size L Diapers)",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "138469",
     "category": "Medical Aids",
     "name": "Adult Diapers",
@@ -1359,6 +1336,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139483",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is in recovery of physical health condition after his fall, and would like to request for wheelchair as his current one is faulty. He has difficulty affording due to limited finances in view that he is certified unfit for employment. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "138580",
+          "name": "Foldable mobile wheelchair",
+          "description": "Foldable mobile wheelchair that supports maximum weight of 60kg. Self-collection at home address.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "12 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
