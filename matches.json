@@ -94,6 +94,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "139609",
+          "name": "Armchair / one-seater sofa",
+          "description": "Comfortable armchair / one-seater sofa. Cleaned recently and wooden legs have been replaced",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "27 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "36 inch x 36 inch x 28 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -172,6 +183,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "139609",
+          "name": "Armchair / one-seater sofa",
+          "description": "Comfortable armchair / one-seater sofa. Cleaned recently and wooden legs have been replaced",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "27 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "36 inch x 36 inch x 28 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -214,6 +236,17 @@
           "validTill": "30 Nov 2024",
           "ageInYears": 2,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139609",
+          "name": "Armchair / one-seater sofa",
+          "description": "Comfortable armchair / one-seater sofa. Cleaned recently and wooden legs have been replaced",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "27 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "36 inch x 36 inch x 28 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -592,51 +625,6 @@
     }
   },
   {
-    "id": "139529",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Diapers\nSize XL (Pull up pants any brand) \nFor 2 children (F3 and F4) \n\nFamily of 4, parents are working grab delivery and has irregular income. Family is also paying off multiple debts and can benefit from milk and diaper support to reduce their expenses.",
-    "specifications": "Size XL (Pull up pants any brand)",
-    "contact": {
-      "org": "Fei Yue Senior Activity Centre @ Bukit Batok",
-      "name": "Franklin Richard",
-      "email": "franklinrichard@fycs.org",
-      "phone": [
-        "69782978",
-        "65633662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "137721",
     "category": "Infant and Children Items",
     "name": "Milk",
@@ -671,317 +659,6 @@
     }
   },
   {
-    "id": "139382",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Hi, there is a single-mother who is facing financial struggles and requires diapers support for her 1 year-old daughter. She is employed but has to also support her elderly parents. She has not been receiving child maintenance from her ex-husband and is unable to rely on her other family members for financial support as they are also financially tight. Here are the diapers details: Brand: Huggies Nature\nSize: M\nType: Pants\nQuantity: 3-4. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Joyous Chai",
-      "email": "joyouschai@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139323",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "hii! family of 5 is staying together in a rental flat. Husband is the sole breadwinner and earn a meagre income. Wife is heavily pregnant and a caregiver to 3 young children hence she is unable to work at the moment. \n\nFamily is hoping to receive diapers for her children to alleviate their expenses. I will share with you on the diapers details. \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Tasya Puspita Maulany",
-      "email": "tasya@allkin.org.sg",
-      "phone": [
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139249",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Family of 5 with 3 young children under 7, 2 of whom have suspected special needs. Parents are working unstable jobs that provide insufficient income for the household needs. They are also looking after paternal grandparents. The family is requesting for diapers size L & XXL for the children.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Early Intervention Programme for Infants and Children - Jurong East",
-      "name": "Tessa Nai",
-      "email": "tessanai@fycs.org",
-      "phone": [
-        "66810508",
-        "65656260"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139136",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Household of 5 members consisting of Mother, Father, and 3 children aged 5 years old, 3 years old and 8 months old respectively. Father used to do grab delivery until he was involved in an accident that resulted in a chronic visual disability in his left eye. He is currently in the midst of seeking treatment and is not able to work. Mother is currently unemployed and is at home providing care for both her children and her husband.\n\nFamily's application for Financial Assistance from Social Support Office has been approved and family is waiting for the cash assistance to arrive. In the meantime, Mother is in need of diapers for her 3 year old and her youngest child. \n\n3 year old daughter is wearing size XL Diapers, Pants\n\n8 month old Son is wearing Newborn Size Diapers, Tape. \n\nAny and all assistance would be most welcome. Mother is open to any brand.",
-    "specifications": "Size XL Pants",
-    "contact": {
-      "org": "NTUC First Campus Co-operative Ltd",
-      "name": "Sean Poh",
-      "email": "sean.poh@ntucfirstcampus.com",
-      "phone": [
-        "90706992",
-        "97229008"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "29 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138889",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client has 4 young children who requires 5 packet of Drypers Drypantz Pants - XXL. Client is not working due to caregiving.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Amos Liu",
-      "email": "amosliu@allkin.org.sg",
-      "phone": [
-        "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "22 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137722",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Size XL (Pull up pants any brand) \n\nFamily of 4, parents are working grab delivery and has irregular income. \n\nFamily is also paying off multiple debts and can benefit from milk and diaper support to reduce their expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Senior Activity Centre @ Bukit Batok",
-      "name": "Franklin Richard",
-      "email": "franklinrichard@fycs.org",
-      "phone": [
-        "69782978",
-        "65633662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138789",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Family of 5 are financially stretched as parents are low wage workers, and they are unable to afford some basic necessities. It would be most helpful if the family could receive some support in this area.",
-    "specifications": "XXL & L",
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Elijah Koh",
-      "email": "elijahkoh@kkcs.org.sg",
-      "phone": [
-        "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "138771",
     "category": "Infant and Children Items",
     "name": "Milk",
@@ -1009,51 +686,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "138746",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "The family has a single mom with children ranging from 6 to 20 years old. 18 y/o daughter recently gave birth to a newborn son 1.5 months ago. Family needs assistance to purchase diapers for the newborn as they work towards more stable employment in the long run. Brand and size of diapers included under dimensions.",
-    "specifications": "MamyPoko Extra Dry Skin Newborn S Size",
-    "contact": {
-      "org": "REACH Family Service Centre",
-      "name": "Gan Wan Lin",
-      "email": "wanlin.gan@reach.org.sg",
-      "phone": [
-        "68010735",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []
@@ -1116,51 +748,6 @@
     }
   },
   {
-    "id": "139000",
-    "category": "Medical Aids",
-    "name": "Diapers",
-    "description": "Client is the sole breadwinner and caring for her mother who was diagnosed with stroke in 2023. Mother requires to be on adult diapers due to her low mobility, affecting her toileting.",
-    "specifications": "Size XL",
-    "contact": {
-      "org": "AWWA Transitional Shelter",
-      "name": "Nur Atikah Binte Hamdan",
-      "email": "nur_atikah@awwa.org.sg",
-      "phone": [
-        "88860487",
-        "65117272"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139501",
-          "name": "Adult diapers - opened packet",
-          "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "Size M",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "139349",
-          "name": "Adult diapers",
-          "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "139562",
     "category": "Others",
     "name": "Lifree Powerful Pants",
@@ -1195,6 +782,39 @@
     }
   },
   {
+    "id": "139612",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Cancer-stricken senior with osteoporosis would require a vacuum cleaner so as to have an easier time cleaning her house. She is fiercely independent despite facing a lot of challenges in life, please help if you can",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139166",
+          "name": "Vacuum cleaner charger",
+          "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "29 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139600",
     "category": "Electrical Home Appliances",
     "name": "tv",
@@ -1213,17 +833,6 @@
     "date": "13 Nov 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "139033",
-          "name": "TV stand",
-          "description": "Glass and metal 3 shelf TV stand",
-          "location": null,
-          "validTill": "25 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": "120x40x60",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "139548",
           "name": "Teakwood TV console",
@@ -1292,17 +901,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139033",
-          "name": "TV stand",
-          "description": "Glass and metal 3 shelf TV stand",
-          "location": null,
-          "validTill": "25 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": "120x40x60",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139548",
           "name": "Teakwood TV console",
           "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
@@ -1336,17 +934,6 @@
     "date": "06 Nov 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "139033",
-          "name": "TV stand",
-          "description": "Glass and metal 3 shelf TV stand",
-          "location": null,
-          "validTill": "25 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": "120x40x60",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "139548",
           "name": "Teakwood TV console",
@@ -1382,17 +969,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139033",
-          "name": "TV stand",
-          "description": "Glass and metal 3 shelf TV stand",
-          "location": null,
-          "validTill": "25 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": "120x40x60",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139548",
           "name": "Teakwood TV console",
           "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
@@ -1426,17 +1002,6 @@
     "date": "05 Nov 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "139033",
-          "name": "TV stand",
-          "description": "Glass and metal 3 shelf TV stand",
-          "location": null,
-          "validTill": "25 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": "120x40x60",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "139548",
           "name": "Teakwood TV console",

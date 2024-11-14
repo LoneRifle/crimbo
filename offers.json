@@ -1,16 +1,5 @@
 [
   {
-    "id": "139319",
-    "name": "Boy Clothes",
-    "description": "Barely used 1-3 yr old Boy Clothing. In excellent condition. Have a big bag full of clothes. Must take all.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "138807",
     "name": "New coffee/milk tea print tshirt (140, S, M, L, XL)",
     "description": "New coffee/milk tea print tshirt, size 140 (milk tea x2), size S (coffee x2, milk tea x2), size M (coffee x1, milk tea x1), size L (coffee x1), size XL (coffee x1, milk tea x1)",
@@ -62,6 +51,17 @@
     "validTill": "30 Nov 2024",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139609",
+    "name": "Armchair / one-seater sofa",
+    "description": "Comfortable armchair / one-seater sofa. Cleaned recently and wooden legs have been replaced",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "36 inch x 36 inch x 28 inch",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -330,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "139033",
-    "name": "TV stand",
-    "description": "Glass and metal 3 shelf TV stand",
-    "location": null,
-    "validTill": "25 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "120x40x60",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "139012",
     "name": "Tempur Pillow Medium Size for Side Sleepers",
     "description": "good for side sleepers",
@@ -407,17 +396,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "139313",
-    "name": "Items for Boy",
-    "description": "Good condition, take all. Good for 1-3 yr old boy",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "139312",
     "name": "Items for Boy/Girl",
     "description": "Items are good for 1-3 yr old. Take all.",
@@ -456,17 +434,6 @@
     "description": "New long sleeve top for kids, size 80 x1, size 90 x2, size 100 x2, size 110 x2, size 120 x2, size 130 x2",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "18 Nov 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "139087",
-    "name": "Chicco Cortina CX Travel Stroller",
-    "description": "Preloved stroller which is sturdy and comfortable",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "16 Nov 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -548,17 +515,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "139501",
-    "name": "Adult diapers - opened packet",
-    "description": "Tape diapers size M suitable for 26\" to 40\"\n\nPants diapers size M suitable for 32\" to 48\"",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "11 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "Size M",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "138991",
@@ -666,17 +622,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "06 Dec 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "139349",
-    "name": "Adult diapers",
-    "description": "Adult Pull Up Diapers\nS/M size\n8 packs in 1 carton",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Dec 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
