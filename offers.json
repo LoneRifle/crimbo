@@ -33,6 +33,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "139678",
+    "name": "Hospital Bed with Air Matress",
+    "description": "Hospital bedframe with air matress for donation.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "15 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139676",
+    "name": "BED FRAME -SUPER SINGLE SIZE-",
+    "description": "Super single size bed frame. Bought approx. 5-6 years ago, but still in good condition. Will deliver directly and cover cost.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "25 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": "206x110x36cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139672",
+    "name": "Black Metal Loft Bed",
+    "description": "This customised black metal loft bed is less than 2 years old, with a very wide sturdy staircase with wooden panels & metal frame attached. It fits a single mattress & the side panel is extra high-500mm so it is very safe. In excellent condition. We are donating as we are relocating. It cost over 1k to make.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "02 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "L-2500mm H-2100mm W-1100mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "139653",
     "name": "Table with three drawers",
     "description": "Solid wood table with three drawers. Still in useable condition.",
@@ -220,28 +253,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "139123",
-    "name": "Wood Dining Chair",
-    "description": "Wood frame with black PVC seat and backrest\nCollection after 18 Nov from 1000 to 1700hrs Mon to Thurs",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "28 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "500X500X750",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139107",
-    "name": "IKEA glass cabinet",
-    "description": "Good condition\nExcludes all contents",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "18 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "43W x 37D x 163H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "139082",
     "name": "Wardrobe",
     "description": "This is a vintage wardrobe, made from teak wood - hard wood.  It's really good with our humidity. will not rot.  \n\nWardrobe: \nW: 100\nD: 46\nH: 185 \nWeight: 60 K",
@@ -271,17 +282,6 @@
     "validTill": "18 Nov 2024",
     "ageInYears": 4,
     "dimensions": "110W x 70D x 63H (max 128H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139548",
-    "name": "Teakwood TV console",
-    "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "18 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "200W x 45D x 45H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -493,6 +493,17 @@
     "dimensions": "Hand carry",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "139677",
+    "name": "Commode",
+    "description": "Commode with Cushion that \"covers\" the seat.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "15 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "139543",
