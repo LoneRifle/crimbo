@@ -63,6 +63,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "139704",
+          "name": "Sofa",
+          "description": "Fit 3 adults sofa",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "165 X 83 X 63",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "139488",
           "name": "Sofa",
           "description": "L-shaped sofa for sale for $100 with self collection from Newton.  Dimensions: 2600mm length, 700mm height, 1700mm L-shaped depth, 950mm normal seat depth.   Cushions included as per photo.",
@@ -152,6 +163,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "139704",
+          "name": "Sofa",
+          "description": "Fit 3 adults sofa",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "165 X 83 X 63",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "139488",
           "name": "Sofa",
           "description": "L-shaped sofa for sale for $100 with self collection from Newton.  Dimensions: 2600mm length, 700mm height, 1700mm L-shaped depth, 950mm normal seat depth.   Cushions included as per photo.",
@@ -206,6 +228,17 @@
     "date": "07 Nov 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "139704",
+          "name": "Sofa",
+          "description": "Fit 3 adults sofa",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "165 X 83 X 63",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "139488",
           "name": "Sofa",
@@ -475,40 +508,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "137721",
-    "category": "Infant and Children Items",
-    "name": "Milk",
-    "description": "Fernleaf full cream milk powder \nFor 2 children (F3 and F4)\n\nFamily of 4, parents are working grab delivery and has irregular income. \n\nFamily is also paying off multiple debts and can benefit from milk and diaper support to reduce their expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Senior Activity Centre @ Bukit Batok",
-      "name": "Franklin Richard",
-      "email": "franklinrichard@fycs.org",
-      "phone": [
-        "69782978",
-        "65633662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "138807",
-          "name": "New coffee/milk tea print tshirt (140, S, M, L, XL)",
-          "description": "New coffee/milk tea print tshirt, size 140 (milk tea x2), size S (coffee x2, milk tea x2), size M (coffee x1, milk tea x1), size L (coffee x1), size XL (coffee x1, milk tea x1)",
-          "location": null,
-          "validTill": "18 Nov 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
         }
       ],
       "carousell": []
@@ -940,6 +939,51 @@
     }
   },
   {
+    "id": "139663",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "44 Year-old female with schizophrenia requires a TV as her current one had spoilt. She is unable to sustain job due to her mental health condition.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Cheryl Chew",
+      "email": "cheryl.chew@montfortcare.org.sg",
+      "phone": [
+        "97329677",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139702",
+          "name": "TV console",
+          "description": "TV console. Can give away the TV on top too.",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "120 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139657",
     "category": "Electrical Home Appliances",
     "name": "Vacuum Cleaner",
@@ -965,6 +1009,17 @@
           "validTill": "29 Nov 2024",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "139694",
+          "name": "Xiaomi Mi Light vacuum cleaner",
+          "description": "- Easy to store\n- Up to 45 minutes of autonomy\n- 3 stage filtering system\n- Only use few times\n- Lightweight",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": "24 x 14.8 x 113.2",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1000,6 +1055,242 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "139694",
+          "name": "Xiaomi Mi Light vacuum cleaner",
+          "description": "- Easy to store\n- Up to 45 minutes of autonomy\n- 3 stage filtering system\n- Only use few times\n- Lightweight",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": "24 x 14.8 x 113.2",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139600",
+    "category": "Electrical Home Appliances",
+    "name": "tv",
+    "description": "Client's mother (F/47) is looking after his 1-year old daughter and 2-month old baby.  Client and spouse have been detained by CNB and is sentenced for a year. Client's mother is not able to work due to the caregiving duties.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139702",
+          "name": "TV console",
+          "description": "TV console. Can give away the TV on top too.",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "120 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139552",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Family consists of a husband with low income who is the sole breadwinner. Wife is currently taking care of their 1 year old baby and is pregnant. They would appreciate a used but functional TV to furnish their home.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139702",
+          "name": "TV console",
+          "description": "TV console. Can give away the TV on top too.",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "120 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139368",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "A low-income family with four young children living in a rental flat is seeking donations. The client's husband is the sole breadwinner, while the client serves as the primary caregiver for their children. They are currently unable to afford essential furniture and electrical appliances for their home. For further details, please contact their social worker, Ms. Seelvi, at 8699 3152. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139702",
+          "name": "TV console",
+          "description": "TV console. Can give away the TV on top too.",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "120 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139361",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "The client is a single father with two young children, seeking donations for their new rental flat. Recently divorced, he holds an LTVP (Long-Term Visit Pass) and has care and control of his two young children, for whom he is the sole breadwinner. After staying in a shelter, he has just secured a rental flat and is hoping to receive donations of furniture and electrical appliances to help furnish their new home. For further details, please feel free to reach out to his social worker, Ms. Seelvi, at 8699 3152. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139702",
+          "name": "TV console",
+          "description": "TV console. Can give away the TV on top too.",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "120 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139340",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is a single parent of a school-going child, and the sole breadwinner of her family. Family has just secured a flat of their own and is seeking a donation of a TV for the home.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Farahlina Tan",
+      "email": "farahlina_tan@awwa.org.sg",
+      "phone": [
+        "65119458",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139702",
+          "name": "TV console",
+          "description": "TV console. Can give away the TV on top too.",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "120 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -1031,6 +1322,17 @@
           "validTill": "29 Nov 2024",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "139694",
+          "name": "Xiaomi Mi Light vacuum cleaner",
+          "description": "- Easy to store\n- Up to 45 minutes of autonomy\n- 3 stage filtering system\n- Only use few times\n- Lightweight",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": "24 x 14.8 x 113.2",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1065,6 +1367,17 @@
           "validTill": "29 Nov 2024",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "139694",
+          "name": "Xiaomi Mi Light vacuum cleaner",
+          "description": "- Easy to store\n- Up to 45 minutes of autonomy\n- 3 stage filtering system\n- Only use few times\n- Lightweight",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": "24 x 14.8 x 113.2",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
