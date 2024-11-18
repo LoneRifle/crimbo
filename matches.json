@@ -52,17 +52,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139718",
-          "name": "Sofa",
-          "description": "Na",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "29 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139704",
           "name": "Sofa",
           "description": "Fit 3 adults sofa",
@@ -174,17 +163,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139718",
-          "name": "Sofa",
-          "description": "Na",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "29 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139704",
           "name": "Sofa",
           "description": "Fit 3 adults sofa",
@@ -261,17 +239,6 @@
     "date": "07 Nov 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "139718",
-          "name": "Sofa",
-          "description": "Na",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "29 Nov 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "139704",
           "name": "Sofa",
@@ -831,6 +798,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139733",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Family with four children recently moved from one public rental flat to another. The family has limited finances at the moment due to their recent move and is unable to afford a new vacuum cleaner after their current one broke. A donation of a vacuum cleaner with delivery covered would greatly benefit the family. Please WhatsApp Wani at 8718 8443 or email to wani.irdina@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139166",
+          "name": "Vacuum cleaner charger",
+          "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "29 Nov 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
