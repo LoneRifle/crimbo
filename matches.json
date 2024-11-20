@@ -480,6 +480,51 @@
     }
   },
   {
+    "id": "139844",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "A widow in her late 60s,ill with cancer and staying alone and has no children needs a TV.",
+    "specifications": null,
+    "contact": {
+      "org": "Bartley Community Care Services",
+      "name": "Chew Chee Kuan",
+      "email": "cheekuan.chew@bccs.org.sg",
+      "phone": [
+        "83760394",
+        "68850432"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139703",
+          "name": "TV Console",
+          "description": "TV console",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "16 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "180 x 35 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139818",
+          "name": "Digital TV HD Set-top Box",
+          "description": "Recycle 1 number digital TV HD Set-top box for normal TV to watch MediaCorp digital TV channel in high definition",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "19 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139840",
     "category": "Electrical Home Appliances",
     "name": "TV",
