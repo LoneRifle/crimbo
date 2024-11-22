@@ -1,5 +1,16 @@
 [
   {
+    "id": "139926",
+    "name": "Stand Fans",
+    "description": "5 standing fans",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "28 Nov 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "139851",
     "name": "5Litres slower cooker",
     "description": "5 litres slower cooker which suitable for big families and group settings.",
@@ -194,17 +205,6 @@
     "validTill": "16 Dec 2024",
     "ageInYears": 4,
     "dimensions": "165 X 83 X 63",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139703",
-    "name": "TV Console",
-    "description": "TV console",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "16 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "180 x 35 x 35",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,6 +572,39 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "139923",
+    "name": "Kettle, Pots and Pans",
+    "description": "Electric Kettle\nPots and Pans\nPlates and Bowls\nGlasses",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "28 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "139921",
+    "name": "Rice Cooker, Air Fryer, Microwave",
+    "description": "Rice Cooker 10 cups\nAir Fryer Medium\nMicrowave Medium",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "28 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "139920",
+    "name": "Washer",
+    "description": "Washer\nDryer",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "28 Nov 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "139234",
     "name": "Pots Pans Woks",
     "description": "They are the pots, pans and woks for cooking.",
@@ -702,6 +735,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "139922",
+    "name": "Shoes Many",
+    "description": "Shoes and Sandals (Mens)\nSize US10/UK9",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "28 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "139787",
