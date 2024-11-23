@@ -458,33 +458,34 @@
     }
   },
   {
-    "id": "139868",
-    "category": "Infant and Children Items",
-    "name": "Stroller",
-    "description": "client just give birth recently requires a newborn pram as husband is a solebread winner and unable to afford to purchase one",
-    "specifications": "Newborn",
+    "id": "139913",
+    "category": "Electrical Home Appliances",
+    "name": "Stand Fan",
+    "description": "Client is staying with his siblings in a rental flat. Having a stand fan for them can help them ventilate their house better.",
+    "specifications": null,
     "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Nurhidayah Binte Sazali",
-      "email": "hidayah@sccfsc.org.sg",
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Joyce Ng",
+      "email": "jiapei.n@ntuchealth.sg",
       "phone": [
-        "64619200"
+        "96549067",
+        "62741602"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "21 Nov 2024",
+    "date": "22 Nov 2024",
     "matches": {
       "passiton": [
         {
-          "id": "139507",
-          "name": "Stroller",
-          "description": "N/A",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "11 Dec 2024",
-          "ageInYears": 4,
+          "id": "139941",
+          "name": "Stand Fan",
+          "description": "Stand Fan - Very Good condition. Moving out so donating it",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2024",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -549,6 +550,39 @@
           "location": null,
           "validTill": "29 Nov 2024",
           "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139730",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family is under SSO financial assistance and facing difficulties in securing stable employment. Family is caring for a 3 year old son. Their fridge broke down a few months and they have no means of getting a new fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Chua Hsiu-Mei",
+      "email": "hsiumei.chua@montfortcare.org.sg",
+      "phone": [
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139945",
+          "name": "LG Fridge",
+          "description": "Moving out hence donating. Good condition",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2024",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -649,6 +683,39 @@
           "validTill": "23 Dec 2024",
           "ageInYears": 4,
           "dimensions": "Side by side refrigerator",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139467",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 3 in need of a fridge. Mum is unable to work and afford a new one due to health issues.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Grace Ang",
+      "email": "grace@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139945",
+          "name": "LG Fridge",
+          "description": "Moving out hence donating. Good condition",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
