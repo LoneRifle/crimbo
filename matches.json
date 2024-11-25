@@ -269,39 +269,6 @@
     }
   },
   {
-    "id": "139973",
-    "category": "Medical Aids",
-    "name": "Diapers",
-    "description": "Family of 6 is living in a 3 room flat. Client is caring for 2 elderly parents with health issues. Client has difficulty to cope with daily expenses with low wages. Client's parent needs diaper for daily use.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Rachel Fu",
-      "email": "rachel.fu@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139993",
-          "name": "Adult diapers size L",
-          "description": "TENA Diaper pull up Pants x 40pcs\nTENA Diaper sticky tab x 20",
-          "location": null,
-          "validTill": "25 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "139735",
     "category": "Medical Aids",
     "name": "Adult diapers",
@@ -1160,40 +1127,6 @@
     }
   },
   {
-    "id": "139736",
-    "category": "Home Furnishing",
-    "name": "Queen Size Mattress",
-    "description": "Client is a 40-year-old mother of two children, aged five and two. Her husband works as a cleaner and is the sole provider for the family while she cares for their children. The family is struggling financially and is unable to purchase a tricycle and a queen-sized mattress for the family to sleep on. She requires an adult-sized tricycle to send both her children to different preschools.",
-    "specifications": "Queen Size Mattress",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139994",
-          "name": "Queen size bed frame and mattress",
-          "description": "Excellent condition queen size bed frame + firm mattress (used but good condition). Comes from home with cats but will be vacuumed before leaving. Pick up must be 5 or 6 Dec. Have mover and can arrange details with VWO. Can add some bed linens if wanted.",
-          "location": null,
-          "validTill": "06 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "159L x 210w x 125 h",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "139591",
     "category": "Home Furnishing",
     "name": "Cabinet",
@@ -1289,6 +1222,17 @@
     "date": "07 Nov 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "140000",
+          "name": "Sofa",
+          "description": "Goes all together pickup on December 13th",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "13 Dec 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "139704",
           "name": "Sofa",
