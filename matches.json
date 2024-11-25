@@ -1,5 +1,38 @@
 [
   {
+    "id": "139985",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Family of 4 requires a washing machine to help with their laundry. Their current washing machine has broken down. \nThe client, certified as unfit to work, requires the assistance of a full-time caregiver. The couple has two school-going children.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Linda Lim",
+      "email": "lindalim@kkcs.org.sg",
+      "phone": [
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "139946",
+          "name": "9kg top load washing machine",
+          "description": "A 2 year old, 9kg top load washing machine (Toshiba). It is functional, but has some issues with the shock absorbent. So it will have difficulty with rinsing the clothes. But it can be fixed - quoted $70-120 by a handyman (to be covered by client or VWO). Other than that, the washing machine is good and looks very new.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Dec 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139960",
     "category": "Electrical Home Appliances",
     "name": "Fan",
@@ -753,17 +786,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "139848",
-          "name": "sofa set",
-          "description": "one 3 seater, two armchairs, one coffee table, one side table",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "04 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "139704",
           "name": "Sofa",
           "description": "Fit 3 adults sofa",
@@ -802,6 +824,17 @@
           "description": "Comfortable armchair / one-seater sofa. Cleaned recently and wooden legs have been replaced",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "27 Nov 2024",
+          "ageInYears": 3,
+          "dimensions": "36 inch x 36 inch x 28 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139980",
+          "name": "Chair / One-seater comfortable sofa",
+          "description": "Comfortable one-seater sofa / chair, can be used as a TV chair, reading chair or nursing chair. Clean, no marks",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "07 Dec 2024",
           "ageInYears": 3,
           "dimensions": "36 inch x 36 inch x 28 inch",
           "deliveryCostsCoveredByDonor": true,
