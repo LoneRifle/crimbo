@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140001",
-    "name": "Electrolux Microwave (Brand New)",
-    "description": "Unused from Condo, not in box but comes with manual.\n\nmodel EMT255070X",
-    "location": null,
-    "validTill": "25 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "595W 460H 449D",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "139956",
     "name": "Vent fan",
     "description": "2 nos. of ventilation fans without louvre.\n\nDelivery on weekday evening and weekend.",
@@ -149,17 +138,6 @@
     "location": null,
     "validTill": "11 Dec 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139955",
-    "name": "mattress",
-    "description": "1 x super single mattress and 2 x single mattress\n\nbetween 1 - 5 year old",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Nov 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -845,6 +823,17 @@
     "dimensions": "22x12x17cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "140003",
+    "name": "Travel Wheelchair",
+    "description": "Used but in original condition",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "26 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "139992",
