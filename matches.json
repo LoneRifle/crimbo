@@ -1040,6 +1040,40 @@
     }
   },
   {
+    "id": "140036",
+    "category": "Home Furnishing",
+    "name": "3-seater Sofa",
+    "description": "Family of 4 with young children lives in a public rental flat with other family memebers, seeking assistance for a 3-seater sofa as the current one has worn out. A donation of a 3-seater sofa would greatly assist in helping them reducing their expenses. Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140040",
+          "name": "3 Seater L Sofa",
+          "description": "3 seaterLeather Sofa",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "23 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "9.3ft x 3ft x3ft",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140029",
     "category": "Home Furnishing",
     "name": "Dining Table",
@@ -1220,6 +1254,17 @@
           "validTill": "30 Nov 2024",
           "ageInYears": 2,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140040",
+          "name": "3 Seater L Sofa",
+          "description": "3 seaterLeather Sofa",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "23 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "9.3ft x 3ft x3ft",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
