@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140055",
+    "name": "Refrigerator",
+    "description": "Still working condition but the vegetable container a bit crack",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "07 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "1760h x 640d x 660w",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140027",
     "name": "Mini oven toaster",
     "description": "Mini oven double up as toaster for daily use. Condition: Like new.",
@@ -77,6 +88,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140046",
+    "name": "2 seater fabric sofa",
+    "description": "2 seater ZINUS brand fabric sofa in good condition. Receipient just have to remove covers to wash",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "11 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "137cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140043",
+    "name": "White extendable desk",
+    "description": "White Ikea extendable desk with drawer\nExtends from 69cm to 128cm\nPaint is chipping in some parts but it's in good condition, sturdy and practical for use as a study or work desk.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "28 Nov 2024",
+    "ageInYears": 3,
+    "dimensions": "128cm (W) x 51cm (D) x 75cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140041",
     "name": "King size bed",
     "description": "Tempur king size",
@@ -99,28 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140025",
-    "name": "Queen size bed",
-    "description": "Bed with mattress queen size maxcoil",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140024",
-    "name": "Dining table with chairs",
-    "description": "Dining table with chairs",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140021",
     "name": "IKEA Bookshelf",
     "description": "Lightly used as book shelf.\nSome light stains on top\nWould appreciate collection",
@@ -139,50 +150,6 @@
     "validTill": "30 Nov 2024",
     "ageInYears": 4,
     "dimensions": "approx. 50x60x60cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140018",
-    "name": "CABINET",
-    "description": "Item is cleaned and is good condition.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "30 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "approx. 40x40x200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140014",
-    "name": "Carpet - Living Room",
-    "description": "Brick Washable Renaissance Rug. It is not too thick and is easy to vacuum clean. The carpet has been washed and maintained over the last two years.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "26 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": "160cm x 245cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140002",
-    "name": "Used IKEA Extendable Table (VANGSTA)",
-    "description": "Used IKEA Extendable table, white, 80/120x70 cm\n\nBought about 4 years ago. Changing to a bigger table for family gatherings. \n\nHappy to bless this to those who may need it. \nItem is already packed and ready to send- easy installation (mount 4 legs with a spanner) \n\nThank you.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "10 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "80/120x70 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140000",
-    "name": "Sofa",
-    "description": "Goes all together pickup on December 13th",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -275,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "139932",
-    "name": "Cabinet",
-    "description": "Display and storage cabinet",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "23 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "139847",
     "name": "Acrylic painting",
     "description": "Acrylic painting.",
@@ -293,17 +249,6 @@
     "validTill": "21 Dec 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140006",
-    "name": "Low storage cabinet  / TV cabinet - 6 drawers",
-    "description": "I have a sturdy real wood storage cabinet with six drawers, three on top and three on the bottom. It's in good condition and is suitable for storing clothes, toys, or knick-knacks. Can also be used as TV console. I'm happy to pay for collection fee but would prefer for VWO to book the pick-up/delivery to suit the timing & convenience of your donee. Thanks!",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "02 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "L70\" W20\" H18\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -468,17 +413,6 @@
     "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "01 Dec 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139569",
-    "name": "2-seater sofa",
-    "description": "Lightly used sofa.\nSofa cover can be removed and washed.\nSide table can be removed as well.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Nov 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
