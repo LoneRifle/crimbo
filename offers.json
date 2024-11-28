@@ -44,6 +44,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140084",
+    "name": "LG Fridge",
+    "description": "Two-door LG fridge",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140085",
+    "name": "LG Fridge",
+    "description": "Two-door LG fridge",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Nov 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "139215",
     "name": "Singtel Wifi 6 Router",
     "description": "Brand new Singtel Wifi 6 Router. Self collection at Buangkok MRT only.",
@@ -150,17 +172,6 @@
     "validTill": "30 Nov 2024",
     "ageInYears": 4,
     "dimensions": "approx. 50x60x60cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139982",
-    "name": "Coffee table",
-    "description": "Used Coffee table in mint condition. Table top is ceramic marble.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "08 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -427,6 +438,17 @@
     "dimensions": "Please see picture #1",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "140089",
+    "name": "Infant to child carseat",
+    "description": "Cosco Scerena car seat \nSuitable from infant to 6 year old\nCan be used in taxi and planes",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "140070",
@@ -715,6 +737,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "140082",
+    "name": "Foldable commode",
+    "description": "1) Condition is good. Mainly use for bathing for maybe twice a week.\n\n2) The pot is always covered with few layers of plastic bags when in use. Maybe used for less than 3 times.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "140076",
     "name": "Commode",
     "description": "Commode is new, unused as senior did not want upon arrival",
@@ -781,12 +814,23 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "139715",
-    "name": "Foldable wheelchair",
-    "description": "Foldable wheelchair, suitable to keep in car or transport for medical appointments. Max weight: 60 kg. Width of wheelchair: 40cm. Self-collection at home address.",
+    "id": "140086",
+    "name": "Wheelchair",
+    "description": "Wheelchair is light and quite good condition",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "17 Dec 2024",
-    "ageInYears": 3,
+    "validTill": "02 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140087",
+    "name": "Wheelchair",
+    "description": "Wheelchair is light and quite good condition",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "02 Dec 2024",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"

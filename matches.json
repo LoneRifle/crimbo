@@ -404,6 +404,50 @@
     }
   },
   {
+    "id": "139467",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 3 in need of a fridge. Mum is unable to work and afford a new one due to health issues.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Grace Ang",
+      "email": "grace@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140084",
+          "name": "LG Fridge",
+          "description": "Two-door LG fridge",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "140085",
+          "name": "LG Fridge",
+          "description": "Two-door LG fridge",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139368",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -899,40 +943,6 @@
     }
   },
   {
-    "id": "139120",
-    "category": "Attires/Clothings",
-    "name": "New Balance shoes",
-    "description": "Client is diagnosed with schizoaffective disorder and is presently unemployed. She is looking for a pair of New Balance shoes (size 7) as her shoes have spoilt and she has bunions.(HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Oct 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139928",
-          "name": "New balance sports shoes(UK7)",
-          "description": "Please check on the pictures for the size. Buying too many without knowing and would like to bless it out.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "22 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "139243",
     "category": "Learning Aids",
     "name": "Books",
@@ -1017,23 +1027,34 @@
           "category": "Infant and Children Items"
         },
         {
-          "id": "140003",
-          "name": "Travel Wheelchair",
-          "description": "Used but in original condition",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "26 Dec 2024",
+          "id": "140086",
+          "name": "Wheelchair",
+          "description": "Wheelchair is light and quite good condition",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "02 Dec 2024",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         },
         {
-          "id": "139715",
-          "name": "Foldable wheelchair",
-          "description": "Foldable wheelchair, suitable to keep in car or transport for medical appointments. Max weight: 60 kg. Width of wheelchair: 40cm. Self-collection at home address.",
+          "id": "140087",
+          "name": "Wheelchair",
+          "description": "Wheelchair is light and quite good condition",
           "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "17 Dec 2024",
-          "ageInYears": 3,
+          "validTill": "02 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140003",
+          "name": "Travel Wheelchair",
+          "description": "Used but in original condition",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "26 Dec 2024",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
@@ -1073,23 +1094,34 @@
           "category": "Infant and Children Items"
         },
         {
-          "id": "140003",
-          "name": "Travel Wheelchair",
-          "description": "Used but in original condition",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "26 Dec 2024",
+          "id": "140086",
+          "name": "Wheelchair",
+          "description": "Wheelchair is light and quite good condition",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "02 Dec 2024",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         },
         {
-          "id": "139715",
-          "name": "Foldable wheelchair",
-          "description": "Foldable wheelchair, suitable to keep in car or transport for medical appointments. Max weight: 60 kg. Width of wheelchair: 40cm. Self-collection at home address.",
+          "id": "140087",
+          "name": "Wheelchair",
+          "description": "Wheelchair is light and quite good condition",
           "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "17 Dec 2024",
-          "ageInYears": 3,
+          "validTill": "02 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140003",
+          "name": "Travel Wheelchair",
+          "description": "Used but in original condition",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "26 Dec 2024",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
@@ -1121,6 +1153,17 @@
           "name": "Commode",
           "description": "Commode is new, unused as senior did not want upon arrival",
           "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "28 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140082",
+          "name": "Foldable commode",
+          "description": "1) Condition is good. Mainly use for bathing for maybe twice a week.\n\n2) The pot is always covered with few layers of plastic bags when in use. Maybe used for less than 3 times.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "28 Dec 2024",
           "ageInYears": 1,
           "dimensions": null,
