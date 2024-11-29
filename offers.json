@@ -165,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "139978",
-    "name": "dining table n six chairs",
-    "description": "One set wooden dining table with 6 chairs",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "10 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "115 diameter 75cm H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "139977",
     "name": "Coffee table",
     "description": "Please WhatsApp me if keen. Thanks",
@@ -432,17 +421,6 @@
     "id": "140103",
     "name": "Oribel baby high chair",
     "description": "Baby high chair with full accessories.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140102",
-    "name": "Doona Liki Trike S5 toddler bicycle",
-    "description": "Toddler bicycle with full accessories.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "28 Dec 2024",
     "ageInYears": 3,
@@ -770,17 +748,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "139992",
-    "name": "Walking frame",
-    "description": "Adjustable walking frame.",
-    "location": null,
-    "validTill": "25 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "139950",
     "name": "ASSURE REHAB ELECTRIC LOW NURSING BED",
     "description": "Good condition",
@@ -876,6 +843,17 @@
     "validTill": "11 Dec 2024",
     "ageInYears": 1,
     "dimensions": "Adult",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "139398",
+    "name": "Hospital bed",
+    "description": "Good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "215 x 100 x 27",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
