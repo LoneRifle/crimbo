@@ -22,7 +22,7 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140055",
+    "id": "140128",
     "name": "Refrigerator",
     "description": "Still working condition but the vegetable container a bit crack",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140085",
-    "name": "LG Fridge",
-    "description": "Two-door LG fridge",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "139215",
     "name": "Singtel Wifi 6 Router",
     "description": "Brand new Singtel Wifi 6 Router. Self collection at Buangkok MRT only.",
@@ -64,6 +53,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140140",
+    "name": "Book shelf",
+    "description": "Bookcase or display case in wood, with metal frame. Can be used to store and display items. Items in the image for reference only and not available for donation.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "29 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "190cm H x 80cm W x 30cm D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140139",
+    "name": "Study/ Computer table with chair",
+    "description": "Study/computer table in good condition. Height can be adjusted, compact and can fit into small space. Comes with chair (used but in good condition).",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "29 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "85cm W x 80cm D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140091",
@@ -117,6 +128,17 @@
     "validTill": "30 Nov 2024",
     "ageInYears": 4,
     "dimensions": "approx. 50x60x60cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "139994",
+    "name": "Queen size bed frame and mattress",
+    "description": "Excellent condition queen size bed frame + firm mattress (used but good condition). Comes from home with cats but will be vacuumed before leaving. Pick up must be 5 or 6 Dec. Have mover and can arrange details with VWO. Can add some bed linens if wanted.",
+    "location": null,
+    "validTill": "06 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "159L x 210w x 125 h",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -308,6 +330,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "140134",
+    "name": "SUPER SINGLE BEDFRAME",
+    "description": "SUPER SINGLE BEDFRAME WITH METAL LEGS. CONDITION NEW (NOT USED)",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "190 CM *106CM * 36CM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "139493",
     "name": "Chindi Rug/Carpet",
     "description": "Huge Carpet. Very heavy. In relatively good condition. Need transport to send it to recipient as i dont have a vehicle.",
@@ -372,6 +405,39 @@
     "dimensions": "Please see picture #1",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "140138",
+    "name": "Sling Carrier",
+    "description": "Sling Carrier, lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "07 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "140137",
+    "name": "Baby Walker",
+    "description": "Baby Walker",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "140136",
+    "name": "Baby Hamper",
+    "description": "New, Unopened Newborn Baby Hamper",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "140089",
@@ -755,17 +821,6 @@
     "validTill": "15 Dec 2024",
     "ageInYears": 4,
     "dimensions": "55cm x 60cm x 100cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "139710",
-    "name": "small drawer",
-    "description": "Small drawer in good condition. Wood colour",
-    "location": "Cairnhill",
-    "validTill": "17 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": "55cm x 40cm x 50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
