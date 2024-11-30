@@ -73,6 +73,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "140145",
+          "name": "Sofa cum bed and mattress",
+          "description": "Sofa cum bed\nOttoman\nMattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "05 Dec 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "139994",
           "name": "Queen size bed frame and mattress",
           "description": "Excellent condition queen size bed frame + firm mattress (used but good condition). Comes from home with cats but will be vacuumed before leaving. Pick up must be 5 or 6 Dec. Have mover and can arrange details with VWO. Can add some bed linens if wanted.",
@@ -122,6 +133,40 @@
     }
   },
   {
+    "id": "140060",
+    "category": "Home Furnishing",
+    "name": "Sofa/ Sofa Bed",
+    "description": "The client is living with his partner and their daughter (toddler) in a rental flat, after a recent medical emergency, partner has been hospitalized and unable to work. Due to caregiving duties, the client's job was also affected leading to financial struggles. Recently, their sofa bed has broken down and they would benefit greatly from receiving support for a replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140145",
+          "name": "Sofa cum bed and mattress",
+          "description": "Sofa cum bed\nOttoman\nMattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "05 Dec 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140029",
     "category": "Home Furnishing",
     "name": "Dining Table",
@@ -148,6 +193,39 @@
           "validTill": "08 Dec 2024",
           "ageInYears": 2,
           "dimensions": "120 x 80 x 75cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139152",
+    "category": "Home Furnishing",
+    "name": "Sofa bed",
+    "description": "Client's sofa is spoilt and is hoping to get a sofa bed as there is not enough space to sleep either. As client's husband is the sole breadwinner and they have 2 young children, the family has difficulties affording a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@allkin.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140145",
+          "name": "Sofa cum bed and mattress",
+          "description": "Sofa cum bed\nOttoman\nMattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "05 Dec 2024",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
