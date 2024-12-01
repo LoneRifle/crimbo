@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140173",
+    "name": "Book Shelf",
+    "description": "Used book shelf for children. Books and other display items not included.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "20 Dec 2024",
+    "ageInYears": 3,
+    "dimensions": "120cm x 25cm x 123cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140172",
     "name": "Dining table",
     "description": "Dining table L150 x D80 x H76. Chairs in picture are not included",
@@ -671,17 +682,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "140165",
-    "name": "Electronic Blood Pressure Monitor",
-    "description": "Hi, I have this brand new in box Electronic Blood Pressure Monitor for donation. Appreciate if I can pass to a social worker or case manager at Chinatown MRT station on Monday to Wednesday lunch hour OR after work at Potong Pasir MRT, ard 6.30pm. This item is too bulky to mail.",
-    "location": null,
-    "validTill": "31 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "140101",
     "name": "Coloplast Stoma Bags",
     "description": "10 brand new stoma bags",
@@ -781,28 +781,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "140086",
-    "name": "Wheelchair",
-    "description": "Wheelchair is light and quite good condition",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "02 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "140087",
-    "name": "Wheelchair",
-    "description": "Wheelchair is light and quite good condition",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "02 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "140152",
     "name": "Power bank",
     "description": "I have 3 nos. of power banks to donate.\n\nDelivery on weekday evening and weekend.",
@@ -854,17 +832,6 @@
     "validTill": "06 Dec 2024",
     "ageInYears": 2,
     "dimensions": "215 x 100 x 27",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "139269",
-    "name": "Hospital bed",
-    "description": "Hospital bed electric remote",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "02 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
