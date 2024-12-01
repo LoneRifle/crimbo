@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140161",
-    "name": "TV and TV bench",
-    "description": "Both TV and bench",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140148",
     "name": "Toshiba 7 top Liao washing machine",
     "description": "Toshiba 7kg Top Load washing machine",
@@ -53,6 +42,17 @@
     "dimensions": "1760h x 640d x 660w",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140163",
+    "name": "Ikea Kivic sofa",
+    "description": "Very good condition Ikea 2-seater sofa (but sits 3 comfortably).",
+    "location": null,
+    "validTill": "31 Dec 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140162",
