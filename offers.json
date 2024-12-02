@@ -66,17 +66,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140148",
-    "name": "Toshiba 7 top Liao washing machine",
-    "description": "Toshiba 7kg Top Load washing machine",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "30 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140128",
     "name": "Refrigerator",
     "description": "Still working condition but the vegetable container a bit crack",
@@ -86,6 +75,17 @@
     "dimensions": "1760h x 640d x 660w",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140177",
+    "name": "Mahogany dining table",
+    "description": "It’s 30 yrs old but very good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "10 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "205cm by 105cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140173",
@@ -304,6 +304,17 @@
     "validTill": "24 Dec 2024",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140178",
+    "name": "Bedside Table",
+    "description": "Bedside table with some stains on the surface. Still very much usable. More than 20 years old.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "10 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "43cm x 60cm x 56cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -682,6 +693,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "140174",
+    "name": "Omron compressor nebulizer",
+    "description": "This is a brand new item.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "19 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "22x12x17cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "140175",
+    "name": "Omron compressor nebulizer",
+    "description": "This is a brand new item.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "19 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "22x12x17cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "140160",
     "name": "Walking Frame Shower Support",
     "description": "This item is totally new",
@@ -768,17 +801,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "140152",
-    "name": "Power bank",
-    "description": "I have 3 nos. of power banks to donate.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "30 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "140141",
