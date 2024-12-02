@@ -18,6 +18,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "140212",
+          "name": "Printer",
+          "description": "Almost new printer. Ink cartridge printer came with has been depleted.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
           "id": "139787",
           "name": "Office Printer",
           "description": "Well used office printer.  Xerox printer.  model DocuCentre V C2263.  It is still in good condition.  More for office than home.  Collection period 11/12/24-13/12/24",
@@ -27,39 +38,6 @@
           "dimensions": "55cm x 60cm x 100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140122",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Client has 1 school-going child. Family are currently not able to work as their ebike spoilt recently. They are not able to afford to purchase a cabinet to put the child's clothes. The donation will help the family to be more able to meet their basic needs",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Nur Fatin Athirah Binte Mohamad Husaini",
-      "email": "fatinathirah@allkin.org.sg",
-      "phone": [
-        "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140157",
-          "name": "Cabinet",
-          "description": "2 tall cabinet, 1 half cabinet, 1 mirror dressing table.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "As photo",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -148,39 +126,6 @@
           "validTill": "10 Dec 2024",
           "ageInYears": 4,
           "dimensions": "205cm by 105cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139591",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Family (elderly grandmother and grandson with intellectual disability) has just moved into a rental flat, and requires cabinets to organise their items and maximise the space. \n\nSomething like the below would be helpful (about 1m in width).\n\nhttps://shopee.sg/Half-Height-Cabinet-(YA-201)-i.53927834.18966841287?sp_atk=c25443d8-afb5-4c0c-9aba-c02bdd41f561&xptdk=c25443d8-afb5-4c0c-9aba-c02bdd41f561",
-    "specifications": null,
-    "contact": {
-      "org": "MINDS - Community Forensic Services",
-      "name": "Ella Tan",
-      "email": "ella.tan@minds.org.sg",
-      "phone": [
-        "93573778"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140157",
-          "name": "Cabinet",
-          "description": "2 tall cabinet, 1 half cabinet, 1 mirror dressing table.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "As photo",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
