@@ -1,5 +1,39 @@
 [
   {
+    "id": "140223",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client has move to a new rental flat in Jurong. He has moved out from his mother house. The client and his partner are young couple. Both are 21year old. The client is working Foodpanda and his pay is not enough to purchase new appliances or furniture. Wife is not working as she is the main caregiver for their children. They have 2 children below 3. (Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140128",
+          "name": "Refrigerator",
+          "description": "Still working condition but the vegetable container a bit crack",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "07 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "1760h x 640d x 660w",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139516",
     "category": "Electrical Home Appliances",
     "name": "Printer",
@@ -38,6 +72,84 @@
           "dimensions": "55cm x 60cm x 100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140228",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client has move to a new rental flat in Jurong. He has moved out from his mother house. The client and his partner are young couple. Both are 21year old. The client is working Foodpanda and his pay is not enough to purchase new appliances or furniture. Wife is not working as she is the main caregiver for their children. They have 2 children below 3.(Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140166",
+          "name": "Sofa bed",
+          "description": "Sofa bed in good condition",
+          "location": null,
+          "validTill": "14 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140145",
+          "name": "Sofa cum bed and mattress",
+          "description": "Sofa cum bed\nOttoman\nMattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "05 Dec 2024",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140158",
+          "name": "2 seated sofa",
+          "description": "Scanteak 2 seated sofa with solid teak wood frame include cushions",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "05 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": "2 seated",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140153",
+          "name": "Brown leather sofa with leg rest",
+          "description": "We have 2 arm chairs, 1 2 seater sofa, and 1 leg rest to give away. Items are of genuine soft leather, in very good condition as we seldom sit on them.",
+          "location": null,
+          "validTill": "18 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "139708",
+          "name": "Recliner L-Shaped Sofa",
+          "description": "Recliner sofa with charging points all in working condition. Needs Re-Upholstery or Sofa covers.",
+          "location": null,
+          "validTill": "05 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
