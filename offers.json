@@ -77,6 +77,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140196",
+    "name": "LAUNDRY HANGER",
+    "description": "Laundry hanger to dry clothes either indoors or outdoors. Item is used less than two years. Will cover delivery.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "22 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "133x86x154cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140177",
     "name": "Mahogany dining table",
     "description": "It’s 30 yrs old but very good condition",
@@ -84,17 +95,6 @@
     "validTill": "10 Dec 2024",
     "ageInYears": 4,
     "dimensions": "205cm by 105cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140173",
-    "name": "Book Shelf",
-    "description": "Used book shelf for children. Books and other display items not included.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "20 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": "120cm x 25cm x 123cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -127,28 +127,6 @@
     "location": null,
     "validTill": "14 Dec 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140163",
-    "name": "Ikea Kivic sofa",
-    "description": "Very good condition Ikea 2-seater sofa (but sits 3 comfortably).",
-    "location": null,
-    "validTill": "31 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140162",
-    "name": "Bedside table IKEA 2 pieces",
-    "description": "Two pieces person in need has to pick them up",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -260,28 +238,6 @@
     "validTill": "23 Dec 2024",
     "ageInYears": 4,
     "dimensions": "9.3ft x 3ft x3ft",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140021",
-    "name": "IKEA Bookshelf",
-    "description": "Lightly used as book shelf.\nSome light stains on top\nWould appreciate collection",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "20 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139994",
-    "name": "Queen size bed frame and mattress",
-    "description": "Excellent condition queen size bed frame + firm mattress (used but good condition). Comes from home with cats but will be vacuumed before leaving. Pick up must be 5 or 6 Dec. Have mover and can arrange details with VWO. Can add some bed linens if wanted.",
-    "location": null,
-    "validTill": "06 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "159L x 210w x 125 h",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -647,6 +603,17 @@
     "dimensions": "W18.5\" x H12\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "140199",
+    "name": "17\" Monitor",
+    "description": "Total qty: 14 (8 new, 6 used)",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 3,
+    "dimensions": "17\"",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "140154",
