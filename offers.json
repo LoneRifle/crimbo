@@ -132,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140172",
-    "name": "Dining table",
-    "description": "Dining table L150 x D80 x H76. Chairs in picture are not included",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "150x80x76",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140166",
     "name": "Sofa bed",
     "description": "Sofa bed in good condition",
@@ -160,6 +149,17 @@
     "location": null,
     "validTill": "14 Dec 2024",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140245",
+    "name": "Bedside table IKEA 2 pieces",
+    "description": "Two pieces person in need has to pick them up",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "13 Dec 2024",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -757,17 +757,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "140212",
-    "name": "Printer",
-    "description": "Almost new printer. Ink cartridge printer came with has been depleted.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "140207",
