@@ -67,39 +67,6 @@
     }
   },
   {
-    "id": "139467",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family of 3 in need of a fridge. Mum is unable to work and afford a new one due to health issues.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Grace Ang",
-      "email": "grace@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140253",
-          "name": "Fridge (LG)",
-          "description": "Please arrange own transport and pick up from:\n25 Leonie Hill #15-03 Leonie Gardens",
-          "location": "Changi, Flora, Loyang",
-          "validTill": "13 Dec 2024",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140228",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -204,6 +171,17 @@
           "validTill": "08 Dec 2024",
           "ageInYears": 2,
           "dimensions": "120 x 80 x 75cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140257",
+          "name": "Dining table with chairs",
+          "description": "Dining table with chairs",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "13 Dec 2024",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
