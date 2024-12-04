@@ -11,12 +11,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140302",
-    "name": "Fridge (LG)",
-    "description": "Please arrange own transport and pick up from:\n25 Leonie Hill #15-03 Leonie Gardens",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 2,
+    "id": "140310",
+    "name": "Bosch dishwasher",
+    "description": "Bosch dishwasher",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "14 Dec 2024",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -110,7 +110,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140217",
+    "id": "140324",
     "name": "Table",
     "description": "Table available for a pick up. Has some hairline cracks, but doesnt impact the usability.",
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
@@ -227,17 +227,6 @@
     "validTill": "29 Dec 2024",
     "ageInYears": 4,
     "dimensions": "150cm*200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140091",
-    "name": "Loft double decker bed with storage stairs",
-    "description": "Single mattress for loft bed. Frame for bottom bunk was never used. In good condition. Only slight paint fading due to age.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -638,6 +627,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "140323",
+    "name": "Hand sanitizer gel",
+    "description": "Cartons of new hand sanitizer gel. \n500ml x 12 in each carton. \nExp April 2025. \n\nI can only deliver to central/south areas.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "20 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "140293",
     "name": "BD Ultra-fine Pro Pen Needles 32Gx4mm 100's REF320566",
     "description": "To go with the Lantus Solostar Pen for people with diabetes.",
@@ -704,13 +704,13 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "140100",
-    "name": "75cm Grab Bar with Stand",
-    "description": "this is brand new support bar from Golden Concepts",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "id": "140306",
+    "name": "Commode",
+    "description": "Commode is new, unused as senior did not want upon arrival",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "28 Dec 2024",
     "ageInYears": 1,
-    "dimensions": "75cm long",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -746,6 +746,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140312",
+    "name": "WiFi Router (Brand New)",
+    "description": "This is a brand new TP-Link BE3600 router that is still in the original packaging and unopened.",
+    "location": "Jurong East",
+    "validTill": "03 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "345mm x 235mm x 95mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140292",
