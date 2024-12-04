@@ -1,39 +1,5 @@
 [
   {
-    "id": "140223",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client has move to a new rental flat in Jurong. He has moved out from his mother house. The client and his partner are young couple. Both are 21year old. The client is working Foodpanda and his pay is not enough to purchase new appliances or furniture. Wife is not working as she is the main caregiver for their children. They have 2 children below 3. (Isk)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140128",
-          "name": "Refrigerator",
-          "description": "Still working condition but the vegetable container a bit crack",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "07 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "1760h x 640d x 660w",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "139516",
     "category": "Electrical Home Appliances",
     "name": "Printer",
@@ -61,6 +27,39 @@
           "dimensions": "55cm x 60cm x 100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139467",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 3 in need of a fridge. Mum is unable to work and afford a new one due to health issues.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Grace Ang",
+      "email": "grace@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140302",
+          "name": "Fridge (LG)",
+          "description": "Please arrange own transport and pick up from:\n25 Leonie Hill #15-03 Leonie Gardens",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "13 Dec 2024",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []

@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140302",
+    "name": "Fridge (LG)",
+    "description": "Please arrange own transport and pick up from:\n25 Leonie Hill #15-03 Leonie Gardens",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "13 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140170",
     "name": "Electric Thermo Pot",
     "description": "Panasonic NC-BH30P electric thermo pot to bless a family that’s needs it",
@@ -33,15 +44,26 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140128",
-    "name": "Refrigerator",
-    "description": "Still working condition but the vegetable container a bit crack",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "07 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "1760h x 640d x 660w",
+    "id": "140301",
+    "name": "Flower/plant stand",
+    "description": "Have 2 of this to collect together. One is 1m tall, one is 60cm tall.",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "18 x 18cm diameter. Height is 1m and 60cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140300",
+    "name": "chest of drawers",
+    "description": "brown chest of drawers. some minor scratches on top of drawers.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140299",
@@ -171,17 +193,6 @@
     "location": null,
     "validTill": "18 Dec 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140145",
-    "name": "Sofa cum bed and mattress",
-    "description": "Sofa cum bed\nOttoman\nMattress",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Dec 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -421,17 +432,6 @@
     "id": "140275",
     "name": "Stroller",
     "description": "Combi Stroller",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140274",
-    "name": "Stroller",
-    "description": "Graco Baby Stroller",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "15 Dec 2024",
     "ageInYears": 4,
