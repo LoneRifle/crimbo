@@ -19,17 +19,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "140282",
-          "name": "Refrigerator",
-          "description": "Good condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "10 Dec 2024",
-          "ageInYears": 2,
-          "dimensions": "Per photo",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "140128",
           "name": "Refrigerator",
           "description": "Still working condition but the vegetable container a bit crack",
@@ -72,51 +61,6 @@
           "dimensions": "55cm x 60cm x 100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140273",
-    "category": "Home Furnishing",
-    "name": "Sofa bed",
-    "description": "Parents have requested for a sofa bed for their pre-teen daughter as currently they are all sharing a bed. They stay in a 2-room rental unit and are looking for a space efficient furniture. As they are unable to afford a new piece of furniture they are requesting for a second hand item.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands",
-      "name": "Sarrani Krishnan",
-      "email": "sarrani_krishnan@msf.gov.sg",
-      "phone": [
-        "91782934",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140166",
-          "name": "Sofa bed",
-          "description": "Sofa bed in good condition",
-          "location": null,
-          "validTill": "14 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "140145",
-          "name": "Sofa cum bed and mattress",
-          "description": "Sofa cum bed\nOttoman\nMattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "05 Dec 2024",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
