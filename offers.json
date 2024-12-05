@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140338",
+    "name": "Fan",
+    "description": "16 inches Sona fan used for 3 years\nStill in working condition\nCan spin",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "04 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140310",
     "name": "Bosch dishwasher",
     "description": "Bosch dishwasher",
@@ -40,6 +51,17 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140334",
+    "name": "Mini oven toaster",
+    "description": "Mini oven double up as toaster for daily use. Condition: Like new.",
+    "location": null,
+    "validTill": "06 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "LXWXH 36X22X20cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -143,34 +165,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140164",
-    "name": "Bed with mattress and side tables",
-    "description": "Bed with mattress and side tables",
-    "location": null,
-    "validTill": "14 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140245",
     "name": "Bedside table IKEA 2 pieces",
     "description": "Two pieces person in need has to pick them up",
     "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
     "validTill": "13 Dec 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140153",
-    "name": "Brown leather sofa with leg rest",
-    "description": "We have 2 arm chairs, 1 2 seater sofa, and 1 leg rest to give away. Items are of genuine soft leather, in very good condition as we seldom sit on them.",
-    "location": null,
-    "validTill": "18 Dec 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -205,6 +205,17 @@
     "validTill": "29 Dec 2024",
     "ageInYears": 4,
     "dimensions": "150cm*200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140340",
+    "name": "Loft double decker bed with storage stairs",
+    "description": "Single mattress for loft bed. Frame for bottom bunk was never used. In good condition. Only slight paint fading due to age.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -667,6 +678,28 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140339",
+    "name": "75cm Grab Bar with Stand",
+    "description": "this is brand new support bar from Golden Concepts",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "75cm long",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140341",
+    "name": "75cm Grab Bar with Stand",
+    "description": "this is brand new support bar from Golden Concepts",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "75cm long",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
