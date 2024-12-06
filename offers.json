@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140389",
+    "name": "Dryer",
+    "description": "Good condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "16 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140338",
     "name": "Fan",
     "description": "16 inches Sona fan used for 3 years\nStill in working condition\nCan spin",
@@ -110,28 +121,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140298",
-    "name": "single bed with mattress",
-    "description": "this is a single bed used by an elderly person. the item is well-maintained.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140272",
-    "name": "Dining Chairs (Set of 4 Pieces)",
-    "description": "Dining chairs (x 4) in good condition. Not for fussy users.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140234",
     "name": "Wall mount shelf",
     "description": "Delivery on weekday evening and weekend.",
@@ -194,6 +183,17 @@
     "validTill": "08 Dec 2024",
     "ageInYears": 2,
     "dimensions": "120 x 80 x 75cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140384",
+    "name": "Table",
+    "description": "A stable, wide n good-condition study table to give away. \nFind it too big for my bedroom. \nFeel free to contact me if you have any clients happen to need a study table.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "120 x 60 x 77",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -361,6 +361,17 @@
     "dimensions": "190 CM *106CM * 36CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "140388",
+    "name": "Girl Clothes",
+    "description": "Clothes for 3-4 year old girl in lightly used condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "140370",
@@ -724,6 +735,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140386",
+    "name": "Ensure milk - vanilla (250ml per can x 39 cans)",
+    "description": "Expiry 29 Aug 2025",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "05 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "42 x 28 x 10 per carton (all in cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "140385",
+    "name": "Adult diaper pants",
+    "description": "tena Adult diaper pants (unisex). 12 packs of 12 diapers each. Size L, 100-135cm.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "05 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "size L, 100-135cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140312",
