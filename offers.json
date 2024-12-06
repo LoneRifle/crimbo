@@ -22,17 +22,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140338",
-    "name": "Fan",
-    "description": "16 inches Sona fan used for 3 years\nStill in working condition\nCan spin",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "04 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140310",
     "name": "Bosch dishwasher",
     "description": "Bosch dishwasher",
@@ -64,6 +53,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140392",
+    "name": "Wooden sofa chairs and tables",
+    "description": "Wooden sofa, small tables, desk",
+    "location": "Sengkang ",
+    "validTill": "13 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140368",
@@ -506,6 +506,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "140395",
+    "name": "Plates and cups",
+    "description": "Cups, bowls plates, vacuum flask",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "140371",
     "name": "Rice Cooker",
     "description": "1.8L Rice Cooker",
@@ -592,6 +603,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "140394",
+    "name": "Hospital bed",
+    "description": "New bed. Not used at all. Full electric 3 cranks control",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "05 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "212 x 105",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "140323",
@@ -737,24 +759,13 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "140386",
-    "name": "Ensure milk - vanilla (250ml per can x 39 cans)",
-    "description": "Expiry 29 Aug 2025",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "05 Jan 2025",
+    "id": "140390",
+    "name": "Single size Bed",
+    "description": "Single size bed and bed frame (wooden)",
+    "location": "Sengkang ",
+    "validTill": "13 Dec 2024",
     "ageInYears": 1,
-    "dimensions": "42 x 28 x 10 per carton (all in cm)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "140385",
-    "name": "Adult diaper pants",
-    "description": "tena Adult diaper pants (unisex). 12 packs of 12 diapers each. Size L, 100-135cm.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "05 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "size L, 100-135cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
