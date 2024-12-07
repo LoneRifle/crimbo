@@ -1,5 +1,27 @@
 [
   {
+    "id": "140421",
+    "name": "Lady's pyjamas and trousers",
+    "description": "A brand-new set lady's M&S pyjamas; 2 pairs of M&S navy trousers, size 12 and 14. The trouser seams have been shortened but these can be easily unpicked by hand.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "Size 12, 14 and Free size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "140420",
+    "name": "ladies pyjamas",
+    "description": "3 sets of brand-new lady's pyjamas, sizes M and L. All sets come with matching long pants.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "Size M, L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "139957",
     "name": "Luminous vest",
     "description": "Delivery on weekday evening and weekend.",
@@ -64,6 +86,39 @@
     "dimensions": "As photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140424",
+    "name": "Dining Table",
+    "description": "Glass adjustable Table",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "110 x 90 x 80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140423",
+    "name": "Sofa bed 2 queen size",
+    "description": "Queen Size Sofa bed",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "150 x 90 x 90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140422",
+    "name": "2x Study / Work Tables 120cm * 80cm",
+    "description": "2 IKEA desks in good condition .",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "120cm * 80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140419",
@@ -601,17 +656,6 @@
     "validTill": "05 Jan 2025",
     "ageInYears": 2,
     "dimensions": "37 x 23 x 27 (all in cm) - suction machine",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "140394",
-    "name": "Hospital bed",
-    "description": "New bed. Not used at all. Full electric 3 cranks control",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "05 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "212 x 105",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
