@@ -1,27 +1,5 @@
 [
   {
-    "id": "140421",
-    "name": "Lady's pyjamas and trousers",
-    "description": "A brand-new set lady's M&S pyjamas; 2 pairs of M&S navy trousers, size 12 and 14. The trouser seams have been shortened but these can be easily unpicked by hand.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "Size 12, 14 and Free size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "140420",
-    "name": "ladies pyjamas",
-    "description": "3 sets of brand-new lady's pyjamas, sizes M and L. All sets come with matching long pants.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "Size M, L",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "139957",
     "name": "Luminous vest",
     "description": "Delivery on weekday evening and weekend.",
@@ -31,6 +9,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "140454",
+    "name": "Refrigerator",
+    "description": "In good condition",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "140430",
@@ -77,13 +66,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140428",
-    "name": "2 door wardrobe",
-    "description": "2 door wardrobe with 2 drawers",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "14 Dec 2024",
+    "id": "140456",
+    "name": "King size bed frame (only bottom part)",
+    "description": "nil",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Jan 2025",
     "ageInYears": 4,
-    "dimensions": "1m w x 1.8m ht",
+    "dimensions": "nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140437",
+    "name": "King Size Bed",
+    "description": "Comes with new pillows/protector",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "180 x 200cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -95,17 +95,6 @@
     "validTill": "07 Jan 2025",
     "ageInYears": 4,
     "dimensions": "L 120cm x H 200cm x W 48 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140426",
-    "name": "King size Mattress",
-    "description": "Plush King Size Mattress for donation",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "07 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": "180 x 193cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -187,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140355",
-    "name": "Kids Blue Car BookCase",
-    "description": "Kids blue bookcase in a car design bought from Turf City Piccolo House. Have some signs of wear but still in good condition and no defects that affect functionality",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "04 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "75x31.5x105 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140301",
     "name": "Flower/plant stand",
     "description": "Have 2 of this to collect together. One is 1m tall, one is 60cm tall.",
@@ -259,17 +237,6 @@
     "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
     "validTill": "13 Dec 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140144",
-    "name": "Chair x 2",
-    "description": "Need to clear furnitures to make room for space at home. \nI have got 2 of this blue chairs to donate.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "30 Dec 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -627,17 +594,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "140155",
-    "name": "Kitchenware and appliance",
-    "description": "Lightly used \n> large soup pot (brand : 555 stainless steel)\n\nNew \n> electric kettle (brand : Midea)\n> ceramic pot\n> melamime rice bowls 12x + tablespoon 12x + sauce plate 3x (picture available)",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "140199",
     "name": "17\" Monitor",
     "description": "Total qty: 14 (8 new, 6 used)",
@@ -812,17 +768,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "140418",
-    "name": "Super single mattress",
-    "description": "Super single mattress",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "25 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": "185 x106 x 24 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "140390",
