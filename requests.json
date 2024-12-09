@@ -1,5 +1,23 @@
 [
   {
+    "id": "140476",
+    "category": "Others",
+    "name": "Tena tape - Size M",
+    "description": "Ct is diagnosed with end stage cancer. Ct has no family members and is from low income group. Incontinent due to side effects of cancer hence requiring help to secure diapers for daily change",
+    "specifications": "Tape - Size M, Tena brand",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2024"
+  },
+  {
     "id": "140464",
     "category": "Others",
     "name": "Household items and Bedding",
@@ -46,23 +64,6 @@
       "phone": [
         "64546678",
         "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Dec 2024"
-  },
-  {
-    "id": "140436",
-    "category": "Others",
-    "name": "Food Rations",
-    "description": "Client is currently the sole breadwinner of her family of 3, with one school going child. While her husband is working as well, he does not contribute to the household and has large amounts of debts as well. Client has recently returned to the workforce and is currently working part-time in order to support her family. Client has shared that the family is running out of food in about 3 to 4 days, and her next paycheck would be in 2nd week of Dec 2024. As such, she would need some assistance in tiding through till end of the the month.\n\n\nItems:\n4 packets of rice\n8 packets of instant noodles (no chicken flavour)\nCooking Oil\n20 x Canned food (or any amount is fine as well, but no mushrooms)\nEggs\nFrozen Food (e.g. nuggets, chicken)\nBiscuits\nMilo\nCoffee\n\nAny other items that can be stored are welcomed too (:",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Chan Jun Ren",
-      "email": "chanjunren@mws.sg",
-      "phone": [
-        "62828558"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1514,36 +1515,72 @@
     "date": "08 Nov 2024"
   },
   {
-    "id": "140455",
+    "id": "140474",
     "category": "Infant and Children Items",
-    "name": "Diapers [Mamypoko Air Fit Pants (Soft to skin), Size: XXL, 2 packs]",
-    "description": "Client's family consists of 4 members, 2 children (1 school-going, 1 toddler). Client and client’s wife are unable to seek and sustain employment due to caregiving needs. Presently they need to meet the high care needs of their 2 year old as he was born with a complex congenital heart disease. The family face difficulty meeting their basic needs and requested for support with diapers.",
+    "name": "Diapers",
+    "description": "Client is a full-time caregiver to her two young children. The family is living in a rental flat, with the husband being the sole breadwinner. Client will require assistance in getting diapers (Size M and XL - 2 packets each).",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
+      "org": "REACH Family Service Centre",
+      "name": "Lee Jia Hui",
+      "email": "jiahui.lee@reach.org.sg",
       "phone": [
-        "64546678",
-        "64578559"
+        "60271219",
+        "62522566"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "09 Dec 2024"
   },
   {
-    "id": "140451",
+    "id": "140472",
     "category": "Infant and Children Items",
-    "name": "Milk Powder [Enfagrow Milk Powder Stage 4, 2-3 tins]",
-    "description": "The client and his wife are both earning low wages and have to support 3 young dependents and his elder parents with their basic and household needs. Meanwhile, client is paying high amount of debts that are incurred by his parents and his previous failed business. The support of milk powder will be important to ensure the needs of the toddler is not compromised.",
-    "specifications": null,
+    "name": "Diaper and milk powder",
+    "description": "A Malay family needs XL size diaper for 2 children.In addition, the family also needssimilar -total comfort 1/2/3 milk powder. children's father is looking for job while mother needs to stay at home, taking care of the 2 children",
+    "specifications": "XL",
     "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
+      "org": "FRCS Family Service Centre",
+      "name": "Ju Zheng Yang",
+      "email": "zhengyang@frcsfsc.sg",
       "phone": [
-        "64546678",
-        "64578559"
+        "67799488ext62",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "09 Dec 2024"
+  },
+  {
+    "id": "140473",
+    "category": "Infant and Children Items",
+    "name": "Diaper and milk powder",
+    "description": "A Malay family needs XL size diaper for 2 children.In addition, the family also needssimilar -total comfort 1/2/3 milk powder. children's father is looking for job while mother needs to stay at home, taking care of the 2 children",
+    "specifications": "XL",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Ju Zheng Yang",
+      "email": "zhengyang@frcsfsc.sg",
+      "phone": [
+        "67799488ext62",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "09 Dec 2024"
+  },
+  {
+    "id": "140469",
+    "category": "Infant and Children Items",
+    "name": "Moony Air Fit Diaper Girl Pants",
+    "description": "Family has 3 children under the age of 6 years old. The 2 youngest in the family, aged 3 and 1 year old respectively are visually impaired.",
+    "specifications": "XXL (13 - 28kg) x 6packets & L (9 - 14kg) x 5packets",
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Lee Mei Yi",
+      "email": "meiyilee@rainbowcentre.org.sg",
+      "phone": [
+        "68179466",
+        "64752072"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3113,6 +3150,42 @@
     "date": "08 Nov 2024"
   },
   {
+    "id": "140477",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is the sole caregiver of wife who is ADL-dependent due to a traumatic brain injury and father to 3 children in secondary and primary school. Client is unable to work as he has to care/manage his wife's and children's needs.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2024"
+  },
+  {
+    "id": "140470",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave oven",
+    "description": "Client is a single mother caring for her primary school daughter. She is requesting for microwave oven so that her daughter can easily heat up food whenever she is hungry.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shannon Ong",
+      "email": "shannonong@fycs.org",
+      "phone": [
+        "69783488",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2024"
+  },
+  {
     "id": "140467",
     "category": "Electrical Home Appliances",
     "name": "Standing fan",
@@ -4348,23 +4421,6 @@
     "date": "11 Nov 2024"
   },
   {
-    "id": "140465",
-    "category": "Mobility Aids",
-    "name": "Walking stick",
-    "description": "An elderly with low income and mental health condition has broken her walking stick after a fall. She urgently needs a replacement for her next medical appointment. \nPlease contact social worker Tracy@97244034 on delivery arrangement. Thank you for your kindness and generosity.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Kreta Ayer",
-      "name": "Tracy Chua",
-      "email": "tracy.chua@montfortcare.org.sg",
-      "phone": [
-        "62746904"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Dec 2024"
-  },
-  {
     "id": "140387",
     "category": "Mobility Aids",
     "name": "Adjustable bed railing (bed guard)",
@@ -4381,24 +4437,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Dec 2024"
-  },
-  {
-    "id": "140359",
-    "category": "Mobility Aids",
-    "name": "Walking Stick",
-    "description": "Senior has pain in the legs and cannot walk and in need of a walking stick.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Cluster Support - Taman Jurong",
-      "name": "Aaron Cai",
-      "email": "yuxiang.c@ntuchealth.sg",
-      "phone": [
-        "94552302",
-        "62674197"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Dec 2024"
   },
   {
     "id": "140259",
@@ -4522,18 +4560,18 @@
     "date": "08 Nov 2024"
   },
   {
-    "id": "140444",
+    "id": "140468",
     "category": "Home Furnishing",
-    "name": "Queen Size Bed Frame & Mattress",
-    "description": "Client's mum suffered brain injury and is bedridden. Father is the main caregiver for his wife and his children, working adhoc delivery jobs to make ends meet. The family's current bed is very old, they would benefit from a new queen size bed and a bed frame for the parents to sleep on. Delivery should be covered by the donor.",
+    "name": "Cabinet for Stove Top",
+    "description": "Family has requested for a cabinet for their stove top. They stay in a 2-room rental unit and are looking for a space efficient furniture. As they are unable to afford a new piece of furniture they are requesting for a second hand item.",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Community Services - Youth GO!",
-      "name": "Jesse Chua",
-      "email": "youthgo@fycs.org",
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Sarrani Krishnan",
+      "email": "sarrani_krishnan@msf.gov.sg",
       "phone": [
-        "96286110",
-        "67622779"
+        "68678568",
+        "67660097"
       ]
     },
     "deliveryCostsCoveredByDonor": true,

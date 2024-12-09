@@ -34,6 +34,40 @@
     }
   },
   {
+    "id": "140474",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a full-time caregiver to her two young children. The family is living in a rental flat, with the husband being the sole breadwinner. Client will require assistance in getting diapers (Size M and XL - 2 packets each).",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Lee Jia Hui",
+      "email": "jiahui.lee@reach.org.sg",
+      "phone": [
+        "60271219",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140370",
+          "name": "Baby Girl Clothes and Diapers",
+          "description": "6-9months baby girl clothes, new toys and diapers",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139674",
     "category": "Infant and Children Items",
     "name": "Diapers",
