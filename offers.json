@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140454",
-    "name": "Refrigerator",
-    "description": "In good condition",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "nil",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140430",
     "name": "Sony TV",
     "description": "TV - more than 4 years but still working.",
@@ -64,6 +53,39 @@
     "dimensions": "As photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140461",
+    "name": "Biege coloured dining chair",
+    "description": "Six Biege dining chair - in very good condition to be given away.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "08 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "50 x 50 x 80 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140460",
+    "name": "Prayer Alter",
+    "description": "Cleaned out and ready to collect. \nNot disassembled",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140458",
+    "name": "Shelves",
+    "description": "items on shelf will be cleared.\ncleaned and ready for collection\nnot disassembled",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140456",
@@ -291,17 +313,6 @@
     "description": "Lightly used as book shelf.\nSome light stains on top\nWould appreciate collection",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "20 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "139947",
-    "name": "King Size Mattress",
-    "description": "King Size Mattress. More than 4 years but in good condition. Will deep clean mattress before deliver.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "24 Dec 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -768,6 +779,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140463",
+    "name": "Assorted Stationery (Foolscap Paper, Notebooks, Post-it)",
+    "description": "Assorted foolscap paper, graph paper, writing notebooks, post-it notes. Kept for some time; some are used, some are still sealed.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "140462",
+    "name": "Assorted Stationery",
+    "description": "Assorted stationery to give away.  Might be dusty as it has been kept for some time but still good to use.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140390",
