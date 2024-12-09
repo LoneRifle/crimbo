@@ -22,17 +22,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140389",
-    "name": "Dryer",
-    "description": "Good condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "16 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140310",
     "name": "Bosch dishwasher",
     "description": "Bosch dishwasher",
@@ -99,28 +88,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140437",
-    "name": "King Size Bed",
-    "description": "Comes with new pillows/protector",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": "180 x 200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140427",
-    "name": "Black Metal Storage Rack",
-    "description": "Bedroom Door W 80cm x H 201 cm\nBlack Rack L 120cm x H 200cm x W 48 cm",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "07 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "L 120cm x H 200cm x W 48 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140424",
     "name": "Dining Table",
     "description": "Glass adjustable Table",
@@ -128,17 +95,6 @@
     "validTill": "06 Jan 2025",
     "ageInYears": 4,
     "dimensions": "110 x 90 x 80",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140423",
-    "name": "Sofa bed 2 queen size",
-    "description": "Queen Size Sofa bed",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "06 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "150 x 90 x 90",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -779,6 +735,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140487",
+    "name": "IKEA DayBed with black metal frame and Single mattress",
+    "description": "Day bed with black metal frame and single size mattress. With pull out frame to fit another single size mattress to create queen size bed. With 2 pillows (optional to take)’",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "29 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "80cm x 200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "140479",
+    "name": "Toys",
+    "description": "Lego toys for boys aged 7 to 12 years old",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140463",
