@@ -433,50 +433,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "140419",
-          "name": "Single seater sofa",
-          "description": "Single seater sofa. Brown leatherette. Very comfortable. Well maintained.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "31 Dec 2024",
-          "ageInYears": 3,
-          "dimensions": "90cm by 90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140400",
-    "category": "Home Furnishing",
-    "name": "Dining Table",
-    "description": "Client is currently working as a student care teacher on an ad-hoc basis and is the main caregiver for her 7 children (12,10,8,6,5,3,2 years old). Her husband is currently incarcerated. The family is currently reliant on financial assistance to meet their basic needs as client has not been able to work regularly due to caregiving duties. The family’s dining table and sofa have spoiled and the family does not have sufficient financial resources to replace them.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140424",
-          "name": "Dining Table",
-          "description": "Glass adjustable Table",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "06 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "110 x 90 x 80",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -595,51 +551,6 @@
     }
   },
   {
-    "id": "140482",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "My male client, a 61-year-old, resides with his wife and son in a four-room flat in the Hougang area. He requires a slightly larger wheelchair for his medical appointments but is unable to afford one. If you have a suitable wheelchair to donate, please email lauleepai@fycs.org. Thank you for your kindness and generosity!",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Cluster Support (CCK/ Bukit Panjang)",
-      "name": "Lau Lee Pai",
-      "email": "lauleepai@fycs.org",
-      "phone": [
-        "62024699",
-        "68936606"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "139681",
-          "name": "Wheelchair",
-          "description": "Used Hoggi Wheelchair for kids with disabilities from 4-8yo.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": "To confirm - for age 8 kids with disabilities",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "140003",
-          "name": "Travel Wheelchair",
-          "description": "Used but in original condition",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "26 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140135",
     "category": "Mobility Aids",
     "name": "Wheelchair",
@@ -676,6 +587,17 @@
           "validTill": "26 Dec 2024",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140529",
+          "name": "Assure Rehab Wheelchair",
+          "description": "Like new, used only once.",
+          "location": null,
+          "validTill": "31 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": "H88 cm: L85cm: W56cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         }
