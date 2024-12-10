@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140544",
+    "name": "Mini Fridge",
+    "description": "Brand new mini fridge",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "44L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140430",
     "name": "Sony TV",
     "description": "TV - more than 4 years but still working.",
@@ -44,6 +55,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140542",
+    "name": "Bed frame",
+    "description": "Good as new, bed with headboard",
+    "location": null,
+    "validTill": "09 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "206x91.5x108",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140541",
+    "name": "Brand new Hospital Bed",
+    "description": "Collect by 30/12/2024",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "30 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140534",
+    "name": "Queen size mattress",
+    "description": "No bed frame",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140532",
     "name": "Queen size mattress",
     "description": "Lightly used guest bedroom queen size mattress. Can also provide a brand new frame if needed.",
@@ -51,17 +95,6 @@
     "validTill": "03 Jan 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140497",
-    "name": "Chair",
-    "description": "White squarish chair",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": "80x60x55",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -106,17 +139,6 @@
     "validTill": "04 Jan 2025",
     "ageInYears": 4,
     "dimensions": "nil",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140424",
-    "name": "Dining Table",
-    "description": "Glass adjustable Table",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "06 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "110 x 90 x 80",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -647,6 +669,17 @@
     "dimensions": "22x12x17cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "140543",
+    "name": "Foldable Walking frame",
+    "description": "Foldable walking frame, as good as new",
+    "location": null,
+    "validTill": "09 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "52x48x81",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "140530",
