@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140430",
-    "name": "Sony TV",
-    "description": "TV - more than 4 years but still working.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "13 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "675 x 511 x 242 mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140310",
     "name": "Bosch dishwasher",
     "description": "Bosch dishwasher",
@@ -42,6 +31,17 @@
     "dimensions": "As photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140581",
+    "name": "Super single thick mattress",
+    "description": "A super single size, thick mattress, have been using with bed sheet protector, so condition is still good to use for few more years",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "19 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": "Super single size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140560",
@@ -71,17 +71,6 @@
     "description": "No bed frame",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "15 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140532",
-    "name": "Queen size mattress",
-    "description": "Lightly used guest bedroom queen size mattress. Can also provide a brand new frame if needed.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Jan 2025",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -407,6 +396,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "140585",
+    "name": "Nan Supreme Pro Stage 3",
+    "description": "2 cans of Nan Supreme Pro Stage 3, 800g each, available to donate. Expiry date February 2025. I can deliver to any MRT station.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "10 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "140550",
     "name": "Kid's Toilet Bowl",
     "description": "Korean made kid's toilet bowl for potty training. It is in very good condition. Cleaned and sanitized.",
@@ -671,6 +671,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "140582",
+    "name": "WheelChair",
+    "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "10 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "140563",
     "name": "Commode wheels chair",
     "description": "Only used few times, very new in condition.",
@@ -801,6 +812,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140579",
+    "name": "VGA cable (3meter)",
+    "description": "Recycle this working VGA cable (3meter length)(suitable for laptop reflect images to monitor)",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "140578",
+    "name": "Chinese handwriting input pad",
+    "description": "Recycle this used Chinese handwriting input pad suitable for computer use.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140463",
