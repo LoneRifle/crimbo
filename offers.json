@@ -33,13 +33,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140595",
-    "name": "Super single bed and mattress",
-    "description": "Bed with mattress used for less than 6 months.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Dec 2024",
+    "id": "140603",
+    "name": "Queen size mattress",
+    "description": "A very clean queen size mattress \nComfortable.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Dec 2024",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140599",
+    "name": "TODDLER BED",
+    "description": "A nice toddler bed made from wood with super clean mattress. Original price is about 1k SGD.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "11 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "140*70*40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -73,6 +84,17 @@
     "validTill": "24 Dec 2024",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140600",
+    "name": "Bed frame",
+    "description": "Good as new, bed with headboard",
+    "location": null,
+    "validTill": "09 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "206x91.5x108",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
