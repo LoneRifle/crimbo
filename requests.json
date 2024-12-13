@@ -1,5 +1,22 @@
 [
   {
+    "id": "140661",
+    "category": "Infant and Children Items",
+    "name": "Wyeth S26 Gold Pro Infant Milk Formula - Stage 1",
+    "description": "Member is a 25 year old mother of 3, who just gave birth in August this year. Her husband is a 27 year old delivery rider who was just released from prison a few months ago. The family stays in a rental flat and are struggling to afford their newborn's milk powder, as he is only able to drink the S26 brands due to other brands giving him stomach issues.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Dec 2024"
+  },
+  {
     "id": "140651",
     "category": "Infant and Children Items",
     "name": "Infant Milk Powder & Diapers",
@@ -1873,23 +1890,6 @@
     "date": "10 Dec 2024"
   },
   {
-    "id": "140511",
-    "category": "Electrical Home Appliances",
-    "name": "Small Fridge",
-    "description": "Elderly couple who were homeless and had just moved into an HDB rental flat recently requires a small fridge.",
-    "specifications": null,
-    "contact": {
-      "org": "TRANS Family Service Centre (Bukit Timah)",
-      "name": "Cyrus Chua",
-      "email": "cyrus@trans.org.sg",
-      "phone": [
-        "64662287"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Dec 2024"
-  },
-  {
     "id": "140509",
     "category": "Electrical Home Appliances",
     "name": "Halal Fridge",
@@ -3088,41 +3088,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "13 Dec 2024"
-  },
-  {
-    "id": "140646",
-    "category": "Others",
-    "name": "Fresh Groceries",
-    "description": "Client has a special needs child and is unable to work. Client's savings have depleted and is struggling to afford her daily needs as husband is not providing. \n\nClient requires food rations to tide through this period:\n\nHalal food is required:\n\n1. Rice\n2. Cooking oil\n3. Frozen chicken thigh\n4. instant spices to cook chicken (e.g. dancing chef brand)\n5. kara coconut milk\n6. Any green leafy vegetables (Spinach,kangkong etc) \n7. Carrots\n8. Tomatoes\n9. Maggie instant noodle curry or chicken\n10. Any assorted biscuits\n11. Any instant/frozen food",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Too Xiu Hui",
-      "email": "tooxiuhui@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Dec 2024"
-  },
-  {
-    "id": "140608",
-    "category": "Others",
-    "name": "Tena Adult Proskin Pants",
-    "description": "Client is a 21-year-old male who was diagnosed with cancer. He is currently going through palliative care and is bed-bound. His mother is the primary caregiver and his father has recently quit his job due to health issues. As he is bed-bound, he would need to wear adult diapers on a daily basis, size XL.",
-    "specifications": "Size XL",
-    "contact": {
-      "org": "AIN Society",
-      "name": "Norhashimah Binti Kamarudin",
-      "email": "shimah@ainsociety.org.sg",
-      "phone": [
-        "68485163",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Dec 2024"
   },
   {
     "id": "140606",
@@ -5049,18 +5014,72 @@
     "date": "15 Nov 2024"
   },
   {
-    "id": "140655",
+    "id": "140665",
     "category": "Home Furnishing",
-    "name": "Door curtain (for typical HDB bathrooms)",
-    "description": "The client, in his 50s, unemployed, is legally recognized as a vulnerable adult due to his cognitive limitations. He resides with his brother, who is suspected to have an intellectual disability and holds a low-wage job. The brothers receive little to no support from family and friends. The bathroom’s bright-colored curtain is torn and needs replacement, and the bathroom door is also faulty. Besides, the curtain will help to block the smell and sight of the restroom, both of which can affect client's comfort level in the house",
-    "specifications": "198cm x 106cm",
+    "name": "Pillow cases and bedsheets",
+    "description": "Client lives in a rental flat with her 8 children (aged 1-10) and husband. Parents are unable to work due to children's caregiving needs and client's poor health from her multiple pregnancies. Family is fully reliant on financial assistance. Children all sleep on mattresses in the hall, however their mattresses have become dirty and worn out over the years and parents are unable to afford new ones. Family would like to request for 6 mattresses and mattress sheets.",
+    "specifications": null,
     "contact": {
-      "org": "Filos Community Services Ltd",
-      "name": "Beanie Lin",
-      "email": "siewching.lin@filos.sg",
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
       "phone": [
-        "88636938",
-        "62425978"
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Dec 2024"
+  },
+  {
+    "id": "140664",
+    "category": "Home Furnishing",
+    "name": "Single bed mattress",
+    "description": "Client lives in a rental flat with her 8 children (aged 1-10) and husband. Parents are unable to work due to children's caregiving needs and client's poor health from her multiple pregnancies. Family is fully reliant on financial assistance. Children all sleep on mattresses in the hall, however their mattresses have become dirty and worn out over the years and parents are unable to afford new ones. Family would like to request for 6 mattresses and mattress sheets.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Dec 2024"
+  },
+  {
+    "id": "140663",
+    "category": "Home Furnishing",
+    "name": "2-door wardrobe",
+    "description": "Client lives in a rental flat with her 8 children (aged 1-10) and husband. Parents are unable to work due to children's caregiving needs and client's poor health from her multiple pregnancies. Family is fully reliant on financial assistance.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Dec 2024"
+  },
+  {
+    "id": "140662",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client is single-handedly raising/managing her 2 school-going daughters and faces financial constraints in view of her multiple responsibilities and health conditions. Family is looking for a cupboard to store clothes as the current one is breaking.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shena Tan",
+      "email": "shenatan@fycs.org",
+      "phone": [
+        "69782982",
+        "65690381"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -5241,24 +5260,6 @@
       "phone": [
         "89487114",
         "65442263"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Dec 2024"
-  },
-  {
-    "id": "137964",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "Beneficiary is visually impaired, was previously homeless but now has secured a rental unit for his family, including his 8-year-old son and foreign wife. Due to his medical condition,he is currently unemployed, and they require essential household items to ease their financial burden.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -6094,24 +6095,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Dec 2024"
-  },
-  {
-    "id": "140540",
-    "category": "Mobility Aids",
-    "name": "Quad Walking Stick",
-    "description": "Client is the sole bread winner of the family as both his wife and son are stroke patients. Requesting walking stick for wife as she is not able to walk independently without a mobility aid and is currently borrowing her son's walking stick (who also requires for his mobility).",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Dec 2024"
   },
   {
     "id": "140539",
