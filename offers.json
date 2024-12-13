@@ -44,6 +44,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140660",
+    "name": "Single size spring mattress",
+    "description": "good and clean condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "186cm x 86cm x 13cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140652",
+    "name": "Study table",
+    "description": "Study table",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "120 cm x 75 cm x 70 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140648",
     "name": "Single size bed with mattress",
     "description": "Single size bed and mattress. Used one.",
@@ -407,6 +429,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "140657",
+    "name": "playmat 220*140cm",
+    "description": "kids playmat",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "12 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "220 * 140cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "140550",
     "name": "Kid's Toilet Bowl",
     "description": "Korean made kid's toilet bowl for potty training. It is in very good condition. Cleaned and sanitized.",
@@ -435,17 +468,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "25 Dec 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140518",
-    "name": "Capella Stroller",
-    "description": "Lightly used",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "25 Dec 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -548,6 +570,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "140649",
+    "name": "Aibi Exercise Bike",
+    "description": "Exercise bike in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "70 cm x 50 cm x 170 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "140515",
@@ -801,6 +834,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140656",
+    "name": "FREE electrical & plumbing work for elderly",
+    "description": "FREE electrical (sockets, wiring, change to LED light, etc) and Plumbing (shower kits, water sink leakage, etc) for stay-alone elderly",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "12 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140579",
