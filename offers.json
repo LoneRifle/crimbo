@@ -44,8 +44,19 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140648",
+    "name": "Single size bed with mattress",
+    "description": "Single size bed and mattress. Used one.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "180 cm x 100 cm x 70 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140639",
-    "name": "Daniel Guan Teck Teo",
+    "name": "King sized bed frame without mattress",
     "description": "King sized bed frame without mattress",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "24 Dec 2024",
@@ -106,17 +117,6 @@
     "validTill": "11 Jan 2025",
     "ageInYears": 2,
     "dimensions": "140*70*40",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140587",
-    "name": "Good quality Black Rosewood Furniture, with green marble (5 Chairs, 1 long table). It comes with seat cushions.",
-    "description": "Good quality Black Rosewood Furniture, with green marble (5 Chairs, 1 long table). It comes with seat cushions.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -506,6 +506,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "140645",
+    "name": "Stainless steel mug",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "12 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "140371",
     "name": "Rice Cooker",
     "description": "1.8L Rice Cooker",
@@ -658,6 +669,17 @@
     "dimensions": "22x12x17cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "140647",
+    "name": "Electric hoist",
+    "description": "Elderly family is giving away a electric hoist which was hardly used as they are moving to a small flat by end Dec 24. Please arrange your own transport. Thanks.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "140582",
