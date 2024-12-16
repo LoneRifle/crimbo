@@ -33,6 +33,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "140701",
+    "name": "2.5 seater Sofa",
+    "description": "White pre-loved sofa in good condition. Adjustable head rest.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "2.1m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "140694",
     "name": "Ikea NORDLI Bed frame with storage, white, 160x200 cm",
     "description": "Storage space under the bed in 6 large soft-closing drawers.  Fits mattresses 150-160 cm wide and up to 202 cm long.\n\nHeight of drawer (inside): 16 cm\nLength: 202 cm\nWidth: 160 cm\nHeight: 30 cm\nWidth of drawer (inside): 58 cm\nDepth of drawer (inside): 51 cm\nMattress length: 200 cm\nMattress width: 160 cm\n\nIkea Article number 803.498.50",
@@ -128,17 +139,6 @@
     "validTill": "10 Jan 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140666",
-    "name": "2-SEATER SOFA",
-    "description": "Grey\nFaux leather\nIncludes 4 cushions\nFirm - customized for my back pains",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "1.6M L x 80M D",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -363,7 +363,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140332",
+    "id": "140704",
+    "name": "IKEA Bookshelf",
+    "description": "Lightly used as book shelf.\nSome light stains on top\nWould appreciate collection",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140705",
     "name": "IKEA Bookshelf",
     "description": "Lightly used as book shelf.\nSome light stains on top\nWould appreciate collection",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -394,6 +405,50 @@
     "dimensions": "L85CM X 140CM x 75CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "140707",
+    "name": "Baby Walker",
+    "description": "Very good condition baby walker",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "140706",
+    "name": "Stroller",
+    "description": "Lightweight baby stroller",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "24 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "140703",
+    "name": "Napitol Diaper Rash Cream",
+    "description": "These are antiseptic diaper creams, I think elderly using diapers can use them too.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "21 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "140699",
+    "name": "Kid wooden chairs",
+    "description": "Na",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "20 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "140676",
@@ -583,6 +638,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "140702",
+    "name": "Adult Diapers",
+    "description": "Adult diapers.",
+    "location": null,
+    "validTill": "15 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "140681",
     "name": "Oxygen Concentrator Machine",
     "description": "Oxygen Concentrator machine with original manual and box.",
@@ -660,12 +726,12 @@
     "category": "Medical Aids"
   },
   {
-    "id": "140680",
-    "name": "Wheel Chair",
-    "description": "Wheel chair with foldable handles, foot rest and removable padded seat and back rest for washing.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "13 Jan 2025",
-    "ageInYears": 3,
+    "id": "140708",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed (wheels and control recently replaced)",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -803,11 +869,11 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "140685",
-    "name": "Paracetamol",
-    "description": "Paracetamol Expiry Apr 2027",
+    "id": "140696",
+    "name": "Stationery",
+    "description": "Stationery",
     "location": null,
-    "validTill": "31 Dec 2024",
+    "validTill": "20 Dec 2024",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
