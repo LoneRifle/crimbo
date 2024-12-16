@@ -132,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140671",
-    "name": "Bed frame with mattress (double)",
-    "description": "seldom used bed. for guests only. average use 4 times (of 1 week) in a year",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "20 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "209cm x 166cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140668",
     "name": "Children Study Chair with Wheels",
     "description": "Children Study Chair with wings and wheel",
@@ -713,6 +702,28 @@
     "dimensions": "22x12x17cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "140724",
+    "name": "Walker",
+    "description": "Nearly new foldable walker w wheels.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140723",
+    "name": "Commode Chair",
+    "description": "Nearly brand new commode chair w wheels, adjustable arms.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "140708",
