@@ -67,39 +67,6 @@
     }
   },
   {
-    "id": "139674",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Family of 4 are financially unstable, and require support to ensure that their children have a regular supply of milk powder.",
-    "specifications": "Drypantz L & 3XL",
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Elijah Koh",
-      "email": "elijahkoh@kkcs.org.sg",
-      "phone": [
-        "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140352",
     "category": "Electrical Home Appliances",
     "name": "Oven",
@@ -149,40 +116,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "139656",
-    "category": "Others",
-    "name": "Diapers",
-    "description": "Client's father had a recent relapse of cancer and will be starting on chemo therapy next year. He was diagnosed with colon cancer in 2018 and underwent an operation to remove part of the colon that remove the cancerous cells. As such, he will need to be on diapers to manage his toileting. Client is working as a part-time porter at a hospital, having to manage the caregiving of her elderly parents (Aged 76 and 78). Because of client's low education background, she is stuck in lower waged work. As she is the main caregiver for her parents, she neeeds to engage in part-time employment in order to ensure parents are still being cared for. Her mother is also elderly in age and is weaker in her joints and limbs, unable to move around without assistance/walking frame. Client has applied for comcare assistance for financial support. While waiting for the approval, diapers for client's father will help to defray some household expenses while client continues to manage work alongside her caregiving duties.",
-    "specifications": "16 packs - Adult Diapers Tena M sized, Tape",
-    "contact": {
-      "org": "Touch Community Services - Touch Family Enablement",
-      "name": "Neo Xiao Hui",
-      "email": "xioahui.neo@touch.org.sg",
-      "phone": [
-        "63179990",
-        "63770122"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Nov 2024",
     "matches": {
       "passiton": [
         {
@@ -302,6 +235,39 @@
     }
   },
   {
+    "id": "140135",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client comes from a low-income family. He is an above-knee bilateral amputee and would require a 4-wheeler motorised Personal Mobility Aid (PMA) to travel around for his medical appointments and to seek employment.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140582",
+          "name": "WheelChair",
+          "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "10 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140628",
     "category": "Home Furnishing",
     "name": "Bookshelf",
@@ -408,39 +374,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140135",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client comes from a low-income family. He is an above-knee bilateral amputee and would require a 4-wheeler motorised Personal Mobility Aid (PMA) to travel around for his medical appointments and to seek employment.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore After Care Association",
-      "name": "Lin Mingjie",
-      "email": "mingjie@saca.org.sg",
-      "phone": [
-        "62942350"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140582",
-          "name": "WheelChair",
-          "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "10 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
