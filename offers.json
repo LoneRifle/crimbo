@@ -66,13 +66,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140771",
-    "name": "Queen bed",
-    "description": "used bed frame with mattress",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "02 Jan 2025",
+    "id": "140801",
+    "name": "Mattress king size with cover protector & bedsheets",
+    "description": "Mattress king size with cover protector & bedsheets, no bed frame",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "17 Jan 2025",
     "ageInYears": 4,
-    "dimensions": "1905x 1525x 1067",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140797",
+    "name": "Queen size Duvet /Quilt",
+    "description": "Jean Perry Queen size duvet/quilt \nUsed once only \nWashed and in very good condition \n\nCollect this anytime",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "04 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "200cm x 200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140792",
+    "name": "Single-size Divan bed frame c/w Mattress",
+    "description": "Single-size Divan bed frame & mattress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "17 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "L191cm x W94cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -106,17 +128,6 @@
     "validTill": "16 Jan 2025",
     "ageInYears": 1,
     "dimensions": "80cm diameter by 75cm tall",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140717",
-    "name": "Queen size bedframe with storage",
-    "description": "Queen sized bed frame with storage, almost perfect condition, about 1 year of use.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "20 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -304,17 +315,6 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 2,
     "dimensions": "122x70x70 (cm)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140458",
-    "name": "Shelves",
-    "description": "items on shelf will be cleared.\ncleaned and ready for collection\nnot disassembled",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "nil",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -605,6 +605,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "140791",
+    "name": "Fresubin Protein Energy Drink 200ml (Tropical Fruits Flavour) - EXP 04/2025 x 40 bottles Fresubin Protein Energy Drink 200ml (Vanilla Flavour) - EXP 09/2025 x 47 bottles Resource Fruit Apple Flavour x 4 bottles",
+    "description": "Fresubin Protein Energy Drink 200ml (Tropical Fruits Flavour) - EXP 04/2025 x 40 bottles\nFresubin Protein Energy Drink 200ml (Vanilla Flavour) - EXP 09/2025 x 47 bottles\nResource Fruit Apple Flavour x 4 bottles",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "140702",
     "name": "Adult Diapers",
     "description": "Adult diapers.",
@@ -766,17 +777,6 @@
     "validTill": "09 Jan 2025",
     "ageInYears": 2,
     "dimensions": "52x48x81",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "140712",
-    "name": "Walking stick",
-    "description": "Like new. Rarely used.",
-    "location": "Woodlands",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "Adjustable",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
