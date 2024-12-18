@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140773",
+    "name": "washing machines w Dryer 6kg",
+    "description": "used washing machines with Dryer 6kg",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "02 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "85x60x50",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140737",
     "name": "Mistral Standing Fan 18”",
     "description": "Used standing fan that is still in working condition",
@@ -53,6 +64,28 @@
     "dimensions": "As photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140771",
+    "name": "Queen bed",
+    "description": "used bed frame with mattress",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "02 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "1905x 1525x 1067",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "140770",
+    "name": "Single Bed",
+    "description": "used single bed frame with mattress",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "02 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "200x 91 x 95",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140751",
@@ -110,17 +143,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140691",
-    "name": "Extendable rack",
-    "description": "New rack. Width 48cm x 32cm height x 67cm extendable to 88cm. Self-assembly. Self-collection at home address.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "14 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140688",
     "name": "Preloved dining chairs",
     "description": "3x Preloved dining chairs - grey color (leather).",
@@ -139,17 +161,6 @@
     "validTill": "05 Jan 2025",
     "ageInYears": 4,
     "dimensions": "200x150cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140686",
-    "name": "5 tier book shelf and study table",
-    "description": "Best if you can collect both the self and study table  \n\nPlease call or WhatsApp me.",
-    "location": "Stevens ",
-    "validTill": "05 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": "Shelf -180x60x24cm, table -100x75x35cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,17 +352,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140196",
-    "name": "LAUNDRY HANGER",
-    "description": "Laundry hanger to dry clothes either indoors or outdoors. Item is used less than two years. Will cover delivery.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "22 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": "133x86x154cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140384",
     "name": "Table",
     "description": "A stable, wide n good-condition study table to give away. \nFind it too big for my bedroom. \nFeel free to contact me if you have any clients happen to need a study table.",
@@ -394,17 +394,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "140760",
-    "name": "Desiring diaper cream",
-    "description": "Desitin diaper cream\n- daily defence (BLUE box) x4; expiry Jul 2026\n- maximum strength (PURPLE box) x2; expiry Jul 2025",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "16 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "140741",
@@ -788,6 +777,28 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 1,
     "dimensions": "Adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140774",
+    "name": "Commode- (toilet bathing chair)",
+    "description": "Like new. Used for 1 month.",
+    "location": "Woodlands",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "H92cm; L40cm; W50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140775",
+    "name": "Commode- (toilet bathing chair)",
+    "description": "Like new. Used for 1 month.",
+    "location": "Woodlands",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "H92cm; L40cm; W50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
