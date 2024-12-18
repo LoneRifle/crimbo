@@ -22,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140814",
+    "name": "mini rice cooker",
+    "description": "green, brand new and unopened",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "01 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140813",
+    "name": "Washing Machine",
+    "description": "Washing Machine, unused and in good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "27 Dec 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140773",
     "name": "washing machines w Dryer 6kg",
     "description": "used washing machines with Dryer 6kg",
@@ -29,17 +51,6 @@
     "validTill": "02 Jan 2025",
     "ageInYears": 4,
     "dimensions": "85x60x50",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "140737",
-    "name": "Mistral Standing Fan 18”",
-    "description": "Used standing fan that is still in working condition",
-    "location": null,
-    "validTill": "31 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "Height - 87cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -64,6 +75,17 @@
     "dimensions": "As photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140806",
+    "name": "Grey Couch and Coffee Table",
+    "description": "used grey couch still in good condition\nwhite coffee table with wheels and lower shelf.  good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "200 x 90 x 90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "140801",
@@ -117,17 +139,6 @@
     "validTill": "24 Dec 2024",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140739",
-    "name": "Wooden table",
-    "description": "Round wooden dining table, can fit 6",
-    "location": null,
-    "validTill": "16 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "80cm diameter by 75cm tall",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -394,6 +405,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "140802",
+    "name": "Baby Playpen",
+    "description": "Lightly used playpen for my nephews and nieces. Playpen is in good condition, used for 2 years.",
+    "location": null,
+    "validTill": "17 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "150cm by 180cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "140741",
