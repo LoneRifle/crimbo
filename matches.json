@@ -313,51 +313,6 @@
     }
   },
   {
-    "id": "140840",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "The client is a single mom of 2 young children and is currently pregnant. She is unemployed and only depends on Comcare financial assistance, which is insufficient for her family. She just moved to her new rental flat and needs a sofa and TV for her new house. She would appreciate it if a kind donor could help her with the items for her new house.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Joel Tay",
-      "email": "joeltay@allkin.org.sg",
-      "phone": [
-        "65536643",
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140701",
-          "name": "2.5 seater Sofa",
-          "description": "White pre-loved sofa in good condition. Adjustable head rest.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "15 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "2.1m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "140622",
-          "name": "3-Seater Leather Recliner Sofa with Cover!",
-          "description": "Upgrade your living space with this comfortable 3-seater leather recliner sofa, available for free! Used for 3 years, it features a reclining function for ultimate relaxation. The leather shows some wear, but a stylish cover is included to keep it looking fresh.\nCondition: Used, leather slightly worn\nFeatures: Recliner function, cover included\nCollection: Self-collection only \nGrab this opportunity to enhance your home at no cost! Contact me to arrange a pickup.",
-          "location": null,
-          "validTill": "31 Dec 2024",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140788",
     "category": "Home Furnishing",
     "name": "Dining Table",
@@ -385,6 +340,73 @@
           "dimensions": "130 x 80 x 74 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140342",
+    "category": "Home Furnishing",
+    "name": "Geriatric Chair",
+    "description": "Elderly client who is diagnosed with stroke requires geriatric chair for sleeping/sitting. Current geriatric chair has malfunction and he does not have the financial means to repair it. Client looking for a working condition which allows to recline.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Cluster Support - Taman Jurong",
+      "name": "Muhammad Azfar Bin Nazri",
+      "email": "muhammadazfar.b@ntuchealth.sg",
+      "phone": [
+        "62674197"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140857",
+          "name": "Geriatric chair",
+          "description": "item was being use less than 3 months. Wish to donate out to the less fortunate people who needs it more. Thank you",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "18 Jan 2025",
+          "ageInYears": 1,
+          "dimensions": "height 120mm x width 60mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140289",
+    "category": "Home Furnishing",
+    "name": "Geriatric Chair",
+    "description": "Elderly advance-stage cancer patient with multiple co-morbidities is in need of replacement geriatric chair as current chair has faulty wheel-locks and worn out due to daily use and wear and tear.\n\nFamily is in need as son is the only breadwinner.",
+    "specifications": "Manual Mobile Recliner Geriatric Chair with Tray",
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Tok Shou Hsien",
+      "email": "tok_shouhsien@singaporecancersociety.org.sg",
+      "phone": [
+        "80282098",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140857",
+          "name": "Geriatric chair",
+          "description": "item was being use less than 3 months. Wish to donate out to the less fortunate people who needs it more. Thank you",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "18 Jan 2025",
+          "ageInYears": 1,
+          "dimensions": "height 120mm x width 60mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
