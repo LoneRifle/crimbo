@@ -100,40 +100,6 @@
     }
   },
   {
-    "id": "140836",
-    "category": "Electrical Home Appliances",
-    "name": "Kettle",
-    "description": "Family of 3 on ComCare assistance requires a replacement of their boiling kettle.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140844",
-          "name": "Electric Kettle",
-          "description": "Good working condition \nPlease pick up in Redhill area",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "18 Jan 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140352",
     "category": "Electrical Home Appliances",
     "name": "Oven",
@@ -246,95 +212,6 @@
     }
   },
   {
-    "id": "139735",
-    "category": "Medical Aids",
-    "name": "Adult diapers",
-    "description": "An elderly woman is taking care of her husband, who has dementia and has suffered a mild stroke, leading to incontinence. As a result, he needs frequent diaper changes every day. Unfortunately, they are both unemployed and struggling financially. The woman is kindly asking for help in getting FairPrice XL-sized adult diapers pants, as the ongoing expense has become a significant burden for them.",
-    "specifications": "XL",
-    "contact": {
-      "org": "Fei Yue Community Services - Mental Health",
-      "name": "Chris Tan",
-      "email": "tanyonghong@fycs.org",
-      "phone": [
-        "96424877",
-        "64712022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140135",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client comes from a low-income family. He is an above-knee bilateral amputee and would require a 4-wheeler motorised Personal Mobility Aid (PMA) to travel around for his medical appointments and to seek employment.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore After Care Association",
-      "name": "Lin Mingjie",
-      "email": "mingjie@saca.org.sg",
-      "phone": [
-        "62942350"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140582",
-          "name": "WheelChair",
-          "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "10 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "140875",
-          "name": "Detachable wheelchair",
-          "description": "Wheelchair use for 2 years",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "18 Jan 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "140821",
-          "name": "Light weight wheelchair",
-          "description": "No problem with wheelchair function",
-          "location": "SengKang",
-          "validTill": "31 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140342",
     "category": "Home Furnishing",
     "name": "Geriatric Chair",
@@ -396,6 +273,61 @@
           "dimensions": "height 120mm x width 60mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140135",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client comes from a low-income family. He is an above-knee bilateral amputee and would require a 4-wheeler motorised Personal Mobility Aid (PMA) to travel around for his medical appointments and to seek employment.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140582",
+          "name": "WheelChair",
+          "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "10 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140875",
+          "name": "Detachable wheelchair",
+          "description": "Wheelchair use for 2 years",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "18 Jan 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140821",
+          "name": "Light weight wheelchair",
+          "description": "No problem with wheelchair function",
+          "location": "SengKang",
+          "validTill": "31 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
