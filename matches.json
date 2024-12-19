@@ -187,6 +187,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "140872",
+          "name": "Oxygen Concentrator",
+          "description": "It's an working Oxygen Concentrator used for people whom has difficulty in breathing and has been advised by doctor to use the machine for relax breathing.New tubes available too",
+          "location": null,
+          "validTill": "18 Jan 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
           "id": "140681",
           "name": "Oxygen Concentrator Machine",
           "description": "Oxygen Concentrator machine with original manual and box.",
@@ -307,39 +318,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140788",
-    "category": "Home Furnishing",
-    "name": "Dining Table",
-    "description": "Client is a single mother to 4 school-going children. Client and her children were seeking accommodation at her parent's residence whilst she was undergoing divorce proceedings. Client had to forgo her job in order to navigate\nsettling her divorce and managing the caregiving needs of the children and was dependent on community agencies in sustaining the basic needs of the family. Client recently secured a HDB rental flat following finalisation of her divorce and hopes to seek support in securing preloved essential household items for her new home. Client is in the midst of exploring job opportunities and at present has scarce financial resources for furnishing her new home.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Sabrina Than",
-      "email": "sabrinathan@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140621",
-          "name": "Wood dining table",
-          "description": "Wooden & sturdy dining table. But too big for my small flat & I am stayimg alone.",
-          "location": null,
-          "validTill": "11 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": "130 x 80 x 74 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
