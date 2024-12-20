@@ -1,105 +1,5 @@
 [
   {
-    "id": "140361",
-    "category": "Others",
-    "name": "Adult diapers",
-    "description": "Frail senior needs diapers as he is unable to walk quickly to the toilet in time and often soils himself.",
-    "specifications": "M size",
-    "contact": {
-      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-      "name": "Kei Ng",
-      "email": "ngkhuankungkei@allkin.org.sg",
-      "phone": [
-        "64510898"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140644",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Hi, there is a household of 6 who requires diapers for 2 of their young children. Husband is certified temporarily unfit for work as he is required to be the main caregiver for his wife and children. Wife was a victim of a scam which led to huge financial losses. With their lack of income and financial strain, they would require diaper support for the children. Here are the diaper details: Diapers Type 1\nBrand: Merries\nSize: XL\nType: Pants, \n\nDiapers Type 2\nBrand: Merries \nSize: XXL \nType: Pants\n\nThank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Joyous Chai",
-      "email": "joyouschai@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140474",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is a full-time caregiver to her two young children. The family is living in a rental flat, with the husband being the sole breadwinner. Client will require assistance in getting diapers (Size M and XL - 2 packets each).",
-    "specifications": null,
-    "contact": {
-      "org": "REACH Family Service Centre",
-      "name": "Lee Jia Hui",
-      "email": "jiahui.lee@reach.org.sg",
-      "phone": [
-        "60271219",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140352",
     "category": "Electrical Home Appliances",
     "name": "Oven",
@@ -179,33 +79,55 @@
     }
   },
   {
-    "id": "140023",
-    "category": "Medical Aids",
-    "name": "Adult diapers",
-    "description": "Client is an elderly man with various medical health conditions preventing him from being able to manage activities such as going to the toilet without support from his son. \n\nAs such, he is reliant on adult diapers and we would like to request for any amount of diapers possible to assist as the family is facing financial difficulties. Client is not particular with brand.",
-    "specifications": "XL pants",
+    "id": "140920",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Family, consists of parents and four young children (aged 6 months to 4 years), is facing financial difficulties. They currently reside in a 1-room HDB rental flat. The father is unable to work due to spinal issues, as supported by a doctor’s memo, while the mother serves as the primary caregiver. They are in the midst of moving to a 2-room flat and need assistance with their refurbishment. The family is unable to afford on the home furnishing items due to their financial constraints. Your support would greatly help them during this challenging period.",
+    "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Muhammad Redha Bin Ahmad Razif",
-      "email": "redhamuhammad@carecorner.org.sg",
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
       "phone": [
-        "64761481"
+        "63254753"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "26 Nov 2024",
+    "date": "20 Dec 2024",
     "matches": {
       "passiton": [
         {
-          "id": "140702",
-          "name": "Adult Diapers",
-          "description": "Adult diapers.",
-          "location": null,
-          "validTill": "15 Jan 2025",
-          "ageInYears": 1,
+          "id": "140858",
+          "name": "Sofa",
+          "description": "Can sit up to 5 paxs",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "18 Jan 2025",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140701",
+          "name": "2.5 seater Sofa",
+          "description": "White pre-loved sofa in good condition. Adjustable head rest.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "15 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": "2.1m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "140622",
+          "name": "3-Seater Leather Recliner Sofa with Cover!",
+          "description": "Upgrade your living space with this comfortable 3-seater leather recliner sofa, available for free! Used for 3 years, it features a reclining function for ultimate relaxation. The leather shows some wear, but a stylish cover is included to keep it looking fresh.\nCondition: Used, leather slightly worn\nFeatures: Recliner function, cover included\nCollection: Self-collection only \nGrab this opportunity to enhance your home at no cost! Contact me to arrange a pickup.",
+          "location": null,
+          "validTill": "31 Dec 2024",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
