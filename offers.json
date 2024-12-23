@@ -110,17 +110,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140948",
-    "name": "Wooden TV CONSOLE",
-    "description": "Walnut and cream color wooden TV console. A well-maintained and working condition drawers used TV console.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "15 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "W40 x L180 x H56.5",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140946",
     "name": "Bed frame and mattress",
     "description": "9months old Queen size bed frame with mattress. Not a storage bed.\nNo covering of delivery, self collection only",
@@ -161,17 +150,6 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 4,
     "dimensions": "47cm x 49cm x 29cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140921",
-    "name": "Queen Size Bed with Matress",
-    "description": "Queen size bed with mattress in good condtion. Available for collection from Monday to Saturday 9am to 6pm.\n\nWe can pay for collection fee but please arrange for transport as we have no contacts for this.",
-    "location": "Tampines",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": "2.1m x 1.53m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -517,7 +495,18 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "140741",
+    "id": "140971",
+    "name": "Friso Stage 4",
+    "description": "I have 2 cans of Friso stage 4 (900g each) available to donate. I can deliver to any MRT station. Expiry date March 2025.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "16 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "900g",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "140972",
     "name": "Friso Stage 4",
     "description": "I have 2 cans of Friso stage 4 (900g each) available to donate. I can deliver to any MRT station. Expiry date March 2025.",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
