@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "140952",
-    "name": "Front load washing machine (8kg)",
-    "description": "Fisher and paykel front load washing g machine for 8kg load. I have this for 5 yrs and never experience any problem and good for 2 person. I also do bimonthly tumble cleaning so it's very clean. Going to upgrade to a higher load as my family expanded therefore giving away this washing machine",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "(H) 85 (w)60 (d)65cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140943",
     "name": "Microwave oven",
     "description": "Can be used for simmering,  reheat and braising. \nAlso can used to defrost.",
@@ -40,6 +29,17 @@
     "validTill": "14 Jan 2025",
     "ageInYears": 4,
     "dimensions": "46(L) X 34(B) X 24(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140959",
+    "name": "Elba Freestanding Cook - Gas Ovem",
+    "description": "Hardly used Gas Stove Oven.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "W865 x H880 x D535mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -117,17 +117,6 @@
     "validTill": "15 Jan 2025",
     "ageInYears": 4,
     "dimensions": "W40 x L180 x H56.5",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140932",
-    "name": "Cabinet with Sliding Door",
-    "description": "From ikea and lightly used for 2 years.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 2,
-    "dimensions": "80 (L) x 55 (W) x 180cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -227,17 +216,6 @@
     "validTill": "27 Dec 2024",
     "ageInYears": 4,
     "dimensions": "No Dimension",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140858",
-    "name": "Sofa",
-    "description": "Can sit up to 5 paxs",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "18 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -396,17 +374,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140600",
-    "name": "Bed frame",
-    "description": "Good as new, bed with headboard",
-    "location": null,
-    "validTill": "09 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": "206x91.5x108",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140541",
     "name": "Brand new Hospital Bed",
     "description": "Collect by 30/12/2024",
@@ -460,6 +427,17 @@
     "dimensions": "110cmLx26cmW",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "140962",
+    "name": "Flash cards",
+    "description": "Very old flash cards",
+    "location": null,
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "140944",
@@ -765,17 +743,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "17 Jan 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "140681",
-    "name": "Oxygen Concentrator Machine",
-    "description": "Oxygen Concentrator machine with original manual and box.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "13 Jan 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
