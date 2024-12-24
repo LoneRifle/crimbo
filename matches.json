@@ -200,5 +200,38 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "140984",
+    "category": "Kitchen Utility Items",
+    "name": "Blender",
+    "description": "Family, consists of parents and four young children (aged 6 months to 4 years), is facing financial difficulties. They currently reside in a 1-room HDB rental flat. The father is unable to work due to spinal issues, as supported by a doctor’s memo, while the mother serves as the primary caregiver. They are in the midst of moving to a 2-room flat and need assistance with their refurbishment. The family is unable to afford on expenses on the appliances due to their financial constraints. Your support would greatly help them during this challenging period.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140008",
+          "name": "Mayer Blender Jar with Grinder",
+          "description": "brand new in box",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "26 Dec 2024",
+          "ageInYears": 1,
+          "dimensions": "L168*W162*H370mm, 1L capacity",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
