@@ -699,40 +699,6 @@
     }
   },
   {
-    "id": "138934",
-    "category": "Electrical Home Appliances",
-    "name": "Blender",
-    "description": "VOX @ Children's Society requires a Blender with no preference of brands. They required these for their cooking programme for our youths. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140008",
-          "name": "Mayer Blender Jar with Grinder",
-          "description": "brand new in box",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "L168*W162*H370mm, 1L capacity",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140357",
     "category": "Medical Aids",
     "name": "Oxygen Concentrator",
@@ -761,6 +727,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140135",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client comes from a low-income family. He is an above-knee bilateral amputee and would require a 4-wheeler motorised Personal Mobility Aid (PMA) to travel around for his medical appointments and to seek employment.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Nov 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140582",
+          "name": "WheelChair",
+          "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "10 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -828,72 +827,6 @@
           "dimensions": "height 120mm x width 60mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140135",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client comes from a low-income family. He is an above-knee bilateral amputee and would require a 4-wheeler motorised Personal Mobility Aid (PMA) to travel around for his medical appointments and to seek employment.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore After Care Association",
-      "name": "Lin Mingjie",
-      "email": "mingjie@saca.org.sg",
-      "phone": [
-        "62942350"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Nov 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140582",
-          "name": "WheelChair",
-          "description": "Wheelchair is older than 4 years old. is the heavier metal model. bought a replacement lighter model for my mom and thus have this as a spare sitting in the storeroom. \n\nitem is still good condition with the basic function still working. (brakes, seats, footrest etc)",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "10 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140984",
-    "category": "Kitchen Utility Items",
-    "name": "Blender",
-    "description": "Family, consists of parents and four young children (aged 6 months to 4 years), is facing financial difficulties. They currently reside in a 1-room HDB rental flat. The father is unable to work due to spinal issues, as supported by a doctor’s memo, while the mother serves as the primary caregiver. They are in the midst of moving to a 2-room flat and need assistance with their refurbishment. The family is unable to afford on expenses on the appliances due to their financial constraints. Your support would greatly help them during this challenging period.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Kelly Lim",
-      "email": "kelly.lim@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140008",
-          "name": "Mayer Blender Jar with Grinder",
-          "description": "brand new in box",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Dec 2024",
-          "ageInYears": 1,
-          "dimensions": "L168*W162*H370mm, 1L capacity",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
