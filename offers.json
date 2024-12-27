@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141092",
+    "name": "memory foam pillow",
+    "description": "brand new pillow",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "27 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "pillow",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141078",
     "name": "Queen sized mattress seahorse brand",
     "description": "Lightly used queen sized mattress - seahorse brand. No stain no damage. Used by child. Available for pick up from my place from 28 Dec 2024. Picture attached shows mattress with cover on.",
@@ -682,15 +693,26 @@
     "category": "Medical Aids"
   },
   {
-    "id": "140101",
-    "name": "Coloplast Stoma Bags",
-    "description": "10 brand new stoma bags",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 1,
+    "id": "141091",
+    "name": "Comot x 1 item (Black)",
+    "description": "Comot x 1 item, Black",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "08 Jan 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141090",
+    "name": "Manual Wheelchair x 3 sets",
+    "description": "3 sets of standard wheelchairs up for donation.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "08 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "141069",
@@ -843,28 +865,6 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "140339",
-    "name": "75cm Grab Bar with Stand",
-    "description": "this is brand new support bar from Golden Concepts",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "75cm long",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "140341",
-    "name": "75cm Grab Bar with Stand",
-    "description": "this is brand new support bar from Golden Concepts",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 1,
-    "dimensions": "75cm long",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
