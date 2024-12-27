@@ -22,28 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "141057",
-    "name": "11kg top load washing machine with stainless steel drum",
-    "description": "LG WFT1181DD Direct Drive 11KG Top Load Washer",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "11 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "141050",
-    "name": "Toshiba Washing Machine",
-    "description": "The washing machine is fully functional. The outside (metal surfaces) show some rust and wear.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "88 H x 52 W  x 55 D",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140997",
     "name": "Aerogaz Induction Cooker (AZ-21iC)",
     "description": "Like New Aerogaz Induction Cooker for donation. Tested and works as it should.",
@@ -110,28 +88,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141060",
-    "name": "Queen size mattress and bedframe",
-    "description": "Queen sized bed frame with mattress",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "04 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": "190 x 152 x 60cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141061",
-    "name": "Wardrobe",
-    "description": "Wardrobe. In good condition. Items in wardrobe will be removed",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "15 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "120cm width by 50cm depth by 190height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141052",
     "name": "Desk with cupboard",
     "description": "This is a great piece of furniture for a schoolchild or simple home office. One drawer has a slightly loose bottom panel but it can all be fixed with some glue. I have been using this personally. Giving it up because moving to a small flat.",
@@ -194,17 +150,6 @@
     "validTill": "10 Jan 2025",
     "ageInYears": 4,
     "dimensions": "101 x 56 x 90",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140994",
-    "name": "Wooden dining table",
-    "description": "Pls contact me via WhatsApp",
-    "location": null,
-    "validTill": "04 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": "120x75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -425,17 +370,6 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140802",
-    "name": "Baby Playpen",
-    "description": "Lightly used playpen for my nephews and nieces. Playpen is in good condition, used for 2 years.",
-    "location": null,
-    "validTill": "17 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "150cm by 180cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -715,6 +649,61 @@
     "category": "Medical Aids"
   },
   {
+    "id": "141070",
+    "name": "wheel chair, commode, walk stick",
+    "description": "wheel chair , commode and walking stick",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141069",
+    "name": "Hospital bed for free and in good condition",
+    "description": "Free for donation and we will dismantle the bed for easy transportation.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141067",
+    "name": "Bed rails support",
+    "description": "Bed rails support free and in good condition.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141066",
+    "name": "Wheelchair",
+    "description": "Free and lightweight wheelchair available for donation.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141065",
+    "name": "Geriatric chair with tray",
+    "description": "Free for donation.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "141010",
     "name": "Commode Chair",
     "description": "Right-hand side handle bit wear-off.\n\nIt would be great if recipient can self-collect too.",
@@ -754,17 +743,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "15 Jan 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "140647",
-    "name": "Electric hoist",
-    "description": "Elderly family is giving away a electric hoist which was hardly used as they are moving to a small flat by end Dec 24. Please arrange your own transport. Thanks.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Dec 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
