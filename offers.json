@@ -1,16 +1,5 @@
 [
   {
-    "id": "141044",
-    "name": "Male clothes",
-    "description": "Pre loved jeans and long pants\nCollared and round neck tee shirts",
-    "location": null,
-    "validTill": "25 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "140684",
     "name": "Ladies Shoe",
     "description": "Ladies shoe size 24.5",
@@ -385,6 +374,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "141095",
+    "name": "Child car seat",
+    "description": "This is the child car seat that my daughter used for a number of years. It’s used but not abused. Some marks here and there but it still serves its function. Daughter has outgrown and therefore looking to pass it on",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "141002",
     "name": "Baby Cot",
     "description": "Isa Uchi Easy Cot, used for 11mths, super good condition almost as good as new. No bite marks. Paint slightly chipped off where we screwed to lower the cot.",
@@ -411,17 +411,6 @@
     "name": "Flash cards",
     "description": "Very old flash cards",
     "location": null,
-    "validTill": "31 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140944",
-    "name": "Decathlon Baby Scooter B1 500 3 wheels - Blue Red",
-    "description": "Refer to https://www.decathlon.sg/p/baby-scooter-b1-500-3-wheels-blue-red-oxelo-8602927.html for more info.",
-    "location": "Pasir Ris, Simei, Tampines",
     "validTill": "31 Dec 2024",
     "ageInYears": 4,
     "dimensions": null,
@@ -559,17 +548,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "141042",
-    "name": "badminton rackets",
-    "description": "some new/ some used",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "25 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "140649",
@@ -716,8 +694,8 @@
   },
   {
     "id": "141091",
-    "name": "Comot x 1 item (Black)",
-    "description": "Comot x 1 item, Black",
+    "name": "Commode x 1 item (Black)",
+    "description": "Black Commode x 1",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "08 Jan 2025",
     "ageInYears": 3,
@@ -1027,17 +1005,6 @@
     "name": "Chinese handwriting input pad",
     "description": "Recycle this used Chinese handwriting input pad suitable for computer use.",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "31 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "140463",
-    "name": "Assorted Stationery (Foolscap Paper, Notebooks, Post-it)",
-    "description": "Assorted foolscap paper, graph paper, writing notebooks, post-it notes. Kept for some time; some are used, some are still sealed.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "31 Dec 2024",
     "ageInYears": 4,
     "dimensions": null,
