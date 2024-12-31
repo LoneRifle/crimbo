@@ -11,6 +11,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "141232",
+    "name": "Standing Fan",
+    "description": "Repaired 16 inch fan\ncan turn \npower 1 wind is very small\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141231",
+    "name": "Standing Fan",
+    "description": "Repaired 16 inch fan\ncan turn but only power 1 and 3 are working\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "141204",
     "name": "Mutli Grill Pot",
     "description": "Multi Grill Pot - Steam, fry, grill",
@@ -99,13 +121,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "141199",
-    "name": "Wooden Bed Frame",
-    "description": "Used less than a month\nFits Queen Size Mattress \n2000mmx1500mm",
+    "id": "141236",
+    "name": "Chest of drawer (6drawer)",
+    "description": "Ikea chest drawer. very good condition",
     "location": null,
-    "validTill": "29 Jan 2025",
+    "validTill": "01 Jan 2025",
     "ageInYears": 1,
-    "dimensions": "2000mm x 1500mm",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141230",
+    "name": "Black colour IKEA Office chair",
+    "description": "Black office chair with height adjustable.\nWill pay for the transportation if not more than $10.\n Thanks.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "Seat: 50x50cm; Height:100cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -605,6 +638,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "141234",
+    "name": "Adult Diapers",
+    "description": "Adult diapers.",
+    "location": null,
+    "validTill": "15 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "141215",
     "name": "Walking Stick",
     "description": "Almost new walking stick (Only used for a short period after operation). Adjustable height to suit individual.",
@@ -691,6 +735,28 @@
     "dimensions": "52x48x81",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "141233",
+    "name": "Wedding deco items",
+    "description": "Various similar items in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "141227",
+    "name": "Running shoes",
+    "description": "Running shoes that is use for less than 2 years.",
+    "location": null,
+    "validTill": "30 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "141208",
