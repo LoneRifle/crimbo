@@ -302,6 +302,40 @@
     }
   },
   {
+    "id": "141194",
+    "category": "Mobility Aids",
+    "name": "Walking Stick",
+    "description": "Senior is in need of a walking stick with LED light to aid him in walking in night time. Senior has weak legs and old walking stick is unstable.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Cluster Support - Taman Jurong",
+      "name": "Aaron Cai",
+      "email": "yuxiang.c@ntuchealth.sg",
+      "phone": [
+        "94552302",
+        "62674197"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141215",
+          "name": "Walking Stick",
+          "description": "Almost new walking stick (Only used for a short period after operation). Adjustable height to suit individual.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Jan 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140357",
     "category": "Medical Aids",
     "name": "Oxygen Concentrator",
