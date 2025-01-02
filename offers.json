@@ -110,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141284",
+    "name": "3 Seater reclining sofa",
+    "description": "3 Seater reclining sofa",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141260",
     "name": "Clothes rack",
     "description": "Delivery on weekday evening and weekend.",
@@ -117,17 +128,6 @@
     "validTill": "01 Feb 2025",
     "ageInYears": 3,
     "dimensions": "90cmLx43cmWx103cmH",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141259",
-    "name": "Walnut dining Table n chair",
-    "description": "Walnut dining table with a bench n 2 chairs",
-    "location": "Punggol",
-    "validTill": "12 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "Length 140cm  Width 80cm  Height 75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -205,17 +205,6 @@
     "validTill": "30 Jan 2025",
     "ageInYears": 1,
     "dimensions": "Seat: 50x50cm; Height:100cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141193",
-    "name": "Sofa Bed",
-    "description": "The dimensions are for the bed size.\nThe sofa height is 93cm when folded upright.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "25 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "180cm x 110cm x 46cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -490,17 +479,6 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "23 Jan 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140936",
-    "name": "A box of Building Blocks",
-    "description": "A box of building blocks for children.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "20 Jan 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"

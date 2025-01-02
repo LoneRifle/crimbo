@@ -1,5 +1,93 @@
 [
   {
+    "id": "141282",
+    "category": "Infant and Children Items",
+    "name": "Grow Toddler Stage 3",
+    "description": "Client recently got divorced and is currently singlehandedly trying to provide her 2 young children. The milk powder will greatly help to ease client financially. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Jan 2025"
+  },
+  {
+    "id": "141279",
+    "category": "Infant and Children Items",
+    "name": "Milk and Diapers",
+    "description": "Client is the main sole bread winner and caregiver for her four young children. Due to her low income, she is experiencing financial difficulties and is in need of assistance to meet her children's basic needs. The FSC is currently seeking 1 can of Similac Milk Powder (stage 3) and 2 Drypers XXL for her children.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Karen Ong",
+      "email": "karenong@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
+  },
+  {
+    "id": "141277",
+    "category": "Infant and Children Items",
+    "name": "Bottle sterilizer",
+    "description": "Client is a single mother to 3 children. She is currently unemployed due to high caregiving needs of her child with ADHD and discomfort experienced due to her pregnancy. She requires a bottle sterilizer.",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Hannah Lim",
+      "email": "hannahlimzhixin@fycs.org",
+      "phone": [
+        "69783487",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
+  },
+  {
+    "id": "141276",
+    "category": "Infant and Children Items",
+    "name": "Breast pump",
+    "description": "Client is a single mother to 3 children. She is currently unemployed due to high caregiving needs of her child with ADHD and discomfort experienced due to her pregnancy. She requires a breast pump.",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Hannah Lim",
+      "email": "hannahlimzhixin@fycs.org",
+      "phone": [
+        "69783487",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
+  },
+  {
+    "id": "141275",
+    "category": "Infant and Children Items",
+    "name": "Baby stroller",
+    "description": "Client is a single mother to 3 children. She is currently unemployed due to high caregiving needs of her child with ADHD and discomfort experienced due to her pregnancy. She requires a light weight baby stroller.",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Hannah Lim",
+      "email": "hannahlimzhixin@fycs.org",
+      "phone": [
+        "69783487",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
+  },
+  {
     "id": "141274",
     "category": "Infant and Children Items",
     "name": "Baby Carrier",
@@ -1286,6 +1374,24 @@
     "date": "02 Dec 2024"
   },
   {
+    "id": "141283",
+    "category": "Others",
+    "name": "Redoxon Vitamic C Effervescent Tablets",
+    "description": "Client is a 21-year-old with Cancer stage 4 & a low prognosis. He is currently bed-bound. Client lives with his parents. Currently, mother is the caregiver and step-father is unemployed due to health issues. \n\nClient has requested for these Redoxon Vitamin C Effervescent Tablets (Orange flavour) to add to his daily supplements.",
+    "specifications": "Orange Flavour",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
+  },
+  {
     "id": "141270",
     "category": "Others",
     "name": "Fresubin Milk 2kcal Vanilla 200ml",
@@ -1479,42 +1585,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Dec 2024"
-  },
-  {
-    "id": "141077",
-    "category": "Others",
-    "name": "Groceries Needs",
-    "description": "A family living in a rented flat relies on a single income of $1,000 per month to cover all expenses, including rent, utilities, and daily necessities. Despite careful budgeting, this limited income leaves insufficient funds for adequate nutrition and other essential needs.",
-    "specifications": "Groceries Needs",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Dec 2024"
-  },
-  {
-    "id": "141076",
-    "category": "Others",
-    "name": "Groceries Needs",
-    "description": "A family living in a rented flat relies on a single income of $900 per month to cover all expenses, including rent, utilities, and daily necessities. Despite careful budgeting, this limited income leaves insufficient funds for adequate nutrition and other essential needs.",
-    "specifications": "Groceries Needs",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Dec 2024"
   },
   {
     "id": "136670",
@@ -3283,23 +3353,6 @@
     "date": "30 Dec 2024"
   },
   {
-    "id": "141186",
-    "category": "Home Furnishing",
-    "name": "Queen-sized mattress",
-    "description": "Client is a single working mother with a schooling adult daughter. Client works as a dish collector in coffeeshop. Client requests for Queen-sized mattress as she previously removed some furniture due to bed bugs.",
-    "specifications": null,
-    "contact": {
-      "org": "Pasir Ris Family Service Centre",
-      "name": "Lim Ru Pei",
-      "email": "limrupei@goodnews.org.sg",
-      "phone": [
-        "65812159"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Dec 2024"
-  },
-  {
     "id": "141185",
     "category": "Home Furnishing",
     "name": "Single Mattress",
@@ -3451,23 +3504,6 @@
       "email": "daphne@shenghong.org.sg",
       "phone": [
         "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Dec 2024"
-  },
-  {
-    "id": "140789",
-    "category": "Home Furnishing",
-    "name": "3-Door Wardrobe",
-    "description": "Client is a single mother to 4 school-going children. Client and her children were seeking accommodation at her parent's residence whilst she was undergoing divorce proceedings. Client had to forgo her job in order to navigate\nsettling her divorce and managing the caregiving needs of the children and was dependent on community agencies in sustaining the basic needs of the family. Client recently secured a HDB rental flat following finalisation of her divorce and hopes to seek support in securing preloved essential household items for her new home. Client is in the midst of exploring job opportunities and at present has scarce financial resources for furnishing her new home.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Sabrina Than",
-      "email": "sabrinathan@mws.sg",
-      "phone": [
-        "62828558"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3756,24 +3792,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Dec 2024"
-  },
-  {
-    "id": "141261",
-    "category": "Mobility Aids",
-    "name": "commode chair",
-    "description": "My client is 84 years old and resides in a four-room flat in Serangoon. She requires a commode chair. Thank you in advance for your kindness.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Cluster Support (CCK/ Bukit Panjang)",
-      "name": "Lau Lee Pai",
-      "email": "lauleepai@fycs.org",
-      "phone": [
-        "62024699",
-        "68936606"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jan 2025"
   },
   {
     "id": "141256",
@@ -4142,6 +4160,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Dec 2024"
+  },
+  {
+    "id": "141281",
+    "category": "Medical Aids",
+    "name": "Adult Diaper (M size, pant) )",
+    "description": "Client has two elderly parents to care and working low wages. Client's parents required diaper for his daily needs in view of his mobility issues.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Rachel Fu",
+      "email": "rachel.fu@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
+  },
+  {
+    "id": "141280",
+    "category": "Medical Aids",
+    "name": "Blood pressure meter",
+    "description": "Client is currently unfit to work due to health issues and required a blood pressure meter to measure her daily blood pressure. Client does not have financial to purchase it.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Rachel Fu",
+      "email": "rachel.fu@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025"
   },
   {
     "id": "141262",
