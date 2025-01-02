@@ -391,6 +391,51 @@
     }
   },
   {
+    "id": "141261",
+    "category": "Mobility Aids",
+    "name": "commode chair",
+    "description": "My client is 84 years old and resides in a four-room flat in Serangoon. She requires a commode chair. Thank you in advance for your kindness.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Cluster Support (CCK/ Bukit Panjang)",
+      "name": "Lau Lee Pai",
+      "email": "lauleepai@fycs.org",
+      "phone": [
+        "62024699",
+        "68936606"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141010",
+          "name": "Commode Chair",
+          "description": "Right-hand side handle bit wear-off.\n\nIt would be great if recipient can self-collect too.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "24 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "140742",
+          "name": "Commode Chair",
+          "description": "Nearly brand new commode chair w wheels, adjustable arms.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Jan 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140357",
     "category": "Medical Aids",
     "name": "Oxygen Concentrator",
