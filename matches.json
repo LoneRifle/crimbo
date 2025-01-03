@@ -52,6 +52,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "141348",
+          "name": "Diapers",
+          "description": "2 unopened packets",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "141234",
           "name": "Adult Diapers",
           "description": "Adult diapers.",
@@ -85,6 +96,17 @@
     "date": "09 Dec 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "141348",
+          "name": "Diapers",
+          "description": "2 unopened packets",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
         {
           "id": "141234",
           "name": "Adult Diapers",
@@ -167,6 +189,74 @@
     }
   },
   {
+    "id": "141223",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Siti Suhaidah is a 35-year-old mother to a 5-year-old son, Shufi. Her husband, Najib (M/26) is a Malaysian citizen and has returned to Malaysia to care for his sickly mother. Recently, he shuttled between Singapore and Malaysia and is currently looking for employment in Singapore. Siti Suhaidah is unemployed and is currently receiving SSO Comcare assistance. However, the fund has depleted as Shufi has been shuttling in and out of the hospital due to high fever. Siti Suhaidah had to use Comcare funds to make payments for hospital bills, medication, and transportation fees, in addition to groceries and meals. As a result, Siti Suhaidah does not have sufficient money to purchase a new vacuum cleaner to replace the old one which has spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Khairunnisa Nasir",
+      "email": "khairunnisa.nasir@montfortcare.org.sg",
+      "phone": [
+        "63254753",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141350",
+          "name": "Vacuum cleaner",
+          "description": "Noisy and powerful",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140903",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Single mother with 6 children and 1 newborn grandson needs assistance to purchase a new vacuum cleaner. Their current vacuum cleaner is faulty. They would prefer a 2-in-1 wet and dry vacuum cleaner if possible.",
+    "specifications": "Wet and Dry Vacuum Cleaner",
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Gan Wan Lin",
+      "email": "wanlin.gan@reach.org.sg",
+      "phone": [
+        "68010735",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141350",
+          "name": "Vacuum cleaner",
+          "description": "Noisy and powerful",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140849",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -227,6 +317,39 @@
           "dimensions": "180x40x45",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140366",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum cleaner",
+    "description": "Mother with 2 children who is unable to work due to multiple health issues is in need of a new vacuum cleaner.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Grace Ang",
+      "email": "grace@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141350",
+          "name": "Vacuum cleaner",
+          "description": "Noisy and powerful",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -424,6 +547,40 @@
     }
   },
   {
+    "id": "140357",
+    "category": "Medical Aids",
+    "name": "Oxygen Concentrator",
+    "description": "74-year-old elderly lady has late-stage cancer. She requires an oxygen concentrator to help with breathlessness. Family has financial difficulties and is unable to afford the cost of renting or buying one. Looking for a donor who has a secondhand one in good condition. \n\nPls contact me at 97274215 via Whatsapp. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Lim Yi Xi",
+      "email": "yixi_lim@singaporecancersociety.org.sg",
+      "phone": [
+        "97274215",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "140872",
+          "name": "Oxygen Concentrator",
+          "description": "It's an working Oxygen Concentrator used for people whom has difficulty in breathing and has been advised by doctor to use the machine for relax breathing.New tubes available too",
+          "location": null,
+          "validTill": "18 Jan 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "141325",
     "category": "Mobility Aids",
     "name": "Commode",
@@ -474,40 +631,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140357",
-    "category": "Medical Aids",
-    "name": "Oxygen Concentrator",
-    "description": "74-year-old elderly lady has late-stage cancer. She requires an oxygen concentrator to help with breathlessness. Family has financial difficulties and is unable to afford the cost of renting or buying one. Looking for a donor who has a secondhand one in good condition. \n\nPls contact me at 97274215 via Whatsapp. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Cancer Society",
-      "name": "Lim Yi Xi",
-      "email": "yixi_lim@singaporecancersociety.org.sg",
-      "phone": [
-        "97274215",
-        "62219578"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "140872",
-          "name": "Oxygen Concentrator",
-          "description": "It's an working Oxygen Concentrator used for people whom has difficulty in breathing and has been advised by doctor to use the machine for relax breathing.New tubes available too",
-          "location": null,
-          "validTill": "18 Jan 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []

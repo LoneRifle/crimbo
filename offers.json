@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "141350",
+    "name": "Vacuum cleaner",
+    "description": "Noisy and powerful",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "141232",
     "name": "Standing Fan",
     "description": "Repaired 16 inch fan\ncan turn \npower 1 wind is very small\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
@@ -262,6 +273,28 @@
     "dimensions": "nil",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "141349",
+    "name": "Sleeping bag",
+    "description": "Student care naps",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "141348",
+    "name": "Diapers",
+    "description": "2 unopened packets",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "141330",
