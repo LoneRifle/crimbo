@@ -101,6 +101,72 @@
     }
   },
   {
+    "id": "141269",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client is currently residing in a HDB 1-room rental flat. Client suffered a vertigo attack in 2022 and continues to experience nausea and frequent dizzy spells. \n\nClient has been deterred from securing gainful, full-time employment in view of her poor health status as she is unable to stand for long hours. Despite her challenges, client has consistently demonstrated resilience and determination to achieve self-sufficiency, as evident in her active efforts to take on ad-hoc employment opportunities despite her poor health status. \n\nClient hopes to have a bicycle to allow her to explore other types of employment such as Food Delivery Personnel, which may be more suited for her health condition.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Lim Dong Qin",
+      "email": "dongqin_lim@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141330",
+          "name": "Kids Bicycle",
+          "description": "Kids bicycle",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "141197",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Family of 3 faces financial difficulties. They request for a children's bicycle for their 8-year-old son who is diagnosed with autism.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "30 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141330",
+          "name": "Kids Bicycle",
+          "description": "Kids bicycle",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140849",
     "category": "Electrical Home Appliances",
     "name": "TV",

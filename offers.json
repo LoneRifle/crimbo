@@ -253,6 +253,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "141330",
+    "name": "Kids Bicycle",
+    "description": "Kids bicycle",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "02 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "141242",
     "name": "Nan optripro 3",
     "description": "- Milk powder brand new. Given by Nan\n- Baby walker \n- Sensory toys less than 1 year old in new condition",
@@ -374,28 +385,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "140934",
-    "name": "Can opener and jar lid opener",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "20 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "140645",
-    "name": "Stainless steel mug",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "12 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "140649",
     "name": "Aibi Exercise Bike",
     "description": "Exercise bike in good condition",
@@ -449,17 +438,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "141298",
-    "name": "Automatic Crank Hospital Bed and mattress (brand new)",
-    "description": "Brand new not used - refer to website for item description: https://www.dnrwheels.com/products/electric-3-functions-hospital-bed-with-quad-rails",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "01 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "90” x 41.3” x 16.7”-27.6”",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "141247",
