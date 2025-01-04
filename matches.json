@@ -1,17 +1,16 @@
 [
   {
-    "id": "141273",
+    "id": "141264",
     "category": "Infant and Children Items",
-    "name": "Baby cot",
-    "description": "Client is a single mother to 3 children. She is currently unemployed due to high caregiving needs of her child with ADHD and discomfort experienced due to her pregnancy. She requires an adjustable baby cot with side bed and wheels that can fit into her 2 room rental flat. \n\nMore details can be provided.",
-    "specifications": "L 90CM X H 80cm X W 58-68cm",
+    "name": "Milk Powder",
+    "description": "Similac 3\n\nClient takes care of her 1-year-old child alone and is also similac 3expecting another baby in May 2025. Her husband is currently in jail. Client left her job last year to care for her child full-time and is now unable to find work due to her second pregnancy. With no income and increasing expenses, she is facing significant financial difficulties. Hence, Client hopes to receive donations for milk and diapers to meet her child's basic needs while she finds an alternative long-term support.",
+    "specifications": null,
     "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Hannah Lim",
-      "email": "hannahlimzhixin@fycs.org",
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Sabrina Than",
+      "email": "sabrinathan@mws.sg",
       "phone": [
-        "69783487",
-        "65690381"
+        "62828558"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -19,11 +18,11 @@
     "matches": {
       "passiton": [
         {
-          "id": "141002",
-          "name": "Baby Cot",
-          "description": "Isa Uchi Easy Cot, used for 11mths, super good condition almost as good as new. No bite marks. Paint slightly chipped off where we screwed to lower the cot.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "23 Jan 2025",
+          "id": "141355",
+          "name": "Milk powder",
+          "description": "4 new tins of milk powder.",
+          "location": null,
+          "validTill": "20 Jan 2025",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -72,6 +71,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140607",
+    "category": "Infant and Children Items",
+    "name": "Milk powder",
+    "description": "Single parent of 3 children, one of them is a toddler and has a medical condition and pending surgery. Financial situation is still not stable as mother just started work and income is also not sufficient to make ends meet. Requesting 4 tins of lactogen stage 3",
+    "specifications": "4 Lactogen stage 3",
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Elshaddai Jeevanathy D/O Ventakesan",
+      "email": "elshaddai@fycs.org",
+      "phone": [
+        "91266100",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141355",
+          "name": "Milk powder",
+          "description": "4 new tins of milk powder.",
+          "location": null,
+          "validTill": "20 Jan 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -189,66 +222,31 @@
     }
   },
   {
-    "id": "141223",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum cleaner",
-    "description": "Siti Suhaidah is a 35-year-old mother to a 5-year-old son, Shufi. Her husband, Najib (M/26) is a Malaysian citizen and has returned to Malaysia to care for his sickly mother. Recently, he shuttled between Singapore and Malaysia and is currently looking for employment in Singapore. Siti Suhaidah is unemployed and is currently receiving SSO Comcare assistance. However, the fund has depleted as Shufi has been shuttling in and out of the hospital due to high fever. Siti Suhaidah had to use Comcare funds to make payments for hospital bills, medication, and transportation fees, in addition to groceries and meals. As a result, Siti Suhaidah does not have sufficient money to purchase a new vacuum cleaner to replace the old one which has spoilt.",
+    "id": "140749",
+    "category": "Others",
+    "name": "laptop",
+    "description": "Client suffered a vertigo attack in 2022 and has been feeling nauseous and having frequent dizzy spells since then. Client has been deterred from securing gainful, full-time employment in view of her poor health status as she is unable to stand for long hours. Despite her challenges, client has consistently demonstrated resilience and determination to achieve self-sufficiency, as evident in her active efforts to take on ad-hoc employment opportunities despite her poor \nhealth status. Client hopes to have a laptop to allow her to explore upskilling or engage in other types of employment which may be more suited for her health condition (i.e. administrative/accounting-related work).",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Khairunnisa Nasir",
-      "email": "khairunnisa.nasir@montfortcare.org.sg",
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Lim Dong Qin",
+      "email": "dongqin_lim@viriya.org.sg",
       "phone": [
-        "63254753",
-        "1800-222-0000"
+        "67951008"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "31 Dec 2024",
+    "date": "17 Dec 2024",
     "matches": {
       "passiton": [
         {
-          "id": "141350",
-          "name": "Vacuum cleaner",
-          "description": "Noisy and powerful",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "02 Feb 2025",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140903",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum cleaner",
-    "description": "Single mother with 6 children and 1 newborn grandson needs assistance to purchase a new vacuum cleaner. Their current vacuum cleaner is faulty. They would prefer a 2-in-1 wet and dry vacuum cleaner if possible.",
-    "specifications": "Wet and Dry Vacuum Cleaner",
-    "contact": {
-      "org": "REACH Family Service Centre",
-      "name": "Gan Wan Lin",
-      "email": "wanlin.gan@reach.org.sg",
-      "phone": [
-        "68010735",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141350",
-          "name": "Vacuum cleaner",
-          "description": "Noisy and powerful",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "02 Feb 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "141356",
+          "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
+          "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -317,39 +315,6 @@
           "dimensions": "180x40x45",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140366",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum cleaner",
-    "description": "Mother with 2 children who is unable to work due to multiple health issues is in need of a new vacuum cleaner.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Grace Ang",
-      "email": "grace@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141350",
-          "name": "Vacuum cleaner",
-          "description": "Noisy and powerful",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "02 Feb 2025",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -609,6 +574,141 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140873",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a 67 years old senior who lives alone, and was forced to retire as a driver, after he got into an accident 3 years ago. \n\nSenior is presently not receiving any financial assistance, and gets by with quarterly silver support scheme payouts. \n\nSenior shared that he always wanted a laptop but could not afford it. He wish to learn how to check emails, as well as to watch his YouTube videos on a bigger screen.",
+    "specifications": "Any",
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Yishun",
+      "name": "Seetoh Hwee Peng",
+      "email": "hweepeng.seetoh@montfortcare.org.sg",
+      "phone": [
+        "64840804",
+        "64848040"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141356",
+          "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
+          "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140852",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "53-year-old lady requires a laptop to conduct job search. Her current laptop is faulty.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Cheryl Chew",
+      "email": "cheryl.chew@montfortcare.org.sg",
+      "phone": [
+        "97329677",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141356",
+          "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
+          "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140843",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Family does not have a working laptop and the client’s wife needs it to prepare a resume to help her with her job search. Client is the sole-breadwinner and his income is not sufficient to support the family, therefore they cannot afford to get their own laptop. As they have 2 young special needs children who are not enrolled in school yet, client and his wife intend to search for materials online to help the children in their education too.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141356",
+          "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
+          "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140510",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is single-handedly raising/managing her 2 school-going daughters and faces financial constraints in view of her multiple responsibilities and health conditions. Older daughter, F/11, requires a laptop for her school learning. Client would appreciate a second-hand one as it would help her daughter and alleviate the finances.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shena Tan",
+      "email": "shenatan@fycs.org",
+      "phone": [
+        "69782982",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141356",
+          "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
+          "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
