@@ -1,38 +1,5 @@
 [
   {
-    "id": "141264",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Similac 3\n\nClient takes care of her 1-year-old child alone and is also similac 3expecting another baby in May 2025. Her husband is currently in jail. Client left her job last year to care for her child full-time and is now unable to find work due to her second pregnancy. With no income and increasing expenses, she is facing significant financial difficulties. Hence, Client hopes to receive donations for milk and diapers to meet her child's basic needs while she finds an alternative long-term support.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Sabrina Than",
-      "email": "sabrinathan@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jan 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141355",
-          "name": "Milk powder",
-          "description": "4 new tins of milk powder.",
-          "location": null,
-          "validTill": "20 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "140644",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -71,40 +38,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "140607",
-    "category": "Infant and Children Items",
-    "name": "Milk powder",
-    "description": "Single parent of 3 children, one of them is a toddler and has a medical condition and pending surgery. Financial situation is still not stable as mother just started work and income is also not sufficient to make ends meet. Requesting 4 tins of lactogen stage 3",
-    "specifications": "4 Lactogen stage 3",
-    "contact": {
-      "org": "HEART @ Fei Yue",
-      "name": "Elshaddai Jeevanathy D/O Ventakesan",
-      "email": "elshaddai@fycs.org",
-      "phone": [
-        "91266100",
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141355",
-          "name": "Milk powder",
-          "description": "4 new tins of milk powder.",
-          "location": null,
-          "validTill": "20 Jan 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -340,6 +273,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "141363",
+          "name": "Single sofa seater with arms",
+          "description": "Single seater sofa. Cover not removable. Seat and backrest removable.\nFabric.\nWater repellent.\nAlwaya covered with a throw.\nLess than 1 year. In excellent condition.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "W78 D77 H78",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "141041",
           "name": "Brown leather 3 seater sofa",
           "description": "Leather sofa 3 seater.",
@@ -373,6 +317,17 @@
     "date": "30 Dec 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "141363",
+          "name": "Single sofa seater with arms",
+          "description": "Single seater sofa. Cover not removable. Seat and backrest removable.\nFabric.\nWater repellent.\nAlwaya covered with a throw.\nLess than 1 year. In excellent condition.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "W78 D77 H78",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "141041",
           "name": "Brown leather 3 seater sofa",
