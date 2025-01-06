@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "141386",
-    "name": "Shower head set",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "31 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "141376",
     "name": "Dryer",
     "description": "Used LG Dryer, fully functional, no defects.",
@@ -62,17 +51,6 @@
     "validTill": "03 Feb 2025",
     "ageInYears": 1,
     "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "141232",
-    "name": "Standing Fan",
-    "description": "Repaired 16 inch fan\ncan turn \npower 1 wind is very small\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -693,17 +671,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "141183",
-    "name": "IKEA TROFAST toy boxes & Assorted Stationeries (NEW)",
-    "description": "As shown in pictures:\n\n3(three) big TROFAST IKEA Toy boxes\n3(three) small TROFAST IKEA Toy boxes\n\nAssorted Stationeries (NEW, in packaging, never opened)\n- 1 set",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "42*30*23 (big box) 42*30*10 (small box)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "141011",
     "name": "Electric piano",
     "description": "Electric piano ideal for children to learn piano",
@@ -922,6 +889,17 @@
     "dimensions": "52x48x81",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "141445",
+    "name": "2-tier computer table",
+    "description": "2-tier computer table.  It is big enough to fit laptop with one big monitor.  Need to collect as is (i.e. no dismantling)",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "15 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "141437",
