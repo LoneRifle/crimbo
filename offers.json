@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "141415",
-    "name": "Idli Dosa Grinder",
-    "description": "oll, however in good condition, can be useful for bigger families",
-    "location": null,
-    "validTill": "05 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "141386",
     "name": "Shower head set",
     "description": "Delivery on weekday evening and weekend.",
@@ -99,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141433",
+    "name": "KDK Standing Fan",
+    "description": "Light grey.  The fan head oscillates and has a timer and 3 speeds. The fan blades are a little dusty and the wire frame a little rusty. Works perfectly.  I am only giving it away because I am moving to a small place.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "1.4 m - height is adjustable;  Fan head is 47cm diameter",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140721",
     "name": "Smeg 30cm Induction Hob, 2 zones",
     "description": "Dimensions of the product (mm):\n64x300x515\nDepth:\n515 mm\nWidth:\n300 mm",
@@ -139,17 +139,6 @@
     "validTill": "05 Feb 2025",
     "ageInYears": 2,
     "dimensions": "1200mm x 600mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141402",
-    "name": "leather sofa & side table",
-    "description": "sofa & side table",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "12 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -363,17 +352,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141103",
-    "name": "Brown tall bookshelf",
-    "description": "In used condition, still useable. Have scribble marks by my kid.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "207cm tall, 41cm wide, 17cm deep",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141092",
     "name": "memory foam pillow",
     "description": "brand new pillow",
@@ -389,7 +367,7 @@
     "name": "Desk with cupboard",
     "description": "This is a great piece of furniture for a schoolchild or simple home office. One drawer has a slightly loose bottom panel but it can all be fixed with some glue. I have been using this personally. Giving it up because moving to a small flat.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jan 2025",
+    "validTill": "13 Jan 2025",
     "ageInYears": 4,
     "dimensions": "200 H x 80 L x 45 D",
     "deliveryCostsCoveredByDonor": true,
@@ -411,7 +389,7 @@
     "name": "Study Desk",
     "description": "Wood and chipboard Study desk with four drawers.  Good condition except for mild stains on the top surface.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jan 2025",
+    "validTill": "13 Jan 2025",
     "ageInYears": 4,
     "dimensions": "101 x 56 x 90",
     "deliveryCostsCoveredByDonor": true,
@@ -814,6 +792,39 @@
     "category": "Medical Aids"
   },
   {
+    "id": "141439",
+    "name": "Walker",
+    "description": "Barely used adjustable walker",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "05 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141438",
+    "name": "Commode Chair",
+    "description": "Barely used commode chair on wheels w adjustable arms",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "05 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141434",
+    "name": "3 crank electrical bed",
+    "description": "The bed is still in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "09 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": "211cm x 109cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "141353",
     "name": "Fixed commote",
     "description": "Like new.",
@@ -911,6 +922,17 @@
     "dimensions": "52x48x81",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "141437",
+    "name": "Hosp Bed Mattress",
+    "description": "Barely used hosp bed air mattress cover",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "05 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "141394",
