@@ -188,6 +188,40 @@
     }
   },
   {
+    "id": "141424",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Beneficiary is a single mother with a 14yr old son. Ct suffers from mental health issues and is unemployed. Ct would like a bicycle so that she could work as a food delivery staff member to generate some income for herself and son.",
+    "specifications": "Adult bicycle",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141330",
+          "name": "Kids Bicycle",
+          "description": "Kids bicycle",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "02 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "141408",
     "category": "Home Furnishing",
     "name": "3 Seater Sofa",
@@ -257,6 +291,17 @@
           "validTill": "12 Jan 2025",
           "ageInYears": 4,
           "dimensions": "120 cm x 75 cm x 70 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "141411",
+          "name": "Glass Study Table with Stainless Steel Legs",
+          "description": "Fully wrapped and protected glass study table - in good condition. It was well used and always kept indoors. We are giving it away because we replaced it with a movable desk - this is in working condition. I apologise for the pics as we wrapped it for protection and prevent my nephew from knocking into it when he returns home.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "05 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": "1200mm x 600mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -496,17 +541,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "141398",
-          "name": "TV Wall Mount",
-          "description": "Unopened brand new TV Wall Mount",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "05 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "141302",
           "name": "TV Console",
           "description": "in good condition",
@@ -539,17 +573,6 @@
     "date": "11 Dec 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "141398",
-          "name": "TV Wall Mount",
-          "description": "Unopened brand new TV Wall Mount",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "05 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "141302",
           "name": "TV Console",
