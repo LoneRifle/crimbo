@@ -255,6 +255,62 @@
     }
   },
   {
+    "id": "141479",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "",
+    "specifications": "Sofa",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141378",
+          "name": "Sofa, bookshelves, height adjustable tables and chairs",
+          "description": "All items to be donated before 27 Jan 2025",
+          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+          "validTill": "26 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "141363",
+          "name": "Single sofa seater with arms",
+          "description": "Single seater sofa. Cover not removable. Seat and backrest removable.\nFabric.\nWater repellent.\nAlwaya covered with a throw.\nLess than 1 year. In excellent condition.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "W78 D77 H78",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "141041",
+          "name": "Brown leather 3 seater sofa",
+          "description": "Leather sofa 3 seater.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "23 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": "255 x 115 x 100",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "141406",
     "category": "Home Furnishing",
     "name": "Study table",
