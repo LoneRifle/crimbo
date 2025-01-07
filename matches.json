@@ -222,51 +222,6 @@
     }
   },
   {
-    "id": "141430",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Family has an adult and 2 kids. One of them is a toddler.The current mattress is old, dirty and small. Family requires a bigger mattress to sleep mother and children. Family members have an ezcema condition, with mother suffering from a chronic situation.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Teo Chin Wee",
-      "email": "teo_chin_wee@msf.gov.sg",
-      "phone": [
-        "63549057",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Jan 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141437",
-          "name": "Hosp Bed Mattress",
-          "description": "Barely used hosp bed air mattress cover",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "05 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
-        {
-          "id": "141369",
-          "name": "IKEA MYDAL Bunk Bed Frame with 1 Mattress",
-          "description": "Used bed frame with single mattress. Good condition.",
-          "location": null,
-          "validTill": "24 Jan 2025",
-          "ageInYears": 3,
-          "dimensions": "206x97x157cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "141406",
     "category": "Home Furnishing",
     "name": "Study table",
@@ -314,17 +269,6 @@
           "validTill": "05 Feb 2025",
           "ageInYears": 2,
           "dimensions": "1200mm x 600mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "141381",
-          "name": "bookshelves, study table w bookshelves",
-          "description": "all to be cleared by 27 Jan 2025",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "26 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -479,6 +423,50 @@
     }
   },
   {
+    "id": "141458",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Couple who are living in a rental flat and both are unfit for work due to health complications.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141461",
+          "name": "TV Panasonic",
+          "description": "Panasonic TV. Still working. With black line on right side",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "01 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "141302",
+          "name": "TV Console",
+          "description": "in good condition",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "08 Jan 2025",
+          "ageInYears": 3,
+          "dimensions": "180x40x45",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "140849",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -496,6 +484,17 @@
     "date": "19 Dec 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "141461",
+          "name": "TV Panasonic",
+          "description": "Panasonic TV. Still working. With black line on right side",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "01 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "141302",
           "name": "TV Console",
@@ -529,6 +528,17 @@
     "date": "11 Dec 2024",
     "matches": {
       "passiton": [
+        {
+          "id": "141461",
+          "name": "TV Panasonic",
+          "description": "Panasonic TV. Still working. With black line on right side",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "01 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "141302",
           "name": "TV Console",
