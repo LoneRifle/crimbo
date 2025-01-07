@@ -241,17 +241,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "141392",
-          "name": "Single mattress",
-          "description": "I hv another single mattress and bed frame to give away as well",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": "Single",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "141437",
           "name": "Hosp Bed Mattress",
           "description": "Barely used hosp bed air mattress cover",
@@ -336,40 +325,6 @@
           "validTill": "26 Jan 2025",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "141185",
-    "category": "Home Furnishing",
-    "name": "Single Mattress",
-    "description": "Client has been certified medically unfit to work. Her parents live with her and she has 5 children (F13, M12, M5, M4, M2). Husband lives apart due to CPS safety plan. Client is hoping for a new single-size mattress for her youngest child. Item has to be new and not second-hand as child as eczema. Due to lack of income, this assistance would benefit family and her child greatly.",
-    "specifications": "Single Mattress",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Dec 2024",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141392",
-          "name": "Single mattress",
-          "description": "I hv another single mattress and bed frame to give away as well",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": "Single",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
