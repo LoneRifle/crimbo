@@ -110,6 +110,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141501",
+    "name": "Queen Bed & Mattress",
+    "description": "Relatively well maintained Ikea queen bed and mattress. Accessories not included.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "13 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141500",
+    "name": "Queen sized mattress with topper 6 monthss old",
+    "description": "Check carousell link here\nCheck out 'Seahorse Queen sized mattress with topper (6 months old)', available at S$150 on #Carousell: https://carousell.app.link/4kZ04b5PYPb",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141498",
     "name": "3yo super single HIP VAN bed with mattress",
     "description": "super single bed from Hip Van.\ngreat condition. Mum's new hospital bed will be arriving 10 Jan 2025.",
@@ -154,9 +176,9 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141378",
-    "name": "Sofa, bookshelves, height adjustable tables and chairs",
-    "description": "All items to be donated before 27 Jan 2025",
+    "id": "141505",
+    "name": "TV console, chair",
+    "description": "all to be cleared by 27 Jan 2025",
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
     "validTill": "26 Jan 2025",
     "ageInYears": 4,
@@ -165,13 +187,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141363",
-    "name": "Single sofa seater with arms",
-    "description": "Single seater sofa. Cover not removable. Seat and backrest removable.\nFabric.\nWater repellent.\nAlwaya covered with a throw.\nLess than 1 year. In excellent condition.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "03 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "W78 D77 H78",
+    "id": "141378",
+    "name": "Sofa, bookshelves, height adjustable tables and chairs",
+    "description": "All items to be donated before 27 Jan 2025",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "26 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -583,6 +605,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "141504",
+    "name": "Bicycles",
+    "description": "I am the residential officer of Caribbean Keppel Bay. The conditions of the bicycles vary. Some are rusty, Some are working but tyres need to be pump.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "20 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "All Sizes",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "140649",
     "name": "Aibi Exercise Bike",
     "description": "Exercise bike in good condition",
@@ -715,17 +748,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "141438",
-    "name": "Commode Chair",
-    "description": "Barely used commode chair on wheels w adjustable arms",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "05 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "141434",
     "name": "3 crank electrical bed",
     "description": "The bed is still in good condition",
@@ -803,15 +825,37 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "140543",
-    "name": "Foldable Walking frame",
-    "description": "Foldable walking frame, as good as new",
-    "location": null,
-    "validTill": "09 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": "52x48x81",
+    "id": "141508",
+    "name": "provide transport for those who needy",
+    "description": "provide light bulbs & taps replacement works for low income families",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
+    "category": "Others"
+  },
+  {
+    "id": "141507",
+    "name": "provide transport for those who needy",
+    "description": "provide transport for those whom needy or low income",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "141506",
+    "name": "AppleAirPods 1st gen",
+    "description": "First gen original AirPods in original casing and charger",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "20 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "141459",
@@ -931,17 +975,6 @@
     "validTill": "18 Jan 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "140857",
-    "name": "Geriatric chair",
-    "description": "item was being use less than 3 months. Wish to donate out to the less fortunate people who needs it more. Thank you",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "18 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "height 120mm x width 60mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
