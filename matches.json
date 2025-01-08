@@ -18,17 +18,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "141348",
-          "name": "Diapers",
-          "description": "2 unopened packets",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "02 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "141234",
           "name": "Adult Diapers",
           "description": "Adult diapers.",
@@ -62,17 +51,6 @@
     "date": "09 Dec 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "141348",
-          "name": "Diapers",
-          "description": "2 unopened packets",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "02 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
         {
           "id": "141234",
           "name": "Adult Diapers",
@@ -122,18 +100,18 @@
     }
   },
   {
-    "id": "141503",
+    "id": "141517",
     "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "single mother going through divorce proceedings, with 1 child (3yo). \nclient's house does not have any sofa. parent has leg and back pain, not able to sit on the floor for long periods. \nclient is working but need to take care of all the expenses for the household and the child.",
+    "name": "Cupboard",
+    "description": "Widowed single mum of 2 children is the main caregiver and sole breadwinner of the family. She hopes to receive a dress cupboard for her house.",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Natalia Bte Sujangi",
-      "email": "natalia_sujangi@msf.gov.sg",
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
       "phone": [
-        "62672928",
-        "1800-222-0000"
+        "88554795",
+        "67169466"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -141,91 +119,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "141378",
-          "name": "Sofa, bookshelves, height adjustable tables and chairs",
-          "description": "All items to be donated before 27 Jan 2025",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "26 Jan 2025",
+          "id": "141052",
+          "name": "Desk with cupboard",
+          "description": "This is a great piece of furniture for a schoolchild or simple home office. One drawer has a slightly loose bottom panel but it can all be fixed with some glue. I have been using this personally. Giving it up because moving to a small flat.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Jan 2025",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "141495",
-          "name": "Fridge & L Shape Sofa",
-          "description": "Not covering delivery charges, self-collection only.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "19 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "length: 244cm width x 160cm (extended part) x 91cm (short side)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "141041",
-          "name": "Brown leather 3 seater sofa",
-          "description": "Leather sofa 3 seater.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "23 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "255 x 115 x 100",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "141479",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "",
-    "specifications": "Sofa",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jan 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141378",
-          "name": "Sofa, bookshelves, height adjustable tables and chairs",
-          "description": "All items to be donated before 27 Jan 2025",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "26 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "141495",
-          "name": "Fridge & L Shape Sofa",
-          "description": "Not covering delivery charges, self-collection only.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "19 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "length: 244cm width x 160cm (extended part) x 91cm (short side)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "141041",
-          "name": "Brown leather 3 seater sofa",
-          "description": "Leather sofa 3 seater.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "23 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "255 x 115 x 100",
+          "dimensions": "200 H x 80 L x 45 D",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -252,28 +152,6 @@
     "date": "30 Dec 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "141378",
-          "name": "Sofa, bookshelves, height adjustable tables and chairs",
-          "description": "All items to be donated before 27 Jan 2025",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "26 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "141495",
-          "name": "Fridge & L Shape Sofa",
-          "description": "Not covering delivery charges, self-collection only.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "19 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "length: 244cm width x 160cm (extended part) x 91cm (short side)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "141041",
           "name": "Brown leather 3 seater sofa",
@@ -308,28 +186,6 @@
     "date": "30 Dec 2024",
     "matches": {
       "passiton": [
-        {
-          "id": "141378",
-          "name": "Sofa, bookshelves, height adjustable tables and chairs",
-          "description": "All items to be donated before 27 Jan 2025",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "26 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "141495",
-          "name": "Fridge & L Shape Sofa",
-          "description": "Not covering delivery charges, self-collection only.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "19 Jan 2025",
-          "ageInYears": 4,
-          "dimensions": "length: 244cm width x 160cm (extended part) x 91cm (short side)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "141041",
           "name": "Brown leather 3 seater sofa",
@@ -374,6 +230,40 @@
           "dimensions": "200 H x 80 L x 45 D",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "141527",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single parent with a 7 month old infant will be moving in to their new 2-room  rental flat. She is working full-time to manage daily expenses. Hopes to get support for a fridge to help furnish essential needs for the house.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Muhammad Danial Bin Mazlan",
+      "email": "danialmazlan@allkin.org.sg",
+      "phone": [
+        "65536643",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "08 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141510",
+          "name": "EuropAce 2 door fridge",
+          "description": "I am giving away a well-used EuropAce two door fridge. The condition is good and it is suitable for small family. Pls arrange delivery by yourself.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": "66cm(L) x 170cm (H) x69cm (D)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -432,13 +322,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "141495",
-          "name": "Fridge & L Shape Sofa",
-          "description": "Not covering delivery charges, self-collection only.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "19 Jan 2025",
+          "id": "141510",
+          "name": "EuropAce 2 door fridge",
+          "description": "I am giving away a well-used EuropAce two door fridge. The condition is good and it is suitable for small family. Pls arrange delivery by yourself.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Jan 2025",
           "ageInYears": 4,
-          "dimensions": "length: 244cm width x 160cm (extended part) x 91cm (short side)",
+          "dimensions": "66cm(L) x 170cm (H) x69cm (D)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -466,13 +356,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "141495",
-          "name": "Fridge & L Shape Sofa",
-          "description": "Not covering delivery charges, self-collection only.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "19 Jan 2025",
+          "id": "141510",
+          "name": "EuropAce 2 door fridge",
+          "description": "I am giving away a well-used EuropAce two door fridge. The condition is good and it is suitable for small family. Pls arrange delivery by yourself.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Jan 2025",
           "ageInYears": 4,
-          "dimensions": "length: 244cm width x 160cm (extended part) x 91cm (short side)",
+          "dimensions": "66cm(L) x 170cm (H) x69cm (D)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
