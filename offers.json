@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141532",
+    "name": "King mattress (EU King)",
+    "description": "Large king sized mattress",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "07 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": "200 x 180 x 25 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141530",
     "name": "Dark brown chest of drawers",
     "description": "Dark brown drawers, with lockable top drawers. Lightly used, in good condition.",
@@ -440,17 +451,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "141002",
-    "name": "Baby Cot",
-    "description": "Isa Uchi Easy Cot, used for 11mths, super good condition almost as good as new. No bite marks. Paint slightly chipped off where we screwed to lower the cot.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "23 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "140971",
     "name": "Friso Stage 4",
     "description": "I have 2 cans of Friso stage 4 (900g each) available to donate. I can deliver to any MRT station. Expiry date March 2025.",
@@ -581,6 +581,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "141534",
+    "name": "SoClean 2 Cpap Cleaner",
+    "description": "Rarely used SoClean 2 Cpap Cleaner",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "07 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "141533",
+    "name": "Resmed Airsense 10 CPAP Machine",
+    "description": "Well-maintained Resmed Airsense 10 CPAP Machine",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "07 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "141247",
