@@ -1,16 +1,5 @@
 [
   {
-    "id": "141486",
-    "name": "Kids clothes",
-    "description": "Preloved Kids clothes",
-    "location": null,
-    "validTill": "31 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "141366",
     "name": "New shoes",
     "description": "Size 6\nWore once only",
@@ -42,6 +31,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "141542",
+    "name": "Wine Fridge",
+    "description": "In fair condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "17 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "141510",
@@ -99,24 +99,57 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "141532",
-    "name": "King mattress (EU King)",
-    "description": "Large king sized mattress",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "07 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": "200 x 180 x 25 cm",
+    "id": "141546",
+    "name": "Kids Bunk Bed",
+    "description": "Kinds bunk bed with many storage. Good if dismantle and delivery fees to be paid. Thanks.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": "2.32m x 1.2m x 1.8m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "141530",
-    "name": "Dark brown chest of drawers",
-    "description": "Dark brown drawers, with lockable top drawers. Lightly used, in good condition.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "07 Feb 2025",
+    "id": "141541",
+    "name": "Shoe Cabinet",
+    "description": "In fair condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "17 Jan 2025",
     "ageInYears": 4,
-    "dimensions": "90 x 48 x 108",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141540",
+    "name": "Shoe Cabinet",
+    "description": "In good condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "17 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141539",
+    "name": "Outdoor Table Set",
+    "description": "In good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "17 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141538",
+    "name": "Black book case and cabinet",
+    "description": "Black cabinet in good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "18 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -319,17 +352,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141529",
-    "name": "Dugro Stage 3 700g",
-    "description": "I have an eVoucher for this. Your client has to redeem it from NTUC themselves.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "141484",
     "name": "Building Toys",
     "description": "2 boxes filled with Duplo Brick Blocks. (box not included). Will pack into large ziplock bags.",
@@ -471,17 +493,6 @@
     "dimensions": "220 * 140cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
-  },
-  {
-    "id": "141456",
-    "name": "Almost New Tableware",
-    "description": "Almost New Tableware",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "17 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "L49XW32XH40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
   },
   {
     "id": "141393",
