@@ -1,5 +1,22 @@
 [
   {
+    "id": "141614",
+    "category": "Infant and Children Items",
+    "name": "Isomil Stage 1 (0-12months)",
+    "description": "Single mum of 7-month old is facing financial strain. Her infant recently suffered from a viral infection and was advised to switch to soy-based milk which is more costly, and milk assistance programs are unable to provide. She hopes to receive some milk tins for her infant.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jan 2025"
+  },
+  {
     "id": "141600",
     "category": "Infant and Children Items",
     "name": "Urgent: Drypers Drypantz - XXXL | 3 packs",
@@ -141,23 +158,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Jan 2025"
-  },
-  {
-    "id": "141564",
-    "category": "Infant and Children Items",
-    "name": "Children bathwash and shampoo",
-    "description": "Elderly grandmother is sole caregiver for a young child of special needs as biological parents have been incarcerated. Elderly grandmother is unemployed due to poor physical health. Requesting for children shampoo and bathing wash of any brand.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Early Intervention Programme for Infants and Children - Wellington Circle",
-      "name": "Jessie Chong",
-      "email": "jessiechong@fycs.org",
-      "phone": [
-        "64310400"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jan 2025"
   },
   {
     "id": "141561",
@@ -834,6 +834,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Dec 2024"
+  },
+  {
+    "id": "141616",
+    "category": "Others",
+    "name": "Food Rations",
+    "description": "Family of three requires urgent food rations as client has been unable to continue with her employment due to her physical health concerns. Client spouse is now the sole breadwinner but is income has been insufficient to meet the needs of the family. \n\nClient requires \n\nIndian basmati rice\nCooking oil\nMilo\nCalcium milk \nSoap powder \nAnd some cooking items (halal)",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Janarthanan S/O Lingasparan",
+      "email": "jana.lingasparan@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jan 2025"
+  },
+  {
+    "id": "141615",
+    "category": "Others",
+    "name": "5kg White Rice",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more packets of 5kg white rice for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Sim Yan Ling",
+      "email": "yanling.sim@ppis.sg",
+      "phone": [
+        "65613462ext503",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jan 2025"
   },
   {
     "id": "141607",
@@ -1699,24 +1734,6 @@
     "date": "11 Dec 2024"
   },
   {
-    "id": "141586",
-    "category": "Home Furnishing",
-    "name": "Study Table",
-    "description": "The family of 4 with 2 young children age 3 and 5.\nBoth parents work as locum nurses on an ad-hoc basis, with father also pursuing full-time studies in data analytics, which has led to financial strain and the need for support in managing reduced household income and daily expenses.",
-    "specifications": "Study Table",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Jan 2025"
-  },
-  {
     "id": "141585",
     "category": "Home Furnishing",
     "name": "3 Seater Sofa",
@@ -1943,6 +1960,59 @@
     "date": "18 Dec 2024"
   },
   {
+    "id": "141618",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Seeking a washing machine donation for a family in urgent need. The family comprises an elderly parent caring for two special needs children. A second-hand washing machine in good working condition would be greatly appreciated.\n\nPlease ensure the item is functional, free from defects, and does not have any strong odors. Your kind contribution will make a significant difference in easing the daily challenges this family faces.\n\nThank you for your generosity and support.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Hafiz",
+      "email": "abdul_hafiz_jamaludin@msf.gov.sg",
+      "phone": [
+        "62319483",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "10 Jan 2025"
+  },
+  {
+    "id": "141617",
+    "category": "Electrical Home Appliances",
+    "name": "Top-loading Washing Machine (7 kg or smaller)",
+    "description": "Elderly uncle 76 yrs old living in HDB rental flat needs top-loading washing machine. His current washing machine has broken down. Because of the space problem, the ideal size would be 7kg. Many Thanks.",
+    "specifications": "7 kg",
+    "contact": {
+      "org": "Moral Active Ageing Centre @ Kaki Bukit",
+      "name": "Gary Tan",
+      "email": "garytan@chkmps.org.sg",
+      "phone": [
+        "64486247"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jan 2025"
+  },
+  {
+    "id": "141611",
+    "category": "Electrical Home Appliances",
+    "name": "electric induction stove",
+    "description": "low income client with special needs child is in need of a working electric stove. \n\nThier current induction stove is spoilt and they are unable to cook at home incurring higher expsenses buying food back. \n\nAppricate if a working electric stove or induction cooker could be donted to aid this family.",
+    "specifications": null,
+    "contact": {
+      "org": "Lakeside Family Centre - Jurong East",
+      "name": "Edward Choy",
+      "email": "edward-choy@lakeside.org.sg",
+      "phone": [
+        "65649722ext208",
+        "65649722"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jan 2025"
+  },
+  {
     "id": "141598",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -2013,23 +2083,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Jan 2025"
-  },
-  {
-    "id": "141563",
-    "category": "Electrical Home Appliances",
-    "name": "Electric Water Boiler",
-    "description": "Elderly grandmother is sole caregiver for a young child of special needs as biological parents have been incarcerated. Elderly grandmother is unemployed due to poor physical health. Current boiler has discoloured and seek for replacement to ensure clean water supply.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Early Intervention Programme for Infants and Children - Wellington Circle",
-      "name": "Jessie Chong",
-      "email": "jessiechong@fycs.org",
-      "phone": [
-        "64310400"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jan 2025"
   },
   {
     "id": "141527",
