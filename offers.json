@@ -88,22 +88,33 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141661",
+    "name": "Dressing Table with Ottoman",
+    "description": "The dressing table has mirrors that can be covered. Including the seating (ottoman).\nThe table height is 75cm, but with the mirror, it's 135cm.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "25 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": "125cm x 46cm x 135m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141656",
+    "name": "Expandable Bed with Mattresses",
+    "description": "This expandable bed is in almost brand-new condition. It has been used only 2-3 times for guests. It comes with two good-quality firm single mattresses.\n\nWilling to give away a side table with it and four under-bed storage boxes.\n\nPick up at the earliest.\n\nIn terms of the bed's height, it's 40cm without mattresses.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "24 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": "200cm x 110cm x 60cm (With Mattress)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141642",
     "name": "Foldable mattress",
     "description": "Used foldable mattress available",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "11 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141632",
-    "name": "Red velvet sofa",
-    "description": "Good condition red velvet sofa - about 7 feet long",
-    "location": null,
-    "validTill": "19 Jan 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -352,17 +363,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141645",
-    "name": "Keen foldable stroller",
-    "description": "Well used stroller. With some additional accessories (cup holder, infant seat cushion, extra unused handbar cover) . Slight tear at the netting but doesn’t impact usability.",
-    "location": null,
-    "validTill": "12 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "141644",
     "name": "Pink baby high chair",
     "description": "Well used baby high chair. Dismantled with all items intact except for 1 missing screw.",
@@ -418,17 +418,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "141370",
-    "name": "Breast Pump and Baby Girl Clothings",
-    "description": "Medela Breast Pump and Baby Girl Clothes (0-12mos)",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "16 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "141349",
     "name": "Sleeping bag",
     "description": "Student care naps",
@@ -457,6 +446,17 @@
     "location": null,
     "validTill": "28 Jan 2025",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "141662",
+    "name": "Board games",
+    "description": "As shown\nWilling to meet at common meeting point",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "28 Jan 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -726,10 +726,10 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "141643",
-    "name": "Osim massage chair",
-    "description": "Osim massage chair",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "id": "141655",
+    "name": "Bed Rails for Elderly (2 sets)",
+    "description": "Bed rails for elderly, provide assistance for getting up (2 sets)\n\n 1. Sanders EZ Adjust Bed rail (width: 42 inches)\n\n 2. Bed rail (width: 90cm)\n\n Both items are more than 4 years.",
+    "location": "Bukit Batok",
     "validTill": "12 Feb 2025",
     "ageInYears": 4,
     "dimensions": null,
@@ -737,12 +737,12 @@
     "category": "Others"
   },
   {
-    "id": "141639",
-    "name": "Refurshing Laptop for Normal Word Processng",
-    "description": "Refurnished Laptop, cines with charger, for Normal Word Processing and home use only. We can help to arrange a door to door delivery but it would incurred a cost of $50 Nett per trip. Remember this is a Refurnished Laptop that cones with OpenOffice and Antivirus. Payment upon delivery. Only for those who really needs a laptop for their daily use.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "26 Jan 2025",
-    "ageInYears": 3,
+    "id": "141643",
+    "name": "Osim massage chair",
+    "description": "Osim massage chair",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Feb 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
