@@ -67,6 +67,74 @@
     }
   },
   {
+    "id": "141703",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is a 20-year-old mother of one. She is married, but husband is pending his sentence for suspected involvement in criminal activities. Given her husband's role as the sole provider for the family while she provides care for their 1-year-old child, client's family is currently struggling financially.",
+    "specifications": "Sofa",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141041",
+          "name": "Brown leather 3 seater sofa",
+          "description": "Leather sofa 3 seater.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "23 Jan 2025",
+          "ageInYears": 4,
+          "dimensions": "255 x 115 x 100",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "141702",
+    "category": "Home Furnishing",
+    "name": "Dining Set",
+    "description": "Client is a 20-year-old mother of one. She is married, but husband is pending his sentence for suspected involvement in criminal activities. Given her husband's role as the sole provider for the family while she provides care for their 1-year-old child, client's family is currently struggling financially.",
+    "specifications": "Dining Set",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141562",
+          "name": "8 seater dining set",
+          "description": "8 seater dining table",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "08 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "141634",
     "category": "Home Furnishing",
     "name": "Sofa",
