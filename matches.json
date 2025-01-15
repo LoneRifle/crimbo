@@ -203,6 +203,40 @@
     }
   },
   {
+    "id": "141676",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client, unfit for work due to car accident hopes to receive TV donation as his current TV screen is not working.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Wong Wing Sang",
+      "email": "wongwingsang@fycs.org",
+      "phone": [
+        "69784261",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141739",
+          "name": "TV console",
+          "description": "TV console",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "01 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": "100cmx40cmx45",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "141527",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -264,6 +298,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "140849",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Retiree seniors hopes to replace their current TV in the living room as it is faulty. Wishes for smart TV as couple listens to songs on Youtube. Kindly email: travislee@kkcs.org.sg",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Travis Lee",
+      "email": "travislee@kkcs.org.sg",
+      "phone": [
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Dec 2024",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141739",
+          "name": "TV console",
+          "description": "TV console",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "01 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": "100cmx40cmx45",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
