@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "141801",
+    "name": "La Maison Chest Freezer",
+    "description": "I have a almost new chest freezer to be given away.please arrange the transportation. Thank you",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "45cm x 41cm x 65cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "141794",
     "name": "Air Fryer",
     "description": "Used air fryer. Slight defect on the outer shell, but it still functions normally.",
@@ -53,6 +64,50 @@
     "dimensions": "23x23x37",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141803",
+    "name": "Corner shelf",
+    "description": "IKEA corner shelf, wood, open shelves. Brown",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": "2m ht x 28cm x 32 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141802",
+    "name": "Study chair",
+    "description": "IKEA office/study chair with castors. White frame with grey seats. Not bulky.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141800",
+    "name": "Bed and mattress",
+    "description": "Super single bed frame with mattress, mattress protector and 2 sets bedsheets with pillow cases. Pillow included if required.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": "190cm x 110cm headboard ht 108cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141799",
+    "name": "3 drawer office cabinet",
+    "description": "3 drawer wooden office cabinet with castors. Lock and key. Light brown colour",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": "58cm ht, 50cm depth, 46cm width",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "141798",
@@ -458,17 +513,6 @@
     "validTill": "11 Feb 2025",
     "ageInYears": 1,
     "dimensions": "120 to 130cm circumference",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "141796",
-    "name": "Shower Chair",
-    "description": "Brand new condition. Shower chair to help elderly or patients sit safely.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "10 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "14 x 19 inches (adjustable height)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
