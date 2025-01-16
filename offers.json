@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141798",
+    "name": "Single bed with mattress",
+    "description": "Good condition",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": "90 x 200 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141780",
     "name": "Dining Table",
     "description": "Foldable dining table. Measures 170 by 120 when opened and 120 by 120 when closed. Height is 74 cm.",
@@ -253,17 +264,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "141762",
-    "name": "Formula Milk Stage 3",
-    "description": "eVoucher for powder to be redeemed at FairPrice. Clients must be able to redeem from FairPrice themselves.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "141730",
     "name": "Kids table and chairs",
     "description": "IKEA Table for kids (adjustable height) and two chairs",
@@ -293,17 +293,6 @@
     "validTill": "09 Feb 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "141483",
-    "name": "Latex Mattress",
-    "description": "Playpen size 96x66x7.5 mattress\nPlaypen size 100x70x7.5cm mattress\nToddler size 142x70x10cm mattress",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "06 Feb 2025",
-    "ageInYears": 2,
-    "dimensions": "See description below",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
