@@ -55,6 +55,27 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "141781",
+    "name": "Ikea Lycksele Lovas Sofa-Bed",
+    "description": "Unit has had little to no usage. \nCondition: 9/10\n\n142cm wide, 87cm high, 100cm deep when in sofa configuration.  142cm wide, 39cm high, 188cm deep when in bed configuration.  Mattress thickness is 10cm.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 3,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141780",
+    "name": "Dining Table",
+    "description": "Foldable dining table. Measures 170 by 120 when opened and 120 by 120 when closed. Height is 74 cm.",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": "120 by 120 by 74 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "141766",
     "name": "Bean Bag",
     "description": "Very good condition bean bags",
@@ -84,17 +105,6 @@
     "validTill": "25 Jan 2025",
     "ageInYears": 2,
     "dimensions": "125cm x 46cm x 135m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141656",
-    "name": "Expandable Bed with Mattresses",
-    "description": "This expandable bed is in almost brand-new condition. It has been used only 2-3 times for guests. It comes with two good-quality firm single mattresses.\n\nWilling to give away a side table with it and four under-bed storage boxes.\n\nPick up at the earliest.\n\nIn terms of the bed's height, it's 40cm without mattresses.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "24 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "200cm x 110cm x 60cm (With Mattress)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -139,28 +149,6 @@
     "validTill": "17 Jan 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141647",
-    "name": "3yo super single HIP VAN bed with mattress",
-    "description": "super single bed from Hip Van.\ngreat condition. Mum's new hospital bed will be arriving 10 Jan 2025.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "17 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": "197x114x34(113-frame)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141649",
-    "name": "3yo super single HIP VAN bed with mattress",
-    "description": "super single bed from Hip Van.\ngreat condition. Mum's new hospital bed will be arriving 10 Jan 2025.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "17 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": "197x114x34(113-frame)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -495,28 +483,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "141622",
-    "name": "Shower Chair",
-    "description": "Brand new condition. Shower chair to help elderly or patients sit safely.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "10 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "14 x 19 inches (adjustable height)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "141582",
-    "name": "Medical chair with gel pad",
-    "description": "Medical chair with gel pad for donation. Lightly used. In good working condition.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "08 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "141214",
     "name": "apidra solostar",
     "description": "have multiple boxes. my doctor told me that i grew resistant to apidra so i had to switch my insulin. expires 30/6/25 or 31/07/25.",
@@ -732,17 +698,6 @@
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "31 Jan 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "141758",
-    "name": "FREE electrical & plumbing work",
-    "description": "FREE electrical work (lighting, sockets, cabling) and plumbing work (changing taps, pipe clog) for elderly",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "06 Feb 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
