@@ -1041,6 +1041,23 @@
     "date": "16 Dec 2024"
   },
   {
+    "id": "141797",
+    "category": "Others",
+    "name": "Phone",
+    "description": "Client is a rough sleeper who is currently uncontactable as he does not have a phone. Having a phone would make communication easier with client.",
+    "specifications": "4 to 6 inch",
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Iffah Hadhirah Binte Mohamad Noor",
+      "email": "iffahnoor@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "16 Jan 2025"
+  },
+  {
     "id": "141785",
     "category": "Others",
     "name": "Mobile phone",
@@ -1870,23 +1887,6 @@
     "date": "16 Jan 2025"
   },
   {
-    "id": "141774",
-    "category": "Home Furnishing",
-    "name": "Bed and bedframe",
-    "description": "Client (M/51) is in urgent need of a super single mattress and bed frame as he will be discharged from hospital in the coming week. Client has mobility limitations and incontinence due to a medical condition that had rendered his previous bed unusable.",
-    "specifications": "107cm x 190cm",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "John Tan",
-      "email": "johntan@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "16 Jan 2025"
-  },
-  {
     "id": "141772",
     "category": "Home Furnishing",
     "name": "Mobile TV Stand",
@@ -2205,6 +2205,40 @@
     "date": "18 Dec 2024"
   },
   {
+    "id": "141795",
+    "category": "Electrical Home Appliances",
+    "name": "Portable vacuum cleaner",
+    "description": "Elderly couple staying with their grand-daughter in a 2-room rental flat is requesting for a portable vacuum cleaner for their home. Grandfather (66M) is blind and suffers from a rare skin disease that requires specialised soap and medical care, while grandmother (76F) is currently hospitalised as she suffers from multiple health and renal complications that includes kidney failure that requires dialysis, diabetes, thyroid, asthma, gout and high blood pressure. Due to their multiple health issues and medical checks, they rely heavily on their 47F daughter, who stays in a nearby rental flat with her husband and 8M son, and their 22F grand-daughter to attend to their medical needs and caregiving support for the elderly couple. Hence both daughter and grand-daughter find it hard to sustain employment due to the frequent medical issues that arise between the elderly couple. A new portable vacuum cleaner would be helpful for the family to clean their home easily, as due to his skin condition, grandfather is highly sensitive to dust.",
+    "specifications": "Portable Vacuum Cleaner",
+    "contact": {
+      "org": "Lutheran Community Care Services",
+      "name": "Nigel Lee",
+      "email": "nigel.lee@lccs.org.sg",
+      "phone": [
+        "64413906"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jan 2025"
+  },
+  {
+    "id": "141791",
+    "category": "Electrical Home Appliances",
+    "name": "CCTV Camera",
+    "description": "Client was advised by the police to install a doorbell camera which can be connected to her phone due to concerns of loan shark harassment. Client does not have financial means to purchase it as she is still looking for employment and has spent her earnings to pay the loan shark previously. The doorbell camera will support client in enhancing her sense of safety and support in police’s investigation.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jan 2025"
+  },
+  {
     "id": "141789",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -2296,24 +2330,6 @@
     "name": "SMART TV",
     "description": "Epworth HomeSweetHome is a children's home for primary school boys. We would like to request a 55-inch smart TV for therapy/education/recreational uses. \n\nPlease note to donate only new or good condition TV as every electrical appliance is meant to serve the home for many years to come. Thank you!",
     "specifications": "55 inch",
-    "contact": {
-      "org": "Epworth Community services - Home Sweet Home",
-      "name": "Tiong Poh Eng",
-      "email": "poheng@epworth.sg",
-      "phone": [
-        "65622211",
-        "67153418"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Jan 2025"
-  },
-  {
-    "id": "141770",
-    "category": "Electrical Home Appliances",
-    "name": "Dryer",
-    "description": "Epworth HomeSweetHome is a children's home for primary school boys. We would like to request a 10kg dryer for our boys' laundry.\n\nPreferably new or in good condition as every appliance in the home will serve the resident for many years to come.\n\nThank you!",
-    "specifications": "10kg Dryer",
     "contact": {
       "org": "Epworth Community services - Home Sweet Home",
       "name": "Tiong Poh Eng",

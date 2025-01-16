@@ -11,15 +11,15 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "141366",
-    "name": "New shoes",
-    "description": "Size 6\nWore once only",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "27 Jan 2025",
-    "ageInYears": 1,
+    "id": "141794",
+    "name": "Air Fryer",
+    "description": "Used air fryer. Slight defect on the outer shell, but it still functions normally.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "141542",
@@ -53,16 +53,6 @@
     "dimensions": "23x23x37",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "141781",
-    "name": "Ikea Lycksele Lovas Sofa-Bed",
-    "description": "Unit has had little to no usage. \nCondition: 9/10\n\n142cm wide, 87cm high, 100cm deep when in sofa configuration.  142cm wide, 39cm high, 188cm deep when in bed configuration.  Mattress thickness is 10cm.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 3,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "141780",
@@ -105,17 +95,6 @@
     "validTill": "25 Jan 2025",
     "ageInYears": 2,
     "dimensions": "125cm x 46cm x 135m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141642",
-    "name": "Foldable mattress",
-    "description": "Used foldable mattress available",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "11 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -250,6 +229,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "141793",
+    "name": "Soft toys",
+    "description": "All new soft toys",
+    "location": null,
+    "validTill": "15 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "141792",
+    "name": "Kids toys and books",
+    "description": "Numerous good quality toys and books, some brand new, for children 3-5 years old",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "141762",
@@ -461,17 +462,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "141749",
-    "name": "Fully Motorised German Made Hospital Bed",
-    "description": "Fully Motorised German Made",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "14 Feb 2025",
-    "ageInYears": 2,
-    "dimensions": "Standard Hospital Bed Size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "141626",
     "name": "Pelvis corset",
     "description": "Size 6 (circumference of pelvis 120 to 130cm). German brand : Bauerfeind. Provides relief for pain.",
@@ -479,6 +469,17 @@
     "validTill": "11 Feb 2025",
     "ageInYears": 1,
     "dimensions": "120 to 130cm circumference",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "141796",
+    "name": "Shower Chair",
+    "description": "Brand new condition. Shower chair to help elderly or patients sit safely.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "10 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "14 x 19 inches (adjustable height)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
