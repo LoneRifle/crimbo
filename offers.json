@@ -220,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140899",
-    "name": "Bar chairs",
-    "description": "A pair of height adjustment able bar chairs bought from XZQT.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "19 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "Regular chair",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141832",
     "name": "Baby Crib and Mattress",
     "description": "Very good condition Ikea Crib complete with mattress, bumper and sheets.",
@@ -292,17 +281,6 @@
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "09 Feb 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "141375",
-    "name": "Baby Boy Clothes",
-    "description": "For 0-3mos and some 6mos old Baby Boy Clothing for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 Jan 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -407,6 +385,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "141848",
+    "name": "Stationery tray",
+    "description": "2 pieces of stationery trays.\n\nDelivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "18 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "27cmLx18cmWx4cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
     "id": "141574",
     "name": "Diary of a wimpy kid",
     "description": "4 titles/books.\n\nDelivery on weekday evening and weekend.",
@@ -449,6 +438,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "141849",
+    "name": "Hospital Bed",
+    "description": "Hospital adjustable medical bed",
+    "location": null,
+    "validTill": "29 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "141847",
