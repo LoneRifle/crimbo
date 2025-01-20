@@ -1,16 +1,5 @@
 [
   {
-    "id": "141886",
-    "name": "Clothes for Children",
-    "description": "Clothes for 6yr old girl",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "141628",
     "name": "G2000 men blazer",
     "description": "G2000 men slim fit blazer size 46, worn few times only, in good condition",
@@ -75,6 +64,17 @@
     "dimensions": "23x23x37",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141895",
+    "name": "Black leather sofa",
+    "description": "Still in good condition except that Sofa has some peeling seen but Can use sofa cover. It’s been only 2 years using it since we are shifting house soon hence passing it on.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "19 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "141890",
@@ -537,6 +537,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "141899",
+    "name": "NESTLE Resource Fruit Beverage Apple, Raspberry 200ml Carton of 24",
+    "description": "48 bottles with mixed ratio of Apple. And Raspberry berries",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "19 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "48 bottles",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "141898",
+    "name": "Fresubin Protein Energy DRINK",
+    "description": "16 bottles, new, with expiry date more than 3 months",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "19 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "16 bottles",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "141897",
+    "name": "Nestle Resource 2.0 Milk Liquid 200ml Carton of 24 – Vanilla",
+    "description": "Brand new, with more than 3 months expiry",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "19 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "24 bottles",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "141874",
