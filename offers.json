@@ -1,5 +1,16 @@
 [
   {
+    "id": "141886",
+    "name": "Clothes for Children",
+    "description": "Clothes for 6yr old girl",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "141628",
     "name": "G2000 men blazer",
     "description": "G2000 men slim fit blazer size 46, worn few times only, in good condition",
@@ -11,23 +22,34 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "141854",
-    "name": "Powerpac mini washer (PPW820)",
-    "description": "Lightly used mini washer (Powerpac model PPW820). Has both wash and spin functions; semi automatic mode.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Feb 2025",
+    "id": "141892",
+    "name": "Foot Massager",
+    "description": "Watson's Foot Massage with box",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
     "ageInYears": 1,
-    "dimensions": "35 (Depth) x 30 (length) x 48 Height all in cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "141851",
-    "name": "Brother DCP-J125 Printer Scanner",
-    "description": "Rarely used Brother Inkjet color printer & scanner",
-    "location": null,
-    "validTill": "18 Feb 2025",
-    "ageInYears": 4,
+    "id": "141888",
+    "name": "Steamer",
+    "description": "Small Food Steamer - ideal for steaming baby food",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141887",
+    "name": "Rice Cooker",
+    "description": "Lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -53,6 +75,39 @@
     "dimensions": "23x23x37",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141890",
+    "name": "Small Drawer",
+    "description": "small drawer",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141885",
+    "name": "3 seater recliner sofa in leather",
+    "description": "Well used but in v good condition. It has usb a ports at the sides. Both seats can be fully reclined. A little discolouration on the left seat, it’s not peeling.",
+    "location": null,
+    "validTill": "24 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "190cm, 100cm, 67cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "141883",
+    "name": "3 seater sofa",
+    "description": "Recliner sofa in good condition - can be separated for easy handling n transportation.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "23 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "200x90x102 ht",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "141867",
@@ -264,23 +319,23 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "141889",
+    "name": "Baby Cot + Mattress",
+    "description": "Lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "141863",
     "name": "Playpen / Cot",
     "description": "- rarely used as it was an extra set\n- can be used as cot or playpen",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "31 Jan 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "141850",
-    "name": "Stroller",
-    "description": "Hamilton R1 Stroller. Suitable from newborn.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "01 Feb 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -603,6 +658,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "141891",
+    "name": "Resource 2.0",
+    "description": "Vanilla-flavored Resource 2.0",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "141876",
