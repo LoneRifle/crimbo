@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "141907",
+    "name": "Salt light",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "20 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "141892",
     "name": "Foot Massager",
     "description": "Watson's Foot Massage with box",
@@ -64,6 +75,17 @@
     "dimensions": "23x23x37",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141906",
+    "name": "Console",
+    "description": "Solid and can be heavy",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "20 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": "106cm x 62cm x 50 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "141902",
@@ -143,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141867",
-    "name": "Queen Sized Bed with Frame",
-    "description": "Donating a Queen Sized Bed with Bed Frame.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "18 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141865",
     "name": "Simons brand Super king bed and bed frame",
     "description": "Super king size bed with bed frame \nSimmons Brand\nSuper King\n\n180 cm (W) × 200 cm (L)- mattress size\n72 in (W) × 78 in (L)",
@@ -187,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141852",
-    "name": "Mattress",
-    "description": "Very clean, rarely used. Used with mattress protector and fitted sheet.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 2,
-    "dimensions": "200*90*16,cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141844",
     "name": "Dinning table and chairs",
     "description": "Dinning table and chairs, hardly use. Please arrange transport to pick up by 22 Jan.",
@@ -227,17 +227,6 @@
     "validTill": "15 Feb 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141799",
-    "name": "3 drawer office cabinet",
-    "description": "3 drawer wooden office cabinet with castors. Lock and key. Light brown colour",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": "58cm ht, 50cm depth, 46cm width",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -451,28 +440,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "141114",
-    "name": "Pram",
-    "description": "Well used, good condition.Plastic top is not intact, so can’t use in the rain!",
-    "location": null,
-    "validTill": "28 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "141662",
-    "name": "Board games",
-    "description": "As shown\nWilling to meet at common meeting point",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "28 Jan 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "141095",
     "name": "Child car seat",
     "description": "This is the child car seat that my daughter used for a number of years. It’s used but not abused. Some marks here and there but it still serves its function. Daughter has outgrown and therefore looking to pass it on",
@@ -658,17 +625,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "141621",
-    "name": "Electric Nursing Bed",
-    "description": "Brand new and in perfect working condition. Electric back rising bed to help elderly or patients lie down or sit up comfortably.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "10 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "70 x 36 x 5 inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "141531",
