@@ -11,23 +11,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "141907",
-    "name": "Salt light",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "20 Feb 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "141892",
-    "name": "Foot Massager",
-    "description": "Watson's Foot Massage with box",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 1,
+    "id": "141958",
+    "name": "Dishwasher",
+    "description": "Dishwasher",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "13 Feb 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -440,17 +429,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "141862",
-    "name": "Electronic keyboard",
-    "description": "Portable keyboard, still in good working condition.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "1.2 m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "141848",
     "name": "Stationery tray",
     "description": "2 pieces of stationery trays.\n\nDelivery on weekday evening and weekend.",
@@ -592,6 +570,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "141954",
+    "name": "Walking frame with wheels",
+    "description": "Used less than a month\nLightly used\nGood as new",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "21 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141953",
+    "name": "Bed pen",
+    "description": "Brand new\nStainless steel",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "21 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "141952",
+    "name": "Shower chair",
+    "description": "Lightly used\nSponge is new\nWell. Maintained, good as new",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "21 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "141951",
