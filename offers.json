@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "142029",
+    "name": "Television, TV",
+    "description": "Lightly used, Smart TV with brackets for wall mount\nNot Google TV\nFor interested parties, please arrange for self installation.\nPreferred to have self collection from Bedok.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "55 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "141958",
     "name": "Dishwasher",
     "description": "Dishwasher",
@@ -84,17 +95,6 @@
     "validTill": "20 Feb 2025",
     "ageInYears": 2,
     "dimensions": "1.8X0.85X0.76",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141906",
-    "name": "Console",
-    "description": "Solid and can be heavy",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "20 Feb 2025",
-    "ageInYears": 3,
-    "dimensions": "106cm x 62cm x 50 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -220,22 +220,33 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141911",
-    "name": "Scanteak double bunker bed with a third pull out base",
-    "description": "Good condition",
-    "location": null,
-    "validTill": "11 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": "Single bed",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141562",
     "name": "8 seater dining set",
     "description": "8 seater dining table",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "08 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142018",
+    "name": "Dinning Table (extendable: 6-8 persons)",
+    "description": "Extendable dinning table which sits 6 and 8 when extended",
+    "location": null,
+    "validTill": "24 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142020",
+    "name": "Dinning Table (extendable: 6-8 persons)",
+    "description": "Extendable dinning table which sits 6 and 8 when extended",
+    "location": null,
+    "validTill": "24 Jan 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -473,28 +484,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "141899",
-    "name": "NESTLE Resource Fruit Beverage Apple, Raspberry 200ml Carton of 24",
-    "description": "48 bottles with mixed ratio of Apple. And Raspberry berries",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "19 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "48 bottles",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "141898",
-    "name": "Fresubin Protein Energy DRINK",
-    "description": "16 bottles, new, with expiry date more than 3 months",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "19 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "16 bottles",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "141874",
     "name": "Oxygenerator",
     "description": "Oxygenerator. 10 Litres capacity",
@@ -559,6 +548,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "142028",
+    "name": "2 Commode chairs",
+    "description": "Very new 2 commote chairs, 1 with wheels , 1 without wheels",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "27 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "141999",
