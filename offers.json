@@ -110,17 +110,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "142113",
-    "name": "Gray fabric 3-seater sofa",
-    "description": "3-seater fabric sofa, well-used",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "25 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "142102",
     "name": "Study table",
     "description": "Is a study table with shelving combi",
@@ -341,34 +330,12 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "142053",
-    "name": "Single stroller",
-    "description": "Combi Handy baby stroller. Well-used but still functioning very well.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "22 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "141889",
     "name": "Baby Cot + Mattress",
     "description": "Lightly used",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "31 Jan 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "141832",
-    "name": "Baby Crib and Mattress",
-    "description": "Very good condition Ikea Crib complete with mattress, bumper and sheets.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Jan 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -636,6 +603,17 @@
     "dimensions": "Tall and below knee",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "142138",
+    "name": "Office Printer",
+    "description": "Canon ImageClass MF635Cx",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": "451 x 460 x 400 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "142101",
