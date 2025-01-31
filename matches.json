@@ -234,17 +234,18 @@
     }
   },
   {
-    "id": "142181",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "client  is a 20-year-old who has recently completed his national service. He lives in a rental flat with his elderly grandmother, whom he assists with caregiving. He is looking for temporary work as a food delivery rider to save money for his future educational plans. However, he does not own a bicycle and would greatly benefit from one.",
-    "specifications": "adult bicycle",
+    "id": "142194",
+    "category": "Home Furnishing",
+    "name": "Coffee table",
+    "description": "Client is 71y/o, he has a son with mental health condition and another son with learning disability therefore they are unable to provide caregiving to client. Client is in the midst of waiting for a rental flat from HDB, and is currently staying with his niece who has been housing him and his son for 2 months since they were chased out by another relative. There has been a bed bug situation recently that destroyed multiple of the family's home furnitures, and the family currently has no coffee table to prepare for upcoming Hari Raya.",
+    "specifications": null,
     "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Nurhidayah Binte Sazali",
-      "email": "hidayah@sccfsc.org.sg",
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
       "phone": [
-        "64619200"
+        "69783516",
+        "62672900"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -252,15 +253,82 @@
     "matches": {
       "passiton": [
         {
-          "id": "141704",
-          "name": "Bicycle helmet",
-          "description": "Delivery on weekday evening and weekend.",
-          "location": null,
-          "validTill": "13 Feb 2025",
-          "ageInYears": 2,
+          "id": "142197",
+          "name": "Coffee table with Chinese carvings (antique)",
+          "description": "Genuine antique Chinese coffee table with carvings and mother of pearl inlay work. It’s an original antique so has signs of wear & tear. Comes with glass top",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "28 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": "L100cm, W50cm, H55cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142193",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is 71y/o, he has a son with mental health condition and another son with learning disability therefore they are unable to provide caregiving to client. Client is in the midst of waiting for a rental flat from HDB, and is currently staying with his niece who has been housing him and his son for 2 months since they were chased out by another relative. There has been a bed bug situation recently that destroyed multiple of the family's home furnitures, and the family currently has no sofa to prepare for upcoming Hari Raya.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142195",
+          "name": "Sofa",
+          "description": "2.2m",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "02 Mar 2025",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142166",
+          "name": "Sofa (2 and 3 seat) and dining table set",
+          "description": "2 and 3 seater sofa\nDining table with 4 chairs",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "03 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142094",
+          "name": "Muji Oak Wooden Sofa 2.5 Seater",
+          "description": "Removable covers that can be washed, oak wooden frame",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "21 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": "1785mm x 960mm x 835mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "141963",
+          "name": "Muji Oak Wooden Sofa 2.5 Seater",
+          "description": "Removable covers that can be washed, oak wooden frame",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "21 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": "1785mm x 960mm x 835mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
