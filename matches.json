@@ -67,6 +67,40 @@
     }
   },
   {
+    "id": "138324",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "The client resides with 6 of her children. The household faces financial difficulties, client prioritizing providing children's basic needs - while having accumulated outstanding debts. This is especially so as 4 children are still studying, while her older 2 children are not working presently and she is the sole breadwinner. Considering their financially tight situation, the family wishes to request for a bicycle through PIO. We would be grateful if the donor can provide/pay for delivery of the bicycle to the client.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Low Zi Yuan",
+      "email": "lowziyuan@allkin.org.sg",
+      "phone": [
+        "65561673",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141704",
+          "name": "Bicycle helmet",
+          "description": "Delivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "13 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "141918",
     "category": "Others",
     "name": "Laptop",
@@ -194,6 +228,39 @@
           "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142181",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "client  is a 20-year-old who has recently completed his national service. He lives in a rental flat with his elderly grandmother, whom he assists with caregiving. He is looking for temporary work as a food delivery rider to save money for his future educational plans. However, he does not own a bicycle and would greatly benefit from one.",
+    "specifications": "adult bicycle",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141704",
+          "name": "Bicycle helmet",
+          "description": "Delivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "13 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
