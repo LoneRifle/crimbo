@@ -354,6 +354,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "142204",
+          "name": "sofa",
+          "description": "two seater sofa",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "03 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "aXbXc",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "142195",
           "name": "Sofa",
           "description": "2.2m",
