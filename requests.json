@@ -1,5 +1,40 @@
 [
   {
+    "id": "142359",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator for small household",
+    "description": "Client was previously incarcerated and was released on 28 September 2024. She is facing challenges in securing employment due to her history of incarcerations. She has limited social support and is currently receiving ComCare Short-to-Medium-Term Assistance. Client is seeking assistance with in-kind donations, including home appliances, basic necessities, and other small furnishings, as she works towards gaining stability and independence.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142357",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Unemployed single mother of two young children is looking to furnish her new rental flat with a washing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Amanda Soo",
+      "email": "amandasoo@carecorner.org.sg",
+      "phone": [
+        "69784084",
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
     "id": "142347",
     "category": "Electrical Home Appliances",
     "name": "Front-load Washing Machine",
@@ -118,24 +153,6 @@
       "phone": [
         "69783482",
         "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Feb 2025"
-  },
-  {
-    "id": "142324",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine (Top load, 9-10kg)",
-    "description": "Client is a 32-year-old mother of four children. She is married, but husband is incarcerated. Given her husband's role as the sole provider for the family while she provides care for their 4 children, client's family is currently struggling financially. She is thus unable to afford a new washing machine, after hers broke down.",
-    "specifications": "Washing machine (Top load, 9-10kg)",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1174,6 +1191,24 @@
     "date": "07 Jan 2025"
   },
   {
+    "id": "142363",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "An elderly woman is taking care of her husband, who has dementia and has suffered a mild stroke, leading to incontinence. As a result, he needs frequent diaper changes every day. Unfortunately, they are both unemployed and struggling financially. The woman is kindly asking for help in getting FairPrice XL-sized adult diapers pants, as the ongoing expense has become a significant burden for them.",
+    "specifications": "XL",
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Chris Tan",
+      "email": "tanyonghong@fycs.org",
+      "phone": [
+        "96424877",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
     "id": "138677",
     "category": "Medical Aids",
     "name": "TENA PROSKIN TAPE SIZE L (ADULT DIAPERS)",
@@ -1350,6 +1385,60 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Jan 2025"
+  },
+  {
+    "id": "142364",
+    "category": "Infant and Children Items",
+    "name": "Toys or game set for ages 3-6 years old",
+    "description": "Community Services & Programmes @ Children’s Society requires 10 sets of any toys or game set for ages 3-6 years old (Targeting fine motor skills and problem solving),no playdough for centre usage.\n\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142362",
+    "category": "Infant and Children Items",
+    "name": "Twin Baby Stroller",
+    "description": "Community Services & Programmes @ Children’s Society requires a Twin Baby Stroller suitable for an 11 months old and a 3 months old. Client requested for twin stroller as she has just given birth, and she is facing some financial stresses to provide for 2 young children under the age of 2. \nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "139898",
+    "category": "Infant and Children Items",
+    "name": "Dugro Stage 4 Milk powder refill",
+    "description": "Community Services & Programmes @ Children's Society requires 4pkt of Dugro Stage 4 Milk powder refill for thier client's child. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society Corporate Office",
+      "name": "Kartini",
+      "email": "dik@childrensociety.org.sg",
+      "phone": [
+        "69787279",
+        "62732010"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
   },
   {
     "id": "142338",
@@ -2540,6 +2629,92 @@
     "date": "07 Jan 2025"
   },
   {
+    "id": "142368",
+    "category": "Others",
+    "name": "King Size Bedsheet",
+    "description": "Client (F/45) is unemployed currently and is facing financial challenges. She has a 3-year-old daughter and requires a king size bedsheet for her bed as her current ones have wear and tears on them.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142367",
+    "category": "Others",
+    "name": "Pillowcase set",
+    "description": "Client (F/45) is unemployed currently and is facing financial challenges. She has a 3-year-old daughter and requires a pillowcase set for her pillows as her current ones have wear and tear on it.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142366",
+    "category": "Others",
+    "name": "Dutch Lady Full Cream Milk pack of 6",
+    "description": "Client (F/45) is unemployed currently and is facing financial challenges. She has a 3-year-old daughter and requires a dutch lady pack 06 milk for her child.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142365",
+    "category": "Others",
+    "name": "Security Camera",
+    "description": "Client (F/45), is unemployed currently and is facing financial challenges. She has a 3 year old daughter and requires a security camera to be installed outside her house for her and daughter safety as she is undergoing marital conflicts with her husband.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142356",
+    "category": "Others",
+    "name": "TENA Adult Wet Wipes",
+    "description": "Female client, 89 yo, diagnosed with Breast Cancer. Due to her age, she has difficulties to walk after completing her treatment. Currently is wheelchair bound. She requires TENA Wet Wipes to help her clean her body and use it to change her diapers. She has sensitive skin, therefore, she only uses certain brands that suit her.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
     "id": "142351",
     "category": "Others",
     "name": "Phone",
@@ -3370,6 +3545,23 @@
     "date": "07 Jan 2025"
   },
   {
+    "id": "142360",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Mobile Phone (Any Brand)",
+    "description": "Client was previously incarcerated and was released on 28 September 2024. She is facing challenges in securing employment due to her history of incarcerations. She has limited social support and is currently receiving ComCare Short-to-Medium-Term Assistance. Client is seeking assistance with in-kind donations, including home appliances, basic necessities, and other small furnishings, as she works towards gaining stability and independence.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
     "id": "142294",
     "category": "Leisure and Healthy Lifestyle",
     "name": "E-bicycle",
@@ -3509,6 +3701,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jan 2025"
+  },
+  {
+    "id": "142361",
+    "category": "Home Furnishing",
+    "name": "2 single mattress with bed frame",
+    "description": "Ct (M/51) and his son (M/18) have newly moved into a 1-room flat this year, following a period of homelessness and housing instability. Ct has chronic health issues which has led to fluctuations and him being unable to work temporarily. The family is depended on ComCare Assistance to manage their basic needs. They are getting by with some thin mats, mattresses which has not been the best for Ct's health. Having a bed would significantly improve their quality of life and day to day living",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
+  },
+  {
+    "id": "142358",
+    "category": "Home Furnishing",
+    "name": "2 door wardrobe",
+    "description": "Client is an elderly who has just shifted to a HDB rental flat. He requires a wardrobe to store his clothing and belongings. Client has no source of income as he is unemployed, hence unable to purchase the wardrobe.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2025"
   },
   {
     "id": "142353",
@@ -5269,6 +5496,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jan 2025"
+  },
+  {
+    "id": "142369",
+    "category": "Kitchen Utility Items",
+    "name": "Rice Cooker, Cooking Pot, Pan, and Utensils",
+    "description": "A 51-year-old mother and her 16-year-old daughter, currently experiencing homelessness, have been temporarily housed in a unit with a fully functioning kitchen but no essential kitchen utensils. While food rations have been provided, they are unable to prepare proper meals. We are appealing for a rice cooker, cooking pot, pan, and basic utensils to help them cook hot meals and regain a sense of stability.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Dayana Binte Adly Ismadi",
+      "email": "dayana@kkcs.org.sg",
+      "phone": [
+        "63260311",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 Feb 2025"
   },
   {
     "id": "142311",
