@@ -77,17 +77,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "142119",
-    "name": "Printer",
-    "description": "Brother printer use less than 1 year.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "25 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "142106",
     "name": "Slow cooker",
     "description": "Never used before. 0.7/1.2 litre — TBC\n\nNot available from 29 Jan to 12 Feb",
@@ -187,13 +176,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "142280",
-    "name": "Dinning dinner with four chairs",
-    "description": "Still in good condition. Can sand down and varnish and good as new. Do note scratches on table leg due to cats.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "28 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": "92x92xx92 cm",
+    "id": "142433",
+    "name": "Single size mattress & bedsheet",
+    "description": "Medium firm spring mattress, used less than 1 year\nMicrofiber bedsheet, with 2 pillow &bolster cases",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142434",
+    "name": "Single size mattress & bedsheet",
+    "description": "Medium firm spring mattress, used less than 1 year\nMicrofiber bedsheet, with 2 pillow &bolster cases",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -216,17 +216,6 @@
     "validTill": "21 Feb 2025",
     "ageInYears": 2,
     "dimensions": "1785mm x 960mm x 835mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141901",
-    "name": "Writing table with fixed drawers",
-    "description": "Writing table with fixed 3 drawers",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "09 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": "L 1200 X W 600 X Ht 750mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -262,6 +251,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "142435",
+    "name": "Baby cot",
+    "description": "Baby cot, no mattress\nAlso have 3 mattress protectors",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "08 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "142409",
