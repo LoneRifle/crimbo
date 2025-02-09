@@ -1,39 +1,5 @@
 [
   {
-    "id": "142487",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Client is residing in a 2-room HDB flat with his wife and 2-year-old son. Client is unfit for work due to a head injury, and wife is also unemployed due to caregiving duties. They are currently surviving on ComCare assistance, and hence are unable to afford a washing machine.",
-    "specifications": null,
-    "contact": {
-      "org": "Central Singapore CDC (SS BoonHua)",
-      "name": "Vanessa Ong",
-      "email": "vanessa_ong@msf.gov.sg",
-      "phone": [
-        "63709953",
-        "63709471"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "07 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142501",
-          "name": "Washing Machine",
-          "description": "well-used",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "17 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "142455",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -900,6 +866,40 @@
           "dimensions": "App 60cm x 30cm x 5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142416",
+    "category": "Infant and Children Items",
+    "name": "Toddler Clothes",
+    "description": "Family is experiencing financial challenges and has difficulty affording new clothes for their growing toddler. The current clothes for the toddler are too tight and requires bigger clothing. The toddler is 1.5 years old and weighs 12kg.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Melissa Sim",
+      "email": "melissasim@fycs.org",
+      "phone": [
+        "66901002",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142519",
+          "name": "Toddler Boy Clothes",
+          "description": "1 big bag Toddler boy clothes",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
