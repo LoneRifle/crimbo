@@ -715,6 +715,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "142577",
+    "name": "Crutches",
+    "description": "Crutches which are barely used",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "12 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "142510",
     "name": "Commode",
     "description": "Seldom use",
