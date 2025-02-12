@@ -68,6 +68,40 @@
     }
   },
   {
+    "id": "142260",
+    "category": "Electrical Home Appliances",
+    "name": "Massage chair",
+    "description": "Seeking a massage chair for caregivers of children with cancer. The reason is for them to rest and relax while they drop by to the children cancer center.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142620",
+          "name": "OSIM U-Dance Massage Chair",
+          "description": "Massage Chair",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142233",
     "category": "Electrical Home Appliances",
     "name": "Television",
