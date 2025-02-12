@@ -68,40 +68,6 @@
     }
   },
   {
-    "id": "142260",
-    "category": "Electrical Home Appliances",
-    "name": "Massage chair",
-    "description": "Seeking a massage chair for caregivers of children with cancer. The reason is for them to rest and relax while they drop by to the children cancer center.",
-    "specifications": null,
-    "contact": {
-      "org": "AIN Society",
-      "name": "Norhashimah Binti Kamarudin",
-      "email": "shimah@ainsociety.org.sg",
-      "phone": [
-        "68485163",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142620",
-          "name": "OSIM U-Dance Massage Chair",
-          "description": "Massage Chair",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "19 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "142233",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -164,6 +130,39 @@
           "dimensions": "App 60cm x 30cm x 5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "141881",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "The client is a single mom of 6 children, ages from 2 year old to 10 years old.\n\nThe client has been unemployed for more than 6 months but managed to secure a job as a factory operator recently. She also wants to work as an ad hoc delivery rider during her free time to earn additional income to support her family but needs a bicycle as a tool of transportation.\n\nIn addition, due to the lack of financial support from her ex-husband, formula milk and diapers are a real strain on her budget.  Any donation of toddler formula or diapers would be a huge help and would allow the client to focus on her job.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Jan 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "141704",
+          "name": "Bicycle helmet",
+          "description": "Delivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "13 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -396,39 +395,6 @@
           "location": null,
           "validTill": "21 Feb 2025",
           "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "141881",
-    "category": "Others",
-    "name": "Bicycle",
-    "description": "The client is a single mom of 6 children, ages from 2 year old to 10 years old.\n\nThe client has been unemployed for more than 6 months but managed to secure a job as a factory operator recently. She also wants to work as an ad hoc delivery rider during her free time to earn additional income to support her family but needs a bicycle as a tool of transportation.\n\nIn addition, due to the lack of financial support from her ex-husband, formula milk and diapers are a real strain on her budget.  Any donation of toddler formula or diapers would be a huge help and would allow the client to focus on her job.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jan 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "141704",
-          "name": "Bicycle helmet",
-          "description": "Delivery on weekday evening and weekend.",
-          "location": null,
-          "validTill": "13 Feb 2025",
-          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
@@ -858,17 +824,6 @@
     "date": "03 Feb 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "142579",
-          "name": "Bedside cabinet",
-          "description": "Bedside cabinet in great condition...",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "07 Mar 2025",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "142580",
           "name": "Bedside cabinet",
