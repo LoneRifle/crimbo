@@ -66,6 +66,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "142695",
+    "name": "Office Chair",
+    "description": "Office chair suitable for child, not suitable for adult weight.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "25 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "45cm x 45cm x 90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "142679",
     "name": "Black singe seater sofa chair",
     "description": "A single seater black leather sofa chair.",
@@ -291,17 +302,6 @@
     "description": "IKEA office/study chair with castors. White frame with grey seats. Not bulky.",
     "location": "Bukit timah",
     "validTill": "15 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "141750",
-    "name": "Full Cowhide Leather Arm Chair With Ottoman",
-    "description": "Fully Leather Imported Cowhide Leather",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "14 Feb 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -781,6 +781,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "142696",
+    "name": "Water Flask",
+    "description": "Water flask, gold colour, 1600ml",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "25 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "10cm diameter x 30cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "142627",
     "name": "Bag",
     "description": "Delivery on weekday evening and weekend.",
@@ -886,17 +897,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "17 Feb 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "141751",
-    "name": "Standing Piano",
-    "description": "Standing Piano",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "14 Feb 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
