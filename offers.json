@@ -33,28 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "142704",
-    "name": "Top load washing machine",
-    "description": "Well used top load",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "142703",
-    "name": "Hitachi refrigerator",
-    "description": "Cleaned up good condition.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "142702",
     "name": "Electric food chopper/ blender",
     "description": "Toyomi Electric Chopper for use as blender, preparing baby food, etc. High power chopper and glass bowl. Still in box.",
@@ -194,17 +172,6 @@
     "validTill": "02 Mar 2025",
     "ageInYears": 4,
     "dimensions": "160 x 85 X 75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142600",
-    "name": "Sofa",
-    "description": "3 sofa sets \neach soft 2 seater",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "15 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -528,17 +495,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "142652",
-    "name": "Rakusho Z series hospital bed",
-    "description": "Home-care bed for elderly/patient who is recuperating at home. The patient can be cared for with greater ease and efficiency by caregivers with this recliner bed.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "207.3 x 99.9 x 84.7",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "142514",
     "name": "Absorption pads for hospital bed",
     "description": "Pads to spread on hospital bed. We have 6 pieces to donate. No expiry.",
@@ -812,6 +768,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "142712",
+    "name": "Salt (500g)",
+    "description": "100 packets of salt",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "16 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "142709",
+    "name": "Primary School Shoe",
+    "description": "Primary School Shoe Size EU39/UK6/US8",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "28 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "142696",
