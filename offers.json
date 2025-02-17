@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "142790",
+    "name": "Standing fan",
+    "description": "Slightly rusty, but still in usable condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "26 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "142780",
     "name": "Standing Fan",
     "description": "standing fan",
@@ -88,6 +99,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "142793",
+    "name": "Kitchen Cabinet",
+    "description": "Kitchen cabinet",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "26 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": "6ft 4 inch x 20 inch x 75 inches (height)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142792",
+    "name": "Coffee table",
+    "description": "Dining table",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "26 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142791",
+    "name": "Dining chair",
+    "description": "Dining chair",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "26 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142788",
+    "name": "Super single bed board and mattress",
+    "description": "Super single size bed board and mattress.\n3 years use. \nNo storage under bed.\nNo storage on head board. \nDecided to dispose due to moving out.\nPrefer VWO to collect and deliver at own charge.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "15 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "142787",
     "name": "Hospital bed",
     "description": "The 3-Crank Electrical Luxury Plus Hospital Bed is 3 crank nursing bed featuring head/back raise, leg raise and height adjustments functions.",
@@ -128,17 +183,6 @@
     "validTill": "22 Feb 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142774",
-    "name": "Sofa",
-    "description": "Cover washable. Well maintained. Can sit 3 to 4 people",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "2mx70cmx60cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -484,17 +528,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "142299",
-    "name": "Two Tin of Nan Milk Power and Milk bottle warmer",
-    "description": "2 Tins of unopened Nan Milk Powder\n1 milk bottle warmer",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "06 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "142290",
     "name": "Momomi Tatami Mat",
     "description": "Soft Tatami floor mat which can be used as a play area for children",
@@ -512,17 +545,6 @@
     "location": null,
     "validTill": "22 Feb 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "142059",
-    "name": "S-26 Gold Progress Stage 3 Milk Powder Brand New",
-    "description": "Brand New Stage 3 S26 Milk Powder\nExpiry 17 July 2026",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "22 Feb 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
