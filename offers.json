@@ -1,5 +1,27 @@
 [
   {
+    "id": "142846",
+    "name": "Small size clothing",
+    "description": "Clothes for needy",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "20 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "142844",
+    "name": "Formal jacket",
+    "description": "Formal jacket XXS for skinny peple",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "28 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "142834",
     "name": "Almost New Handbag",
     "description": "Wish to donate this handbag to those who needs to look good for job interviews. The purpose is to help those jobless to get a job. First impression counts. Please arrange for self-collection.",
@@ -88,7 +110,7 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "142755",
+    "id": "142842",
     "name": "Brand new in box 1.5l vacuum Flask",
     "description": "Self collect at my place .",
     "location": null,
@@ -141,6 +163,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "142843",
+    "name": "IKEA Bookcases",
+    "description": "10 units of IKEA bookcases with 4 different sizes up for donation. In great condition that is definitely good to be re-homed. Open to be received by FSCs or settings that will have good use for them. Recipient who can take all will be prioritised. Collection only on weekends.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "09 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": "Refer to pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "142829",
@@ -876,17 +909,6 @@
     "validTill": "05 Mar 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "141874",
-    "name": "Oxygenerator",
-    "description": "Oxygenerator. 10 Litres capacity",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "19 Feb 2025",
-    "ageInYears": 2,
-    "dimensions": "50cm x 50 cm x 100cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
