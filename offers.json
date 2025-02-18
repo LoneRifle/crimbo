@@ -1,5 +1,38 @@
 [
   {
+    "id": "142834",
+    "name": "Almost New Handbag",
+    "description": "Wish to donate this handbag to those who needs to look good for job interviews. The purpose is to help those jobless to get a job. First impression counts. Please arrange for self-collection.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "142826",
+    "name": "XXL Woman Clothing",
+    "description": "These are casual clothing for plus size ladies. It includes blouses and pants. Please arrange for self-collection.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "Suitable for XXL-XXXL",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "142824",
+    "name": "New Working Shoes",
+    "description": "Brand new shoes to donate to those who needs new attire to look for a job. Please arrange for collections.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "28 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "Size 38/39",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "142330",
     "name": "Maternity clothing & unused nursing bras",
     "description": "Selection of maternity t-shirts, tank tops and dresses. Sizes S-M. \n\nSome are unworn, most are used but well-taken care of. Used for ~6 months in 2023.\n\nNursing bras & nursing tops are unworn.",
@@ -33,22 +66,33 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "142790",
-    "name": "Standing fan",
-    "description": "Slightly rusty, but still in usable condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "26 Feb 2025",
-    "ageInYears": 3,
+    "id": "142831",
+    "name": "Portable Steam Brush",
+    "description": "This is a brand new in the box. Wish to donate to out especially those who needs the most. Please arrange for self-collection.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Feb 2025",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "142780",
-    "name": "Standing Fan",
-    "description": "standing fan",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "id": "142830",
+    "name": "Steam Brush (Iron)",
+    "description": "This is a brand new in the box. Wish to donate to out especially those who needs the most. Please arrange for self-collection.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "28 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "142790",
+    "name": "Standing fan",
+    "description": "Slightly rusty, but still in usable condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "26 Feb 2025",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -108,6 +152,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "142829",
+    "name": "Single Foldable Mattress",
+    "description": "This foldable mattress only used once. Still in perfect condition. This is not hard mattress but suitable for kids. Please arrange for self-collection.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "91x190",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "142793",
@@ -194,17 +249,6 @@
     "validTill": "18 Mar 2025",
     "ageInYears": 2,
     "dimensions": "80x75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142742",
-    "name": "Wooden Table",
-    "description": "Study wood study desk",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "28 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": "L 120cm x H 76cm x D 60cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -561,6 +605,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "142833",
+    "name": "2 x Rewritable DVD Drive",
+    "description": "This is a brand new in the box. Wish to donate to out especially those who needs the most. Please arrange for self-collection.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "141974",
     "name": "Upright Piano",
     "description": "KAWAI upright piano. In working condition.",
@@ -570,6 +625,28 @@
     "dimensions": "1.54m x 1.31m x 0.66m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "142819",
+    "name": "oral swab with sodium bicarbonate",
+    "description": "Brand new in box 110pcs",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "20 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "142818",
+    "name": "urine bag x 11",
+    "description": "Brand new urine bag \n11 pcs \n2000ml",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "20 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": "90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "142749",
