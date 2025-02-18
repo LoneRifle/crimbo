@@ -214,6 +214,39 @@
     }
   },
   {
+    "id": "142246",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Couple living in a rental flat. Both are unfit to work due to health complications",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142800",
+          "name": "TV",
+          "description": "Tv can watch local network. Not a smart tv. Need to buy a screw for the stand to work.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "01 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "32 inch tv",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142233",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -282,31 +315,31 @@
     }
   },
   {
-    "id": "142779",
+    "id": "142795",
     "category": "Home Furnishing",
-    "name": "Pillow",
-    "description": "Single father and his daughter requesting for a change of pillows as theirs have bed bugs.",
+    "name": "Kitchen Cabinet",
+    "description": "Client is a single income family with 4 young children. Family also encounters financial difficulties, and have outstanding bills with utilities. Both kitchen cabinet and bed frame spoilt recently and client is looking for another one",
     "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Isabelle Chua",
-      "email": "isabellechua@carecorner.org.sg",
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
       "phone": [
-        "64761481"
+        "67872001"
       ]
     },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Feb 2025",
+    "deliveryCostsCoveredByDonor": false,
+    "date": "18 Feb 2025",
     "matches": {
       "passiton": [
         {
-          "id": "142312",
-          "name": "1 Blanket, 1 pillows, 1 small pillow",
-          "description": "1 Blanket, 1 pillows, 1 small pillow\nColor: grey and white",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "06 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": null,
+          "id": "142793",
+          "name": "Kitchen Cabinet",
+          "description": "Kitchen cabinet",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": "6ft 4 inch x 20 inch x 75 inches (height)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -777,6 +810,39 @@
           "dimensions": "1785mm x 960mm x 835mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142802",
+    "category": "Infant and Children Items",
+    "name": "baby cot",
+    "description": "Patient is a 6MO child with a life limiting medical condition and complex medical care needs. Parents have another young child, aged 2 YO. Father is the sole breadwinner of 4 while mother is the primary caregiver of the children. The couple have expressed that father's sole income cannot sufficiently cover for patient's high medical and care expenses, on top of their increasing household expenses as patient is on oxygen dependent. Patient's current baby cot had spoilt (one of the wheels had broke) and made it unsafe for patient to sleep in it. However, the couple could not afford to buy a new one. Hence, they would appreciate if they could get a baby cot (they are also open for preloved item) so that patient can sleep comfortably and safely. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "HCA Hospice Limited",
+      "name": "Kimberly Chan",
+      "email": "kimberlyC@hcahospicecare.org.sg",
+      "phone": [
+        "62512561"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142435",
+          "name": "Baby cot",
+          "description": "Baby cot, no mattress\nAlso have 3 mattress protectors",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
