@@ -1,5 +1,57 @@
 [
   {
+    "id": "142874",
+    "category": "Electrical Home Appliances",
+    "name": "standing fan",
+    "description": "My client, a 72-year-old individual living under the JSS, is seeking a rice cooker (Halal/with no prior use of pork or lard), a standing fan, and a mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Grace Ang",
+      "email": "grace_ang@viriya.org.sg",
+      "phone": [
+        "62855033",
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "19 Feb 2025"
+  },
+  {
+    "id": "142872",
+    "category": "Electrical Home Appliances",
+    "name": "Halal Fridge",
+    "description": "Family of five stays in a two-room rental flat. Both parents are unfit for work, and rely on financial assistance to support their three children in primary and secondary school. Their fridge is spoilt, and they hope to receive a new fridge urgently for their everyday needs so they are able to cook at home and keep their expenditure as low as possible.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Quak Mei Qing",
+      "email": "meiqing@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
+  },
+  {
+    "id": "142867",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "A household of 6, including 3 toddlers and 1 baby, is in urgent need of a vacuum cleaner as their current one has broken down. According to a doctor’s memo, their toddler son has poor wheezing control. Mother has been actively maintaining the cleanliness of their home, but with the vacuum cleaner now broken, keeping the environment dust-free has become challenging. Given the son's health issues, the family would greatly benefit from the support of a new vacuum cleaner.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
+  },
+  {
     "id": "142863",
     "category": "Electrical Home Appliances",
     "name": "SMART TV (small/medium size)",
@@ -51,23 +103,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Feb 2025"
-  },
-  {
-    "id": "142835",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum cleaner",
-    "description": "Single mother who is temporarily unfit for work due to health complication, and is caring for 2 children.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Nadiah Razak",
-      "email": "nadiah.razak@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Feb 2025"
   },
   {
     "id": "142827",
@@ -280,24 +315,6 @@
     "date": "11 Feb 2025"
   },
   {
-    "id": "142599",
-    "category": "Electrical Home Appliances",
-    "name": "32 inch TV",
-    "description": "Helping to get a 32 inch TV for a female senior who is frail and staying alone in a one-room rental flat. Her current TV is spoilt and she got no money to buy a new one as she is under financial assistance and the money is just enough for her daily expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "Presbyterian Community Services",
-      "name": "Andy Toh",
-      "email": "andytoh@pcs.org.sg",
-      "phone": [
-        "67866826",
-        "63344445"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Feb 2025"
-  },
-  {
     "id": "142598",
     "category": "Electrical Home Appliances",
     "name": "Vacuum",
@@ -327,23 +344,6 @@
       "phone": [
         "64546678",
         "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Feb 2025"
-  },
-  {
-    "id": "142581",
-    "category": "Electrical Home Appliances",
-    "name": "Halal microwave",
-    "description": "Family has 3 school going children. Husband is the sole breadwinner while wife cares for the children at home. Family would benefit from the donation so that they are able to use their income on necessities.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Nur Fatin Athirah Binte Mohamad Husaini",
-      "email": "fatinathirah@allkin.org.sg",
-      "phone": [
-        "64355323"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -737,23 +737,6 @@
       "phone": [
         "65119471",
         "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Feb 2025"
-  },
-  {
-    "id": "142333",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family of 5  with two young children and an older adult with multiple chronic illnesses from a lower-income background requires a fridge urgently as theirs has broken down.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Jocelyn Joy Gwee",
-      "email": "Jocelyn@sccfsc.org.sg",
-      "phone": [
-        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1475,6 +1458,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Jan 2025"
+  },
+  {
+    "id": "142870",
+    "category": "Others",
+    "name": "Food Staples (Halal)",
+    "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for food staples will helps to minimize the family's expenses.",
+    "specifications": "1L Cooking Oil, 15kg Rice, BeeHoon, Canned Baked Beans, Canned Sardine, Milo, Biscuit",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
   },
   {
     "id": "142832",
@@ -2231,6 +2231,59 @@
     "date": "20 Jan 2025"
   },
   {
+    "id": "142876",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "My client, a 72-year-old individual living under the JSS, is seeking a wardrobe normal standard, size 3/4 door preferably can lock or a chest of 5  drawers.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Grace Ang",
+      "email": "grace_ang@viriya.org.sg",
+      "phone": [
+        "62855033",
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
+  },
+  {
+    "id": "142875",
+    "category": "Home Furnishing",
+    "name": "Single Size mattress",
+    "description": "My client, a 72-year-old individual living under the JSS, is seeking a rice cooker (Halal/with no prior use of pork or lard), a standing fan, and a mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Grace Ang",
+      "email": "grace_ang@viriya.org.sg",
+      "phone": [
+        "62855033",
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "19 Feb 2025"
+  },
+  {
+    "id": "142871",
+    "category": "Home Furnishing",
+    "name": "Double Decker Bed Frame",
+    "description": "Client with multiple health issues is looking for a double decker bed frame to rent a room to foreign workers. Client depends on rental income to meet her basic needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Emerald Chua",
+      "email": "emerald@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
+  },
+  {
     "id": "142864",
     "category": "Home Furnishing",
     "name": "Bed Headboard",
@@ -2752,24 +2805,6 @@
       "phone": [
         "88636938",
         "62425978"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2025"
-  },
-  {
-    "id": "142407",
-    "category": "Home Furnishing",
-    "name": "Chair (w back and arm rest)",
-    "description": "Client is an elderly who had a fall and fractured her spine. For her recovery, she needs a stable chair with back rest and arm rest which she can sit on when she is at home. \nShe has 2 adult children. However, one of them has Cerebral Palsy and is physically disabled. The family is struggling financially as they have 2 dependents and have to hire a maid to assist them with their daily activity. It will be helpful for the family to receive a chair to offload some of the expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Chan Yvonne",
-      "email": "yvonne-chan@fycs.org",
-      "phone": [
-        "69783516",
-        "62672900"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3515,6 +3550,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jan 2025"
+  },
+  {
+    "id": "142869",
+    "category": "Infant and Children Items",
+    "name": "Diapers and Milk Powder",
+    "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for the children's needs will helps to minimize the family's expenses.",
+    "specifications": "Dumex Durgo Stage 3, Nestle Lactogen 1 Starter Infant Formula, Drypers Drypantz Carton (XL size), Drypers Dryfants (M Size)",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
+  },
+  {
+    "id": "142868",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder & Diapers",
+    "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for the children's needs will helps to minimize the family's expenses.",
+    "specifications": "Dumex Durgo Stage 3, Nestle Lactogen 1 Starter Infant Formula, Drypers Drypantz Carton (XL size), Drypers Dryfants (M Size)",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025"
   },
   {
     "id": "142816",
@@ -5609,6 +5678,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jan 2025"
+  },
+  {
+    "id": "142873",
+    "category": "Kitchen Utility Items",
+    "name": "Rice cooker",
+    "description": "My client, a 72-year-old individual living under the JSS, is seeking a rice cooker (Halal/with no prior use of pork or lard), a standing fan, and a mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Grace Ang",
+      "email": "grace_ang@viriya.org.sg",
+      "phone": [
+        "62855033",
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "19 Feb 2025"
   },
   {
     "id": "142311",
