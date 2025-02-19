@@ -1,5 +1,16 @@
 [
   {
+    "id": "142855",
+    "name": "1-2 yr old clothes",
+    "description": "1-2 yr old boy clothes and toys",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "142847",
     "name": "new balance shoes for walking",
     "description": "worn in well , very comfy",
@@ -110,39 +121,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "142848",
-    "name": "Refrigerator",
-    "description": "Can you pick up 20.Feb?",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "22 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "142830",
-    "name": "Steam Brush (Iron)",
-    "description": "This is a brand new in the box. Wish to donate to out especially those who needs the most. Please arrange for self-collection.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "142790",
-    "name": "Standing fan",
-    "description": "Slightly rusty, but still in usable condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "26 Feb 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "142842",
     "name": "Brand new in box 1.5l vacuum Flask",
     "description": "Self collect at my place .",
@@ -209,17 +187,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "142829",
-    "name": "Single Foldable Mattress",
-    "description": "This foldable mattress only used once. Still in perfect condition. This is not hard mattress but suitable for kids. Please arrange for self-collection.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "91x190",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "142793",
     "name": "Kitchen Cabinet",
     "description": "Kitchen cabinet",
@@ -231,7 +198,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "142792",
+    "id": "142860",
+    "name": "Coffee table",
+    "description": "Dining table",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "26 Feb 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "142861",
     "name": "Coffee table",
     "description": "Dining table",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -403,17 +381,6 @@
     "validTill": "02 Mar 2025",
     "ageInYears": 4,
     "dimensions": "90 x 39 x 39",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142647",
-    "name": "Pink fabric 2 seater sofa (sofa bed)",
-    "description": "2 seater fold-out sofa. Light pink cloth from Ikea. It has a stain from spilling a drink on it but otherwise is clean. We just paid to have it professionally steam-cleaned prior to donating it.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "02 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": "160 x 85 X 75",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -689,17 +656,6 @@
     "validTill": "20 Mar 2025",
     "ageInYears": 1,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "142818",
-    "name": "urine bag x 11",
-    "description": "Brand new urine bag \n11 pcs \n2000ml",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "20 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },

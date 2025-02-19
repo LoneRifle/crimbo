@@ -1,39 +1,5 @@
 [
   {
-    "id": "142611",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is a discharged bankrupt trying to rebuild his life and to pay off his debts. Previously homeless, Client recently moved into a rental flat and would need assistance in getting a refrigerator.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Nathan Hou",
-      "email": "nathanhou@thkmc.org.sg",
-      "phone": [
-        "88554795",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142848",
-          "name": "Refrigerator",
-          "description": "Can you pick up 20.Feb?",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "22 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "142598",
     "category": "Electrical Home Appliances",
     "name": "Vacuum",
@@ -127,73 +93,6 @@
           "validTill": "06 Mar 2026",
           "ageInYears": 4,
           "dimensions": "App 60cm x 30cm x 5cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142437",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Low income family of 7 facing difficulties storing their groceries and food as their fridge broke down. They are unable to purchase any fresh produce to eat currently.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Fitrah Nabilah",
-      "email": "fitrahnabilah@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142848",
-          "name": "Refrigerator",
-          "description": "Can you pick up 20.Feb?",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "22 Feb 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142412",
-    "category": "Electrical Home Appliances",
-    "name": "standing fan",
-    "description": "Family of single working mum with 2 daughters in secondary school. Mum is coping with asthma now and then and would appreciate and benefit from a standing fan, air purifier and Queen size bedding sheets.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Roushan Helmy",
-      "email": "roushan_helmy@msf.gov.sg",
-      "phone": [
-        "68590837",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142790",
-          "name": "Standing fan",
-          "description": "Slightly rusty, but still in usable condition",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "26 Feb 2025",
-          "ageInYears": 3,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -371,6 +270,84 @@
     }
   },
   {
+    "id": "142854",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is 71y/o, he has a son with mental health condition and another son with learning disability therefore they are unable to provide caregiving to client. Client is in the midst of waiting for a rental flat from HDB, and is currently staying with his niece who has been housing him and his son for 2 months since they were chased out by another relative. There has been a bed bug situation recently that destroyed multiple of the family's home furnitures, and the family currently has no coffee table to prepare for upcoming Hari Raya.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142759",
+          "name": "Single sofa",
+          "description": "Spacious single sofa. Good to rest on it . Water resistant fabric cover.",
+          "location": null,
+          "validTill": "18 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": "80x75",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142679",
+          "name": "Black singe seater sofa chair",
+          "description": "A single seater black leather sofa chair.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "60 X 90 X 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142491",
+          "name": "Muji Oak Wooden Sofa 2.5 Seater",
+          "description": "Removable covers that can be washed, oak wooden frame",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "21 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": "1785mm x 960mm x 835mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142492",
+          "name": "Muji Oak Wooden Sofa 2.5 Seater",
+          "description": "Removable covers that can be washed, oak wooden frame",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "21 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": "1785mm x 960mm x 835mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142740",
+          "name": "Living room table and sofa set",
+          "description": "Living room table and sofa set in very good condition.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "28 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142841",
     "category": "Home Furnishing",
     "name": "2-seater sofa",
@@ -388,17 +365,6 @@
     "date": "18 Feb 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "142647",
-          "name": "Pink fabric 2 seater sofa (sofa bed)",
-          "description": "2 seater fold-out sofa. Light pink cloth from Ikea. It has a stain from spilling a drink on it but otherwise is clean. We just paid to have it professionally steam-cleaned prior to donating it.",
-          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-          "validTill": "02 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "160 x 85 X 75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "142491",
           "name": "Muji Oak Wooden Sofa 2.5 Seater",
@@ -565,17 +531,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "142647",
-          "name": "Pink fabric 2 seater sofa (sofa bed)",
-          "description": "2 seater fold-out sofa. Light pink cloth from Ikea. It has a stain from spilling a drink on it but otherwise is clean. We just paid to have it professionally steam-cleaned prior to donating it.",
-          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-          "validTill": "02 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "160 x 85 X 75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -654,17 +609,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "142647",
-          "name": "Pink fabric 2 seater sofa (sofa bed)",
-          "description": "2 seater fold-out sofa. Light pink cloth from Ikea. It has a stain from spilling a drink on it but otherwise is clean. We just paid to have it professionally steam-cleaned prior to donating it.",
-          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-          "validTill": "02 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "160 x 85 X 75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -723,7 +667,18 @@
     "matches": {
       "passiton": [
         {
-          "id": "142792",
+          "id": "142860",
+          "name": "Coffee table",
+          "description": "Dining table",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142861",
           "name": "Coffee table",
           "description": "Dining table",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -820,17 +775,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "142647",
-          "name": "Pink fabric 2 seater sofa (sofa bed)",
-          "description": "2 seater fold-out sofa. Light pink cloth from Ikea. It has a stain from spilling a drink on it but otherwise is clean. We just paid to have it professionally steam-cleaned prior to donating it.",
-          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-          "validTill": "02 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "160 x 85 X 75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -889,17 +833,6 @@
     "date": "22 Jan 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "142647",
-          "name": "Pink fabric 2 seater sofa (sofa bed)",
-          "description": "2 seater fold-out sofa. Light pink cloth from Ikea. It has a stain from spilling a drink on it but otherwise is clean. We just paid to have it professionally steam-cleaned prior to donating it.",
-          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-          "validTill": "02 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "160 x 85 X 75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "142491",
           "name": "Muji Oak Wooden Sofa 2.5 Seater",
