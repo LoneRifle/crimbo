@@ -270,6 +270,39 @@
     }
   },
   {
+    "id": "142896",
+    "category": "Home Furnishing",
+    "name": "Pillow",
+    "description": "Client who is medically unfit to work and living alone.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142312",
+          "name": "1 Blanket, 1 pillows, 1 small pillow",
+          "description": "1 Blanket, 1 pillows, 1 small pillow\nColor: grey and white",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "06 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142854",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -828,39 +861,6 @@
     }
   },
   {
-    "id": "142802",
-    "category": "Infant and Children Items",
-    "name": "baby cot",
-    "description": "Patient is a 6MO child with a life limiting medical condition and complex medical care needs. Parents have another young child, aged 2 YO. Father is the sole breadwinner of 4 while mother is the primary caregiver of the children. The couple have expressed that father's sole income cannot sufficiently cover for patient's high medical and care expenses, on top of their increasing household expenses as patient is on oxygen dependent. Patient's current baby cot had spoilt (one of the wheels had broke) and made it unsafe for patient to sleep in it. However, the couple could not afford to buy a new one. Hence, they would appreciate if they could get a baby cot (they are also open for preloved item) so that patient can sleep comfortably and safely. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "HCA Hospice Limited",
-      "name": "Kimberly Chan",
-      "email": "kimberlyC@hcahospicecare.org.sg",
-      "phone": [
-        "62512561"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142435",
-          "name": "Baby cot",
-          "description": "Baby cot, no mattress\nAlso have 3 mattress protectors",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "08 Mar 2025",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "142677",
     "category": "Infant and Children Items",
     "name": "Baby cot",
@@ -955,6 +955,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142901",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "Client has stage 3 cancer, frail and old. He needs a wheelchair to better support him in the community.",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142840",
+          "name": "Wheelchair",
+          "description": "Can also double as commute, has new 'wheel tyres'",
+          "location": "Seletar, Yio Chu Kang",
+          "validTill": "23 Feb 2025",
+          "ageInYears": 1,
+          "dimensions": "37x 23 x 35",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
