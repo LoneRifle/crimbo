@@ -234,7 +234,7 @@
     "id": "142783",
     "name": "Clothes Rack",
     "description": "Wooden clothes rack with shelf",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Holland",
     "validTill": "28 Feb 2025",
     "ageInYears": 2,
     "dimensions": "94x45x155cm",
@@ -469,17 +469,6 @@
     "validTill": "18 Mar 2025",
     "ageInYears": 3,
     "dimensions": "0x0x0",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "142435",
-    "name": "Baby cot",
-    "description": "Baby cot, no mattress\nAlso have 3 mattress protectors",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -843,17 +832,6 @@
     "validTill": "23 Feb 2025",
     "ageInYears": 1,
     "dimensions": "37x 23 x 35",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "142813",
-    "name": "Premium Nursing Bed",
-    "description": "6 months old. Only used for a month.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "28 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": "210x105x90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
