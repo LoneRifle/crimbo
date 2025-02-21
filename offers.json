@@ -748,6 +748,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "142924",
+    "name": "Hospital Bed with air mattress",
+    "description": "Hospital bed with air mattress. Used about 18 month",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "23 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "142840",
     "name": "Wheelchair",
     "description": "Can also double as commute, has new 'wheel tyres'",
@@ -765,17 +776,6 @@
     "location": "Farrer Park, Little India, Serangoon Road",
     "validTill": "12 Mar 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "142510",
-    "name": "Commode",
-    "description": "Seldom use",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "10 Mar 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
