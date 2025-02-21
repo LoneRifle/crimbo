@@ -1,5 +1,39 @@
 [
   {
+    "id": "142934",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is a 27yo young mother with 2 newborns of 18 months and 3 months. Her husband, a Malaysian, is facing difficulty finding employment and work permit in Singapore. The family is struggling financially and the oven which has malfunctioned would help the family greatly with more cost-saving home meal cooking and baking and selling of homemade cookies during this Ramadhan festive season.",
+    "specifications": "Oven",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142886",
+          "name": "Mistral 20 l oven",
+          "description": "20 litre oven with all accessories. Well maintained and works well. H",
+          "location": null,
+          "validTill": "28 Feb 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142598",
     "category": "Electrical Home Appliances",
     "name": "Vacuum",
@@ -296,6 +330,17 @@
           "validTill": "28 Feb 2025",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142937",
+          "name": "Study table or dining table",
+          "description": "Good condition.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "23 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "120 x 60 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
