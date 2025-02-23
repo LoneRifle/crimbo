@@ -825,6 +825,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "142956",
+    "name": "Hospital Bed",
+    "description": "Hospital bed in good condition",
+    "location": null,
+    "validTill": "28 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "142935",
     "name": "Walking stick",
     "description": "Walking Stick",
