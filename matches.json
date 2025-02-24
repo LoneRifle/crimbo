@@ -78,40 +78,6 @@
     }
   },
   {
-    "id": "142455",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Client, a single mother caring for her 13-year-old daughter and elderly mother with health conditions, resides in a rental flat. Their television is broken and needs replacement.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142291",
-          "name": "Television (Without Cables)",
-          "description": "Donate Television\nColor: Black\nApp 60cm x 30cm x 5cm\nUsed more than 10 years. Still usable. Only without the cables now.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "06 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "App 60cm x 30cm x 5cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "142412",
     "category": "Electrical Home Appliances",
     "name": "standing fan",
@@ -286,74 +252,6 @@
           "dimensions": "6ft 4 inch x 20 inch x 75 inches (height)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142336",
-    "category": "Infant and Children Items",
-    "name": "double stroller",
-    "description": "Client is the sole caregiver to her 2 young children, and soon to be born child. Husband earns a meagre income, and the family is not able to afford the baby items.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Liew Huan Yi",
-      "email": "liewhuanyi@fycs.org",
-      "phone": [
-        "63519508",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142978",
-          "name": "Double Stroller",
-          "description": "Double Stroller",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Feb 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142133",
-    "category": "Infant and Children Items",
-    "name": "Double Stroller",
-    "description": "Family of 4 with 2 young children (M/3 and F/1) living in a 2-room rental flat in need of double stroller for mother to send the children to their respective schools. Parents are in ad-hoc part-time jobs and have some difficulties maintaining stable income.",
-    "specifications": null,
-    "contact": {
-      "org": "HEART @ Fei Yue",
-      "name": "Elshaddai Jeevanathy D/O Ventakesan",
-      "email": "elshaddai@fycs.org",
-      "phone": [
-        "91266100",
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jan 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142978",
-          "name": "Double Stroller",
-          "description": "Double Stroller",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Feb 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -568,6 +466,17 @@
     "date": "03 Feb 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "142996",
+          "name": "Coffee table",
+          "description": "Comes in a set, smaller table has slight water damage",
+          "location": null,
+          "validTill": "26 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "142860",
           "name": "Coffee table",
