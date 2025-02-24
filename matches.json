@@ -237,6 +237,73 @@
     }
   },
   {
+    "id": "140337",
+    "category": "Kitchen Utility Items",
+    "name": "Kitchen Cabinet",
+    "description": "Low income family with multiple dependents is requesting for a kitchen cabinet to help them with proper organisation and storage of their food rations that they recieve. Should you have a suitable item, you can contact us at 9828 7307. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Han Wen Ting",
+      "email": "hanwenting@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "24 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142793",
+          "name": "Kitchen Cabinet",
+          "description": "Kitchen cabinet",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": "6ft 4 inch x 20 inch x 75 inches (height)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142963",
+    "category": "Home Furnishing",
+    "name": "study table",
+    "description": "Low income family is looking for a study table for their school going daughter. Due to financial constraint, they are unable to afford. For further details, please contact their social worker Fang Ling at 8588 6196.  Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142937",
+          "name": "Study table or dining table",
+          "description": "Good condition.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "23 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "120 x 60 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142708",
     "category": "Home Furnishing",
     "name": "Dining Table",
@@ -334,6 +401,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "142960",
+          "name": "2x brown leather sofa",
+          "description": "3 seat sofa 2 units",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "3 seat sofa 2 units",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "142679",
           "name": "Black singe seater sofa chair",
           "description": "A single seater black leather sofa chair.",
@@ -397,6 +475,17 @@
           "validTill": "28 Feb 2025",
           "ageInYears": 4,
           "dimensions": "200(w) x 85(d) x 80(h)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142960",
+          "name": "2x brown leather sofa",
+          "description": "3 seat sofa 2 units",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "3 seat sofa 2 units",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -552,6 +641,17 @@
           "validTill": "28 Feb 2025",
           "ageInYears": 4,
           "dimensions": "200(w) x 85(d) x 80(h)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142960",
+          "name": "2x brown leather sofa",
+          "description": "3 seat sofa 2 units",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "3 seat sofa 2 units",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },

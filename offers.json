@@ -165,6 +165,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "142960",
+    "name": "2x brown leather sofa",
+    "description": "3 seat sofa 2 units",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "3 seat sofa 2 units",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "142947",
     "name": "Used Ikea Sofa",
     "description": "Refurbished ikea sofa",
@@ -220,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "142881",
-    "name": "Single bed",
-    "description": "Single bed come with bedframe",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "142793",
     "name": "Kitchen Cabinet",
     "description": "Kitchen cabinet",
@@ -271,17 +271,6 @@
     "validTill": "15 Mar 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142783",
-    "name": "Clothes Rack",
-    "description": "Wooden clothes rack with shelf",
-    "location": "Holland",
-    "validTill": "28 Feb 2025",
-    "ageInYears": 2,
-    "dimensions": "94x45x155cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
