@@ -110,6 +110,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "143010",
+    "name": "Microwave",
+    "description": "Microwave in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "143004",
     "name": "Plasmacluster Ion Generator",
     "description": "Recycle 1 no 230volt High-Density Plasmacluster Ion Generator. Effectively removes suspended mold and viruses.",
@@ -216,17 +227,6 @@
     "validTill": "26 Mar 2025",
     "ageInYears": 4,
     "dimensions": "L227 cm x H62 cm x D57 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142996",
-    "name": "Coffee table",
-    "description": "Comes in a set, smaller table has slight water damage",
-    "location": null,
-    "validTill": "26 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
