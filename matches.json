@@ -335,6 +335,50 @@
     }
   },
   {
+    "id": "143047",
+    "category": "Home Furnishing",
+    "name": "Bed",
+    "description": "Mother is working as security officer earning low-income. She has adult son with health conditions and unfit for work. Family is in the midst of shifting house and will benefit from donation of bed. No specific measures.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142130",
+          "name": "Hospital Bed",
+          "description": "Hospital bed that was used for 4 years, still in working condition. Bed is currently in family's house -- delivery to be discussed with family member.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "26 Feb 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "142788",
+          "name": "Super single bed board and mattress",
+          "description": "Super single size bed board and mattress.\n3 years use. \nNo storage under bed.\nNo storage on head board. \nDecided to dispose due to moving out.\nPrefer VWO to collect and deliver at own charge.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143027",
     "category": "Home Furnishing",
     "name": "Study table",
