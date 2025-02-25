@@ -1,5 +1,49 @@
 [
   {
+    "id": "143024",
+    "category": "Electrical Home Appliances",
+    "name": "Standing Fan",
+    "description": "Widowed senior living alone, low income with complex medical conditions. Looking for a floor standing fan to be placed in bedroom, to help cool the room at night while she sleeps. Hougang area.",
+    "specifications": null,
+    "contact": {
+      "org": "St Andrew's Community Hospital - Community Case Management Service",
+      "name": "Koh Hwee Bee",
+      "email": "hweebee_koh@sasc.org.sg",
+      "phone": [
+        "63200535"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142984",
+          "name": "Standing fan",
+          "description": "Slightly rusty, but still in usable condition",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "142985",
+          "name": "Standing fan",
+          "description": "Slightly rusty, but still in usable condition",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "26 Feb 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143017",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -291,6 +335,74 @@
     }
   },
   {
+    "id": "143027",
+    "category": "Home Furnishing",
+    "name": "Study table",
+    "description": "Family has 3 school-going children, raised by their single mum who is busy making a living. They are currently moving in, and they don't have a space where they can study at and hopes to have a small study table they can use.",
+    "specifications": "Around 1-1.2m",
+    "contact": {
+      "org": "Central Singapore CDC (SS BoonHua)",
+      "name": "Vanessa Ong",
+      "email": "vanessa_ong@msf.gov.sg",
+      "phone": [
+        "63709953",
+        "63709471"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142937",
+          "name": "Study table or dining table",
+          "description": "Good condition.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "23 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "120 x 60 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143026",
+    "category": "Home Furnishing",
+    "name": "Single Mattress",
+    "description": "43-year-old lady with three children. she has depression and multiple chronic illnesses, hence is unable to work with long term mc given by SGH. Husband is incarcerated. She requires 2 single mattress for her children.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Cheryl Chew",
+      "email": "cheryl.chew@montfortcare.org.sg",
+      "phone": [
+        "97329677",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142788",
+          "name": "Super single bed board and mattress",
+          "description": "Super single size bed board and mattress.\n3 years use. \nNo storage under bed.\nNo storage on head board. \nDecided to dispose due to moving out.\nPrefer VWO to collect and deliver at own charge.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142963",
     "category": "Home Furnishing",
     "name": "study table",
@@ -317,163 +429,6 @@
           "validTill": "23 Mar 2025",
           "ageInYears": 4,
           "dimensions": "120 x 60 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142708",
-    "category": "Home Furnishing",
-    "name": "Dining Table",
-    "description": "Single mother with 3yo son in need of a small 4-seater dining table. currently mother and son sits on the floor when having their meals.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Natalia Bte Sujangi",
-      "email": "natalia_sujangi@msf.gov.sg",
-      "phone": [
-        "62672928",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142739",
-          "name": "Dining table and chairs",
-          "description": "Dining table and chair set",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "28 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "142937",
-          "name": "Study table or dining table",
-          "description": "Good condition.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "23 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "120 x 60 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142405",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client is a 35 y/o a married homemaker with 3 daughters, client and her family has recently moved to a new unfurnished house. She has also recently been trying to get back into working to help provide for her family needs. Requesting a sofa to help make their home a home. This would provide her children a safe and comfortable place to come back to after school to do homework and rest which would give her peace of mind while she works.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Chan Yvonne",
-      "email": "yvonne-chan@fycs.org",
-      "phone": [
-        "69783516",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142759",
-          "name": "Single sofa",
-          "description": "Spacious single sofa. Good to rest on it . Water resistant fabric cover.",
-          "location": null,
-          "validTill": "18 Mar 2025",
-          "ageInYears": 2,
-          "dimensions": "80x75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "142679",
-          "name": "Black singe seater sofa chair",
-          "description": "A single seater black leather sofa chair.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "15 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "60 X 90 X 90",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "142740",
-          "name": "Living room table and sofa set",
-          "description": "Living room table and sofa set in very good condition.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "28 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "142404",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client, 43 years old, is a mother of 6 children. The family has financial constraints due to the large size of their family (6 children) and limited income. They do not have much family support either, due to strained relationships. As such, the family is mostly reliant on themselves and formal agencies for support.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Chan Yvonne",
-      "email": "yvonne-chan@fycs.org",
-      "phone": [
-        "69783516",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142759",
-          "name": "Single sofa",
-          "description": "Spacious single sofa. Good to rest on it . Water resistant fabric cover.",
-          "location": null,
-          "validTill": "18 Mar 2025",
-          "ageInYears": 2,
-          "dimensions": "80x75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "142679",
-          "name": "Black singe seater sofa chair",
-          "description": "A single seater black leather sofa chair.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "15 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "60 X 90 X 90",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "142740",
-          "name": "Living room table and sofa set",
-          "description": "Living room table and sofa set in very good condition.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "28 Feb 2025",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -573,6 +528,17 @@
           "validTill": "15 Mar 2025",
           "ageInYears": 4,
           "dimensions": "60 X 90 X 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "143033",
+          "name": "3-4 seater fabric sofa",
+          "description": "Item is 10 year old, grey washable fabric sofa. 3-4 seater. In working condition. Sofa can be split into 2 separate units.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "27 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "266 x 108 x 60cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
