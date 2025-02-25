@@ -1,5 +1,38 @@
 [
   {
+    "id": "143017",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client is an elderly living alone in a rental flat, and her current television has broken down. Client hopes to receive a secondhand TV, which would provide her with some entertainment at home.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Chan Jun Ren",
+      "email": "chanjunren@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142291",
+          "name": "Television (Without Cables)",
+          "description": "Donate Television\nColor: Black\nApp 60cm x 30cm x 5cm\nUsed more than 10 years. Still usable. Only without the cables now.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "06 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "App 60cm x 30cm x 5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142992",
     "category": "Electrical Home Appliances",
     "name": "Standing Fan",
@@ -218,6 +251,40 @@
           "dimensions": "6ft 4 inch x 20 inch x 75 inches (height)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143021",
+    "category": "Infant and Children Items",
+    "name": "Baby Stroller",
+    "description": "Family is staying in rental flat. 2 children in autism spectrum and husband is sole bread winner. Needs the essentials as money was used for outstanding medical bills.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142941",
+          "name": "Baby Stroller",
+          "description": "Macleran Stroller in good condition with rainer cover and pram accessories (unused still in packaging unopened).",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "24 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
