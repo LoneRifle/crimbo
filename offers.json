@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "143095",
+    "name": "vacuum cleaner(airbot)",
+    "description": "Vacuum cleaner that doesn't need to use vacuum bag. Need to clear space urgently.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "28 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "143010",
     "name": "Microwave",
     "description": "Microwave in good condition",
@@ -185,17 +196,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "143063",
-    "name": "bed frame",
-    "description": "bedframe",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "09 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "143035",
@@ -361,6 +361,17 @@
     "dimensions": "L100cm, W50cm, H55cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "143094",
+    "name": "Wooden Foldable cot",
+    "description": "Sturdy infant crib with mattress. Can be folded up when not in use so great for small spaces! I also have some clean washed sheets and a mattress protector. Comes from a pet-free and smoke-free home.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "28 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": "Assembled- 65 (W) x 128 (L) x 106cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "142948",
@@ -713,6 +724,17 @@
     "dimensions": "16 Ch/Fr (5.3mm)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "143082",
+    "name": "Commode chair with pot, cover and wheels with detachable armrest",
+    "description": "can be used to transfer immobile patient from chair/bed to commode chair, then wheel patient to toilet and shower him/her on this commode chair.\nItem is in good condition as it's used for 2 years only, though it's 4 year old",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "06 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "55 x 65 x 100 (all in cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "143052",
