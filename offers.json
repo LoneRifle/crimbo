@@ -88,34 +88,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143095",
-    "name": "vacuum cleaner(airbot)",
-    "description": "Vacuum cleaner that doesn't need to use vacuum bag. Need to clear space urgently.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "28 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "143010",
     "name": "Microwave",
     "description": "Microwave in good condition",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "27 Mar 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "142953",
-    "name": "Phillips viva collection rice cooker",
-    "description": "Phillips viva collection rice cooker \n0.7litre volume capacity",
-    "location": null,
-    "validTill": "24 Mar 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -196,17 +174,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "143035",
-    "name": "Dining Table",
-    "description": "Item is 10 year old. each side can be extended by 40cm. Thus table can be extended from 120cm to 160cm or 200cm. In working condition but not in pristine condition",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "27 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": "120 x 83 x 78cm (LWH)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "143002",
@@ -315,6 +282,17 @@
     "validTill": "08 Mar 2025",
     "ageInYears": 3,
     "dimensions": "1.8m length; 1.25m width x 2 panels",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143105",
+    "name": "Teak study desk",
+    "description": "Excellent condition lightly used",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "09 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -482,17 +460,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "143097",
-    "name": "Disposable underpads",
-    "description": "13 bags of disposable underpads to donate away. Each bag 50 pieces.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "29 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "60x90",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "142952",
