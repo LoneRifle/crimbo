@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "143177",
+    "name": "Philip's Juicer",
+    "description": "Cold-press juicer. Can juice whole fruit without cutting into smaller pieces",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "143147",
     "name": "Standing Fan",
     "description": "Used 16 inch EuroAce fan\nCan turn, all 3 power modes are working rust can be seen\nI live in the east so I can only deliver to North, South, East and West until Chinatown\nI am available only on Sundays to deliver",
@@ -130,6 +141,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "143178",
+    "name": "L-Shaped Sofa",
+    "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143176",
+    "name": "Book or Clothes Cabinet",
+    "description": "Cabinets still quite new.Used to store books.Only one lock broken but can be replaced.Can be used to store clothes.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": "H-188cm,  W-60cm, D-40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "143170",
@@ -383,6 +416,39 @@
     "dimensions": "various",
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "143175",
+    "name": "Adult Bicycle",
+    "description": "Adult Bicycle",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "143174",
+    "name": "Adult Bicycle",
+    "description": "Adult Bicycle",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "143173",
+    "name": "Kids Bicycle",
+    "description": "Kids Bicycle in good condition",
+    "location": null,
+    "validTill": "31 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "143148",

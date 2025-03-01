@@ -235,50 +235,6 @@
     }
   },
   {
-    "id": "143106",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Single mother with 2 school-going children and 2 children waiting to be enlisted in NS. Single mother's health is frail and is medically unfit to work.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Tan Jing Hui",
-      "email": "jinghui.tan@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Feb 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "142759",
-          "name": "Single sofa",
-          "description": "Spacious single sofa. Good to rest on it . Water resistant fabric cover.",
-          "location": null,
-          "validTill": "18 Mar 2025",
-          "ageInYears": 2,
-          "dimensions": "80x75",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "142679",
-          "name": "Black singe seater sofa chair",
-          "description": "A single seater black leather sofa chair.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "15 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": "60 X 90 X 90",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "143079",
     "category": "Home Furnishing",
     "name": "TV Console",
@@ -442,6 +398,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "143178",
+          "name": "L-Shaped Sofa",
+          "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "142679",
           "name": "Black singe seater sofa chair",
           "description": "A single seater black leather sofa chair.",
@@ -449,6 +416,40 @@
           "validTill": "15 Mar 2025",
           "ageInYears": 4,
           "dimensions": "60 X 90 X 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142229",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "Low income family with young children, residing in a HDB rental flat, is looking for a cabinet to store their kitchen items. For further details, please contact their social worker Fang Ling at 8588 6196.  Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143176",
+          "name": "Book or Clothes Cabinet",
+          "description": "Cabinets still quite new.Used to store books.Only one lock broken but can be replaced.Can be used to store clothes.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": "H-188cm,  W-60cm, D-40cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
