@@ -143,6 +143,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143206",
+    "name": "Single Bed",
+    "description": "Single bed with beddings available. Has two pull out drawers for storage.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "02 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "150X200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143190",
     "name": "Blue sofa leather convertible",
     "description": "Convertible sofa bed . In fair condition",
@@ -363,15 +374,15 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "142212",
-    "name": "study chair",
-    "description": "ergonomic chair with roller",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "05 Mar 2025",
+    "id": "143207",
+    "name": "Stroller/Pram",
+    "description": "Lightly used stroller and bassinet for donation",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Mar 2025",
     "ageInYears": 4,
-    "dimensions": "80 cm x 50 cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
     "id": "143194",
@@ -777,17 +788,6 @@
     "validTill": "31 Mar 2025",
     "ageInYears": 1,
     "dimensions": "90cm x 29cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "143052",
-    "name": "Geriatric chair, manual, height adjustable.",
-    "description": "Clean, very usable Geri chair with table to be donated.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": "66cm W, 68cm L, 114cm H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
