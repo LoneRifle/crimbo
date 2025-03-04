@@ -343,5 +343,50 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "142229",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "Low income family with young children, residing in a HDB rental flat, is looking for a cabinet to store their kitchen items. For further details, please contact their social worker Fang Ling at 8588 6196.  Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143232",
+          "name": "1 X Book or Clothes Cabinet",
+          "description": "Cabinets still quite new. Used to store books, can be used to store clothes.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": "H-188cm,  W-60cm, D-40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "143233",
+          "name": "1 X Book or Clothes Cabinet",
+          "description": "Cabinets still quite new. Used to store books, can be used to store clothes.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": "H-188cm,  W-60cm, D-40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]

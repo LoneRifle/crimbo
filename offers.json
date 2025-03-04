@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143226",
+    "name": "Hospital bed",
+    "description": "Hospital bed",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "03 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143220",
     "name": "Small table",
     "description": "Rarely used table that can function as a study or computer table",
@@ -165,6 +176,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "143232",
+    "name": "1 X Book or Clothes Cabinet",
+    "description": "Cabinets still quite new. Used to store books, can be used to store clothes.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": "H-188cm,  W-60cm, D-40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143233",
+    "name": "1 X Book or Clothes Cabinet",
+    "description": "Cabinets still quite new. Used to store books, can be used to store clothes.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": "H-188cm,  W-60cm, D-40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143170",
     "name": "Dining table",
     "description": "Item is 10 year old. Item can be extended from 120cm to 160cm or 200cm. Tempered glass. Will deliver to recipient stating near jurong area.",
@@ -172,17 +205,6 @@
     "validTill": "30 Mar 2025",
     "ageInYears": 4,
     "dimensions": "120L x 83W x 78H (cm)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143155",
-    "name": "Kid stool",
-    "description": "Na",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": "Na",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -344,17 +366,6 @@
     "id": "143183",
     "name": "Baby Walker",
     "description": "Blessing away baby walker cum training walking with 90% in good condition.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "25 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "143182",
-    "name": "Portable rocker chair (0 - 36 months old)",
-    "description": "Blessing away baby rocking chair with  95 % in still good condition except there is no music.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "25 Mar 2025",
     "ageInYears": 1,
@@ -735,6 +746,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "143234",
+    "name": "Mobile Commode w/pot and wheell",
+    "description": "Commode was handed down to my mom who didnt need to use it. Previously owned by other user.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "14 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "143204",
