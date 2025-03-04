@@ -99,6 +99,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143239",
+    "name": "Cabinet",
+    "description": "Cabinet to be given away. However, donee needs to pay for transportation.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "130cm x 50cm x 106cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143238",
+    "name": "Cabinet",
+    "description": "chest of drawers to give away. However, donor hopes that the donee can pay for the transportation.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "90cm x 50cm x 104cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143226",
     "name": "Hospital bed",
     "description": "Hospital bed",
@@ -154,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143186",
-    "name": "White bookshelf",
-    "description": "Freshly painted white wood bookshelf",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143178",
     "name": "L-Shaped Sofa",
     "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
@@ -172,17 +183,6 @@
     "validTill": "31 Mar 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143232",
-    "name": "1 X Book or Clothes Cabinet",
-    "description": "Cabinets still quite new. Used to store books, can be used to store clothes.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "H-188cm,  W-60cm, D-40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -339,6 +339,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "143237",
+    "name": "Pre loved toys",
+    "description": "NOTE: APPRECIATE VWO TO SELF COLLECT\n\nPreloved well used toys. Electronics have to try with new batteries to see if they are working",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "03 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "143207",

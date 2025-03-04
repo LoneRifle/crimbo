@@ -364,13 +364,24 @@
     "matches": {
       "passiton": [
         {
-          "id": "143232",
-          "name": "1 X Book or Clothes Cabinet",
-          "description": "Cabinets still quite new. Used to store books, can be used to store clothes.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Mar 2025",
-          "ageInYears": 2,
-          "dimensions": "H-188cm,  W-60cm, D-40cm",
+          "id": "143239",
+          "name": "Cabinet",
+          "description": "Cabinet to be given away. However, donee needs to pay for transportation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "130cm x 50cm x 106cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "143238",
+          "name": "Cabinet",
+          "description": "chest of drawers to give away. However, donor hopes that the donee can pay for the transportation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "90cm x 50cm x 104cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
