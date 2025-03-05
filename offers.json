@@ -88,7 +88,7 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "142291",
+    "id": "143302",
     "name": "Television (Without Cables)",
     "description": "Donate Television\nColor: Black\nApp 60cm x 30cm x 5cm\nUsed more than 10 years. Still usable. Only without the cables now.",
     "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -97,6 +97,17 @@
     "dimensions": "App 60cm x 30cm x 5cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "143298",
+    "name": "coffee table",
+    "description": "Coffee table with glass top",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": "1100 x 600 x 420",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "143292",
@@ -121,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143278",
-    "name": "Sofa and 2 coffee table",
-    "description": "1 x 2-3 seater sofa, and two coffee table.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "19 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": "1.9mtr by 90cbm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143264",
     "name": "Desk",
     "description": "nothing",
@@ -149,17 +149,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "12 Mar 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143255",
-    "name": "Two super single beds with mattresses, one small computer table & one big television",
-    "description": "Although the items listed are not new, they are in reasonably good working condition.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "21 Mar 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -227,6 +216,28 @@
     "validTill": "30 Mar 2025",
     "ageInYears": 4,
     "dimensions": "120L x 83W x 78H (cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143299",
+    "name": "Dinning chairs",
+    "description": "Na",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "08 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143300",
+    "name": "Dinning chairs",
+    "description": "Na",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "08 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
