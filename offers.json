@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143278",
+    "name": "Sofa and 2 coffee table",
+    "description": "1 x 2-3 seater sofa, and two coffee table.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "19 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": "1.9mtr by 90cbm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143264",
     "name": "Desk",
     "description": "nothing",
@@ -161,17 +172,6 @@
     "validTill": "02 Apr 2025",
     "ageInYears": 4,
     "dimensions": "Table size 80cm (L) x 40 cm ( B)  x 72 cm ( H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143206",
-    "name": "Single Bed",
-    "description": "Single bed with beddings available. Has two pull out drawers for storage.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "02 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "150X200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,23 +341,23 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143267",
-    "name": "BNIB MINI BUGGY XS stroller",
-    "description": "Brand new in box\n\nUnable to pay for delivery.\nClient or VWO to collect",
-    "location": null,
-    "validTill": "13 Mar 2025",
-    "ageInYears": 1,
+    "id": "143277",
+    "name": "Baby Bath tub",
+    "description": "Like new.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
   {
-    "id": "143263",
-    "name": "Newborn diapers",
-    "description": "newborn baby diapers, 1 pack. unopened.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
+    "id": "143268",
+    "name": "Baby changing unit",
+    "description": "Baby changing unit, there are reinforcement planks nailed to the back of unit, so unable to unassemble.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
