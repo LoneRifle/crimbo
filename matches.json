@@ -1,5 +1,38 @@
 [
   {
+    "id": "143338",
+    "category": "Electrical Home Appliances",
+    "name": "Standing fan",
+    "description": "Low income family of five are moving into their new rental flat and hope to receive some basic furnishings for their home.",
+    "specifications": "Any size",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143147",
+          "name": "Standing Fan",
+          "description": "Used 16 inch EuroAce fan\nCan turn, all 3 power modes are working rust can be seen\nI live in the east so I can only deliver to North, South, East and West until Chinatown\nI am available only on Sundays to deliver",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143301",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -206,6 +239,74 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143345",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client just released from prison. Need a bicycle to go grab food to complement income. (L)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143148",
+          "name": "Bicycle helmet",
+          "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "30 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143343",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "ex-offender just released. need bicycle to do grab food delivery\n(B)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143148",
+          "name": "Bicycle helmet",
+          "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "30 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
