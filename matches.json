@@ -245,6 +245,62 @@
     }
   },
   {
+    "id": "143307",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "A young couple with two small children (aged 3 and 4) living in a rental flat is struggling to make ends meet. Their income is barely enough for daily necessities, leaving them with little to spare. They hope to ask for a queen-size storage bed and an L-shaped sofa as their current furniture has become unusable, making rest and comfort at home difficult. On top of that, their fridge is no longer functioning well, causing food to spoil quickly. As a result, they are often forced to eat out, further straining their already tight budget.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142759",
+          "name": "Single sofa",
+          "description": "Spacious single sofa. Good to rest on it . Water resistant fabric cover.",
+          "location": null,
+          "validTill": "18 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": "80x75",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "143303",
+          "name": "L-Shaped Sofa",
+          "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "142679",
+          "name": "Black singe seater sofa chair",
+          "description": "A single seater black leather sofa chair.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "60 X 90 X 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143079",
     "category": "Home Furnishing",
     "name": "TV Console",
@@ -374,7 +430,7 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "143178",
+          "id": "143303",
           "name": "L-Shaped Sofa",
           "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
