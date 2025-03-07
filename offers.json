@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "143414",
+    "name": "clothes dryer",
+    "description": "hardly used",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "143189",
     "name": "Decorative wall light",
     "description": "Delivery on weekday evening and weekend.",
@@ -73,17 +84,6 @@
     "validTill": "16 Mar 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "143302",
-    "name": "Television (Without Cables)",
-    "description": "Donate Television\nColor: Black\nApp 60cm x 30cm x 5cm\nUsed more than 10 years. Still usable. Only without the cables now.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "06 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": "App 60cm x 30cm x 5cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -198,28 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143299",
-    "name": "Dinning chairs",
-    "description": "Na",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143300",
-    "name": "Dinning chairs",
-    "description": "Na",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143120",
     "name": "Brown Ratan Chair",
     "description": "2 Brown Ratan solid chairs for giving away.",
@@ -282,17 +260,6 @@
     "validTill": "14 Mar 2025",
     "ageInYears": 3,
     "dimensions": "aXbXc",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142481",
-    "name": "Curtains",
-    "description": "Egyptian cotton day curtains",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": "1.8m length; 1.25m width x 2 panels",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -704,50 +671,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "142426",
-    "name": "AgedCare Sterile Catheterization Set MALE",
-    "description": "3 complete sets",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "142425",
-    "name": "Assure Urine Bags 2000ml",
-    "description": "20 pcs",
-    "location": "Tampines ",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "120cm Tubing",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "142424",
-    "name": "Urine Bag Plastic Holder",
-    "description": "2 pcs",
-    "location": "Tampines ",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "142423",
-    "name": "Bardex All Silicon Catheter",
-    "description": "3 pcs",
-    "location": "Tampines ",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "16 Ch/Fr (5.3mm)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "143331",
     "name": "Hospital bed",
     "description": "https://www.rainbowcare.com.sg/livorno-split-side-rails?srsltid=AfmBOooaYVY46292QM3wKY05REtxRYLGGLE5ub-JtA_N-grsFhh9TX3L",
@@ -809,17 +732,6 @@
     "location": null,
     "validTill": "30 Mar 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "143003",
-    "name": "24\" Monitor",
-    "description": "Recycle 1 no 24\" Computer monitor. Can watch local TV program if connect with a digital setup box.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "08 Mar 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"

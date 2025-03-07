@@ -1,17 +1,17 @@
 [
   {
-    "id": "143399",
+    "id": "143366",
     "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Mother with 3young children, residing in a 2-rm rental flat, wishes for any working condition TV to replace the current spoilt TV.",
+    "name": "Dryer",
+    "description": "An unemployed single mother with mental health and other health issues to 3 children requires dryer for the family members.",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Norsiah Binte Mohd Basir",
-      "email": "norsiah@allkin.org.sg",
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
       "phone": [
-        "60384100",
-        "64535349"
+        "64546678",
+        "64578559"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -19,13 +19,46 @@
     "matches": {
       "passiton": [
         {
-          "id": "143302",
-          "name": "Television (Without Cables)",
-          "description": "Donate Television\nColor: Black\nApp 60cm x 30cm x 5cm\nUsed more than 10 years. Still usable. Only without the cables now.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "06 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "App 60cm x 30cm x 5cm",
+          "id": "143414",
+          "name": "clothes dryer",
+          "description": "hardly used",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143205",
+    "category": "Electrical Home Appliances",
+    "name": "Clothes dryer",
+    "description": "Family with 4 school-going children and only father at home requires a dryer as father holds 2 jobs and doesn't have time to hand dry the clothes for the family. He is the only adult in the family.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Wei Shimin",
+      "email": "shimin.wei@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143414",
+          "name": "clothes dryer",
+          "description": "hardly used",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -61,6 +94,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142808",
+    "category": "Electrical Home Appliances",
+    "name": "Clothes Dryer",
+    "description": "Family of 6 young children requires a clothes dryer as laundry gets quite overwhelming during rainy seasons. Father is the sole breadwinner and mum is the primary caregiver to her young children, hence is swarmed with caregiving and household duties, and having a dryer would be very helpful for them. Would greatly appreciate if donor is able to cover delivery costs. Thank you! :)",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Sharifah Hashim",
+      "email": "sharifah.hashim@montfortcare.org.sg",
+      "phone": [
+        "89406352",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143414",
+          "name": "clothes dryer",
+          "description": "hardly used",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
