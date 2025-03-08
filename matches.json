@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "143425",
+          "name": "Tena Adult Diapers XL",
+          "description": "Adult Diaper XL",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
           "id": "143418",
           "name": "Offspring Brand Pull Up Pants Diapers M size 6-11kg by",
           "description": "We have 3 and a half packets (3 unopened packets plus extra) of offspring diapers. Size M and meant for 6-11kg babies. They are pull up diapers that were incorrectly purchased. Happy to deliver to somewhere within reasonable distance.",
@@ -53,6 +64,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "143425",
+          "name": "Tena Adult Diapers XL",
+          "description": "Adult Diaper XL",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
           "id": "143418",
           "name": "Offspring Brand Pull Up Pants Diapers M size 6-11kg by",
           "description": "We have 3 and a half packets (3 unopened packets plus extra) of offspring diapers. Size M and meant for 6-11kg babies. They are pull up diapers that were incorrectly purchased. Happy to deliver to somewhere within reasonable distance.",
@@ -62,6 +84,107 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143011",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "An elderly woman is taking care of her husband, who has dementia and has suffered a mild stroke, leading to incontinence. As a result, he needs frequent diaper changes every day. Unfortunately, they are both unemployed and struggling financially. The elderly woman is kindly asking for help in getting FairPrice brand XL-sized adult diapers pull up pants, as the ongoing expense has become a significant burden for them.",
+    "specifications": "XL",
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Chris Tan",
+      "email": "tanyonghong@fycs.org",
+      "phone": [
+        "96424877",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143425",
+          "name": "Tena Adult Diapers XL",
+          "description": "Adult Diaper XL",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142807",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "Stroke survivor with incontinence and unsteady gait requires diapers for daily usage, he is not under any home medical service so is unable to tap on SMF.",
+    "specifications": "L size",
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143425",
+          "name": "Tena Adult Diapers XL",
+          "description": "Adult Diaper XL",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142428",
+    "category": "Medical Aids",
+    "name": "XL Adult Diapers",
+    "description": "Elderly woman living in rental flat in need of XL sized adult diapers. She has mobility issues and has difficulty ambulating, including whilst going to the toilet, hence is in need of the diapers.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Samuel Lim",
+      "email": "samuellim@kkcs.org.sg",
+      "phone": [
+        "63260316",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143425",
+          "name": "Tena Adult Diapers XL",
+          "description": "Adult Diaper XL",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -229,6 +352,40 @@
           "dimensions": "0x0x0",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143387",
+    "category": "Others",
+    "name": "Adult diapers",
+    "description": "Adult diapers (taped or pull up) urgently needed for a family with no income, and have elderly who needs diapers for basic hygiene.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Victoria Chong",
+      "email": "victoriachong@fycs.org",
+      "phone": [
+        "69783482",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143425",
+          "name": "Tena Adult Diapers XL",
+          "description": "Adult Diaper XL",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -450,6 +607,39 @@
           "validTill": "15 Mar 2025",
           "ageInYears": 4,
           "dimensions": "60 X 90 X 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143214",
+    "category": "Home Furnishing",
+    "name": "Queen Size Mattress",
+    "description": "Client is residing in a 2-room rental flat with 6 younger children. The FSC is looking for a new queen bed for the family in view that the current bed is infested with lice.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Karen Ong",
+      "email": "karenong@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143426",
+          "name": "Queen size mattress and frame",
+          "description": "Queen size bed mattress and frame",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
