@@ -537,6 +537,50 @@
     }
   },
   {
+    "id": "143325",
+    "category": "Home Furnishing",
+    "name": "Bed & Mattress",
+    "description": "Low income family of five are moving into their new rental flat and hope to receive some basic furnishings for their home.",
+    "specifications": "Any size",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143429",
+          "name": "Hospital bed with air pressure mattress",
+          "description": "Hospital bed with air pressure mattress, less than 1 month",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "143428",
+          "name": "Hospital bed with air pressure mattress",
+          "description": "Hospital bed with air pressure mattress, less than 1 month",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143307",
     "category": "Home Furnishing",
     "name": "Sofa",
