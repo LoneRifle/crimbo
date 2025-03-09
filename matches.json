@@ -135,34 +135,34 @@
     }
   },
   {
-    "id": "142428",
-    "category": "Medical Aids",
-    "name": "XL Adult Diapers",
-    "description": "Elderly woman living in rental flat in need of XL sized adult diapers. She has mobility issues and has difficulty ambulating, including whilst going to the toilet, hence is in need of the diapers.",
+    "id": "143309",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "A young couple with two small children (aged 3 and 4) living in a rental flat is struggling to make ends meet. Their income is barely enough for daily necessities, leaving them with little to spare. They hope to ask for a queen-size storage bed and an L-shaped sofa as their current furniture has become unusable, making rest and comfort at home difficult. On top of that, their fridge is no longer functioning well, causing food to spoil quickly. As a result, they are often forced to eat out, further straining their already tight budget.",
     "specifications": null,
     "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Samuel Lim",
-      "email": "samuellim@kkcs.org.sg",
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
       "phone": [
-        "63260316",
-        "63260300"
+        "69783516",
+        "62672900"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2025",
+    "date": "06 Mar 2025",
     "matches": {
       "passiton": [
         {
-          "id": "143425",
-          "name": "Tena Adult Diapers XL",
-          "description": "Adult Diaper XL",
-          "location": null,
-          "validTill": "07 Apr 2025",
+          "id": "143438",
+          "name": "Samsung Fridge",
+          "description": "Less than one year",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "11 Mar 2025",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -202,33 +202,33 @@
     }
   },
   {
-    "id": "143088",
+    "id": "143192",
     "category": "Electrical Home Appliances",
-    "name": "Kettle",
-    "description": "Female client is divorced and unemployed with mental health issues and no family support.  She was homeless since 2020 and had been staying in shelters.  Client has just collected her keys for her new 2-room BTO flat and will benefit if she is able to receive a kettle for her new flat.  Please WhatsApp Calyssa at 8484 8596 or email to weiyin.wong@thkmc.org.sg to liaise.",
-    "specifications": null,
+    "name": "Fridge",
+    "description": "Family of 5 has been using a second hand fridge for the past 10 years. Fridge has currently spoilt and is leaking, resulting in family not being able to keep fresh rations or groceries. Family is unable to afford a new fridge as both parents are medically unfit for work and children are all in primary or secondary school. Family will need a Halal fridge, thank you!",
+    "specifications": "Halal",
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
       "phone": [
-        "62706711"
+        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "26 Feb 2025",
+    "date": "03 Mar 2025",
     "matches": {
       "passiton": [
         {
-          "id": "142444",
-          "name": "Cornell Kettle (Cannot boil)",
-          "description": "Cornell Kettle (Cannot boil)\nApproximately 1.8L\nNoted: \n-Open button cracked but still can open it.\n-Cannot boil. Spoilt electric inside.\n-Can put hot/cold water for storage.\nPlease collect it yourselves.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "08 Mar 2026",
+          "id": "143438",
+          "name": "Samsung Fridge",
+          "description": "Less than one year",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "11 Mar 2025",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -269,6 +269,39 @@
     }
   },
   {
+    "id": "142777",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Sole-income family with 3 children and an incoming child (EDD around May '25). Family is not meeting ends meet with sole-income of $2800 due to children's needs and high costs of living. The inavailibilty of the fridge also reduces the children eating at home because they would only eat fresh food instead of dry rations.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 206B",
+      "name": "Nurhanisah Binte Abdul Rahman",
+      "email": "nurhanisah@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143438",
+          "name": "Samsung Fridge",
+          "description": "Less than one year",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "11 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "142598",
     "category": "Electrical Home Appliances",
     "name": "Vacuum",
@@ -294,6 +327,40 @@
           "validTill": "18 Mar 2025",
           "ageInYears": 1,
           "dimensions": "0x0x0",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142528",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mum with school going teenage children is requesting for a fridge urgently as their current fridge is spoilt. They live in a rental flat and there is no additional income to replace as client is the sole breadwinner for the family. Please contact social worker Seelvi at 86993152 if you are willing to help the family. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Lynette Tan",
+      "email": "lynettetan@thkmc.org.sg",
+      "phone": [
+        "64961272",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143438",
+          "name": "Samsung Fridge",
+          "description": "Less than one year",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "11 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -433,6 +500,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "143437",
+          "name": "Brown fabric sofa",
+          "description": "To collect on 16 March",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "143303",
           "name": "L-Shaped Sofa",
           "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
@@ -440,17 +518,6 @@
           "validTill": "31 Mar 2025",
           "ageInYears": 3,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "143420",
-          "name": "Light brown leather sofa",
-          "description": "Pre-loved Manchester 2-seater and armchair in genuine leather to a new home. Used but still comfortable and with some signs of seasoned leather but in good condition. No damage.",
-          "location": null,
-          "validTill": "14 Mar 2025",
-          "ageInYears": 3,
-          "dimensions": "As per picture",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -566,6 +633,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "143437",
+          "name": "Brown fabric sofa",
+          "description": "To collect on 16 March",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "143303",
           "name": "L-Shaped Sofa",
           "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
@@ -573,17 +651,6 @@
           "validTill": "31 Mar 2025",
           "ageInYears": 3,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "143420",
-          "name": "Light brown leather sofa",
-          "description": "Pre-loved Manchester 2-seater and armchair in genuine leather to a new home. Used but still comfortable and with some signs of seasoned leather but in good condition. No damage.",
-          "location": null,
-          "validTill": "14 Mar 2025",
-          "ageInYears": 3,
-          "dimensions": "As per picture",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },

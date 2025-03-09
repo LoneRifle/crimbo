@@ -44,24 +44,13 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143436",
-    "name": "Toaster Oven",
-    "description": "Lightly used and working",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Apr 2025",
+    "id": "143438",
+    "name": "Samsung Fridge",
+    "description": "Less than one year",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "11 Mar 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "143432",
-    "name": "Toyomi cozy cooker",
-    "description": "Hardly used- good for 1-2pax cooking. Needs to be plugged into electric socket.",
-    "location": null,
-    "validTill": "08 Apr 2025",
-    "ageInYears": 3,
-    "dimensions": "425 x 263 x 202mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -110,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143437",
+    "name": "Brown fabric sofa",
+    "description": "To collect on 16 March",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "16 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143435",
     "name": "Grey Faux Leather 2-seat Recliner",
     "description": "It's a super comfy recliner. I don't have space, so I am letting it go.",
@@ -128,17 +128,6 @@
     "validTill": "31 Mar 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143420",
-    "name": "Light brown leather sofa",
-    "description": "Pre-loved Manchester 2-seater and armchair in genuine leather to a new home. Used but still comfortable and with some signs of seasoned leather but in good condition. No damage.",
-    "location": null,
-    "validTill": "14 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": "As per picture",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -476,17 +465,6 @@
     "id": "143351",
     "name": "Weighing scale",
     "description": "Old manual weighing scale. A bit dusty and stained from being in storage but works perfectly. Kindly note, it is a manual scale, not digital.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "143348",
-    "name": "Children’s books",
-    "description": "Used children’s books to donate. Mostly Geronimo Stilton series and Diary of a Wimpy kid series, and a few assorted ones. Have been in storage for a while. But in good condition.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "12 Mar 2025",
     "ageInYears": 4,
@@ -875,39 +853,6 @@
     "location": null,
     "validTill": "14 Mar 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "142444",
-    "name": "Cornell Kettle (Cannot boil)",
-    "description": "Cornell Kettle (Cannot boil)\nApproximately 1.8L\nNoted: \n-Open button cracked but still can open it.\n-Cannot boil. Spoilt electric inside.\n-Can put hot/cold water for storage.\nPlease collect it yourselves.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "08 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "142442",
-    "name": "Skecher Sport Shoes",
-    "description": "Skecher Sport Shoes\nSize: US 8\nColor: Grey Pink\nNoted: A hole under the shoe, please replace sponge in the shoes only.\nPlease collect it yourselves.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "08 Mar 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "142441",
-    "name": "Rubber Shoes",
-    "description": "Rubber Shoes\nSize: US 8\nColor: Dark Brown\n\nPlease collect it yourselves.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "08 Mar 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
