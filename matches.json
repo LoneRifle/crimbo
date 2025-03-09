@@ -28,17 +28,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        },
-        {
-          "id": "143418",
-          "name": "Offspring Brand Pull Up Pants Diapers M size 6-11kg by",
-          "description": "We have 3 and a half packets (3 unopened packets plus extra) of offspring diapers. Size M and meant for 6-11kg babies. They are pull up diapers that were incorrectly purchased. Happy to deliver to somewhere within reasonable distance.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "07 Apr 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -73,17 +62,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        },
-        {
-          "id": "143418",
-          "name": "Offspring Brand Pull Up Pants Diapers M size 6-11kg by",
-          "description": "We have 3 and a half packets (3 unopened packets plus extra) of offspring diapers. Size M and meant for 6-11kg babies. They are pull up diapers that were incorrectly purchased. Happy to deliver to somewhere within reasonable distance.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "07 Apr 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -555,6 +533,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "143431",
+          "name": "Children's bed and mattress",
+          "description": "Two children extendable bed frames with mattresses",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "08 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "143429",
           "name": "Hospital bed with air pressure mattress",
           "description": "Hospital bed with air pressure mattress, less than 1 month",
@@ -686,6 +675,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143087",
+    "category": "Home Furnishing",
+    "name": "Bed and Mattress",
+    "description": "Female client is divorced and unemployed with mental health issues and no family support.  She was homeless since 2020 and had been staying in shelters.  Client has just collected her keys for her new 2-room BTO flat and will benefit if she is able to receive a bed and mattress for her new flat.  Please WhatsApp Calyssa at 8484 8596 or email to weiyin.wong@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143431",
+          "name": "Children's bed and mattress",
+          "description": "Two children extendable bed frames with mattresses",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "08 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
