@@ -44,12 +44,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143439",
-    "name": "Samsung Fridge",
-    "description": "Less than one year",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "11 Mar 2025",
-    "ageInYears": 1,
+    "id": "143458",
+    "name": "Multi purpose cooker",
+    "description": "Lightly used.  Still working. Sg plug",
+    "location": null,
+    "validTill": "01 Apr 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -62,17 +62,6 @@
     "validTill": "15 Mar 2025",
     "ageInYears": 4,
     "dimensions": "68mm x 30mm x 3mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "143414",
-    "name": "clothes dryer",
-    "description": "hardly used",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -99,13 +88,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "143437",
-    "name": "Brown fabric sofa",
-    "description": "To collect on 16 March",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "16 Mar 2025",
-    "ageInYears": 3,
+    "id": "143448",
+    "name": "Metal single bedframe (without mattress)",
+    "description": "Single metal bedframe.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 Mar 2025",
+    "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143441",
+    "name": "2 seater sofa",
+    "description": "2 seater sofa",
+    "location": null,
+    "validTill": "01 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": "1.5m x 0.8m x 0.5",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -121,17 +121,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143426",
-    "name": "Queen size mattress and frame",
-    "description": "Queen size bed mattress and frame",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143419",
     "name": "SUPER SINGLE BEDFRAME",
     "description": "Brand new bedframe to give away due to change of plan.",
@@ -139,17 +128,6 @@
     "validTill": "07 Apr 2025",
     "ageInYears": 1,
     "dimensions": "Super Single Bedframe",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143298",
-    "name": "coffee table",
-    "description": "Coffee table with glass top",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "1100 x 600 x 420",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -482,17 +460,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "143425",
-    "name": "Tena Adult Diapers XL",
-    "description": "Adult Diaper XL",
-    "location": null,
-    "validTill": "07 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "143171",
