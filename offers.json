@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143458",
-    "name": "Multi purpose cooker",
-    "description": "Lightly used.  Still working. Sg plug",
-    "location": null,
-    "validTill": "01 Apr 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "143423",
     "name": "4GB DDR3 1333/1600 SODIMM Laptop/PC RAM",
     "description": "4GB DDR3 RAM SODIMM is used but in fully working condition.",
@@ -97,6 +86,17 @@
     "dimensions": "0x0x0",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "143478",
+    "name": "Dining table with 6 chairs",
+    "description": "Marble top dining table with wooden leg c/w 6 chairs",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "143472",
@@ -297,17 +297,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "143277",
-    "name": "Baby Bath tub",
-    "description": "Like new.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "04 Apr 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "143268",
     "name": "Baby changing unit",
     "description": "Baby changing unit, there are reinforcement planks nailed to the back of unit, so unable to unassemble.",
@@ -359,17 +348,6 @@
     "validTill": "02 Apr 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "143094",
-    "name": "Wooden Foldable cot",
-    "description": "Sturdy infant crib with mattress. Can be folded up when not in use so great for small spaces! I also have some clean washed sheets and a mattress protector. Comes from a pet-free and smoke-free home.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "28 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "Assembled- 65 (W) x 128 (L) x 106cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -570,6 +548,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "143477",
+    "name": "Hospital Bed with Recliner",
+    "description": "All items in good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "16 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "143429",
