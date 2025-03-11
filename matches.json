@@ -33,6 +33,40 @@
     }
   },
   {
+    "id": "143421",
+    "category": "Home Furnishing",
+    "name": "Queen-sized mattress",
+    "description": "Family of 5 with 3 school-going children staying in a 2-room rental flat requires a queen-sized mattress as their current one is not conducive to sleep in anymore. Mum is working part-time due to health conditions, and dad is working 2 jobs. Would really appreciate if donor is able to cover the transport expenses for the family. Thanks!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Mohamad Harith",
+      "email": "harith_husaini@msf.gov.sg",
+      "phone": [
+        "63254547",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143517",
+          "name": "Queen sized mattress",
+          "description": "Sealy mattress more than 10 years old but in good condition.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "152cm (Width) by 190cm (Length) x 29cm (Height)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143307",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -194,6 +228,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "143519",
+          "name": "Samsung tv",
+          "description": "Working but old comes with the wall mount if edited though unsure where screws are",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "01 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -295,6 +340,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143520",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Member is a 22-year-old currently pursuing a private diploma and requires a laptop for his Zoom sessions and assessments. However, he lacks the financial means to afford one. His mother, a widow, is unable to work due to health issues",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143423",
+          "name": "4GB DDR3 1333/1600 SODIMM Laptop/PC RAM",
+          "description": "4GB DDR3 RAM SODIMM is used but in fully working condition.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "15 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": "68mm x 30mm x 3mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []

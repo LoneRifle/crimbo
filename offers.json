@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "143519",
+    "name": "Samsung tv",
+    "description": "Working but old comes with the wall mount if edited though unsure where screws are",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "01 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "143423",
     "name": "4GB DDR3 1333/1600 SODIMM Laptop/PC RAM",
     "description": "4GB DDR3 RAM SODIMM is used but in fully working condition.",
@@ -86,6 +97,17 @@
     "dimensions": "0x0x0",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "143517",
+    "name": "Queen sized mattress",
+    "description": "Sealy mattress more than 10 years old but in good condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": "152cm (Width) by 190cm (Length) x 29cm (Height)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "143494",
@@ -271,17 +293,6 @@
     "validTill": "15 Mar 2025",
     "ageInYears": 4,
     "dimensions": "60 X 90 X 90",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142653",
-    "name": "matress along with cot",
-    "description": "3 year old used mattress and cot",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": "aXbXc",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,17 +583,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "143491",
-    "name": "Comode",
-    "description": "Comode with wheels. Non collapsible",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "10 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "143429",
     "name": "Hospital bed with air pressure mattress",
     "description": "Hospital bed with air pressure mattress, less than 1 month",
@@ -601,17 +601,6 @@
     "validTill": "07 Apr 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "143331",
-    "name": "Hospital bed",
-    "description": "https://www.rainbowcare.com.sg/livorno-split-side-rails?srsltid=AfmBOooaYVY46292QM3wKY05REtxRYLGGLE5ub-JtA_N-grsFhh9TX3L",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": "212 x 105 x 31/80",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
