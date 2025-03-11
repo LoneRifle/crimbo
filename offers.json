@@ -1,5 +1,16 @@
 [
   {
+    "id": "143513",
+    "name": "Clothes Boys 8-10Y and 10-12Y",
+    "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "10 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "143249",
     "name": "Wedding gown",
     "description": "Pre-loved wedding gown, worn once only for pre-wedding shoot",
@@ -176,17 +187,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143226",
-    "name": "Hospital bed",
-    "description": "Hospital bed",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "03 Apr 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143220",
     "name": "Small table",
     "description": "Rarely used table that can function as a study or computer table",
@@ -284,17 +284,6 @@
     "dimensions": "aXbXc",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "143431",
-    "name": "Children's bed and mattress",
-    "description": "Two children extendable bed frames with mattresses",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "08 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "143268",
@@ -438,6 +427,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "143512",
+    "name": "Oxygen Cylinders",
+    "description": "2 Empty Oxygen Cylinders with Regulator",
+    "location": null,
+    "validTill": "16 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "143171",
