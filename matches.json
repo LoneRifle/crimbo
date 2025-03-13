@@ -111,6 +111,39 @@
     }
   },
   {
+    "id": "143214",
+    "category": "Home Furnishing",
+    "name": "Queen Size Mattress",
+    "description": "Client is residing in a 2-room rental flat with 6 younger children. The FSC is looking for a new queen bed for the family in view that the current bed is infested with lice.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Karen Ong",
+      "email": "karenong@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143595",
+          "name": "Queen size bed with mattress",
+          "description": "Queen size bed with mattress",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143079",
     "category": "Home Furnishing",
     "name": "TV Console",
@@ -405,6 +438,94 @@
           "dimensions": "68mm x 30mm x 3mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143591",
+    "category": "Attires/Clothings",
+    "name": "Shoes",
+    "description": "Hi, there is a client, facing financial difficulties who requires a pair of sports shoes and a slipper as his current ones are worn-out. He is diagnosed with mental health conditions and is certified temporarily unfit for work. He does not have familial support and is hoping to receive some support to help him tide through his financial constraints. Client's shoe size is US46. For the slipper, he hopes to receive an open-toes slipper so that there would not be friction between his toes which has caused him discomfort and injury in the past. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "142847",
+          "name": "new balance shoes for walking",
+          "description": "worn in well , very comfy",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "21 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": "u.s. 8",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Attires/Clothings"
+        },
+        {
+          "id": "142754",
+          "name": "Brand new in box white school shoes",
+          "description": "Size is shown on the box . Self collect at my place .",
+          "location": null,
+          "validTill": "18 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": "0x0x0",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143590",
+    "category": "Attires/Clothings",
+    "name": "Clothes",
+    "description": "Hi, there is a client, facing financial difficulties who requires some pants. He is diagnosed with mental health conditions and is certified temporarily unfit for work. He does not have familial support and is hoping to receive some clothes support to help him tide through his financial constraints. Client requires pants of size US50 (long and short pants). Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143513",
+          "name": "Clothes Boys 8-10Y and 10-12Y",
+          "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "10 Apr 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Attires/Clothings"
+        },
+        {
+          "id": "143430",
+          "name": "Clothes rack",
+          "description": "Delivery on weekday evening and weekend.",
+          "location": null,
+          "validTill": "07 Apr 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []

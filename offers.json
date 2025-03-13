@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143595",
+    "name": "Queen size bed with mattress",
+    "description": "Queen size bed with mattress",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143586",
     "name": "IKEA Single Bedframe and Mattress",
     "description": "Preferred self collection",
@@ -550,17 +561,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "143530",
-    "name": "Geriatric chair",
-    "description": "Used once or twice only",
-    "location": null,
-    "validTill": "11 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "Ht. 1150mm,  length 750mm, , width 660mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "143495",
     "name": "Hospital chair",
     "description": "More than 4 years old certainly. But in working condition except for some cracks on the surface (photos 2 and 3)",
@@ -667,17 +667,6 @@
     "validTill": "18 Mar 2025",
     "ageInYears": 1,
     "dimensions": "0x0x0",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "142712",
-    "name": "Salt (500g)",
-    "description": "100 packets of salt",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "16 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
