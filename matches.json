@@ -18,6 +18,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "143663",
+          "name": "Single Bed with Frame, Mattress and 2 Pillows",
+          "description": "This is a single bed with mattress and 2 pillows to be given.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "14 Apr 2025",
+          "ageInYears": 2,
+          "dimensions": "single bed size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "143586",
           "name": "IKEA Single Bedframe and Mattress",
           "description": "Preferred self collection",
@@ -122,6 +133,39 @@
     }
   },
   {
+    "id": "143087",
+    "category": "Home Furnishing",
+    "name": "Bed and Mattress",
+    "description": "Female client is divorced and unemployed with mental health issues and no family support.  She was homeless since 2020 and had been staying in shelters.  Client has just collected her keys for her new 2-room BTO flat and will benefit if she is able to receive a bed and mattress for her new flat.  Please WhatsApp Calyssa at 8484 8596 or email to weiyin.wong@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143663",
+          "name": "Single Bed with Frame, Mattress and 2 Pillows",
+          "description": "This is a single bed with mattress and 2 pillows to be given.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "14 Apr 2025",
+          "ageInYears": 2,
+          "dimensions": "single bed size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143079",
     "category": "Home Furnishing",
     "name": "TV Console",
@@ -169,6 +213,40 @@
           "validTill": "20 Mar 2025",
           "ageInYears": 4,
           "dimensions": "185cm X 40cm X 55cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143034",
+    "category": "Home Furnishing",
+    "name": "Single bed frame and mattress",
+    "description": "Elderly lady stays with her husband in a 2-room rental flat. \n\nWe are looking to declutter her home and will need to replace her existing bed and mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Chen Jie Mei",
+      "email": "jiemei.chen@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143663",
+          "name": "Single Bed with Frame, Mattress and 2 Pillows",
+          "description": "This is a single bed with mattress and 2 pillows to be given.",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "14 Apr 2025",
+          "ageInYears": 2,
+          "dimensions": "single bed size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
