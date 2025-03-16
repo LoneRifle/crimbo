@@ -219,6 +219,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "143677",
+          "name": "2 Seat Sofa",
+          "description": "2 seat sofa in good shape",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "29 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "143303",
           "name": "L-Shaped Sofa",
           "description": "Almost 3 yo L shaped sofa about 2.4m in length. A little bit of scratches on the left arm.",
@@ -416,6 +427,72 @@
           "dimensions": "single bed size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143581",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "A single mother of two, who is the sole breadwinner, is facing a financial burden as she transitions to a new home. They are in need of a kitchen cabinet, two single mattresses, a two-seater sofa, and a microwave.",
+    "specifications": null,
+    "contact": {
+      "org": "Life Community Services Society",
+      "name": "Life Community Services Society",
+      "email": "lcss@life-community.org",
+      "phone": [
+        "63873700"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143674",
+          "name": "Microwave over, chair",
+          "description": "Samsung Oven, sometimes spark comes inside",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143515",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Two seniors living in a rental flat with mobility and various medical needs requires a microwave for their meals. They are on government assistance to meet their basic needs. They heavily depend on home cooked food and have limited financial resources to purchase a new/second-hand microwave. If second-hand, microwave must be from halal sources.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Munawarah Binte Sukaimi",
+      "email": "Munawarah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143674",
+          "name": "Microwave over, chair",
+          "description": "Samsung Oven, sometimes spark comes inside",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
