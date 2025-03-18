@@ -88,13 +88,46 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "143766",
-    "name": "3 -seater sofa",
-    "description": "3 seater recliner that can recline at both ends",
+    "id": "143778",
+    "name": "Single Bed",
+    "description": "New but opened",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "1.8m x 0.96m",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": "190 x 90 x 15cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143777",
+    "name": "Single Bed",
+    "description": "New but opened",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": "190 x 90 x 15cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143776",
+    "name": "Sofa bed",
+    "description": "Single sofa bed",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143775",
+    "name": "Sofa bed",
+    "description": "Teal single sofa bed",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Apr 2025",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -493,6 +526,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "143770",
+    "name": "Hospital bed, Portable Oxygen, Oxygen Tank, Medications",
+    "description": "Hospital bed, Portable Oxygen, Oxygen Tank, Medications - Morphine, Fentanyl, Barrier Cream, Fentanyl Patch, Haloperidol, Hyoscine-N-Butylbromide, FLumicil",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "24 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "143671",
