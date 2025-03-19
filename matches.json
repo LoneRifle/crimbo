@@ -100,61 +100,6 @@
     }
   },
   {
-    "id": "143464",
-    "category": "Home Furnishing",
-    "name": "Single mattress",
-    "description": "A low income senior with history of stroke requires a new single sized mattress as the current one has sunk in the middle.\nAppreciate provision of delivery as well.\nThank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner - Community Case Management Service Central",
-      "name": "Josherine Toh",
-      "email": "josherinetoh@carecorner.org.sg",
-      "phone": [
-        "62586601"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Mar 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "143781",
-          "name": "Single bed divan without mattress",
-          "description": "In good working condition.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "24 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "143586",
-          "name": "IKEA Single Bedframe and Mattress",
-          "description": "Preferred self collection",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Mar 2025",
-          "ageInYears": 2,
-          "dimensions": "Single",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "143448",
-          "name": "Metal single bedframe (without mattress)",
-          "description": "Single metal bedframe.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "22 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "143307",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -216,6 +161,39 @@
           "dimensions": "W91cm X D41cm X H76cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143771",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client is a single mother undergoing divorce, with 2 schoolgoing children and 1 adult son that has just reintegrated into the family. Family is living in a 2 room rental flat, and mother is unable to work due to chronic physical and mental health issues. They are hoping to receive a microwave as their current microwave is spoilt and has burnt their food multiple times.",
+    "specifications": "Halal",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143785",
+          "name": "Microwave over, chair",
+          "description": "Samsung Oven, sometimes spark comes inside",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -350,6 +328,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143581",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "A single mother of two, who is the sole breadwinner, is facing a financial burden as she transitions to a new home. They are in need of a kitchen cabinet, two single mattresses, a two-seater sofa, and a microwave.",
+    "specifications": null,
+    "contact": {
+      "org": "Life Community Services Society",
+      "name": "Life Community Services Society",
+      "email": "lcss@life-community.org",
+      "phone": [
+        "63873700"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143785",
+          "name": "Microwave over, chair",
+          "description": "Samsung Oven, sometimes spark comes inside",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
