@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143815",
+    "name": "Hospital Bed",
+    "description": "Hospital bed with mattress",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143782",
     "name": "4 seater sofa",
     "description": "4 seater sofa measuring 202 x 84 x 85 cm. Very spacious and can be used as a single bed",
@@ -99,17 +110,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143781",
-    "name": "Single bed divan without mattress",
-    "description": "In good working condition.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "24 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143749",
     "name": "dining table",
     "description": "got a small little crack but otherwise good condition",
@@ -117,6 +117,17 @@
     "validTill": "20 Mar 2025",
     "ageInYears": 4,
     "dimensions": "1.2 m x 0.8 m x 0.9 m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143812",
+    "name": "Living room curtains",
+    "description": "Brand new curtains.\nCurtain design as per first photo. \nFabric as per the checked one in the second photo.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "100\"H × 140\"W",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -471,6 +482,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "143816",
+    "name": "Diapers and wet wipes",
+    "description": "Recently bought diapers and wet wipes",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "143770",
