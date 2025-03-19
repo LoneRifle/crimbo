@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143804",
-    "name": "Cordless phone",
-    "description": "Lightly used and it is working.  Just tested.\nOnly deliver to VWO offices.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "143785",
     "name": "Microwave over, chair",
     "description": "Samsung Oven, sometimes spark comes inside",
@@ -86,6 +75,28 @@
     "dimensions": "45cmWx20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "143818",
+    "name": "Metal Cabinet",
+    "description": "Well-maintained. Collection at 31 Dalhousie Lane, my current office.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "24 Mar 2025",
+    "ageInYears": 3,
+    "dimensions": "app 80 x 70 x 40",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143817",
+    "name": "IKEA white shelves - 8 square columns (2 units)",
+    "description": "Light stains on one side.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "25 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "app 146 x 76 x 39",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "143815",
@@ -361,6 +372,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "143820",
+    "name": "Pigeon milk bottle",
+    "description": "If possible, can meet at mrt.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "18 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "143819",
+    "name": "Diapers",
+    "description": "Unused baby diapers",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "18 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "143767",
