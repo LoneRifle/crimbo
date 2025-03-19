@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "143782",
+    "name": "4 seater sofa",
+    "description": "4 seater sofa measuring 202 x 84 x 85 cm. Very spacious and can be used as a single bed",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "20 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "202 x 84 x 85",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "143781",
     "name": "Single bed divan without mattress",
     "description": "In good working condition.",
@@ -95,28 +106,6 @@
     "validTill": "24 Mar 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143778",
-    "name": "Single Bed",
-    "description": "New but opened",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "190 x 90 x 15cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143777",
-    "name": "Single Bed",
-    "description": "New but opened",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "190 x 90 x 15cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
