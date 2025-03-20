@@ -1,16 +1,5 @@
 [
   {
-    "id": "143672",
-    "name": "L-XL Female Clothing",
-    "description": "Pre-loved Female Clothing.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "143513",
     "name": "Clothes Boys 8-10Y and 10-12Y",
     "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
@@ -77,24 +66,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "143818",
-    "name": "Metal Cabinet",
-    "description": "Well-maintained. Collection at 31 Dalhousie Lane, my current office.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "24 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": "app 80 x 70 x 40",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143817",
-    "name": "IKEA white shelves - 8 square columns (2 units)",
-    "description": "Light stains on one side.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "25 Mar 2025",
+    "id": "143835",
+    "name": "L shape leather sofa",
+    "description": "sofa has some peeled off leather \nI can bear the delivery cost of up to $100",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "28 Mar 2025",
     "ageInYears": 4,
-    "dimensions": "app 146 x 76 x 39",
+    "dimensions": "2.3 x 2",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -264,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143220",
-    "name": "Small table",
-    "description": "Rarely used table that can function as a study or computer table",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "02 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": "Table size 80cm (L) x 40 cm ( B)  x 72 cm ( H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143170",
     "name": "Dining table",
     "description": "Item is 10 year old. Item can be extended from 120cm to 160cm or 200cm. Tempered glass. Will deliver to recipient stating near jurong area.",
@@ -295,6 +262,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "143830",
+    "name": "kids soft toys",
+    "description": "over 100 of soft toys in good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "19 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": "various",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "143767",
@@ -633,17 +611,6 @@
     "location": null,
     "validTill": "09 Apr 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "143430",
-    "name": "Clothes rack",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "07 Apr 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
