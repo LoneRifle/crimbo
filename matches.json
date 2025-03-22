@@ -155,6 +155,40 @@
     }
   },
   {
+    "id": "143307",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "A young couple with two small children (aged 3 and 4) living in a rental flat is struggling to make ends meet. Their income is barely enough for daily necessities, leaving them with little to spare. They hope to ask for a queen-size storage bed and an L-shaped sofa as their current furniture has become unusable, making rest and comfort at home difficult. On top of that, their fridge is no longer functioning well, causing food to spoil quickly. As a result, they are often forced to eat out, further straining their already tight budget.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143896",
+          "name": "sofa",
+          "description": "the L shape in good condition. The 2 seater a bit soft. Need to clean . Half leather sofa",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "21 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "not sure",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143877",
     "category": "Electrical Home Appliances",
     "name": "TV",
