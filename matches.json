@@ -534,6 +534,39 @@
     }
   },
   {
+    "id": "143591",
+    "category": "Attires/Clothings",
+    "name": "Shoes",
+    "description": "Hi, there is a client, facing financial difficulties who requires a pair of sports shoes and a slipper as his current ones are worn-out. He is diagnosed with mental health conditions and is certified temporarily unfit for work. He does not have familial support and is hoping to receive some support to help him tide through his financial constraints. Client's shoe size is US46. For the slipper, he hopes to receive an open-toes slipper so that there would not be friction between his toes which has caused him discomfort and injury in the past. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Joyous Chai",
+      "email": "joyouschai@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143920",
+          "name": "Kids Soccer Shoes",
+          "description": "Size 34",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143590",
     "category": "Attires/Clothings",
     "name": "Clothes",
@@ -558,6 +591,17 @@
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
           "validTill": "10 Apr 2025",
           "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Attires/Clothings"
+        },
+        {
+          "id": "143913",
+          "name": "Baby Girl Clothes",
+          "description": "Baby girl clothes (1 yr old) for donation",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Mar 2025",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Attires/Clothings"
