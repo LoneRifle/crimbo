@@ -377,6 +377,39 @@
     }
   },
   {
+    "id": "143104",
+    "category": "Electrical Home Appliances",
+    "name": "Iron",
+    "description": "Family of 4 living in a rental flat",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143906",
+          "name": "Cordless steam iron",
+          "description": "Used\n\nDeliver to VWO offices only.",
+          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+          "validTill": "22 Apr 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "143345",
     "category": "Others",
     "name": "Bicycle",
