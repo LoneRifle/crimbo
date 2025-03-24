@@ -93,17 +93,6 @@
           "dimensions": "200cm tall x 70cm wide x 36 thick",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "143903",
-          "name": "2x shoe rack/ cabinet",
-          "description": "2 shoe cabinets. Similar sizes, slightly different design.",
-          "location": null,
-          "validTill": "21 Apr 2025",
-          "ageInYears": 1,
-          "dimensions": "70x35x200",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []
@@ -138,236 +127,25 @@
           "dimensions": "not sure",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143877",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Family of 6 living in a rental flat requires a replacement for their faulty tv",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Nadiah Razak",
-      "email": "nadiah.razak@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Mar 2025",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "143570",
-          "name": "TV console",
-          "description": "Use TV console",
+          "id": "143933",
+          "name": "3 seater recliner sofa",
+          "description": "3 seater leather recliner sofa. Can recliner both ends",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Mar 2025",
-          "ageInYears": 4,
+          "validTill": "31 Mar 2025",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143771",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Client is a single mother undergoing divorce, with 2 schoolgoing children and 1 adult son that has just reintegrated into the family. Family is living in a 2 room rental flat, and mother is unable to work due to chronic physical and mental health issues. They are hoping to receive a microwave as their current microwave is spoilt and has burnt their food multiple times.",
-    "specifications": "Halal",
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Regina Leong",
-      "email": "regina@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Mar 2025",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "143785",
-          "name": "Microwave over, chair",
-          "description": "Samsung Oven, sometimes spark comes inside",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "15 Apr 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143713",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is married with 7 young children. Family has multiple needs which is further compounded by intergenerational poverty and drugs. Family is requesting for a TV as existing faulty. (HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Mar 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "143570",
-          "name": "TV console",
-          "description": "Use TV console",
+          "id": "143934",
+          "name": "3 seater recliner sofa",
+          "description": "3 seater leather recliner sofa. Can recliner both ends",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143711",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Grandparents looking after their 14yo special needs grandchild. Family lives in a 1-room rental flat. Grandfather works part time as grandmother has medical issues & he needs to be at home to care for her while grandchild is in school. Their current TV is spoilt & is looking for a replacement.",
-    "specifications": null,
-    "contact": {
-      "org": "MINDS - Lee Kong Chian Gardens School",
-      "name": "Jane Antony",
-      "email": "jane.antony@minds.org.sg",
-      "phone": [
-        "64738332"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Mar 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "143570",
-          "name": "TV console",
-          "description": "Use TV console",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143710",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is a 54yo single mother living with her only daughter. She is currently unemployed as she is focused on her caregiving duties for her daughter. Their last TV broke recently. It was her main source of entertainment whilst at home alone when her daughter is at school.",
-    "specifications": null,
-    "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "mbinny@catholicwelfare.org.sg",
-      "phone": [
-        "68017489",
-        "63394711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Mar 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "143570",
-          "name": "TV console",
-          "description": "Use TV console",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Mar 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143581",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "A single mother of two, who is the sole breadwinner, is facing a financial burden as she transitions to a new home. They are in need of a kitchen cabinet, two single mattresses, a two-seater sofa, and a microwave.",
-    "specifications": null,
-    "contact": {
-      "org": "Life Community Services Society",
-      "name": "Life Community Services Society",
-      "email": "lcss@life-community.org",
-      "phone": [
-        "63873700"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Mar 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "143785",
-          "name": "Microwave over, chair",
-          "description": "Samsung Oven, sometimes spark comes inside",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "15 Apr 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "143468",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Family consists of a middle-aged couple. Husband is currently sole breadwinner as wife underwent major spine surgery and is unable to work. Husband was previously absconded by friends and he is currently paying off multiple debts on their behalf. The couple live in a 1 room rental flat. As wife spends a lot of time at home alone, she hopes to be able to receive a TV so that she will not be as disengaged.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Regina Leong",
-      "email": "regina@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Mar 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "143570",
-          "name": "TV console",
-          "description": "Use TV console",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Mar 2025",
-          "ageInYears": 4,
+          "validTill": "31 Mar 2025",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -495,6 +273,28 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "143927",
+          "name": "Samsung A8 (2018) Tempered Glass Screen Protector and Phone Casing",
+          "description": "Unused Tempered Glass screen protector and Casing only suitable for Samsung A8 (2018) phone.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "13 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": "149.2 x 70.6 x 8.4 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "143928",
+          "name": "Samsung A8 (2018) Tempered Glass Screen Protector and Phone Casing",
+          "description": "Unused Tempered Glass screen protector and Casing only suitable for Samsung A8 (2018) phone.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "13 Apr 2025",
+          "ageInYears": 1,
+          "dimensions": "149.2 x 70.6 x 8.4 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -525,17 +325,6 @@
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
           "validTill": "10 Apr 2025",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        },
-        {
-          "id": "143913",
-          "name": "Baby Girl Clothes",
-          "description": "Baby girl clothes (1 yr old) for donation",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Mar 2025",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Attires/Clothings"

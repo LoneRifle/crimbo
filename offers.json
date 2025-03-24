@@ -1,27 +1,5 @@
 [
   {
-    "id": "143913",
-    "name": "Baby Girl Clothes",
-    "description": "Baby girl clothes (1 yr old) for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "143912",
-    "name": "Kids Baju Kurung",
-    "description": "Lightly used for 2-4 yrs old",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "143513",
     "name": "Clothes Boys 8-10Y and 10-12Y",
     "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
@@ -55,28 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "143888",
-    "name": "Roborock vacuum",
-    "description": "Roborock P10. Chinese version. Works perfevtly ok, esp if in China. Used to be able to hack the system to enter Chinese servers from Singapore but getting difficult to. Robot works well perfectly otherwise. Can still function manually (e.g. vacuum and sweep) on single touch button even without connecting to internet. Robot speaks mandarin. I have repacked everything.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "20 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "143785",
-    "name": "Microwave over, chair",
-    "description": "Samsung Oven, sometimes spark comes inside",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "143626",
     "name": "WALL FAN",
     "description": "PRELOVED WALL FAN \n\nWITHOUT THE COVER \n\nWORKING WELL EXCEPT THE PULLING STRING & OSCILLATION OF THE FAN IS BROKEN",
@@ -99,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "143926",
-    "name": "Dressing table with LED light and seat",
-    "description": "Carefully used; space saving",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143918",
     "name": "Single Bedframe, mattress and pillows",
     "description": "Great condition",
@@ -128,28 +73,6 @@
     "validTill": "30 Mar 2025",
     "ageInYears": 4,
     "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143900",
-    "name": "Throw/Blanket",
-    "description": "Throw/Blanket",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "21 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143897",
-    "name": "Single Foldable Foam Mattress",
-    "description": "- 3-Fold high-density foam mattress\n- Firmness level: medium firm 5-6/10\n- Single size L190 x W90\n- 4 inches thickness - 10cm\n- Removable cover with zipper\n- Anti Dust Mites and Anti Bacteria\n- 3D mesh on the sides for better air circulation\n- Knitted cooling fabric for more comfort and easy care",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "21 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -176,23 +99,34 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143874",
-    "name": "Child bed with mattress Paw Patrol design",
-    "description": "Single child’s bed. Almost new. Bed was not used as the child slept on the parents’ bed. Was used to put soft toys. Will come with mattress. Will give with 1-2 fitted bed sheets. I need to find.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "140 cm (L) X 70 cm (W)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "143815",
     "name": "Hospital Bed",
     "description": "Hospital bed with mattress",
     "location": "Farrer Park, Little India, Serangoon Road",
     "validTill": "31 Mar 2025",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143933",
+    "name": "3 seater recliner sofa",
+    "description": "3 seater leather recliner sofa. Can recliner both ends",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143934",
+    "name": "3 seater recliner sofa",
+    "description": "3 seater leather recliner sofa. Can recliner both ends",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2025",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -227,17 +161,6 @@
     "validTill": "10 Apr 2025",
     "ageInYears": 4,
     "dimensions": "Height 190 cm Width 100 cm Depth",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143570",
-    "name": "TV console",
-    "description": "Use TV console",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "26 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -528,17 +451,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "143668",
-    "name": "Singa 4\" Cell Mattress with Static & Digital Mode Pump",
-    "description": "Dimension (LxWxH): 260 x 125 x 170mm\nWeight: 1.5 kg\n\nI have an IKEA foam mattress (2inches) at the bottom to support the air mattress.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "15 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": "260 x 125 x 170mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "143667",
     "name": "3 Crank Electrical Luxury Hospital Bed",
     "description": "Overall Length\t211 cm / 83.1\"\nOverall Width\t109 cm / 42.9\"\nOverall Height\t41 - 69 cm / 16.1\" - 27.2\" (Floor to Bed Base)",
@@ -551,17 +463,6 @@
   },
   {
     "id": "143756",
-    "name": "Hospital bed",
-    "description": "This is an electrical remote hospital bed. It come with a mattress and an additional air mattress with bump.\nThe condition is excellent and as good as new (usage less than 4 months).",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "143757",
     "name": "Hospital bed",
     "description": "This is an electrical remote hospital bed. It come with a mattress and an additional air mattress with bump.\nThe condition is excellent and as good as new (usage less than 4 months).",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -627,17 +528,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "143917",
-    "name": "Study Table",
-    "description": "Good condition Study Table with cabinets",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "143911",
     "name": "foldable/ retractable paper screen/ partition",
     "description": "brand new foldable/retractable paper screen. Not suitable for my home usage.\n\nPrefer to gift to VWOs - can discuss re transportation costs.",
@@ -645,17 +535,6 @@
     "validTill": "30 Mar 2025",
     "ageInYears": 1,
     "dimensions": "3mx28cmx1.6m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "143903",
-    "name": "2x shoe rack/ cabinet",
-    "description": "2 shoe cabinets. Similar sizes, slightly different design.",
-    "location": null,
-    "validTill": "21 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "70x35x200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
@@ -689,6 +568,28 @@
     "validTill": "04 Apr 2025",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "143927",
+    "name": "Samsung A8 (2018) Tempered Glass Screen Protector and Phone Casing",
+    "description": "Unused Tempered Glass screen protector and Casing only suitable for Samsung A8 (2018) phone.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "13 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "149.2 x 70.6 x 8.4 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "143928",
+    "name": "Samsung A8 (2018) Tempered Glass Screen Protector and Phone Casing",
+    "description": "Unused Tempered Glass screen protector and Casing only suitable for Samsung A8 (2018) phone.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "13 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "149.2 x 70.6 x 8.4 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
