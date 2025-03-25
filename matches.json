@@ -62,17 +62,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "143890",
-          "name": "Shoe cabinet",
-          "description": "2 shoe cabinets. Both new. One set up, one still in box to be built.",
-          "location": null,
-          "validTill": "09 Apr 2025",
-          "ageInYears": 1,
-          "dimensions": "200cm tall x 70cm wide x 36 thick",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "143891",
           "name": "Shoe cabinet",
           "description": "2 shoe cabinets. Both new. One set up, one still in box to be built.",
@@ -125,6 +114,17 @@
           "validTill": "21 Apr 2025",
           "ageInYears": 4,
           "dimensions": "not sure",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "143975",
+          "name": "Ikea sofa",
+          "description": "Ikea sofa, take before 27-March",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "27 Mar 2025",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
