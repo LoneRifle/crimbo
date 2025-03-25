@@ -129,17 +129,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "143975",
-          "name": "Ikea sofa",
-          "description": "Ikea sofa, take before 27-March",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "27 Mar 2025",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "143933",
           "name": "3 seater recliner sofa",
           "description": "3 seater leather recliner sofa. Can recliner both ends",
@@ -166,18 +155,18 @@
     }
   },
   {
-    "id": "143958",
-    "category": "Others",
-    "name": "Pillow",
-    "description": "Elder lady need a pillow (new for hygiene purpose) to place under her legs when sleeping as she has swollen legs conditions .",
-    "specifications": "NA",
+    "id": "143936",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "The family consists of the client, his wife, their son and wife's mother. Family is facing financial difficulties due to their ongoing medical conditions and caregiving responsibilities of son and grandmother. Grandmother has multiple medical conditions which limits her mobility and the family requires support with her adult diapers.",
+    "specifications": null,
     "contact": {
-      "org": "Tsao Foundation - Hua Mei Clinic",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Fahmi Bin Jazid",
+      "email": "fahmi@allkin.org.sg",
       "phone": [
-        "65939576",
-        "66619545"
+        "64546678",
+        "64578559"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -185,15 +174,482 @@
     "matches": {
       "passiton": [
         {
-          "id": "143918",
-          "name": "Single Bedframe, mattress and pillows",
-          "description": "Great condition",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Mar 2025",
-          "ageInYears": 2,
-          "dimensions": null,
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143716",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "client is medically unfit for work but does not have enough money to purchase a washing machine. she is currently doing manual washing for herself and a 7 yo daughter and requires a washing machine to ease the washing for daughter's school uniform and their weekly laundry.",
+    "specifications": "nil",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Inez Hong",
+      "email": "inezhong@fycs.org",
+      "phone": [
+        "69783104",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143697",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Elderly client who is frail requested for Washing Machine as her washing machine has spoilt. She fully relies on Financial Assistance for her basic needs and does not have the means to purchase a new washing machine. \n\nWould appreciate if donor can cover the transport cost. \n\nThank you.",
+    "specifications": "Does not matter",
+    "contact": {
+      "org": "NTUC Health Cluster Support - Taman Jurong",
+      "name": "Muhammad Azfar Bin Nazri",
+      "email": "muhammadazfar.b@ntuchealth.sg",
+      "phone": [
+        "62674197"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143694",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single parent family of 2 living in a rental unit. The household's washing machine has just spoilt and would require a new one but the family has limited financial capacity to afford a new one. A washing machine with dyer function will be good as the unit normally does not have much space to hang dry laundry.",
+    "specifications": "nil",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "17 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143571",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single father, looking for work at the moment, requires a front load washing machine (about 8kg) to get his laundry needs met. Appreciate if donor can cover the costs of delivery. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143483",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Single mother of 4 requires a washing machine as the one they currently haave is no longer working",
+    "specifications": "Top load washing machine",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143270",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Hi!! Newly young married couple with a child has just received their rental flat. Having new necessary household appliances such as washing machine will enable them to start their family lives afresh and uplift the spirit inspite of life challenges \nDonor to kindly cover transport arrangement and delivery cost please. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "60384100",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143235",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client, wife and their toddler son recently moved into their rental flat in February and require a top-load washing machine (8kg). Client is sole breadwinner and his income is low while wife is a transnational and unable to work. Therefore, she is a caregiver for her child at home.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Gabriel Kho",
+      "email": "gabrielkho@fycs.org",
+      "phone": [
+        "66901008",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Mar 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143130",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Ct is taking care of five young children who are 12yo and below on her own. (JY)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143071",
+    "category": "Electrical Home Appliances",
+    "name": "top-load washing machine",
+    "description": "Client, aged 68, has been unemployed long-term due to health conditions. It has made it difficult for her to secure a stable income and financially taxing to afford these essential appliances. Without a fridge, she struggles to store fresh food, which causes her to rely on processed foods, that may not fully meet her dietary needs. This affects her overall health and well-being, especially given her existing medical conditions. Similarly, not having a washing machine makes laundry physically demanding and relying on external laundry services can be costly and difficult to manage regularly, further straining her limited finances, and adding to her daily challenges. \n\nA donated washing machine and fridge would significantly improve her quality of life, allowing her to manage her household more independently and focus on her well-being. We would appreciate if you could source for a working washing machine or fridge that can be passed on to client to meet her needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Serangoon Moral Family Service Centre",
+      "name": "Muhammad Amin",
+      "email": "muhdamin@smfsc.org.sg",
+      "phone": [
+        "62847123"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "141524",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Client has 2 young children and is now pregnant. Living in a rental flat with her husband, the couple works and is now struggling with house chores because of a broken washer. Having a workable top load washing machine would greatly improve their quality of life.",
+    "specifications": "Top load",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Angel Lone",
+      "email": "angel@frcsfsc.sg",
+      "phone": [
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143048",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Mother is working as security officer earning low-income. She has adult son with health conditions and unfit for work. Family is in the midst of shifting house and will benefit from donation of washing machine. No specific measures.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143045",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 4 with 2 young children requires support/donation for some electrical home appliances due to low income. Deriving from breadwinner's health concerns, he could only do ad-hoc driver job and family has recently moved to a rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Cindy Chiang",
+      "email": "cindy.chiang@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "143012",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "The household comprises four school-going children. They require a replacement washing machine as their existing one is not functioning/faulty.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Hazriah Halim",
+      "email": "Hazriah_Halim_Abdullah@msf.gov.sg",
+      "phone": [
+        "63254564",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "142991",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is staying on his own with limited mobility. He has no familial support and is suffering from medical condition. Client is currently receiving financial assistance. Client hopes to receive a small top load washing machine for his usage as he currently washes his laundry manually. For further liaison, kindly contact me at 98598768 on WhatsApp if possible, thank you so much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Feb 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "143989",
+          "name": "LG 9.5kg top load washing machine",
+          "description": "LG 9.5kg top load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Apr 2025",
+          "ageInYears": 4,
+          "dimensions": "W590 X H960 X D606 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
