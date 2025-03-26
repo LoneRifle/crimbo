@@ -1,16 +1,5 @@
 [
   {
-    "id": "144034",
-    "name": "puma walking shoes",
-    "description": "puma walking shoes , almost brand new",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "25 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "24.5",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "143513",
     "name": "Clothes Boys 8-10Y and 10-12Y",
     "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
@@ -86,6 +75,17 @@
     "dimensions": "45cmWx20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144047",
+    "name": "White IKEA Table",
+    "description": "I have 15 white IKEA tables to give away to those in need. The tables are sturdy and in good condition, with minor surface wear and tear. They are still fully functional and suitable for use in homes, offices, or community spaces.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": "75cmx75cmx75cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144029",
@@ -194,17 +194,6 @@
     "validTill": "30 Mar 2025",
     "ageInYears": 4,
     "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "143896",
-    "name": "sofa",
-    "description": "the L shape in good condition. The 2 seater a bit soft. Need to clean . Half leather sofa",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": "not sure",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -484,17 +473,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "143985",
-    "name": "Queen bed with mattress and pillow",
-    "description": "kitchen utnesils including big and small plates,pan and cups,spoons and containers etc",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "27 Mar 2025",
-    "ageInYears": 2,
-    "dimensions": "200X50X30",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "143955",
     "name": "Rice Cooker, plates, dinning wooden table",
     "description": "porcelain or glass and plastic plates",
@@ -603,6 +581,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "144038",
+    "name": "Reclining Geriatric Chair",
+    "description": "Reclining Geriatric Chair in good working condition.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "25 Apr 2025",
+    "ageInYears": 3,
+    "dimensions": "65*80*120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "144004",
