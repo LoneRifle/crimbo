@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143249",
-    "name": "Wedding gown",
-    "description": "Pre-loved wedding gown, worn once only for pre-wedding shoot",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": "UK Size 8-10",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "144149",
     "name": "fridge",
     "description": "n.a.",
@@ -130,6 +119,17 @@
     "dimensions": "45cmWx20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144152",
+    "name": "Table with Shelves",
+    "description": "Study table with display shelves - chairs not included",
+    "location": null,
+    "validTill": "15 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144151",
@@ -418,28 +418,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "144001",
-    "name": "Brand New Macdonald Toys",
-    "description": "Brand New Macdonald Toys in Sealed Original Bags / Boxes",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "144000",
-    "name": "Brand New Macdonald Books",
-    "description": "All brand new in original bags",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "143967",
     "name": "Assessment books",
     "description": "K1 - p1 Chinese assessment book",
@@ -457,28 +435,6 @@
     "location": "Bartley",
     "validTill": "23 Apr 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "143919",
-    "name": "Toys for Kids",
-    "description": "Lightly used, good condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "143973",
-    "name": "Brand New Adidas Baby Shoe",
-    "description": "Brand New Adidas Baby Shoe (0-3 months)",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -523,17 +479,6 @@
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "04 Apr 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "143262",
-    "name": "Kid Activity Centre",
-    "description": "Used for a few months. baby activity centre. good condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -612,17 +557,6 @@
     "validTill": "24 Apr 2025",
     "ageInYears": 1,
     "dimensions": "46cm x 30cm x 20cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "143171",
-    "name": "Arm slings x4",
-    "description": "4 arm slings used for less than 6 months this year. \nIn very good condition. \nDifferent brands.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -799,17 +733,6 @@
     "validTill": "02 Apr 2025",
     "ageInYears": 4,
     "dimensions": "143 cm L, 110cm H, 60 cm W",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "143179",
-    "name": "Dell Monitor Stand",
-    "description": "Still in very good condition",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "31 Mar 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
