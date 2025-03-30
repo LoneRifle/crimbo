@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "144149",
+    "name": "fridge",
+    "description": "n.a.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "14 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "H173cm X W70cm X D68cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "144131",
     "name": "Standing fan",
     "description": "Used standing fan. Still working very well but rusty cover (as cleaned often.",
@@ -121,10 +132,21 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "144148",
+    "name": "Single-sized bed frame with mattress",
+    "description": "sturdy metal frame with firm mattress. very good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "15 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "90x200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "144146",
     "name": "queen bed frame with mattress",
     "description": "n.a.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Sixth Ave",
     "validTill": "14 Apr 2025",
     "ageInYears": 3,
     "dimensions": "200cm x 160cm x 120cm",
