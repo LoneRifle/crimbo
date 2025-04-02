@@ -132,6 +132,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "144229",
+    "name": "Sofa",
+    "description": "Sofa",
+    "location": null,
+    "validTill": "02 May 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "144211",
     "name": "Toys bin cabinet",
     "description": "Toy bin, cabinet, shelving",
@@ -352,17 +363,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143264",
-    "name": "Desk",
-    "description": "nothing",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "03 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "144173",
     "name": "Play pen",
     "description": "a playpen that is well maintained. You can reconfigure into the dimensions you want",
@@ -550,7 +550,7 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "144207",
+    "id": "144231",
     "name": "Commode chair with wheels",
     "description": "NA",
     "location": "Jurong",
@@ -636,6 +636,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "144228",
+    "name": "Hospital bed and air mattress",
+    "description": "Air mattress less than 2 years",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "02 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "143679",
