@@ -33,23 +33,34 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "144257",
+    "name": "Microwave oven",
+    "description": "Good working condition. I will pay for the delivery fee.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 1,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144254",
+    "name": "Fridge (non-halal)",
+    "description": "Good working condition. Suitable for small families. I will pay for delivery.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 4,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "144222",
     "name": "Standing Fan",
     "description": "16 inch fan can turn, signs of rust \nI live in the east so I can only deliver to North, South, East and West until Chinatown",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "02 May 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "144160",
-    "name": "Bosch dishwasher",
-    "description": "Please let me know about discounted rates for moving services",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "13 Apr 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -130,6 +141,83 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144261",
+    "name": "Single bed and mattress",
+    "description": "Good condition. I will pay for the delivery fee.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 4,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144260",
+    "name": "Wardrobe",
+    "description": "Good condition. I will pay for the delivery fee.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 3,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144247",
+    "name": "Ikea standing desk",
+    "description": "Ikea trotten desk\nAs new\nSee pic or Google 'Ikea Trotten' for dimensions",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144246",
+    "name": "Ikea standing desk",
+    "description": "Ikea trotten desk\nAs new\nSee pic or Google 'Ikea Trotten' for dimensions",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144245",
+    "name": "Ikea standing desk",
+    "description": "Ikea trotten desk\nAs new\nSee pic or Google 'Ikea Trotten' for dimensions",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144244",
+    "name": "Outdoor table with 2 chairs",
+    "description": "Outdoor table and chairs\nSome wear and tear on the chairs but good condition overall. Table in good condition.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144241",
+    "name": "3 Seater Couch with fold out bed",
+    "description": "Green, 3 seater sofa with fold out bed. 2 years old. Good condition. \n\nCouch is 260 x 55 x 100\nBed is 225 long, 150 wide",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "04 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": "260 x 55 x 100",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144229",
@@ -275,17 +363,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "144075",
-    "name": "bedframe",
-    "description": "king size bed in good condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "26 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "2.1m x 1.96m x 0.3m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "144055",
     "name": "Work table",
     "description": "Quality wood\nVery good condition",
@@ -359,6 +436,28 @@
     "validTill": "09 Apr 2025",
     "ageInYears": 1,
     "dimensions": "200cm tall x 70cm wide x 36 thick",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144242",
+    "name": "Desk",
+    "description": "nothing",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "03 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144243",
+    "name": "Desk",
+    "description": "nothing",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "03 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -539,6 +638,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "144236",
+    "name": "Geriatric Chair",
+    "description": "Item is about 2 years old but barely used (Less than 5 times) and still functional. It has been cleaned too.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "02 May 2025",
+    "ageInYears": 2,
+    "dimensions": "Standard dimensions",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "144208",
     "name": "Foldable walking frame",
     "description": "NA",
@@ -644,17 +754,6 @@
     "location": "Farrer Park, Little India, Serangoon Road",
     "validTill": "02 May 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "143679",
-    "name": "Adjustable height study table",
-    "description": "Adjustable table.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "04 Apr 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
