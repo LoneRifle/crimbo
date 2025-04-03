@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "144270",
+    "name": "Refrigerator",
+    "description": "Good condition. Non halal.\nI will pay for the delivery.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "03 May 2025",
+    "ageInYears": 4,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "144265",
     "name": "Fridge (non-halal)",
     "description": "Good working condition. Suitable for small families. I will pay for delivery.",
@@ -385,17 +396,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "143892",
-    "name": "Shoe cabinet",
-    "description": "2 shoe cabinets. Both new. One set up, one still in box to be built.",
-    "location": null,
-    "validTill": "09 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "200cm tall x 70cm wide x 36 thick",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "144173",
     "name": "Play pen",
     "description": "a playpen that is well maintained. You can reconfigure into the dimensions you want",
@@ -568,17 +568,6 @@
     "validTill": "02 May 2025",
     "ageInYears": 2,
     "dimensions": "Standard dimensions",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "144208",
-    "name": "Foldable walking frame",
-    "description": "NA",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "30 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
