@@ -33,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "144535",
-    "name": "Rice cooker",
-    "description": "Gourmet chef rice cooker",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "10 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "144475",
     "name": "Airfryer (Non-Halal) Brand: Mayer",
     "description": "Mayer brand Airfryer with drawer",
@@ -97,6 +86,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144545",
+    "name": "Laptop desk",
+    "description": "Good hardy desk for laptop or multipurpose. No drawer.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "10 May 2025",
+    "ageInYears": 2,
+    "dimensions": "74cm x 118cm x 45cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144544",
+    "name": "Tables and high stools",
+    "description": "High tables and stools \n4 sets",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "16 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": "About L200W70H110cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144542",
+    "name": "Vintage cupboard",
+    "description": "Old Vintage cupboard. Door hinges loose, needs repair",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "16 Apr 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144489",
@@ -205,17 +227,6 @@
     "validTill": "04 May 2025",
     "ageInYears": 2,
     "dimensions": "110cm x 70cm x 74cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144300",
-    "name": "Table",
-    "description": "Please WhatsApp if keen",
-    "location": null,
-    "validTill": "04 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -471,6 +482,17 @@
     "dimensions": "46cm x 30cm x 20cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "144539",
+    "name": "A pair of crutches",
+    "description": "used",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 May 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "144162",
