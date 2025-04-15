@@ -2652,77 +2652,6 @@
     "date": "17 Mar 2025"
   },
   {
-    "id": "140337",
-    "category": "Kitchen Utility Items",
-    "name": "Kitchen Cabinet",
-    "description": "Low income family with multiple dependents is requesting for a kitchen cabinet to help them with proper organisation and storage of their food rations that they recieve. Should you have a suitable item, you can contact us at 9828 7307. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Han Wen Ting",
-      "email": "hanwenting@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Apr 2025"
-  },
-  {
-    "id": "144115",
-    "category": "Kitchen Utility Items",
-    "name": "Kitchen cabinet with table top",
-    "description": "A single mother caring for her two children with chronic medical conditions is unable to work due to their high medical needs. Living in a rental flat, she is struggling with a damaged kitchen cupboard, as the door has fallen off and the wood is chipping. She urgently needs a replacement cabinet for future use.",
-    "specifications": "180cm x 50cm x 190cm",
-    "contact": {
-      "org": "Club Rainbow (Singapore)",
-      "name": "Nurulhuda Binte Abu Bakar",
-      "email": "nurul@clubrainbow.org",
-      "phone": [
-        "81336189",
-        "63771789"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Mar 2025"
-  },
-  {
-    "id": "143797",
-    "category": "Kitchen Utility Items",
-    "name": "Kitchen Storage Cabinet",
-    "description": "Family of 2, with mother the sole earner, would like to request for a kitchen table top storage cabinet.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Ken Toh",
-      "email": "ken_zq_toh@msf.gov.sg",
-      "phone": [
-        "62319385",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Mar 2025"
-  },
-  {
-    "id": "143717",
-    "category": "Kitchen Utility Items",
-    "name": "Portable gas stove",
-    "description": "Client is married with 7 young children. Family has multiple needs which is further compounded by intergenerational poverty and drugs. Family is requesting for a portable gas stove as their is faulty. (HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Mar 2025"
-  },
-  {
     "id": "144629",
     "category": "Electrical Home Appliances",
     "name": "Standing fan",
@@ -4356,23 +4285,6 @@
     "date": "14 Apr 2025"
   },
   {
-    "id": "144633",
-    "category": "Home Furnishing",
-    "name": "Foam Mattress",
-    "description": "Family of two, elderly grandfather and adult granddaughter who is a full-time caregiver to grandfather, living in a one-room rental flat and managing daily expenses primarily on financial assistances and government payouts. Granddaughter sleeps on a foam mattress to ensure enough space for grandfather's hospital bed. Foam mattress has spoilt over time and currently sleeping on a yoga mat. A new foam mattress will be greatly appreciated.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Tey Mei Qi",
-      "email": "teymeiqi@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Apr 2025"
-  },
-  {
     "id": "144632",
     "category": "Home Furnishing",
     "name": "wardrobe",
@@ -4385,24 +4297,6 @@
       "phone": [
         "83760394",
         "68850432"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Apr 2025"
-  },
-  {
-    "id": "144631",
-    "category": "Home Furnishing",
-    "name": "Mattress and Bedframe Needed!",
-    "description": "Client is a single parent of a school going child. Family has just recently acquire a rental flat and is in need of household furnishing and appliances. One of the items they are currently seeking is a queen or king-size mattress and bed frame.",
-    "specifications": "Queen or King Size Mattress and Bed Frame",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Farahlina Tan",
-      "email": "farahlina_tan@awwa.org.sg",
-      "phone": [
-        "65119458",
-        "65119456"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -5234,6 +5128,60 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Mar 2025"
+  },
+  {
+    "id": "144115",
+    "category": "Kitchen Utility Items",
+    "name": "Kitchen cabinet with table top",
+    "description": "A single mother caring for her two children with chronic medical conditions is unable to work due to their high medical needs. Living in a rental flat, she is struggling with a damaged kitchen cupboard, as the door has fallen off and the wood is chipping. She urgently needs a replacement cabinet for future use.",
+    "specifications": "180cm x 50cm x 190cm",
+    "contact": {
+      "org": "Club Rainbow (Singapore)",
+      "name": "Nurulhuda Binte Abu Bakar",
+      "email": "nurul@clubrainbow.org",
+      "phone": [
+        "81336189",
+        "63771789"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Mar 2025"
+  },
+  {
+    "id": "143797",
+    "category": "Kitchen Utility Items",
+    "name": "Kitchen Storage Cabinet",
+    "description": "Family of 2, with mother the sole earner, would like to request for a kitchen table top storage cabinet.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Ken Toh",
+      "email": "ken_zq_toh@msf.gov.sg",
+      "phone": [
+        "62319385",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Mar 2025"
+  },
+  {
+    "id": "143717",
+    "category": "Kitchen Utility Items",
+    "name": "Portable gas stove",
+    "description": "Client is married with 7 young children. Family has multiple needs which is further compounded by intergenerational poverty and drugs. Family is requesting for a portable gas stove as their is faulty. (HW)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2025"
   },
   {
     "id": "144518",
