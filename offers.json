@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "144760",
-    "name": "Fridge",
-    "description": "Fridge that’s still in very good condition. Works perfectly fine other than it’s age.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "23 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": "175 x 65 x 65 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "144622",
     "name": "Table fan 30cm dia.",
     "description": "Delivery on weekday evening and weekend.",
@@ -143,13 +132,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "144764",
-    "name": "Wardrobe cupboard",
-    "description": "Used by helper. Still in good condition.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "05 May 2025",
-    "ageInYears": 2,
-    "dimensions": "104 x 45 x 173",
+    "id": "144766",
+    "name": "2-door bookshelf",
+    "description": "Ikea 2-door bookshelf",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 May 2025",
+    "ageInYears": 3,
+    "dimensions": "80 x 42 x 200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144765",
+    "name": "3-Tier Shoes shelter rack",
+    "description": "New 3-tier shoes rack.  Outdoor or Indoor suitable.  Clear and good to use.  Easy to assemble.  Per level 2 pairs of shoes.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": "46*22",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
