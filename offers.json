@@ -198,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "144761",
-    "name": "Sofa Bed",
-    "description": "Basic Sofa bed, good condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Apr 2025",
-    "ageInYears": 3,
-    "dimensions": "190cm length by 78cm height by 75cm depth",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "144759",
     "name": "Queen Mattress + Bedframe",
     "description": "Lightly used. Pls arrange own transport",
@@ -337,6 +326,17 @@
     "validTill": "30 Apr 2025",
     "ageInYears": 4,
     "dimensions": "60\" * 35\" * 28\"",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144774",
+    "name": "Black 3-Seater Sofa (Leather)",
+    "description": "Black three-seater sofa, good condition. Needs to be picked up before 15 May but you need to confirm that you'll pick it up by end April or we will ask the government to throw it away. Posting on behalf of elderly couple.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "14 May 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -702,6 +702,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "144775",
+    "name": "Hospital Bed with Air Mattress",
+    "description": "Lightly used for less than 3 months.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "09 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "144737",
