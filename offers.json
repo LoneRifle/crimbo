@@ -110,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "144866",
+    "name": "Dining table , 4 dining chairs, TV console, washing machine , dryer , microwave, fridge",
+    "description": "Dining table \n4 Dining chairs \nTV console \nWashing machine \nDryer\nFridge \nMicrowave",
+    "location": null,
+    "validTill": "22 May 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "144850",
     "name": "Queen size wooden bed frame",
     "description": "Wooden queen size bed witbout mattress. The bed is dismantled for easy transportation.",
@@ -128,17 +139,6 @@
     "validTill": "09 May 2025",
     "ageInYears": 4,
     "dimensions": "166 x 49 x 60",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144828",
-    "name": "chest of drawers",
-    "description": "Chest of drawers in good condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "08 May 2025",
-    "ageInYears": 4,
-    "dimensions": "40 x 100 x 110",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -625,6 +625,17 @@
     "dimensions": "27cmLx18cmW",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "144864",
+    "name": "HOSPITAL BED",
+    "description": "HOSPITAL BED",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 May 2025",
+    "ageInYears": 3,
+    "dimensions": "200CM X 90CM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "144147",
