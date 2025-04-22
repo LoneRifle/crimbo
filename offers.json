@@ -66,17 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "144787",
-    "name": "Freezer",
-    "description": "Non Halal Freezer.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "144622",
     "name": "Table fan 30cm dia.",
     "description": "Delivery on weekday evening and weekend.",
@@ -119,6 +108,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144850",
+    "name": "Queen size wooden bed frame",
+    "description": "Wooden queen size bed witbout mattress. The bed is dismantled for easy transportation.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "22 May 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144849",
+    "name": "Ergotron WorkFit-T, Standing Desk Workstation",
+    "description": "Reinvent tight spaces into a standing desk with the WorkFit-T. It moves straight up and down for more stability with no sway, tip or height-drop—even as you lean on the worksurface. The WorkFit-T arrives fully assembled—just place it on your tabletop, and you’re ready to work! Save more space and add more adjustment with an accessory monitor mount for happy working.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "01 May 2025",
+    "ageInYears": 1,
+    "dimensions": "95cm x 69cm x 13cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144829",
@@ -282,17 +293,6 @@
     "validTill": "16 May 2025",
     "ageInYears": 2,
     "dimensions": "70cm x 70cm x 74cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144700",
-    "name": "Desk, Study Table - Small",
-    "description": "Wooden Desk - best suited to young people,\n2 draws \n60cm under the draws to floor",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "30 Apr 2025",
-    "ageInYears": 4,
-    "dimensions": "95 width x 50cm depth x 75cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -647,6 +647,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "144842",
+    "name": "Pediatric Wheelchair",
+    "description": "This is a used pediatric wheelchair (used by 12years old) It is still in perfect usable condition as the child was still using it about 3 weeks ago. We require the item to be cleared urgently. Kindly get in touch via WhatsApp if you are keen and we encourage the receiver or anyone on behalf to collect from us directly if possible. Thank you.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "25 Apr 2025",
+    "ageInYears": 2,
+    "dimensions": "62x92",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "144775",
