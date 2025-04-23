@@ -66,13 +66,13 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "144867",
-    "name": "2-doors Refrigerator",
-    "description": "Refrigerator is working well.  Only issue is I broke 1 side bar of the freezer.  There is only 1 instead of 2 side bar in the freezer as seen in picture 2.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "11 May 2025",
+    "id": "144871",
+    "name": "SHARP Microwave and Steamwave",
+    "description": "Hi, I have a Sharp microwave that come with steaming function however I need social worker to pick it up from Potong Pasir as the item is heavy and bulky.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "23 May 2025",
     "ageInYears": 4,
-    "dimensions": "60 x 63 x 173 cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -121,6 +121,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "144881",
+    "name": "Furniture Set",
+    "description": "Two seater sofa, queen size bed, two chairs/one table, one white side table (55cm - 55cm). Est delivery mid May",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "29 Apr 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144876",
+    "name": "Single size mattress",
+    "description": "Single size mattress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "23 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "144869",
     "name": "4 Chairs",
     "description": "The 4 chairs are made of wood from IKEA.  They are underutilized and are in good condition, as good as new.  There is a matching dining table 70x70cm that can be extended to 1.2m that can be given together.",
@@ -128,28 +150,6 @@
     "validTill": "11 May 2025",
     "ageInYears": 3,
     "dimensions": "49 X 42 x 78cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144868",
-    "name": "Dining table and Chairs",
-    "description": "Dining table is in very good condition. It is a small square table 70x70cm that can sit 4 people.  If need it to be bigger, it can be extended to be a 1.2m long table. There are 4 matching chairs that I can give together too. Both table and chairs are made of wood from IKEA.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "11 May 2025",
-    "ageInYears": 3,
-    "dimensions": "70 x 70 x 74cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144866",
-    "name": "Dining table , 4 dining chairs, TV console, washing machine , dryer , microwave, fridge",
-    "description": "Dining table \n4 Dining chairs \nTV console \nWashing machine \nDryer\nFridge \nMicrowave",
-    "location": null,
-    "validTill": "22 May 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -394,6 +394,17 @@
     "dimensions": "1.8 x 0.85 m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "144873",
+    "name": "Preloved Baby girl clothes ages 0-1",
+    "description": "Baby girl clothes are preloved but in good condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 May 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "144834",
