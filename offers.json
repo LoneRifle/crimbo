@@ -1,16 +1,5 @@
 [
   {
-    "id": "145036",
-    "name": "Baby Girl and Boy Clothes",
-    "description": "6months - 18months old baby girl and boy clothes.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "144797",
     "name": "School Shoes",
     "description": "Newly purchased in early Apr 2025. About EURO size 40. It is printed as \"5\" inside the shoe but is definitely a lot bigger than the typical size 5. So not sure what the \"5\" really means.\n\nOnly worn once to school. Wrong size for my teenager.",
@@ -55,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "145063",
+    "name": "Philip iron",
+    "description": "Philip irons",
+    "location": null,
+    "validTill": "30 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "144622",
     "name": "Table fan 30cm dia.",
     "description": "Delivery on weekday evening and weekend.",
@@ -97,6 +97,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "145061",
+    "name": "IKEA sofa bed",
+    "description": "IKEA sofa bed, can be extended to queen size bed",
+    "location": null,
+    "validTill": "30 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "145055",
@@ -319,17 +330,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "144982",
-    "name": "Baby Carrier and Diaper Bag",
-    "description": "Ergo baby carrier. You can carry the baby on your front or your back. Not made for newborns, needs to be like 5 months plus, can be up to toddlers. Diaper bag is included but not in great condition.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "26 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "144943",
     "name": "Shoes",
     "description": "Size 33",
@@ -368,17 +368,6 @@
     "description": "Delivery on weekday evening and weekend.",
     "location": null,
     "validTill": "16 May 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "144691",
-    "name": "Formula Milk",
-    "description": "4 cans of Friso Gold Stage 4 formula milk. Near Expiry! Expires 23/05/2025\nSuitable for age 3 and above.",
-    "location": null,
-    "validTill": "10 May 2025",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -471,17 +460,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "145058",
-    "name": "Novels, story books",
-    "description": "Good mint condition Novels, books- fantasy genre",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "04 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "144732",
@@ -622,17 +600,6 @@
     "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "10 May 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "144926",
-    "name": "Walking",
-    "description": "Walking stick with broad base",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "24 May 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
