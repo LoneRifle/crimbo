@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "145063",
-    "name": "Philip iron",
-    "description": "Philip irons",
-    "location": null,
-    "validTill": "30 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "144622",
     "name": "Table fan 30cm dia.",
     "description": "Delivery on weekday evening and weekend.",
@@ -97,17 +86,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "145061",
-    "name": "IKEA sofa bed",
-    "description": "IKEA sofa bed, can be extended to queen size bed",
-    "location": null,
-    "validTill": "30 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "145055",
@@ -249,17 +227,6 @@
     "validTill": "19 May 2025",
     "ageInYears": 4,
     "dimensions": "Measurements  Tested for: 110 kg Width: 81 cm Depth: 79 cm Height: 71 cm Seat width: 53 cm Seat depth: 49 cm Seat height: 37 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144903",
-    "name": "Queen Mattress + Bedframe",
-    "description": "Lightly used. Pls arrange own transport",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 May 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -614,6 +581,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "145078",
+    "name": "Music CDs, Video CDs",
+    "description": "Music n video cds",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "04 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "145057",
