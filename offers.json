@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "145251",
+    "name": "Washing Machine",
+    "description": "This is simple washing machine that is about 4 years but it has been used for light clothes washing. Still in good condition.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "06 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145175",
     "name": "Philips Airfyer",
     "description": "Working Airfryer. Digital timer is a little wonky at point of adjustment but you can still use it to set it to the desired time and it works.",
@@ -117,17 +128,6 @@
     "validTill": "31 May 2025",
     "ageInYears": 1,
     "dimensions": "210cmx210cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145155",
-    "name": "Brown wooden chest",
-    "description": "Well used with scratches. Hinge is a bit rusty on the inside. Overall good condition, and functions well.",
-    "location": null,
-    "validTill": "31 May 2025",
-    "ageInYears": 4,
-    "dimensions": "4ft (length) x 2ft (width) x 18 inches (ht)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -537,17 +537,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "145189",
-    "name": "Hospital Bed",
-    "description": "Donating this as it is still in good condition and used for around 2 years by my late sister. Hope to donate this bed to those who may require this, thanks.\n\nPlease note that delivery / collection fee is not included - Self-collect or self-delivery arrangement only!",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "145029",
