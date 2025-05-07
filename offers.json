@@ -462,6 +462,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "145282",
+    "name": "Hospital Bed",
+    "description": "Hospital bed in excellent condition, fully functional with electric controls. Gently used and works like new.\n\nMattress in good condition too.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "06 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "211cm x 109cm x 50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "145029",
     "name": "Geri Chair",
     "description": "This Geri chair was used by my late father during his care. It’s still in good condition, clean, and fully functional. I would like to donate it to someone who can benefit from it, in his memory.\n\nIf you or someone you know is in need of a Geri chair, please feel free to get in touch.",
@@ -622,39 +633,6 @@
     "location": null,
     "validTill": "13 May 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "144470",
-    "name": "Chinese Comic Book",
-    "description": "Whole Series (in Mandarin)\nTian Jie Wu Xian SG Comic\nInclude memorabiles.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "144469",
-    "name": "Chinese Calligraphy",
-    "description": "Include Brushes, paper, guidebooks and a felt table mat.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "144467",
-    "name": "A3 Folder, Notebooks and Stationery",
-    "description": "Include 2x A3 Folders / Portfolio and 6 Notebooks",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 May 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
