@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "145251",
-    "name": "Washing Machine",
-    "description": "This is simple washing machine that is about 4 years but it has been used for light clothes washing. Still in good condition.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "06 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145175",
     "name": "Philips Airfyer",
     "description": "Working Airfryer. Digital timer is a little wonky at point of adjustment but you can still use it to set it to the desired time and it works.",
@@ -73,17 +62,6 @@
     "validTill": "01 Jun 2025",
     "ageInYears": 3,
     "dimensions": "200x100x50",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "145101",
-    "name": "Vacuum",
-    "description": "Wired vacuum. Light and easy to use",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -319,6 +297,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "145265",
+    "name": "Japanese Ceramic pot",
+    "description": "This ceramic pot has only been used once.Great for soups or stew. Clearing space as we are moving.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "06 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "145056",
     "name": "Kitchen utensils",
     "description": "Knives, spatula, chopping board, strainer\nKnives and scissors holders included (not in pic)\nNon-muslim household\nPlease note it is used so not in top notch condition",
@@ -383,17 +372,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "144732",
-    "name": "Chair Back Support",
-    "description": "Item still in good condition.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "17 May 2025",
-    "ageInYears": 2,
-    "dimensions": "Standard dimensions",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "144731",
@@ -473,45 +451,12 @@
     "category": "Learning Aids"
   },
   {
-    "id": "145187",
-    "name": "Blood Pressure Monitor",
-    "description": "Lightly used blood pressure monitor. Both cuff and device have been cleaned and wiped down with sanitizer. Lightly used for few months and still very new and in good working condition. Inclusive of batteries.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "04 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "145142",
     "name": "Foam pillows x2",
     "description": "Foam pillows x2 \nUse in rehab\nStandard size can fit regular pillow covers.",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "15 May 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "144966",
-    "name": "Maltofer Drops (Iron supplement)",
-    "description": "Ferrum Hausmann Maltofer Drop 30ml Uron (Elemental Fe 50mg/mL)",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "25 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "144964",
-    "name": "Urinary Alkaliniser - Ural",
-    "description": "Ural Effervescence Powder, Urinary Alkaliniser for frequent Urinary Tract Infection.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "25 May 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
