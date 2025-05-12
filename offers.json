@@ -66,6 +66,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "145387",
+    "name": "Rice cooker",
+    "description": "Never been used but kept away for a long time",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "31 May 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145370",
     "name": "Rice cooker Tiger",
     "description": "Functioning rice cooker (no instruction manual), that is able to cook different kinds of rice, porridge and keep warm.",
@@ -341,17 +352,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "144606",
-    "name": "Breastfeeding pillow",
-    "description": "Barely used with extra cover\n\nhttps://www.mybrestfriend.com/products/super-deluxe-nursing-pillow",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "13 May 2025",
-    "ageInYears": 1,
-    "dimensions": "Length: 24\" Width: 17\" Pillow Height: 5\" Backrest Height: 6\" Waist: 28\" waist minimum to 44\" waist maximum",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "145297",
     "name": "Tefel chinese wok",
     "description": "Clearing space for moving. Great for steaming and frying. Non halal",
@@ -380,61 +380,6 @@
     "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "06 Jun 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "144616",
-    "name": "Mug/cup hanger",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "144615",
-    "name": "Lunch box",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 1,
-    "dimensions": "13cmLx13cmW",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "144609",
-    "name": "Cups and saucers",
-    "description": "Porcelain cups and saucers",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "144608",
-    "name": "Plates and bowls",
-    "description": "Brand new,unused porcelain plates and bowls.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "13 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "144607",
-    "name": "Food containers",
-    "description": "Food containers",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "13 May 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
@@ -479,17 +424,6 @@
     "location": null,
     "validTill": "15 May 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "144623",
-    "name": "Bicycle",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
@@ -568,17 +502,6 @@
     "validTill": "25 May 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
-    "id": "144614",
-    "name": "Stationery tray",
-    "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 2,
-    "dimensions": "27cmLx18cmW",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
   },
@@ -733,28 +656,6 @@
     "validTill": "14 May 2025",
     "ageInYears": 4,
     "dimensions": "25.7 x 18.4 x 5.6 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "144618",
-    "name": "Fans",
-    "description": "Around 25 pieces.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "144617",
-    "name": "Accessories box set",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "13 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
