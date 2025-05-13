@@ -473,6 +473,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "145408",
+    "name": "Hospital Bed",
+    "description": "Hospital bed complete with motor and safety rails. Able to sit up/ raise legs and move up and down.",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "12 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "145365",
     "name": "Oxygen Concentrator",
     "description": "Brand new. 4 units. Only for beneficiary's use. Not for resale.",
@@ -559,6 +570,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "145412",
+    "name": "Supplement - Sangobion",
+    "description": "Iron supplements.",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "12 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "145165",
