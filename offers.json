@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "145420",
-    "name": "Refrigerator",
-    "description": "2 doors refrigerator, Samsung brand, bought $2000 plus, still in good working condition. Only used 2 - 3 years",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "12 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145370",
     "name": "Rice cooker Tiger",
     "description": "Functioning rice cooker (no instruction manual), that is able to cook different kinds of rice, porridge and keep warm.",
@@ -119,6 +108,17 @@
     "dimensions": "200x100x50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "145440",
+    "name": "Beige Wood TV Console with Sliding Glass Door",
+    "description": "Details:\nBeige wood finish\nSmooth sliding glass door\nSolid and sturdy\nSpacious storage for media, books, or decor",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "25 May 2025",
+    "ageInYears": 3,
+    "dimensions": "1.52m x 0.52 m x 0.53m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "145432",
@@ -528,17 +528,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "145430",
-    "name": "Reclining Wheelchair.",
-    "description": "Reclining wheelchair with head rest / arm rest/ foot rest. However, wheels rubber has worn and needs replacement. Otherwise still good",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "12 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "145426",
     "name": "Medical Toilet Chair",
     "description": "2 pieces of medical toilet chairs for donations",
@@ -568,17 +557,6 @@
     "validTill": "31 May 2025",
     "ageInYears": 4,
     "dimensions": "74 cm X 16 mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "145282",
-    "name": "Hospital Bed",
-    "description": "Hospital bed in excellent condition, fully functional with electric controls. Gently used and works like new.\n\nMattress in good condition too.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "06 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "211cm x 109cm x 50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
