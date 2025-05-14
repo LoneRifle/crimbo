@@ -110,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "145476",
+    "name": "Bunk Bed",
+    "description": "IKEA bunk bed ready for collection.  It has been dismantled for easy collection.  Comes with nut and bolt for assembly.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "145452",
     "name": "Small Dining Table",
     "description": "These tables were used in our office pantry and it is quite new. we have 7 pcs to donate as we will be renovating our pantry and it would be such a waste to throw them away.",
@@ -124,17 +135,6 @@
     "id": "145448",
     "name": "Queen Size Mattress with Wooden Bed Frame",
     "description": "Queen size wooden bed frame\nSturdy and minimal design\nMattress included (clean, no stains or sagging)\n\nCondition: Gently used, everything works and fits like a dream",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "25 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145445",
-    "name": "Queen Size Mattress with Divan and Headboard Frame",
-    "description": "bedroom. Details:\nQueen size\nDivan headboard\nSolid and sturdy construction\nSimple, timeless design Condition: Gently used, still in great shape",
     "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
     "validTill": "25 May 2025",
     "ageInYears": 1,
@@ -317,6 +317,28 @@
     "dimensions": "70cm x 70cm x 74cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "145472",
+    "name": "Baby Cot",
+    "description": "Good condition",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "13 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "Standard",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "145463",
+    "name": "Baby boy clothes, walker, bath holder, nursing cushion",
+    "description": "Hardly used baby walker, baby mattress, new bath holder and a bag of soft toys for 0-2 yo",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "20 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "145433",
