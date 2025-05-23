@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "145369",
-    "name": "5\" LCD Portable Television plus Radio",
-    "description": "This 5\" Portable TV can only watch local TV program with a TV digital box as the signal for the build in antenna is weak. For Radio is no issue.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "24 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145345",
     "name": "Automatic night light",
     "description": "Delivery on weekday evening and weekend.",
@@ -583,17 +572,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "144943",
-    "name": "Shoes",
-    "description": "Size 33",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "24 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "145779",
     "name": "Mug holder",
     "description": "Delivery on weekday evening and weekend.",
@@ -889,6 +867,50 @@
     "dimensions": "42 x 33 x 67 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "145829",
+    "name": "Leg and Arms Exercise Equipment",
+    "description": "Average condition legs and arms exercise equipment for patient. hardly used.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "23 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "145828",
+    "name": "Bedside Guard / Grab Bar",
+    "description": "Usable condition. Good to place under the mattress. Can prevent fall or support of patient.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "23 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "145827",
+    "name": "Commode",
+    "description": "good condition commode without potty. It can \"scoop\" up patient from the bed, and wheel him/her over the toilet bowl.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "22 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "145826",
+    "name": "Wheel Chair",
+    "description": "Rarely used wheelcahir (less than 5 times), high back. Still in good condition.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "22 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "145763",
