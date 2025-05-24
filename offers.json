@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "145833",
+    "name": "Fridge",
+    "description": "electrolux fridge in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 May 2025",
+    "ageInYears": 2,
+    "dimensions": "543 mm (W) 626 mm (D) 1605 mm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145778",
     "name": "Table fan",
     "description": "Fan 30cm diameter.\n\nDelivery on weekday evening and weekend.",
@@ -528,17 +539,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145832",
-    "name": "Brand new milk bottles, toothpaste, toothbrush, snacks cup",
-    "description": "All brand new milk bottles, toothbrush, toothpaste and used snack cup. Would love to give it to the needy",
-    "location": null,
-    "validTill": "23 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "145824",
     "name": "Joie baby car seat",
     "description": "Used once, as good as new. Only want to donate to the needy.",
@@ -889,6 +889,28 @@
     "dimensions": "42 x 33 x 67 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "145835",
+    "name": "Hospital Bed with air mattress and pump",
+    "description": "This hospital bed comes with air mattress and pump. The bed frame and mattress is about 2 years but the pump and air mattress has been used for many years (5-6years)",
+    "location": null,
+    "validTill": "23 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "145834",
+    "name": "Adult adjustable crutches (pair)",
+    "description": "Pair of adult adjustable crutches, like new condition. Blue color.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "29 May 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "145830",
