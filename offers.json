@@ -66,17 +66,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "145833",
-    "name": "Fridge",
-    "description": "electrolux fridge in good condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "26 May 2025",
-    "ageInYears": 2,
-    "dimensions": "543 mm (W) 626 mm (D) 1605 mm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145778",
     "name": "Table fan",
     "description": "Fan 30cm diameter.\n\nDelivery on weekday evening and weekend.",
@@ -108,6 +97,17 @@
     "dimensions": "200x100x50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "145851",
+    "name": "Dining Table with 4 chairs",
+    "description": "Dining table and 4 dining chairs",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "29 May 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "145850",
