@@ -99,13 +99,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "145858",
-    "name": "Black sofa",
-    "description": "Lovely comfortable sofa good condition",
+    "id": "145867",
+    "name": "Half leather 3-seater sofa",
+    "description": "New, lightly used for only 4 months. Black half- leather 3 seater sofa suitable for HDB living room.",
+    "location": null,
+    "validTill": "10 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "145866",
+    "name": "Grey leather sofa",
+    "description": "A synthetic leather sofa with some discoloration but no crack or broken leater.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "200cm x 90cm x 80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "145861",
+    "name": "Single bed and mattress",
+    "description": "Black wood single bed and mattress",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "31 May 2025",
     "ageInYears": 3,
-    "dimensions": "2.2m x 1m",
+    "dimensions": "1.95m x 1.1m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -139,28 +161,6 @@
     "validTill": "31 May 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145806",
-    "name": "Billy Book Case",
-    "description": "Ikea bookcase in good condition. Bookcase only. Books/display in picture not included.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "16 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": "Width: 80 cm Depth: 30 cm Height: 202 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145805",
-    "name": "Ikea 3 Seater Sofa with extra covers",
-    "description": "Ikea 3 seater fabric sofa with extra cover. Sofa in good condition.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "16 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "Length 210cm x Width 88cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -234,17 +234,6 @@
     "id": "145748",
     "name": "dining table",
     "description": "dining table out for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145747",
-    "name": "sofa",
-    "description": "sofa for donation",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "30 May 2025",
     "ageInYears": 2,
@@ -504,17 +493,6 @@
     "dimensions": "154 cm *74 and 214 cm * 74 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "145836",
-    "name": "Double Stroller",
-    "description": "Double stroller",
-    "location": null,
-    "validTill": "23 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "145824",
