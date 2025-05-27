@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "145898",
+    "name": "Sofa",
+    "description": "fantastic condition sofa",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "26 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "refer to image",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "145892",
     "name": "1 thin queen sized duvet",
     "description": "In perfectly good, clean condition.  Thin duvet.",
@@ -594,17 +605,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "145164",
-    "name": "Toy Car",
-    "description": "Like new condition.\nI also have a few other toys like toy kitchen, activity cube. Whatsapp for more pics.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "145779",
     "name": "Mug holder",
     "description": "Delivery on weekday evening and weekend.",
@@ -889,6 +889,28 @@
     "dimensions": "42 x 33 x 67 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "145900",
+    "name": "Toilet Commode",
+    "description": "Although 4 years, still good. Pot was never used",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "15 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "145899",
+    "name": "Electric Hospital Bed",
+    "description": "Height from high28 inches to low 12.6 inches",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "15 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "39.8x85x28 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "145887",
