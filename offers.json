@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "145957",
+    "name": "Washing machine",
+    "description": "Elba washing machine",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": "O.84m x 0.44m x 0.60m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145942",
     "name": "ChiQ Single-Door Non-Inverter Fridge 90L",
     "description": "Still in good condition",
@@ -141,6 +152,28 @@
     "dimensions": "200x100x50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "145959",
+    "name": "Lightly used and new bedsheets sets",
+    "description": "2 sets of new Super Single bedsheet sets with 2 pillow cases and 2 bolster cases.\n\n3 sets of king size bedsheets only, no pillow and bolster case.\n\nNeed self collect at Pasir Ris thanks.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "27 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "Super single and King sizes",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "145956",
+    "name": "Dining table",
+    "description": "Dining table with 4 chairs",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "1.35m x 0.85m x 0.75m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "145953",
