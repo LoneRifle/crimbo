@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "145957",
-    "name": "Washing machine",
-    "description": "Elba washing machine",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": "O.84m x 0.44m x 0.60m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145942",
     "name": "ChiQ Single-Door Non-Inverter Fridge 90L",
     "description": "Still in good condition",
@@ -154,6 +143,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "145969",
+    "name": "Pillow",
+    "description": "Pillow, never been used but kept inside the bag for very long so could be a little decolourised.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "27 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "66*42*10cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "145959",
     "name": "Lightly used and new bedsheets sets",
     "description": "2 sets of new Super Single bedsheet sets with 2 pillow cases and 2 bolster cases.\n\n3 sets of king size bedsheets only, no pillow and bolster case.\n\nNeed self collect at Pasir Ris thanks.",
@@ -165,18 +165,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145956",
-    "name": "Dining table",
-    "description": "Dining table with 4 chairs",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jun 2025",
+    "id": "145970",
+    "name": "3 seater leather sofa and chair recliners",
+    "description": "Pickup Wednesday 4th June",
+    "location": null,
+    "validTill": "05 Jun 2025",
     "ageInYears": 4,
-    "dimensions": "1.35m x 0.85m x 0.75m",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "145953",
+    "id": "145971",
     "name": "3 seater leather sofa and chair recliners",
     "description": "Pickup Wednesday 4th June",
     "location": null,
@@ -205,17 +205,6 @@
     "validTill": "26 Jun 2025",
     "ageInYears": 4,
     "dimensions": "188 X 75 X 28 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145947",
-    "name": "Queen size mattress and base",
-    "description": "Queen size bed base (wooden) and queen size mattress. Please note the mattress does not quite fit the bed frame - there is a gap as can be seen in the photo. We have placed pillows down it so it doesn't bother us.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "30 May 2025",
-    "ageInYears": 2,
-    "dimensions": "150x190",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -282,17 +271,6 @@
     "validTill": "31 May 2025",
     "ageInYears": 3,
     "dimensions": "1.95m x 1.1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145850",
-    "name": "Dressing Table",
-    "description": "item on the table not included\nminor scratches on the table top \nnot for fussy\nextendable \nwith stool and mirror\nreceiver to pay for collection",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "20 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "80x30x78",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -614,6 +592,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "145976",
+    "name": "Clevamama Therapeutic Body & Bump Maternity Pillow",
+    "description": "Total body support from head & back to bump & knees\nErgonomically designed to help combat fatigue & reflux\nHelps to combat fatigue, improve blood circulation, encourage relaxation, and reduce the distress of reflux and discomfort caused by SPD.\nFollows the natural curve of your body \nSuitable for all body sizes and shapes.\n100% cotton breathable cover, premium spiral hollow fibre filling\nCover machine washable.",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "08 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "135cm x 65cm x15cm.",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "145975",
+    "name": "Babyhood Cosy Crib Breathe Eze",
+    "description": "features & benefits\nFirm and supportive breath eze fibre\nAllergy & Dust mite resistent\nNo excessive fabric or covers\nFully washable so it is more hygienic for your baby\nIdeal for use with a babyhood sleep positioner to create the \"sleep system\"\nThere are no ties or clips or any attachments that your baby can be entrapped in which may cause a strangulation hazard",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "08 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "Outer Dimensions: 82cm Long x 52cm Wide x 16cm High Inner Dimensions: 62cm Long x 31cm Wide x 10cm High",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "145973",
+    "name": "Boori Universal Squared Bassinet",
+    "description": "The Boori Universal Squared Bassinet is a versatile sleep space for newborns. While Boori offers various bassinet models, the Universal Squared Bassinet is designed to fit a range of Boori cot beds and has a compact footprint suitable for smaller spaces. The exact dimensions for the mattress are 80 x 41 cm. This bassinet is designed to be a safe and comfortable sleep environment for your baby. \nDimensions of the Boori Universal Squared Bassinet:\nLength: 80 cm\nWidth: 41 cm\nHeight: 3 cm (for the mattress)",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "07 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "Length: 80 cm Width: 41 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "145972",
+    "name": "SnuzPod4 Bedside Crib White",
+    "description": "3 in 1 bedside crib with a zip-down wall, rocking stand and lift-off bassinet for portability\nComfortAir liner and breathable 3D mesh mattress included\n11 shades inspired by contemporary living, designed in the UK\nThe UK's best-selling next-to-me crib and loved by parents globally",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "09 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "L100 x W49 x H95",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "145896",
@@ -1012,17 +1034,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "145839",
-    "name": "Walking stick",
-    "description": "Walking stick with broad base",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "24 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "145835",
     "name": "Hospital Bed with air mattress and pump",
     "description": "This hospital bed comes with air mattress and pump. The bed frame and mattress is about 2 years but the pump and air mattress has been used for many years (5-6years)",
@@ -1155,6 +1166,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "145974",
+    "name": "Pulmocare (237ml) - Abbott Nutrition",
+    "description": "Pulmocare - High-calorie, lower in carbohydrate* formula with MCT (Medium-Chain Triglycerides) for people with Chronic Obstructive Pulmonary Disease (COPD). Low in Glycemic Index. Quantity: 20 cans",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "27 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "237ml per can",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "145844",
     "name": "DVDs, VCDs  (Movies and Music)",
     "description": "More than 100 DVDs and VCDs of good movies. \nMore than 100 DVDs and VCDs of music (classical and popular music)",
@@ -1191,17 +1213,6 @@
     "id": "145600",
     "name": "sink and tap",
     "description": "sink, tap",
-    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
-    "validTill": "31 May 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "145599",
-    "name": "Unused toilet bowl",
-    "description": "Unused toilet bowl",
     "location": "Lim Chu Kang, Sungei Gedong, Tengah",
     "validTill": "31 May 2025",
     "ageInYears": 1,
