@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "146029",
+    "name": "Möwe Rice Cooker",
+    "description": "Lightly used rice cooker. Used only once. Giving away as it is too big for my apartment",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145942",
     "name": "ChiQ Single-Door Non-Inverter Fridge 90L",
     "description": "Still in good condition",
@@ -119,6 +130,17 @@
     "dimensions": "200x100x50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146028",
+    "name": "Tv console",
+    "description": "Completely brown oak. It’s new and well looked after.",
+    "location": null,
+    "validTill": "15 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "120Lx58Hx40W cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146022",
@@ -308,28 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145749",
-    "name": "study table",
-    "description": "study table out for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 May 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145748",
-    "name": "dining table",
-    "description": "dining table out for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 May 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "145706",
     "name": "Dressing table with mirror",
     "description": "Use daily, wipe down daily. Look like new, just 1 minor tap mark on the upper side of the mirror.",
@@ -484,17 +484,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145315",
-    "name": "Scanteak TV Console",
-    "description": "Vintage Scanteak TV console matches table and chairs and side table.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 May 2025",
-    "ageInYears": 4,
-    "dimensions": "180 cm x 60cm x 60cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "145312",
     "name": "Red lazy sofa",
     "description": "Single seater lazy sofa in red color. Comfort for resting but NOT encourage for legs weak seniors because in quite low for sitting.",
@@ -502,28 +491,6 @@
     "validTill": "07 Jun 2025",
     "ageInYears": 4,
     "dimensions": "107cm x 62cm x 32cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145143",
-    "name": "Bolster Protector",
-    "description": "dimensions: 34cm x 101 cm.\nNot used but kept in storage for some time, washed. No stains. \n\nSelf-collection at home address.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "30 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145736",
-    "name": "Duvet Cover / Blanket",
-    "description": "Beige colour Duvet cover, can be used as blanket. \nDimensions: 180 cm x 220 cm\n\nSelf-collection at home address.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "30 May 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -902,17 +869,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "145429",
-    "name": "Oxygen Generator",
-    "description": "Oxygen generator",
-    "location": null,
-    "validTill": "12 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "145408",
     "name": "Hospital Bed",
     "description": "Hospital bed complete with motor and safety rails. Able to sit up/ raise legs and move up and down.",
@@ -1172,28 +1128,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "14 Jun 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "145165",
-    "name": "Spectra breast bump and charger",
-    "description": "The pump works well, but I don’t have any of the other parts that need to complement the mum.",
-    "location": null,
-    "validTill": "30 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "145393",
-    "name": "Meeting room chairs",
-    "description": "Meeting room chairs likely used. brand Euro.\nself collection",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 May 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
