@@ -110,6 +110,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "146103",
+    "name": "Super Single Mattress (not single size)",
+    "description": "Item: Super Single Size Spring Mattress, \nDimensions: 110cm x 190cm\nType: Firm, good for spinal care \nCondition: In good clean condition with no sunken parts. \n\nRequests by donor: \n(1) Depending on client’s circumstances, donor can cover transport or co-share transport. Prefers clients staying in West/North/South of Singapore\n\n(2) Kindly share a brief description of client circumstance so that donor understand whom she is helping \n\n(3) To share sincere words of thanks by the client Thank you!",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146096",
+    "name": "3 seater good condition sofa bed",
+    "description": "Good condition pink sofa bed up for grab",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "210x144x99",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "146091",
     "name": "cupboard",
     "description": "sturdy",
@@ -264,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146053",
-    "name": "Grey L shaped storage sofa",
-    "description": "Grey L shaped modular sofa with storage. Covers are removable and washable.",
-    "location": null,
-    "validTill": "06 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "2.9m length",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146022",
     "name": "Standing Desk",
     "description": "Standing desk. I can potentially pay for the collection fee but please let me know first how much it is - I trust it's cost efficient eg cheaper than lalamove. Thank you.",
@@ -344,17 +355,6 @@
     "id": "145892",
     "name": "1 thin queen sized duvet",
     "description": "In perfectly good, clean condition.  Thin duvet.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145891",
-    "name": "3 Muji floor chairs",
-    "description": "I have three of these.  the canvas cotton covers are removable and machine washable.  (https://www.muji.com/my/products/cmdty/detail/4548718481293)",
     "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
@@ -484,17 +484,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145772",
-    "name": "Ikea dining table and two chairs",
-    "description": "Ikea table 75x75cm. Two foldable outdoor chairs",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "16 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "145432",
     "name": "Ikea study table",
     "description": "In good condition",
@@ -502,17 +491,6 @@
     "validTill": "12 Jun 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146079",
-    "name": "Bed Frame with Mattress",
-    "description": "Length 210cm x Width 100cm",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "11 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "210 x 100 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -526,17 +504,6 @@
     "dimensions": "107cm x 62cm x 32cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "146093",
-    "name": "Baby cot",
-    "description": "Doesn't come with bedding (i.e. mattress covers)",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "07 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "146003",
@@ -553,17 +520,6 @@
     "id": "146002",
     "name": "Children learning resources",
     "description": "Add to 10, body parts, sentence and Chinese k1 - P 1 assessment books",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "28 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "146001",
-    "name": "Children learning resources",
-    "description": "Learn shapes sorting spelling, Chinese listening comprehension",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "28 Jun 2025",
     "ageInYears": 4,
@@ -825,13 +781,35 @@
     "category": "Medical Aids"
   },
   {
+    "id": "145756",
+    "name": "wheel chair",
+    "description": "No covering delivery charges, self-collect only.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "106.7 cm (L) × 63.5 cm (W) × 91.4 cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "145755",
     "name": "Hospital beds with air mattresses",
     "description": "No covering delivery charges, self-collect only.",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Jun 2025",
+    "validTill": "25 Jun 2025",
     "ageInYears": 2,
     "dimensions": "200 cm (L) × 85 cm (W) × 9 cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "145754",
+    "name": "Suction catheters",
+    "description": "No covering delivery charges, self-collect only.",
+    "location": "Ang Mo Kio",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -845,6 +823,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "146107",
+    "name": "Geriatric chair",
+    "description": "Reclining Geriatric Chair  With Wheels",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "21 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "145900",
