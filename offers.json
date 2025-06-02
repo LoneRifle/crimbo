@@ -110,6 +110,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "146115",
+    "name": "Hospital bed",
+    "description": "Hospital bed which can be raised or lowered as well as be incluned",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146114",
+    "name": "Hospital bed",
+    "description": "Hospital bed that can be inclined and lowered accordingly",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "02 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "146103",
     "name": "Super Single Mattress (not single size)",
     "description": "Item: Super Single Size Spring Mattress, \nDimensions: 110cm x 190cm\nType: Firm, good for spinal care \nCondition: In good clean condition with no sunken parts. \n\nRequests by donor: \n(1) Depending on client’s circumstances, donor can cover transport or co-share transport. Prefers clients staying in West/North/South of Singapore\n\n(2) Kindly share a brief description of client circumstance so that donor understand whom she is helping \n\n(3) To share sincere words of thanks by the client Thank you!",
@@ -264,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146065",
-    "name": "Study desk white",
-    "description": "White study desk with 2 drawers",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "29 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "100 cm x 55cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146063",
     "name": "Medical bed",
     "description": "Medical bed with mattress and air mattress",
@@ -293,17 +304,6 @@
     "validTill": "18 Jun 2025",
     "ageInYears": 3,
     "dimensions": "75cm high. 140cm wide. 70cm deep",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146018",
-    "name": "Sofa",
-    "description": "Modern comfortable L shape sofa",
-    "location": null,
-    "validTill": "07 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "2.4cm x 95cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -504,6 +504,17 @@
     "dimensions": "107cm x 62cm x 32cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "146111",
+    "name": "UV STERILISER",
+    "description": "*PLS NOTE THAT YOU HAVE TO SELF COLLECT ITEM* i cant afford the fee nor sent to you.\n\nVery gd condition uv steriliser. To give it to a family or an organisation who needs it.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "01 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "146003",
@@ -823,6 +834,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "146116",
+    "name": "Patient hoist",
+    "description": "Hydraulic powered hoist with canvas to hoist patient onto and out of bed",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "146107",
