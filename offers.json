@@ -1,16 +1,5 @@
 [
   {
-    "id": "146072",
-    "name": "Long dress/ abhaya",
-    "description": "I have totally 6 pcs\n60 x 2 \n56 x 2\n52 x 2\nBrown/ lavender",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "07 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "H60/H56/H52 inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "145843",
     "name": "Boy clothes, bibs, rompers -2yo (Used, no stain)",
     "description": "Clothes no stain & holes. Free delivery to Sembawang, Canberra, Yishun area",
@@ -20,28 +9,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
-  },
-  {
-    "id": "145135",
-    "name": "Female tops and jackets",
-    "description": "Women clothing, total ~18 tops and 4 outerwear. Largely loose fitting, in bright colours (red, pink, orange) . Suitable for M size body frame.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "01 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "146070",
-    "name": "xiaomi hot water dispenser",
-    "description": "Viomi Smart Instant Hot Water Dispenser 2L\nhttps://dasher.sg/products/2l-instant-hot-water-dispenser?srsltid=AfmBOoph2e6szekZRRgAsuG3abIc0sJZbxNXCkvBTwMCTHWJYdKTTG9L",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "29 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": "12.3 x 26.5 x 29.7",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
   },
   {
     "id": "146029",
@@ -143,17 +110,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "145133",
-    "name": "Electric Bed",
-    "description": "Does not come with the mattress.\nHas wooden frames.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "01 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": "200x100x50",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "146091",
     "name": "cupboard",
     "description": "sturdy",
@@ -166,7 +122,7 @@
   },
   {
     "id": "146090",
-    "name": "Koh Kin Chai",
+    "name": "Dressing table",
     "description": "Dressing table\nTo collect at Tampines St 71",
     "location": "Balestier, Toa Payoh",
     "validTill": "15 Jun 2025",
@@ -177,7 +133,7 @@
   },
   {
     "id": "146089",
-    "name": "Kenneth Koh",
+    "name": "Washing Machine",
     "description": "Washing machine\nTo collect at Tampines St 71",
     "location": "Balestier, Toa Payoh",
     "validTill": "15 Jun 2025",
@@ -188,7 +144,7 @@
   },
   {
     "id": "146088",
-    "name": "Koh Kin Chai",
+    "name": "Wall Mirror",
     "description": "Wall mirror\nTo collect at Tampines St 71",
     "location": "Balestier, Toa Payoh",
     "validTill": "15 Jun 2025",
@@ -210,7 +166,7 @@
   },
   {
     "id": "146086",
-    "name": "Koh Kin Chai",
+    "name": "Cupboard",
     "description": "Collect at Tampines St 71",
     "location": "Balestier, Toa Payoh",
     "validTill": "15 Jun 2025",
@@ -221,7 +177,7 @@
   },
   {
     "id": "146085",
-    "name": "Kenneth Koh",
+    "name": "Multi Purpose Desk",
     "description": "Collect at Tampines St 71",
     "location": "Balestier, Toa Payoh",
     "validTill": "15 Jun 2025",
@@ -253,17 +209,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146081",
-    "name": "Plan Toys play table with 2 drawers",
-    "description": "Plan Toys kids play table painted white, with 2 drawers.  124cm length x 90cm width x 40cm height",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "02 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "124cm x 90cm x 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146080",
     "name": "book shelf",
     "description": "Our Book Shelf is a simple, stylish and modern addition to your Living Room. With the shelves provided you may display your collection or daily storage purposes.",
@@ -271,17 +216,6 @@
     "validTill": "30 Jun 2025",
     "ageInYears": 1,
     "dimensions": "90x35x190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146077",
-    "name": "Queen size storage bed with mattress",
-    "description": "Queen size storage bed with mattress...",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "15 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -561,39 +495,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145581",
-    "name": "Chinese chest/cupboard",
-    "description": "Used, but still usable. Good for storing non-food items. Contents and items on shelf not included",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "01 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "82x50x90 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145580",
-    "name": "TV chest/sideboard",
-    "description": "Used but in very good condition; TV Rack with two open storage space on sides, and a pull out drawer. Contents, TV and printer in photo not included.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "01 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "190x45x45",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145666",
-    "name": "Bunk Bed",
-    "description": "IKEA bunk bed ready for collection.  It has been dismantled for easy collection.  Comes with nut and bolt for assembly.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "02 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "145432",
     "name": "Ikea study table",
     "description": "In good condition",
@@ -625,6 +526,17 @@
     "dimensions": "107cm x 62cm x 32cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "146093",
+    "name": "Baby cot",
+    "description": "Doesn't come with bedding (i.e. mattress covers)",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "07 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "146003",
@@ -713,6 +625,17 @@
     "dimensions": "56cm width, 78cm length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "146095",
+    "name": "water dispenser",
+    "description": "Used plastic water dispenser.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "16 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "146027",
@@ -1087,6 +1010,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "146094",
+    "name": "non slip mat",
+    "description": "Used non slip mat, 28x28 cm each x 20-30 pcs.\nAll washed clean, pls expect stains.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "16 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "146082",
