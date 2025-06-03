@@ -1,5 +1,16 @@
 [
   {
+    "id": "146157",
+    "name": "Winter Jacket and Sweater",
+    "description": "These clothes are brand new, giving away because sizes are unsuitable. They are thick enough for 8-15 degree celsius weather.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "16 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "146029",
     "name": "Möwe Rice Cooker",
     "description": "Lightly used rice cooker. Used only once. Giving away as it is too big for my apartment",
@@ -97,6 +108,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146156",
+    "name": "2 Seater Sofa but leather a bit torn",
+    "description": "I do not wish to pay collection fee & delivery fee.",
+    "location": "Bukit Merah View",
+    "validTill": "03 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "Nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146131",
+    "name": "Ikea Billy Book Case",
+    "description": "As good as new Ikea Billy Bookcase",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "80x30x202 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146128",
@@ -231,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146089",
-    "name": "Washing Machine",
-    "description": "Washing machine\nTo collect at Tampines St 71",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "15 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146088",
     "name": "Wall Mirror",
     "description": "Wall mirror\nTo collect at Tampines St 71",
@@ -315,17 +337,6 @@
     "validTill": "30 Jun 2025",
     "ageInYears": 1,
     "dimensions": "90x35x190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146073",
-    "name": "Dinette set",
-    "description": "Small 3 person dinette set. Heavy round table with 3 chairs. Slight wear on table edge shown in photo",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "06 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "80 cm diameter x 75 cm h",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -421,7 +432,7 @@
     "id": "145892",
     "name": "1 thin queen sized duvet",
     "description": "In perfectly good, clean condition.  Thin duvet.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "location": "singapore",
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
@@ -432,7 +443,7 @@
     "id": "145890",
     "name": "2 foldable wooden tables",
     "description": "Two foldable wooden tables - both 50cm by 80cm - one at knee height and the other hip height.  Once used as a coffee table and small dining table (can also serve as study desk) respectively.  Foldable and stores away neatly.  From Muji and made of durable wood.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "location": "singapore",
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
     "dimensions": "50cm wide by 80cm long - table surface",
@@ -638,17 +649,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "145973",
-    "name": "Boori Universal Squared Bassinet",
-    "description": "The Boori Universal Squared Bassinet is a versatile sleep space for newborns. While Boori offers various bassinet models, the Universal Squared Bassinet is designed to fit a range of Boori cot beds and has a compact footprint suitable for smaller spaces. The exact dimensions for the mattress are 80 x 41 cm. This bassinet is designed to be a safe and comfortable sleep environment for your baby. \nDimensions of the Boori Universal Squared Bassinet:\nLength: 80 cm\nWidth: 41 cm\nHeight: 3 cm (for the mattress)",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "07 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": "Length: 80 cm Width: 41 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "145896",
     "name": "Baby toys",
     "description": "Various baby toys. All working fine. Batteries not included.",
@@ -845,17 +845,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "146125",
-    "name": "Push chair",
-    "description": "This geriatric chair was gotten about 6 months ago. It was rarely used. Still in very good condition. There is some white residue on the seat due to the sticky side of a tape which was left on the chair and caused by the humidity. It should be easily removed by a stain remover.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "02 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "145874",
