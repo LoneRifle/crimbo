@@ -99,13 +99,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "146124",
-    "name": "Queen Size Bed with Mattress",
-    "description": "Queen Size Storage Bed Frame (blue color) with a very good mattress (King Koil Hotel Collection)",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "id": "146128",
+    "name": "Children Book Shelf",
+    "description": "Book shelf with small cabinet",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "30 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146127",
+    "name": "Children Study Table",
+    "description": "Study table with drawer. Small scruff on edges due to aging",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146126",
+    "name": "Dining table with 2 chairs",
+    "description": "Round dining table with 2 chairs",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "18 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "Diameter 105 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -548,6 +570,28 @@
     "dimensions": "107cm x 62cm x 32cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "146130",
+    "name": "Stroller",
+    "description": "7/10 condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "146129",
+    "name": "Children Step Stool",
+    "description": "Kids step stool",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "146111",
