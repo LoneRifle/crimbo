@@ -88,17 +88,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "146059",
-    "name": "Tower fan",
-    "description": "Hi, I have a Europeace standing fan in good condition. I only use occasionally. It may not be as strong as a normal standing blade fan, but it can provide some comfort in a small room for 1 - 2 pax.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "146061",
     "name": "Tower fan",
     "description": "Hi, I have a Europeace standing fan in good condition. I only use occasionally. It may not be as strong as a normal standing blade fan, but it can provide some comfort in a small room for 1 - 2 pax.",
@@ -572,7 +561,18 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "146130",
+    "id": "146171",
+    "name": "Stroller",
+    "description": "7/10 condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "146172",
     "name": "Stroller",
     "description": "7/10 condition",
     "location": "Pasir Ris, Simei, Tampines",
