@@ -913,6 +913,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "146211",
+    "name": "Recliner chair",
+    "description": "Recliner chair in working condition.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "09 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "146210",
+    "name": "Hospital bed",
+    "description": "Lightly used hospital bed in working condition.  One side railing is missing some screws, which can be easily replaced.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "09 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "L220 x W100 x H70",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "146116",
     "name": "Patient hoist",
     "description": "Hydraulic powered hoist with canvas to hoist patient onto and out of bed",
