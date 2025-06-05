@@ -1,16 +1,5 @@
 [
   {
-    "id": "146185",
-    "name": "Children Clothes",
-    "description": "Good condition t-Shirts/shirts/pants for children, mostly for boy by t-shirt are unisex. All managed to squeeze into a single carrier, can pass at Sengkang/Buangkok MRT station area. Other logistics to be pay by taker.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "146157",
     "name": "Winter Jacket and Sweater",
     "description": "These clothes are brand new, giving away because sizes are unsuitable. They are thick enough for 8-15 degree celsius weather.",
@@ -20,17 +9,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
-  },
-  {
-    "id": "146212",
-    "name": "Dehumidifier",
-    "description": "Almost brand new STERRA dehumidifier. Used less than 10 times. About 1 month old. Bought 2. Dont need this one.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
   },
   {
     "id": "145942",
@@ -110,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "146217",
+    "name": "set of 2 wooden leather chair with cushion",
+    "description": "Got this for my balcony, but ended up using as my living room chairs while my sofa arrived. \n\nUsed for 3 months, still in the condition it was delivered in. \n\nThe chairs came with a slight crack as shown in the pictures, but still in good working condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "05 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "146207",
     "name": "Sofa cum Single Bed",
     "description": "Scanteak Sofa,\nHeight is about 40cm including 13cm of cushion. have extra set of cushion cover",
@@ -128,17 +117,6 @@
     "validTill": "15 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146195",
-    "name": "Single Bed Frame with Mattress",
-    "description": "Single size bed frame with mattress",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "09 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": "202cm x 101cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -645,6 +623,28 @@
     "validTill": "28 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "146214",
+    "name": "Boori Universal Squared Bassinet",
+    "description": "The Boori Universal Squared Bassinet is a versatile sleep space for newborns. While Boori offers various bassinet models, the Universal Squared Bassinet is designed to fit a range of Boori cot beds and has a compact footprint suitable for smaller spaces. The exact dimensions for the mattress are 80 x 41 cm. This bassinet is designed to be a safe and comfortable sleep environment for your baby. \nDimensions of the Boori Universal Squared Bassinet:\nLength: 80 cm\nWidth: 41 cm\nHeight: 3 cm (for the mattress)",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "07 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "Length: 80 cm Width: 41 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "146215",
+    "name": "Boori Universal Squared Bassinet",
+    "description": "The Boori Universal Squared Bassinet is a versatile sleep space for newborns. While Boori offers various bassinet models, the Universal Squared Bassinet is designed to fit a range of Boori cot beds and has a compact footprint suitable for smaller spaces. The exact dimensions for the mattress are 80 x 41 cm. This bassinet is designed to be a safe and comfortable sleep environment for your baby. \nDimensions of the Boori Universal Squared Bassinet:\nLength: 80 cm\nWidth: 41 cm\nHeight: 3 cm (for the mattress)",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "07 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "Length: 80 cm Width: 41 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
