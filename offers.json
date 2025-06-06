@@ -22,6 +22,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "146260",
+    "name": "Washing machine",
+    "description": "Elba washing machine",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": "O.84m x 0.44m x 0.60m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145930",
     "name": "LAN cable",
     "description": "Delivery on weekday evening and weekend.",
@@ -64,6 +75,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146261",
+    "name": "2 seater sofa",
+    "description": "Good condition 2-seater sofa",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "01 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146255",
+    "name": "Armchair",
+    "description": "2 grey fabric armchairs in excellent condition.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "99x71 cm (height x width)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146252",
@@ -139,17 +172,6 @@
     "validTill": "28 Jun 2025",
     "ageInYears": 4,
     "dimensions": "2m in height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146243",
-    "name": "L Shaped Sofa",
-    "description": "Well used and still in good condition. about 4 year old item.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "2.4m length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -548,28 +570,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "146238",
-    "name": "Stroller/Pram",
-    "description": "Stroller for Donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "02 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "146234",
-    "name": "Children Shoes",
-    "description": "Girl and Boy Shoes for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "146221",
