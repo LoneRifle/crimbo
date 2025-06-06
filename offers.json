@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "145778",
-    "name": "Table fan",
-    "description": "Fan 30cm diameter.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "21 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145345",
     "name": "Automatic night light",
     "description": "Delivery on weekday evening and weekend.",
@@ -75,6 +64,94 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146252",
+    "name": "Hanging Swing Chair with Base",
+    "description": "Outdoor hanging swing/nest chair. Has a small amount of rust on the base. Stand can be separated, but swing and circular bottom have a 104cm diameter.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "104x104x200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146251",
+    "name": "Castlery Dark Grey Sofa",
+    "description": "2 Seater Castlery Sofa. Dark Grey fabric, comes with a slip cover. Construction date, 2021, has been in a non-smoking, no pet home. Regular wear and tear.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "190x90x80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146250",
+    "name": "Queen Bed Ikea MALM frame and mattress",
+    "description": "Dark brown IKEA Malm frame with slats. Can be dismantled and comes with the allen key. Comes with a Queen mattress (Australian brand)",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "150x200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146248",
+    "name": "Prayer Altar",
+    "description": "Solid wood hindu prayer altar. In good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "1.37 length, 2.26 ht, 62cm width",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146247",
+    "name": "Kitchen Island",
+    "description": "Long item that can be used as a kitchen shelf or kitchen island",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "2m length, 1,2 ht, 60cm width",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146246",
+    "name": "TV Console",
+    "description": "Quiet new. Only a year old",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "2 m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146245",
+    "name": "Glass Shelf",
+    "description": "Tall glass shelf. Can place books or other items. in good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "2m in height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146243",
+    "name": "L Shaped Sofa",
+    "description": "Well used and still in good condition. about 4 year old item.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "2.4m length",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146217",
@@ -330,17 +407,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145997",
-    "name": "Super-single bed wth single pullout bed",
-    "description": "King koil super-single with bedframe and comes with single pullout bed. In good condition. Dimensions include bedframe.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "27 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "L210cm x W103cm x H100cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "145969",
     "name": "Pillow",
     "description": "Pillow, never been used but kept inside the bag for very long so could be a little decolourised.",
@@ -469,17 +535,6 @@
     "validTill": "18 Jun 2025",
     "ageInYears": 4,
     "dimensions": "see picture",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "145602",
-    "name": "Study table",
-    "description": "Aube wooden drawer storage bed frame (Japan size)",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "1m x 2.1m x 0.7m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -867,6 +922,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "146254",
+    "name": "Commode",
+    "description": "In very good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "15 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": "68cm x 52cm x 95cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "146211",
