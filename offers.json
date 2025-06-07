@@ -1,5 +1,16 @@
 [
   {
+    "id": "146277",
+    "name": "Toddler clothes female",
+    "description": "Worn only once. Female toddler clothes",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "07 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "146157",
     "name": "Winter Jacket and Sweater",
     "description": "These clothes are brand new, giving away because sizes are unsuitable. They are thick enough for 8-15 degree celsius weather.",
@@ -9,6 +20,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "146278",
+    "name": "Table fan",
+    "description": "Old table fan but still in good working condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "146262",
@@ -84,17 +106,6 @@
     "validTill": "18 Jun 2025",
     "ageInYears": 4,
     "dimensions": "Length 180cm, width 99cm &amp; height  78cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146273",
-    "name": "6x grey fabric dining chair",
-    "description": "6x Dining Chair, grey fabric, dark brown wooden legs",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "06 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "54L x 48W x 45.8H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -953,17 +964,6 @@
     "validTill": "15 Jun 2025",
     "ageInYears": 3,
     "dimensions": "68cm x 52cm x 95cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "146211",
-    "name": "Recliner chair",
-    "description": "Recliner chair in working condition.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "09 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
