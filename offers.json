@@ -1001,6 +1001,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "146291",
+    "name": "Hospital bed",
+    "description": "Electric hospital bed.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "08 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "190cm x 84cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "146288",
     "name": "Walking Rollator",
     "description": "walking frame with wheels\nfoldable",
