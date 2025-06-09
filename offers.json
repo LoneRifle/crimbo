@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146287",
-    "name": "Toyomi Tower Fan",
-    "description": "Floor standing tower fan with Timer and Humidifier functions. Self-collection much appreciated, thank you.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": "Height 115cm. Base 32cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "146278",
     "name": "Table fan",
     "description": "Old table fan but still in good working condition.",
@@ -86,6 +75,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146346",
+    "name": "Foldable single matteress",
+    "description": "This item is approximately 7yo.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "09 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146332",
+    "name": "Ikea VESTERÖY King Size Mattress",
+    "description": "Slept on for a week. Kept in a cover to keep clean. Like new.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "09 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "180 x 200 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146331",
+    "name": "Beige Single Sofa Bed x 2",
+    "description": "Ikea KIVIK sofa bed. Very lightly used.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "09 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "See image",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146324",
@@ -315,28 +337,6 @@
     "validTill": "28 Jun 2025",
     "ageInYears": 4,
     "dimensions": "2m length, 1,2 ht, 60cm width",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146246",
-    "name": "TV Console",
-    "description": "Quiet new. Only a year old",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "2 m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146245",
-    "name": "Glass Shelf",
-    "description": "Tall glass shelf. Can place books or other items. in good condition.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "2m in height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -737,6 +737,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "146344",
+    "name": "Baby Cot",
+    "description": "The cot is approximately 7yo and have no use of it after the kids have grown up.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "09 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "146221",
     "name": "Brand new children items",
     "description": "A mix of brand new children bags, art and craft materials, brand new soft toys etc. Also comes with some used items including girl jackets. If there are items that are not suitable from the bunch I can remove the particular said item.",
@@ -1056,17 +1067,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "146292",
-    "name": "Tilt in space wheelchair with leg rest",
-    "description": "Tilt in space wheelchair with leg rest",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "08 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "146291",
     "name": "Hospital bed",
     "description": "Electric hospital bed.",
@@ -1128,17 +1128,6 @@
     "location": "Balestier, Toa Payoh",
     "validTill": "21 Jun 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "145900",
-    "name": "Toilet Commode",
-    "description": "Although 4 years, still good. Pot was never used",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "15 Jun 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
