@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "146384",
+    "name": "Washing machine",
+    "description": "Donating washing machine that’s in good condition",
+    "location": null,
+    "validTill": "13 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "146278",
     "name": "Table fan",
     "description": "Old table fan but still in good working condition.",
@@ -172,17 +183,6 @@
     "validTill": "15 Jun 2025",
     "ageInYears": 2,
     "dimensions": "90 x 200 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146283",
-    "name": "Kingside Bed",
-    "description": "Kingsize Boxspring with all Mattresses and topper",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "15 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": "Kingsize",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -627,6 +627,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "146388",
+    "name": "Stroller",
+    "description": "Pristine Condition. Used 1-2 times. Pick up at 670449",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "13 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "146386",
+    "name": "Nature One Milk Powder",
+    "description": "Nature One Stage 1 and Stage 2 Milk Powder - Expiry June 2026",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "13 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "146373",
     "name": "Baby, child high chair (Oribel)",
     "description": "ORIBEL - Cocoon 3 High Chair with eating table. \nWeight: 21.5 lb.\nDimensions: 32\" L x 22\" W x 42\" H\nWeight Capacity: 45.0 lbs\n\n**I WILL ONLY DELIVER IF VWO/NEEDY IS AT TELOK BLANGAH, BEDOK, CHAI CHEE AREAS AT MY CONVENIENT TIME ONLY!!**\n\n**EMAIL ME ONLY, DO NOT CONTACT ME IF YOU WANT ME TO SEND AT YOUR PREFERRED TIME!!**",
@@ -902,17 +924,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "145756",
-    "name": "wheel chair",
-    "description": "No covering delivery charges, self-collect only.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "106.7 cm (L) × 63.5 cm (W) × 91.4 cm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "145755",
     "name": "Hospital beds with air mattresses",
     "description": "No covering delivery charges, self-collect only.",
@@ -944,6 +955,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "146389",
+    "name": "commode chair",
+    "description": "commode chair without pot",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "21 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "146291",
@@ -1142,6 +1164,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "146387",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed that has hardly been used. Bought with AIC subsidy for my sick mother but she passed away without using the bed.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "21 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "146276",
