@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146384",
-    "name": "Washing machine",
-    "description": "Donating washing machine that’s in good condition",
-    "location": null,
-    "validTill": "13 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "146278",
     "name": "Table fan",
     "description": "Old table fan but still in good working condition.",
@@ -75,6 +64,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146394",
+    "name": "Dunlopillo Super Single Bed with Pull Out Bed",
+    "description": "1) The width will be 200cm when the lower deck is pulled out.\n2) Comes with 1 mattress.\n3) All items are in good working conditions as they are rarely used, but they are more than 10 years old.\n4) The white shelf will also be donated.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "Estimated 210cm (L) x 40cm (H) x 200 cm (W) when pulled out",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146372",
