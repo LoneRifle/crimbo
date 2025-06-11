@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146447",
-    "name": "Microwave",
-    "description": "Non Halal. Used by Chinese family",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "01 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "Standard",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "146278",
     "name": "Table fan",
     "description": "Old table fan but still in good working condition.",
@@ -594,17 +583,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "145432",
-    "name": "Ikea study table",
-    "description": "In good condition",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "12 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146448",
     "name": "Solid Wood Baby Cot",
     "description": "In good condition. No mattress",
@@ -733,17 +711,6 @@
     "validTill": "22 Jun 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "145433",
-    "name": "Kids table",
-    "description": "Kids table",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "12 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "56cm width, 78cm length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -957,33 +924,11 @@
     "category": "Medical Aids"
   },
   {
-    "id": "145408",
-    "name": "Hospital Bed",
-    "description": "Hospital bed complete with motor and safety rails. Able to sit up/ raise legs and move up and down.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "12 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "146451",
     "name": "Commode",
     "description": "In good condition.",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "02 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "Standard",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "146449",
-    "name": "Wheelchair",
-    "description": "In good condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "01 Jul 2025",
     "ageInYears": 1,
     "dimensions": "Standard",
     "deliveryCostsCoveredByDonor": true,
@@ -1160,17 +1105,6 @@
     "description": "Used pair of crutches in good condition.\nAdjustable height",
     "location": "Balestier, Toa Payoh",
     "validTill": "01 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "145431",
-    "name": "commode",
-    "description": "Commode complete with pot.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "12 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
