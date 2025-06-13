@@ -214,6 +214,59 @@
     "date": "15 May 2025"
   },
   {
+    "id": "146496",
+    "category": "Electrical Home Appliances",
+    "name": "Induction cooker",
+    "description": "Client is a senior with mobility issues and is now unable to cook for himself as his stove has spoilt. He is currently pending SSO assistance and would need a replacement, hopefully with an additional pan if possible",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
+    "id": "146491",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Family of five with three young children in preschool. Both parents are employed full-time. To support the family’s livelihood, the father works night shifts, enabling him to contribute to caregiving responsibilities alongside his wife. Interested donors may contact Family Coach Christopher via WhatsApp at 6231 9504. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Christopher Pang",
+      "email": "christopher_pang@msf.gov.sg",
+      "phone": [
+        "62319504",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
+    "id": "146490",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Mr Irwan has been homeless and rough sleeping for the past 2-3 years because of his divorce while his ex-wife and their 9 children stayed in their HDB rental flat at Macpherson. Mr Irwan's divorce was just finalised in Apr 2025 and he has just moved back in to his HDB rental flat with his 9 children while he has ex-wife has moved out. However, they need a washing machine as his previous machine has broken down after many years of use. You can contact me at 85255280 or derek@newhopecs.org.sg. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "New Hope Community Services",
+      "name": "Derek Lim",
+      "email": "derek@newhopecs.org.sg",
+      "phone": [
+        "85255280",
+        "63059620"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
     "id": "146482",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine Request",
@@ -2841,6 +2894,41 @@
     "date": "13 May 2025"
   },
   {
+    "id": "146497",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "Client is a stateless senior currently surviving on SSO assistance ($600/mth) in need of a replacement handphone as his existing handphone screen is spoilt",
+    "specifications": "Android",
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
+    "id": "146487",
+    "category": "Others",
+    "name": "Food rations",
+    "description": "Family with two school-going children aged 4 and 9, is currently facing financial difficulties. Father has just started working after being released from prison, while mother is a full-time caregiver for both children. They would benefit from food rations to help them tide through this period.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Andrea Tan",
+      "email": "andreatan@fycs.org",
+      "phone": [
+        "69783017",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
     "id": "146422",
     "category": "Others",
     "name": "Washing machine installation cost",
@@ -3505,6 +3593,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "13 May 2025"
+  },
+  {
+    "id": "145190",
+    "category": "Infant and Children Items",
+    "name": "Abbott Grow Toddler Growing Up Milk Formula - Stage 3",
+    "description": "Family has a 1 year old toddler mainly cared by grandmother. Family lack in stable jobs which cause financial strain.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Ruth Lim",
+      "email": "ruth.lim@reach.org.sg",
+      "phone": [
+        "68010746",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
+    "id": "145191",
+    "category": "Infant and Children Items",
+    "name": "Huggies Dry Comfort Pants - XL (14-18kg)",
+    "description": "Family has a 1 year old toddler mainly cared by grandmother. Family lack in stable jobs which cause financial strain.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Ruth Lim",
+      "email": "ruth.lim@reach.org.sg",
+      "phone": [
+        "68010746",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
+    "id": "146489",
+    "category": "Infant and Children Items",
+    "name": "Dumex Mamil Gold Infant Formula - Stage 1",
+    "description": "Family has 4-school going children and a newborn baby girl with father as the sole breadwinner doing Grab delivery. Newborn has poor health and falls sick often thus family faces a tight financial situation. Family requires assistance in securing formula milk powder to ensure newborn's development.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Grace Yeo",
+      "email": "graceyeo@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
+    "id": "146488",
+    "category": "Infant and Children Items",
+    "name": "Drypers SuperDry Premium Tape S 66s",
+    "description": "Family has 4-school going children and a newborn baby girl with father as the sole breadwinner doing Grab delivery. Newborn has poor health and falls sick often thus family faces a tight financial situation. Family requires assistance in securing diapers for newborn.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Grace Yeo",
+      "email": "graceyeo@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
   },
   {
     "id": "144432",
@@ -5564,6 +5722,23 @@
     "date": "13 May 2025"
   },
   {
+    "id": "146493",
+    "category": "Attires/Clothings",
+    "name": "Baby sling",
+    "description": "Client is low-income and has two infants (11 months and 1 month old). As client brings the 11 months old infant to medical appointments very frequently and have to bring the 1-month-old along too, she requires a sling to carry one of the children in addition to a single stroller she currently has.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Seow Jia Qi",
+      "email": "seowjiaqi@allkin.org.sg",
+      "phone": [
+        "60384140"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
+  },
+  {
     "id": "145966",
     "category": "Attires/Clothings",
     "name": "Clothes for boys 9-12 years old",
@@ -5613,6 +5788,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 May 2025"
+  },
+  {
+    "id": "146483",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Looking for a bicycle suitable for 9-10YO kid. Two sisters are keen to learn how to ride a bike. Grandmother is their only caregiver. Parents are not in the picture. Grandmother had promised to purchase one for them, but due to financial constraints it is not feasible right now as they have outstanding arrears.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Alexandra Nicole",
+      "email": "nicole.alexandra@montfortcare.org.sg",
+      "phone": [
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Jun 2025"
   },
   {
     "id": "145960",
