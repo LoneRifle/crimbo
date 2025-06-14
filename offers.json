@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "146511",
+    "name": "Brother Sewing Machine",
+    "description": "Brother electric sewing machine",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "14 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "40cm x 27cm x 31cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "146503",
     "name": "Fridge",
     "description": "Good condition fridge for donation",
@@ -64,6 +75,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146513",
+    "name": "Coffee Table",
+    "description": "Scanteak Coffee Table",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "14 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "1.2m x 0.52m x 0.48m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146512",
+    "name": "Sliding 2 door wardrobe",
+    "description": "2 door sliding wardrobe in excellent condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146509",
