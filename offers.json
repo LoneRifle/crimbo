@@ -22,17 +22,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "146503",
-    "name": "Fridge",
-    "description": "Good condition fridge for donation",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "20 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145930",
     "name": "LAN cable",
     "description": "Delivery on weekday evening and weekend.",
@@ -64,6 +53,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146536",
+    "name": "2-drawer cabinet",
+    "description": "Pre-owned file cabinet, fully functional with lock",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "46.5 x 62 x 72.2",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146532",
+    "name": "White dining table",
+    "description": "4 seater dining table,  extendable to 6 seater.  White colour with 2 glass panel top. Used but still in good condition.  No chairs .",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "21 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "L/W/H - 100/74/75 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146525",
@@ -121,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146515",
-    "name": "Super Single Bed & Mattress",
-    "description": "Leaving Town: Solid Wood Bed in very good condition, with pillow top mattress very good qualify.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "30 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": "200cmX110cmX81CM",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146514",
     "name": "Bean Bag Sofa",
     "description": "1-Seater Bean Bag Sofa\n- 120x100cm (XL), Light Blue\n- Like new, seldom used, mainly kept in storeroom",
@@ -154,17 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146512",
-    "name": "Sliding 2 door wardrobe",
-    "description": "2 door sliding wardrobe in excellent condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "20 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146509",
     "name": "Sofa Bed",
     "description": "3 seater sofa bed. Hardly use",
@@ -182,17 +171,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "14 Jul 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146506",
-    "name": "Leather Sofa",
-    "description": "Leather sofa",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Jul 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -506,6 +484,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "146529",
+    "name": "Study table",
+    "description": "Aube wooden drawer storage bed frame (Japan size)",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "1m x 2.1m x 0.7m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146534",
+    "name": "Bath Tub and Shower Toys",
+    "description": "Baby bath tub and shower toys",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "146522",
     "name": "Stroller and toddler toys",
     "description": "Lightweight stroller for toddlers + toys + Philips kids hair clipper",
@@ -759,17 +759,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "145859",
-    "name": "portable phlegm suction unit",
-    "description": "That’s a portable phlegm suction unit from ComfyCare, model 7E-C/G. It’s designed with an oil-free pump, a pressure gauge, a 1000 mL suction container, and a regulator knob for control.\n\n\nNo covering delivery charges, self-collect only.\n\nNo covering delivery charges, self-collect only.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "370 mm (H) × 180 mm (L) × 280 mm (W)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "145810",
     "name": "Wedge pillow for leg elevation",
     "description": "Used but in very good condition.\nMade from urethane foam and comes with removable washable cover",
@@ -781,45 +770,12 @@
     "category": "Medical Aids"
   },
   {
-    "id": "145755",
-    "name": "Hospital beds with air mattresses",
-    "description": "No covering delivery charges, self-collect only.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": "200 cm (L) × 85 cm (W) × 9 cm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "145754",
-    "name": "Suction catheters",
-    "description": "No covering delivery charges, self-collect only.",
-    "location": "Ang Mo Kio",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "146389",
     "name": "commode chair",
     "description": "commode chair without pot",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "21 Jun 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "146417",
-    "name": "Tilt in space wheelchair with leg rest",
-    "description": "Tilt in space wheelchair with leg rest",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "08 Jul 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
