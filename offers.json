@@ -77,6 +77,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "146564",
+    "name": "Study Table with Ergonomic Chair",
+    "description": "1. Study Table \n2. Side Shelf\n3. Ergonomic Kneeling Chair",
+    "location": null,
+    "validTill": "30 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "L110 × D49 × H77 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "146562",
     "name": "Single ikea mattress",
     "description": "2 Single size mattresses to donate",
@@ -150,17 +161,6 @@
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
     "dimensions": "121 x 50 x 66",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146540",
-    "name": "Chairs",
-    "description": "Grey fabric chairs (in mint condition)",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "54 x 57 x 80",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -834,6 +834,17 @@
     "dimensions": "67x61x17cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "146565",
+    "name": "Wheelchair",
+    "description": "Wheelchair with detachable armrest",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": "W55 x D94 × H91 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "146559",
