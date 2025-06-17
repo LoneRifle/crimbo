@@ -440,6 +440,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "146569",
+    "name": "Hospital bed",
+    "description": "Hospital bed which can be raised or lowered as well as be incluned",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146572",
+    "name": "Hospital bed",
+    "description": "Hospital bed which can be raised or lowered as well as be incluned",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "146114",
     "name": "Hospital bed",
     "description": "Hospital bed that can be inclined and lowered accordingly",
@@ -869,6 +891,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "146567",
+    "name": "Hospital Bed",
+    "description": "In good working condition. Comes with mattress and air mattress for better comfort",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "16 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": "200cm x 90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "146570",
+    "name": "Hospital Bed",
+    "description": "In good working condition. Comes with mattress and air mattress for better comfort",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "16 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": "200cm x 90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "146389",
     "name": "commode chair",
     "description": "commode chair without pot",
@@ -985,6 +1029,28 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "20 Jun 2025",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "146568",
+    "name": "Hospital bed with moving air mattress",
+    "description": "A good hospital bed which comes with a moving air mattress and a table on wheels",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "146571",
+    "name": "Hospital bed with moving air mattress",
+    "description": "A good hospital bed which comes with a moving air mattress and a table on wheels",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
