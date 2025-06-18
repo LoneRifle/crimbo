@@ -22,24 +22,24 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146601",
-    "name": "Bar Fridge",
-    "description": "EuropAce bar fridge (working condition)",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "id": "146642",
+    "name": "Ironing board with iron",
+    "description": "New",
+    "location": "Singapore",
     "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "43 x 47 x 48",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "146511",
-    "name": "Brother Sewing Machine",
-    "description": "Brother electric sewing machine",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "14 Jul 2025",
+    "id": "146653",
+    "name": "Table Fans",
+    "description": "Two table fans, they are still working well but not the newest",
+    "location": null,
+    "validTill": "10 Jul 2025",
     "ageInYears": 4,
-    "dimensions": "40cm x 27cm x 31cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -77,13 +77,57 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "146635",
-    "name": "sigle wooden bed with mattress",
-    "description": "new; mattress has a spot\nwhatsapp: +5521 995275800",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "id": "146649",
+    "name": "foldable chairs",
+    "description": "New; table available too\nwhatsapp: +5521 995275800",
+    "location": "Singapore",
     "validTill": "25 Jun 2025",
     "ageInYears": 1,
-    "dimensions": "1,9 width x 90 depth x 60 height (cm)",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146648",
+    "name": "table with foldable chairs",
+    "description": "New\nwhatsapp: +5521 995275800",
+    "location": "Singapore",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146646",
+    "name": "Study table with self",
+    "description": "New\nwhatsapp: +5521 995275800",
+    "location": "Singapore",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146643",
+    "name": "single bed without mattress",
+    "description": "New",
+    "location": "Singapore",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "standard",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146636",
+    "name": "whith kit study table with chair for kid",
+    "description": "New\nwhatsapp: +5521 995275800",
+    "location": "Singapore",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "70 width x 50 depth x 75 height (cm)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -91,7 +135,7 @@
     "id": "146634",
     "name": "Brown leather sofa",
     "description": "New",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "location": "Singapore",
     "validTill": "25 Jun 2025",
     "ageInYears": 1,
     "dimensions": "1,3 width x 90 depth x 90 height (cm)",
@@ -260,6 +304,17 @@
     "validTill": "30 Jun 2025",
     "ageInYears": 1,
     "dimensions": "80 x 200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146654",
+    "name": "Dressing Table",
+    "description": "Dressing table",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -473,17 +528,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146080",
-    "name": "book shelf",
-    "description": "Our Book Shelf is a simple, stylish and modern addition to your Living Room. With the shelves provided you may display your collection or daily storage purposes.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "90x35x190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146063",
     "name": "Medical bed",
     "description": "Medical bed with mattress and air mattress",
@@ -524,6 +568,17 @@
     "validTill": "20 Jun 2025",
     "ageInYears": 4,
     "dimensions": "80x60x60",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146652",
+    "name": "Chairs",
+    "description": "Office leather chair in good condition",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "22 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": "60 x 60 x 115 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -669,6 +724,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "146650",
+    "name": "Juice maker",
+    "description": "New",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "146027",
@@ -974,17 +1040,6 @@
     "location": null,
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "145841",
-    "name": "Commode",
-    "description": "Lightly used commode with new potty and cover.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "24 Jun 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
