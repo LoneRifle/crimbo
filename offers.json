@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146672",
-    "name": "Washing machine",
-    "description": "7kg fuzzy logic Midea brand\nPlease arrange for pick up thankyou",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "54x54x85",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "146671",
     "name": "Refrigerator",
     "description": "2 door Sharp fridge\n( please note: please arrange pick up/delivery thankyou)",
@@ -40,17 +29,6 @@
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
     "dimensions": "60x55x170",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "146642",
-    "name": "Ironing board with iron",
-    "description": "New",
-    "location": "Singapore",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -97,6 +75,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146698",
+    "name": "Coffee table with storage",
+    "description": "In good condition",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "19 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": "40cm x 40cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146696",
+    "name": "Bedside table with 2 drawers",
+    "description": "My old bedside table for me to place all my personal items when I go to bed.  Drawers are functioning.\n\nI have 2 units of this.",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "19 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "490mm x 520mm x 600mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146687",
+    "name": "Angelina",
+    "description": "Old Queen size bedframe with storage at headboard. Mattress is 2 years old.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "155cm W x 210cm L x 39cm D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146681",
@@ -451,17 +462,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146261",
-    "name": "2 seater sofa",
-    "description": "Good condition 2-seater sofa",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "01 Jul 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146217",
     "name": "set of 2 wooden leather chair with cushion",
     "description": "Got this for my balcony, but ended up using as my living room chairs while my sofa arrived. \n\nUsed for 3 months, still in the condition it was delivered in. \n\nThe chairs came with a slight crack as shown in the pictures, but still in good working condition",
@@ -779,6 +779,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "146688",
+    "name": "Digital Keyboard",
+    "description": "Casio Digital Keyboard PSR-E353 with stand",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "105cm x 40cm x 16cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "146285",
