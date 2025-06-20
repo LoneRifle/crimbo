@@ -66,6 +66,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "146716",
+    "name": "3 single size mattress and single size bed frames (dismantled)",
+    "description": "3 single size mattress and single size bed frames (already dismantled as per picture)",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "01 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "146712",
     "name": "3+2-Seater sofa",
     "description": "3 pieces sofa set",
@@ -106,17 +117,6 @@
     "validTill": "30 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146698",
-    "name": "Coffee table with storage",
-    "description": "In good condition",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "19 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": "40cm x 40cm x 40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -205,6 +205,28 @@
     "validTill": "25 Jun 2025",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146714",
+    "name": "single bed without mattress",
+    "description": "New",
+    "location": "Singapore",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "standard",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146715",
+    "name": "single bed without mattress",
+    "description": "New",
+    "location": "Singapore",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "standard",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -704,17 +726,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "146000",
-    "name": "Children left brain training materials",
-    "description": "Left brain training materials for young children",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "28 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "145896",
     "name": "Baby toys",
     "description": "Various baby toys. All working fine. Batteries not included.",
@@ -911,6 +922,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "146718",
+    "name": "Electric Hospital Bed",
+    "description": "Electric Hospital Bed",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "20 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": "212cmX110cmX69cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "146682",
