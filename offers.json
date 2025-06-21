@@ -1,5 +1,16 @@
 [
   {
+    "id": "146749",
+    "name": "walking shoes",
+    "description": "walking shoes",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "21 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "US8",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "146585",
     "name": "Clothes Hangers, Plastic from IKEA",
     "description": "Almost brand new IKEA clothes hanger. Material Polypropylene plastic (min. 20% recycled). This hanger is perfect for trousers, shirts and skirts. It takes up less space than wooden hangers. About 100 pieces available.",
@@ -53,6 +64,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146750",
+    "name": "king bedsheets fitted white",
+    "description": "white .",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "21 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "king bedsheet",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146748",
+    "name": "Dinning table and chairs",
+    "description": "A good condition dinning table with 6 matching chairs. In cream white color and length of table is 170cm",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "170 x 95",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146747",
+    "name": "3 seaters L Shape Fabric Sofa",
+    "description": "A good condition 3 seaters sofa",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "270cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146743",
