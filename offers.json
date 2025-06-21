@@ -1,16 +1,5 @@
 [
   {
-    "id": "146749",
-    "name": "walking shoes",
-    "description": "walking shoes",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "21 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "US8",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "146585",
     "name": "Clothes Hangers, Plastic from IKEA",
     "description": "Almost brand new IKEA clothes hanger. Material Polypropylene plastic (min. 20% recycled). This hanger is perfect for trousers, shirts and skirts. It takes up less space than wooden hangers. About 100 pieces available.",
@@ -31,6 +20,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "146752",
+    "name": "Top Loader Washing Machine",
+    "description": "Washing machine has been in storage for over 10 years, and has not been used. However machine turns on and lights are functional.",
+    "location": null,
+    "validTill": "24 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "62cm W x 64cm D x 102cm L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "145930",
@@ -64,6 +64,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146753",
+    "name": "cabinet",
+    "description": "BILLY / OXBERG X 5set\nBookcase with doors, white, 80x30x30 cm",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "21 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "80x30x30 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146751",
+    "name": "Sofa",
+    "description": "This is not a sofa for a fussy person due to our cat using it as a scratching post!! However it does have another cover that we have never used (tan/brown colour). See photos of the colour - the grey can be removed and replaced with this. \n\nIt’s a very comfortable, spacious sofa.\n\nIt will be available from 22nd June - 28th June.\n\nDimensions are: \n\nLength - 245cm \nWidth of smaller part of the sofa 99cm \nWidth of longer part of the sofa 176cm\nHeight 82cm \n\nCollection from Hillview.",
+    "location": null,
+    "validTill": "26 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "146750",
