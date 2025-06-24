@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "145930",
-    "name": "LAN cable",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "26 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145928",
     "name": "HDMI cable",
     "description": "Delivery on weekday evening and weekend.",
@@ -95,28 +84,6 @@
     "validTill": "30 Jun 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146767",
-    "name": "Black sofa",
-    "description": "3 seater black sofa",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "22 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146766",
-    "name": "Single bed frame with mattress (x2)",
-    "description": "In good condition. 2 sets of frame + mattress.  Single size.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "28 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": "109cmx195cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -403,17 +370,6 @@
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
     "dimensions": "46.5 x 62 x 72.2",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146621",
-    "name": "3-drawer file cabinet",
-    "description": "3-drawer file cabinet",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "46.7 x 62 x 101.5",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -856,6 +812,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "146831",
+    "name": "Hot water dispenser",
+    "description": "instant hot water dispenser. also with functions for making baby drink(40 degrees). Dont use because no need for instant hot water. IN very good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "146744",
