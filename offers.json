@@ -22,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "147040",
+    "name": "mattress",
+    "description": "Always used with a Mattress Cover so the mattress is clean and in good condition.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "30 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "195cm x120 x 20",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147039",
+    "name": "2 seater sofa",
+    "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "30 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "175 x 75 x 85",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147027",
     "name": "Dining Table and chairs",
     "description": "Dining table and 3 chairs.\n\nPrefer same family to receive the dining table, 3 chairs and a wardrobe (please check my other form for the wardrobe) in 1 delivery. Please advise delivery costs.",
@@ -405,6 +427,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "147038",
+    "name": "Commode",
+    "description": "hardly used commode with pot and cover and leg rests that are detachable.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "147009",
