@@ -22,13 +22,24 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146980",
-    "name": "Washing machine 8kg top load",
-    "description": "8kg top load washing machine \nOld model, hardly used\nGoing strong",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "04 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": "See picture",
+    "id": "147011",
+    "name": "Samsung Fridge (620L)",
+    "description": "Good condition Samsung fridge from my resale home. Previously used by tenants for two years. Just changed door seal so that it’s more suitable for donation.",
+    "location": null,
+    "validTill": "06 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": "820mm wide",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147006",
+    "name": "LG. Dryer",
+    "description": "LG Dryer",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "01 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -95,17 +106,6 @@
     "validTill": "10 Jul 2025",
     "ageInYears": 4,
     "dimensions": "180x100",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146802",
-    "name": "Sofas",
-    "description": "2 of these couches. Length 218cm, depth 86cm, height 88cm. Sea horse brand. \n\nVery sturdy and comfortable, lasting durable. Have brand new gold covers unused. Slight watermarks stains on current grey covers but can be washed off with vanish bleach.",
-    "location": null,
-    "validTill": "22 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": "L 218cm D 86cm H 88cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -253,6 +253,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "147008",
+    "name": "Baby Cot and Mattress",
+    "description": "Baby Cot and Mattress + 2 x sheets and 2 x mattress protectors. Must be collected before Thurs",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "146968",
     "name": "Bellamy’s Organic Infant Formula step 1 (exp 2026)",
     "description": "I have 10 tins of Step 1 Bellamy’s recommended for newborn up to 6 months of age. Each tin is 900g. Please let me know.",
@@ -385,22 +396,11 @@
     "category": "Medical Aids"
   },
   {
-    "id": "146989",
-    "name": "hospital bed",
-    "description": "Lightly used. The mattress is 11cm thick. The height/angle of the bed is adjustable via the control panel. The bedrail can be lowered. All parts in good working condition.",
+    "id": "147009",
+    "name": "Wheelchair",
+    "description": "Wheelchair for donation",
     "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "29 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "213cm (L) x 106cm (W)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "146985",
-    "name": "Walking Frame",
-    "description": "Bion walking frame foldable aluminium",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "20 Jul 2025",
+    "validTill": "19 Jul 2025",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
