@@ -1,16 +1,5 @@
 [
   {
-    "id": "146975",
-    "name": "Boys clothes",
-    "description": "Boys shirts, polo shirts.  Various sizes, from 8 to 14.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "28 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": "Size 8 to 14",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "146277",
     "name": "Toddler clothes female",
     "description": "Worn only once. Female toddler clothes",
@@ -20,6 +9,72 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "147065",
+    "name": "Mayer rice cooker",
+    "description": "Used rice cooker",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "07 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147079",
+    "name": "3-seater L-shaped Sofa",
+    "description": "3-seater L-shaped Sofa with foot stools",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147076",
+    "name": "TV console and coffee table",
+    "description": "TV console and coffee table (donating the TV if needed)",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147074",
+    "name": "Wardrobe",
+    "description": "2-doors wardrobe with top cabinet.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147073",
+    "name": "Kitchen Rack",
+    "description": "Wooden rack for kitchen use.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147064",
+    "name": "Single Mattress 80 x 200",
+    "description": "Used Single ikea mattress 80 x 200 cm",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "07 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "80 x 200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "147048",
@@ -139,6 +194,17 @@
     "validTill": "10 Jul 2025",
     "ageInYears": 4,
     "dimensions": "180x100",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147075",
+    "name": "Black sofa",
+    "description": "3 seater black sofa",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -286,46 +352,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147036",
-    "name": "Bammax toddler Balance Bike",
-    "description": "Sparingly used bammax balance bike at home. Never left home premises even lift lobby or void deck. In good condition for toddlers to quickly learn to balance and pick up cycling.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "147008",
-    "name": "Baby Cot and Mattress",
-    "description": "Baby Cot and Mattress + 2 x sheets and 2 x mattress protectors. Must be collected before Thurs",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "146968",
-    "name": "Bellamy’s Organic Infant Formula step 1 (exp 2026)",
-    "description": "I have 10 tins of Step 1 Bellamy’s recommended for newborn up to 6 months of age. Each tin is 900g. Please let me know.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "27 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "900g",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "146942",
-    "name": "Stroller",
-    "description": "City mini Gt by baby Jogger pram in good condition",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "27 Jul 2025",
+    "id": "147072",
+    "name": "Drawer Storage Unit",
+    "description": "Wooden 5 tiers drawer for storage of children's items",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2025",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "147068",
+    "name": "Kids table and chair, storage drawer",
+    "description": "Ikea kid's table\nIkea kid's wooden chairs (02)\nPlastic 5-tiers storage drawer for toys.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": "77x55cm (table)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -435,17 +479,6 @@
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "30 Jul 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "147053",
-    "name": "Commode",
-    "description": "For self-collection/ arranged transport only, will not be able to pay for transport.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "27 Jul 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"

@@ -1,5 +1,56 @@
 [
   {
+    "id": "147077",
+    "category": "Electrical Home Appliances",
+    "name": "Standing fan",
+    "description": "Client is a senior suffering from multiple conditions including cancer, she would like to have a standing fan as her current one has broken down",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2025"
+  },
+  {
+    "id": "147063",
+    "category": "Electrical Home Appliances",
+    "name": "Table top stove",
+    "description": "Client is a young single mother, providing full time caregiving to her 2yo. She just moved into a rental flat and require basic/essential furnishings and appliances",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Jul 2025"
+  },
+  {
+    "id": "147062",
+    "category": "Electrical Home Appliances",
+    "name": "Rice Cooker (halal)",
+    "description": "Client is a young single mother, providing full time caregiving to her 2yo. She just moved into a rental flat and require basic/essential furnishings and appliances",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Jul 2025"
+  },
+  {
     "id": "147061",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -1509,6 +1560,75 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Jun 2025"
+  },
+  {
+    "id": "147071",
+    "category": "Infant and Children Items",
+    "name": "Baby bath tub",
+    "description": "Client (F/37) is the primary caregiver to 5 young children (aged 5 to 14) and is currently expecting her 6th child, with an EDD in November 2025. The family is not receiving financial assistance from SSO. Due to health complications resulting in a high-risk pregnancy, client is currently unemployed and required to remain on strict rest. Her husband undertakes various ad-hoc contract jobs to support the family's basic needs, though income remains irregular and insufficient. Client would benefit greatly from donations of pre-loved or new baby bottles in good condition to help prepare for the arrival of the newborn.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2025"
+  },
+  {
+    "id": "147070",
+    "category": "Infant and Children Items",
+    "name": "Baby bottle",
+    "description": "Client (F/37) is the primary caregiver to 5 young children (aged 5 to 14) and is currently expecting her 6th child, with an EDD in November 2025. The family is not receiving financial assistance from SSO. Due to health complications resulting in a high-risk pregnancy, client is currently unemployed and required to remain on strict rest. Her husband undertakes various ad-hoc contract jobs to support the family's basic needs, though income remains irregular and insufficient. Client would benefit greatly from donations of pre-loved or new baby bottles in good condition to help prepare for the arrival of the newborn.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2025"
+  },
+  {
+    "id": "147069",
+    "category": "Infant and Children Items",
+    "name": "Adjustable baby cot with mattress",
+    "description": "Client (F/24) is a young mom and full-time primary caregiver to 3 young children (F/5) and (M/4) and (F/2). She is currently pregnant with her 4th child and expecting in January 2026. The family is relying on SSO financial assistance to meet their needs as client's spouse (M/30) recently lost his job. Client is unable to afford purchasing baby necessities with her family's limited income. She was previously working part-time but is unable to continue due to the physical demands.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2025"
+  },
+  {
+    "id": "147067",
+    "category": "Infant and Children Items",
+    "name": "Toys for 0 - 12m",
+    "description": "For low income families with unsupported pregnancies.",
+    "specifications": null,
+    "contact": {
+      "org": "Lakeside Family Services - Safe Place",
+      "name": "Linda Lee",
+      "email": "safeplace@lakeside.org.sg",
+      "phone": [
+        "68174202",
+        "88914214"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2025"
   },
   {
     "id": "147014",
@@ -3149,6 +3269,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Jun 2025"
+  },
+  {
+    "id": "147066",
+    "category": "Others",
+    "name": "Umbrellas",
+    "description": "Office requires 10 umbrellas to be placed in office for clients to use when needed",
+    "specifications": "any",
+    "contact": {
+      "org": "SHINE Children and Youth Services - Clementi",
+      "name": "Michelle khoo",
+      "email": "michelle_khoo@shine.org.sg",
+      "phone": [
+        "62869905",
+        "67786867"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2025"
   },
   {
     "id": "147057",
