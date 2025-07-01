@@ -22,6 +22,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147080",
+    "name": "IKEA shoe cabinet",
+    "description": "Shoe cabinet. It is in good working condition except one side of cabinet exposed to rains thus some watermarks",
+    "location": null,
+    "validTill": "05 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": "100 x 35 x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147079",
     "name": "3-seater L-shaped Sofa",
     "description": "3-seater L-shaped Sofa with foot stools",
@@ -36,17 +47,6 @@
     "id": "147076",
     "name": "TV console and coffee table",
     "description": "TV console and coffee table (donating the TV if needed)",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147074",
-    "name": "Wardrobe",
-    "description": "2-doors wardrobe with top cabinet.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "15 Jul 2025",
     "ageInYears": 4,
@@ -121,13 +121,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147039",
-    "name": "2 seater sofa",
-    "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "id": "147083",
+    "name": "mattress",
+    "description": "Always used with a Mattress Cover so the mattress is clean and in good condition.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "30 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "175 x 75 x 85",
+    "ageInYears": 4,
+    "dimensions": "195cm x120 x 20",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147084",
+    "name": "mattress",
+    "description": "Always used with a Mattress Cover so the mattress is clean and in good condition.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "30 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "195cm x120 x 20",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -286,34 +297,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146508",
-    "name": "Study Table",
-    "description": "More then 1.2M",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "14 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146272",
     "name": "Office chair",
     "description": "Still in good conditions",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "06 Jul 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146271",
-    "name": "Study table",
-    "description": "Still in good condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "06 Jul 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -407,17 +396,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "146909",
-    "name": "Egg dispenser",
-    "description": "Sliding egg container for easy access",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "26 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "146711",
     "name": "3M scotch wipe mop",
     "description": "Exclude floor wipes",
@@ -471,17 +449,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "147038",
-    "name": "Commode",
-    "description": "hardly used commode with pot and cover and leg rests that are detachable.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "147054",
@@ -544,17 +511,6 @@
     "description": "Brand new (2 quantities)\nCan arrange at convenient place",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "27 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "146931",
-    "name": "Spin mop set with wheels (NEW)",
-    "description": "New spin mop set. Comes with 2 new mop heads.\nFor easy mopping of floors. \n\nI can deliver to central/south/west areas ONLY",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "04 Jul 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
