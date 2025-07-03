@@ -1,5 +1,16 @@
 [
   {
+    "id": "147141",
+    "name": "Men's shirt",
+    "description": "M&S cotton top for men's. \nLarge size of 4XL.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "02 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "146277",
     "name": "Toddler clothes female",
     "description": "Worn only once. Female toddler clothes",
@@ -22,6 +33,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147140",
+    "name": "Study Chair",
+    "description": "Study chair in good condition. Bought another one so giving this away.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147131",
     "name": "L-Shape SOFA with sign of wear and tear on surface but cushion in good condition.",
     "description": "Cushion cover deteriorated due to direct sunlight. However, cushion quality still good condition. Pretty big L-shape sofa set.",
@@ -29,17 +51,6 @@
     "validTill": "06 Jul 2025",
     "ageInYears": 4,
     "dimensions": "2800cm x 2000cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147129",
-    "name": "mattress",
-    "description": "note :Length is shorter than normal single bed frame. Blue metal frame (with missing wooden slats) is optional and will be disposed if not required. Mattress sits well on the blue frame on the floor as shown in picture. Although frame has legs, it is more stable with the legs folded and tied up.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Jul 2025",
-    "ageInYears": 3,
-    "dimensions": "180 x 90 x 15 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -84,17 +95,6 @@
     "validTill": "05 Jul 2025",
     "ageInYears": 3,
     "dimensions": "100 x 35 x 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147073",
-    "name": "Kitchen Rack",
-    "description": "Wooden rack for kitchen use.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -504,6 +504,28 @@
     "dimensions": "200cm x 90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "147146",
+    "name": "Mobile Phone Cases Pixel 8 Pro",
+    "description": "Phone cases for Pixel 8 Pro - 7 pcs\n- 2 x Otterbox\n- 2 x Waterproof\n- 1 x 3rd Party Magsafe\n- 1 x Rhinoshield\n- 1 x UFlaxe\n\niPhone 15Pro cases\n- 1 x Otterbox Magsafe\n- 1 x Catalyst Magsafe",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "02 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "147139",
+    "name": "Laptop bag",
+    "description": "Used laptop bag. \nAble to sling, use as a backpack when carry laptop.",
+    "location": "Fernvale",
+    "validTill": "02 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "147133",
