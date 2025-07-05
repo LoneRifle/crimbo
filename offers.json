@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147209",
+    "name": "Beige 3-seater sofa",
+    "description": "- 3-seater sofa\n- Neutral beige color\n- Removable slipcovers for easy cleaning",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "08 Jul 2025",
+    "ageInYears": 3,
+    "dimensions": "218x88x88",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147205",
     "name": "Sofa",
     "description": "2 seater sofa and ottoman. Scratched by cats, but clean and comfy",
@@ -363,17 +374,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "147203",
-    "name": "Baby carrier",
-    "description": "Used once.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "147202",
     "name": "Baby carrier",
     "description": "Baby carrier, used but still in good condition.",
@@ -548,6 +548,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "147208",
+    "name": "Hospital Bed",
+    "description": "Still in good working condition it comes with air mattress.",
+    "location": null,
+    "validTill": "20 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": "226cm x 104cm x 88cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "147178",
