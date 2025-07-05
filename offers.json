@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147200",
+    "name": "Sofa",
+    "description": "Sofa",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147199",
     "name": "Coffee table",
     "description": "Good condition coffee table with glass top and two bottom drawers",
@@ -306,6 +317,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "147203",
+    "name": "Baby carrier",
+    "description": "Used once.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "147202",
+    "name": "Baby carrier",
+    "description": "Baby carrier, used but still in good condition.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "147132",
