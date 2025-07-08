@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "147141",
-    "name": "Men's shirt",
-    "description": "M&S cotton top for men's. \nLarge size of 4XL.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "02 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "147172",
     "name": "Microwave",
     "description": "Used microwave. Might have abit of lingering smell.heavily used.",
@@ -44,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "147271",
-    "name": "Sliding Cupboard",
-    "description": "Scandinavian wood, sliding door cupboard. Very good condition. Requires disassembly & move from upper level of mansionette. Lift landing available on every floor.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": "160 x 60 x 200 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "147254",
     "name": "Console or seating for 4-5 persons + storage",
     "description": "sturdy storage to store things and can be for tv or seating for 4-5 persons too.",
@@ -62,17 +40,6 @@
     "validTill": "16 Jul 2025",
     "ageInYears": 4,
     "dimensions": "L207 x H54 x D49",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147253",
-    "name": "Single bed mattresses and bed frame x2",
-    "description": "Black bed frame single size also comes with mattress. Have 2 sets. It is dismantled. Used less than 2 years",
-    "location": null,
-    "validTill": "31 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -148,17 +115,6 @@
     "description": "2 seater sofa and ottoman. Scratched by cats, but clean and comfy",
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "09 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147200",
-    "name": "Sofa",
-    "description": "Sofa",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jul 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -383,6 +339,17 @@
     "dimensions": "42x75X23 inch",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "147275",
+    "name": "Stroller prem",
+    "description": "All in working condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "147231",
