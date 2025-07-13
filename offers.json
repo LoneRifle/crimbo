@@ -22,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "147389",
+    "name": "Washing machine",
+    "description": "Used but in good condition",
+    "location": null,
+    "validTill": "12 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "55cm x 59cm x 85cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147388",
+    "name": "Fridge",
+    "description": "Used but in very good condition",
+    "location": null,
+    "validTill": "12 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "64cm x 64cm x 167cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "147326",
     "name": "Airleo mobile cooling device",
     "description": "Used items",
@@ -53,6 +75,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147387",
+    "name": "32L Storage Box/ Cabinet",
+    "description": "10 Multi-purpose white Storage box/cabinet that can be used as wardrobe storing clothes or any other items. Stackable and configurable according to needs. Good condition.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "147383",
