@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "147437",
+    "name": "LG fridge",
+    "description": "Black LG fridge with Smart Inverter Compressor 10 year Warranty",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "70x175x67cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "147399",
     "name": "Philips LED TV",
     "description": "Working condition. Dimensions include stand.",
@@ -66,13 +77,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "147415",
-    "name": "King Size Mattress",
-    "description": "5 year old king-sized King Koil mattress",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "07 Aug 2025",
+    "id": "147435",
+    "name": "Study table",
+    "description": "More than 5 yrs old but still in good condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "60 cm x 106cm x 76cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147433",
+    "name": "Single bed with mattress",
+    "description": "Wooden frame single bed with mattress",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "202cm x 101cm x 93cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -528,6 +550,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "147434",
+    "name": "Piano",
+    "description": "Upright piano",
+    "location": null,
+    "validTill": "31 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "147327",
     "name": "Exercise equipment",
     "description": "Used",
@@ -616,17 +649,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "147224",
-    "name": "Commode chair",
-    "description": "Commode chair with U-shaped opening. Still in good condition as never used. Can be folded.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "01 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": "51cm x 45cm x 97cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "146846",
     "name": "Oxygen Concentrator",
     "description": "For elderly who needs breathing aid with oxygen at home.",
@@ -660,6 +682,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "147436",
+    "name": "Wheelchair",
+    "description": "More than 5 yrs old but still in useable condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "106cm x 63cm x 96cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "147402",
     "name": "Geriatric chair",
     "description": "Around 10 years old but still functional",
@@ -674,17 +707,6 @@
     "id": "147385",
     "name": "Hospital Bed",
     "description": "Hospital Bed",
-    "location": null,
-    "validTill": "12 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "147384",
-    "name": "Wheelchair",
-    "description": "Wheelchair",
     "location": null,
     "validTill": "12 Aug 2025",
     "ageInYears": 3,
