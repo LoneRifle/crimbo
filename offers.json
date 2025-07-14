@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "147399",
+    "name": "Philips LED TV",
+    "description": "Working condition. Dimensions include stand.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "25cm x 97cm x 63cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "147326",
     "name": "Airleo mobile cooling device",
     "description": "Used items",
@@ -42,6 +53,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147404",
+    "name": "Small wardrobe",
+    "description": "More than 10 yrs old but still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "56cm x 102cm x 171cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "147383",
@@ -77,24 +99,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147377",
+    "id": "147408",
     "name": "Black leather lounge chair and mattress",
     "description": "Black leather lounge chair and mattress",
     "location": "Farrer Park, Little India, Serangoon Road",
     "validTill": "11 Aug 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147375",
-    "name": "Single bed and mattress",
-    "description": "In good condition with some scratches on the frame.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Jul 2025",
-    "ageInYears": 3,
-    "dimensions": "198 x 100 x 80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -154,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147323",
-    "name": "Green Divan Bed Frame (Single Size)",
-    "description": "Green Divan Bed Frame (Single Size)\n\nDimensions: 201cm (L) × 92cm (W) x 121cm (H)",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "09 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": "201cm (L) × 92cm (W) x 121cm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "147254",
     "name": "Console or seating for 4-5 persons + storage",
     "description": "sturdy storage to store things and can be for tv or seating for 4-5 persons too.",
@@ -216,17 +216,6 @@
     "validTill": "25 Jul 2025",
     "ageInYears": 4,
     "dimensions": "1mx1mx1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147302",
-    "name": "2 single mattress with divan",
-    "description": "Good quality will last long time",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,6 +561,50 @@
     "category": "Learning Aids"
   },
   {
+    "id": "147411",
+    "name": "New Tena pants diapers L size -4pks",
+    "description": "New. Free delivery to Yishun , Canberra & Sembawang only. Please arrange pick up for other areas.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": "L size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "147403",
+    "name": "Aspirator",
+    "description": "Good condition. Hardly used.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "30cm x 17cm x 19cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "147401",
+    "name": "Portable patient hoist",
+    "description": "For transfer of patient between bed and chair",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "100cm x100cm x120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "147400",
+    "name": "Hospital bed",
+    "description": "Electric bed still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "210cm x 95cm x 70cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "147386",
     "name": "Elderly positioning sling and turn over",
     "description": "Elderly transfer sling : bed pad. Brand new not used\nElderly turn over pillow: brand new.",
@@ -636,6 +669,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "147402",
+    "name": "Geriatric chair",
+    "description": "Around 10 years old but still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "104cm x 67cm x 120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "147385",
