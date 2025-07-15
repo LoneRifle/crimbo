@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "147399",
-    "name": "Philips LED TV",
-    "description": "Working condition. Dimensions include stand.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "13 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "25cm x 97cm x 63cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "147326",
     "name": "Airleo mobile cooling device",
     "description": "Used items",
@@ -753,6 +742,28 @@
     "description": "For self-collection/ arranged transport only, will not be able to pay for transport. Will need dismantling before transport.",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "27 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "147468",
+    "name": "Knee brace",
+    "description": "Ascender knee brace adjustable",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "147469",
+    "name": "Knee brace",
+    "description": "Ascender knee brace adjustable",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jul 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
