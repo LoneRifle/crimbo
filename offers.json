@@ -231,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147099",
-    "name": "Ikea Sofa 3- Seater Soderhamn",
-    "description": "Lovely Beige Sofa. big enough to sleep on.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "01 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": "186 cm x 99cm x 69 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "147048",
     "name": "White Bedroom Wardrobe",
     "description": "Not covering delivery charges, self-collection only",
@@ -380,6 +369,17 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "31 Jul 2025",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "147472",
+    "name": "Baby bottles-new & preloved (in good condition)",
+    "description": "Free delivery to Yishun, Canberra & Sembawang",
+    "location": null,
+    "validTill": "09 Aug 2025",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -722,17 +722,6 @@
     "validTill": "20 Jul 2025",
     "ageInYears": 4,
     "dimensions": "226cm x 104cm x 88cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "147114",
-    "name": "Walking stick (adjustable height) + extra rubber caps",
-    "description": "Can be folded (26cm by 14cm when folded).\nHeight adjustable to 84-93cm.\nBought in 2023 but never used as the intended recipient didn't want to even try.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "01 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "see description",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
