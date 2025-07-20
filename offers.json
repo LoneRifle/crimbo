@@ -33,6 +33,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "147627",
+    "name": "Oven",
+    "description": "Electric oven Cornell used less than 10 times \nComes with accessories unused \nGood for small space",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "09 Aug 2025",
+    "ageInYears": 2,
+    "dimensions": "52x33x33",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147626",
+    "name": "Samsung microwave",
+    "description": "Microwave ME83h Samsung\nGood for simple reheating",
+    "location": null,
+    "validTill": "09 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "49x33x33",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "147624",
     "name": "Radio with plug",
     "description": "Radio with tuner",
@@ -75,6 +97,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147625",
+    "name": "Sofa",
+    "description": "Sofa. ~6 years old. Good condition.\nCushions included.\nCan be converted to bed by removing the back rest and side rest.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "04 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "192cm x 95cm x 80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "147621",
