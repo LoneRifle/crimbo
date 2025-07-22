@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147704",
+    "name": "Ikea Black Bedframe with Mattress",
+    "description": "Ikea Black Bedframe with Mattress",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "25 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147683",
     "name": "Sofa bed",
     "description": "More than 9 years old sofa bed from Lifestorey. It’s in decent condition and covered in Onlewo fabric.",
@@ -154,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147621",
-    "name": "2 seater brown sofa",
-    "description": "Lightly used sofa bought by previous landlord for previous tenant, who travelled overseas most of the time.",
-    "location": null,
-    "validTill": "19 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "147611",
     "name": "White side/coffee table",
     "description": "Used but still sturdy. The lower shelf is a bit warp.",
@@ -172,17 +172,6 @@
     "validTill": "15 Aug 2025",
     "ageInYears": 2,
     "dimensions": "90cm X 55cm X 45cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147604",
-    "name": "2-door Cabinet",
-    "description": "In mint condition",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "27 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": "H83cm x W80cm x D40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -231,7 +220,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147510",
+    "id": "147687",
+    "name": "Book Shelf",
+    "description": "Wooden book shelf in excellent condition. Great for books or as a display piece. Contact by Whatsapp please.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "15 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "1m (height) by 1.05m (width)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147688",
     "name": "Book Shelf",
     "description": "Wooden book shelf in excellent condition. Great for books or as a display piece. Contact by Whatsapp please.",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
@@ -342,6 +342,17 @@
   },
   {
     "id": "147653",
+    "name": "2 seater sofa",
+    "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "30 Jul 2025",
+    "ageInYears": 1,
+    "dimensions": "175 x 75 x 85",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147703",
     "name": "2 seater sofa",
     "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
@@ -669,6 +680,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "147684",
+    "name": "Medical Lancet",
+    "description": "Brand new in box Lancets for diabetic blood test.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "21 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "147476",
