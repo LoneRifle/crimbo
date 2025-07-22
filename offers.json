@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "147667",
-    "name": "LG fridge",
-    "description": "Used light only",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "28 Jul 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "147674",
     "name": "Washing machine",
     "description": "Can use for light but centre cover broken.. but still can use",
@@ -99,6 +88,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147676",
+    "name": "Standing Fan",
+    "description": "Fan maybe more than 4 yrs but still works",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "08 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "Diameter of fan blade is 46cm, height of fan stand is 104cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147683",
+    "name": "Sofa bed",
+    "description": "More than 9 years old sofa bed from Lifestorey. It’s in decent condition and covered in Onlewo fabric.",
+    "location": null,
+    "validTill": "21 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147670",
     "name": "Dining table",
     "description": "With 4 chair",
@@ -128,17 +139,6 @@
     "validTill": "01 Aug 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147658",
-    "name": "White Study Table",
-    "description": "5 study tables up for donation",
-    "location": null,
-    "validTill": "01 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": "100x50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -337,17 +337,6 @@
     "validTill": "25 Jul 2025",
     "ageInYears": 4,
     "dimensions": "1mx1mx1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147652",
-    "name": "2 seater sofa",
-    "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "175 x 75 x 85",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -876,17 +865,6 @@
     "validTill": "13 Aug 2025",
     "ageInYears": 4,
     "dimensions": "104cm x 67cm x 120cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "147385",
-    "name": "Hospital Bed",
-    "description": "Hospital Bed",
-    "location": null,
-    "validTill": "12 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
