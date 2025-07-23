@@ -1,5 +1,39 @@
 [
   {
+    "id": "142868",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder & Diapers",
+    "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for the children's needs will helps to minimize the family's expenses.",
+    "specifications": "Dumex Durgo Stage 3, Nestle Lactogen 1 Starter Infant Formula, Drypers Drypantz Carton (XL size), Drypers Dryfants (M Size)",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "23 Jul 2025"
+  },
+  {
+    "id": "145868",
+    "category": "Infant and Children Items",
+    "name": "Diapers and Milk Powder",
+    "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. Support for the children and husband needs will helps to minimize the family's expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
     "id": "147732",
     "category": "Infant and Children Items",
     "name": "Milk Powder (Dumex Dugro Growing Up Milk Stage 3, 1.6kg, 2 tins)",
@@ -1633,6 +1667,91 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jun 2025"
+  },
+  {
+    "id": "147755",
+    "category": "Electrical Home Appliances",
+    "name": "Steamer",
+    "description": "One income household, family of 6 (4 young children). Husband is unemployed due to physical health conditions, hence they are tight with money. Wife is requesting for a food steamer to prepare healthy meals for her husband. Family is facing multiple stressors and hence will benefit from the support.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
+    "id": "147754",
+    "category": "Electrical Home Appliances",
+    "name": "Blender",
+    "description": "One income household, family of 6 (4 young children). One parent is unemployed due to physical health conditions, hence they are tight with money. Their pre-loved blender has broke down. Family is facing multiple stressors and hence will benefit from the support.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
+    "id": "133602",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "One income household, family of 6 (4 young children). One parent is unemployed due to physical health conditions, hence they are tight with money. Their pre-loved microwave has broke down. Family is facing multiple stressors and hence will benefit from the support.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
+    "id": "145870",
+    "category": "Electrical Home Appliances",
+    "name": "Dryer",
+    "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. Support for the children and husband needs will helps to minimize the family's expenses. \n\nMother shared that it takes 2 to 3 days for their clothes to dry using the hangers in the unit. As a result, they often have a backlog of laundry and end up spending a significant portion of their money using dryers at the laundromat.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
+    "id": "147753",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "A family of four is moving into their new home (a rental flat). The client is a divorcee and a single mother supporting her four school-going sons. She's currently working, however, she would not be able to afford all furnishings at once. Hence, she hopes to get some furnishings to make her place a home for her sons after not being able to live together for a few years.\n\nLooking for a good condition fridge.",
+    "specifications": "Fridge",
+    "contact": {
+      "org": "Hougang Sheng Hong Family Service Centre",
+      "name": "Putri Illiyana",
+      "email": "putri@shenghong.org.sg",
+      "phone": [
+        "62895022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
   },
   {
     "id": "147748",
@@ -3570,6 +3689,41 @@
     "date": "24 Jun 2025"
   },
   {
+    "id": "147760",
+    "category": "Medical Aids",
+    "name": "Tegaderm Transparent Film Dressing (6 x 7 cm)",
+    "description": "My 57 year old patient has terminal stage cancer. She requires use of tegaderm transparent film dressing (6x7cm) on an ongoing basis - any quantity is appreciated. \n\nFamily is in financial difficulties and struggling to afford the diapers as she does not qualify for consumables subsidy due to her age. \n\nAppreciate if donor can contact me on Whatsapp at 9727 4215. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Lim Yi Xi",
+      "email": "yixi_lim@singaporecancersociety.org.sg",
+      "phone": [
+        "97274215",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
+    "id": "145871",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Client is an elderly woman currently experiencing mobility issues following a recent fall, and she requires time to recover. As a result, she is dependent on the use of adult diapers and she is unable to work. With no current source of income, she is facing challenges in meeting her basic needs. Support for her elderly care needs would help to ease her financial burden and reduce her essential expenses.",
+    "specifications": "Size XL",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Kelly Lim",
+      "email": "kelly.lim@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
+  },
+  {
     "id": "147699",
     "category": "Medical Aids",
     "name": "Tena Adult Diapers [PROskin Pants, Size: XL, 2 packs]",
@@ -3863,23 +4017,6 @@
       "email": "harrysuhaimi@kkcs.org.sg",
       "phone": [
         "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jul 2025"
-  },
-  {
-    "id": "147707",
-    "category": "Home Furnishing",
-    "name": "Queen-size Mattress",
-    "description": "Client is a caregiver for her husband, who recently had a stroke. Due to his stroke, he is currently unemployed and is relying on financial assistance. The couple has been using the mattress for many years.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Yishun",
-      "name": "Adeline Tan",
-      "email": "adeline.tan@montfortcare.org.sg",
-      "phone": [
-        "64848040"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4495,6 +4632,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Jun 2025"
+  },
+  {
+    "id": "147756",
+    "category": "Others",
+    "name": "Hot and Cold water Dispender",
+    "description": "Client is a family with two school-going children, where the father is the sole breadwinner and Client takes on ad-hoc jobs to help make ends meet. They are in need of a water dispenser that can provide both hot and cold water, which would greatly ease their daily routine—especially in preparing meals and drinks for the children. Despite their best efforts, this added convenience is currently out of reach for them, and we are appealing for a kind donation to help meet this need.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2025"
   },
   {
     "id": "147743",
