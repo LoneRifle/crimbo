@@ -88,6 +88,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147825",
+    "name": "Super Single Wood Bed and mattress",
+    "description": "Seahorse brand - wooden Super single bed.\nHas 3 huge space drawers\nInclude a super single mattress.",
+    "location": null,
+    "validTill": "15 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "107cm wide and 190cm long (42 inches x 75 inches)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147823",
+    "name": "Sofa",
+    "description": "2 seater sofa\nHeidine Arm Sofa originally priced at 1600\nNot utilized well. \nSingle person at home.\n\nCollection service must have at least 2 or 3 people and hopefully with big trolley to pick up. \nMust advice collection date at least 1 wk advance to get permit from the admin\n\nFloor is 38th floor with lift",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "23 Aug 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147820",
     "name": "Arm Chair Sofa",
     "description": "2 units of Cellini sofa chairs to give away.\nCushion covers are washable.\nComfortable sofa.",
@@ -132,17 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147785",
-    "name": "80cm round white table",
-    "description": "Round 80cm diameter white table with pedestal leg support, space saving.",
-    "location": null,
-    "validTill": "04 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": "80cm x 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "147783",
     "name": "Wooden Indoor/Outdoor Side/Coffee Table",
     "description": "wood square table\nNatural wood finish\nLight weight design for light load\nCan be used as a side table",
@@ -172,17 +183,6 @@
     "validTill": "28 Jul 2025",
     "ageInYears": 1,
     "dimensions": "L:1.5M, B:0.7M, H:0.75M (WALNUT TABLE W IN BUILT DRAWER)  DIAMETER:94CM (CIRCULAR SHAPE TABLE)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147750",
-    "name": "CHAIRS",
-    "description": "GREY ONE - 15 PCS\nBLACK ONE - 6 PCS\nIKEA ORANGE FOLDABLE CHAIRS - 4 PCS",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "28 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -757,6 +757,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "147824",
+    "name": "Sunlift Patient Hoists",
+    "description": "Sunlift Patient Hoists. In good condition.",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "23 Aug 2025",
+    "ageInYears": 2,
+    "dimensions": "Refer to Sunlift Manul for full Spec",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "147822",
+    "name": "Electric Hospital Bed",
+    "description": "Bed in good condition. Comes with Air pressure mat and pump.",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "23 Aug 2025",
+    "ageInYears": 2,
+    "dimensions": "2.2m (L) x 1m (W)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "147821",
+    "name": "Philip Nebulizer",
+    "description": "Philip Nebuliser Compressor System",
+    "location": null,
+    "validTill": "23 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "147684",
