@@ -33,12 +33,23 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "147891",
-    "name": "rice and soup cookers",
-    "description": "one small rice cooker for 2 person use and one pressure cooker for cooking soup.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "27 Aug 2025",
-    "ageInYears": 2,
+    "id": "147909",
+    "name": "Washing machine ELBA EWD7512VT",
+    "description": "Well used but still in working condition",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147908",
+    "name": "Hitachi fridge",
+    "description": "Well used, but still in working condition",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "31 Jul 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -119,6 +130,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "147900",
+    "name": "Leather Sofa",
+    "description": "Grey Leather Sofa",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "147871",
@@ -922,6 +944,17 @@
     "dimensions": "104cm x 67cm x 120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "147902",
+    "name": "myotein powder",
+    "description": "5 cans myotein powder \nExpiry 09/2026",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "27 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "147892",
