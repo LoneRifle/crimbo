@@ -132,6 +132,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147973",
+    "name": "Electrical bed for senior",
+    "description": "Less than 1 year. Bion brand",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "08 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "147972",
+    "name": "Recliner chair for senior",
+    "description": "Less than 1 year",
+    "location": null,
+    "validTill": "08 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147970",
     "name": "Queen size mattress",
     "description": "Neat and clean queen size mattress\nno damage, no bugs",
@@ -792,17 +814,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "147867",
-    "name": "Jelly moulds",
-    "description": "Jelly moulds there's no valid date",
-    "location": null,
-    "validTill": "26 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "147850",
     "name": "Coffee cup",
     "description": "2 coffee glass cups.",
@@ -1021,6 +1032,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "147974",
+    "name": "Commode",
+    "description": "Less than 1 year",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "08 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "147955",
