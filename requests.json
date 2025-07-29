@@ -1,5 +1,41 @@
 [
   {
+    "id": "147949",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Single mum with her two young daughters, aged 3 and 9 years old. They live in a one-room rental flat. They have a wardrobe, but it's already in very poor condition i.e wardrobe door coming off. Hence, they hope to secure another wardrobe that is in good working condition.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Vanessa Ong",
+      "email": "vanessa_ong@msf.gov.sg",
+      "phone": [
+        "63549538",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2025"
+  },
+  {
+    "id": "147944",
+    "category": "Home Furnishing",
+    "name": "mattress",
+    "description": "Elderly client with mobility issues requires a clean mattress for his use. Current bed is dirty and filled with bedbugs.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Muhammad Shahideen",
+      "email": "shahideen.m@montfortcare.org.sg",
+      "phone": [
+        "96585479",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2025"
+  },
+  {
     "id": "147942",
     "category": "Home Furnishing",
     "name": "single size mattress",
@@ -12,24 +48,6 @@
       "phone": [
         "65939576",
         "66619545"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jul 2025"
-  },
-  {
-    "id": "147937",
-    "category": "Home Furnishing",
-    "name": "Storage cabinet",
-    "description": "Single-mum family with two young girls aged 3 and 9 years old. They live in a small one-room rental flat. They are hoping to get another storage cabinet to better organise the things they currently have, so that their space will not be so cramped.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Vanessa Ong",
-      "email": "vanessa_ong@msf.gov.sg",
-      "phone": [
-        "63549538",
-        "64244017"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -116,24 +134,6 @@
       "email": "meiqing@sccfsc.org.sg",
       "phone": [
         "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Jul 2025"
-  },
-  {
-    "id": "147831",
-    "category": "Home Furnishing",
-    "name": "Adjustable study table",
-    "description": "Family has requested for an adjustable table that can last her son throughout preschool and primary school. Due to previously failed business, family has accumulated large outstanding loans. The parents' income can hardly cover monthly loan returns and daily living expenses (e.g. food/ groceries), as such, family is unable to afford a study table for their 6-year-old son.",
-    "specifications": "140cm x 70cm",
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Terene Tan",
-      "email": "terene_tan@msf.gov.sg",
-      "phone": [
-        "97491441",
-        "67660097"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2020,17 +2020,35 @@
     "date": "29 Jun 2025"
   },
   {
-    "id": "147941",
+    "id": "147948",
     "category": "Electrical Home Appliances",
-    "name": "Electric kettle",
-    "description": "Client is a 76-year-old stay-alone senior, with no familial support. She is currently retired, with limited financial resources to get by. As such, she has been unable to replace her electrical kettle on her own, and requires assistance to do so.",
-    "specifications": null,
+    "name": "Top-loading Washing Machine (7.5 kg)",
+    "description": "Elderly malay uncle 65 yrs old living in HDB rental flat needs top-loading washing machine. His current washing machine has broken down. Because of the space problem, the ideal size would be around 7.5 kg. Many Thanks.",
+    "specifications": "7.5 kg",
     "contact": {
-      "org": "Care Corner - Community Case Management Service Central",
-      "name": "Alethia Toh",
-      "email": "alethiatoh@carecorner.org.sg",
+      "org": "Moral Active Ageing Centre @ Kaki Bukit",
+      "name": "Gary Tan",
+      "email": "garytan@chkmps.org.sg",
       "phone": [
-        "62586601"
+        "64486247"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2025"
+  },
+  {
+    "id": "147945",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "A single elderly man is in need of a microwave to heat up simple meals. Both new or second-hand options would be suitable.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Tsao Foundation - Hua Mei Clinic",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "66619545"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4229,6 +4247,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Jun 2025"
+  },
+  {
+    "id": "147947",
+    "category": "Others",
+    "name": "laptop",
+    "description": "Young couple with low financial situation requires working laptop for employment purposes. Husband is working odd jobs to sustain family.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Muhammad Shahideen",
+      "email": "shahideen.m@montfortcare.org.sg",
+      "phone": [
+        "96585479",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2025"
+  },
+  {
+    "id": "147943",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "Homeless client requiring a phone for his everyday use and employment needs in order to build up his finances.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Muhammad Shahideen",
+      "email": "shahideen.m@montfortcare.org.sg",
+      "phone": [
+        "96585479",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2025"
   },
   {
     "id": "147893",

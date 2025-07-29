@@ -1,5 +1,27 @@
 [
   {
+    "id": "147952",
+    "name": "Ladies Clothing",
+    "description": "All lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "147950",
+    "name": "Maternity Clothes",
+    "description": "Size m to l \n\nNursing bras, nursing tops (Lovemere), maternity pants and a pair of maternity jeans (H&M Mama) included in this bundle.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "147413",
     "name": "Maternity clothes",
     "description": "I have about 15-20 pieces of maternity/nursing clothes in very good condition for donation. Size L-XL (US8-10).\n\nIncludes nursing tops, dressers and leggings.",
@@ -359,17 +381,6 @@
     "validTill": "31 Jul 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147703",
-    "name": "2 seater sofa",
-    "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "30 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "175 x 75 x 85",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -968,17 +979,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "147919",
-    "name": "BION Lightweight Traveller Wheelchair",
-    "description": "lightweight wheelchair (foldable for travelling)- 9.6kg, can take 80kg weight.",
-    "location": null,
-    "validTill": "27 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "51x98x97cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "147918",
     "name": "Portable Electric Nursing Bed",
     "description": "Portable Electric Nursing Bed (place on existing bed), an alternative to hospital bed.",
@@ -1065,6 +1065,17 @@
     "dimensions": "104cm x 67cm x 120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "147951",
+    "name": "Computer table",
+    "description": "a two-tier computer table, great for compact spaces",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "120(L) x 70(W) x 130(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "147902",
