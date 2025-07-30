@@ -1,5 +1,39 @@
 [
   {
+    "id": "147994",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client is currently living alone with her daughter. Their existing cupboard is damaged and no longer usable. She urgently requires two cupboards, one for herself and one for her daughter.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Sarasvathi D/O Segar",
+      "email": "sarasvathi.segar@montfortcare.org.sg",
+      "phone": [
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "30 Jul 2025"
+  },
+  {
+    "id": "147992",
+    "category": "Home Furnishing",
+    "name": "Single-size bed with mattress",
+    "description": "Client is living with her school-going son in HDB public rental flat and has been unemployed for the past few years due to her medical conditions. Her husband was sent to a nursing home about 3 years ago as he had a stroke and Client could not take care of him as he is bedbound. Due to limited family support, Client has to take over the caregiving duties for her elderly mother who is diagnosed with dementia. To ensure her mother's well-being, client is in need of a single-size bed to sleep on, and the family lacks the financial means to purchase a single-size bed. Hence, the provision of a single-size bed would allow more comfort for client's mother in a different environment.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Patricia Poo",
+      "email": "patriciapoo@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
+  },
+  {
     "id": "142263",
     "category": "Home Furnishing",
     "name": "Gas/Kitchen Cabinet",
@@ -681,6 +715,23 @@
     "date": "30 Jun 2025"
   },
   {
+    "id": "147998",
+    "category": "Infant and Children Items",
+    "name": "Baby carrier",
+    "description": "Young mother is looking for a baby carrier as her infant has outgrown their newborn-sized carrier. Her baby is currently 3-months-old.",
+    "specifications": "3-6 months",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
+  },
+  {
     "id": "144852",
     "category": "Infant and Children Items",
     "name": "Fairprice Diapers XL",
@@ -1307,24 +1358,6 @@
     "category": "Infant and Children Items",
     "name": "Milk Powder [Wyeth S-26 Gold PROMIL (Stage 2), 2 tins]",
     "description": "A teenage mother who is currently a student and residing in a rental flat is in need of support with milk powder supplies for her child.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
-      "phone": [
-        "60384207",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jul 2025"
-  },
-  {
-    "id": "147690",
-    "category": "Infant and Children Items",
-    "name": "Pant Diapers [Any Brand, Size: M, 2 packs]",
-    "description": "A teenage mother who is currently a student and residing in a rental flat is in need of support with diaper supplies for her child.",
     "specifications": null,
     "contact": {
       "org": "Allkin Family Service Centre @ Cheng San 445",
@@ -2019,6 +2052,58 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "29 Jun 2025"
+  },
+  {
+    "id": "147993",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Single mother with child with developmental needs. Needs washing machine, stand fan, wardrobe and kitchen sink for her new rental flat. Transport needed also.",
+    "specifications": null,
+    "contact": {
+      "org": "KK Women's &amp; Children's Hospital - Medical Social",
+      "name": "Majella Irudayam",
+      "email": "Majella.Irudayam@kkh.com.sg",
+      "phone": [
+        "63941637",
+        "62255554"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
+  },
+  {
+    "id": "147990",
+    "category": "Electrical Home Appliances",
+    "name": "2 or 3 door refrigerator for Muslim client",
+    "description": "Client is single; living alone and have mental health condition. He requires a refrigerator for his daily needs as he needs to store his frozen food for cooking.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Patricia Poo",
+      "email": "patriciapoo@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
+  },
+  {
+    "id": "147989",
+    "category": "Electrical Home Appliances",
+    "name": "9KG Washing machine (Urgent)",
+    "description": "Client is single; living alone and have mental health condition. He requires a washing machine for his daily needs as he is unable to handwash due to his condition.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Patricia Poo",
+      "email": "patriciapoo@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
   },
   {
     "id": "146948",
@@ -4199,6 +4284,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "30 Jun 2025"
+  },
+  {
+    "id": "147997",
+    "category": "Others",
+    "name": "Long Mirror",
+    "description": "Family of 3 shifted to a rental flat in Yishun and lacked some basic furnishing in the house",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Edwin Wee",
+      "email": "edwin_kh_wee@msf.gov.sg",
+      "phone": [
+        "62319460",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
+  },
+  {
+    "id": "147996",
+    "category": "Others",
+    "name": "Shoe Rack",
+    "description": "Family of 3 shifted to a rental flat in Yishun and lacked some basic furnishing in the house",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Edwin Wee",
+      "email": "edwin_kh_wee@msf.gov.sg",
+      "phone": [
+        "62319460",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2025"
   },
   {
     "id": "147981",
