@@ -55,7 +55,7 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148074",
+    "id": "148081",
     "name": "LG washing machine",
     "description": "Quite new washing machine and working very well, but I am moving and dont need it already",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -132,6 +132,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148084",
+    "name": "dining table with 2 chairs",
+    "description": "This is a wooden dinning table with two chairs in good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148083",
+    "name": "bed frame and mattress king size",
+    "description": "This is a 3 years old Tempur mattress, in good condition. We would like to move to a smaller condo so wanted to get rid of the king size mattress.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "King size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148082",
+    "name": "Brown leather recliner",
+    "description": "Brown leather recliner very good condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148072",
     "name": "Wooden tv cabinet",
     "description": "Wooden tv cabinet or dining cabinet- solid wooden to look antique\nWooden table with steel legs - industrial looking style with 6 plastic chairs",
@@ -205,17 +238,6 @@
     "validTill": "29 Aug 2025",
     "ageInYears": 3,
     "dimensions": "110 cm by 190 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147972",
-    "name": "Recliner chair for senior",
-    "description": "Less than 1 year",
-    "location": null,
-    "validTill": "08 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -403,6 +425,28 @@
     "validTill": "13 Aug 2025",
     "ageInYears": 4,
     "dimensions": "60 cm x 106cm x 76cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148077",
+    "name": "Small wardrobe",
+    "description": "More than 10 yrs old but still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "56cm x 102cm x 171cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148078",
+    "name": "Small wardrobe",
+    "description": "More than 10 yrs old but still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "56cm x 102cm x 171cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -737,6 +781,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "148079",
+    "name": "Dining wares",
+    "description": "In good condition",
+    "location": null,
+    "validTill": "11 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "147964",
     "name": "Fridge/washer stand",
     "description": "4 pieces.",
@@ -856,28 +911,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "148066",
-    "name": "Barrier creams and moisturiser",
-    "description": "- Secura Extra Protective Cream x3 bottles\n- Baritex hand and body cream x1 bottle\n- 3M Cavilon Barrier Cream x1 bottle\n- Aqurea moisturising cream x1 bottle",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "148065",
-    "name": "Adult Tape Diapers Size M",
-    "description": "TENA Value Adult Tape Diapers\nSize M\n2 cartons x 8 packs x 12pc",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": "49cm x 39cm x 50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "147824",
