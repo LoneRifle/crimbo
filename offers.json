@@ -55,28 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148102",
-    "name": "Multi Purpose Cooker x 2",
-    "description": "Multi Purpose Cooker 1 - new\nMulti Purpose Cooker 2 - used for about 3 years\n\nSelf-collect preferred. If its at Sengkang Area, I can most likely deliver.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Sep 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148101",
-    "name": "Ceramic Cooking Pot",
-    "description": "New. Never use before.\nSelf-collect preferred. If its at Sengkang Area, I can most likely deliver.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148061",
     "name": "Refrigerator",
     "description": "Item in good working condition.\nJust that when delivery come to pickup, they have to be able to remove the fridge door and reattach.\nFridge upon purchase and delivery was too big for front door.\nSo going through our front door have to remove and reattach front door of refrigerator.\nDelivery personnel have to take note.",
@@ -205,17 +183,6 @@
     "validTill": "10 Aug 2025",
     "ageInYears": 4,
     "dimensions": "Standard",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148063",
-    "name": "Super Single mattress and bedframe",
-    "description": "supersingle mattress + bedframe\nbrand new, not used. \nheadboard height 36\"\nL78\" x D42\" x H36\"\n\n***Donor is unable to pay for delivery, pls arrange for delivery***",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "03 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -515,6 +482,17 @@
     "dimensions": "201cm (L) × 92cm (W) x 121cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148103",
+    "name": "Water bottle",
+    "description": "Water bottle",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148086",
@@ -825,6 +803,50 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "148107",
+    "name": "Therm flask",
+    "description": "Kept away for long time",
+    "location": null,
+    "validTill": "02 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "148106",
+    "name": "Food container",
+    "description": "Good to Dabao 3 didh",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "148105",
+    "name": "Lunch box small",
+    "description": "Never been used",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "148104",
+    "name": "Lunch box mid size",
+    "description": "Never been used",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "148079",
     "name": "Dining wares",
     "description": "In good condition",
@@ -896,39 +918,6 @@
     "description": "New and unused but kept in storage for some time. One person to take all. Self-collection at home address.",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "14 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "147196",
-    "name": "takeaway container - metal",
-    "description": "Stainless steel",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "03 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "147195",
-    "name": "Lunch box small",
-    "description": "Good condition just kept for long time",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "03 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "147194",
-    "name": "Lunch box medium size",
-    "description": "Good condition just kept for long time",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "03 Aug 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1261,17 +1250,6 @@
     "validTill": "27 Aug 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "147892",
-    "name": "Thermal/Cooler Bag",
-    "description": "Thermal/Cooler Bag",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "03 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": "48cm x 38cm x 24cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
