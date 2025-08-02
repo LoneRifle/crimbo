@@ -55,12 +55,23 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148081",
-    "name": "LG washing machine",
-    "description": "Quite new washing machine and working very well, but I am moving and dont need it already",
+    "id": "148102",
+    "name": "Multi Purpose Cooker x 2",
+    "description": "Multi Purpose Cooker 1 - new\nMulti Purpose Cooker 2 - used for about 3 years\n\nSelf-collect preferred. If its at Sengkang Area, I can most likely deliver.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "04 Aug 2025",
-    "ageInYears": 2,
+    "validTill": "01 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148101",
+    "name": "Ceramic Cooking Pot",
+    "description": "New. Never use before.\nSelf-collect preferred. If its at Sengkang Area, I can most likely deliver.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Sep 2025",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -963,17 +974,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "01 Sep 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "148097",
-    "name": "Oxygen Concentrator 5 Litre Philips",
-    "description": "Oxygen Concentrator 5 Litres Philips Respironics",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Sep 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
