@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148121",
-    "name": "Electrolux washing machine",
-    "description": "Very good condition washing machine just recently replaced rubber seal now working like new. Valid till 8 Aug as I will be traveling from 10 Aug onwards",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "08 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148109",
     "name": "3M filterete air filter FAP03",
     "description": "Have to purchase filter on your own to change the existing filter",
@@ -130,17 +119,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148120",
-    "name": "Tan leather sofa",
-    "description": "Sofa in good condition",
-    "location": null,
-    "validTill": "08 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "1.9m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "148119",
@@ -537,6 +515,17 @@
     "dimensions": "201cm (L) × 92cm (W) x 121cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148127",
+    "name": "Baby carrier",
+    "description": "Baby carrier from 1 month old to 3 yrs old depending on the child weights. Still in good condition and well maintain.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148103",
@@ -957,17 +946,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "147986",
-    "name": "Casio Digital Piano",
-    "description": "Casio Digital Piano CDP-S110. Bought in Sept 2023 with stand. Hardly used.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "13 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "1,322 x 232 x 99 mm (without stand)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "147928",
     "name": "YAMBA BLUE CORAIL Skateboard",
     "description": "This cruiser is ideal for short trips around town. Its soft wheels let you ride on any paved surface while its small size makes it easy to carry.",
@@ -1092,6 +1070,17 @@
     "id": "148096",
     "name": "Ramp Aluminium Bifold",
     "description": "Ramp Aluminium Bifold",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "01 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "148095",
+    "name": "WHEELCHAIR APLUS LIGHTWEIGHT TILT-IN-SPACE PUSHCHAIR",
+    "description": "WHEELCHAIR APLUS LIGHTWEIGHT TILT-IN-SPACE PUSHCHAIR\nFOLDABLE AND WITH ADJUSTABLE AND DETACHABLE HANDRESTS AND FOOTRESTS",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "01 Sep 2025",
     "ageInYears": 4,
