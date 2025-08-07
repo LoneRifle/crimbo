@@ -154,6 +154,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148222",
+    "name": "Baby Cot",
+    "description": "One baby cot which can be converted to a toddler's bed. Above indicated dimensions are recommendations for the mattress. It is still in very good condition, except that the fastening for the bed is a bit loose on the end side.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "685mm x 1290mm x 100mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148213",
     "name": "Queen-size bed frame only",
     "description": "This is an IKEA wooden bed, that's why the dimensions are a little different, but it is big enough to fit a queen-size mattress. \nThe headboard height is 92cm, and the footboard height is 32cm. \nThis is in good condition and easy to maintain; just needs wiping every now and then.",
@@ -625,6 +636,28 @@
     "dimensions": "201cm (L) × 92cm (W) x 121cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148224",
+    "name": "Nuna Leaf",
+    "description": "Gently sways side-to-side for about 2 minutes with a single push (no motor, no batteries).\n\nHas one fixed recline position (not adjustable).\n\nComes with a non-removable 3-point harness.\n\nIncludes an organic infant insert and mesh backrest for breathability.\n\nSuitable from newborn up to 60 kg (130 lbs), though more ideal for infants.\n\nQuiet, sturdy, and minimalistic design",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "06 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "73 x 71 x 45 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148221",
+    "name": "Baby Cot with Mattress",
+    "description": "Used baby cot and mattress",
+    "location": null,
+    "validTill": "30 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148187",
@@ -1191,17 +1224,6 @@
     "id": "148092",
     "name": "Geriatric Chair",
     "description": "Geriatric Chair (BION) with reclining and wheels",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "148091",
-    "name": "Hospital Bed",
-    "description": "Hospital Bed with pressure relief Foam Mattresses and Air Mattress with air pump",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "01 Sep 2025",
     "ageInYears": 4,
