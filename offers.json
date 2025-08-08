@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "148255",
+    "name": "Stand fan",
+    "description": "Item is older than 4 years. Old stand fan. In working condition. The on/off sensor is not so sensitive and so sometimes it needs to be pressed more than once.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "16 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "One metre high",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "148254",
     "name": "Tefal  Air Fyer",
     "description": "Workable Air fyer for donation.",
@@ -62,17 +73,6 @@
     "validTill": "15 Aug 2025",
     "ageInYears": 3,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148214",
-    "name": "Induction Cooker (2)",
-    "description": "These two induction cookers are well-used but in good condition. Can arrange delivery.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "22 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -205,17 +205,6 @@
     "validTill": "06 Sep 2025",
     "ageInYears": 1,
     "dimensions": "685mm x 1290mm x 100mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148213",
-    "name": "Queen-size bed frame only",
-    "description": "This is an IKEA wooden bed, that's why the dimensions are a little different, but it is big enough to fit a queen-size mattress. \nThe headboard height is 92cm, and the footboard height is 32cm. \nThis is in good condition and easy to maintain; just needs wiping every now and then.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "22 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "158cm width x 209cm length x 92cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1338,28 +1327,6 @@
     "validTill": "05 Sep 2025",
     "ageInYears": 2,
     "dimensions": "150x200cm quilt, 220x220cm duvet + covers",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "148205",
-    "name": "Clothes rack iron board",
-    "description": "Clothes rack and iron board in excellent condition. Seldom used",
-    "location": null,
-    "validTill": "05 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "148186",
-    "name": "Nike kids clothes (brand new)",
-    "description": "Kids clothes for 10 years old. \nBrand new.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
