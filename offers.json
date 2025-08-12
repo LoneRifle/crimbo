@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148208",
-    "name": "Wooden waredrobe  cabinet",
-    "description": "Is in good condition.\n\nTo pick up on 7th Aug from 3pm to 5pm at: blk 107 Jln Rajah #11-104 Spore 320107",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "18 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "35 x20 x42",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "148209",
     "name": "Wooden waredrobe  cabinet",
     "description": "Is in good condition.\n\nTo pick up on 7th Aug from 3pm to 5pm at: blk 107 Jln Rajah #11-104 Spore 320107",
@@ -174,6 +163,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148350",
+    "name": "Queen size mattress",
+    "description": "This mattress is around 6+ years old. Removal date can be arranged. Not necessary 12 Sep 25",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "11 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "152/195/19",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "148340",
@@ -1243,17 +1243,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "147824",
-    "name": "Sunlift Patient Hoists",
-    "description": "Sunlift Patient Hoists. In good condition.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "23 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "Refer to Sunlift Manul for full Spec",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "147821",
     "name": "Philip Nebulizer",
     "description": "Philip Nebuliser Compressor System",
@@ -1283,17 +1272,6 @@
     "validTill": "13 Aug 2025",
     "ageInYears": 3,
     "dimensions": "30cm x 17cm x 19cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "147401",
-    "name": "Portable patient hoist",
-    "description": "For transfer of patient between bed and chair",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "13 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "100cm x100cm x120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
