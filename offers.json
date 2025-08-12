@@ -176,6 +176,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148340",
+    "name": "Dinner Table",
+    "description": "Good condition. Well Kept. with 6 chairs",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "3' x 5'",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148333",
     "name": "Solid wood King size bed with mattress",
     "description": "Brand new hardly use. Solid wood King size bed. White Leather upholstery on head board was repainted blue as it had become yellow( with time)",
@@ -436,17 +447,6 @@
     "validTill": "13 Aug 2025",
     "ageInYears": 2,
     "dimensions": "70x110x74",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148192",
-    "name": "Mattress",
-    "description": "A single mattress in great condition",
-    "location": null,
-    "validTill": "31 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -713,6 +713,28 @@
     "dimensions": "56cm x 102cm x 171cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148344",
+    "name": "Children Items",
+    "description": "Item is in good condition, no defects",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "184cmx123cmx5mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148341",
+    "name": "Clothing & Bedding",
+    "description": "Items are in good condition",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148288",
@@ -1010,6 +1032,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "148336",
+    "name": "Kitchenware",
+    "description": "Items are in good condition",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "148335",
@@ -1384,6 +1417,17 @@
     "dimensions": "104cm x 67cm x 120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "148338",
+    "name": "Containers",
+    "description": "Email me with regards the said item",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "148331",
