@@ -44,12 +44,23 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148368",
-    "name": "CCTV",
-    "description": "Xiao Mi CCTV for home",
-    "location": null,
+    "id": "148379",
+    "name": "Ninja Master Prep Blender",
+    "description": "Seldom used powerful blender",
+    "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "12 Sep 2025",
-    "ageInYears": 1,
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148373",
+    "name": "Halogen oven",
+    "description": "Halogen oven still in working condition",
+    "location": null,
+    "validTill": "20 Aug 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -165,6 +176,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148377",
+    "name": "Chair",
+    "description": "The chairs had been in our warehouse for very long time (ard 5 years) and we're no longer need it. Still in good condition.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148361",
     "name": "Computer/ study desk",
     "description": "a compact table with shelf (keyboard) which can be used for desktop or study\nit is in excellent condition",
@@ -223,17 +245,6 @@
     "id": "148320",
     "name": "IKEA arm chair",
     "description": "IKEA arm chair.",
-    "location": "Alexandra/ Redhill/ Tiong Bahru",
-    "validTill": "23 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148319",
-    "name": "Solid wood TV console",
-    "description": "10 years old Solid wood TV console. Very hardy due to the material. 1 side slight peel off at the bottom only, otherwise in good condition. This is good for family that need a solid TV console with storage function.",
     "location": "Alexandra/ Redhill/ Tiong Bahru",
     "validTill": "23 Aug 2025",
     "ageInYears": 4,
@@ -605,6 +616,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "148370",
+    "name": "Leather Sofa",
+    "description": "Grey Leather Sofa",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148371",
+    "name": "Leather Sofa",
+    "description": "Grey Leather Sofa",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147857",
     "name": "Footstool",
     "description": "Footstool 28cm x 28cm x H34cm",
@@ -682,6 +715,50 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "148378",
+    "name": "Foldable Stroller",
+    "description": "Lightly used blue stroller in good condition",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "12 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148376",
+    "name": "Baby Clothes",
+    "description": "Baby boy and girl clothes, various sizes, dresses, long sleeves tops, short sleeve tops, onesies, shorts, long pants, hats",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148375",
+    "name": "Baby Clothes",
+    "description": "Baby boy and girl clothes, various sizes, dresses, long sleeves tops, short sleeve tops, onesies, shorts, long pants, hats",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148374",
+    "name": "Baby Clothes",
+    "description": "Baby boy and girl clothes, various sizes, dresses, long sleeves tops, short sleeve tops, onesies, shorts, long pants, hats",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "148356",
     "name": "Milk Bottles",
     "description": "Different size milk bottles to donate with different size teats",
@@ -704,34 +781,12 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "148341",
-    "name": "Clothing & Bedding",
-    "description": "Items are in good condition",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "148288",
     "name": "Clothes for 1-3yr old Girl",
     "description": "All well-maintained and clean.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "25 Aug 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148267",
-    "name": "Lucky Baby S12 Playpen",
-    "description": "Blessing away this lightly used playpen (comes with mattress) that is at my in laws. Used less than 4 times but giving away due to lack of storage space.\n\nIt’s hard to dismantle this item but will be happy to arrange with a VWO for a courier that can help deliver this from my in laws to the subsidiary. Will pay for the delivery fees.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "08 Sep 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -1268,17 +1323,6 @@
     "id": "148092",
     "name": "Geriatric Chair",
     "description": "Geriatric Chair (BION) with reclining and wheels",
-    "location": "SIMEI",
-    "validTill": "01 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "148353",
-    "name": "Hospital Bed",
-    "description": "Hospital Bed with pressure relief Foam Mattresses and Air Mattress with air pump",
     "location": "SIMEI",
     "validTill": "01 Sep 2025",
     "ageInYears": 4,
