@@ -165,6 +165,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148414",
+    "name": "2 seater sofa (armless)",
+    "description": "Grey fabric 2 seater armless sofa, 160cm",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "160cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148409",
     "name": "Maxcoil Single mattress",
     "description": "Maxcoil Single Mattress 16cm thick.\nLight stain in 1 corner, otherwise in good condition",
@@ -172,17 +183,6 @@
     "validTill": "22 Aug 2025",
     "ageInYears": 4,
     "dimensions": "Standard single mattress 16cm thick",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148398",
-    "name": "2 & 3 door wardrobe",
-    "description": "2 & 3 door wardrobe that are still in good condition. Can only be collected on 30 Sepetember 2025.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "13 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1298,17 +1298,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "148093",
-    "name": "Commode Shower Chair with wheels",
-    "description": "Commode Chair with cover on wheels and detachable handsets",
-    "location": "SIMEI",
-    "validTill": "01 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "148092",
     "name": "Geriatric Chair",
     "description": "Geriatric Chair (BION) with reclining and wheels",
@@ -1375,17 +1364,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "147917",
-    "name": "Commode Chair",
-    "description": "Commode Chair for shower, See photo.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "27 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "50x50x95",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "147570",
     "name": "Easy standi (standing frame) for special needs child ren",
     "description": "Standing frame for special needs children..who need any time contact and collect.thanks",
@@ -1395,6 +1373,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "148415",
+    "name": "Carpet",
+    "description": "Well maintained using power vacuum. Long pile carpet can be used on both side. Pick up at Sembawang",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "21 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "125x218 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "148403",
