@@ -1,5 +1,16 @@
 [
   {
+    "id": "148407",
+    "name": "Bra 36/80",
+    "description": "worn only once. As good as new.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "13 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "36/80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "148268",
     "name": "Mixed items",
     "description": "All items are brand new including stockings I removed the wrappers for . storage. Suitable for M/L women top. Meet Tiong Bahru Redhill Sembawang MRT.",
@@ -38,17 +49,6 @@
     "description": "The pot is stainless steel that works with the induction cooker.",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "31 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148379",
-    "name": "Ninja Master Prep Blender",
-    "description": "Seldom used powerful blender",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "12 Sep 2025",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -163,6 +163,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148409",
+    "name": "Maxcoil Single mattress",
+    "description": "Maxcoil Single Mattress 16cm thick.\nLight stain in 1 corner, otherwise in good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "22 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "Standard single mattress 16cm thick",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "148398",
@@ -682,12 +693,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148378",
-    "name": "Foldable Stroller",
-    "description": "Lightly used blue stroller in good condition",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "12 Sep 2025",
-    "ageInYears": 3,
+    "id": "148408",
+    "name": "Children Specs",
+    "description": "Children's specs with box. Brand: New Balance. Cant remember what is the degree, prob around 150 & 200.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "13 Sep 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -721,17 +732,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "31 Aug 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148356",
-    "name": "Milk Bottles",
-    "description": "Different size milk bottles to donate with different size teats",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "30 Aug 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -1320,6 +1320,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "148405",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed with pressure relief Foam Mattresses and Air Mattress with air pump",
+    "location": "SIMEI",
+    "validTill": "01 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "148406",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed with pressure relief Foam Mattresses and Air Mattress with air pump",
+    "location": "SIMEI",
+    "validTill": "01 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "147955",
     "name": "Commode",
     "description": "Wheels are stuck but other than that everything is in good",
@@ -1373,6 +1395,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "148403",
+    "name": "Medical Bed",
+    "description": "Medical bed with electrical controlled height adjustment. Bed also comes together with air pump and mattress.\n* Receiver will have to collect item from the above address. I will not send directly to VWO/needy.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Aug 2025",
+    "ageInYears": 2,
+    "dimensions": "2.1 x 1. 1 x 0.8 meters",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "148331",
