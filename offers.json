@@ -1,5 +1,16 @@
 [
   {
+    "id": "148417",
+    "name": "Crossbody Bag",
+    "description": "Crossbody bag as it is condition.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "14 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "148407",
     "name": "Bra 36/80",
     "description": "worn only once. As good as new.",
@@ -31,6 +42,17 @@
     "dimensions": "35 x20 x42",
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "148416",
+    "name": "Washing machine Toshiba 11 kg used",
+    "description": "Not sure about the age of the washing machine but working well",
+    "location": null,
+    "validTill": "13 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "148387",
@@ -66,17 +88,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "148274",
-    "name": "3 door refrigerator Toshiba 35L",
-    "description": "For someone who does not mind discoloration on doors. Still in working condition. Durable.\nRetiree has no means to deliver or pay for delivery.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "see pics",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148255",
     "name": "Stand fan",
     "description": "Item is older than 4 years. Old stand fan. In working condition. The on/off sensor is not so sensitive and so sometimes it needs to be pressed more than once.",
@@ -84,17 +95,6 @@
     "validTill": "16 Aug 2025",
     "ageInYears": 4,
     "dimensions": "One metre high",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148254",
-    "name": "Tefal  Air Fyer",
-    "description": "Workable Air fyer for donation.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": "NA",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -242,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148340",
-    "name": "Dinner Table",
-    "description": "Good condition. Well Kept. with 6 chairs",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "3' x 5'",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148333",
     "name": "Solid wood King size bed with mattress",
     "description": "Brand new hardly use. Solid wood King size bed. White Leather upholstery on head board was repainted blue as it had become yellow( with time)",
@@ -308,28 +297,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148311",
-    "name": "Tv console",
-    "description": "Still in good condition",
-    "location": null,
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148310",
-    "name": "Marble table",
-    "description": "Strong marble dining table",
-    "location": null,
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148299",
     "name": "Pedestals",
     "description": "Grey pedestals with keys",
@@ -363,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148278",
-    "name": "Dining Table",
-    "description": "Pre loved dining table with Solid Wood Frame and frosted glass top. Legs of the table can be removed for easy transportation. Condition is 9/10 and can of use to anyone in need for a dining plus study table.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "170 x 90 x 75 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148276",
     "name": "Study desk",
     "description": "Very good quality desk for study.\nSlight discoloration still usable.\nRetiree has no means to deliver or pay for delivery fee. Need a sponsor to send to the needy.",
@@ -385,17 +341,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148275",
-    "name": "Dining table expandable",
-    "description": "slight bulging on top, still usable.\nVery good quality table, expandable. No chairs. \nRetiree has no means to deliver or pay for delivery. Need a sponsor to deliver to the needy.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "see pics",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148271",
     "name": "Stool",
     "description": "h: 45 cm, dia: 40 cm",
@@ -403,17 +348,6 @@
     "validTill": "31 Aug 2025",
     "ageInYears": 2,
     "dimensions": "h: 45 cm, dia: 40 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148238",
-    "name": "Ergonomic study chair with wheels",
-    "description": "In good condition.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -447,17 +381,6 @@
     "validTill": "20 Aug 2025",
     "ageInYears": 3,
     "dimensions": "37cm length x 28cm width x 45cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148210",
-    "name": "Queen Size Reversible Bed (Medium Firm one side, Firm the other side)",
-    "description": "Standard Queen Size Bed (152cm wide x 190cm long). \n\nPlease note there are some oilment stains (not blood) on the bed, but these are not visible on the firm side. The bed is reversible, with one side offering a medium-firm feel and the other side a firmer option. The firm side is stain-free.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "152cm wide x 190cm long",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -616,28 +539,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "147857",
-    "name": "Footstool",
-    "description": "Footstool 28cm x 28cm x H34cm",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "28cm x 28cm x H34cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147852",
-    "name": "Study desk",
-    "description": "Study desk",
-    "location": null,
-    "validTill": "15 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "147783",
     "name": "Wooden Indoor/Outdoor Side/Coffee Table",
     "description": "wood square table\nNatural wood finish\nLight weight design for light load\nCan be used as a side table",
@@ -656,39 +557,6 @@
     "validTill": "21 Aug 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147611",
-    "name": "White side/coffee table",
-    "description": "Used but still sturdy. The lower shelf is a bit warp.",
-    "location": null,
-    "validTill": "15 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "90cm X 55cm X 45cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147687",
-    "name": "Book Shelf",
-    "description": "Wooden book shelf in excellent condition. Great for books or as a display piece. Contact by Whatsapp please.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": "1m (height) by 1.05m (width)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147688",
-    "name": "Book Shelf",
-    "description": "Wooden book shelf in excellent condition. Great for books or as a display piece. Contact by Whatsapp please.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "15 Aug 2025",
-    "ageInYears": 3,
-    "dimensions": "1m (height) by 1.05m (width)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -830,17 +698,6 @@
     "description": "Lightly used",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "20 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148159",
-    "name": "Fisher Price Jumperoo",
-    "description": "Lightly used",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Aug 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
