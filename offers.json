@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148456",
-    "name": "microwave  oven",
-    "description": "30L Microwave oven Samsung",
-    "location": null,
-    "validTill": "31 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148455",
     "name": "2 GB Full-Size SD Cards (Assorted Brands) – Standard SD, not SDHC",
     "description": "Giving away a small batch of 2 GB standard SD memory cards. These are full-size (not microSD) and are the older, lower-capacity type that many legacy cameras, photo frames, label printers and embedded devices still require. Each card is 2 GB (Standard SD/SDSC) with a write-protect switch. Brands are mixed—examples include SanDisk and Verbatim. They are ideal for devices that only support up to 2 GB non-SDHC cards. Cards will be clean-formatted before handover; FAT/FAT16 is recommended for older gear. The giveaway includes the 2 GB SD cards only.\n\nCondition is mixed: some are new old stock in packaging and some are open-pack/used but working. All items are given as-is. Please check that your device needs Standard SD (2 GB); many newer devices expect SDHC/SDXC and larger capacities, so these cards are intended for older equipment.\n\nPreferred recipients are anyone with genuine need, especially caregivers or organisations maintaining legacy cameras or similar devices.",
@@ -165,17 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148444",
-    "name": "Single Mattress",
-    "description": "Single Size Mattress.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "26 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148442",
     "name": "Seat cushions and cushions",
     "description": "A mixture of seat cushions and cushions. In good condition.",
@@ -220,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148433",
-    "name": "IKEA shelf",
-    "description": "IKEA shelf - 5 shelves",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "14 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "80x202x28",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148432",
     "name": "Lounge Chair",
     "description": "Good for children to rest.",
@@ -238,6 +205,17 @@
     "validTill": "31 Aug 2025",
     "ageInYears": 3,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148475",
+    "name": "Pull out bed with mattress - super single and single",
+    "description": "Pull out bed with super single mattress and single mattress",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "10 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "210x110",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -583,6 +561,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "148474",
+    "name": "Muslin Swaddles for newborn",
+    "description": "6 Aden + Anais Muslin Swaddles - Very well maintained. No stains.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "17 Sep 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148471",
+    "name": "Child helmet",
+    "description": "Two child helmets suitable for 3-5 year old",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "17 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "148430",
     "name": "Pampers diapers -NB",
     "description": "Pampers diapers for new born baby- 54pcs x 2 pkgs",
@@ -600,17 +600,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "13 Sep 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148376",
-    "name": "Baby Clothes",
-    "description": "Baby boy and girl clothes, various sizes, dresses, long sleeves tops, short sleeve tops, onesies, shorts, long pants, hats",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -753,6 +742,28 @@
     "description": "Water bottle",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "02 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148466",
+    "name": "Chicco Pram + baby car seat",
+    "description": "Chicco single pram that was used less then 7 times and still in good condition, also comes with a baby car seat that was used less then 2 times. To see full details see this link - https://www.amazon.sg/Chicco-Cortina-Travel-System-Iron/dp/B01DPH4DMK",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148467",
+    "name": "Baby carrier",
+    "description": "Note: Pls self collect from my place\nWell used baby carrier\nRubber parts a little loose but should be able to replace or just tie a rubber band over",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Aug 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1021,6 +1032,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "148472",
+    "name": "Child bicycle seat (rear mount)",
+    "description": "Rear mounting child bicycle seat.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "17 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "147928",
