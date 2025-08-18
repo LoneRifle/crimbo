@@ -1,16 +1,5 @@
 [
   {
-    "id": "148427",
-    "name": "Baby and children clothing",
-    "description": "mixture of 2 to 7 years girl's clothing or even bigger if required up to 11 years old.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Sep 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "148417",
     "name": "Crossbody Bag",
     "description": "Crossbody bag as it is condition.",
@@ -42,6 +31,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "148511",
+    "name": "Hitachi Refrigerator",
+    "description": "New fridge. Donating as my father moving to nursing home",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "17 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "148491",
@@ -216,6 +216,17 @@
     "validTill": "31 Aug 2025",
     "ageInYears": 3,
     "dimensions": "160x120x75 (depth: 50)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148505",
+    "name": "L shaped Pink sofa",
+    "description": "Item still in good condition except for the tears at the corner of sofa shown in pic 2 & 3",
+    "location": null,
+    "validTill": "05 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "L217xD92/150 X H99cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,6 +583,50 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "148510",
+    "name": "Baby mobile and thermometer",
+    "description": "Baby mobile for cot and thermometer (ear or forehead)",
+    "location": null,
+    "validTill": "31 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148509",
+    "name": "Baby toys",
+    "description": "Various infant and children’s toys including Fisher Price items.",
+    "location": null,
+    "validTill": "31 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148508",
+    "name": "Enfamil Pro A+ Stage 1",
+    "description": "2 new tins",
+    "location": null,
+    "validTill": "17 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148507",
+    "name": "Similac Total Comfort H.A. Stage 3",
+    "description": "2 cans available, expiry date Feb 2026. Can deliver to mutually convenient MRT station.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "17 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "829g",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "148477",
     "name": "Toys for newborn till 1 year old",
     "description": "Preloved toys ready to be given away. Suitable for infant till 1 year old",
@@ -622,28 +677,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "13 Sep 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148375",
-    "name": "Baby Clothes",
-    "description": "Baby boy and girl clothes, various sizes, dresses, long sleeves tops, short sleeve tops, onesies, shorts, long pants, hats",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148374",
-    "name": "Baby Clothes",
-    "description": "Baby boy and girl clothes, various sizes, dresses, long sleeves tops, short sleeve tops, onesies, shorts, long pants, hats",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
