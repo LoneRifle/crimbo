@@ -1274,24 +1274,6 @@
     "date": "21 Jul 2025"
   },
   {
-    "id": "148571",
-    "category": "Home Furnishing",
-    "name": "Table",
-    "description": "Client is currently unemployed due to health issues. He is facing financial difficulties and relying on monthly CPF payouts and quarterly Silver Support Scheme for daily needs. (HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2025"
-  },
-  {
     "id": "148568",
     "category": "Home Furnishing",
     "name": "Cabinet",
@@ -2012,6 +1994,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "21 Jul 2025"
+  },
+  {
+    "id": "148575",
+    "category": "Electrical Home Appliances",
+    "name": "dryer",
+    "description": "The client is a single mother with three children, currently living in her mother’s HDB flat. She recently obtained a rental flat in Hougang and has requested a dryer. She has a 6-month-old baby and, due to the current weather, is struggling with the limited number of clothes available for the children. (Hin)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2025"
+  },
+  {
+    "id": "148573",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client is a middle-aged man undergoing divorce. He is staying alone in his family's owned flat but does not have any support from his family due to a strained relationship. He is diagnosed with multiple mental health conditions and has physical health issues. He requires a new microwave so that he can use it to try cooking basic meals or to heat up his meals on wheels deliveries.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2025"
   },
   {
     "id": "148567",
@@ -3594,128 +3611,58 @@
     "date": "21 Jul 2025"
   },
   {
-    "id": "148479",
-    "category": "Mobility Aids",
-    "name": "Heavy Duty Wheelchair (Big Sized)",
-    "description": "Client is a 33-year old male who is physically disabled, has Global Developmental Delay and Autism. The family is currently facing significant financial hardship, with limited income that makes it difficult to cover essential living and medical expenses. A donated wheelchair would greatly ease their burden, providing not only vital mobility support but also much-needed financial relief. Please email to Kritikaa.subramaniam@thkmc.org.sg to liase.",
-    "specifications": "Preferable seat width of 22-28 inches or more",
+    "id": "148574",
+    "category": "Medical Aids",
+    "name": "TENA Pants Super Unisex Adult Diapers - XL",
+    "description": "Client is a single woman in her fifties, recently diagnosed with cancer. She is unfit for work and recently started chemotherapy. She requires daily change of diapers to manage her side effects of treatment, including diarrhea.",
+    "specifications": "Size XL (127cm - 157cm)",
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
       "phone": [
-        "62706711"
+        "68485116",
+        "68485166"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2025"
+    "date": "20 Aug 2025"
   },
   {
-    "id": "148316",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "The elderly couple live in a 2-room HDB flat. Due to old age and multiple health conditions, they are unable to work. Their children have their personal struggles, financially and in other areas. One of them is also battling with cancer. As such, their financial help to the elderly couple is limited.\n\nThe couple needs a wheelchair each, as theirs is faulty. They require a standard size wheelchair (with big wheels).",
-    "specifications": null,
+    "id": "148572",
+    "category": "Medical Aids",
+    "name": "Ensure® Plus Vanilla",
+    "description": "Client is a single woman in her fifties, recently diagnosed with cancer. She is unfit for work and has started chemotherapy. She requires daily intake of milk to manage her diabetes and side effects of treatment.",
+    "specifications": "200ml Tetrapack",
     "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
       "phone": [
-        "94552166",
-        "67156715"
+        "68485116",
+        "68485166"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2025"
+    "date": "20 Aug 2025"
   },
   {
-    "id": "148010",
-    "category": "Mobility Aids",
-    "name": "Wheel chair with Big back wheels",
-    "description": "90kg~ Lightweight, Foldable, Big back wheels.\n\nTo enable a 90kg parkinson individual to push himself around.",
-    "specifications": "30 × 90 × 90 cm",
+    "id": "146995",
+    "category": "Medical Aids",
+    "name": "Ensure® Plus Vanilla",
+    "description": "Client is a single woman in her fifties, recently diagnosed with cancer. She is unfit for work and recently started chemotherapy. She requires daily intake of milk to manage her diabetes and side effects of treatment.",
+    "specifications": "200ml Tetrapack",
     "contact": {
-      "org": "SAGE Counselling Centre",
-      "name": "Tang Zhi Yew",
-      "email": "tang_zy@sagecc.org.sg",
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
       "phone": [
-        "63990300",
-        "63541191"
+        "68485116",
+        "68485166"
       ]
     },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "31 Jul 2025"
-  },
-  {
-    "id": "147669",
-    "category": "Mobility Aids",
-    "name": "Mobility scooter",
-    "description": "An elderly caregiver underwent surgery recently to amputate her toes due to diabetes and is unable to walk for prolonged periods of time. She has to provide caregiving to her grandson while her husband is the sole breadwinner of the family. The mobility scooter will bring more convenience when she has to fetch her grandson to and fro school, and on days when she needs to buy food or necessities. The support will greatly improve her quality of life. Do reach out to Marilyn at 81214654 for further clarifications. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "New Life Stories Limited",
-      "name": "Marilyn Heng",
-      "email": "marilyn@newlifestories.org.sg",
-      "phone": [
-        "81214654",
-        "63867688"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2025"
-  },
-  {
-    "id": "147638",
-    "category": "Mobility Aids",
-    "name": "Reclining wheelchair",
-    "description": "Looking for an adult reclining wheelchair for my 37y/o client diagnosed with functional movement disorder to meet his functional needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Yishun",
-      "name": "Rufino Hui Hao Rahmat",
-      "email": "rufino.rahmat@montfortcare.org.sg",
-      "phone": [
-        "64848040"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2025"
-  },
-  {
-    "id": "148258",
-    "category": "Attires/Clothings",
-    "name": "Kidz Meadow Childcare Uniform",
-    "description": "Family of 3, consisting of 1 pre-school child (male) relies solely on his father's irregular income while his mother is currently looking for a job after obtaining certification. The child has outgrown his uniform and it is too tight now. A bigger-sized uniform would greatly relieve his current discomfort and contribute to a positive learning experience.",
-    "specifications": "Male, Size 30",
-    "contact": {
-      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-      "name": "Lisette Tan",
-      "email": "lisette_tan@msf.gov.sg",
-      "phone": [
-        "63548217",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Aug 2025"
-  },
-  {
-    "id": "147639",
-    "category": "Attires/Clothings",
-    "name": "Men Clothes (Pants, Boxers) Size XXL",
-    "description": "The client is single and he is living alone. Client is receiving public assistance in supporting his daily needs. He is living alone in a rented flat. He suffered with multiple chronic medical condition and mental health concern.",
-    "specifications": null,
-    "contact": {
-      "org": "Lions Befrienders Service Association (Singapore)",
-      "name": "Chow Ching Hua",
-      "email": "chinghua.chow@lb.org.sg",
-      "phone": [
-        "66814941",
-        "63758600"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2025"
+    "deliveryCostsCoveredByDonor": false,
+    "date": "20 Aug 2025"
   },
   {
     "id": "148550",
@@ -3837,6 +3784,130 @@
       "phone": [
         "97274215",
         "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2025"
+  },
+  {
+    "id": "148479",
+    "category": "Mobility Aids",
+    "name": "Heavy Duty Wheelchair (Big Sized)",
+    "description": "Client is a 33-year old male who is physically disabled, has Global Developmental Delay and Autism. The family is currently facing significant financial hardship, with limited income that makes it difficult to cover essential living and medical expenses. A donated wheelchair would greatly ease their burden, providing not only vital mobility support but also much-needed financial relief. Please email to Kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "specifications": "Preferable seat width of 22-28 inches or more",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2025"
+  },
+  {
+    "id": "148316",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "The elderly couple live in a 2-room HDB flat. Due to old age and multiple health conditions, they are unable to work. Their children have their personal struggles, financially and in other areas. One of them is also battling with cancer. As such, their financial help to the elderly couple is limited.\n\nThe couple needs a wheelchair each, as theirs is faulty. They require a standard size wheelchair (with big wheels).",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Aug 2025"
+  },
+  {
+    "id": "148010",
+    "category": "Mobility Aids",
+    "name": "Wheel chair with Big back wheels",
+    "description": "90kg~ Lightweight, Foldable, Big back wheels.\n\nTo enable a 90kg parkinson individual to push himself around.",
+    "specifications": "30 × 90 × 90 cm",
+    "contact": {
+      "org": "SAGE Counselling Centre",
+      "name": "Tang Zhi Yew",
+      "email": "tang_zy@sagecc.org.sg",
+      "phone": [
+        "63990300",
+        "63541191"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jul 2025"
+  },
+  {
+    "id": "147669",
+    "category": "Mobility Aids",
+    "name": "Mobility scooter",
+    "description": "An elderly caregiver underwent surgery recently to amputate her toes due to diabetes and is unable to walk for prolonged periods of time. She has to provide caregiving to her grandson while her husband is the sole breadwinner of the family. The mobility scooter will bring more convenience when she has to fetch her grandson to and fro school, and on days when she needs to buy food or necessities. The support will greatly improve her quality of life. Do reach out to Marilyn at 81214654 for further clarifications. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Marilyn Heng",
+      "email": "marilyn@newlifestories.org.sg",
+      "phone": [
+        "81214654",
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2025"
+  },
+  {
+    "id": "147638",
+    "category": "Mobility Aids",
+    "name": "Reclining wheelchair",
+    "description": "Looking for an adult reclining wheelchair for my 37y/o client diagnosed with functional movement disorder to meet his functional needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Yishun",
+      "name": "Rufino Hui Hao Rahmat",
+      "email": "rufino.rahmat@montfortcare.org.sg",
+      "phone": [
+        "64848040"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2025"
+  },
+  {
+    "id": "148258",
+    "category": "Attires/Clothings",
+    "name": "Kidz Meadow Childcare Uniform",
+    "description": "Family of 3, consisting of 1 pre-school child (male) relies solely on his father's irregular income while his mother is currently looking for a job after obtaining certification. The child has outgrown his uniform and it is too tight now. A bigger-sized uniform would greatly relieve his current discomfort and contribute to a positive learning experience.",
+    "specifications": "Male, Size 30",
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Lisette Tan",
+      "email": "lisette_tan@msf.gov.sg",
+      "phone": [
+        "63548217",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Aug 2025"
+  },
+  {
+    "id": "147639",
+    "category": "Attires/Clothings",
+    "name": "Men Clothes (Pants, Boxers) Size XXL",
+    "description": "The client is single and he is living alone. Client is receiving public assistance in supporting his daily needs. He is living alone in a rented flat. He suffered with multiple chronic medical condition and mental health concern.",
+    "specifications": null,
+    "contact": {
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
+      "phone": [
+        "66814941",
+        "63758600"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
