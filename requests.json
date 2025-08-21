@@ -1,5 +1,57 @@
 [
   {
+    "id": "148644",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is a single mother, currently unemployed with no income. She has 5 children aged 10 years, 9 years, 8 years, 7 years and 8 months old. She is in need of milk powder (Enfamilk Pro A+ Stage 2) for her 8 months old child.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Aug 2025"
+  },
+  {
+    "id": "148643",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a single mother, currently unemployed with no income. She has 5 children aged 10 years, 9 years, 8 years, 7 years and 8 months old. She is in need of diapers (MamyPoko Tape Diaper - M size) for her 8 months old child.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2025"
+  },
+  {
+    "id": "148641",
+    "category": "Infant and Children Items",
+    "name": "Children Playmat",
+    "description": "Family of 3 with a special needs child recently experienced a bed bug infestation at home and is looking for replacement for their children playmat Father is currently working part time and mother is still looking for job, hence the being unable to afford the replacement. The donation will help to ensure that they will have minimum disruption to their day to day living and create a safe environment for their special needs child to play and grow.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Soh Yong Sheng",
+      "email": "sohyongsheng@fycs.org",
+      "phone": [
+        "69783086",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2025"
+  },
+  {
     "id": "148630",
     "category": "Infant and Children Items",
     "name": "Fernleaf Full Cream Baby Milk Powder",
@@ -1733,18 +1785,70 @@
     "date": "21 Jul 2025"
   },
   {
-    "id": "148633",
+    "id": "148642",
     "category": "Home Furnishing",
-    "name": "Cabinet or shelf",
-    "description": "Mdm Teo is a single lady at aged 89. She lives with her nephew (aged 71) and is both retired. \n\nTheir home environment is in a mess as all their belongings are laid on the floor. \n\nA shelf/cabinet would greatly help in organizing their items.",
+    "name": "Cupboard for clothing",
+    "description": "Client is a single mother with not much informal support and is raising 5-year-old son with special needs and staying in a rental flat. She will require cupboard for her son's clothing.",
     "specifications": null,
     "contact": {
-      "org": "THK Cluster Support @ Geylang",
-      "name": "Sabrina Wong",
-      "email": "sabrina.wong@thkmc.org.sg",
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
       "phone": [
-        "63371201",
-        "68461228"
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Aug 2025"
+  },
+  {
+    "id": "148640",
+    "category": "Home Furnishing",
+    "name": "Tatami Mattress (5cm)",
+    "description": "Family of 3 with a special needs child recently experienced a bed bug infestation at home and is looking for replacement for their tatami mattress (5cm) Father is currently working part time and mother is still looking for job, hence the being unable to afford the replacement. The donation will help to ensure that they will have minimum disruption to their day to day living and continue to maintain a conducive environment for their child with special needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Soh Yong Sheng",
+      "email": "sohyongsheng@fycs.org",
+      "phone": [
+        "69783086",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2025"
+  },
+  {
+    "id": "148639",
+    "category": "Home Furnishing",
+    "name": "2 sets of 2 door wardrobe",
+    "description": "Family of 3 with a special needs child recently experienced a bed bug infestation at home and is looking for replacement for their wardrobe (2 sets of 2 door wardrobe). Father is currently working part time and mother is still looking for job, hence the being unable to afford the replacement. The donation will help to ensure that they will have minimum disruption to their day to day living and continue to maintain a conducive environment for their child with special needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Soh Yong Sheng",
+      "email": "sohyongsheng@fycs.org",
+      "phone": [
+        "69783086",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2025"
+  },
+  {
+    "id": "148638",
+    "category": "Home Furnishing",
+    "name": "Children's Table and Chair",
+    "description": "Family consists of elderly grandmother with dementia, parents and 4 children aged 1 to 8. \nFamily requests for a children's table and chair for their children to have a study area at home",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1867,24 +1971,6 @@
       "phone": [
         "60384138",
         "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2025"
-  },
-  {
-    "id": "148568",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Client is currently unemployed due to health issues. He is facing financial difficulties and relying on monthly CPF payouts and quarterly Silver Support Scheme for daily needs. (HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2593,6 +2679,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "21 Jul 2025"
+  },
+  {
+    "id": "148635",
+    "category": "Electrical Home Appliances",
+    "name": "Vaccumm",
+    "description": "Client is a mother of 2 daughters living in a rental flat. Due to financial difficulties, she was unafford to buy a vaccum. The family would appreciate to receive a pre-loved vaccum. Please Whatsapp Suzanne at 86661355 or email to suzanne.eu@thkmc.org.sg to liaise.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2025"
   },
   {
     "id": "148632",
@@ -3745,6 +3848,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jul 2025"
+  },
+  {
+    "id": "148637",
+    "category": "Others",
+    "name": "Laptop",
+    "description": "Client (M/58) requires laptop as it is his only form of coping with his emotional distress. He is currently not working as he is temporarily unfit for work. He has limited family support.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2025"
   },
   {
     "id": "148604",
