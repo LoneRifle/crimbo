@@ -506,17 +506,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "148510",
-    "name": "Baby mobile and thermometer",
-    "description": "Baby mobile for cot and thermometer (ear or forehead)",
-    "location": null,
-    "validTill": "31 Aug 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "148509",
     "name": "Baby toys",
     "description": "Various infant and children’s toys including Fisher Price items.",
@@ -946,6 +935,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "148653",
+    "name": "Medical bed. There is air mattress but not sure if fully working",
+    "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "210 x 104 cm. Height is adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "148654",
+    "name": "Medical bed. There is air mattress but not sure if fully working",
+    "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "210 x 104 cm. Height is adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "148391",
     "name": "Electric Hospital Bed",
     "description": "In Good condition comes with air mat & pumb",
@@ -1109,6 +1120,28 @@
     "dimensions": "50x50x95",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "148655",
+    "name": "Adjustable motorised elderly bed",
+    "description": "The bed is motorised.",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "20 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "148656",
+    "name": "Adjustable motorised elderly bed",
+    "description": "The bed is motorised.",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "20 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "148536",
