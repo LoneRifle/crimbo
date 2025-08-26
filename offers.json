@@ -1,16 +1,5 @@
 [
   {
-    "id": "148725",
-    "name": "Children's clothes and accessories; 1 to 3 year old",
-    "description": "Clothes, potty, bottles, male and female, for infants up to 3 years.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "24 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "148666",
     "name": "3pcs gift set for new born baby - onesie, bootie, mitten",
     "description": "Unopened new born baby girl gift set with onesie, mitten and booty. \n\nPreferably to meet up at mutual mrt station.",
@@ -163,6 +152,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148773",
+    "name": "Table",
+    "description": "A simple table, great for work or play\nPossibly for community areas with several people",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "160(L) x 80(W) x 75(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148758",
+    "name": "Ikea armchair with foot rest",
+    "description": "I have only sat on the chair once or twice, so it is in very good condition although it has been 4 years since I bought it. It is dusty but I will clean the chair and wash the cushions before despatch.",
+    "location": null,
+    "validTill": "15 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148756",
+    "name": "IKEA rattan armchair",
+    "description": "IKEA Ulriksberg rattan chair lightly used, very clean.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "29 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "52 x 52 x 79",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148755",
+    "name": "IKEA dining table",
+    "description": "oak veneered IKEA dining table.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "29 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "220 x 120 x 76",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "148736",
@@ -396,17 +429,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148524",
-    "name": "King size mattress and bed frame",
-    "description": "Great condition mattress (firm from scanteak ) and bed frame",
-    "location": null,
-    "validTill": "05 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148090",
     "name": "Antique Chinese carved coffee table",
     "description": "Well used but beautifully carved antique coffee table with Chinese carvings. Comes with a glass top.",
@@ -482,6 +504,39 @@
     "dimensions": "60x27x140 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148766",
+    "name": "Baby cot with wheels",
+    "description": "Mattress base is adjustable into two different positions, highest is for 0- 6 months old \n- Able to withstand up to 40Kg",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "70 X 130 X 104",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148754",
+    "name": "Chinese learning resources",
+    "description": "Chinese learning resources",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148753",
+    "name": "Left brain training resources",
+    "description": "Left brain training resources",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148752",
@@ -612,17 +667,6 @@
     "validTill": "13 Sep 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148344",
-    "name": "Children Items",
-    "description": "Item is in good condition, no defects",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": "184cmx123cmx5mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -856,6 +900,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "148769",
+    "name": "P1 to P3 assessment books(Unused)",
+    "description": "Attached with answer keys. The books are used as teaching materials. All pages are not written. Clearing space currently",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "148688",
