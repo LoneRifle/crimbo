@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "148740",
+    "name": "Desk fan non swivel",
+    "description": "Fan still works except that it cannot swivel. Retiree owner has no means to deliver or pay for delivery fee. Can collect it at his HDB block.",
+    "location": "Ask for collection address",
+    "validTill": "09 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "see picture",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "148661",
     "name": "Dvd, hairdryer, weighing machine",
     "description": "I can deliver to VWO office.",
@@ -72,17 +83,6 @@
     "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
     "validTill": "19 Sep 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148544",
-    "name": "Tecno 100L Chest Freezer (TCR-138R)",
-    "description": "Tecno 100L Chest Freezer (TCR-138R)",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "29 Aug 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -245,7 +245,7 @@
     "id": "148569",
     "name": "Study desk good quality",
     "description": "retiree owner has no means to deliver or pay for the delivery fee to send item to beneficiary.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "location": "Ask for collection address",
     "validTill": "31 Aug 2025",
     "ageInYears": 4,
     "dimensions": "see pics",
@@ -256,7 +256,7 @@
     "id": "148570",
     "name": "Study desk good quality",
     "description": "retiree owner has no means to deliver or pay for the delivery fee to send item to beneficiary.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "location": "Ask for collection address",
     "validTill": "31 Aug 2025",
     "ageInYears": 4,
     "dimensions": "see pics",
@@ -282,17 +282,6 @@
     "validTill": "15 Sep 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148475",
-    "name": "Pull out bed with mattress - super single and single",
-    "description": "Pull out bed with super single mattress and single mattress",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "10 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "210x110",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -377,7 +366,7 @@
     "id": "148276",
     "name": "Study desk",
     "description": "Very good quality desk for study.\nSlight discoloration still usable.\nRetiree has no means to deliver or pay for delivery fee. Need a sponsor to send to the needy.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "location": "Ask for collection address",
     "validTill": "31 Aug 2025",
     "ageInYears": 4,
     "dimensions": "see pic",
@@ -493,6 +482,39 @@
     "dimensions": "60x27x140 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148752",
+    "name": "Learning resources",
+    "description": "Learning resources for children",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148751",
+    "name": "P1 & kindergarten Chinese learning resources",
+    "description": "Chinese learning resources",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148741",
+    "name": "Plastic Stool for children",
+    "description": "Self-collect at HDB block.\nMinor discoloration but still usable.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "09 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "12\"x11\"Height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148737",
@@ -979,17 +1001,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "148734",
-    "name": "Wheelchair",
-    "description": "Bion standard wheelchair",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Sep 2025",
-    "ageInYears": 3,
-    "dimensions": "Width 26 inch , Length 41.5 inch",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "148727",
     "name": "Omni-mobile P110 motorised wheelchair",
     "description": "Motorised Wheelchair to donate. It is in good condition and able to function. However, it need battery replacement due to long time not in use. Retail price was more than $3000. I can bear the delivery if you are keen and able to replace the battery on your own.",
@@ -1087,6 +1098,17 @@
     "dimensions": "50x50x95",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "148745",
+    "name": "non lactose milk Long life",
+    "description": "10 cartons Long life non lactose milk (Zymil) Brand \"Pauls. Expiry date November 2025",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "20 x 10 x 8 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "148683",
