@@ -715,6 +715,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "149094",
+    "name": "Hospital Bed",
+    "description": "Perfect condition. Last used Nov 2024.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "06 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "149092",
+    "name": "Wheelchair",
+    "description": "Giving away used working condition wheelchair. Front wheel newly replaced.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "06 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "149087",
     "name": "Walker Frame",
     "description": "Max weight capacity: 100kg\nNet weight of frame: 2.4 kg",
@@ -779,6 +801,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "149095",
+    "name": "SKG K5-3 neck massager",
+    "description": "Used once only, good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "148995",
