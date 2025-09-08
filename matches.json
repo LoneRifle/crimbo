@@ -177,6 +177,40 @@
     }
   },
   {
+    "id": "149105",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Family comprises a single mother with medical conditions, with daughter as her sole caregiver. Their washing machine has not been working for over a year, and daughter has to hand wash their clothes on top of school, other household chores and caregiving for her mother. A working washing machine will greatly improve their daily living.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Emilyn Teo",
+      "email": "emilyn_teo@msf.gov.sg",
+      "phone": [
+        "67087820",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148842",
+          "name": "Washing machine base",
+          "description": "4 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149080",
     "category": "Electrical Home Appliances",
     "name": "washing machine",
