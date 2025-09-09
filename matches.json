@@ -1,5 +1,39 @@
 [
   {
+    "id": "149166",
+    "category": "Home Furnishing",
+    "name": "Single Bed",
+    "description": "Unemployed elderly and is not ADL-independent, currently relying on helper. However, she has run out of funds to afford helper.She requires a new bed to replace the broken one.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148884",
+          "name": "Single foldable bed",
+          "description": "Will send to places near Jalan Besar or district 12 only.",
+          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+          "validTill": "15 Sep 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149007",
     "category": "Home Furnishing",
     "name": "sofa",
@@ -36,17 +70,6 @@
           "validTill": "10 Sep 2025",
           "ageInYears": 4,
           "dimensions": "see pics",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "148928",
-          "name": "3+2 Fabric Sofa",
-          "description": "has stains. otherwise functional without defects",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "29 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": "2m",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -194,6 +217,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149165",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Unemployed elderly and is not ADL-independent, currently relying on helper. However, she has run out of funds to afford helper.She requires a new washing machine to replace the broken one.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148842",
+          "name": "Washing machine base",
+          "description": "4 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
         }
       ],
       "carousell": []
