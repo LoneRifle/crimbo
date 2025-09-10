@@ -368,6 +368,39 @@
     }
   },
   {
+    "id": "149199",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "A beneficiary’s mother is the primary caregiver for both her husband and son, who are living with medical conditions. To support her family financially while remaining at home, she has started creating online content. However, her current laptop is faulty. She is in urgent need of a reliable laptop, ideally with at least 16GB of RAM, to effectively run editing software.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148836",
+          "name": "Laptop low table",
+          "description": "///",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149126",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -665,17 +698,6 @@
           "dimensions": "67cm x 70 cm x 177cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149193",
-          "name": "Two-door Fridge",
-          "description": "Delivery cost sponsored. Must be picked up by 14 Sept 5pm.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -741,17 +763,6 @@
           "validTill": "20 Sep 2025",
           "ageInYears": 4,
           "dimensions": "67cm x 70 cm x 177cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149193",
-          "name": "Two-door Fridge",
-          "description": "Delivery cost sponsored. Must be picked up by 14 Sept 5pm.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -955,17 +966,6 @@
           "validTill": "20 Sep 2025",
           "ageInYears": 4,
           "dimensions": "67cm x 70 cm x 177cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149193",
-          "name": "Two-door Fridge",
-          "description": "Delivery cost sponsored. Must be picked up by 14 Sept 5pm.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1438,17 +1438,6 @@
           "validTill": "20 Sep 2025",
           "ageInYears": 4,
           "dimensions": "67cm x 70 cm x 177cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149193",
-          "name": "Two-door Fridge",
-          "description": "Delivery cost sponsored. Must be picked up by 14 Sept 5pm.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
