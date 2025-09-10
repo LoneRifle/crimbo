@@ -132,6 +132,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "149213",
+    "name": "Shelf",
+    "description": "2 units of shelves",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "149198",
     "name": "2 level light weight rack (can be stacked or on its own)",
     "description": "2 level rack that can be stacked or on its own. Not suitable for heavy items. Suitable for clothes and other light weight stuff.",
@@ -367,17 +378,6 @@
     "name": "Baby High Chair",
     "description": "Spare high chair for occasional use.  So far used 5 times.  Clean, sturdy for feeding time for kids between 1+ to 3+",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "09 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "149172",
-    "name": "Preloved Stroller Reversible",
-    "description": "Stroller is more than 10 years old but it is still in good working condition.",
-    "location": "Boon Lay, Jurong, Tuas",
     "validTill": "09 Oct 2025",
     "ageInYears": 4,
     "dimensions": null,
@@ -757,17 +757,6 @@
     "dimensions": "210 x 104 cm. Height is adjustable",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "149094",
-    "name": "Hospital Bed",
-    "description": "Perfect condition. Last used Nov 2024.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "06 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "149087",
