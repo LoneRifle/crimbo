@@ -1,5 +1,104 @@
 [
   {
+    "id": "149280",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Low income family - mother and son are looking for a wardrobe to replace their current broken one. Direct delivery to family in Queenstown area.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149196",
+          "name": "Old sturdy wardrobe",
+          "description": "This is really old and I know it doesn't look very good. But some people may appreciate how sturdy it is, so I post here in case someone would want it.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "20 Sep 2025",
+          "ageInYears": 4,
+          "dimensions": "153 x 61 x 192 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149277",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "Family of 4 with young school going children lives in a public rental flat with other family members, seeking assistance for a foldable mattress as the current one has worn out. A donation of a foldable mattress would greatly assist in helping them reducing their expenses and improving the sleep comfort of the family. For further details, do reach out to Ignatius at 87188452 or ignatius.pereira@thkmc.org.sg.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148440",
+          "name": "Zipped mattress cover",
+          "description": "Zipped whole mattress cover",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "15 Sep 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "148653",
+          "name": "Medical bed. There is air mattress but not sure if fully working",
+          "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2025",
+          "ageInYears": 4,
+          "dimensions": "210 x 104 cm. Height is adjustable",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "148654",
+          "name": "Medical bed. There is air mattress but not sure if fully working",
+          "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Sep 2025",
+          "ageInYears": 4,
+          "dimensions": "210 x 104 cm. Height is adjustable",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "149143",
+          "name": "Hospital Bed with pressure mattress",
+          "description": "Good hospital bed and pressure mattress in clean and fine working condition.",
+          "location": "West Coast",
+          "validTill": "29 Sep 2025",
+          "ageInYears": 3,
+          "dimensions": "205 x 100 x 52cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149253",
     "category": "Home Furnishing",
     "name": "wardrobe",
@@ -495,6 +594,73 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149282",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Low-income family living in a HDB rental house with children aged 4 and 9mths requires as washing machine as the drying function on their current machine is unserviceable.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Benedict Cheong",
+      "email": "Benedict_YS_CHEONG@msf.gov.sg",
+      "phone": [
+        "63547692",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148842",
+          "name": "Washing machine base",
+          "description": "4 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149278",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 4 with young children lives in a public rental flat with other family members, seeking assistance for a washing machine as the current one has worn out. A donation of a washing machine would greatly assist in helping them reducing their expenses. For further details, do reach out to Ignatius at 87188452 or ignatius.pereira@thkmc.org.sg.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148842",
+          "name": "Washing machine base",
+          "description": "4 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
         }
       ],
       "carousell": []
