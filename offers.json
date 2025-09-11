@@ -66,17 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "149195",
-    "name": "NON=HALAL FRIDGE",
-    "description": "The fridge is non-halal. I think it is about 8 years old.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "20 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "67cm x 70 cm x 177cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "149192",
     "name": "Hair Dryer",
     "description": "- Still functioning well, will include all the attachments\n- Used for about 2 years",
@@ -128,17 +117,6 @@
     "validTill": "11 Oct 2025",
     "ageInYears": 4,
     "dimensions": "120 x 60 x 40 (in centimeters)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149245",
-    "name": "Leather sofa",
-    "description": "Brown leather sofa",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "17 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "220cm x 100cm x 85cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -411,6 +389,28 @@
     "name": "Baby High Chair",
     "description": "Spare high chair for occasional use.  So far used 5 times.  Clean, sturdy for feeding time for kids between 1+ to 3+",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "09 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "149269",
+    "name": "Preloved Stroller Reversible",
+    "description": "Stroller is more than 10 years old but it is still in good working condition.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "09 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "149270",
+    "name": "Preloved Stroller Reversible",
+    "description": "Stroller is more than 10 years old but it is still in good working condition.",
+    "location": "Boon Lay, Jurong, Tuas",
     "validTill": "09 Oct 2025",
     "ageInYears": 4,
     "dimensions": null,
