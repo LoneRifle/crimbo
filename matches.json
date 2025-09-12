@@ -282,17 +282,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "149287",
-          "name": "Sofa",
-          "description": "Around 2m long. Deep leg room",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "11 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "149098",
           "name": "sofa 3 seater half leather dark brown",
           "description": "Kindly check first if item is acceptable.\nPLEASE don't reserve it & later reject it to deprive others who need it. \nRetiree owner has no means to deliver it or pay for delivery fee.",
@@ -1536,39 +1525,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149295",
-    "category": "Mobility Aids",
-    "name": "Geriatric chair",
-    "description": "Client is an 87-year-old elderly, with no informal social support due to strained family relationships. This, coupled with her unemployment, have contributed to her financial constraints. \n\nAs a result, client requires support to obtain a geriatric chair, as prescribed by physiotherapist.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner - Community Case Management Service Central",
-      "name": "Alethia Toh",
-      "email": "alethiatoh@carecorner.org.sg",
-      "phone": [
-        "62586601"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149097",
-          "name": "Geriatric chair",
-          "description": "Can tilt the chair backwards. Has a table for eating",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "06 Oct 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
