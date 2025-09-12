@@ -66,28 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "149285",
-    "name": "Fridge",
-    "description": "395L, Chinese-owned. Good working condition. Delivery included",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "149284",
-    "name": "SAMSUNG 32-in TV",
-    "description": "SAMSUNG 32-inch TV c/w Remote Control, HDMI cable, Power cable",
-    "location": null,
-    "validTill": "11 Oct 2025",
-    "ageInYears": 3,
-    "dimensions": "32-inch TV",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "149192",
     "name": "Hair Dryer",
     "description": "- Still functioning well, will include all the attachments\n- Used for about 2 years",
@@ -172,17 +150,6 @@
     "validTill": "11 Oct 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149255",
-    "name": "Coffee table",
-    "description": "Table was purchased in 2019 from HomestoLife i12 branch. It's in very good condition with some color fade on the table top. Structurally still as good as new and very sturdy solid feel. Table top can be lifted to access additional storage space and the mechanism is in mint condition.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "11 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "120 x 60 x 40 (in centimeters)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -407,12 +374,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149228",
-    "name": "Baby Stroller",
-    "description": "Baby stroller well used. It is three years old but has been very well taken care of.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Oct 2025",
-    "ageInYears": 3,
+    "id": "149292",
+    "name": "Kids desk",
+    "description": "Little Tikes table in perfect condition. Just needs cleaning. \nPrefer for beneficiary to be located in east/NE area for delivery. \nSelf collect encouraged as well.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "12 Oct 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -704,17 +671,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "149157",
-    "name": "hospital bed",
-    "description": "NIL",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "09 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "149097",
     "name": "Geriatric chair",
     "description": "Can tilt the chair backwards. Has a table for eating",
@@ -845,6 +801,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "149304",
+    "name": "Piano",
+    "description": "-ZIMMERMANN UPRIGHT PIANO S2 EP\n-piano heater 25w + pedal socks + piano polisher + lifetime membership",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Oct 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "149286",
