@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148407",
-    "name": "Bra 36/80",
-    "description": "worn only once. As good as new.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "13 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": "36/80",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "149192",
     "name": "Hair Dryer",
     "description": "- Still functioning well, will include all the attachments\n- Used for about 2 years",
@@ -97,6 +86,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "149310",
+    "name": "2.5 seater sofa",
+    "description": "2.5 seater sofa, 2.1m length\nVery good condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "26 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "210",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "149291",
@@ -168,7 +168,7 @@
     "id": "149196",
     "name": "Old sturdy wardrobe",
     "description": "This is really old and I know it doesn't look very good. But some people may appreciate how sturdy it is, so I post here in case someone would want it.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "location": "West Coast",
     "validTill": "20 Sep 2025",
     "ageInYears": 4,
     "dimensions": "153 x 61 x 192 cm",
@@ -468,17 +468,6 @@
     "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "17 Sep 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "148408",
-    "name": "Children Specs",
-    "description": "Children's specs with box. Brand: New Balance. Cant remember what is the degree, prob around 150 & 200.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "13 Sep 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
