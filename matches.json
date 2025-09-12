@@ -667,6 +667,40 @@
     }
   },
   {
+    "id": "149309",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Single Mother with baby in rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Lakeside Family Services - Safe Place",
+      "name": "Linda Lee",
+      "email": "safeplace@lakeside.org.sg",
+      "phone": [
+        "68174202",
+        "88914214"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148842",
+          "name": "Washing machine base",
+          "description": "4 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149282",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
