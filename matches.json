@@ -85,6 +85,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "149353",
+          "name": "Queen mattress and base",
+          "description": "Queen Mattress and Base - Pristine condition, Quilted Top, Box Spring Base.  Used as a guest bed with a mattress protector less than than 20 times.  Mattress protector included.\nCost $1300 new (receipt available). \nVWO to cover transportation cost.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "15 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "Queen size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "149348",
           "name": "Queen size mattress",
           "description": "3 year old queen size mattress for donation. Collection on 2 October",
@@ -758,72 +769,6 @@
     }
   },
   {
-    "id": "149329",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "The family recently moved to a rental flat. mom and elder daughter work part-time, while the younger child is still in school. Their fridge has broken down, and they are in need of a replacement.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Hanissah Abdullah",
-      "email": "hanissah@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149349",
-          "name": "Fridge",
-          "description": "No longer under warranty but we have kept in clean and in good condition. It will be best if the receiver/org can arrange for transport as we are also a non-profit org!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "18 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": "600 X 1715 X 709mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149312",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Elderly couple needs a fridge as the one they had is faulty",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Nurhidayah Binte Sazali",
-      "email": "hidayah@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149349",
-          "name": "Fridge",
-          "description": "No longer under warranty but we have kept in clean and in good condition. It will be best if the receiver/org can arrange for transport as we are also a non-profit org!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "18 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": "600 X 1715 X 709mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149309",
     "category": "Electrical Home Appliances",
     "name": "washing machine",
@@ -1194,73 +1139,6 @@
     }
   },
   {
-    "id": "149048",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family lives in a 2-room rental flat. The mum frequently cooks at home but the refrigerator recently stopped working. Hence, they urgently require a functioning refrigerator, preferably with a bottom freezer for easier access.",
-    "specifications": "600x1720x720mm",
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Vanessa Ong",
-      "email": "vanessa_ong@msf.gov.sg",
-      "phone": [
-        "63549538",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149349",
-          "name": "Fridge",
-          "description": "No longer under warranty but we have kept in clean and in good condition. It will be best if the receiver/org can arrange for transport as we are also a non-profit org!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "18 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": "600 X 1715 X 709mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "148991",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Single mother of 2 is urgently looking for a fridge.",
-    "specifications": null,
-    "contact": {
-      "org": "Life Community Services Society",
-      "name": "Life Community Services Society",
-      "email": "lcss@life-community.org",
-      "phone": [
-        "63873700"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149349",
-          "name": "Fridge",
-          "description": "No longer under warranty but we have kept in clean and in good condition. It will be best if the receiver/org can arrange for transport as we are also a non-profit org!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "18 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": "600 X 1715 X 709mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "148985",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -1424,40 +1302,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Kitchen Utility Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "148923",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Adult male and his co-applicant moved into their HDB rental flat, furnishing is bare and requires basic household items - Fridge and washing machine. Both individuals are actively seeking employment and stabilising their finances.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Restorative Service",
-      "name": "Roy Leng",
-      "email": "royleng@allkin.org.sg",
-      "phone": [
-        "85888537",
-        "60384420"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Aug 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149349",
-          "name": "Fridge",
-          "description": "No longer under warranty but we have kept in clean and in good condition. It will be best if the receiver/org can arrange for transport as we are also a non-profit org!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "18 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": "600 X 1715 X 709mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -1700,74 +1544,6 @@
     }
   },
   {
-    "id": "148485",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is still unfit to work due to  stroke. She lives alone in a 1 roomHDB  rental flat. She needs a washing machine and a fridge as her previous one are faulty.(Fari)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149349",
-          "name": "Fridge",
-          "description": "No longer under warranty but we have kept in clean and in good condition. It will be best if the receiver/org can arrange for transport as we are also a non-profit org!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "18 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": "600 X 1715 X 709mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149339",
-    "category": "Others",
-    "name": "Laptop",
-    "description": "Family of 4 requires a working laptop for studies. Currently they only have 1 laptop to share among 3 childrens.",
-    "specifications": "NA",
-    "contact": {
-      "org": "Tsao Foundation - Hua Mei Clinic",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
-      "phone": [
-        "65939576",
-        "66619545"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "148836",
-          "name": "Laptop low table",
-          "description": "///",
-          "location": null,
-          "validTill": "26 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149027",
     "category": "Others",
     "name": "Laptop",
@@ -1796,6 +1572,50 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149351",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Eldest daughter of 11-member family wishes for a bicycle to commute to work and do grab work to support family. Only her and father are working and contributing to family's income. Mother recently gave birth in August. \n\n*Donor to cover delivery cost",
+    "specifications": "For 150 - 160cm youth",
+    "contact": {
+      "org": "SHINE Children and Youth Services - Hougang",
+      "name": "Ang Hua Jun",
+      "email": "ang_huajun@shine.org.sg",
+      "phone": [
+        "62869905"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148844",
+          "name": "Bicycle helmet",
+          "description": "2 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        },
+        {
+          "id": "148472",
+          "name": "Child bicycle seat (rear mount)",
+          "description": "Rear mounting child bicycle seat.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "17 Sep 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
