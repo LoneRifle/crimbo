@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "149361",
+    "name": "Rice Cooker  x 1",
+    "description": "Rice cooker x 1",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "15 Oct 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "149345",
     "name": "Dehumidifier & air purifier",
     "description": "Novita ND25.5. Left with 1 year warranty, we have kept in clean and in good condition. Would be good if receiver/org can cover for transport as we are also a non-profit!",
@@ -119,6 +130,72 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "149362",
+    "name": "Glass TV console",
+    "description": "Great condition and only blemish is water stains on glass top.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "20 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "TV console height  52 cm (20½″)  TV console width  44 cm (17½″)  TV console length  1.79 m (179 cm, 5′ 10″)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149360",
+    "name": "wooden sofa chair",
+    "description": "single wooden chairs with cushions. The wooden chair is very sturdy. The cushions may need to be replaced. I have 2 of these.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "63x74x68cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149359",
+    "name": "3-seater",
+    "description": "old style wooden 3-seater. The wood frame is good. The cushions probably needs to be replaced (at your own cost).",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "163x74x68",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149358",
+    "name": "coffee table",
+    "description": "wicker coffee table with glass top.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "93x47x59",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149357",
+    "name": "Coffee table",
+    "description": "wooden coffee table with decorative carving, glass top.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "106x42x46",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149356",
+    "name": "Dining Table - Black w/ 2 chairs",
+    "description": "black dining table with 2 chairs.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "118x74x73cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "149354",
@@ -700,28 +777,6 @@
     "validTill": "18 Sep 2025",
     "ageInYears": 1,
     "dimensions": "200x200x200",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "148653",
-    "name": "Medical bed. There is air mattress but not sure if fully working",
-    "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "210 x 104 cm. Height is adjustable",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "148654",
-    "name": "Medical bed. There is air mattress but not sure if fully working",
-    "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "210 x 104 cm. Height is adjustable",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
