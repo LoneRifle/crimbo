@@ -94,28 +94,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "149143",
-          "name": "Hospital Bed with pressure mattress",
-          "description": "Good hospital bed and pressure mattress in clean and fine working condition.",
-          "location": "West Coast",
-          "validTill": "29 Sep 2025",
-          "ageInYears": 3,
-          "dimensions": "205 x 100 x 52cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
-        {
-          "id": "149341",
-          "name": "Brown colour Super Single Bed and Mattress",
-          "description": "This is a super single sized bed frame and will come with magttress.  Please collect it only in November with date to be advised soon.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -1049,6 +1027,40 @@
     }
   },
   {
+    "id": "147739",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "single elder would benefit from a mircowave to heat his meals. No preference on new or used but easy to operate.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Tsao Foundation - Hua Mei Clinic",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "66619545"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149371",
+          "name": "Microwave (non-halal)",
+          "description": "No warranty but we have kept this clean and in decent working condition.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "24 Sep 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "148985",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -1353,6 +1365,39 @@
     }
   },
   {
+    "id": "148573",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client is a middle-aged man undergoing divorce. He is staying alone in his family's owned flat but does not have any support from his family due to a strained relationship. He is diagnosed with multiple mental health conditions and has physical health issues. He requires a new microwave so that he can use it to try cooking basic meals or to heat up his meals on wheels deliveries.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149371",
+          "name": "Microwave (non-halal)",
+          "description": "No warranty but we have kept this clean and in decent working condition.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "24 Sep 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "148561",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -1442,6 +1487,39 @@
           "id": "149344",
           "name": "Vacuum cleaner",
           "description": "No longer under warranty but we have kept in clean and in good condition. Comes with a few attachments.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "24 Sep 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "148464",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "A family of four, including two school-going children, has overcome the risk of homelessness and secured a public rental flat in Sengkang on 8/8/2025. With the husband as the sole breadwinner, they have little left after covering basic needs. They are seeking donations of pre-loved or new furniture and electrical appliances to create a safe and comfortable home for their children.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149371",
+          "name": "Microwave (non-halal)",
+          "description": "No warranty but we have kept this clean and in decent working condition.",
           "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
           "validTill": "24 Sep 2025",
           "ageInYears": 2,
@@ -1626,6 +1704,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149365",
+    "category": "Mobility Aids",
+    "name": "Foldable Walking Frame",
+    "description": "Client, 67, is unemployed due to multiple chronic illnesses and taking care of a son with mental health condition. She will be going for knee replacement op end of the month and would benefit from a walking frame by 24 Sep please.",
+    "specifications": null,
+    "contact": {
+      "org": "Filos Community Services Ltd",
+      "name": "Juliana Yong",
+      "email": null,
+      "phone": [
+        "62411503",
+        "62425978"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "16 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148997",
+          "name": "Foldable Walking Frame",
+          "description": "A fully functional foldable walking frame\n(Colour : Silver )",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "02 Oct 2025",
+          "ageInYears": 3,
+          "dimensions": "L 39  x  W 50.8  x  H 76.2 - 94 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []

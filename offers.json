@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "149371",
+    "name": "Microwave (non-halal)",
+    "description": "No warranty but we have kept this clean and in decent working condition.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "24 Sep 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "149361",
     "name": "Rice Cooker  x 1",
     "description": "Rice cooker x 1",
@@ -132,7 +143,18 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "149362",
+    "id": "149372",
+    "name": "Glass TV console",
+    "description": "Great condition and only blemish is water stains on glass top.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "20 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": "TV console height  52 cm (20½″)  TV console width  44 cm (17½″)  TV console length  1.79 m (179 cm, 5′ 10″)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149373",
     "name": "Glass TV console",
     "description": "Great condition and only blemish is water stains on glass top.",
     "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
@@ -215,17 +237,6 @@
     "location": null,
     "validTill": "01 Oct 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149341",
-    "name": "Brown colour Super Single Bed and Mattress",
-    "description": "This is a super single sized bed frame and will come with magttress.  Please collect it only in November with date to be advised soon.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -748,17 +759,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "148917",
-    "name": "Hospital Bed",
-    "description": "Hospital bed",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "28 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "148541",
     "name": "Peritoneal dialysis solution and misc",
     "description": "28 boxes of 2.3% APD \n2 boxes of CAPD\n2+ 3 rolls of tape\nDisinfectant cap 60pcs\nMid-day drain bag 10pcs\nDrain bag 4pcs\nAlcohol wipes 30pcs\n20pcs x 2-head connectors\n\n+ some other misc supplies related",
@@ -887,17 +887,6 @@
     "validTill": "30 Sep 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "149143",
-    "name": "Hospital Bed with pressure mattress",
-    "description": "Good hospital bed and pressure mattress in clean and fine working condition.",
-    "location": "West Coast",
-    "validTill": "29 Sep 2025",
-    "ageInYears": 3,
-    "dimensions": "205 x 100 x 52cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
