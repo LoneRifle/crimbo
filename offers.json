@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "149371",
-    "name": "Microwave (non-halal)",
-    "description": "No warranty but we have kept this clean and in decent working condition.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "24 Sep 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "149361",
     "name": "Rice Cooker  x 1",
     "description": "Rice cooker x 1",
@@ -227,17 +216,6 @@
     "validTill": "15 Oct 2025",
     "ageInYears": 1,
     "dimensions": "18 x 17 x 18",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149348",
-    "name": "Queen size mattress",
-    "description": "3 year old queen size mattress for donation. Collection on 2 October",
-    "location": null,
-    "validTill": "01 Oct 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -460,6 +438,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "149381",
+    "name": "Child high chair",
+    "description": "Still very sturdy and good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Oct 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "149292",
@@ -746,6 +735,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "149378",
+    "name": "Electric Medical Bed",
+    "description": "No transport. Available in Katong The Electric Bed with Quad Rails provides ergonomic support for users who are bedridden or have limited mobility. The height can be easily adjusted to assist caregivers in easy positioning and for patient transfer.",
+    "location": null,
+    "validTill": "24 Sep 2025",
+    "ageInYears": 2,
+    "dimensions": "216x105",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "149088",
