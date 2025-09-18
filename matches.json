@@ -708,17 +708,6 @@
           "dimensions": "L150, H46, W40",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "149290",
-          "name": "TV Rack",
-          "description": "2 TV Rack with cabinets under it. Great Condition",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "19 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -1689,6 +1678,39 @@
           "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
           "validTill": "01 Oct 2025",
           "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "148759",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is a single mother and a sole caregiver to her 6-year-old daughter. She has been struggling with ongoing health issues, which required her to take hospital leave. She is unable to engage in physically demanding work, severely impacting her ability to secure stable employment.\n \nShe has been running a small home-based baking business on the side, unfortunately her oven has broken down. With no current employment and increasing financial stress, she would greatly benefit from a donor’s support in obtaining a new oven. This would allow her to restart her baking business, relieve some of her financial stressors, and continue providing for her daughter.\n \nClient is looking for a 35L oven to replace her current oven.",
+    "specifications": "35L",
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149452",
+          "name": "Oven for cooking/steaming",
+          "description": "A built in oven which was never used but is in good working condition.item has been cleaned and wrapped ready to be blessed out. Prefer to bless to low income living in sengkang/punggol/hougang area",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Sep 2025",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
