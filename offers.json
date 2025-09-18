@@ -132,6 +132,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "149433",
+    "name": "Dining chairs",
+    "description": "I will not be paying for the collection or transport fee.\nPlease arrange for collection at your end, thanks.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "149432",
     "name": "Brown armchair",
     "description": "Comfy leather armchair for living room",
@@ -139,17 +150,6 @@
     "validTill": "17 Oct 2025",
     "ageInYears": 4,
     "dimensions": "94 x 94 x 89 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149431",
-    "name": "Study table",
-    "description": "Study table for school children.\n(Area: Sengkang/Punggol)",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "17 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": "120cm x 50cm x 77cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -281,6 +281,28 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "19 Sep 2025",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149437",
+    "name": "Shoe Rack",
+    "description": "Shoe Rack for Donation. Great condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149438",
+    "name": "Shoe Rack",
+    "description": "Shoe Rack for Donation. Great condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Sep 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
