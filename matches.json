@@ -1910,40 +1910,6 @@
     }
   },
   {
-    "id": "148485",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is still unfit to work due to  stroke. She lives alone in a 1 roomHDB  rental flat. She needs a washing machine and a fridge as her previous one are faulty.(Fari)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149441",
-          "name": "Sofa, fridge,washing machine,dinning table",
-          "description": "Sofa is 3 years old, \nFridge is in working condition\nDining table is 5 years old",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "24 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149232",
     "category": "Others",
     "name": "Coffee",
@@ -1981,6 +1947,17 @@
           "validTill": "30 Sep 2025",
           "ageInYears": 4,
           "dimensions": "106x42x46",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "149450",
+          "name": "Glass Coffee Table",
+          "description": "In excellent condition",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "18 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "Length 120cm; Width 70cm; Height 35cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
