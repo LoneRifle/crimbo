@@ -1,5 +1,39 @@
 [
   {
+    "id": "149453",
+    "category": "Home Furnishing",
+    "name": "TV console",
+    "description": "A family with 4 children are in need of a TV console (non-glass top panel) for their new rental flat. The parents are currently unemployed and husband has recently fractured his leg. They are on financial assistance and seeking for employment after they settle into the new rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Ken Toh",
+      "email": "ken_zq_toh@msf.gov.sg",
+      "phone": [
+        "62319385",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149320",
+          "name": "TV console",
+          "description": "Light oak wood TV console. Well maintained, in good working condition.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "20 Sep 2025",
+          "ageInYears": 4,
+          "dimensions": "L150, H46, W40",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149439",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -713,40 +747,6 @@
     }
   },
   {
-    "id": "149376",
-    "category": "Electrical Home Appliances",
-    "name": "Air purifier",
-    "description": "Client is a single mother with 2 young children aged 6yo and 4yo. She is not working as she has social anxiety and is currently undergoing cancer treatment. The after effects of the treatment causes hair loss and fatigue. Client hopes to have a handheld vacuum which is more portable and also an air purifier for her child who has sensitive skin and airways.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Yvonne Pua",
-      "email": "yvonne_pua@msf.gov.sg",
-      "phone": [
-        "67367431",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149345",
-          "name": "Dehumidifier & air purifier",
-          "description": "Novita ND25.5. Left with 1 year warranty, we have kept in clean and in good condition. Would be good if receiver/org can cover for transport as we are also a non-profit!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "24 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149329",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -1030,40 +1030,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149222",
-    "category": "Electrical Home Appliances",
-    "name": "Dehumidifier",
-    "description": "Family of 5 living in a rental flat, including parents, a 5-year-old and a pair 4-year-old twins. Father is the sole breadwinner, while mother is a homemaker. The twins were born premature, leading to weaker immune systems. Father suffers from eczema, while mother has a back injury which prevents her from working. The family is experiencing mould issues in their rental home, which have exacerbated their health problems, particularly the children’s, including frequent high fevers, rashes, eczema, and many hospital visits. Mother has tried to clean the home regularly, air the home, and use an air purifier, but it does not seem to be helping. They are hoping for a dehumidifier to help alleviate the mould and mildew issues.",
-    "specifications": "No specific dimensions.",
-    "contact": {
-      "org": "Touch Community Services Ltd",
-      "name": "Jamie Chua",
-      "email": "jamie.chua@touch.org.sg",
-      "phone": [
-        "98369679",
-        "63770122"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149345",
-          "name": "Dehumidifier & air purifier",
-          "description": "Novita ND25.5. Left with 1 year warranty, we have kept in clean and in good condition. Would be good if receiver/org can cover for transport as we are also a non-profit!",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "24 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
