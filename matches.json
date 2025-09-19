@@ -680,6 +680,51 @@
     }
   },
   {
+    "id": "149471",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "A family of four supported by elderly grandparents as requires a new washing machine as their current one is faulty and keeps leaking. The grandfather is undergoing dialysis, while the grandmother continues to work daily despite her age and existing health conditions.",
+    "specifications": "Medium",
+    "contact": {
+      "org": "Club Rainbow (Singapore)",
+      "name": "Nurulhuda Binte Abu Bakar",
+      "email": "nurul@clubrainbow.org",
+      "phone": [
+        "81336189",
+        "63771789"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "148842",
+          "name": "Washing machine base",
+          "description": "4 pieces.",
+          "location": null,
+          "validTill": "26 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Kitchen Utility Items"
+        },
+        {
+          "id": "149441",
+          "name": "Sofa, fridge,washing machine,dinning table",
+          "description": "Sofa is 3 years old, \nFridge is in working condition\nDining table is 5 years old",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "24 Sep 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149443",
     "category": "Electrical Home Appliances",
     "name": "TV",
