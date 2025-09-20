@@ -1,38 +1,5 @@
 [
   {
-    "id": "149277",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Family of 4 with young school going children lives in a public rental flat with other family members, seeking assistance for a foldable mattress as the current one has worn out. A donation of a foldable mattress would greatly assist in helping them reducing their expenses and improving the sleep comfort of the family. For further details, do reach out to Ignatius at 87188452 or ignatius.pereira@thkmc.org.sg.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149487",
-          "name": "Latex mattress",
-          "description": "Queen size latex mattress",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "20 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "190x150x10cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149007",
     "category": "Home Furnishing",
     "name": "sofa",
@@ -60,6 +27,152 @@
           "dimensions": "63x74x68cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "149491",
+          "name": "3 seater leather sofa two year old",
+          "description": "Two year old 3 seater leather for blessing",
+          "location": null,
+          "validTill": "02 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149426",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Nuclear family of 3 with a 5 years old child with Autism. Due to feeding challenges, the child relies on formula milk for sources of nutrients. Mum is the sole breadwinner as Dad is the main caregiver and has been medically certified to be unfit for work.",
+    "specifications": "Dumex Dugro Growing Up Milk - Step 4",
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Lee Mei Yi",
+      "email": "meiyilee@rainbowcentre.org.sg",
+      "phone": [
+        "68179466",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149488",
+          "name": "Newborn Milk Powder - Frisolac Gold Stage 1 with 2'-FL 900g",
+          "description": "Frisolac Gold Stage 1 with 2'-FL 900g\nFor Infants From 0 to 6 Months\nWith NOVAS Signature Milk from our own farms in the Netherlands.\nHigh quality milk through our dairy science expertise.\nLockNutri is an advanced process technology that locks in milk protein structure in its natural form.\nContains: 2'-FL, GOS, DHA, AA, Nucleotides",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "148644",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is a single mother, currently unemployed with no income. She has 5 children aged 10 years, 9 years, 8 years, 7 years and 8 months old. She is in need of milk powder (Enfamilk Pro A+ Stage 2) for her 8 months old child.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149488",
+          "name": "Newborn Milk Powder - Frisolac Gold Stage 1 with 2'-FL 900g",
+          "description": "Frisolac Gold Stage 1 with 2'-FL 900g\nFor Infants From 0 to 6 Months\nWith NOVAS Signature Milk from our own farms in the Netherlands.\nHigh quality milk through our dairy science expertise.\nLockNutri is an advanced process technology that locks in milk protein structure in its natural form.\nContains: 2'-FL, GOS, DHA, AA, Nucleotides",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "148581",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Family is depending on sole breadwinner's part-time employment after job suspension due to upcoming incarceration. The family is facing financial hardship in affording basic necessities for the family.",
+    "specifications": "Dumex Dulac Infant Milk Formula - Step 2 & Dumex DUGRO Stage 3 - Original",
+    "contact": {
+      "org": "MSF Social Service Office @ Geylang Serai",
+      "name": "Ashikin Hazlan",
+      "email": "ashikin_hazlan@msf.gov.sg",
+      "phone": [
+        "62319440",
+        "62438753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149488",
+          "name": "Newborn Milk Powder - Frisolac Gold Stage 1 with 2'-FL 900g",
+          "description": "Frisolac Gold Stage 1 with 2'-FL 900g\nFor Infants From 0 to 6 Months\nWith NOVAS Signature Milk from our own farms in the Netherlands.\nHigh quality milk through our dairy science expertise.\nLockNutri is an advanced process technology that locks in milk protein structure in its natural form.\nContains: 2'-FL, GOS, DHA, AA, Nucleotides",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "148579",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Family of 4 is depending on the sole breadwinner's gross salary of $1.2k. Son can only take soy milk which is pricier and family is unable to afford.",
+    "specifications": "Isomil 1-10yrs",
+    "contact": {
+      "org": "MSF Social Service Office @ Geylang Serai",
+      "name": "Ashikin Hazlan",
+      "email": "ashikin_hazlan@msf.gov.sg",
+      "phone": [
+        "62319440",
+        "62438753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149488",
+          "name": "Newborn Milk Powder - Frisolac Gold Stage 1 with 2'-FL 900g",
+          "description": "Frisolac Gold Stage 1 with 2'-FL 900g\nFor Infants From 0 to 6 Months\nWith NOVAS Signature Milk from our own farms in the Netherlands.\nHigh quality milk through our dairy science expertise.\nLockNutri is an advanced process technology that locks in milk protein structure in its natural form.\nContains: 2'-FL, GOS, DHA, AA, Nucleotides",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -1169,6 +1282,40 @@
           "dimensions": "Length 120cm; Width 70cm; Height 35cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "148715",
+    "category": "Others",
+    "name": "Milk Powder",
+    "description": "Low income family needs milk powder to support son with developmental delays. Doctors have advised milk powder to build up his physique as he has developmental delays, resulting in having smaller lungs, making him susceptible to sickness and needing long recovery periods that affect his school attendance and studies. However, family cannot afford it due to having multiple dependents (more than 2 children with special needs and developmental delays).",
+    "specifications": null,
+    "contact": {
+      "org": "Lakeside Family Centre - Jurong West",
+      "name": "Leah Lim",
+      "email": "leah-lim@lakeside.org.sg",
+      "phone": [
+        "65671908ext424",
+        "65671908"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149488",
+          "name": "Newborn Milk Powder - Frisolac Gold Stage 1 with 2'-FL 900g",
+          "description": "Frisolac Gold Stage 1 with 2'-FL 900g\nFor Infants From 0 to 6 Months\nWith NOVAS Signature Milk from our own farms in the Netherlands.\nHigh quality milk through our dairy science expertise.\nLockNutri is an advanced process technology that locks in milk protein structure in its natural form.\nContains: 2'-FL, GOS, DHA, AA, Nucleotides",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "20 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
