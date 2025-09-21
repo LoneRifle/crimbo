@@ -572,6 +572,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "149517",
+    "name": "Dishwashing Rack",
+    "description": "Brand new dishwashing rack!",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "21 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": "38cm x 19.5cm x 30.3cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "149188",
     "name": "Zebra Stainless Steel pot",
     "description": "Zebra stainless steel pot with lid, 20cm. Non-halal. Used only a few times. Can be used on induction cooker.",
@@ -1062,17 +1073,6 @@
     "location": "Balestier, Toa Payoh",
     "validTill": "26 Sep 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "148683",
-    "name": "24\" Dell Monitor",
-    "description": "24\" VGA Dell Monitor. Please note that the on/off switch is not sensitive and requires to press a few times to switch it on. Power off still ok.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Sep 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
