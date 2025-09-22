@@ -572,17 +572,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "149517",
-    "name": "Dishwashing Rack",
-    "description": "Brand new dishwashing rack!",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "21 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "38cm x 19.5cm x 30.3cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "149188",
     "name": "Zebra Stainless Steel pot",
     "description": "Zebra stainless steel pot with lid, 20cm. Non-halal. Used only a few times. Can be used on induction cooker.",
@@ -655,17 +644,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "21 Oct 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "149496",
-    "name": "Guitar",
-    "description": "Good for playing! Comes with guitar bag.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "20 Oct 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
@@ -790,6 +768,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "149520",
+    "name": "2 wheelchairs to give away",
+    "description": "2 wheelchairs to give away. Barely used. suitable for children and teenagers",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "22 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "149501",
