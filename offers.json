@@ -44,8 +44,8 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "149556",
-    "name": "Floor standing light",
+    "id": "149563",
+    "name": "Hand held fan",
     "description": "///",
     "location": null,
     "validTill": "22 Oct 2025",
@@ -55,13 +55,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "149486",
-    "name": "Panasonic Oven and steamer",
-    "description": "Good working condition. \n\nhttps://www.panasonic.com/sg/support/product-archives/product-archives-consumer/kitchen-appliance/microwave-oven/cubie-steam-oven/nu-sc100.html",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "20 Oct 2025",
+    "id": "149556",
+    "name": "Floor standing light",
+    "description": "///",
+    "location": null,
+    "validTill": "22 Oct 2025",
     "ageInYears": 2,
-    "dimensions": "35.5cm by 45.5cm by 35.1cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -130,6 +130,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "149567",
+    "name": "Chair",
+    "description": "4 pieces.",
+    "location": null,
+    "validTill": "22 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": "Seat height 32cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "149514",
@@ -341,17 +352,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148925",
-    "name": "Hospital bed",
-    "description": "Air bed",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "29 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "148837",
     "name": "Children chairs",
     "description": "4 chairs",
@@ -539,6 +539,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "149558",
+    "name": "Wooden bucket",
+    "description": "///",
+    "location": null,
+    "validTill": "22 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": "22cmDiax40cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "149188",
     "name": "Zebra Stainless Steel pot",
     "description": "Zebra stainless steel pot with lid, 20cm. Non-halal. Used only a few times. Can be used on induction cooker.",
@@ -581,6 +592,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "149561",
+    "name": "Sepak Takraw and Chatey",
+    "description": "///",
+    "location": null,
+    "validTill": "22 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "149557",
+    "name": "Flower pot and pot base",
+    "description": "///",
+    "location": null,
+    "validTill": "22 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "149555",
@@ -748,34 +781,12 @@
     "category": "Medical Aids"
   },
   {
-    "id": "149501",
-    "name": "Foldable wheel chair",
-    "description": "Na",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "149495",
     "name": "Exercise machine",
     "description": "Suitable for senior to exercise.",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "20 Oct 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "149448",
-    "name": "Motorised wheel chair",
-    "description": "Electrical wheel chair with charger \n3 months used",
-    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-    "validTill": "18 Oct 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -858,6 +869,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "149565",
+    "name": "Containers",
+    "description": "///",
+    "location": null,
+    "validTill": "22 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "149564",
+    "name": "Clothes hanger",
+    "description": "///",
+    "location": null,
+    "validTill": "22 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": "58cmW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "149511",
     "name": "book",
     "description": "book",
@@ -865,17 +898,6 @@
     "validTill": "21 Oct 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "149503",
-    "name": "Drinks",
-    "description": "Fresubin drink 33 bottles - Expiry 03-2026",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "Na",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
