@@ -18,6 +18,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "149574",
+          "name": "Ikea Sofa Bed",
+          "description": "Very Seldom Use, has being covering it so still in good condition. \nFoldable 3 pax seat sofa, to queen size bed.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "22 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": "1200 X 2000 x 900",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "149360",
           "name": "wooden sofa chair",
           "description": "single wooden chairs with cushions. The wooden chair is very sturdy. The cushions may need to be replaced. I have 2 of these.",
@@ -923,6 +934,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149352",
+    "category": "Infant and Children Items",
+    "name": "Playpen",
+    "description": "Family of 11 requires a PLAYPEN (size of baby cot) for second youngest son to play in away from newborn. Free space in house is very limited, hence size should not exceed size of a baby cot. Ideal for playpen to be on the floor (as child likes to jump) and have higher walls.\n\n*Donor to cover delivery please",
+    "specifications": "60cm x 120cm",
+    "contact": {
+      "org": "SHINE Children and Youth Services - Hougang",
+      "name": "Ang Hua Jun",
+      "email": "ang_huajun@shine.org.sg",
+      "phone": [
+        "62869905"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149577",
+          "name": "Playpen",
+          "description": "It is a used playpen without the playmat. It comes with handle rings and balls.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "22 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "180cm x 200cm x 66cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
