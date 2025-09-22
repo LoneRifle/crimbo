@@ -132,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149499",
-    "name": "Ikea Bed Frame with Mattress for Children",
-    "description": "Comes with original Ikea bed rail, additional Molee bed rail, mattress protector, bed sheets for girls (all pre-loved)\nBed frame is dismantled. Taker needs to assemble it themselves.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "26 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "149498",
     "name": "Muji beanbag",
     "description": "Muji bean bag grey colour, used but in good condition",
@@ -183,17 +172,6 @@
     "validTill": "20 Oct 2025",
     "ageInYears": 2,
     "dimensions": "120cm x 200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149487",
-    "name": "Latex mattress",
-    "description": "Queen size latex mattress",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "20 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "190x150x10cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -297,17 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149354",
-    "name": "USED RESTAURANT CHAIRS",
-    "description": "Condition: Used - like new\n\nColor: Purple\n\nWe have about 100 units of solid wooden dining chairs available for sale.\n\nCondition: Pre-owned, sturdy and still in good usable condition.\n\nDesign: Dark wood frame with cushioned seat and backrest (purple upholstery).\n\nSuitable for: Restaurants, cafes, banquet use, community halls, or home dining setups.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "15 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "18 x 17 x 18",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "149311",
     "name": "Study Table 160cmx80cm",
     "description": "Study table with adjustable height.",
@@ -337,17 +304,6 @@
     "validTill": "28 Sep 2025",
     "ageInYears": 4,
     "dimensions": "68x100x58cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149099",
-    "name": "Dining table",
-    "description": "Slight scratches on the top and legs, but otherwise in good condition",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "06 Oct 2025",
-    "ageInYears": 3,
-    "dimensions": "Height - 75, diameter - 106cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -446,17 +402,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "21 Oct 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "149488",
-    "name": "Newborn Milk Powder - Frisolac Gold Stage 1 with 2'-FL 900g",
-    "description": "Frisolac Gold Stage 1 with 2'-FL 900g\nFor Infants From 0 to 6 Months\nWith NOVAS Signature Milk from our own farms in the Netherlands.\nHigh quality milk through our dairy science expertise.\nLockNutri is an advanced process technology that locks in milk protein structure in its natural form.\nContains: 2'-FL, GOS, DHA, AA, Nucleotides",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Oct 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -704,17 +649,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "149516",
-    "name": "Dell S2817Q PC Monitor",
-    "description": "PC monitor in excellent condition. \nBrand: Dell\nScreen size: 28 Inches\nResolution: 4K UHD 2160p\nAspect ratio: 1.78:1\nScreen surface description: Glossy\nResponse time\t2 Milliseconds\nRefresh rate: 60\nMaximum display resolution: 3840 x 2160\nSpecial features: Built-In Speakers\nConnectivity technology: HDMI",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "21 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "28 Inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "149096",
     "name": "German language course material",
     "description": "Self learning German course material consist of 8 audio cassette, 4 text books and instructions manual. In old set but in fairly good condition. The cassettes are still in playable condition.",
@@ -759,6 +693,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "149536",
+    "name": "hospital bed",
+    "description": "NIL",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "09 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "149088",
     "name": "BiPaP Machine",
     "description": "Brand: YuWell\nModel: YH-830 with water tank\nPower adapter and cable\nSD Card\nBiPap Air file \nExclude Mask",
@@ -783,17 +728,6 @@
   {
     "id": "149501",
     "name": "Foldable wheel chair",
-    "description": "Na",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "149500",
-    "name": "Walking frame & Walking stick",
     "description": "Na",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "21 Oct 2025",
