@@ -198,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149491",
-    "name": "3 seater leather sofa two year old",
-    "description": "Two year old 3 seater leather for blessing",
-    "location": null,
-    "validTill": "02 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "149489",
     "name": "Mattress topper",
     "description": "Seahorse brand mattress topper (good condition, seldom use)",
@@ -473,17 +462,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "149451",
-    "name": "baby diaper tape XL",
-    "description": "bbby diaper tape XL size. for baby of above 15kg",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "18 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "149427",
     "name": "Children's mask",
     "description": "Assure surgical mask for Children \n3 ply ear loop \n3 boxes of which 1 box is opened but almost full.",
@@ -512,17 +490,6 @@
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "30 Sep 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "149215",
-    "name": "Stroller",
-    "description": "Maximum weight is 21 kg. Works well!",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "30 Sep 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -803,6 +770,28 @@
     "category": "Learning Aids"
   },
   {
+    "id": "149596",
+    "name": "medical items",
+    "description": "less than 3 mths usage",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "05 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "149592",
+    "name": "Hospital bed",
+    "description": "Electrical hospital bed",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "23 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "149378",
     "name": "Electric Medical Bed",
     "description": "No transport. Available in Katong The Electric Bed with Quad Rails provides ergonomic support for users who are bedridden or have limited mobility. The height can be easily adjusted to assist caregivers in easy positioning and for patient transfer.",
@@ -933,6 +922,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "149591",
+    "name": "White Board",
+    "description": "White board hardly used, almost new. comes with manual to assemble and can be dismantled for transport",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "29 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "1.21meters x 1.7 meters (overall hight: 2 meters)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "149565",
