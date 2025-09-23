@@ -1261,5 +1261,38 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "148999",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "wheelchair for plus size elderly",
+    "specifications": "wheelchair for plus size elderly",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149587",
+          "name": "Wheelchair",
+          "description": "Lightly used BION wheelchair",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
