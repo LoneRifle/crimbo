@@ -1,5 +1,39 @@
 [
   {
+    "id": "149625",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Family of 3 with a 4yo has been relocated due to en-bloc of their previous HDB rental flat. Father is the sole breadwinner, and Mother is a stay-home caregiver for their 4yo. They have difficulties furnishing their flat on Father's sole income.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Venus Tang",
+      "email": "venus_tang@msf.gov.sg",
+      "phone": [
+        "65139140",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149089",
+          "name": "Portable Low Dining Table",
+          "description": "This portable low dining table comes with customised table legs for extra reinforcement to withhold pressure. Suitable for people who cannot dine at the normal height dining table.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Sep 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149602",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -115,40 +149,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Kitchen Utility Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149585",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum",
-    "description": "Family with financial difficulty hopes to have a vacuum. They are staying in 2-room flat with 2 young children.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "E. Christina Joy",
-      "email": "christinajoy@fycs.org",
-      "phone": [
-        "63519505",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149620",
-          "name": "Roborock Vacuum",
-          "description": "Roborock Vacuum 7 Max Ultra",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "24 Oct 2025",
-          "ageInYears": 3,
-          "dimensions": "NA",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
