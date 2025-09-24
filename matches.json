@@ -63,6 +63,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "149636",
+          "name": "Two-seater Grey Fabric Sofa",
+          "description": "Two-seater fabric grey sofa that is in very good condition and rarely used. Had it for 3 years. Headrest can be adjusted. Need to remove it from home on 30 September.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Sep 2025",
+          "ageInYears": 3,
+          "dimensions": "175cm x 95cm x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "149514",
           "name": "Green suede 2 seater sofa",
           "description": "Pre-loved",
@@ -103,6 +114,17 @@
           "validTill": "30 Sep 2025",
           "ageInYears": 4,
           "dimensions": "63x74x68cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "149636",
+          "name": "Two-seater Grey Fabric Sofa",
+          "description": "Two-seater fabric grey sofa that is in very good condition and rarely used. Had it for 3 years. Headrest can be adjusted. Need to remove it from home on 30 September.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Sep 2025",
+          "ageInYears": 3,
+          "dimensions": "175cm x 95cm x 40cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -155,40 +177,6 @@
     }
   },
   {
-    "id": "149600",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Client is a single male in his 50s who requires a microwave, as his existing one has recently broken down. \n\nDue to health issues, he has been unable to maintain stable employment, resulting in irregular income that makes it challenging to meet his daily needs.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Hillary Heng",
-      "email": "hillary@frcsfsc.sg",
-      "phone": [
-        "67799488ext54",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149629",
-          "name": "Sharp microwave with grill (lightly used, urgent)",
-          "description": "Sharp multi function microwave with grill. Lightly used. Well kept and clean. \nUrgent, keep contact me immediately",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "30 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149528",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -217,40 +205,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149518",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Family consist of a single mother and her pre-school age son. They just moved into their new rental flat and is looking for a microwave to heat up their food.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149629",
-          "name": "Sharp microwave with grill (lightly used, urgent)",
-          "description": "Sharp multi function microwave with grill. Lightly used. Well kept and clean. \nUrgent, keep contact me immediately",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "30 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []
@@ -687,40 +641,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "147739",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "single elder would benefit from a mircowave to heat his meals. No preference on new or used but easy to operate.",
-    "specifications": "NA",
-    "contact": {
-      "org": "Tsao Foundation - Hua Mei Clinic",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
-      "phone": [
-        "65939576",
-        "66619545"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149629",
-          "name": "Sharp microwave with grill (lightly used, urgent)",
-          "description": "Sharp multi function microwave with grill. Lightly used. Well kept and clean. \nUrgent, keep contact me immediately",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "30 Sep 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []

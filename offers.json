@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "149626",
-    "name": "K-Grill",
-    "description": "K-Grill",
-    "location": null,
-    "validTill": "15 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "149578",
     "name": "Water Dispenser 3M",
     "description": "3M Water Dispenser Model HCD-2\nstill in working condition\ncold water mode - not functioning\nhot water mode - working well",
@@ -152,6 +141,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "149636",
+    "name": "Two-seater Grey Fabric Sofa",
+    "description": "Two-seater fabric grey sofa that is in very good condition and rarely used. Had it for 3 years. Headrest can be adjusted. Need to remove it from home on 30 September.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": "175cm x 95cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "149613",
@@ -361,6 +361,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "149637",
+    "name": "Similac Formula Gain Stage 4 (age 3+)",
+    "description": "Unopened",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "24 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "149635",
+    "name": "Cuchen UV Sterilizer",
+    "description": "UV sterilizer for sterilizing baby bottles, teat etc.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "149580",
@@ -847,28 +869,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "149629",
-    "name": "Sharp microwave with grill (lightly used, urgent)",
-    "description": "Sharp multi function microwave with grill. Lightly used. Well kept and clean. \nUrgent, keep contact me immediately",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 Sep 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "149627",
-    "name": "Brand new Baby carrier (immediate)",
-    "description": "Brand new baby carrier. Navy. From birth to toddler",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "149591",
     "name": "White Board",
     "description": "White board hardly used, almost new. comes with manual to assemble and can be dismantled for transport",
@@ -1006,17 +1006,6 @@
     "description": "To bless - bundle of maternity/nursing clothes (fits size S/M best), earth mama perineal spray (3/4 left), portable bidet for postpartum. \n\nSelf collect from my place in Braddell/TPY (postal code 319459) or I can arrange courier delivery",
     "location": null,
     "validTill": "30 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "149095",
-    "name": "SKG K5-3 neck massager",
-    "description": "Used once only, good condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "25 Sep 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
