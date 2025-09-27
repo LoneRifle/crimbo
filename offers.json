@@ -275,17 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149101",
-    "name": "Used IKEA RENBERGET Office Chair",
-    "description": "Used office chair with minimal wear. Bottom screw missing but still ok to use as a chair. Will be disassembled and cleaned before it is passed on.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "28 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "68x100x58cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "149089",
     "name": "Portable Low Dining Table",
     "description": "This portable low dining table comes with customised table legs for extra reinforcement to withhold pressure. Suitable for people who cannot dine at the normal height dining table.",
@@ -550,17 +539,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "148918",
-    "name": "Large whiteboard",
-    "description": "Large whiteboard used for teaching classes",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "250 x 120cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "149682",
     "name": "medical items",
     "description": "items less than 3 mths old",
@@ -616,6 +594,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "149698",
+    "name": "Mobil commode",
+    "description": "Unused.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "27 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "149697",
+    "name": "Mobility chair",
+    "description": "Used for less than 2 weeks",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "27 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "149495",
     "name": "Exercise machine",
     "description": "Suitable for senior to exercise.",
@@ -669,6 +669,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "149696",
+    "name": "3-crank hospital bed",
+    "description": "Barely used for only two weeks.",
+    "location": null,
+    "validTill": "27 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "149695",
