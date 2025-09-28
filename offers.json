@@ -1,16 +1,5 @@
 [
   {
-    "id": "149700",
-    "name": "X2 brand new TOP laundry detergent",
-    "description": "X2 brand new TOP laundry detergent (3 in 1)\n3.6 kg",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "28 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "149505",
     "name": "Worn once sketchers shoe,collected a bit dust",
     "description": "Worn only once Sketchers shoe, collected a bit dust, brought in July 2025.  Us size 13, uk size 12, black",
@@ -306,6 +295,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "149704",
+    "name": "Baby cot",
+    "description": "Used baby cot purchased from hatchery (https://www.hatchery.com.sg/collections/baby-beds/products/babyletto-hudson-3-in-1-convertible-crib-with-toddler-bed-conversion-kit). Kept in very good condition. \n\nWish to bless this item to someone who needs it more as my kid has outgrown it.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "149687",
@@ -744,6 +744,28 @@
     "validTill": "25 Oct 2025",
     "ageInYears": 4,
     "dimensions": "180 x 120 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "149702",
+    "name": "Brand new Baby carrier (immediate)",
+    "description": "Brand new baby carrier. Navy. From birth to toddler",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "149703",
+    "name": "Brand new Baby carrier (immediate)",
+    "description": "Brand new baby carrier. Navy. From birth to toddler",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "30 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
