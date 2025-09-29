@@ -29,6 +29,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "149748",
+          "name": "Super Single Mattress",
+          "description": "2 pieces of super single mattress. 1 piece is brand new and another piece is 1 year+",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "29 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "180x110x25cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "149613",
           "name": "King Size Mattress",
           "description": "Bought this mattress in December 2022.  This is a very new King Size mattress. No stains etc.\nI am donating it because I needed more space in my bedroom for another furniture",
@@ -44,33 +55,67 @@
     }
   },
   {
-    "id": "149602",
+    "id": "149401",
     "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "A family of four with 3 years old twins. They are currently residing in a rental flat and are facing financial and employment instability due to ongoing caregiving responsibilities. The family is in the process of securing childcare, which they hope will allow the parents to seek employment and improve their financial situation. They are currently in need of a sofa to improve their living conditions and create a more comfortable home environment for the children. Any support or donation would be greatly appreciated. Please Whatsapp Jie Qi at 8484 6181 or email to jieqi.yeo@thkmc.org.sg to liaise.",
-    "specifications": "2-3 Seater Sofa",
+    "name": "Single Mattress",
+    "description": "Sourcing for a single mattress for a family of 7 whose house was infested with bed bugs recently and had to throw away the bed frame/mattress. The family is a single-parent unit with 6 children and have financial limitations in replacing the beds for the children",
+    "specifications": "Nil",
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
       "phone": [
-        "62706711"
+        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
+    "date": "17 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149748",
+          "name": "Super Single Mattress",
+          "description": "2 pieces of super single mattress. 1 piece is brand new and another piece is 1 year+",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "29 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "180x110x25cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149590",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is unemployed as she needs to take care of her 1 year-old daughter. Her husband is unable to provide financial support her. Hence, there is minimal amount of income to the household. The expenses on the daughter's milk powder and diapers can be taxing on the family.",
+    "specifications": "mamy poko pants XL",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
     "date": "23 Sep 2025",
     "matches": {
       "passiton": [
         {
-          "id": "149360",
-          "name": "wooden sofa chair",
-          "description": "single wooden chairs with cushions. The wooden chair is very sturdy. The cushions may need to be replaced. I have 2 of these.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "id": "149755",
+          "name": "Adult Diapers Pants & Pads",
+          "description": "New \n\n* Self arranges for transportation.\n\nPls contact me via whatsapp",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "30 Sep 2025",
-          "ageInYears": 4,
-          "dimensions": "63x74x68cm",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -104,6 +149,40 @@
           "dimensions": "180cm x 200cm x 66cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149477",
+    "category": "Others",
+    "name": "Tablet",
+    "description": "Mr Hong, age 90, widowed lives with his nephew who is mute, deaf and intellectually disabled. \n\nNephew does not work and stays at home most of the time. while he has been to a special needs school during his teenage years, he is not able to be meaningfully employed in the later years\n\na tablet would enable him to learn materials through videos, and for faster communication when social worker needs to reach out to him",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Sabrina Wong",
+      "email": "sabrina.wong@thkmc.org.sg",
+      "phone": [
+        "63371201",
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149749",
+          "name": "Tall side Tablet",
+          "description": "Is a wooden side tall side table, look brand new",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "29 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "39x39x103cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -160,6 +239,39 @@
           "dimensions": "Length 120cm; Width 70cm; Height 35cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149455",
+    "category": "Medical Aids",
+    "name": "Diapers",
+    "description": "Client is caring for two elderly parents who required medical needs. Client is earning low wages. Client's parent need to wear diaper daily due to medical issues.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Rachel Fu",
+      "email": "rachel.fu@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149755",
+          "name": "Adult Diapers Pants & Pads",
+          "description": "New \n\n* Self arranges for transportation.\n\nPls contact me via whatsapp",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Sep 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
