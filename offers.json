@@ -110,17 +110,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149693",
-    "name": "Sofa",
-    "description": "Grey sofa\nLength: 270cm\nWidth: 100cm\nHeight: 75cm",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "270cm X100cm X 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "149613",
     "name": "King Size Mattress",
     "description": "Bought this mattress in December 2022.  This is a very new King Size mattress. No stains etc.\nI am donating it because I needed more space in my bedroom for another furniture",
@@ -572,28 +561,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "149536",
-    "name": "hospital bed",
-    "description": "NIL",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "09 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "149640",
-    "name": "Blood Pressure Monitor",
-    "description": "Brand New. Got it from clinic.\n\nI can deliver to any part of Singapore.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "09 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "149088",
     "name": "BiPaP Machine",
     "description": "Brand: YuWell\nModel: YH-830 with water tank\nPower adapter and cable\nSD Card\nBiPap Air file \nExclude Mask",
@@ -605,11 +572,33 @@
     "category": "Medical Aids"
   },
   {
-    "id": "149698",
-    "name": "Mobil commode",
-    "description": "Unused.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "27 Oct 2025",
+    "id": "149709",
+    "name": "Commode",
+    "description": "Aluminium commode. Complete set. Used once to test patient's suitability. Kept in dry storage. Interested VWO please contact me. Delivery will be made after office hours and weekends.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "149708",
+    "name": "Walking Frame",
+    "description": "Walking Frame to giveaway. Never used. Interested VWO please contact me. Delivery will be made after office hours and weekends.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "149707",
+    "name": "Foldable Wheelchair",
+    "description": "Foldable wheelchair to give away. Interested VWO please contact me. Delivery can only be made after office hours or weekends.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Oct 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -669,17 +658,6 @@
     "dimensions": "L 39  x  W 50.8  x  H 76.2 - 94 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "149696",
-    "name": "3-crank hospital bed",
-    "description": "Barely used for only two weeks.",
-    "location": null,
-    "validTill": "27 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "149688",
