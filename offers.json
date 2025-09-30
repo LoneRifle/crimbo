@@ -67,7 +67,7 @@
   },
   {
     "id": "149750",
-    "name": "Offering Table",
+    "name": "Side Table",
     "description": "is a 3 years old table but it look like brand new",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "29 Oct 2025",
@@ -484,13 +484,24 @@
     "category": "Medical Aids"
   },
   {
-    "id": "149747",
-    "name": "wheelchair",
-    "description": "is a brand new wheelchair that have not been used",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "29 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "40x26x37\"",
+    "id": "149766",
+    "name": "Mobility aids",
+    "description": "Two frames \nVery good condition",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "05 Oct 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "149765",
+    "name": "Wheelchair",
+    "description": "Wheel chair which can be raised to a full flat position to let the patient lie down if required",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "05 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -548,6 +559,17 @@
     "dimensions": "L 39  x  W 50.8  x  H 76.2 - 94 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "149762",
+    "name": "Glucerna milk",
+    "description": "7 cartons of Glucerna milk",
+    "location": null,
+    "validTill": "05 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "149688",
