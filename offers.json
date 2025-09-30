@@ -66,6 +66,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "149794",
+    "name": "Cupboard",
+    "description": "Can be used as Wardrobe or storage cupboard",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "30 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": "89x59x203Cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149792",
+    "name": "Bed chair and dinning table and benches",
+    "description": "Dinning table 153x85x75cm\nBench(2 pieces) each 120x60x90cm\nArm chair 65x65x85cm\nSingle bed with bed frame and head and matters 200x100x75cm",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "30 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "149773",
     "name": "Glass top dining table",
     "description": "Black glass top and silver legs. No rust on legs. Still very stable table. \n\n- Ideal for small to medium dining areas\n- Tempered glass table top with design",
@@ -106,17 +128,6 @@
     "validTill": "02 Oct 2025",
     "ageInYears": 3,
     "dimensions": "190cmX 195cm X 30cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149732",
-    "name": "Storage bed frames",
-    "description": "Storage bed frames without mattresses - 1 Queen size and 2 singles",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "18 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -183,17 +194,6 @@
     "validTill": "20 Oct 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149489",
-    "name": "Mattress topper",
-    "description": "Seahorse brand mattress topper (good condition, seldom use)",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "20 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": "120cm x 200cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -506,23 +506,23 @@
     "category": "Medical Aids"
   },
   {
-    "id": "149766",
-    "name": "Mobility aids",
-    "description": "Two frames \nVery good condition",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "05 Oct 2025",
+    "id": "149809",
+    "name": "Mobility scooter",
+    "description": "Mobility scooter for elderly",
+    "location": null,
+    "validTill": "30 Oct 2025",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
   {
-    "id": "149765",
-    "name": "Wheelchair",
-    "description": "Wheel chair which can be raised to a full flat position to let the patient lie down if required",
+    "id": "149766",
+    "name": "Mobility aids",
+    "description": "Two frames \nVery good condition",
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "05 Oct 2025",
-    "ageInYears": 2,
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
