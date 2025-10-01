@@ -1,5 +1,39 @@
 [
   {
+    "id": "149656",
+    "category": "Home Furnishing",
+    "name": "Single bed",
+    "description": "Client has history of stroke and is currently caring for adult daughter with TB. Family is fully reliant on welfare support due to health issues. Family will benefit for a bed for daughter so that she can properly rest.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Emma Zhang",
+      "email": "emmazhang@fycs.org",
+      "phone": [
+        "69783022",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149849",
+          "name": "SINGLE BED FRAME",
+          "description": "Foldable metal bed frame included. Sturdy and easy to setup. Half a year usage, only plastic wrap removed, all in good condition.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "188.5cm x 120cm x 41cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149649",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -328,6 +362,73 @@
           "dimensions": "90 litres",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149851",
+    "category": "Infant and Children Items",
+    "name": "Baby Stroller",
+    "description": "Client (M/45) and his wife are currently unemployed and residing in a shelter. They have been struggling to provide their 2-month-old baby with basic necessities as they have no source of income or savings. We are seeking donor to provide a baby stroller to ease mobility for the family and your kind support will greatly ease their burden. Please Whatsapp Kritikaa at 8777 0959 or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149829",
+          "name": "Baby pram/stroller Maclaren",
+          "description": "Still good condition and very stable",
+          "location": null,
+          "validTill": "31 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149725",
+    "category": "Infant and Children Items",
+    "name": "Baby chair",
+    "description": "Client is a single mother with two children. She has difficulty getting employed despite efforts made in job search. She has a son with ADHD and a 6 month old infant. She requires a baby chair for feeding as baby starts consuming soft food.",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Hannah Lim",
+      "email": "hannahlimzhixin@fycs.org",
+      "phone": [
+        "69783487",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149852",
+          "name": "Baby chair",
+          "description": "Baby high chair for feeding toddlers",
+          "location": "Seletar, Yio Chu Kang",
+          "validTill": "15 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
