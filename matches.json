@@ -1,39 +1,5 @@
 [
   {
-    "id": "149662",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "Household of 2 consisting of a single mother and a 20yo son serving his National Service. Their rental flat has been infested with termites. They have difficulties replacing their furniture due to low income.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Toa Payoh",
-      "name": "Venus Tang",
-      "email": "venus_tang@msf.gov.sg",
-      "phone": [
-        "65139140",
-        "67157503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149794",
-          "name": "Cupboard",
-          "description": "Can be used as Wardrobe or storage cupboard",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "30 Oct 2025",
-          "ageInYears": 2,
-          "dimensions": "89x59x203Cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149649",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -67,6 +33,39 @@
     }
   },
   {
+    "id": "149821",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "The family consists of a daughter in her 40s and a mother in her late 70s. Both are homebound due to their medical conditions that causes them to have limitations in their mobility and they would regularly experience light-headedness that could potentially cause them to fall.\n\nAs both are not able to work, they are currently relying on some government payout and financial assistance. They would purchase some groceries and would cook meals and place their meals in the fridge to last them for a few days.They would also place some food items for prayers in their fridge as well. \n\nAs their fridge are not functioning well lately, they would like to seek some help in getting a new fridge (as they are strict vegetarian) so that they could continue to store their meals and prayer items in the fridge. Thank you!",
+    "specifications": "(w X h X d): 545 X 1700 X 625mm",
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Lim Hui Yan",
+      "email": "huiyan_lim@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149814",
+          "name": "Fridge",
+          "description": "Electrolux bar fridge 90 litres capacity",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": "90 litres",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149812",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -93,17 +92,6 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 2,
           "dimensions": "90 litres",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -140,17 +128,6 @@
           "dimensions": "90 litres",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -183,17 +160,6 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 2,
           "dimensions": "90 litres",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -229,17 +195,6 @@
           "dimensions": "90 litres",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -273,17 +228,6 @@
           "dimensions": "90 litres",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -315,17 +259,6 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 2,
           "dimensions": "90 litres",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -362,17 +295,6 @@
           "dimensions": "90 litres",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -404,17 +326,6 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 2,
           "dimensions": "90 litres",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "149819",
-          "name": "2 door fridge",
-          "description": "To take from walk up apartment (level 2) in Tiong Bahru.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "appx 60W x  60D x 170H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
