@@ -101,6 +101,40 @@
     }
   },
   {
+    "id": "149764",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Beneficiary is a senior with mobility issues as he is recovering from hip replacement surgery. He is not working and relies on SSO assistance. Would like to have an oven to heat up/bake dishes so as to save some money",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "60384367",
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149895",
+          "name": "Panasonic Cubic Oven",
+          "description": "Panasonic Cube NU-SC100W\nMulti-functions: Oven, Steam, Air-fryer\nWeight: 10kg\nItem Age: more than 6 years\nWorking condition",
+          "location": null,
+          "validTill": "10 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "D:33cm x W:34cm x H:31cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149743",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
