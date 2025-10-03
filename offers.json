@@ -297,6 +297,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "149906",
+    "name": "Isomil Infant Milk",
+    "description": "Donated soy-based milk but child has aged out the infant formula. Infant milk is for 0-12mths.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "02 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "149840",
     "name": "Children’s room furniture (toddler age)",
     "description": "Extandlable bed frame IKEA Sundvik\n92 x 81 x 137/172/207 cm\nCupboard \n155 x 75 x 41 cm\nDesk and chair \n\nPayment for collection, Depending on collection fee",
@@ -583,6 +594,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "149905",
+    "name": "Commode chair",
+    "description": "Commode chair with pot and seat cover",
+    "location": null,
+    "validTill": "02 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "149899",
     "name": "Electrical hoist",
     "description": "Full body lectrical hoist for lifting patients  with limited mobility",
@@ -600,6 +622,17 @@
     "location": null,
     "validTill": "01 Nov 2025",
     "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "149903",
+    "name": "Electrical hospital bed",
+    "description": "Electrical hospital bed with air bed",
+    "location": null,
+    "validTill": "01 Nov 2025",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
