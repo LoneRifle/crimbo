@@ -1,16 +1,69 @@
 [
   {
-    "id": "149923",
+    "id": "149929",
     "category": "Electrical Home Appliances",
-    "name": "Electric Kettle",
-    "description": "Client is a single parent caring for his young daughter, who is currently attending primary school. He experiences chronic joint pain due to a health condition, which significantly affects his physical mobility. As a result, he is only able to take on ad-hoc part-time work and has been relying on ComCare assistance to meet his financial needs.\n\nAt present, the client and his daughter are residing with a relative due to caregiving demands and housing constraints. Plans are underway for them to return to their own home, which is currently being refurbished to ensure a safe and conducive living environment for the family.\n\nAs they prepare for this transition, the family would benefit from support with a basic household item - a simple electric kettle, which is the only item they have requested. This would help meet their daily living needs and ease the move back into their own home.\n\nYou may contact me @nurulfirsha@mws.sg",
+    "name": "Washing machine",
+    "description": "Elderly recently discharged from hospital, needs help with washing clothes due to breathlessness. Previously handwashes clothes, but currently no longer able to do so due to deteriorating health.",
     "specifications": null,
     "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Reina Chantelle Reyes",
-      "email": "reinachantelle@mws.sg",
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Audrina Tan",
+      "email": "audrina.t1@ntuchealth.sg",
       "phone": [
-        "62828558"
+        "84816649",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149928",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "This is a family of 5 school-going children. Both parents are struggling with medical concerns and relying on financial assistance. Their microwave was recently faulty, they would require a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Clarice Lim",
+      "email": "claricelim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149927",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge (Halal)",
+    "description": "Couple living in rental flat with 8 children who requires to replace their faulty fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149926",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator in need",
+    "description": "elderly couple with 2 teen children in need of a refrigerator as they need to store their perishables. only the husband is working and trying to make ends meet.",
+    "specifications": "6ft by 2ft",
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Natalia Bte Sujangi",
+      "email": "natalia_sujangi@msf.gov.sg",
+      "phone": [
+        "62672928",
+        "1800-222-0000"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1358,6 +1411,60 @@
     "date": "05 Sep 2025"
   },
   {
+    "id": "149933",
+    "category": "Home Furnishing",
+    "name": "Wardobe",
+    "description": "Client is a single parent and sole breadwinner of the family. Client's current wardrobe has broken down, and is no longer suitable for use. Client would require a wardrobe to store her and her family member's belongings.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joanna Tay",
+      "email": "joannatay@fycs.org",
+      "phone": [
+        "66901029",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149932",
+    "category": "Home Furnishing",
+    "name": "Queen sized mattress",
+    "description": "Client is a single parent and sole breadwinner of her family. Client faces financial constraints to afford a brand new queen-sized mattress. However, client would require a mattress given that her current mattress has worn down and is unsuitable for use.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joanna Tay",
+      "email": "joannatay@fycs.org",
+      "phone": [
+        "66901029",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149931",
+    "category": "Home Furnishing",
+    "name": "Single bed with mattress",
+    "description": "Client is a single mother of 5 children and is the sole breadwinner for her family. She has been sleeping on the floor after her sofa bed broke with springs coming loose. The lack of quality sleep has left her exhausted, and the constant fatigue is affecting her ability to work effectively. We are seeking a donation of a single bed with mattress so that she can get the proper rest and recharge. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
     "id": "149889",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -1618,24 +1725,6 @@
       "email": "claudineng@allkin.org.sg",
       "phone": [
         "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Sep 2025"
-  },
-  {
-    "id": "149716",
-    "category": "Home Furnishing",
-    "name": "2 foldable mattresses (single size)",
-    "description": "Lower income family of two adults and 5 children. Parents are working hard to clear off debts. Currently they have relatives staying with them as their house is being renovated. The 2 youngest children are sleeping on their blankets on the floor in their parents bedroom due to the situation.",
-    "specifications": "91cm x 190cm (36in x 75in)",
-    "contact": {
-      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-      "name": "Lam Jie Ying",
-      "email": "lam_jie_ying@msf.gov.sg",
-      "phone": [
-        "62287150",
-        "18002220000"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2482,22 +2571,21 @@
     "date": "08 Sep 2025"
   },
   {
-    "id": "149920",
+    "id": "149930",
     "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client, has mental health condition. She has a son with special needs and has debts having to pay for his medical expenses. Her current laptop is malfunctioned. She requires a working laptop for her work and attend to her child's applications for day care.\n\nDo call Juliana 8043 9300/6241 1503 for more info. thank you.",
+    "name": "Handphone (Android)",
+    "description": "Client, 59 years old, is currently unemployed due to chronic health issues, including a heart condition and frequent dizziness, which limit his ability to work. He relies on financial assistance and food support to meet his basic needs. In July 2025, his handphone was damaged, and despite efforts to source a replacement, he has been unable to afford one. As handphone is essential for communication and attending to his medical and social needs, a donated phone would greatly support his daily functioning and well-being.",
     "specifications": null,
     "contact": {
-      "org": "Filos Community Services Ltd",
-      "name": "Juliana Yong",
-      "email": null,
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
       "phone": [
-        "62411503",
-        "62425978"
+        "67547050"
       ]
     },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "05 Oct 2025"
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
   },
   {
     "id": "144504",
@@ -3242,6 +3330,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Sep 2025"
+  },
+  {
+    "id": "149937",
+    "category": "Infant and Children Items",
+    "name": "Frisolac Gold Stage 2",
+    "description": "Ct is a single mother caring for 2 children. She has to pay rent to her parents and finds it hard to financially care for her children.",
+    "specifications": "4 pax",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
   },
   {
     "id": "149925",
@@ -5094,6 +5200,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Sep 2025"
+  },
+  {
+    "id": "149935",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Family of 6. Mother is a homemaker due to her caregiving responsibilities and has challenges moving about as she experiences pain in her lower back and legs. Mother used to have a wheelchair which has been worn down, and unsuitable for use. Mother would require a wheelchair to aid her mobility as she heads out of the house.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joanna Tay",
+      "email": "joannatay@fycs.org",
+      "phone": [
+        "66901029",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
   },
   {
     "id": "149314",
