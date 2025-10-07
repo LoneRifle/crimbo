@@ -592,6 +592,40 @@
     }
   },
   {
+    "id": "150035",
+    "category": "Infant and Children Items",
+    "name": "Milk",
+    "description": "The family has three young dependents, including a 2-year-old boy who still needs milk formula due to his picky eating habits. The family is currently facing financial difficulties, as both parents are unemployed. They would benefit from receiving milk formula support.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Andrea Tan",
+      "email": "andreatan@fycs.org",
+      "phone": [
+        "69783017",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149906",
+          "name": "Isomil Infant Milk",
+          "description": "Donated soy-based milk but child has aged out the infant formula. Infant milk is for 0-12mths.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "02 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149784",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -720,74 +754,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149945",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client, a retiree, lives with his wife and son (with intellectual disability) in a 3 room flat. Although wife is working, income is barely sufficient to meet their needs.(Jo)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150030",
-          "name": "Wheelchair - Bion brand",
-          "description": "Excellent condition Bion wheelchair. New seat cushion.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "06 Nov 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149935",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Family of 6. Mother is a homemaker due to her caregiving responsibilities and has challenges moving about as she experiences pain in her lower back and legs. Mother used to have a wheelchair which has been worn down, and unsuitable for use. Mother would require a wheelchair to aid her mobility as she heads out of the house.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Joanna Tay",
-      "email": "joannatay@fycs.org",
-      "phone": [
-        "66901029",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150030",
-          "name": "Wheelchair - Bion brand",
-          "description": "Excellent condition Bion wheelchair. New seat cushion.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "06 Nov 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
