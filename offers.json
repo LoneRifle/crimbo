@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "149997",
+    "name": "Air Purifier",
+    "description": "3pcs lightly used Hitachi air purifier. I will self deliver to area near district 12 like Jalan Besar, Geylang Bahru & Balestier only. Thank you.",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "31 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": "40cm x 12 cm x 43 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "149981",
     "name": "Standing fan",
     "description": "Repaired 16 inch standing fan, can turn \nHeight is not adjustable and lower than usual\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
@@ -97,17 +108,6 @@
     "dimensions": "6L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "149917",
-    "name": "Round dining table with marble top and 4 chairs",
-    "description": "Round dining table with marble top and steel base plus 4 matching chairs.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "Width 100cm x Height 76cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "149916",
@@ -253,6 +253,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "149993",
+    "name": "Brown colour Super Single Bed and Mattress",
+    "description": "This is a super single sized bed frame and will come with magttress.  Please collect it only in November with date to be advised soon.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "149995",
+    "name": "Brown colour Super Single Bed and Mattress",
+    "description": "This is a super single sized bed frame and will come with magttress.  Please collect it only in November with date to be advised soon.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "149198",
     "name": "2 level light weight rack (can be stacked or on its own)",
     "description": "2 level rack that can be stacked or on its own. Not suitable for heavy items. Suitable for clothes and other light weight stuff.",
@@ -262,28 +284,6 @@
     "dimensions": "74cm x 42cm x 32cm (LxDxH)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "149989",
-    "name": "Diapers - Nino Nana XL Pants - opened unused (32pcs)",
-    "description": "Nino Nan brand diaper\nXL Pants \nOPENED to organize but brand new and unused full 32pcs. Letting go as bay sized out.\nPreferably meet at mutual mrt",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "01 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "149988",
-    "name": "Diapers - Huggies black label, XL pants (28pcs) - brand new but Opened",
-    "description": "The bag is OPENED but unused. \nHuggies black label, XL Pants 28Pcs\npurchased from Shopee official store. Letting go as baby sized out. Preferably meet at mutual mrt.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "01 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "149906",
@@ -539,6 +539,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "149992",
+    "name": "Walking Frame",
+    "description": "New walking frame to donate",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "149938",
     "name": "knee guards",
     "description": "POWERLIX Leg Sleeve - Best Knee Brace for Leg Pain Knee Support , size S , one pair .",
@@ -561,17 +572,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "149918",
-    "name": "Commode Chair",
-    "description": "Commode Chair purchased less than a year",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "04 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": "L18\"xB31\"xH37\"",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "149905",
     "name": "Commode chair",
     "description": "Commode chair with pot and seat cover",
@@ -589,28 +589,6 @@
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
     "validTill": "02 Nov 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "149894",
-    "name": "Motorized wheel chair",
-    "description": "Electric wheelchair with charger",
-    "location": null,
-    "validTill": "01 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "149903",
-    "name": "Electrical hospital bed",
-    "description": "Electrical hospital bed with air bed",
-    "location": null,
-    "validTill": "01 Nov 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
