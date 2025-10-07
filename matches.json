@@ -290,40 +290,6 @@
     }
   },
   {
-    "id": "149858",
-    "category": "Others",
-    "name": "Diapers",
-    "description": "Client living with elderly mum with increased needs of wearing diapers daily and has poor social support from family to be able to support the cost\n\nyou can contact me at 91271945",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Clarissa Low",
-      "email": "clarissa.low@montfortcare.org.sg",
-      "phone": [
-        "62500244",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149983",
-          "name": "Diapers (Depend brand)",
-          "description": "Have about 70 individual packs; about 20 M size and 50 L size",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149477",
     "category": "Others",
     "name": "Tablet",
@@ -554,6 +520,74 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Attires/Clothings"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149945",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client, a retiree, lives with his wife and son (with intellectual disability) in a 3 room flat. Although wife is working, income is barely sufficient to meet their needs.(Jo)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150022",
+          "name": "Wheelchair - Bion brand",
+          "description": "Excellent condition Bion wheelchair. New seat cushion.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "06 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149935",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Family of 6. Mother is a homemaker due to her caregiving responsibilities and has challenges moving about as she experiences pain in her lower back and legs. Mother used to have a wheelchair which has been worn down, and unsuitable for use. Mother would require a wheelchair to aid her mobility as she heads out of the house.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joanna Tay",
+      "email": "joannatay@fycs.org",
+      "phone": [
+        "66901029",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150022",
+          "name": "Wheelchair - Bion brand",
+          "description": "Excellent condition Bion wheelchair. New seat cushion.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "06 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
