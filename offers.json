@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150028",
+    "name": "General Electric Fridge",
+    "description": "Probably more than 10 years of age but working well. Would appreciate if you could collect by 10-Oct as we are clearing the house.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "L 72cm x W 57cm x H 168cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "149997",
     "name": "Air Purifier",
     "description": "3pcs lightly used Hitachi air purifier. I will self deliver to area near district 12 like Jalan Besar, Geylang Bahru & Balestier only. Thank you.",
@@ -539,7 +550,18 @@
     "category": "Learning Aids"
   },
   {
-    "id": "150022",
+    "id": "150029",
+    "name": "Hospital Bed",
+    "description": "Should have more than 10 years of age. But based on my knowledge, no patient has slept on it as it was meant as a standby. Would appreciate if you could collect by 10-Oct as we are clearing the house for viewing.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "L 200cm x W 90cm x H 84cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150030",
     "name": "Wheelchair - Bion brand",
     "description": "Excellent condition Bion wheelchair. New seat cushion.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -616,17 +638,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "149495",
-    "name": "Exercise machine",
-    "description": "Suitable for senior to exercise.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "20 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "149390",
     "name": "Walking frame",
     "description": "In good condition to give away for the needs.",
@@ -636,17 +647,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "149987",
-    "name": "Baby bed and carrier (Urgent)",
-    "description": "Both brand new items. \nCan send to client directly",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "149910",
