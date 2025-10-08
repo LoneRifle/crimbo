@@ -1,16 +1,5 @@
 [
   {
-    "id": "150039",
-    "name": "Nike women track shoes",
-    "description": "very well kept shoes . great condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "07 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": "size in picture",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "149983",
     "name": "Diapers (Depend brand)",
     "description": "Have about 70 individual packs; about 20 M size and 50 L size",
@@ -42,6 +31,17 @@
     "dimensions": "Shoe box",
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "150075",
+    "name": "LG Refrigerator",
+    "description": "Gasket is faulty. We are getting it replaced and make sure it is fits well before donating. If it does not fit well, then we will not be able to donate. New gasket will only arrive on 12 Oct. If all is good, target delivery date will be 17 Oct, Friday.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "07 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "780 (W) X 730 (D) X 1800 (H) mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "150028",
@@ -110,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150061",
+    "name": "Queen",
+    "description": "Australian size Queen size bed ensemble. Excellent condition and only used as a spare bed. Recently moved into a new condo and no longer needed. Please note, the bed base is a fixed size and cannot be dismantled. Thanks",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "31 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "153cm x 203cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150036",
     "name": "Geriatric luxury chair",
     "description": "Geriatric chair, slightly worn out leather, but works fine and useful for elderly with mobility issues",
@@ -132,13 +143,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "149916",
-    "name": "Tempur Cloud Mattress Queen Size",
-    "description": "Bought this mattress new around 8years ago. Still in good condition. Will include a mattress protector. I decided to get a replacement as I wanted something firmer for my back.",
+    "id": "150048",
+    "name": "Hospital grade bed with adjustable recliner",
+    "description": "- Hospital grade bed with working recliner using remote control \n- Mattress not included \n- Can fit single mattress \n- Self collection preferred as I cannot fund delivery of the item",
     "location": null,
-    "validTill": "10 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
+    "validTill": "01 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": "210cm X 92cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -183,28 +194,6 @@
     "validTill": "31 Oct 2025",
     "ageInYears": 4,
     "dimensions": "170cm by 85cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150032",
-    "name": "TABLE AND CHAIR",
-    "description": "Dinning Table\nTable - 178 X 88 X 75 CM \n6 Chairs - 45 x 85 cm",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "178 X 88 X 75 CM",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150033",
-    "name": "TABLE AND CHAIR",
-    "description": "Dinning Table\nTable - 178 X 88 X 75 CM \n6 Chairs - 45 x 85 cm",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "178 X 88 X 75 CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -627,6 +616,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "150049",
+    "name": "Commode chair",
+    "description": "Commode chair with pot and seat cover",
+    "location": null,
+    "validTill": "02 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "149899",
     "name": "Electrical hoist",
     "description": "Full body lectrical hoist for lifting patients  with limited mobility",
@@ -667,17 +667,6 @@
     "validTill": "31 Oct 2025",
     "ageInYears": 2,
     "dimensions": "to be confirmed",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "150011",
-    "name": "Commode",
-    "description": "Aluminium commode. Complete set. Used once to test patient's suitability. Kept in dry storage. Interested VWO please contact me. Delivery will be made after office hours and weekends.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
