@@ -1,5 +1,16 @@
 [
   {
+    "id": "150039",
+    "name": "Nike women track shoes",
+    "description": "very well kept shoes . great condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "07 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": "size in picture",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "149983",
     "name": "Diapers (Depend brand)",
     "description": "Have about 70 individual packs; about 20 M size and 50 L size",
@@ -462,6 +473,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "150040",
+    "name": "knee guards 1 pair S size",
+    "description": "high quality knee guards",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "07 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": "small",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "149896",
     "name": "Casio CTK-611 keyboard",
     "description": "Casio electric keyboard, quite old but still in perfect working condition. Comes with foot pedal and foldable stand.",
@@ -611,6 +633,28 @@
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
     "validTill": "02 Nov 2025",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150037",
+    "name": "Electrical hospital bed",
+    "description": "Electrical hospital bed with air bed",
+    "location": null,
+    "validTill": "01 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150038",
+    "name": "Electrical hospital bed",
+    "description": "Electrical hospital bed with air bed",
+    "location": null,
+    "validTill": "01 Nov 2025",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
