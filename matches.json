@@ -1,5 +1,50 @@
 [
   {
+    "id": "150120",
+    "category": "Home Furnishing",
+    "name": "Dining table",
+    "description": "The client, a 43-year-old Singaporean mother, is currently unemployed as she needs to focus on her 16-year-old son’s behavioural and school issues. As part of an arrangement with the school, she must accompany and fetch him daily, which limits her ability to work. Her husband, an Indian PR, has also recently lost his job, and the family is struggling to cope financially. Addressing these household repairs and furniture needs would greatly improve their living environment and the client’s overall well-being, particularly given her health sensitivities and caregiving responsibilities.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150023",
+          "name": "Dining table with chairs",
+          "description": "Transportation can be provided if client is unable to afford it",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "Lx166, Wx90  Lx211 Wx90 (extended)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "149853",
+          "name": "Glass Dining Table 1.7m (Table only)",
+          "description": "well used. chairs not included. unable to provide transportation.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "170cm by 85cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150092",
     "category": "Home Furnishing",
     "name": "Mattress (Single)",
@@ -36,50 +81,6 @@
           "validTill": "15 Oct 2025",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150090",
-    "category": "Home Furnishing",
-    "name": "Study Desk",
-    "description": "This is a single-parent household with a school-going child currently in secondary school. The child requires a suitable study table to support her academic needs. At present, she is using a table designed for young children, which is not appropriate for her age or schoolwork requirements. The parent is working part-time to ensure she can be present to care for her child, who was previously diagnosed with a medical condition.",
-    "specifications": "120x60x75cm",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Darren Tan",
-      "email": "darrentankr@fycs.org",
-      "phone": [
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149898",
-          "name": "Study desk with chair",
-          "description": "Retiree owner has no means to deliver or pay for collection cum delivery fee to next donee/user.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "12 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "see pics",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "150085",
-          "name": "IKEA White Study Desk",
-          "description": "IKEA Alex Study Desk in White. With 2 drawers. Good condition.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "07 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "132cm x 58cm x 76cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -279,74 +280,6 @@
     }
   },
   {
-    "id": "149784",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Parent in need of diapers for children ages 1 and 2. Parent is not receiving any other assistance at the moment.  There is no income in this family",
-    "specifications": "Size XL, Drypers Pull Up Pants",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Michele Gan",
-      "email": "michele_gan@awwa.org.sg",
-      "phone": [
-        "65119488",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149983",
-          "name": "Diapers (Depend brand)",
-          "description": "Have about 70 individual packs; about 20 M size and 50 L size",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149590",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is unemployed as she needs to take care of her 1 year-old daughter. Her husband is unable to provide financial support her. Hence, there is minimal amount of income to the household. The expenses on the daughter's milk powder and diapers can be taxing on the family.",
-    "specifications": "mamy poko pants XL",
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Eunice Koh",
-      "email": "eunice@frcsfsc.sg",
-      "phone": [
-        "67799488ext17",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "23 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149983",
-          "name": "Diapers (Depend brand)",
-          "description": "Have about 70 individual packs; about 20 M size and 50 L size",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149352",
     "category": "Infant and Children Items",
     "name": "Playpen",
@@ -374,39 +307,6 @@
           "dimensions": "180cm x 200cm x 66cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149455",
-    "category": "Medical Aids",
-    "name": "Diapers",
-    "description": "Client is caring for two elderly parents who required medical needs. Client is earning low wages. Client's parent need to wear diaper daily due to medical issues.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Rachel Fu",
-      "email": "rachel.fu@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "149983",
-          "name": "Diapers (Depend brand)",
-          "description": "Have about 70 individual packs; about 20 M size and 50 L size",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
         }
       ],
       "carousell": []

@@ -1,16 +1,5 @@
 [
   {
-    "id": "149983",
-    "name": "Diapers (Depend brand)",
-    "description": "Have about 70 individual packs; about 20 M size and 50 L size",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "05 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "149892",
     "name": "Indian Ladies attires - brand new",
     "description": "Indian ladies traditional attires - brand new not used. to give away..",
@@ -75,6 +64,17 @@
     "dimensions": "Approx. 90cm x 26 - 28mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "150124",
+    "name": "Mattress",
+    "description": "Good quality mattress, 15cm thick, queen size, no defect",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "11 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "150103",
@@ -528,6 +528,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "150115",
+    "name": "Hospital Bed",
+    "description": "Full working condition. Please refer to https://www.passiton.org.sg/pio/slot/u13/moving-service/Pass%20It%20On%20-%20Rates%20and%20Terms%20for%20donors%20vs5.pdf for arranging collection",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "150029",
     "name": "Hospital Bed",
     "description": "Should have more than 10 years of age. But based on my knowledge, no patient has slept on it as it was meant as a standby. Would appreciate if you could collect by 10-Oct as we are clearing the house for viewing.",
@@ -557,17 +568,6 @@
     "validTill": "05 Nov 2025",
     "ageInYears": 1,
     "dimensions": "small",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "149922",
-    "name": "Elderly walking stick, walking frame, cups pots pan plates containers household items",
-    "description": "Many kitchen items available \nFrying pan, claypot, tingkat, sauce pan, cups, plates, food containers",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -636,6 +636,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "150117",
+    "name": "Hospital bed with air mattress",
+    "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "08 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": "205cm x 102cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "149910",
