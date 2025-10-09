@@ -77,6 +77,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150103",
+    "name": "2 seated sofa",
+    "description": "Good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "08 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "150094",
+    "name": "Arm chair and side table",
+    "description": "Transport not included\n- Charming, vintage style rattan chaise lounge and side table in perfect condition.  \n- Suitable for indoor or covered patio.\n- Light and easy to carry.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "17 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "160L x 102H x 62W",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "150093",
+    "name": "Two side tables",
+    "description": "Transport cost not included.\n- Matching pair of high quality vintage side tables\n- Cream-colored metal frame\n- Decorative floral design with cut-out motifs on top and sides\n- Charming, sturdy (quite heavy) and in great condition\n- Ideal for occasional tables or bedside use",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "16 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "Diameter 60cm, height 73cm.",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150085",
     "name": "IKEA White Study Desk",
     "description": "IKEA Alex Study Desk in White. With 2 drawers. Good condition.",
@@ -84,17 +117,6 @@
     "validTill": "07 Nov 2025",
     "ageInYears": 4,
     "dimensions": "132cm x 58cm x 76cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150036",
-    "name": "Geriatric luxury chair",
-    "description": "Geriatric chair, slightly worn out leather, but works fine and useful for elderly with mobility issues",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "06 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "1.5m by 1.2m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -482,6 +504,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "150106",
+    "name": "medical items",
+    "description": "items are 3 mths old",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "150091",
