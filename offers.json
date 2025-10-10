@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150171",
+    "name": "Dark brown chest of drawers",
+    "description": "In good condition, with two lockable drawers.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "09 Nov 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150162",
     "name": "Table",
     "description": "Nemo design table",
@@ -139,17 +150,6 @@
     "validTill": "09 Nov 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150148",
-    "name": "Leather Sofa",
-    "description": "Brown leather sofa",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "19 Oct 2025",
-    "ageInYears": 3,
-    "dimensions": "190cm length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -581,6 +581,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "150173",
+    "name": "Commode with pot cover foldable",
+    "description": "Brand New. Not used.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "09 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150172",
+    "name": "Foldable walking frame",
+    "description": "Brand New. Never used.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "09 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "150115",
