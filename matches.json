@@ -1,42 +1,31 @@
 [
   {
-    "id": "150120",
+    "id": "150165",
     "category": "Home Furnishing",
-    "name": "Dining table",
-    "description": "The client, a 43-year-old Singaporean mother, is currently unemployed as she needs to focus on her 16-year-old son’s behavioural and school issues. As part of an arrangement with the school, she must accompany and fetch him daily, which limits her ability to work. Her husband, an Indian PR, has also recently lost his job, and the family is struggling to cope financially. Addressing these household repairs and furniture needs would greatly improve their living environment and the client’s overall well-being, particularly given her health sensitivities and caregiving responsibilities.",
+    "name": "Mattress (Queen-size)",
+    "description": "Young single mother with infant. They will be moving to their rental unit soon but lack some household items. Mother is looking for job to support herself and her child.",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Chan Yvonne",
-      "email": "yvonne-chan@fycs.org",
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Genessa Soh",
+      "email": "genessa_soh@msf.gov.sg",
       "phone": [
-        "69783516",
-        "62672900"
+        "91115451",
+        "67660097"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025",
+    "date": "10 Oct 2025",
     "matches": {
       "passiton": [
         {
-          "id": "150023",
-          "name": "Dining table with chairs",
-          "description": "Transportation can be provided if client is unable to afford it",
-          "location": null,
-          "validTill": "30 Oct 2025",
+          "id": "150155",
+          "name": "Sofa, Dining Table and Queen Size Mattress",
+          "description": "Sofa and Dining table with chairs and bench",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Nov 2025",
           "ageInYears": 4,
-          "dimensions": "Lx166, Wx90  Lx211 Wx90 (extended)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "149853",
-          "name": "Glass Dining Table 1.7m (Table only)",
-          "description": "well used. chairs not included. unable to provide transportation.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": "170cm by 85cm",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -96,11 +85,56 @@
     "matches": {
       "passiton": [
         {
+          "id": "150151",
+          "name": "Super Single Bed Frames",
+          "description": "I have 2 x Super Single teakwood bed frames to donate.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "09 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "149995",
           "name": "Brown colour Super Single Bed and Mattress",
           "description": "This is a super single sized bed frame and will come with magttress.  Please collect it only in November with date to be advised soon.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "15 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149770",
+    "category": "Home Furnishing",
+    "name": "Queen Size Mattress",
+    "description": "A family has 5 children ranging from primary school to a new born. The father just lost his food delivery job as he just lost his e-bike. The mother just gave birth and is on confinement. The family requires a queen size mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Premilla d/0 Gunasekaran",
+      "email": "premilla_gunasekaran@msf.gov.sg",
+      "phone": [
+        "62139480",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150155",
+          "name": "Sofa, Dining Table and Queen Size Mattress",
+          "description": "Sofa and Dining table with chairs and bench",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Nov 2025",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -139,6 +173,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150158",
+    "category": "Others",
+    "name": "Keyboard",
+    "description": "Looking for x2 keyboard with at least 61 keys for the use of Community Work Programme. These keyboard will help to increase participant's self-efficacy and emotional awareness through learning and playing.",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Darren Tan",
+      "email": "darrentankr@fycs.org",
+      "phone": [
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149896",
+          "name": "Casio CTK-611 keyboard",
+          "description": "Casio electric keyboard, quite old but still in perfect working condition. Comes with foot pedal and foldable stand.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "02 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
@@ -197,6 +264,28 @@
     "date": "10 Sep 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "150161",
+          "name": "Coffee table",
+          "description": "Marble top and wooden coffee or side table",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "09 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "100 x 57 x 44cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150154",
+          "name": "Coffee table",
+          "description": "Cute small coffee table made of teakwood",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "09 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "149450",
           "name": "Glass Coffee Table",
