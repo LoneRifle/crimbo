@@ -22,13 +22,24 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "150179",
-    "name": "Whirlpool Washing Machine 9kg",
-    "description": "Still in very good condition",
+    "id": "150190",
+    "name": "Panasonic Microwave",
+    "description": "Still in good working condition",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "10 Nov 2025",
     "ageInYears": 3,
-    "dimensions": "55cm x 55 cm x 95cm",
+    "dimensions": "49cm x 35cm x 29cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "150189",
+    "name": "Bosch Dryer 7kg",
+    "description": "Still in good working condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "10 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "60cm x 62cm x 85cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -242,7 +253,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150048",
+    "id": "150186",
+    "name": "Hospital grade bed with adjustable recliner",
+    "description": "- Hospital grade bed with working recliner using remote control \n- Mattress not included \n- Can fit single mattress \n- Self collection preferred as I cannot fund delivery of the item",
+    "location": null,
+    "validTill": "01 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": "210cm X 92cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "150187",
     "name": "Hospital grade bed with adjustable recliner",
     "description": "- Hospital grade bed with working recliner using remote control \n- Mattress not included \n- Can fit single mattress \n- Self collection preferred as I cannot fund delivery of the item",
     "location": null,
@@ -649,6 +671,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "150191",
+    "name": "Wheelchair",
+    "description": "Very good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "10 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "150173",
     "name": "Commode with pot cover foldable",
     "description": "Brand New. Not used.",
@@ -721,17 +754,6 @@
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
     "validTill": "02 Nov 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "150037",
-    "name": "Electrical hospital bed",
-    "description": "Electrical hospital bed with air bed",
-    "location": null,
-    "validTill": "01 Nov 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
