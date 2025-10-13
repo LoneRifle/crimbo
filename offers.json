@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150223",
+    "name": "2-door fridge",
+    "description": "2-door fridge appx 7-8 years. Working condition.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "20 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "Appx 60W x 65D x 170H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150200",
     "name": "Air Purifier",
     "description": "2 pieces. I will deliver to area near district 12 only example Jalan Besar, Balestier, Geylang Bahru etc.",
@@ -40,28 +51,6 @@
     "validTill": "10 Nov 2025",
     "ageInYears": 4,
     "dimensions": "60cm x 62cm x 85cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "150205",
-    "name": "Mitsubishi Electric Refrigerator",
-    "description": "Delivery can be arranged for 25-27 October.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "27 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "635mm (Width) x 1788mm (Height) x 693mm (Depth)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "150206",
-    "name": "Mitsubishi Electric Refrigerator",
-    "description": "Delivery can be arranged for 25-27 October.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "27 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "635mm (Width) x 1788mm (Height) x 693mm (Depth)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -99,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150225",
+    "name": "Table",
+    "description": "As per picture, lightly used.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "01 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": "160 x 80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150211",
     "name": "TV Console",
     "description": "Bought from Starliving at tampines on January 2023. Still in good condition, eventhough there is a use and tear marks. Try to change a bigger tv console to store some my kids books.",
@@ -110,13 +110,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150195",
-    "name": "Single size mattress",
-    "description": "Mattress only. Lightly used. Regular mattress cleaning done and will also do one more round before donation",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 3,
-    "dimensions": null,
+    "id": "150196",
+    "name": "Queen Bed Frame & Mattress",
+    "description": "IKEA Queen Bed Frame w/ Mattress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "17 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": "150 x 200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -193,28 +193,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "09 Nov 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150151",
-    "name": "Super Single Bed Frames",
-    "description": "I have 2 x Super Single teakwood bed frames to donate.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "09 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150149",
-    "name": "Queen sized Teak Wood Bed Frame",
-    "description": "1 Teakwood Queen-sized + 2 Teakwood SS-sized Bed frames, very new.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "09 Nov 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -616,9 +594,9 @@
     "category": "Learning Aids"
   },
   {
-    "id": "150193",
-    "name": "Medical items",
-    "description": "Items less than 3 mths",
+    "id": "150224",
+    "name": "medical items",
+    "description": "chair is brand new",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "31 Oct 2025",
     "ageInYears": 1,
