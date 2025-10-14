@@ -1,39 +1,5 @@
 [
   {
-    "id": "149764",
-    "category": "Electrical Home Appliances",
-    "name": "Oven",
-    "description": "Beneficiary is a senior with mobility issues as he is recovering from hip replacement surgery. He is not working and relies on SSO assistance. Would like to have an oven to heat up/bake dishes so as to save some money",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-      "name": "Kei Ng",
-      "email": "ngkhuankungkei@allkin.org.sg",
-      "phone": [
-        "60384367",
-        "64510898"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150232",
-          "name": "Electrolux Oven 56L",
-          "description": "Oven for roasting, grilling, baking, stew. Well maintained and good working condition. All accessories included. Owner  \nupgraded to larger oven.",
-          "location": null,
-          "validTill": "31 Oct 2025",
-          "ageInYears": 1,
-          "dimensions": "575X455X366 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "149601",
     "category": "Electrical Home Appliances",
     "name": "Air Purifier",
@@ -232,6 +198,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "150248",
+          "name": "Super Single Bed with mattress",
+          "description": "A lightly used bed",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "21 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "149995",
           "name": "Brown colour Super Single Bed and Mattress",
           "description": "This is a super single sized bed frame and will come with magttress.  Please collect it only in November with date to be advised soon.",
@@ -376,6 +353,40 @@
           "dimensions": "180cm x 200cm x 66cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150256",
+    "category": "Mobility Aids",
+    "name": "Commode Chair",
+    "description": "Client is a 59 single Chinese male staying in a 1 room HDB rental flat. Client, single, lives alone in a 1-room rental flat. No NOKs or in contact with his siblings or relatives. He is a PA cardholder and supported by Medifund on his medical expenses. He is diagnosed with diabetes, high blood pressure, high cholesterol, left eye cataract and renal failure. His left leg was\namputated. He goes for dialysis 3 times a week. He is following up with the eye specialist on his cataract issue. Client recently mentioned that he has ear infection and it has not been recovering, affecting his appetite. Client shared that his commode seats has multiple cracks that causes discomfort and pain when he uses it for shower and toileting. He shared that given his poor financial status, he is unable to replace the current one.  Would appreciate for help to donate a commode chair. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Cluster Support - Taman Jurong",
+      "name": "Leong Jiaqi",
+      "email": "jiaqi.l1@ntuchealth.sg",
+      "phone": [
+        "96549067",
+        "62674197"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150049",
+          "name": "Commode chair",
+          "description": "Commode chair with pot and seat cover",
+          "location": null,
+          "validTill": "02 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
