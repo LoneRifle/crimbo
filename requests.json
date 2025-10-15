@@ -1,5 +1,22 @@
 [
   {
+    "id": "150295",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client is a 58 year old woman who is living alone in a rental flat. Though she is recovering from cancer, Client continues to work. However, she struggles to provide for both herself and her ailing husband who resides in Malaysia. Watching television together with her grandson is one of the few ways that Client has to relax, as such is an important source of entertainment for her.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2025"
+  },
+  {
     "id": "150294",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -1350,6 +1367,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Sep 2025"
+  },
+  {
+    "id": "150297",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client (46 y/o) lives together with her husband and their 3 children. Their family experiences financial difficulties due to client's health issues and her husband's low-income job. Their cupboard has recently spoilt and they are unable to purchase a new cupboard due to their financial difficulties. Thus, client is seeking a donation for a cupboard (rough dimension size of H:221, L:150, W:46) .",
+    "specifications": "H:221, L:150, W:46",
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2025"
   },
   {
     "id": "150275",
@@ -2779,6 +2813,40 @@
     "date": "02 Oct 2025"
   },
   {
+    "id": "150298",
+    "category": "Others",
+    "name": "Laptop",
+    "description": "Due to ongoing health challenges, client, aged 37, has been certified unfit for work in the past and continues to face significant barriers to employment. He is also struggling with multiple debts and maintenance obligations to his spouse, which have been difficult to manage given his limited income.\n\nDespite these challenges, client remains motivated to improve his situation. He is actively exploring job opportunities and is keen to upgrade his skills to enhance his employability. Having a laptop would greatly support his efforts by enabling him to search for jobs online and access training resources more efficiently.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2025"
+  },
+  {
+    "id": "150296",
+    "category": "Others",
+    "name": "Containers/Storage Boxes",
+    "description": "Client's house is extensively hoarded and they are working with the caseworker to declutter items. Storage boxes will help with the organization of items in the unit.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2025"
+  },
+  {
     "id": "150289",
     "category": "Others",
     "name": "Smartphone",
@@ -2790,24 +2858,6 @@
       "email": "norlizawati@thkmc.org.sg",
       "phone": [
         "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Oct 2025"
-  },
-  {
-    "id": "150283",
-    "category": "Others",
-    "name": "Smart Phone",
-    "description": "Beneficiary is a 74yrs old man who does not have a close relationship with his wife and children. His mobile phone has been damaged and has not been replaced. without a phone, he is unable to access relevant services or keep others informed of his whereabouts.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3501,6 +3551,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Sep 2025"
+  },
+  {
+    "id": "150300",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is unemployed due to caregiving needs for her 1 year old daughter. Her husband also struggles to find a stable job. Hence there is no source of income to the family. The daughter's needs can be financially taxing on the family.",
+    "specifications": "mamy poko pants XL",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Oct 2025"
+  },
+  {
+    "id": "150299",
+    "category": "Infant and Children Items",
+    "name": "Milk powder",
+    "description": "Client is unemployed due to caregiving needs for her 1 year old daughter. Her husband also struggles to find a stable job. Hence there is no source of income to the family. The daughter's needs can be financially taxing on the family.",
+    "specifications": "Pediasure (original or vanilla)",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Oct 2025"
   },
   {
     "id": "150261",
