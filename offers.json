@@ -22,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150279",
+    "name": "55\" TV",
+    "description": "A Philips TV that's still in good working condition, and looks slightly used. No smart features. Preferably self-collect at Tampines",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "150278",
+    "name": "2-door Fridge",
+    "description": "2-door fridge. 7-8 years. Good working condition.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "20 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "appx 60W x  65D x 170H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150200",
     "name": "Air Purifier",
     "description": "2 pieces. I will deliver to area near district 12 only example Jalan Besar, Balestier, Geylang Bahru etc.",
@@ -99,33 +121,11 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150237",
-    "name": "Osim Massage Chair",
-    "description": "Osim massage chair in good working condition. \nRarely used.",
-    "location": null,
-    "validTill": "30 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "150235",
     "name": "Queen-size bed frame with storage drawer",
     "description": "queen size wooden bedframe with drawers on each side.",
     "location": null,
     "validTill": "30 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150231",
-    "name": "Queen Size Bedframe",
-    "description": "No storage, no mattress.  Just the bed frame, in usable condition",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "10 Nov 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -139,17 +139,6 @@
     "validTill": "01 Nov 2025",
     "ageInYears": 2,
     "dimensions": "160 x 80",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150211",
-    "name": "TV Console",
-    "description": "Bought from Starliving at tampines on January 2023. Still in good condition, eventhough there is a use and tear marks. Try to change a bigger tv console to store some my kids books.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": "45cm x 160cm x 54cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -194,17 +183,6 @@
     "validTill": "09 Nov 2025",
     "ageInYears": 4,
     "dimensions": "100 x 57 x 44cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150160",
-    "name": "6 dining chairs",
-    "description": "Upholstered dining chairs",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -363,6 +341,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "150277",
+    "name": "IKEA SUNDVIK Baby Crib White",
+    "description": "Well used, easy to assemble",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "14 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "125cm x 67cm x 86cm approx.",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "150266",
     "name": "IKEA MAMMUT Children's table, in/outdoor with 2 chairs - Pink",
     "description": "- IKEA kids table and two chairs set.\n- Perfect for toddlers and young children.\n- Shows signs of use (marks and stickers).\n- Still sturdy and functional.\n- Ideal for playtime, drawing, and snacks.\n- Not for fussy buyer\n\nMeasurement \nTable - 77x55x48cm\n\nChair \nWidth: 39 cm\nDepth: 36 cm\nHeight: 67 cm\nSeat width: 30 cm\nSeat depth: 26 cm\nSeat height: 30 cm",
@@ -379,17 +368,6 @@
     "description": "All items to give away.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "12 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "150252",
-    "name": "Kim Huang",
-    "description": "Joie double stroller, actual item in storage but good condition. Red in colour.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "10 Nov 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -671,6 +649,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "150280",
+    "name": "Electric Hospital Bed",
+    "description": "Steel frame in powder coating finish.\n\n4 side rails operate independently, giving user extra access while adding side protection.\n\nTi-MOTION actuator.\nDetachable Head/ Foot Board.\nLow voltage DC Motor system with 3 motor control.\nLockable deluxe castors.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": "215.5cm x 96.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "150172",
     "name": "Foldable walking frame",
     "description": "Brand New. Never used.",
@@ -799,17 +788,6 @@
     "validTill": "13 Nov 2025",
     "ageInYears": 4,
     "dimensions": "16x12x9cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "150143",
-    "name": "Aqurea Cream",
-    "description": "Aqurea Moisturising Cream",
-    "location": "Thomson",
-    "validTill": "09 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
