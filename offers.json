@@ -627,6 +627,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "150292",
+    "name": "Electric hospital bed",
+    "description": "Fully functional electric hospital bed in good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "14 Nov 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "150224",
     "name": "medical items",
     "description": "chair is brand new",
@@ -721,17 +732,6 @@
     "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
     "validTill": "02 Nov 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "150038",
-    "name": "Electrical hospital bed",
-    "description": "Electrical hospital bed with air bed",
-    "location": null,
-    "validTill": "01 Nov 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
