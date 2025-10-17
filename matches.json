@@ -34,6 +34,40 @@
     }
   },
   {
+    "id": "150351",
+    "category": "Home Furnishing",
+    "name": "Hospital Bed Mattress",
+    "description": "The client's wife is currently recovering from a stroke. Recently, they experienced a bed bug infestation, and as a result, require new mattress. (Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150117",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150303",
     "category": "Home Furnishing",
     "name": "cupboard",
@@ -219,6 +253,17 @@
     "date": "06 Oct 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "150347",
+          "name": "single bed with mattress (kingkoil)",
+          "description": "The bed has storage space below, and in good condition.\nI am ok for either collection or send directly.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "200cm x 90cm x 113cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "150182",
           "name": "Single bed frame",

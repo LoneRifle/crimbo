@@ -1,5 +1,23 @@
 [
   {
+    "id": "150346",
+    "category": "Electrical Home Appliances",
+    "name": "Air purifier/Vacuum steam mop",
+    "description": "Client is a single mother with 2 preschoolers. She is currently undergoing chemotherapy treatment and experiences bad side effects eg. fatigue. However she still tries her best to keep her house clean as her children are allergic to dust mites. She has been using traditional mops which requires a greater amount of strength. A steam mop would be very beneficial for her. Client has one air purifier in the room, and would appreciate another one to be placed in the living room as she felt it has been helpful for her children with eczema and asthma condition. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Yvonne Pua",
+      "email": "yvonne_pua@msf.gov.sg",
+      "phone": [
+        "67367431",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
     "id": "150339",
     "category": "Electrical Home Appliances",
     "name": "Induction Cooker",
@@ -30,24 +48,6 @@
       "phone": [
         "69783516",
         "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Oct 2025"
-  },
-  {
-    "id": "150330",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave Oven",
-    "description": "Low-Income family in need of Microwave Oven. Will need support for delivery to her address at 222A SUMANG LANE.",
-    "specifications": null,
-    "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "mbinny@catholicwelfare.org.sg",
-      "phone": [
-        "68017489",
-        "63394711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -204,6 +204,7 @@
       "name": "Stephen Ong",
       "email": "stephen_ong@hcsa.org.sg",
       "phone": [
+        "80207521",
         "64402444"
       ]
     },
@@ -221,6 +222,7 @@
       "name": "Stephen Ong",
       "email": "stephen_ong@hcsa.org.sg",
       "phone": [
+        "80207521",
         "64402444"
       ]
     },
@@ -1458,6 +1460,60 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Sep 2025"
+  },
+  {
+    "id": "150352",
+    "category": "Home Furnishing",
+    "name": "Wardrobe X 2",
+    "description": "\"The household currently comprises six members, and the Her husband is the sole breadwinner, having only just secured employment. They recently received the keys to their new 3-room BTO flat.\n\nThe client has expressed difficulties in acquiring basic furniture and household appliances to set up their new residence. They are also some challenges in preparing for the arrival of their newborn, with limited resources to purchase essential baby items and supplies. (ISk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
+    "id": "150351",
+    "category": "Home Furnishing",
+    "name": "Hospital Bed Mattress",
+    "description": "The client's wife is currently recovering from a stroke. Recently, they experienced a bed bug infestation, and as a result, require new mattress. (Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
+    "id": "150348",
+    "category": "Home Furnishing",
+    "name": "single bed mattress and pillow",
+    "description": "Client, male aged 63 years old is divorced and stays with his flatmate in HDB 2-room flexi flat. He has 2 adult children who is not in much contact with him and provided limited support to him. His mattress and pillow are old and dirty. He hopes to have a new mattress and pillow to enable him to sleep better and has less backache. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "National Kidney Foundation (NKF)",
+      "name": "Liau Lian Lee",
+      "email": "lianlee.liau@nkfs.org",
+      "phone": [
+        "63593657",
+        "65062244"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "17 Oct 2025"
   },
   {
     "id": "150335",
@@ -2765,6 +2821,24 @@
     "date": "16 Sep 2025"
   },
   {
+    "id": "150350",
+    "category": "Others",
+    "name": "",
+    "description": "The client is unfit for work and depends on government assistance for her care needs. Her family members is unable to financially support her. (Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
     "id": "150343",
     "category": "Others",
     "name": "Diaper and milk",
@@ -3771,6 +3845,42 @@
     "date": "02 Oct 2025"
   },
   {
+    "id": "150345",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Single mother with 3 children ranging from 2 months to 14 y/o requires assistance to purchase diapers as she is tight on finances. She is also undergoing divorce and is not receiving money from her spouse. The assistance with purchasing diapers for her will be beneficial to tide through the financial constraints.",
+    "specifications": "Drypers Size S",
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Gan Wan Lin",
+      "email": "wanlin.gan@reach.org.sg",
+      "phone": [
+        "68010735",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
+    "id": "150344",
+    "category": "Infant and Children Items",
+    "name": "Milk powder",
+    "description": "Single mother with 3 children ranging from 2 months to 14 y/o requires assistance to purchase milk powder as she is tight on finances. She is also undergoing divorce and is not receiving money from her spouse. The assistance with purchasing milk powder for her will be beneficial to tide through the financial constraints.",
+    "specifications": "Grow Stage 1 (0-12 months)",
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Gan Wan Lin",
+      "email": "wanlin.gan@reach.org.sg",
+      "phone": [
+        "68010735",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
     "id": "150325",
     "category": "Infant and Children Items",
     "name": "Child diapers",
@@ -3801,24 +3911,6 @@
       "phone": [
         "69784084",
         "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2025"
-  },
-  {
-    "id": "150315",
-    "category": "Infant and Children Items",
-    "name": "Baby Safety Gate (without drilling)",
-    "description": "Family with 3 young children (New born, 1yo, 2yo) who is living in a rental flat requires a safety gate to keep their children safe. Father is serving his NS and mum is the only caregiver at home. Hence, having a safety gate will help to ensure safety of the children and ease worries of mum.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Ko Wei Lin",
-      "email": "koweilin@kkcs.org.sg",
-      "phone": [
-        "62942116ext202",
-        "62997662"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4123,24 +4215,6 @@
     "id": "150067",
     "category": "Infant and Children Items",
     "name": "NTUC Diapers Size S",
-    "description": "Ct is sole bread winner and on maternity leave. Hb recently got into accident and was retrenched. Financially difficult to get daily neccessities to cover 5 pax in family.",
-    "specifications": "4 pax",
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Oct 2025"
-  },
-  {
-    "id": "150066",
-    "category": "Infant and Children Items",
-    "name": "Grow 1 Formula",
     "description": "Ct is sole bread winner and on maternity leave. Hb recently got into accident and was retrenched. Financially difficult to get daily neccessities to cover 5 pax in family.",
     "specifications": "4 pax",
     "contact": {
@@ -6296,6 +6370,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "29 Sep 2025"
+  },
+  {
+    "id": "150349",
+    "category": "Mobility Aids",
+    "name": "Shower chair",
+    "description": "Family of 4 living in a HDB rental unit. Father has end stage kidney failure and mom recently was hospitalised for spinal issues, doctor has advised to have a chair to sit in the toliet while showering.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society - Yishun FSC",
+      "name": "Ang Jia Yi",
+      "email": "jyang@childrensociety.org.sg",
+      "phone": [
+        "67537331"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
   },
   {
     "id": "150260",
