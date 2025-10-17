@@ -66,6 +66,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150366",
+    "name": "IKEA Bedframe and mattress",
+    "description": "White IKEA bed frame. Queen size. Well used but in good shape",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "31 Oct 2025",
+    "ageInYears": 3,
+    "dimensions": "150x200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150347",
     "name": "single bed with mattress (kingkoil)",
     "description": "The bed has storage space below, and in good condition.\nI am ok for either collection or send directly.",
@@ -227,17 +238,6 @@
     "validTill": "22 Oct 2025",
     "ageInYears": 2,
     "dimensions": "Seat height 32cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "149450",
-    "name": "Glass Coffee Table",
-    "description": "In excellent condition",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "18 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "Length 120cm; Width 70cm; Height 35cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -482,6 +482,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "150367",
+    "name": "Motorized hospital bed",
+    "description": "Motorized hospital bed with additional air mattress",
+    "location": null,
+    "validTill": "30 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "150364",
