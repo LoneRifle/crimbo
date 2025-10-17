@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "150322",
-    "name": "55\" TV",
-    "description": "A Philips TV that's still in good working condition, and looks slightly used. No smart features. Preferably self-collect at Tampines",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "150200",
     "name": "Air Purifier",
     "description": "2 pieces. I will deliver to area near district 12 only example Jalan Besar, Balestier, Geylang Bahru etc.",
@@ -493,6 +482,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "150364",
+    "name": "Medical Bed and Chair",
+    "description": "Brand new medical bed and chair",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "16 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "150292",
