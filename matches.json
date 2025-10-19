@@ -52,6 +52,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "150376",
+          "name": "Bunk bed",
+          "description": "Kuhl home playhouse bunk bed. danish.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "18 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "207 x 102 x 139",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "150366",
           "name": "IKEA Bedframe and mattress",
           "description": "White IKEA bed frame. Queen size. Well used but in good shape",
@@ -116,6 +127,17 @@
           "dimensions": "205cm x 102cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "150373",
+          "name": "Queen sized bedframe + mattress",
+          "description": "Light Grey divan bedframe with 15cm thick spring mattress. Brand new.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "Queen Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "150369",
@@ -210,6 +232,40 @@
     }
   },
   {
+    "id": "150361",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "The client has recently relocated to a larger rental unit and requires support in obtaining essential appliances and furniture. He is a single father caring for two daughters and one son.(Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150375",
+          "name": "Donation of Solid Wood Sofa Set (3+1+1) – Jurong East",
+          "description": "I would like to bless and donate a solid wood sofa set (3-seater + two 1-seaters) in good, usable condition through the Pass-It-On programme.\n\nItem details:\n\nOrigin: Zen Tradition\n\nMaterial: Solid, heavy wood with firm cushion seats\n\nCondition: Gently used, structurally strong, minor wear on fabric edges\n\nIncludes: Main seat cushions only (small decorative cushions in photo not included)\n\nColour: Beige-gold fabric with dark wood frame. I will also include an additional spare set of cushion covers in red too\n\nQuantity: 1 set (3 + 1 + 1)\n\n\nPickup details:\n\nLocation: Jurong East (lift accessible)\n\nPreferred collection: By end of Oct (flexible on timing)\n\nI can assist with coordination for movers or charity pickup. By the way, need to arrange for movers because only my elderly parents in the house.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "15 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "195cmx80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150351",
     "category": "Home Furnishing",
     "name": "Hospital Bed Mattress",
@@ -289,50 +345,6 @@
     }
   },
   {
-    "id": "150297",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "Client (46 y/o) lives together with her husband and their 3 children. Their family experiences financial difficulties due to client's health issues and her husband's low-income job. Their cupboard has recently spoilt and they are unable to purchase a new cupboard due to their financial difficulties. Thus, client is seeking a donation for a cupboard (rough dimension size of H:221, L:150, W:46) .",
-    "specifications": "H:221, L:150, W:46",
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Odelia Tan",
-      "email": "odeliatan@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150308",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "150309",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150166",
     "category": "Home Furnishing",
     "name": "Bed Frame with Storage",
@@ -359,6 +371,40 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150165",
+    "category": "Home Furnishing",
+    "name": "Mattress (Queen-size)",
+    "description": "Young single mother with infant. They will be moving to their rental unit soon but lack some household items. Mother is looking for job to support herself and her child.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Genessa Soh",
+      "email": "genessa_soh@msf.gov.sg",
+      "phone": [
+        "91115451",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150373",
+          "name": "Queen sized bedframe + mattress",
+          "description": "Light Grey divan bedframe with 15cm thick spring mattress. Brand new.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "Queen Size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -404,6 +450,175 @@
           "validTill": "09 Nov 2025",
           "ageInYears": 4,
           "dimensions": "135x33x ht197 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150079",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a mother of two teenage daughters. She is not able to work due to slipped disc issues. Her husband is working doing grab deliveries. The family faces significant financial stressors and have incurred a lot of debts. Please Whatsapp Ameena at 8718 8444 or email siti.ameena@thkmc.org.sg to liase.",
+    "specifications": "4 Door",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150074",
+    "category": "Home Furnishing",
+    "name": "Queen-Sized Mattress",
+    "description": "A young single mother for 2 children is currently unemployed due to prior family violence concerns that limited her bandwidth in staying in stable employment. Client has recently moved out to her own HDB rental flat and requires support in assisting her with furnishing her new rental flat with basic essentials while she tries to secure a stable employment.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150373",
+          "name": "Queen sized bedframe + mattress",
+          "description": "Light Grey divan bedframe with 15cm thick spring mattress. Brand new.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "Queen Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150052",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Single mother of 1.5 year old child who just moved into her public rental flat. Requires a wardrobe to organize their clothes. Juggles between part-time job and caregiving.",
+    "specifications": "2 or 3-door wardrobe",
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Heriyati Kasmani",
+      "email": "heriyati_kasmani@msf.gov.sg",
+      "phone": [
+        "63550089",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149962",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a single mother who is taking care of her 3 young children. Due to her poor health and caregiving duties, she is currently unemployed. Family is allocated a rental flat recently and require household items for their flat. Client hopes to receive wardrobe to put her and her children's clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149951",
+    "category": "Home Furnishing",
+    "name": "wardrobe",
+    "description": "Client has 8 children. She is not working as she is a full-time caregivers for all her children. Her husband is currently looking for jobs. (Far)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -467,6 +682,175 @@
     }
   },
   {
+    "id": "149889",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client's family is a family of 10 that lives in a 2-room rental flat, with multiple children. Family faces financial difficulties as they only have 1 breadwinner. Family requires a wardrobe to organise all their clothes at home, so as to keep the place neat.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shena Tan",
+      "email": "shenatan@fycs.org",
+      "phone": [
+        "69782982",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149833",
+    "category": "Home Furnishing",
+    "name": "Queen size mattress/bed",
+    "description": "Low-income family staying in a rental flat, with 3 school going children, 1 in pre-school and 1 in infant care. Mother is working as a cleaner while father is the main caregiver of their children, and they are struggling financially to adequately meet their children's needs and to pay their medical bills. Their current mattress has been cleared away due to bed bug infestation. The family is requesting a mattress that will be beneficial for them to have sufficient rest for school and work.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150373",
+          "name": "Queen sized bedframe + mattress",
+          "description": "Light Grey divan bedframe with 15cm thick spring mattress. Brand new.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "Queen Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149790",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a single mother currently living with her 2-year-old daughter. At present, she is unemployed and facing challenges in securing a job that aligns with her caregiving responsibilities. Nevertheless, she is actively seeking employment opportunities that offer flexibility to accommodate her role as a primary caregiver. Additionally, a wardrobe would significantly ease her financial burden, help reduce these costs and support her in managing her household more efficiently. can whatsapp 6038 4091 if you are keen to arrange transport and cover delivery cost.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149770",
+    "category": "Home Furnishing",
+    "name": "Queen Size Mattress",
+    "description": "A family has 5 children ranging from primary school to a new born. The father just lost his food delivery job as he just lost his e-bike. The mother just gave birth and is on confinement. The family requires a queen size mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Premilla d/0 Gunasekaran",
+      "email": "premilla_gunasekaran@msf.gov.sg",
+      "phone": [
+        "62139480",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150373",
+          "name": "Queen sized bedframe + mattress",
+          "description": "Light Grey divan bedframe with 15cm thick spring mattress. Brand new.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "Queen Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149710",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family of 5 stays in a 4-room flat with 4 other members with chronic medical and mental health conditions. Family wardrobe is old and breaking down and would require to change.",
+    "specifications": "170cm wide",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Yew Tee",
+      "name": "Calyn Xu",
+      "email": "calynxu@fycs.org",
+      "phone": [
+        "64162155",
+        "64162162"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149662",
     "category": "Home Furnishing",
     "name": "Cupboard",
@@ -512,6 +896,40 @@
     }
   },
   {
+    "id": "148190",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family of 5 in a rental flat with 3 children in school, father is the sole bread winner as a ferry operator, working long hours, mother is a homemaker who takecares of the home. The family is looking for wardrobe as theirs is spoilt with the 2 lower drawers missing, they are unable to keep the space tidy for the kids to focus on their school, please provide delivery for the item as family cannot afford delivery. can contact me through email or whatsapp 6708 7032",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Esther Tan",
+      "email": "tan_ziji@msf.gov.sg",
+      "phone": [
+        "67087032",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149646",
     "category": "Home Furnishing",
     "name": "Bedframe and mattress",
@@ -537,6 +955,241 @@
           "validTill": "31 Oct 2025",
           "ageInYears": 3,
           "dimensions": "150x200",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149641",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Low-income family of 3 in need of replacing their refrigerator \n\nMother and father is ongoing through divorce.\nFather and mother reported not having any income, and is solely dependant on SSO ComCare assistance for their daily needs.\n\nTheir son is diagnosed with Intellectual Disability which limits his ability to work independently.\n\nAs such, the family faces trouble to replace their wardrobe.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "139390",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family of 5 with 3 school-going children staying in a 2-room rental flat requires a wardrobe as their current one is giving way. Would be very grateful if donor is able to cover the transport expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Mohamad Harith",
+      "email": "harith_husaini@msf.gov.sg",
+      "phone": [
+        "63254547",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149593",
+    "category": "Home Furnishing",
+    "name": "wardrobe",
+    "description": "Client is a single mother currently living with her 2-year-old daughter. At present, she is unemployed and facing challenges in securing a job that aligns with her caregiving responsibilities. Nevertheless, she is actively seeking employment opportunities that offer flexibility to accommodate her role as a primary caregiver. Additionally, a wardrobe would significantly ease her financial burden, help reduce these costs and support her in managing her household more efficiently. can whatsapp 6038 4091 if you are keen to arrange transport and cover delivery cost.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149531",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a single mother who is taking care of her 3 young children. Due to her poor health and caregiving duties, she is currently unemployed. Family is allocated a rental flat recently and require household items for their flat. Client hopes to receive wardrobe to put her and her children's clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149482",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is on long-term MC for 6 months, husband is the only sole breadwinner. The family consist of 8 members with 6 school-going children aged between 6 to 14. \nThe family is currently receiving insufficient finance support as client's husband employment is unstable and he is currently employed on a contract ad-hoc basis, with subsequent reviews to ascertain whether he can continue his employment. Recently her wardrobe is broken, and thus she is looking for support to replace it, so that her and her family is able to have a proper storage space for clothes, creating a more conducive environment for the kids.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149474",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Elderly lady is staying with her adult daughter in a 2-room rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149439",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Low-income family of 4 requires a 1-door wardrobe as the current one is becoming faulty. The family's income is unstable as both parents have multiple health issues.",
+    "specifications": "Height: 179 cm Length: 40 cm Depth: 40 cm",
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Andy Wee",
+      "email": "andywee@kkcs.org.sg",
+      "phone": [
+        "64854720",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Sep 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150374",
+          "name": "Light Grey 4 doors wardrobe",
+          "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 1,
+          "dimensions": "1400cmW x 60cmD x 2000cmH",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
