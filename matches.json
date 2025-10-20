@@ -308,6 +308,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "150384",
+          "name": "Cupboard",
+          "description": "It came with my work desk but my room have no space for the this shelf. The hole is to put the work desk leg in.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "03 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "100cmW x 50cmD x 55cmH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "150308",
           "name": "Storage cupboard",
           "description": "Not for fuzzy, used storage cupboard",
@@ -360,51 +371,6 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150119",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "The client, a 43-year-old Singaporean mother, is currently unemployed as she needs to focus on her 16-year-old son’s behavioural and school issues. As part of an arrangement with the school, she must accompany and fetch him daily, which limits her ability to work. Her husband, an Indian PR, has also recently lost his job, and the family is struggling to cope financially. Addressing these household repairs and furniture needs would greatly improve their living environment and the client’s overall well-being, particularly given her health sensitivities and caregiving responsibilities.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Chan Yvonne",
-      "email": "yvonne-chan@fycs.org",
-      "phone": [
-        "69783516",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150308",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "150309",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -696,51 +662,6 @@
           "validTill": "30 Oct 2025",
           "ageInYears": 1,
           "dimensions": "1400cmW x 60cmD x 2000cmH",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149662",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "Household of 2 consisting of a single mother and a 20yo son serving his National Service. Their rental flat has been infested with termites. They have difficulties replacing their furniture due to low income.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Toa Payoh",
-      "name": "Venus Tang",
-      "email": "venus_tang@msf.gov.sg",
-      "phone": [
-        "65139140",
-        "67157503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150308",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "150309",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
