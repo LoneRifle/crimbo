@@ -1,5 +1,39 @@
 [
   {
+    "id": "150417",
+    "category": "Electrical Home Appliances",
+    "name": "Fan",
+    "description": "Senior stays alone in a 1-room rental flat. Senior has multiple health conditions and is not fit for work. His unit is lacking some basic furniture including a standing fan. If keen to donate, please kindly reach out to Ms. Lin at 9846 7229. Thank you for your kindness.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Senior Services Ltd",
+      "name": "Lin Hong Yue",
+      "email": "linhongyue@carecorner.org.sg",
+      "phone": [
+        "62586601",
+        "62536979"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149563",
+          "name": "Hand held fan",
+          "description": "///",
+          "location": null,
+          "validTill": "22 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150290",
     "category": "Electrical Home Appliances",
     "name": "electric kettle",
@@ -161,17 +195,6 @@
           "dimensions": "210cm X 92cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "150367",
-          "name": "Motorized hospital bed",
-          "description": "Motorized hospital bed with additional air mattress",
-          "location": null,
-          "validTill": "30 Oct 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         },
         {
           "id": "150292",
@@ -643,6 +666,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Attires/Clothings"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150420",
+    "category": "Mobility Aids",
+    "name": "Walking Frame",
+    "description": "An elderly client recently underwent spine surgery and now requires a walking frame to move around safely at home. However, due to financial constraints, they are unable to afford one. We are seeking support to help provide this essential aid.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Joyce Ng",
+      "email": "joyceng@allkin.org.sg",
+      "phone": [
+        "64546678",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "149992",
+          "name": "Walking Frame",
+          "description": "New walking frame to donate",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "06 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "150172",
+          "name": "Foldable walking frame",
+          "description": "Brand New. Never used.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "09 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
