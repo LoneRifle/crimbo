@@ -68,6 +68,85 @@
     }
   },
   {
+    "id": "150481",
+    "category": "Home Furnishing",
+    "name": "Chairs",
+    "description": "Family consists of a single mum with her 4 school-going children. She has just gotten her rental flat, and she is lacking some chairs. She has a small table that she can use as a dining table, but she doesn't have any chairs. Hence, they are hoping to get some chairs (minimum 5) so that their family can have meals together or even for the children to study at the table.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Vanessa Ong",
+      "email": "vanessa_ong@msf.gov.sg",
+      "phone": [
+        "63549538",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150459",
+          "name": "Chairs",
+          "description": "With seat cushions.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150396",
+          "name": "Foldable chairs x 4",
+          "description": "Pls arrange own courier",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "19 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150457",
+    "category": "Home Furnishing",
+    "name": "Single mattress",
+    "description": "A single mother who has 4 school going children under her care. She struggles with mental health concerns and is unable to work, caring for her children as well. Family depends on government financial assistance and is unable to afford a new mattress. Their current mattress is no longer providing the support as the springs are protruding and causing discomfort. A few off her children sleeps on the same mattress with her while the rest sleeps in the living room on a sofa-bed (sharing). Kindly assist this family. Thank you.",
+    "specifications": "Single sized",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Lim Sheau Huey",
+      "email": "limsheauhuey@fycs.org",
+      "phone": [
+        "69783021",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150438",
+          "name": "Super single bed with Kingkoil mattress and IKEA mattress cover",
+          "description": "Estimated Measurement :\n- 210x120cm\n- bed height 50cm\n- headboard height 95cm\n\nKingkoil mattress with IKEA mattress cover. One of the legs has missing floor protector as shown in the photo.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "21 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "Estimated Measurement : - 210x120cm - bed height 50cm - headboard height 95cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150361",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -86,6 +165,17 @@
     "date": "17 Oct 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "150460",
+          "name": "Sofa",
+          "description": "Has 2 sets of covers. The other set is dark grey.",
+          "location": null,
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "190cm x 80cm x 80cm (back rest height)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "150375",
           "name": "Donation of Solid Wood Sofa Set (3+1+1) – Jurong East",
@@ -199,6 +289,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "150485",
+          "name": "Hospital Single Bed",
+          "description": "Hospital Bed with mattress and air mattress",
+          "location": null,
+          "validTill": "21 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "150438",
           "name": "Super single bed with Kingkoil mattress and IKEA mattress cover",
           "description": "Estimated Measurement :\n- 210x120cm\n- bed height 50cm\n- headboard height 95cm\n\nKingkoil mattress with IKEA mattress cover. One of the legs has missing floor protector as shown in the photo.",
@@ -247,134 +348,33 @@
     }
   },
   {
-    "id": "150316",
+    "id": "150427",
     "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Mother of three young children (8yo, 5yo, 3yo) is the sole breadwinner. She works part-time and her husband is currently incarcerated. She currently has poor mental health which is impacting her ability to work. She requires Dryperz drypantz size XL for her youngest girl.",
+    "name": "Baby cot",
+    "description": "Client (M/45) and his wife are currently unemployed and residing in a shelter. They have been struggling to provide their 2-month-old baby with basic necessities as they have no source of income or savings. We are seeking donor to provide baby cot for the growth of the baby and your kind support will greatly ease their burden. Please Whatsapp Kritikaa at 8777 0959 or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
     "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Amanda Soo",
-      "email": "amandasoo@carecorner.org.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
       "phone": [
-        "69784084",
-        "64761481"
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2025",
+    "date": "21 Oct 2025",
     "matches": {
       "passiton": [
         {
-          "id": "150380",
-          "name": "6-12months old Baby clothes, diapers, toy",
-          "description": "Worn baby clothes 6-11months old, new diapers, toys used once, new breast feeding both etc. Please refer to picture.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "19 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "150465",
+          "name": "Baby / toddler cot bed with mattress",
+          "description": "Well used wooden white baby / toddler cot with wheels. Still in good condition ie stable and safe. Mattress foam mattress and is also in good condition.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "21 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "Width 66 cm x length 124 cm x height 106cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150300",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is unemployed due to caregiving needs for her 1 year old daughter. Her husband also struggles to find a stable job. Hence there is no source of income to the family. The daughter's needs can be financially taxing on the family.",
-    "specifications": "mamy poko pants XL",
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Eunice Koh",
-      "email": "eunice@frcsfsc.sg",
-      "phone": [
-        "67799488ext17",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "15 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150380",
-          "name": "6-12months old Baby clothes, diapers, toy",
-          "description": "Worn baby clothes 6-11months old, new diapers, toys used once, new breast feeding both etc. Please refer to picture.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "19 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150134",
-    "category": "Infant and Children Items",
-    "name": "Diaper",
-    "description": "Client is a single mother, currently unemployed with no income. She has 5 children aged 10 years, 9 years, 8 years, 7 years, and 8 months old. She is in need of diapers (MamyPoko Tape Diaper - M size) for her 8 months old child.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Muhammad Yusoff s/o Abdul Latiff",
-      "email": "muhammadyusoff@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150380",
-          "name": "6-12months old Baby clothes, diapers, toy",
-          "description": "Worn baby clothes 6-11months old, new diapers, toys used once, new breast feeding both etc. Please refer to picture.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "19 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150132",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Diapers\n\nMother is currently unemployed and have no income, while husband have an unstable job as a grab driver. They have 3 young children (5y/o, 3 y/o, and 8 mths old) and faces financial difficulties. Mother is also diagnosed with mental health issues (anxiety & depression) which adds on to caregiver stress. The family is in urgent need of diapers (Any brand, size S and M) for her 8 months old and 3 years old child.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Muhammad Yusoff s/o Abdul Latiff",
-      "email": "muhammadyusoff@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150380",
-          "name": "6-12months old Baby clothes, diapers, toy",
-          "description": "Worn baby clothes 6-11months old, new diapers, toys used once, new breast feeding both etc. Please refer to picture.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "19 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -415,74 +415,6 @@
     }
   },
   {
-    "id": "149784",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Parent in need of diapers for children ages 1 and 2. Parent is not receiving any other assistance at the moment.  There is no income in this family",
-    "specifications": "Size XL, Drypers Pull Up Pants",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Michele Gan",
-      "email": "michele_gan@awwa.org.sg",
-      "phone": [
-        "65119488",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150380",
-          "name": "6-12months old Baby clothes, diapers, toy",
-          "description": "Worn baby clothes 6-11months old, new diapers, toys used once, new breast feeding both etc. Please refer to picture.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "19 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149590",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is unemployed as she needs to take care of her 1 year-old daughter. Her husband is unable to provide financial support her. Hence, there is minimal amount of income to the household. The expenses on the daughter's milk powder and diapers can be taxing on the family.",
-    "specifications": "mamy poko pants XL",
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Eunice Koh",
-      "email": "eunice@frcsfsc.sg",
-      "phone": [
-        "67799488ext17",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "23 Sep 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150380",
-          "name": "6-12months old Baby clothes, diapers, toy",
-          "description": "Worn baby clothes 6-11months old, new diapers, toys used once, new breast feeding both etc. Please refer to picture.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "19 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150420",
     "category": "Mobility Aids",
     "name": "Walking Frame",
@@ -508,6 +440,74 @@
           "location": "Cairnhill, Killiney, Orchard, River Valley",
           "validTill": "09 Nov 2025",
           "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150409",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Elderly living alone and had recently sustained falls due to giddiness and wish to have a wheelchair for her to ambulate around the community. She does not have the financial capacity to purchase one as well. You can contact me at 91271945.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Clarissa Low",
+      "email": "clarissa.low@montfortcare.org.sg",
+      "phone": [
+        "62500244",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150486",
+          "name": "Wheelchair",
+          "description": "In good condition (3 units)",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149935",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Family of 6. Mother is a homemaker due to her caregiving responsibilities and has challenges moving about as she experiences pain in her lower back and legs. Mother used to have a wheelchair which has been worn down, and unsuitable for use. Mother would require a wheelchair to aid her mobility as she heads out of the house.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joanna Tay",
+      "email": "joannatay@fycs.org",
+      "phone": [
+        "66901029",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150486",
+          "name": "Wheelchair",
+          "description": "In good condition (3 units)",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Nov 2025",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
