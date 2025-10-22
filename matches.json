@@ -1,5 +1,39 @@
 [
   {
+    "id": "150450",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "For shelter serving person with disabilities usage in centre.",
+    "specifications": "46 Inches",
+    "contact": {
+      "org": "AWWA Ltd - Transitional Shelter (JT)",
+      "name": "Nur Hazleena Binte Roslee",
+      "email": "nur_hazleena@awwa.org.sg",
+      "phone": [
+        "65511676",
+        "65111669"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150379",
+          "name": "TV cabinet",
+          "description": "Pre-loved TV cabinet with storage. Good condition.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": "180 cm x 40 cm x 50 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149601",
     "category": "Electrical Home Appliances",
     "name": "Air Purifier",
@@ -53,17 +87,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "150433",
-          "name": "3-Seater Sofa - brown",
-          "description": "Well kept sofa with washable upholstery.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "20 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "240cm length, 90cm width, 70cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "150375",
           "name": "Donation of Solid Wood Sofa Set (3+1+1) – Jurong East",
           "description": "I would like to bless and donate a solid wood sofa set (3-seater + two 1-seaters) in good, usable condition through the Pass-It-On programme.\n\nItem details:\n\nOrigin: Zen Tradition\n\nMaterial: Solid, heavy wood with firm cushion seats\n\nCondition: Gently used, structurally strong, minor wear on fabric edges\n\nIncludes: Main seat cushions only (small decorative cushions in photo not included)\n\nColour: Beige-gold fabric with dark wood frame. I will also include an additional spare set of cushion covers in red too\n\nQuantity: 1 set (3 + 1 + 1)\n\n\nPickup details:\n\nLocation: Jurong East (lift accessible)\n\nPreferred collection: By end of Oct (flexible on timing)\n\nI can assist with coordination for movers or charity pickup. By the way, need to arrange for movers because only my elderly parents in the house.",
@@ -73,40 +96,6 @@
           "dimensions": "195cmx80cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150351",
-    "category": "Home Furnishing",
-    "name": "Hospital Bed Mattress",
-    "description": "The client's wife is currently recovering from a stroke. Recently, they experienced a bed bug infestation, and as a result, require new mattress. (Isk)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150117",
-          "name": "Hospital bed with air mattress",
-          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "08 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": "205cm x 102cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []
@@ -512,17 +501,6 @@
     "date": "21 Oct 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "149992",
-          "name": "Walking Frame",
-          "description": "New walking frame to donate",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "06 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
         {
           "id": "150172",
           "name": "Foldable walking frame",
