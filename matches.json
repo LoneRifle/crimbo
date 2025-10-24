@@ -67,6 +67,39 @@
     }
   },
   {
+    "id": "150529",
+    "category": "Home Furnishing",
+    "name": "Super single bed",
+    "description": "Client has just ended a relationship, and her partner has thrown away all her personal and household items. She is now living alone and does not have enough savings to purchase replacement household items.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150438",
+          "name": "Super single bed with Kingkoil mattress and IKEA mattress cover",
+          "description": "Estimated Measurement :\n- 210x120cm\n- bed height 50cm\n- headboard height 95cm\n\nKingkoil mattress with IKEA mattress cover. One of the legs has missing floor protector as shown in the photo.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "21 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "Estimated Measurement : - 210x120cm - bed height 50cm - headboard height 95cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150511",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -235,51 +268,6 @@
     }
   },
   {
-    "id": "150361",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "The client has recently relocated to a larger rental unit and requires support in obtaining essential appliances and furniture. He is a single father caring for two daughters and one son.(Isk)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150488",
-          "name": "2 seater sofa",
-          "description": "This is not a sofa bed. It is a large 2 seater sofa. Self collect or pick up. Delivery not included",
-          "location": null,
-          "validTill": "21 Nov 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "150375",
-          "name": "Donation of Solid Wood Sofa Set (3+1+1) – Jurong East",
-          "description": "I would like to bless and donate a solid wood sofa set (3-seater + two 1-seaters) in good, usable condition through the Pass-It-On programme.\n\nItem details:\n\nOrigin: Zen Tradition\n\nMaterial: Solid, heavy wood with firm cushion seats\n\nCondition: Gently used, structurally strong, minor wear on fabric edges\n\nIncludes: Main seat cushions only (small decorative cushions in photo not included)\n\nColour: Beige-gold fabric with dark wood frame. I will also include an additional spare set of cushion covers in red too\n\nQuantity: 1 set (3 + 1 + 1)\n\n\nPickup details:\n\nLocation: Jurong East (lift accessible)\n\nPreferred collection: By end of Oct (flexible on timing)\n\nI can assist with coordination for movers or charity pickup. By the way, need to arrange for movers because only my elderly parents in the house.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "15 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "195cmx80cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150355",
     "category": "Home Furnishing",
     "name": "Chest of drawers",
@@ -308,6 +296,62 @@
           "dimensions": "L80 H78 D50 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150351",
+    "category": "Home Furnishing",
+    "name": "Hospital Bed Mattress",
+    "description": "The client's wife is currently recovering from a stroke. Recently, they experienced a bed bug infestation, and as a result, require new mattress. (Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150530",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150531",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150532",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -492,33 +536,34 @@
     }
   },
   {
-    "id": "150427",
-    "category": "Infant and Children Items",
-    "name": "Baby cot",
-    "description": "Client (M/45) and his wife are currently unemployed and residing in a shelter. They have been struggling to provide their 2-month-old baby with basic necessities as they have no source of income or savings. We are seeking donor to provide baby cot for the growth of the baby and your kind support will greatly ease their burden. Please Whatsapp Kritikaa at 8777 0959 or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "id": "150542",
+    "category": "Learning Aids",
+    "name": "Tablet",
+    "description": "Client is a single mother to her teenage daughter and also taking care of her elderly mother in a low income household. Client is working full-time and recently decided to take a part-time diploma on weeknights to upskill herself. She requires a tablet, preferably with a smart pen, to aid in her studying. Please Whatsapp me at 62319407 if you have a suitable one to donate. Thank you!",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
       "phone": [
-        "62706711"
+        "62319407",
+        "67660097"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2025",
+    "date": "24 Oct 2025",
     "matches": {
       "passiton": [
         {
-          "id": "150465",
-          "name": "Baby / toddler cot bed with mattress",
-          "description": "Well used wooden white baby / toddler cot with wheels. Still in good condition ie stable and safe. Mattress foam mattress and is also in good condition.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "21 Nov 2025",
+          "id": "149749",
+          "name": "Tall side Tablet",
+          "description": "Is a wooden side tall side table, look brand new",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "29 Oct 2025",
           "ageInYears": 4,
-          "dimensions": "Width 66 cm x length 124 cm x height 106cm",
+          "dimensions": "39x39x103cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -553,40 +598,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150420",
-    "category": "Mobility Aids",
-    "name": "Walking Frame",
-    "description": "An elderly client recently underwent spine surgery and now requires a walking frame to move around safely at home. However, due to financial constraints, they are unable to afford one. We are seeking support to help provide this essential aid.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Joyce Ng",
-      "email": "joyceng@allkin.org.sg",
-      "phone": [
-        "64546678",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150172",
-          "name": "Foldable walking frame",
-          "description": "Brand New. Never used.",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
