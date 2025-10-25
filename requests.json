@@ -1,21 +1,706 @@
 [
   {
-    "id": "150550",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Couple with 2 children staying in a rental flat needs a washing machine to replace their current non working one",
-    "specifications": null,
+    "id": "150524",
+    "category": "Others",
+    "name": "Market Trolley",
+    "description": "Mother would require a metal trolley to help with the weights of her grocery shopping as her current one is broken. Preferably one with big wheels to support her heavy groceries, as she will also use it to support her walking due to weak legs.",
+    "specifications": "40cm(W) x 44cm(D) x 87cm(H)",
     "contact": {
-      "org": "Bartley Community Care Services",
-      "name": "Chew Chee Kuan",
-      "email": "cheekuan.chew@bccs.org.sg",
+      "org": "Fei Yue Community Services",
+      "name": "Priscilla Tan",
+      "email": "priscillatan@fycs.org",
       "phone": [
-        "83760394",
-        "68850432"
+        "60117651",
+        "63809169"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "24 Oct 2025"
+  },
+  {
+    "id": "150519",
+    "category": "Others",
+    "name": "Trolley",
+    "description": "Trolley for client to pull and put rations/groceries in.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Germaise Leong",
+      "email": "germaise.leong@montfortcare.org.sg",
+      "phone": [
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Oct 2025"
+  },
+  {
+    "id": "150449",
+    "category": "Others",
+    "name": "*Peddler*",
+    "description": "The client (M/67) is widowed and living alone in a 1rm rental flat, with poor gait, leg cramps and fall risks. He is not particularly homebound, however relies heavily on home-based services for meals and environment management. \nHe experiences cramps at night, and it is not managed. Client also declined further acupuncture treatments as he feels that it worsens his mobility. He ambulates with wall and furniture cruising when cramp worsens, otherwise he walks without aids at home, and uses motorized scooter in the community. \n\nHe has agreed to do more home-based exercises to strengthen his lower limbs and is agreeable to use the peddler as a start to improve on his lower limb weakness and blood circulation.",
+    "specifications": null,
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Marhamah Binte Mohamed Ali",
+      "email": "marhamah.mohamed.ali@singhealth.com.sg",
+      "phone": [
+        "64267519",
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2025"
+  },
+  {
+    "id": "150411",
+    "category": "Others",
+    "name": "Adult Diaper",
+    "description": "We are appealing for donations of adult diapers (Size M, any brand) for a 29-year-old with special needs.\n\nThe family of five is currently staying in a 2-room rental flat and facing financial constraints. Any contribution of diapers will help to ease their daily challenges and reduce their financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "Yayasan Mendaki @ Punggol",
+      "name": "Fitri Aini",
+      "email": "fitriaini.mohdtahir@mendaki.org.sg",
+      "phone": [
+        "62485996"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Oct 2025"
+  },
+  {
+    "id": "150404",
+    "category": "Others",
+    "name": "smart phone",
+    "description": "Man who has heart issues and a recent leg injury that caused him to be temporarily unable to work, is currently residing in a shelter as he does not have stable accommodation. His current smart phone is also a donated second hand and on the verge of being damaged. It is currently laggy and not able to function like a normal phone, client is in need of a preferably brand new phone for job search and communicating with prospective employers.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Samuel Lim",
+      "email": "samuellim@kkcs.org.sg",
+      "phone": [
+        "63260316",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2025"
+  },
+  {
+    "id": "150360",
+    "category": "Others",
+    "name": "Stove (PUB)",
+    "description": "The client has recently relocated to a larger rental unit and requires support in obtaining essential appliances and furniture. He is a single father caring for two daughters and one son.(Isk)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
+    "id": "150343",
+    "category": "Others",
+    "name": "Diaper and milk",
+    "description": "We are seeking support for an elderly client who requires milk and adult diapers. The client is currently being cared for by her daughter, a single mother who is the sole breadwinner of the family. \n\ndiaper tapes - L and diaper pants - XL milk ensure pulmocare (237ml)",
+    "specifications": "Diaper tapes - L and diaper pants - XL",
+    "contact": {
+      "org": "Fei Yue Senior Activity Centre @ Senja",
+      "name": "Janice Lee",
+      "email": "janicelee@fycs.org",
+      "phone": [
+        "63519555"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Oct 2025"
+  },
+  {
+    "id": "144203",
+    "category": "Others",
+    "name": "Adult Diapers (WeCare Size L)",
+    "description": "Single mum seeking adult diapers for child with special needs. Mum expressed financial difficulties following the passing of eldest son who used to support the family. Mum is unable to seek employment due to FT caregiving of child with special needs. Child wears at least 6 diapers a day (~180 per month). Seeking 3-months supply. Household needs will be reviewed again in Dec 2025.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Yanyu Phua",
+      "email": "phua_yanyu@msf.gov.sg",
+      "phone": [
+        "67564551",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Oct 2025"
+  },
+  {
+    "id": "150310",
+    "category": "Others",
+    "name": "Shower Chair with Backrest and Handles",
+    "description": "A senior is widowed with no children. She is diagnosed with Parkinson's disease which affects her mobility. A shower chair can support her to perform showering in safe set up.",
+    "specifications": null,
+    "contact": {
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
+      "phone": [
+        "66814941",
+        "63758600"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Oct 2025"
+  },
+  {
+    "id": "150304",
+    "category": "Others",
+    "name": "Air Purifier",
+    "description": "This is a single-parent household with a 1 y/o child diagnosed with a medical condition. The child requires an air purifier as suggested by a doctor, as he has been falling ill due to the dust sensitivity. The parent is the sole caregiver and currently unemployed",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Darren Tan",
+      "email": "darrentankr@fycs.org",
+      "phone": [
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Oct 2025"
+  },
+  {
+    "id": "150296",
+    "category": "Others",
+    "name": "Containers/Storage Boxes",
+    "description": "Client's house is extensively hoarded and they are working with the caseworker to declutter items. Storage boxes will help with the organization of items in the unit.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2025"
+  },
+  {
+    "id": "150221",
+    "category": "Others",
+    "name": "10 Halal Plain Biscuits",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal plain biscuits for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Oct 2025"
+  },
+  {
+    "id": "150220",
+    "category": "Others",
+    "name": "10 Halal Assorted Biscuits",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal assorted biscuits for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Oct 2025"
+  },
+  {
+    "id": "150156",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "The client and her husband are currently unemployed. The husband is actively seeking work, while the mother is trying to enroll both children in school so that she can begin working as well. At present, they do not own mobile phones and are renting two devices from a company at approximately $75 per phone per month, totaling over $140 monthly. They shared that this is a significant financial burden. The family hopes to receive donated phones to help reduce their expenses. Would appreciate if donors can cover the delivery cost. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Rachel Toh",
+      "email": "racheltoh@carecorner.org.sg",
+      "phone": [
+        "69506716",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025"
+  },
+  {
+    "id": "150153",
+    "category": "Others",
+    "name": "10 Detergent",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more detergent for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025"
+  },
+  {
+    "id": "150150",
+    "category": "Others",
+    "name": "10 Halal Breakfast Cereal Boxes",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal breakfast cereal for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025"
+  },
+  {
+    "id": "150130",
+    "category": "Others",
+    "name": "Milk Powder",
+    "description": "Mother is currently unemployed and have no income, while husband have an unstable job as a grab driver. They have 3 young children (5y/o, 3 y/o, and 8 mths old) and faces financial difficulties. Mother is also diagnosed with mental health issues (anxiety & depression) which adds on to caregiver stress. The family is in urgent need of milk powder (Abbott Grow Stage 1 or any other brands suitable for 0-12months) for her 8 months old child and for their 3 year old (Any brand).",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Muhammad Yusoff s/o Abdul Latiff",
+      "email": "muhammadyusoff@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025"
+  },
+  {
+    "id": "150108",
+    "category": "Others",
+    "name": "Adult Diaper Pants (M size)",
+    "description": "Client is an elderly staying alone and is diagnosed with Parkinson's Disease, affecting her mobility and daily living. She is also struggling financially so she would benefit from donor's kind blessings to purchase diapers for her daily use. Client requires diaper pants as she struggles to use the strap/paste on diapers due to her Parkinson's condition. Either \nhttps://www.fairprice.com.sg/product/tena-pants-normal-unisex-adult-diapers-m-10-per-pack-13076171\nor\nhttps://shopee.sg/Guardian-Adult-Pants-M-Size-10pcs-i.394908021.29154555387 Kindly contact Christy @ 9642 3618 if keen to donate. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Christy Lim",
+      "email": "christylim@fycs.org",
+      "phone": [
+        "96423618",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Oct 2025"
+  },
+  {
+    "id": "150107",
+    "category": "Others",
+    "name": "Second hand laptop",
+    "description": "Client is a single father with two school-going sons and works as a Grab driver. Currently, both sons share one laptop. As one of the sons will be pursuing higher studies soon, he will require his own laptop for school use.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Red Cross Society",
+      "name": "Siti Zaharah Binte Jahis",
+      "email": "zaharah.jahis@redcross.sg",
+      "phone": [
+        "66640553",
+        "66640500"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Oct 2025"
+  },
+  {
+    "id": "150086",
+    "category": "Others",
+    "name": "Dryers Diapers (L Size)",
+    "description": "Elderly client living with multiple chronic conditions that impact level of functioning and underwent an operation that results into incontinence which requires her to wear diapers everyday. She has poor financial support as she is not working and family is unable to support as much due to their personal circumstances. You can contact me at 91271945.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Clarissa Low",
+      "email": "clarissa.low@montfortcare.org.sg",
+      "phone": [
+        "62500244",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Oct 2025"
+  },
+  {
+    "id": "150065",
+    "category": "Others",
+    "name": "10 Oyster Sauce",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal Oyster Sauce for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025"
+  },
+  {
+    "id": "150064",
+    "category": "Others",
+    "name": "10 Halal Vermicelli Noodles",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal vermicelli noodles for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025"
+  },
+  {
+    "id": "150063",
+    "category": "Others",
+    "name": "10 Halal Curry Cans",
+    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal curry cans for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Nur Aisyah Binte Abdul Manan",
+      "email": "nuraisyah.manan@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025"
+  },
+  {
+    "id": "150056",
+    "category": "Others",
+    "name": "Market Trolley",
+    "description": "Mother uses market trolley to assist with her grocery shopping but it has spoilt. Currently looking for a replacement, preferably with bigger wheels to reduce chances of wear and tear due to the heavy weight.",
+    "specifications": "40cm(W) x 44cm(D) x 87cm(H)",
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Priscilla Tan",
+      "email": "priscillatan@fycs.org",
+      "phone": [
+        "60117651",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025"
+  },
+  {
+    "id": "150044",
+    "category": "Others",
+    "name": "Motorised wheelchair battery",
+    "description": "Client who is an elderly, hopes to request two battery of scooter model AGIS M19. The scooter helps client to move around for his daily routine. Donor to kindly cover transport arrangement and delivery cost please.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2025"
+  },
+  {
+    "id": "150031",
+    "category": "Others",
+    "name": "Jogging Shoes",
+    "description": "Client is caring for 3 school going children. Client is unemployed due to both physical and mental health issues. Client is obese and encouraged to exercise but is unable to afford proper walking shoes.",
+    "specifications": "female Size 42",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Emma Zhang",
+      "email": "emmazhang@fycs.org",
+      "phone": [
+        "69783022",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2025"
+  },
+  {
+    "id": "150012",
+    "category": "Others",
+    "name": "Phone",
+    "description": "I have a client (49M) recently out of prison and not in contact with his FOO, in need of a phone to contact stakeholders and receive updates for his HDB / Employment needs. Appreciate if anyone has a spare phone to pass to my client. Thank you.",
+    "specifications": "Handphone",
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Matthias Loh",
+      "email": "matthias.loh@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2025"
+  },
+  {
+    "id": "150007",
+    "category": "Others",
+    "name": "Mobile Phone [First or second hand]",
+    "description": "Family consist of a young couple, client (F/25), her husband (M/28) and their daughter (F/10 months). They recently moved to a 2-room rental flat and are facing difficulties with their practical needs. The couple has been sharing a mobile phone and they have difficulties with remaining contactable at times.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Fahmi Bin Jazid",
+      "email": "fahmi@allkin.org.sg",
+      "phone": [
+        "60384207",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2025"
+  },
+  {
+    "id": "149960",
+    "category": "Others",
+    "name": "Kitchen Cabinet (Can put gas tank in the cabinet & stove on top of cabinet)",
+    "description": "Client is a single mother who is taking care of her 3 young children. Due to her poor health and caregiving duties, she is currently unemployed. Family is allocated a rental flat recently and require household items for their flat. Client hopes to receive a kitchen cabinet that allows her to put gas tank in the cabinet and the stove on top.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149958",
+    "category": "Others",
+    "name": "Mobile phone",
+    "description": "Client (M/39) is rough-sleeping and does not have stable accommodation. His secondhand phone recently became faulty and contacting others via his mobile phone has been challenging. He requires a replacement for his faulty phone to remain contactable and to manage his current housing needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149957",
+    "category": "Others",
+    "name": "Mobile phone",
+    "description": "Client is a divorced single mother with 2 children aged 14 and 17, under her sole care and custody.  She also provides care to her youngest son (M/10) from a different marriage on alternate weekends. Son (M/17) is currently studying at ITE college and dropped and spoilt his phone and it is no longer working. He hopes to receive a secondhand phone to remain contactable.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "149955",
+    "category": "Others",
+    "name": "Glucena milk",
+    "description": "Client is an unemployed single mother with severe varicose veins condition and caring for teenager. Client has diabetics and is advised to take Glucerna milk (wheat).",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Emma Zhang",
+      "email": "emmazhang@fycs.org",
+      "phone": [
+        "69783022",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "148490",
+    "category": "Others",
+    "name": "Incontinence Bed Pads",
+    "description": "Ct has multiple mental and physical health condition which she is receiving support from hospital for. Ct has been experiencing recurring hospitalisation episodes. Due to her health condition, Ct is unable to be gainfully employed and afford certain daily necessities.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Oct 2025"
+  },
+  {
+    "id": "145246",
+    "category": "Others",
+    "name": "Milo Powder (Refill)",
+    "description": "Our home need 40 packets of (900g) Milo Powder (Refill) for our 430 elderly residents. Thank You",
+    "specifications": null,
+    "contact": {
+      "org": "Ju Eng Home For Senior Citizens",
+      "name": "Lee Jun Hui",
+      "email": "junhui@jeh.org.sg",
+      "phone": [
+        "64846890ext127",
+        "64846890"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Oct 2025"
+  },
+  {
+    "id": "149777",
+    "category": "Others",
+    "name": "Glucerna Triple Care Milk Powder",
+    "description": "Ct is an unemployed elderly who is living alone. He is a Pre-diabetic and has inflammatory bowel disease which impacts his body's ability to properly digest food and absorb nutrients. He requires the Glucerna Triple Care milk powder (which is suitable for people with diabetes) to supplement his diet.",
+    "specifications": "2 cans",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2025"
+  },
+  {
+    "id": "149761",
+    "category": "Others",
+    "name": "Ensure milk - Individual packets",
+    "description": "Ct is an elderly low income cancer patient who is going through end stage cancer. She requires daily milk for extra nutrition.",
+    "specifications": "Ensure miilk - Individual packets ( Vanilla / Chocolate )",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2025"
+  },
+  {
+    "id": "148489",
+    "category": "Others",
+    "name": "Menstrual Panties",
+    "description": "Ct has multiple mental and physical health condition which she is receiving support from hospital for. Ct has been experiencing recurring hospitalisation episodes. Due to her health condition, Ct is unable to be gainfully employed and afford certain daily necessities.",
+    "specifications": "2XL, 3 pax",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2025"
+  },
+  {
+    "id": "149672",
+    "category": "Others",
+    "name": "2nd hand handphone",
+    "description": "Mdm N (Female, 37 years old) is a single mum caring for 4 children (8 yo Girl, 6 yo Girl, 3 yo Girl, 2 yo Boy) and has mental health condition that makes her certified unfit for work at this moment. Family has been receiving SSO Financial Assistance to mange their basic needs since Jun 2024 to current. In Dec 2024, eldest child (8 yo girl), was diagnosed with type 1 diabetes and requires constant monitoring of insulin levels, which requires an additional secondhand handphone of certain models for the child to scan her tag when she is in school to ensure her insulin readings are stable.\n\nTo confirm with FSC worker about handphone model before confirming donation.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Sia Vic-ki",
+      "email": "vickisia@allkin.org.sg",
+      "phone": [
+        "62774171",
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2025"
+  },
+  {
+    "id": "149671",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "Client is a single father and requires a phone to get his daughter with special needs for medical appointments and to communicate with school. His phone had broken and is currently without a phone.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2025"
+  },
+  {
+    "id": "149669",
+    "category": "Others",
+    "name": "Milk Powder (Abbott Grow Stage 1 and stage 3)",
+    "description": "Abbott Grow Milk Powder Stage 1 and stage 3\nA family of 7 with 5 school going children/infant. Father, who is the sole breadwinner just got retrenched and the family is in a tight situation financially. Support for milk powder would be helpful for the parents to ensure meet their basic needs while they search for new employment",
+    "specifications": "Nil",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2025"
   },
   {
     "id": "150545",
@@ -52,24 +737,6 @@
     "date": "24 Oct 2025"
   },
   {
-    "id": "150538",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "CT and his partner are young parents to a newborn, and the partner is currently pregnant. CT has been struggling to secure stable employment as he is also involved in caregiving responsibilities, particularly as his partner has been physically weak during this pregnancy. The family lacks informal support and relies on external organisations to meet their basic needs. Recently, their refrigerator and fan broke down, and they are unable to afford replacements. As such, the family requires assistance to obtain these essential household items.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Oct 2025"
-  },
-  {
     "id": "150537",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -91,23 +758,6 @@
     "id": "150528",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
-    "description": "Client has just ended a relationship, and her partner has thrown away all her personal and household items. She is now living alone and does not have enough savings to purchase replacement household items.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore After Care Association",
-      "name": "Lin Mingjie",
-      "email": "mingjie@saca.org.sg",
-      "phone": [
-        "62942350"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Oct 2025"
-  },
-  {
-    "id": "150527",
-    "category": "Electrical Home Appliances",
-    "name": "Floor-standing Fan",
     "description": "Client has just ended a relationship, and her partner has thrown away all her personal and household items. She is now living alone and does not have enough savings to purchase replacement household items.",
     "specifications": null,
     "contact": {
@@ -186,40 +836,6 @@
       "email": "kayalvizhi@shenghong.org.sg",
       "phone": [
         "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Oct 2025"
-  },
-  {
-    "id": "150514",
-    "category": "Electrical Home Appliances",
-    "name": "Air purifier",
-    "description": "A single mother caring for a young son. Due to health needs, the mother is not able to seek employment. The family is not able to afford an air purifier, which is recommended in view of son's sinus issues.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Ong Jing Yi",
-      "email": "jingyi.ong@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Oct 2025"
-  },
-  {
-    "id": "123234",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Ct is an elderly senior, who has just moved into his rental flat alone. He has recently lost his job as an MRT station cleaner and is finding a new employment. Ct has chronic cough and respiratory issues, and low social support.",
-    "specifications": "Regular",
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Angel Lone",
-      "email": "angel@frcsfsc.sg",
-      "phone": [
-        "67799488"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -748,24 +1364,6 @@
       "email": "shankrimuthu@carecorner.org.sg",
       "phone": [
         "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Oct 2025"
-  },
-  {
-    "id": "150291",
-    "category": "Electrical Home Appliances",
-    "name": "multi cooker",
-    "description": "client is staying alone. He has some psychological challenges. He is currently recuperating at home. He on a tight budget and wants to do cooking to save.",
-    "specifications": "any size",
-    "contact": {
-      "org": "HCSA Highpoint",
-      "name": "Stephen Ong",
-      "email": "stephen_ong@hcsa.org.sg",
-      "phone": [
-        "80207521",
-        "64402444"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1561,709 +2159,6 @@
     "date": "24 Sep 2025"
   },
   {
-    "id": "150524",
-    "category": "Others",
-    "name": "Market Trolley",
-    "description": "Mother would require a metal trolley to help with the weights of her grocery shopping as her current one is broken. Preferably one with big wheels to support her heavy groceries, as she will also use it to support her walking due to weak legs.",
-    "specifications": "40cm(W) x 44cm(D) x 87cm(H)",
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Priscilla Tan",
-      "email": "priscillatan@fycs.org",
-      "phone": [
-        "60117651",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Oct 2025"
-  },
-  {
-    "id": "150519",
-    "category": "Others",
-    "name": "Trolley",
-    "description": "Trolley for client to pull and put rations/groceries in.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - @27 Family Service Centre",
-      "name": "Germaise Leong",
-      "email": "germaise.leong@montfortcare.org.sg",
-      "phone": [
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Oct 2025"
-  },
-  {
-    "id": "150449",
-    "category": "Others",
-    "name": "*Peddler*",
-    "description": "The client (M/67) is widowed and living alone in a 1rm rental flat, with poor gait, leg cramps and fall risks. He is not particularly homebound, however relies heavily on home-based services for meals and environment management. \nHe experiences cramps at night, and it is not managed. Client also declined further acupuncture treatments as he feels that it worsens his mobility. He ambulates with wall and furniture cruising when cramp worsens, otherwise he walks without aids at home, and uses motorized scooter in the community. \n\nHe has agreed to do more home-based exercises to strengthen his lower limbs and is agreeable to use the peddler as a start to improve on his lower limb weakness and blood circulation.",
-    "specifications": null,
-    "contact": {
-      "org": "SingHealth (CGH) – Community Care",
-      "name": "Marhamah Binte Mohamed Ali",
-      "email": "marhamah.mohamed.ali@singhealth.com.sg",
-      "phone": [
-        "64267519",
-        "64268053"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2025"
-  },
-  {
-    "id": "150411",
-    "category": "Others",
-    "name": "Adult Diaper",
-    "description": "We are appealing for donations of adult diapers (Size M, any brand) for a 29-year-old with special needs.\n\nThe family of five is currently staying in a 2-room rental flat and facing financial constraints. Any contribution of diapers will help to ease their daily challenges and reduce their financial burden.",
-    "specifications": null,
-    "contact": {
-      "org": "Yayasan Mendaki @ Punggol",
-      "name": "Fitri Aini",
-      "email": "fitriaini.mohdtahir@mendaki.org.sg",
-      "phone": [
-        "62485996"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "21 Oct 2025"
-  },
-  {
-    "id": "150404",
-    "category": "Others",
-    "name": "smart phone",
-    "description": "Man who has heart issues and a recent leg injury that caused him to be temporarily unable to work, is currently residing in a shelter as he does not have stable accommodation. His current smart phone is also a donated second hand and on the verge of being damaged. It is currently laggy and not able to function like a normal phone, client is in need of a preferably brand new phone for job search and communicating with prospective employers.",
-    "specifications": null,
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Samuel Lim",
-      "email": "samuellim@kkcs.org.sg",
-      "phone": [
-        "63260316",
-        "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2025"
-  },
-  {
-    "id": "150360",
-    "category": "Others",
-    "name": "Stove (PUB)",
-    "description": "The client has recently relocated to a larger rental unit and requires support in obtaining essential appliances and furniture. He is a single father caring for two daughters and one son.(Isk)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Oct 2025"
-  },
-  {
-    "id": "150343",
-    "category": "Others",
-    "name": "Diaper and milk",
-    "description": "We are seeking support for an elderly client who requires milk and adult diapers. The client is currently being cared for by her daughter, a single mother who is the sole breadwinner of the family. \n\ndiaper tapes - L and diaper pants - XL milk ensure pulmocare (237ml)",
-    "specifications": "Diaper tapes - L and diaper pants - XL",
-    "contact": {
-      "org": "Fei Yue Senior Activity Centre @ Senja",
-      "name": "Janice Lee",
-      "email": "janicelee@fycs.org",
-      "phone": [
-        "63519555"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Oct 2025"
-  },
-  {
-    "id": "144203",
-    "category": "Others",
-    "name": "Adult Diapers (WeCare Size L)",
-    "description": "Single mum seeking adult diapers for child with special needs. Mum expressed financial difficulties following the passing of eldest son who used to support the family. Mum is unable to seek employment due to FT caregiving of child with special needs. Child wears at least 6 diapers a day (~180 per month). Seeking 3-months supply. Household needs will be reviewed again in Dec 2025.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Yanyu Phua",
-      "email": "phua_yanyu@msf.gov.sg",
-      "phone": [
-        "67564551",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2025"
-  },
-  {
-    "id": "150310",
-    "category": "Others",
-    "name": "Shower Chair with Backrest and Handles",
-    "description": "A senior is widowed with no children. She is diagnosed with Parkinson's disease which affects her mobility. A shower chair can support her to perform showering in safe set up.",
-    "specifications": null,
-    "contact": {
-      "org": "Lions Befrienders Service Association (Singapore)",
-      "name": "Chow Ching Hua",
-      "email": "chinghua.chow@lb.org.sg",
-      "phone": [
-        "66814941",
-        "63758600"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2025"
-  },
-  {
-    "id": "150304",
-    "category": "Others",
-    "name": "Air Purifier",
-    "description": "This is a single-parent household with a 1 y/o child diagnosed with a medical condition. The child requires an air purifier as suggested by a doctor, as he has been falling ill due to the dust sensitivity. The parent is the sole caregiver and currently unemployed",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Darren Tan",
-      "email": "darrentankr@fycs.org",
-      "phone": [
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2025"
-  },
-  {
-    "id": "150296",
-    "category": "Others",
-    "name": "Containers/Storage Boxes",
-    "description": "Client's house is extensively hoarded and they are working with the caseworker to declutter items. Storage boxes will help with the organization of items in the unit.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Odelia Tan",
-      "email": "odeliatan@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Oct 2025"
-  },
-  {
-    "id": "150221",
-    "category": "Others",
-    "name": "10 Halal Plain Biscuits",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal plain biscuits for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2025"
-  },
-  {
-    "id": "150220",
-    "category": "Others",
-    "name": "10 Halal Assorted Biscuits",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal assorted biscuits for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2025"
-  },
-  {
-    "id": "150156",
-    "category": "Others",
-    "name": "Handphone",
-    "description": "The client and her husband are currently unemployed. The husband is actively seeking work, while the mother is trying to enroll both children in school so that she can begin working as well. At present, they do not own mobile phones and are renting two devices from a company at approximately $75 per phone per month, totaling over $140 monthly. They shared that this is a significant financial burden. The family hopes to receive donated phones to help reduce their expenses. Would appreciate if donors can cover the delivery cost. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Toa Payoh",
-      "name": "Rachel Toh",
-      "email": "racheltoh@carecorner.org.sg",
-      "phone": [
-        "69506716",
-        "63561622"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025"
-  },
-  {
-    "id": "150153",
-    "category": "Others",
-    "name": "10 Detergent",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more detergent for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025"
-  },
-  {
-    "id": "150150",
-    "category": "Others",
-    "name": "10 Halal Breakfast Cereal Boxes",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal breakfast cereal for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025"
-  },
-  {
-    "id": "150130",
-    "category": "Others",
-    "name": "Milk Powder",
-    "description": "Mother is currently unemployed and have no income, while husband have an unstable job as a grab driver. They have 3 young children (5y/o, 3 y/o, and 8 mths old) and faces financial difficulties. Mother is also diagnosed with mental health issues (anxiety & depression) which adds on to caregiver stress. The family is in urgent need of milk powder (Abbott Grow Stage 1 or any other brands suitable for 0-12months) for her 8 months old child and for their 3 year old (Any brand).",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Muhammad Yusoff s/o Abdul Latiff",
-      "email": "muhammadyusoff@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025"
-  },
-  {
-    "id": "150108",
-    "category": "Others",
-    "name": "Adult Diaper Pants (M size)",
-    "description": "Client is an elderly staying alone and is diagnosed with Parkinson's Disease, affecting her mobility and daily living. She is also struggling financially so she would benefit from donor's kind blessings to purchase diapers for her daily use. Client requires diaper pants as she struggles to use the strap/paste on diapers due to her Parkinson's condition. Either \nhttps://www.fairprice.com.sg/product/tena-pants-normal-unisex-adult-diapers-m-10-per-pack-13076171\nor\nhttps://shopee.sg/Guardian-Adult-Pants-M-Size-10pcs-i.394908021.29154555387 Kindly contact Christy @ 9642 3618 if keen to donate. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services - Mental Health",
-      "name": "Christy Lim",
-      "email": "christylim@fycs.org",
-      "phone": [
-        "96423618",
-        "64712022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025"
-  },
-  {
-    "id": "150107",
-    "category": "Others",
-    "name": "Second hand laptop",
-    "description": "Client is a single father with two school-going sons and works as a Grab driver. Currently, both sons share one laptop. As one of the sons will be pursuing higher studies soon, he will require his own laptop for school use.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Red Cross Society",
-      "name": "Siti Zaharah Binte Jahis",
-      "email": "zaharah.jahis@redcross.sg",
-      "phone": [
-        "66640553",
-        "66640500"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025"
-  },
-  {
-    "id": "150086",
-    "category": "Others",
-    "name": "Dryers Diapers (L Size)",
-    "description": "Elderly client living with multiple chronic conditions that impact level of functioning and underwent an operation that results into incontinence which requires her to wear diapers everyday. She has poor financial support as she is not working and family is unable to support as much due to their personal circumstances. You can contact me at 91271945.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Clarissa Low",
-      "email": "clarissa.low@montfortcare.org.sg",
-      "phone": [
-        "62500244",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025"
-  },
-  {
-    "id": "150065",
-    "category": "Others",
-    "name": "10 Oyster Sauce",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal Oyster Sauce for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Oct 2025"
-  },
-  {
-    "id": "150064",
-    "category": "Others",
-    "name": "10 Halal Vermicelli Noodles",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal vermicelli noodles for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Oct 2025"
-  },
-  {
-    "id": "150063",
-    "category": "Others",
-    "name": "10 Halal Curry Cans",
-    "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal curry cans for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Nur Aisyah Binte Abdul Manan",
-      "email": "nuraisyah.manan@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Oct 2025"
-  },
-  {
-    "id": "150056",
-    "category": "Others",
-    "name": "Market Trolley",
-    "description": "Mother uses market trolley to assist with her grocery shopping but it has spoilt. Currently looking for a replacement, preferably with bigger wheels to reduce chances of wear and tear due to the heavy weight.",
-    "specifications": "40cm(W) x 44cm(D) x 87cm(H)",
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Priscilla Tan",
-      "email": "priscillatan@fycs.org",
-      "phone": [
-        "60117651",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Oct 2025"
-  },
-  {
-    "id": "150044",
-    "category": "Others",
-    "name": "Motorised wheelchair battery",
-    "description": "Client who is an elderly, hopes to request two battery of scooter model AGIS M19. The scooter helps client to move around for his daily routine. Donor to kindly cover transport arrangement and delivery cost please.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Tasya Puspita Maulany",
-      "email": "tasya@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Oct 2025"
-  },
-  {
-    "id": "150031",
-    "category": "Others",
-    "name": "Jogging Shoes",
-    "description": "Client is caring for 3 school going children. Client is unemployed due to both physical and mental health issues. Client is obese and encouraged to exercise but is unable to afford proper walking shoes.",
-    "specifications": "female Size 42",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Emma Zhang",
-      "email": "emmazhang@fycs.org",
-      "phone": [
-        "69783022",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Oct 2025"
-  },
-  {
-    "id": "150012",
-    "category": "Others",
-    "name": "Phone",
-    "description": "I have a client (49M) recently out of prison and not in contact with his FOO, in need of a phone to contact stakeholders and receive updates for his HDB / Employment needs. Appreciate if anyone has a spare phone to pass to my client. Thank you.",
-    "specifications": "Handphone",
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Matthias Loh",
-      "email": "matthias.loh@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Oct 2025"
-  },
-  {
-    "id": "150007",
-    "category": "Others",
-    "name": "Mobile Phone [First or second hand]",
-    "description": "Family consist of a young couple, client (F/25), her husband (M/28) and their daughter (F/10 months). They recently moved to a 2-room rental flat and are facing difficulties with their practical needs. The couple has been sharing a mobile phone and they have difficulties with remaining contactable at times.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
-      "phone": [
-        "60384207",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Oct 2025"
-  },
-  {
-    "id": "149960",
-    "category": "Others",
-    "name": "Kitchen Cabinet (Can put gas tank in the cabinet & stove on top of cabinet)",
-    "description": "Client is a single mother who is taking care of her 3 young children. Due to her poor health and caregiving duties, she is currently unemployed. Family is allocated a rental flat recently and require household items for their flat. Client hopes to receive a kitchen cabinet that allows her to put gas tank in the cabinet and the stove on top.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "60384138",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025"
-  },
-  {
-    "id": "149958",
-    "category": "Others",
-    "name": "Mobile phone",
-    "description": "Client (M/39) is rough-sleeping and does not have stable accommodation. His secondhand phone recently became faulty and contacting others via his mobile phone has been challenging. He requires a replacement for his faulty phone to remain contactable and to manage his current housing needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "60384138",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025"
-  },
-  {
-    "id": "149957",
-    "category": "Others",
-    "name": "Mobile phone",
-    "description": "Client is a divorced single mother with 2 children aged 14 and 17, under her sole care and custody.  She also provides care to her youngest son (M/10) from a different marriage on alternate weekends. Son (M/17) is currently studying at ITE college and dropped and spoilt his phone and it is no longer working. He hopes to receive a secondhand phone to remain contactable.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "60384138",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025"
-  },
-  {
-    "id": "149955",
-    "category": "Others",
-    "name": "Glucena milk",
-    "description": "Client is an unemployed single mother with severe varicose veins condition and caring for teenager. Client has diabetics and is advised to take Glucerna milk (wheat).",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Emma Zhang",
-      "email": "emmazhang@fycs.org",
-      "phone": [
-        "69783022",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025"
-  },
-  {
-    "id": "148490",
-    "category": "Others",
-    "name": "Incontinence Bed Pads",
-    "description": "Ct has multiple mental and physical health condition which she is receiving support from hospital for. Ct has been experiencing recurring hospitalisation episodes. Due to her health condition, Ct is unable to be gainfully employed and afford certain daily necessities.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025"
-  },
-  {
-    "id": "145246",
-    "category": "Others",
-    "name": "Milo Powder (Refill)",
-    "description": "Our home need 40 packets of (900g) Milo Powder (Refill) for our 430 elderly residents. Thank You",
-    "specifications": null,
-    "contact": {
-      "org": "Ju Eng Home For Senior Citizens",
-      "name": "Lee Jun Hui",
-      "email": "junhui@jeh.org.sg",
-      "phone": [
-        "64846890ext127",
-        "64846890"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Oct 2025"
-  },
-  {
-    "id": "149777",
-    "category": "Others",
-    "name": "Glucerna Triple Care Milk Powder",
-    "description": "Ct is an unemployed elderly who is living alone. He is a Pre-diabetic and has inflammatory bowel disease which impacts his body's ability to properly digest food and absorb nutrients. He requires the Glucerna Triple Care milk powder (which is suitable for people with diabetes) to supplement his diet.",
-    "specifications": "2 cans",
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2025"
-  },
-  {
-    "id": "149761",
-    "category": "Others",
-    "name": "Ensure milk - Individual packets",
-    "description": "Ct is an elderly low income cancer patient who is going through end stage cancer. She requires daily milk for extra nutrition.",
-    "specifications": "Ensure miilk - Individual packets ( Vanilla / Chocolate )",
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nur'Ain Binte Mohamed Said",
-      "email": "nurain@ainsociety.org.sg",
-      "phone": [
-        "68485116",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2025"
-  },
-  {
-    "id": "148489",
-    "category": "Others",
-    "name": "Menstrual Panties",
-    "description": "Ct has multiple mental and physical health condition which she is receiving support from hospital for. Ct has been experiencing recurring hospitalisation episodes. Due to her health condition, Ct is unable to be gainfully employed and afford certain daily necessities.",
-    "specifications": "2XL, 3 pax",
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Sep 2025"
-  },
-  {
-    "id": "149672",
-    "category": "Others",
-    "name": "2nd hand handphone",
-    "description": "Mdm N (Female, 37 years old) is a single mum caring for 4 children (8 yo Girl, 6 yo Girl, 3 yo Girl, 2 yo Boy) and has mental health condition that makes her certified unfit for work at this moment. Family has been receiving SSO Financial Assistance to mange their basic needs since Jun 2024 to current. In Dec 2024, eldest child (8 yo girl), was diagnosed with type 1 diabetes and requires constant monitoring of insulin levels, which requires an additional secondhand handphone of certain models for the child to scan her tag when she is in school to ensure her insulin readings are stable.\n\nTo confirm with FSC worker about handphone model before confirming donation.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Sia Vic-ki",
-      "email": "vickisia@allkin.org.sg",
-      "phone": [
-        "62774171",
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Sep 2025"
-  },
-  {
-    "id": "149671",
-    "category": "Others",
-    "name": "Handphone",
-    "description": "Client is a single father and requires a phone to get his daughter with special needs for medical appointments and to communicate with school. His phone had broken and is currently without a phone.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Isabelle Chua",
-      "email": "isabellechua@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Sep 2025"
-  },
-  {
-    "id": "149669",
-    "category": "Others",
-    "name": "Milk Powder (Abbott Grow Stage 1 and stage 3)",
-    "description": "Abbott Grow Milk Powder Stage 1 and stage 3\nA family of 7 with 5 school going children/infant. Father, who is the sole breadwinner just got retrenched and the family is in a tight situation financially. Support for milk powder would be helpful for the parents to ensure meet their basic needs while they search for new employment",
-    "specifications": "Nil",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Too Xiu Hui",
-      "email": "tooxiuhui@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Sep 2025"
-  },
-  {
     "id": "150542",
     "category": "Learning Aids",
     "name": "Tablet",
@@ -2605,23 +2500,6 @@
     "category": "Infant and Children Items",
     "name": "Baby Bath Tub and Bathing Essentials",
     "description": "Young couple with limited income and unstable employment, currently supported by Whampoa Family Service Centre (KKCS). The mother is expecting a baby girl in November 2025 and is preparing for basic newborn care with limited household resources.\n\nRequesting donations of a baby bath tub and simple bathing essentials such as baby towels, bath support, or small containers for washing and rinsing. Pre-loved items in clean, good condition are welcome, as well as sponsorships for essential toiletries if donors wish to contribute.\n\nThis donation will support safe and hygienic daily care for the newborn and ease the family’s financial strain during the postnatal period. WFSC (KKCS) continues to support the couple with financial, health, and parenting assistance to build long-term stability.\n\nDonor may deliver directly to Whampoa Family Service Centre (KKCS) or to the client’s residence, depending on convenience.\n\nThank you for helping this young family prepare for their baby’s arrival with dignity and care.",
-    "specifications": null,
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Harry Muhammad Shahari Bin Suhaimi",
-      "email": "harrysuhaimi@kkcs.org.sg",
-      "phone": [
-        "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2025"
-  },
-  {
-    "id": "150472",
-    "category": "Infant and Children Items",
-    "name": "Baby Feeding Bottles",
-    "description": "oung couple with limited income and unstable employment, currently supported by Whampoa Family Service Centre (KKCS). The mother is due to deliver a baby girl in November 2025 and hopes to combine breastfeeding with expressed feeds.\n\nRequesting donations of baby feeding bottles suitable for newborn use. Pre-loved bottles in good, clean condition are welcome, as well as sponsored sets if donors wish to contribute directly. All donations will be checked for hygiene and suitability before distribution.\n\nThis support will help the mother safely feed her newborn and ease the family’s financial strain during the early postnatal period. WFSC (KKCS) continues to assist the couple with financial, health, and parenting support to promote long-term stability and self-reliance.\n\nDonor may deliver directly to Whampoa Family Service Centre (KKCS) or to the client’s residence, depending on convenience.\n\nThank you for extending kindness and care to this young family as they prepare to welcome their baby girl.",
     "specifications": null,
     "contact": {
       "org": "Whampoa Family Service Centre",
@@ -4318,23 +4196,6 @@
     "date": "23 Oct 2025"
   },
   {
-    "id": "150492",
-    "category": "Home Furnishing",
-    "name": "Side Table",
-    "description": "Young couple with limited income and unstable employment, currently supported by Whampoa Family Service Centre (KKCS). The family is expecting a baby girl in November 2025 and is seeking a small, sturdy side table to place their floor fan safely and create more usable space in their one-room flat. Pre-loved tables in good, stable condition are welcome, as long as they are clean and free from major damage. As the item is medium-sized, donors are encouraged to deliver it directly to the client’s home. Please contact Social Worker Harry from Whampoa Family Service Centre (KKCS) for delivery coordination and address details. Donors may arrange their own preferred delivery service for convenience. Your contribution will support a young family working hard to stabilise their home environment before their baby’s arrival.",
-    "specifications": null,
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Harry Muhammad Shahari Bin Suhaimi",
-      "email": "harrysuhaimi@kkcs.org.sg",
-      "phone": [
-        "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Oct 2025"
-  },
-  {
     "id": "150491",
     "category": "Home Furnishing",
     "name": "Queen-Sized Bed Frame (Mattress Not Required)",
@@ -4363,41 +4224,6 @@
       "email": "hanwenting@mws.sg",
       "phone": [
         "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2025"
-  },
-  {
-    "id": "150481",
-    "category": "Home Furnishing",
-    "name": "Chairs",
-    "description": "Family consists of a single mum with her 4 school-going children. She has just gotten her rental flat, and she is lacking some chairs. She has a small table that she can use as a dining table, but she doesn't have any chairs. Hence, they are hoping to get some chairs (minimum 5) so that their family can have meals together or even for the children to study at the table.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Vanessa Ong",
-      "email": "vanessa_ong@msf.gov.sg",
-      "phone": [
-        "63549538",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2025"
-  },
-  {
-    "id": "150455",
-    "category": "Home Furnishing",
-    "name": "Study Desk",
-    "description": "This a single-parent household with a school-going child currently in secondary school. The child requires a suitable study table to support her academic needs. At present, she is using a table designed for young children, which is not appropriate for her age and schoolwork requirements. The parent is working part-time to ensure she can be present to care for her child who was previously diagnosed with a medical condition.\n\nSeeking for study desk with dimension of 120cmx60cmx75cm.",
-    "specifications": "120x60x75cm",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Darren Tan",
-      "email": "darrentankr@fycs.org",
-      "phone": [
-        "65690381"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -5183,24 +5009,6 @@
     "date": "01 Oct 2025"
   },
   {
-    "id": "149833",
-    "category": "Home Furnishing",
-    "name": "Queen size mattress/bed",
-    "description": "Low-income family staying in a rental flat, with 3 school going children, 1 in pre-school and 1 in infant care. Mother is working as a cleaner while father is the main caregiver of their children, and they are struggling financially to adequately meet their children's needs and to pay their medical bills. Their current mattress has been cleared away due to bed bug infestation. The family is requesting a mattress that will be beneficial for them to have sufficient rest for school and work.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
-      "phone": [
-        "88333080",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Oct 2025"
-  },
-  {
     "id": "149811",
     "category": "Home Furnishing",
     "name": "Bunk bed - Queen/Single",
@@ -5566,24 +5374,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "29 Sep 2025"
-  },
-  {
-    "id": "150543",
-    "category": "Mobility Aids",
-    "name": "Manual wheelchair",
-    "description": "Elderly female with weak legs due to several health issues, she relies on a wheelchair to get around — especially for medical appointments and haircuts. Unfortunately, her current wheelchair is faulty. She’s being cared for by her two older sisters, who are themselves ageing and have been struggling to support her.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services - Mental Health",
-      "name": "Khoo Xiu Min",
-      "email": "khooxiumin@fycs.org",
-      "phone": [
-        "60117652",
-        "64712022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Oct 2025"
   },
   {
     "id": "150510",
