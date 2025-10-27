@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150586",
+    "name": "DishWasher Bosch make",
+    "description": "Dishwasher 6 yrs old, but used for only 6 months,  in good wrapped condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "05 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150540",
     "name": "Tefal pot",
     "description": "Used Tefal pot to bless. Still good condition to use. Would like to bless as i have extra. Self collection",
@@ -44,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150585",
+    "name": "Dining Table with 3 Chairs",
+    "description": "The Scanteak teakwood extendable dining table is more than 10 years old",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "05 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150576",
     "name": "A glass computer desk",
     "description": "in good condition",
@@ -62,39 +84,6 @@
     "validTill": "25 Nov 2025",
     "ageInYears": 4,
     "dimensions": "28vm in Diameter",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150571",
-    "name": "IKEA DAY BED (FYRESDAL)",
-    "description": "Single bed extendable to double. Almost new. Used less than 6 months.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": "See photo",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150569",
-    "name": "Grey fabric 2.5 seater sofa",
-    "description": "Lightly used sofa. Fabric and oak frame. Backrest and seats covers are removable for washing",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "25 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "200x80x84cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150566",
-    "name": "2-seater fabric sofa",
-    "description": "Sofa in good condition",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "08 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "About 1.6m in length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -374,13 +363,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150575",
-    "name": "Baby high chair",
-    "description": "Used Joie baby high chair for feeding. The original seat cover was disposed because it had cracked. Currently it has seat cover from another brand, which is a little peeling, but still usable.",
-    "location": "Boon Lay, Jurong, Tuas",
+    "id": "150582",
+    "name": "Baby girl clothes (6m to 2yo)",
+    "description": "A lot of clothes for girls - 6mos to 2 yrs old. Delivery included.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "06 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "150581",
+    "name": "Fisher price walker",
+    "description": "Only used for a few months. Then kept as my child grew up. There’s still music and sound when you press the button.",
+    "location": null,
     "validTill": "26 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": "Foldable",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -724,6 +724,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "150583",
+    "name": "Desktop Computer",
+    "description": "-Used working desktop computer \n-Comes with Microsoft Office 2013 and Windows 10 \n-Comes with only power cable \n-DOES NOT come with monitor \n-Can help to deliver and setup\n\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "150574",
