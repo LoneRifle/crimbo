@@ -213,6 +213,83 @@
     }
   },
   {
+    "id": "150624",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "Family has 4 children, 3 of whom are school going children. One parent is facing multiple medical conditions and is unfit to work. Family is relying on single parent income.",
+    "specifications": "Single",
+    "contact": {
+      "org": "Singapore Children's Society - Yishun FSC",
+      "name": "Melvin Tan",
+      "email": "melvin.tan@childrensociety.org.sg",
+      "phone": [
+        "67537331"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150530",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150531",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150532",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150622",
+          "name": "Dunlopillow Super Single Bed with Mattress",
+          "description": "The storage bed and mattress are more than 10 years old but still in good condition.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "05 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "Standard Super Single Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150438",
+          "name": "Super single bed with Kingkoil mattress and IKEA mattress cover",
+          "description": "Estimated Measurement :\n- 210x120cm\n- bed height 50cm\n- headboard height 95cm\n\nKingkoil mattress with IKEA mattress cover. One of the legs has missing floor protector as shown in the photo.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "21 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "Estimated Measurement : - 210x120cm - bed height 50cm - headboard height 95cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150351",
     "category": "Home Furnishing",
     "name": "Hospital Bed Mattress",
@@ -372,6 +449,17 @@
           "validTill": "21 Nov 2025",
           "ageInYears": 4,
           "dimensions": "Estimated Measurement : - 210x120cm - bed height 50cm - headboard height 95cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150622",
+          "name": "Dunlopillow Super Single Bed with Mattress",
+          "description": "The storage bed and mattress are more than 10 years old but still in good condition.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "05 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "Standard Super Single Size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }

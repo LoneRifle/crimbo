@@ -1,17 +1,51 @@
 [
   {
-    "id": "150613",
+    "id": "150629",
     "category": "Others",
-    "name": "Groceries",
-    "description": "Client lives with her husband in a 2-room flat. They are currently retired with no employment and children. They will appreciate the following items to help with their day-to-day living:\n1. White Bread \n2. Kaya\n3. Eggs\n4. Milo (Sachets)\n5. Julie sugar cracker \n6. Owl instant Teh Tarik 3in1\n7. Owl instant coffee 3in1\n8. Quaker instant oatmeal",
+    "name": "Smartphone",
+    "description": "Client has been rough sleeping alone for about a year and does not have a working mobile phone. \n\nWithout a phone, he faces difficulties securing employment and maintaining communication with agencies. He does not have the financial means to purchase one by himself.",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Szandra Law",
-      "email": "szandralaw@fycs.org",
+      "org": "Serangoon Moral Family Service Centre",
+      "name": "Leow Wei Ru",
+      "email": "leowweiru@smfsc.org.sg",
       "phone": [
-        "96421760",
-        "63809169"
+        "67977197",
+        "62847123"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2025"
+  },
+  {
+    "id": "150625",
+    "category": "Others",
+    "name": "XL Adult Diapers",
+    "description": "Two seniors and their adult son living in a rental flat requires XL adult diapers for one of the seniors due to a recurrent stroke that makes him bedridden. The remaining family members are caregivers who have mobility and medical needs. They have limited financial resources to purchase this necessity regularly.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Munawarah Binte Sukaimi",
+      "email": "Munawarah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2025"
+  },
+  {
+    "id": "150620",
+    "category": "Others",
+    "name": "Urgent: Secondhand phone",
+    "description": "Since 11 Oct 2025, NM moved to a Shelter with CYPs. They stayed there due to concerns that NF might hurt NM or CYPs. The family was known to HEART due to children's exposure to spousal violence. On 27 October 2025, NM coincidentally met NF when she went to pick CYPs from school. NF assaulted her and threw her phone until it spoilt. NM has applied for an EO against NF on 28 October 2025. \n\nAs such, NM needs a new phone as she has: \n1. Lost her physical IC and needs her singpass \n2. Only recently applied for a bank account and the bank card is not available yet. Hence, her transactions are done through ibanking currently, which she needs her phone for. Even when the card is ready in about a week's time, she will unlikely have time to head to the bank TPY branch to collect it. \n3. To remain in contact with FSC worker and CPSC worker while she takes shelter at relative's house and at the crisis shelter. To contact police if she coincidentally meets NF again and she or the children are in danger. \n4. To remain at the crisis shelter, she will need to manage her own expenses, which requires a phone.\n\n\nPlease whatsapp me @ 8907 8297 if you wish to help this family. Thank you!",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Community Services - HEART @ Fei Yue",
+      "name": "Bernice  Chai",
+      "email": "bernicechai@fycs.org",
+      "phone": [
+        "68199170"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -617,23 +651,6 @@
     "date": "24 Oct 2025"
   },
   {
-    "id": "150515",
-    "category": "Learning Aids",
-    "name": "Working Laptop",
-    "description": "A family with three school-going children is in need of a working laptop to support the children’s education. Their mother, who is the sole provider, is currently managing all household expenses and is unable to afford this purchase. Access to a laptop would greatly assist the children in completing their schoolwork and continuing their studies effectively.",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Kayalvizhi Ganapathy",
-      "email": "kayalvizhi@shenghong.org.sg",
-      "phone": [
-        "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "23 Oct 2025"
-  },
-  {
     "id": "150497",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -794,6 +811,23 @@
     "date": "02 Oct 2025"
   },
   {
+    "id": "150628",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Due to ongoing financial difficulties and medical concerns, Client has been unemployed for years and unable to support herself financially. Her husband is residing in a nursing home due to caregiving needs, which contributed to Client's emotional distress. Her children are also facing financial difficulties with their own family, limiting their support for Client. Hence, Client tries to cook at home most of the time to meet her basic needs and ensure her physical well-being. Client hopes to receive a microwave to supplement her cooking at home, allowing more convenience to reheat the food. Your kind support in facilitating this request would greatly help improve the Client's overall well-being. Thank you for your kind support.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2025"
+  },
+  {
     "id": "150618",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator [2-Door]",
@@ -840,24 +874,6 @@
       "email": "fsceast@ppis.sg",
       "phone": [
         "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2025"
-  },
-  {
-    "id": "150598",
-    "category": "Electrical Home Appliances",
-    "name": "Washer",
-    "description": "A single mother with one toddler child just moved into their public rental flat and requires a washing machine as the one they had just broke down. Mother is a part-time odd job worker.",
-    "specifications": "Top load",
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Heriyati Kasmani",
-      "email": "heriyati_kasmani@msf.gov.sg",
-      "phone": [
-        "63550089",
-        "62957205"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2146,24 +2162,6 @@
     "name": "PediaSure Gold",
     "description": "Family is staying in rental flat. 2 children in autism spectrum and husband is sole bread winner. Needs the essentials as money was used for outstanding medical bills.",
     "specifications": "4 pax",
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Oct 2025"
-  },
-  {
-    "id": "150534",
-    "category": "Infant and Children Items",
-    "name": "Milk Bottle",
-    "description": "Family is staying in rental flat. Ct has 4 children, and youngest has just went into infant care. Ct would like to upskill herself and is looking for employment to better support family.",
-    "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Bukit Panjang",
       "name": "Muhammad Idris Bin Mohd Margono",
@@ -3646,6 +3644,58 @@
     "date": "29 Sep 2025"
   },
   {
+    "id": "150626",
+    "category": "Home Furnishing",
+    "name": "2 seater leather sofa",
+    "description": "Family staying in a rental flat and requesting for a two seater leather sofa for ease to clean.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Ann Ling",
+      "email": "annling@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2025"
+  },
+  {
+    "id": "150624",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "Family has 4 children, 3 of whom are school going children. One parent is facing multiple medical conditions and is unfit to work. Family is relying on single parent income.",
+    "specifications": "Single",
+    "contact": {
+      "org": "Singapore Children's Society - Yishun FSC",
+      "name": "Melvin Tan",
+      "email": "melvin.tan@childrensociety.org.sg",
+      "phone": [
+        "67537331"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2025"
+  },
+  {
+    "id": "150621",
+    "category": "Home Furnishing",
+    "name": "Kitchen Cabinet",
+    "description": "Single mother caring for 4 young children living in a rental flat. Kitchen cabinet is spoilt. Client requesting for donation for kitchen cabinet. https://shopee.sg/product/1256128743/28116720690?d_id=d4cc6&uls_trackid=542272bn0000&utm_content=47JJ4b5pUqMi9owKz7EZGcvAy9KV (3L grey 105cmx40cmx80cm",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shannon Ong",
+      "email": "shannonong@fycs.org",
+      "phone": [
+        "69783488",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2025"
+  },
+  {
     "id": "150612",
     "category": "Home Furnishing",
     "name": "Furniture",
@@ -3849,23 +3899,6 @@
       "phone": [
         "64506649",
         "63561622"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2025"
-  },
-  {
-    "id": "150412",
-    "category": "Home Furnishing",
-    "name": "Storage Cabinet/Crockery Cabinet",
-    "description": "Client (F/75) lives alone in a 2-room rental flat. She has mobility issues and no sources of income, making it difficult for her to manage her living space safely and comfortably. She needs storage cabinet or crockery cabinet to help her organize her belongings, reduce clutter and improve her quality of life. Please Whatsapp Wee Shiuan at 8718 8438 or email teo.weeshiuan@thkmc.org.sg to liase.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4616,6 +4649,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Oct 2025"
+  },
+  {
+    "id": "150623",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Client and wife stay in a rental flat with 3 children. Their younger child presents with some special needs. Both parents are gainfully employed. However, due to past debts incurred, the current finances is not sufficient for their family expenses. As a result, husband hopes to be working grab delivery in addition to their full time to increase family income. As such, family would need a bicycle to do the delivery work.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2025"
   },
   {
     "id": "150353",
