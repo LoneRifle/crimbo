@@ -303,40 +303,6 @@
     }
   },
   {
-    "id": "150303",
-    "category": "Home Furnishing",
-    "name": "cupboard",
-    "description": "client is a senior aged 66, staying alone, not working. He needs a wardrobe. His current wardrobe is broken.",
-    "specifications": null,
-    "contact": {
-      "org": "Thye Hua Kwan Moral Charities",
-      "name": "Penelope Lim",
-      "email": "penelope.lim@thkmc.org.sg",
-      "phone": [
-        "68461228",
-        "63371201"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150309",
-          "name": "Storage cupboard",
-          "description": "Not for fuzzy, used storage cupboard",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "09 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "135x33x ht197 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150253",
     "category": "Home Furnishing",
     "name": "Ikea Bunk Bed",
@@ -442,6 +408,150 @@
           "dimensions": "Estimated Measurement : - 210x120cm - bed height 50cm - headboard height 95cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150601",
+    "category": "Medical Aids",
+    "name": "Hospital bed",
+    "description": "A helper at a halfway house is seeking a hospital bed for his 83-year-old grandmother, preferably one that provides support for sitting upright.",
+    "specifications": null,
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Chan Toh Han",
+      "email": "chantohhan@thehelpinghand.org.sg",
+      "phone": [
+        "67184081",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150029",
+          "name": "Hospital Bed",
+          "description": "Should have more than 10 years of age. But based on my knowledge, no patient has slept on it as it was meant as a standby. Would appreciate if you could collect by 10-Oct as we are clearing the house for viewing.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Oct 2025",
+          "ageInYears": 4,
+          "dimensions": "L 200cm x W 90cm x H 84cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "150530",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150531",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150532",
+          "name": "Hospital bed with air mattress",
+          "description": "Lightly used hospital bed fully equipped with brand new air mattess",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "08 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "205cm x 102cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150186",
+          "name": "Hospital grade bed with adjustable recliner",
+          "description": "- Hospital grade bed with working recliner using remote control \n- Mattress not included \n- Can fit single mattress \n- Self collection preferred as I cannot fund delivery of the item",
+          "location": null,
+          "validTill": "01 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": "210cm X 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150187",
+          "name": "Hospital grade bed with adjustable recliner",
+          "description": "- Hospital grade bed with working recliner using remote control \n- Mattress not included \n- Can fit single mattress \n- Self collection preferred as I cannot fund delivery of the item",
+          "location": null,
+          "validTill": "01 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": "210cm X 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150441",
+          "name": "Motorized hospital bed",
+          "description": "Motorized hospital bed with additional air mattress",
+          "location": null,
+          "validTill": "30 Oct 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "150227",
+          "name": "Electrical hospital bed",
+          "description": "Electrical hospital bed with air bed",
+          "location": null,
+          "validTill": "01 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "150228",
+          "name": "Electrical hospital bed",
+          "description": "Electrical hospital bed with air bed",
+          "location": null,
+          "validTill": "01 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "150522",
+          "name": "Electrical hospital bed",
+          "description": "Electrical hospital bed with air bed",
+          "location": null,
+          "validTill": "01 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "150523",
+          "name": "Electrical hospital bed",
+          "description": "Electrical hospital bed with air bed",
+          "location": null,
+          "validTill": "01 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
