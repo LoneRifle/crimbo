@@ -241,17 +241,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "150631",
-          "name": "Milk bottle warmer",
-          "description": "Used milk bottle warmer.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "27 Nov 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "150574",
           "name": "Supplement milk and juice (meal replacement)",
           "description": "Meal supplement drink\n\n1) Ensure plus strawberry x 2 - exp 4 Jan 26\n2) Resource fruit raspberry blackcurrant x 2 -exp 20 Dec 25\n3) Resource vanilla x 4 - exp 9 Nov 25 \n4) Resource fruit apple x 3 - exp 29 Nov 25\n5) Fresubin 2KCal drink Vanilla x 22 - exp Jan 26",
@@ -455,39 +444,6 @@
     }
   },
   {
-    "id": "150253",
-    "category": "Home Furnishing",
-    "name": "Ikea Bunk Bed",
-    "description": "Family has 5 young children and an elderly grandmother in a 2-room rental flat. The family is currently reconfiguring their sleeping arrangement as there are boys and girls. Family is looking for a bunk bed (similar to that of an ikea bunk bed) for their 2 boys to be able to sleep in. Family is currently on financial assistance.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Khairunisa Binte Rusli",
-      "email": "khairunisarusli@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150653",
-          "name": "IKEA mydal bunk bed",
-          "description": "Very good condition. Including two mattresses.",
-          "location": null,
-          "validTill": "10 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "206cm x 157cm x 97cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150166",
     "category": "Home Furnishing",
     "name": "Bed Frame with Storage",
@@ -662,7 +618,7 @@
           "category": "Medical Aids"
         },
         {
-          "id": "150651",
+          "id": "150655",
           "name": "Electric hospital bed",
           "description": "Fully functional electric hospital bed in good condition",
           "location": "Admiralty Drive, Sembawang, Yishun",
@@ -671,17 +627,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        },
-        {
-          "id": "150227",
-          "name": "Electrical hospital bed",
-          "description": "Electrical hospital bed with air bed",
-          "location": null,
-          "validTill": "01 Nov 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         },
         {
           "id": "150228",
