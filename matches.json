@@ -352,6 +352,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "150684",
+          "name": "Mattress",
+          "description": "Mattress is still in very good condition.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "03 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "150530",
           "name": "Hospital bed with air mattress",
           "description": "Lightly used hospital bed fully equipped with brand new air mattess",
@@ -472,40 +483,6 @@
           "dimensions": "205cm x 102cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150166",
-    "category": "Home Furnishing",
-    "name": "Bed Frame with Storage",
-    "description": "Client is a single mother with a 6-year-old daughter and is currently undergoing divorce. Due to her health issues, she is unable to work full time. The mother and daughter and barely coping with their monthly expenditure thus is hoping to be blessed with a bed frame with storage.",
-    "specifications": "Queen Sized",
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Shirley Lee",
-      "email": "shirley_lee@msf.gov.sg",
-      "phone": [
-        "68590877",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150235",
-          "name": "Queen-size bed frame with storage drawer",
-          "description": "queen size wooden bedframe with drawers on each side.",
-          "location": null,
-          "validTill": "30 Oct 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -639,17 +616,6 @@
           "dimensions": "205cm x 102cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        },
-        {
-          "id": "150441",
-          "name": "Motorized hospital bed",
-          "description": "Motorized hospital bed with additional air mattress",
-          "location": null,
-          "validTill": "30 Oct 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         },
         {
           "id": "150655",

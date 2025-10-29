@@ -88,6 +88,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150685",
+    "name": "Coffee table",
+    "description": "Condition 8/10.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "11 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "150684",
+    "name": "Mattress",
+    "description": "Mattress is still in very good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "03 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "150672",
     "name": "Black Leather Sofa 3 Seater",
     "description": "3 Seater Black Leather Sofa. In good condition, very lightly used.",
@@ -205,28 +227,6 @@
     "validTill": "15 Nov 2025",
     "ageInYears": 4,
     "dimensions": "195cmx80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150240",
-    "name": "Stools",
-    "description": "9 units of stools hardly used. more than 10 years. Good condition",
-    "location": null,
-    "validTill": "30 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150235",
-    "name": "Queen-size bed frame with storage drawer",
-    "description": "queen size wooden bedframe with drawers on each side.",
-    "location": null,
-    "validTill": "30 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -480,17 +480,6 @@
     "validTill": "20 Nov 2025",
     "ageInYears": 4,
     "dimensions": "30cm x 30cm x 15cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "150441",
-    "name": "Motorized hospital bed",
-    "description": "Motorized hospital bed with additional air mattress",
-    "location": null,
-    "validTill": "30 Oct 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -819,17 +808,6 @@
     "description": "As shown.\nCan arrange convenient area",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "03 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "149810",
-    "name": "Pigeon Cotton Balls / 100pcs pack",
-    "description": "5 packets of brand new cotton balls (100 balls / pack)",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Oct 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
