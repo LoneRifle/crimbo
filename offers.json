@@ -88,17 +88,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "150685",
-    "name": "Coffee table",
-    "description": "Condition 8/10.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "11 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "150684",
     "name": "Mattress",
     "description": "Mattress is still in very good condition.",
@@ -121,17 +110,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150576",
-    "name": "A glass computer desk",
-    "description": "in good condition",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "07 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "150564",
     "name": "Coffee table",
     "description": "Stylish gloss finish good condition coffee table with two drawers",
@@ -139,17 +117,6 @@
     "validTill": "24 Nov 2025",
     "ageInYears": 4,
     "dimensions": "95cm x 95cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150488",
-    "name": "2 seater sofa",
-    "description": "This is not a sofa bed. It is a large 2 seater sofa. Self collect or pick up. Delivery not included",
-    "location": null,
-    "validTill": "21 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -209,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150192",
-    "name": "1.8m Teak Dining Table",
-    "description": "Teak Dining Table is good condition (scratches and light stains). Got it from The Helping Hands about 5 years ago. Changing as we need to upsize our table.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "1.8 x 0.8 x 0.8 meters",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "150182",
     "name": "Single bed frame",
     "description": "Used Single bed frame by my child for 10 years. Bought from Star Furniture. Some scratches on the frame, in usable condition. Giving away as we are changing to bunk bed frame.",
@@ -262,17 +218,6 @@
     "dimensions": "170cm by 85cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "150652",
-    "name": "IKEA kitchen playset",
-    "description": "Played with for 5 years still is good condition",
-    "location": null,
-    "validTill": "10 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "150636",
@@ -407,17 +352,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "150561",
-    "name": "Commode",
-    "description": "Used for less than 1 month.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "24 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "150040",
     "name": "knee guards 1 pair S size",
     "description": "high quality knee guards",
@@ -482,6 +416,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "150692",
+    "name": "Elbow crutches",
+    "description": "Ergotech lightweight adjustable crutches. As comfortable to use as crutches just can be.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "29 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": "Adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150691",
+    "name": "Elbow Crutches",
+    "description": "US Import elbow crutches for a tall/heavy person. Solid and strong.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "29 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": "Adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150690",
+    "name": "Shower Chair",
+    "description": "Shower chair with sturdy legs.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "29 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": "Adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "150592",
@@ -550,17 +517,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "150049",
-    "name": "Commode chair",
-    "description": "Commode chair with pot and seat cover",
-    "location": null,
-    "validTill": "02 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "150228",
     "name": "Electrical hospital bed",
     "description": "Electrical hospital bed with air bed",
@@ -592,6 +548,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "150688",
+    "name": "Convatec Diamonds Gelling control",
+    "description": "Convatec Diamonds - Gelling and Odour control sachets - EXP 29/02/2028 x99\n\nConvatec Natura Drainage Pouch 2 1/4 inch 57mm box of 10 x 5 (1 box of 9) \n\nStomaahesive Seal 48mm x 4mm x 10 per box x 5 boxes + 2 piece - EXP 03/2029\n\nStomaahesaive Paste 56.7g x3 -EXP 01/01/2028\n\nConvatec Adhesive Remover Spray 50ml x 15 bottles- EXP 01/01/2028\n\nStomahesive Protective Protector 28.3g EXP 01-01-2026 x 2 bottles \n\nConvatec Skin Barrier Spray 50ml EXP 01-03-2028 x 11 bottles\n \nNatura SUR-FIT mouldable Durahesive Skin Batrier with Hydrocolloid Flexible Collar 2 1/4 inch 57mm box of 10 pieces x  5 (8 pieces in one box)",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "29 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "150671",
