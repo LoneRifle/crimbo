@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150759",
+    "name": "Refrigerator",
+    "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "04 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "76 x 65 x 175",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150754",
     "name": "Borsch Gas Stove",
     "description": "The Borsch gas stove is still a very good working condition. I’m changing it to an electric hob for baby friendly reasons .",
@@ -40,17 +51,6 @@
     "validTill": "02 Dec 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "150744",
-    "name": "LG 49inch normal TV (non-smart) with no stand",
-    "description": "Well used. But still can watch basic functions",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "01 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "49 inch",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -108,6 +108,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "150760",
+    "name": "matress along with cot",
+    "description": "common room",
+    "location": null,
+    "validTill": "01 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "60X75",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "150758",
+    "name": "Rose Wood Dining Table and 4 Chairs",
+    "description": "Rose Wood Dining Table with 4 Leather covered Chairs - all in good condition",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "04 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "170 x 90 x 90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "150753",

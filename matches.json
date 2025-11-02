@@ -1,10 +1,244 @@
 [
   {
-    "id": "149261",
+    "id": "150728",
     "category": "Electrical Home Appliances",
-    "name": "TV with TV stand",
-    "description": "My female client (30 y/o) is currently separated and in the process of divorce. She has one child, and they are living together in a one-room HDB rental unit in Woodlands. As she is struggling to make ends meet and pay off her outstanding arrears, she has requested assistance in obtaining a television (with a TV stand) for her son.",
-    "specifications": "Any size",
+    "name": "refrigerator",
+    "description": "A hardworking single mother of four children (ages 16, 14, 2, and 1) has recently moved into a new home but lacks basic kitchen appliances to prepare meals for her family. As the sole breadwinner working in food delivery, she is struggling financially to provide these essential items. The family desperately needs a refrigerator to ensure they can store food safely. Any assistance with these kitchen essentials would help this mother care for her young family during this challenging time. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "31 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150716",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "A low-income family of 7 with young children is looking for a refrigerator as their current one has broken down, which makes cooking difficult. Any support will be appreciated.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Jasmin Ong",
+      "email": "jasmin.ong@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150705",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "This family consists of a single mother and her son, who are both currently struggling to secure stable employment. Without a steady source of income, they are finding it difficult to meet their daily needs. Recently, their refrigerator broke down, affecting their ability to store fresh food. As a result, they have been relying mainly on dried and processed foods. The family would greatly appreciate a refrigerator to help them prepare healthier meals and ease their daily living conditions.",
+    "specifications": "595(W)x643(D)x1907(H)mm",
+    "contact": {
+      "org": "TRANS Family Service Centre (Bedok Reservoir)",
+      "name": "Tammy Soh",
+      "email": "tammy@trans.org.sg",
+      "phone": [
+        "67473202"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150697",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "A family of 7 with 5 school going children are facing financial difficulties. Parents are not working due to health issues. Their refrigerator is faulty and they require a new one urgently.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Clarice Lim",
+      "email": "claricelim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150686",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "The client is a single parent with a school-going daughter. His employment has been unstable due to ongoing health issues. He has been postponing a necessary surgery because of concerns about its potential outcome. The current refrigerator, which is over 12 years old, has been experiencing frequent malfunctions.",
+    "specifications": "171cm (h) x 64cm (w) x 60cm (d)",
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Linda Lim",
+      "email": "lindalim@kkcs.org.sg",
+      "phone": [
+        "64854750"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150410",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Family of 6 requires a fridge for their new home. Client is the sole breadwinner.",
+    "specifications": "550L and above",
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Genessa Soh",
+      "email": "genessa_soh@msf.gov.sg",
+      "phone": [
+        "91115451",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150276",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Epworth HomeSweetHome is a children's home for boys. \n\nWe hope to request a refrigerator as our current one has stopped working. Due to halal certification standards, we can only accept a brand-new refrigerator.\n\nMaximum allowable dimensions: \nHeight 183cm/ Width 93cm / Depth 66cm\n\nThe door hinges to be on the left side of the fridge.\n\nThank you!",
+    "specifications": "Height 183cm/ Width 93cm / Depth 66cm",
+    "contact": {
+      "org": "Epworth Community services - Home Sweet Home",
+      "name": "Tiong Poh Eng",
+      "email": "poheng@epworth.sg",
+      "phone": [
+        "65622211",
+        "67153418"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "76 x 65 x 175",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150100",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Family has 3 school-going children who requires a working HALAL fridge to prepare home cooked meals. Their current fridge is faulty and unable to store premade food well. Both parents are unemployed due to chronic illness.",
+    "specifications": "sufficient for 5 pax",
     "contact": {
       "org": "Care Corner Family Service Centre - Admiralty",
       "name": "Shanell Tan",
@@ -14,17 +248,17 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "29 Oct 2025",
+    "date": "09 Oct 2025",
     "matches": {
       "passiton": [
         {
-          "id": "150744",
-          "name": "LG 49inch normal TV (non-smart) with no stand",
-          "description": "Well used. But still can watch basic functions",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "01 Dec 2025",
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
           "ageInYears": 4,
-          "dimensions": "49 inch",
+          "dimensions": "76 x 65 x 175",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -33,133 +267,31 @@
     }
   },
   {
-    "id": "150451",
+    "id": "150084",
     "category": "Electrical Home Appliances",
-    "name": "TV with stand",
-    "description": "A single mother living in a rental flat in Yishun, together with her 2-year-old child, is seeking a new or used TV with stand. The family’s 43-inch TV was recently damaged, and they currently do not have a suitable screen for the child’s learning needs.\nThe TV plays an important role in the child’s early development, as it is used to show educational videos that can support his learning and cognitive growth. Compared to watching content on a phone, a TV allows the child to sit further away from the screen which would encourage better posture and reduce eye strain.\nThe mother has shared that a contribution of a TV would greatly help maintain a supportive and engaging learning environment for the child.",
-    "specifications": "Dependent on Donor options",
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Marc Chong",
-      "email": "marc_chong@msf.gov.sg",
-      "phone": [
-        "63548497",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150744",
-          "name": "LG 49inch normal TV (non-smart) with no stand",
-          "description": "Well used. But still can watch basic functions",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "01 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "49 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150450",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "For shelter serving person with disabilities usage in centre.",
-    "specifications": "46 Inches",
-    "contact": {
-      "org": "AWWA Ltd - Transitional Shelter (JT)",
-      "name": "Nur Hazleena Binte Roslee",
-      "email": "nur_hazleena@awwa.org.sg",
-      "phone": [
-        "65511676",
-        "65111669"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150744",
-          "name": "LG 49inch normal TV (non-smart) with no stand",
-          "description": "Well used. But still can watch basic functions",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "01 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "49 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "145206",
-    "category": "Electrical Home Appliances",
-    "name": "Smart TV",
-    "description": "Ct is a widow with multiple medical conditions, and wheelchair-bound. She is also the caregiver of her 3yo grandson. The family's TV is spoilt, and she would like to request for another one, as it is a means to engage 3yo when he is not in school, and she needs to rest.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150744",
-          "name": "LG 49inch normal TV (non-smart) with no stand",
-          "description": "Well used. But still can watch basic functions",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "01 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "49 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150097",
-    "category": "Electrical Home Appliances",
-    "name": "Smart TV",
-    "description": "Family (parents with 6 children) requires a smart TV to replace the current faulty TV. They need a smart TV so they can play youtube videos online for the children to engage them at home. Family has tight financial situation and unable to afford to buy a replacement.",
+    "name": "Refrigerator",
+    "description": "77 year old elderly man from a low-income background who is living alone requires a replacement refrigerator as his current one is old and malfunctioning.",
     "specifications": null,
     "contact": {
       "org": "South Central Community FSC Ltd",
-      "name": "Ye Jiancheng",
-      "email": "jiancheng@sccfsc.org.sg",
+      "name": "Jocelyn Joy Gwee",
+      "email": "Jocelyn@sccfsc.org.sg",
       "phone": [
         "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "09 Oct 2025",
+    "date": "08 Oct 2025",
     "matches": {
       "passiton": [
         {
-          "id": "150744",
-          "name": "LG 49inch normal TV (non-smart) with no stand",
-          "description": "Well used. But still can watch basic functions",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "01 Dec 2025",
+          "id": "150759",
+          "name": "Refrigerator",
+          "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "04 Nov 2025",
           "ageInYears": 4,
-          "dimensions": "49 inch",
+          "dimensions": "76 x 65 x 175",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -219,6 +351,17 @@
     "date": "28 Oct 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "150760",
+          "name": "matress along with cot",
+          "description": "common room",
+          "location": null,
+          "validTill": "01 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60X75",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "150750",
           "name": "Queen mattress",
