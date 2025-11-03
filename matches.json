@@ -1,5 +1,38 @@
 [
   {
+    "id": "150806",
+    "category": "Home Furnishing",
+    "name": "queen size mattress",
+    "description": "Family of 7 requests for a queen-sized mattress given their current one is damaged and causes young children to have rashes. Family faces financial difficulties, consists of eldery grandmother, parents and 4 young children.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "03 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150810",
+          "name": "Queen size bed frame without mattress",
+          "description": "Queen Size Bed Frame with Headboard",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "06 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": "Queen size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150351",
     "category": "Home Furnishing",
     "name": "Hospital Bed Mattress",
@@ -71,6 +104,40 @@
           "validTill": "02 Dec 2025",
           "ageInYears": 4,
           "dimensions": "192 cm x 89cm (as sofa); 100cm (width as bed)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150165",
+    "category": "Home Furnishing",
+    "name": "Mattress (Queen-size)",
+    "description": "Young single mother with infant. They will be moving to their rental unit soon but lack some household items. Mother is looking for job to support herself and her child.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Genessa Soh",
+      "email": "genessa_soh@msf.gov.sg",
+      "phone": [
+        "91115451",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150810",
+          "name": "Queen size bed frame without mattress",
+          "description": "Queen Size Bed Frame with Headboard",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "06 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": "Queen size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
