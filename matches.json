@@ -334,6 +334,39 @@
     }
   },
   {
+    "id": "150626",
+    "category": "Home Furnishing",
+    "name": "2 seater leather sofa",
+    "description": "Family staying in a rental flat and requesting for a two seater leather sofa for ease to clean.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Ann Ling",
+      "email": "annling@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150762",
+          "name": "2-seater Leather Sofa",
+          "description": "Excellent Condition. Delivery cost not included",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150624",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -363,11 +396,55 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "150766",
+          "name": "Queen Mattress only",
+          "description": "Excellent Condition. Delivery cost not included",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "150750",
           "name": "Queen mattress",
           "description": "Lightly used for 2 months.",
           "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
           "validTill": "02 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150765",
+          "name": "2 Single Bed Mattress with Divan",
+          "description": "Excellent Condition. Delivery cost not included",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150764",
+          "name": "King Bedframe and Mattress",
+          "description": "Excellent Condition. Delivery cost not included",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "150763",
+          "name": "Queen Bedframe and Mattress",
+          "description": "Excellent Condition. Delivery cost not included",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Nov 2025",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -552,6 +629,17 @@
     "date": "06 Oct 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "150765",
+          "name": "2 Single Bed Mattress with Divan",
+          "description": "Excellent Condition. Delivery cost not included",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "150743",
           "name": "Super Single Bed Frame",
