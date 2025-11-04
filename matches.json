@@ -27,6 +27,50 @@
           "dimensions": "L216 x B100",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "150849",
+          "name": "Queen sized bed frame with mattress",
+          "description": "Queen sized bed frame with mattress in very good condition. Can only collect between 20-25 Nov 2025.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "20 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "204cm x 163cm x 130cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150843",
+    "category": "Home Furnishing",
+    "name": "Bed frame & Mattress",
+    "description": "A family of six, living in a 2-room rental flat with the husband as the primary breadwinner, has gradually regained financial security.  However, the recent damage of their single bed set has put them under additional strain.  If you are able to provide support, please WhatsApp Kat (8855 4012) or email kathrynchia@thkmc.org.sg.",
+    "specifications": "Single",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150849",
+          "name": "Queen sized bed frame with mattress",
+          "description": "Queen sized bed frame with mattress in very good condition. Can only collect between 20-25 Nov 2025.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "20 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "204cm x 163cm x 130cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -146,6 +190,40 @@
     }
   },
   {
+    "id": "150165",
+    "category": "Home Furnishing",
+    "name": "Mattress (Queen-size)",
+    "description": "Young single mother with infant. They will be moving to their rental unit soon but lack some household items. Mother is looking for job to support herself and her child.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Genessa Soh",
+      "email": "genessa_soh@msf.gov.sg",
+      "phone": [
+        "91115451",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150849",
+          "name": "Queen sized bed frame with mattress",
+          "description": "Queen sized bed frame with mattress in very good condition. Can only collect between 20-25 Nov 2025.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "20 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "204cm x 163cm x 130cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150001",
     "category": "Home Furnishing",
     "name": "Sofa Bed",
@@ -172,39 +250,6 @@
           "validTill": "02 Dec 2025",
           "ageInYears": 4,
           "dimensions": "192 cm x 89cm (as sofa); 100cm (width as bed)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "149947",
-    "category": "Home Furnishing",
-    "name": "Single Bed",
-    "description": "Mother of 6 children requires a single bed mattress for her eldest son who recently met with a vehicular accident. She hopes that it would help with her son's recovery as family are currently sharing the sleeping space.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Muhammad Danial Bin Mazlan",
-      "email": "danialmazlan@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150622",
-          "name": "Dunlopillow Super Single Bed with Mattress",
-          "description": "The storage bed and mattress are more than 10 years old but still in good condition.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Nov 2025",
-          "ageInYears": 4,
-          "dimensions": "Standard Super Single Size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
