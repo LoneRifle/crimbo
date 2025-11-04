@@ -1,5 +1,39 @@
 [
   {
+    "id": "150839",
+    "category": "Home Furnishing",
+    "name": "sofa",
+    "description": "Client is trying to restart his life a new and building his home. Sofa will provide a space for him to rest when he is back from work.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "E. Christina Joy",
+      "email": "christinajoy@fycs.org",
+      "phone": [
+        "63519505",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150749",
+          "name": "Black faux leather sofa bed",
+          "description": "Includes two large black pillows and one patterned pillow.",
+          "location": "Ang Mo Kio/Upper Thomson",
+          "validTill": "02 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "192 cm x 89cm (as sofa); 100cm (width as bed)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150351",
     "category": "Home Furnishing",
     "name": "Hospital Bed Mattress",
