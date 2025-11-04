@@ -1,38 +1,5 @@
 [
   {
-    "id": "150806",
-    "category": "Home Furnishing",
-    "name": "queen size mattress",
-    "description": "Family of 7 requests for a queen-sized mattress given their current one is damaged and causes young children to have rashes. Family faces financial difficulties, consists of eldery grandmother, parents and 4 young children.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Syamirul Azim",
-      "email": "syamirulazim@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "03 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150810",
-          "name": "Queen size bed frame without mattress",
-          "description": "Queen Size Bed Frame with Headboard",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "06 Nov 2025",
-          "ageInYears": 3,
-          "dimensions": "Queen size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150351",
     "category": "Home Furnishing",
     "name": "Hospital Bed Mattress",
@@ -112,40 +79,6 @@
     }
   },
   {
-    "id": "150165",
-    "category": "Home Furnishing",
-    "name": "Mattress (Queen-size)",
-    "description": "Young single mother with infant. They will be moving to their rental unit soon but lack some household items. Mother is looking for job to support herself and her child.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Genessa Soh",
-      "email": "genessa_soh@msf.gov.sg",
-      "phone": [
-        "91115451",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "150810",
-          "name": "Queen size bed frame without mattress",
-          "description": "Queen Size Bed Frame with Headboard",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "06 Nov 2025",
-          "ageInYears": 3,
-          "dimensions": "Queen size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150001",
     "category": "Home Furnishing",
     "name": "Sofa Bed",
@@ -213,6 +146,305 @@
     }
   },
   {
+    "id": "150130",
+    "category": "Others",
+    "name": "Milk Powder",
+    "description": "Mother is currently unemployed and have no income, while husband have an unstable job as a grab driver. They have 3 young children (5y/o, 3 y/o, and 8 mths old) and faces financial difficulties. Mother is also diagnosed with mental health issues (anxiety & depression) which adds on to caregiver stress. The family is in urgent need of milk powder (Abbott Grow Stage 1 or any other brands suitable for 0-12months) for her 8 months old child and for their 3 year old (Any brand).",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Muhammad Yusoff s/o Abdul Latiff",
+      "email": "muhammadyusoff@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150802",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Both client and his wife are unemployed with 3 small children living in a 2-room rental flat. The family is struggling to make ends meet due to their financial situation and the donation of baby supplies would greatly benefit and reduce their financial distress. Please Whatsapp Kritikaa at 8777 0959 or email kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "specifications": "Brand: Lactogen Stage 3",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150800",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Family of 5 with young children is looking for donation of milk for their baby urgently. Father is the sole breadwinner earning limited income, while mother is unemployed due to caregiving duties.  If you're able to support, please WhatsApp Fang Ling (85886196) or email to fangling.koh@thkmc.org.sg",
+    "specifications": "Brand: Friso Stage 3",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150783",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client (F/52) is the main caregiver to her 3 grandchildren. As she is currently unemployed and his accumulated multiple debts, she has difficulties affording milk powder for her youngest granddaughter (F/1). Donation of Enfagrow Milk Powder (Stage 3) will be helpful to Client. Please WhatsApp Rina at 8666 1352 or email to rinaprasad@thkmc.org.sg to liaise.",
+    "specifications": "Brand - Enfagrow (Stage 3)",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150782",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client (M/45) and his wife are currently unemployed and residing in a shelter. They have been struggling to provide their 2-month-old baby with basic necessities as they have no source of income or savings. We are seeking donor to provide baby cot for the growth of the baby and your kind support will greatly ease their burden. Please Whatsapp Kritikaa at 8777 0959 or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "specifications": "Enfagrow - 0 to 6 months",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150772",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is a young mother taking care of 3 children. Client is currently a housewife taking care of the children and her mother in law. Client requested for milk powder that would greatly help ease their financial burden. Please email to atif.aiman@thkmc.org.sg or Whatsapp to Atif at 88553077 to liaise",
+    "specifications": "Lactogen - Stage 2",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150299",
+    "category": "Infant and Children Items",
+    "name": "Milk powder",
+    "description": "Client is unemployed due to caregiving needs for her 1 year old daughter. Her husband also struggles to find a stable job. Hence there is no source of income to the family. The daughter's needs can be financially taxing on the family.",
+    "specifications": "Pediasure (original or vanilla)",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150201",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Due to parents health conditions and financial constraints, child in the family is in  need of milk powder (2x Dugro Growing Up Milk Powder (1-3years old)) and diapers ( 4x MamyPoko Pants Dry Absorb XL )",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Alisha Begum Bte Shaik Ahamed",
+      "email": "alishabegum@fycs.org",
+      "phone": [
+        "65690381",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150133",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is a single mother, currently unemployed with no income. She has 5 children aged 10 years, 9 years, 8 years, 7 years, and 8 months old. She is in need of milk powder (Enfamil Pro A+ Stage 2) for her 8 months old child.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Muhammad Yusoff s/o Abdul Latiff",
+      "email": "muhammadyusoff@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150035",
     "category": "Infant and Children Items",
     "name": "Milk",
@@ -237,6 +469,17 @@
           "description": "Meal supplement drink\n\n1) Ensure plus strawberry x 2 - exp 4 Jan 26\n2) Resource fruit raspberry blackcurrant x 2 -exp 20 Dec 25\n3) Resource vanilla x 4 - exp 9 Nov 25 \n4) Resource fruit apple x 3 - exp 29 Nov 25\n5) Fresubin 2KCal drink Vanilla x 22 - exp Jan 26",
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "09 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "150815",
+          "name": "Glucerna Chocolate Milk Powder",
+          "description": "2 brand new tins of Glucerna milk powder available for donation.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Nov 2025",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
