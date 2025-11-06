@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150955",
+    "name": "Air fryer",
+    "description": "Self collection\n\nPhilip air fryer",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150893",
     "name": "Standing fans",
     "description": "Both standing fan available. Well used. Donor not intending to pay for delivery fee",
@@ -251,6 +262,17 @@
     "dimensions": "100 x 57 x 44cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "150954",
+    "name": "Baby Fence",
+    "description": "Self collection",
+    "location": null,
+    "validTill": "06 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "150922",
@@ -501,17 +523,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "30 Nov 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "150908",
-    "name": "Adult Diapers",
-    "description": "I have 5 packs of the adult diapers (size XL) and underpads.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "30 Nov 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
