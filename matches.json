@@ -27,17 +27,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        },
-        {
-          "id": "150830",
-          "name": "Baby Cot with wheels and 2 mattresses",
-          "description": "Excellent Condition with 2 mattresses. Delivery not included.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "07 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -69,17 +58,6 @@
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "24 Nov 2025",
           "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "150830",
-          "name": "Baby Cot with wheels and 2 mattresses",
-          "description": "Excellent Condition with 2 mattresses. Delivery not included.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "07 Nov 2025",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
@@ -116,6 +94,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "150956",
+          "name": "Fairprice Adult Diaper Pants L Size",
+          "description": "11 unopened packs of Fairprice Adult Diaper Pants Plus (L Size) for donation. 14 diapers per pack.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "07 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -262,6 +251,39 @@
           "dimensions": "1.48m x 0.92m",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150411",
+    "category": "Others",
+    "name": "Adult Diaper",
+    "description": "We are appealing for donations of adult diapers (Size M, any brand) for a 29-year-old with special needs.\n\nThe family of five is currently staying in a 2-room rental flat and facing financial constraints. Any contribution of diapers will help to ease their daily challenges and reduce their financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "Yayasan Mendaki @ Punggol",
+      "name": "Fitri Aini",
+      "email": "fitriaini.mohdtahir@mendaki.org.sg",
+      "phone": [
+        "62485996"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150956",
+          "name": "Fairprice Adult Diaper Pants L Size",
+          "description": "11 unopened packs of Fairprice Adult Diaper Pants Plus (L Size) for donation. 14 diapers per pack.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "07 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
