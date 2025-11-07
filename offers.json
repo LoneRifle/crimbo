@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151019",
+    "name": "Fridge",
+    "description": "Fischer and paykel brand. Moving home, do not need the fridge anymore. Fridge is still in good condition.\nMoving house soon, pls respond before 14 Nov 2025",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "80cm x67cmx 170cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151018",
     "name": "Wifi Mesh Router",
     "description": "Netgear Obri 850 wifi 6 Mesh Router. Item in good working condition. Include a main router and a satellite router for bigger area coverage.",
@@ -799,28 +810,6 @@
     "validTill": "13 Nov 2025",
     "ageInYears": 4,
     "dimensions": "16x12x9cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "150530",
-    "name": "Hospital bed with air mattress",
-    "description": "Lightly used hospital bed fully equipped with brand new air mattess",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "08 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": "205cm x 102cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "150531",
-    "name": "Hospital bed with air mattress",
-    "description": "Lightly used hospital bed fully equipped with brand new air mattess",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "08 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": "205cm x 102cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
