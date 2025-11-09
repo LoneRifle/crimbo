@@ -605,6 +605,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "151036",
+    "name": "Walking stick",
+    "description": "Adjustable height",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "150907",
     "name": "Walking Frame",
     "description": "Foldable walking frame rarely used. Only used at indoors for some physio therapy sessions.",
@@ -716,8 +727,8 @@
   },
   {
     "id": "151033",
-    "name": "Hospital.bef",
-    "description": "Hospital bef w air matress",
+    "name": "Hospital Bed",
+    "description": "Hospital bed with air matress",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "21 Nov 2025",
     "ageInYears": 2,
@@ -766,17 +777,6 @@
     "validTill": "08 Dec 2025",
     "ageInYears": 4,
     "dimensions": "see description",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151014",
-    "name": "Projector",
-    "description": "Fully working projector.",
-    "location": null,
-    "validTill": "07 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
