@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "151038",
-    "name": "Fridge",
-    "description": "Delivery cost not included. Can pick up anytime from today to Wednesday.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "151034",
     "name": "Xiaomi TV",
     "description": "https://www.displayspecifications.com/en/model/1d0f1246\n\n32 inches 4S model.only Chinese language available in TV. Self collect",
@@ -132,6 +121,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151075",
+    "name": "Study desk and chair",
+    "description": "retiree has no means to deliver items or pay for delivery fee to send items to beneficiary. Kindly self-collect with means and manpower. Thank you.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "see pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151061",
+    "name": "3 seater Sofa",
+    "description": "3 Seater sofa to be donated at the end of Nov. Some cat scratches at the sides, but generally in ok condition.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "205cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151041",
     "name": "Queen Size Bedframe",
     "description": "Queen size bedframe. Delivery cost not included",
@@ -143,12 +154,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151031",
-    "name": "Super Single mattress",
-    "description": "Very well maintained mattress, used by children, come from smoke free and pet free environment",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Nov 2025",
-    "ageInYears": 4,
+    "id": "151071",
+    "name": "Bunk Bed and 1 single mattress",
+    "description": "Delivery cost not included",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Nov 2025",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -161,17 +172,6 @@
     "validTill": "17 Nov 2025",
     "ageInYears": 4,
     "dimensions": "178x40x40",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151029",
-    "name": "Child study desk with shelves ikea",
-    "description": "White ikea study desk with built in shelves. Very new and barely used.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "08 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": "90x52x73",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -249,17 +249,6 @@
     "validTill": "21 Nov 2025",
     "ageInYears": 4,
     "dimensions": "1500mm x 1200mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150439",
-    "name": "IKEA SKARPÖ Armchair, outdoor",
-    "description": "The drain hole in the seat lets water drain out. Easy to keep clean – just wipe with a damp cloth. Self collect.\n\nMeasurements\nTested for: 110 kg\nWidth: 81 cm\nDepth: 79 cm\nHeight: 71 cm\nSeat width: 53 cm\nSeat depth: 49 cm\nSeat height: 37 cm",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "79x80x71cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -473,13 +462,24 @@
     "category": "Learning Aids"
   },
   {
-    "id": "151026",
-    "name": "Hospital bed",
+    "id": "151067",
+    "name": "Commode Wheelchair",
     "description": "In good condition",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "30 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": "212cm/109cm/41-69cm",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "151066",
+    "name": "Recliner Bed",
+    "description": "in good condition",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -548,6 +548,17 @@
     "dimensions": "30cm x 30cm x 15cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151070",
+    "name": "Geriatric Chair",
+    "description": "in good condition",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151036",
