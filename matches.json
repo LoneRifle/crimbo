@@ -189,6 +189,39 @@
     }
   },
   {
+    "id": "150942",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Client is a teenager and has cut off relationship with parents since young. She is staying with a stranger under the HDB Joint Single Scheme and is under financial hardships and unable to afford a dining table. The dining table would help client with having a proper meal on a table.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "06 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151084",
+          "name": "Dining table",
+          "description": "Used dining table\nHeight 75cm",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "20 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "80x135xheight 75cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150840",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -272,6 +305,39 @@
           "dimensions": "178x40x40",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150528",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client has just ended a relationship, and her partner has thrown away all her personal and household items. She is now living alone and does not have enough savings to purchase replacement household items.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151080",
+          "name": "Fridge",
+          "description": "Fischer and paykel brand. Moving home, do not need the fridge anymore. Fridge is still in good condition.\nMoving house soon, pls respond before 14 Nov 2025",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "18 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "80cm x67cmx 170cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
