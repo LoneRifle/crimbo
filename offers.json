@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "151034",
-    "name": "Xiaomi TV",
-    "description": "https://www.displayspecifications.com/en/model/1d0f1246\n\n32 inches 4S model.only Chinese language available in TV. Self collect",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "09 Dec 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "151080",
     "name": "Fridge",
     "description": "Fischer and paykel brand. Moving home, do not need the fridge anymore. Fridge is still in good condition.\nMoving house soon, pls respond before 14 Nov 2025",
@@ -130,6 +119,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151128",
+    "name": "6 tier Metal Shelving unit",
+    "description": "- 6-tier metal shelving unit (Photo is for illustration purpose)\n- Ideal for garage, storeroom, or any storage needs\n- Easy to assemble and disassemble\n- No screws required, using hinge-on between poles\n- White wooden shelves\n- Longest poles at 4 corners are 1.9m each\n- Wooden boards are 122cm by 52cm each\n- Already in dismantled pieces as shown\n- All parts included",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "Longest poles 190cm, Wooden boards 122cm by 52cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151112",
@@ -396,11 +396,22 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "151113",
-    "name": "Baby Girl Clothes",
-    "description": "2 bags of baby girl clothes for 0-9months old",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Nov 2025",
+    "id": "151124",
+    "name": "Baby Fence",
+    "description": "Self collection",
+    "location": null,
+    "validTill": "06 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "151125",
+    "name": "Baby Fence",
+    "description": "Self collection",
+    "location": null,
+    "validTill": "06 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -583,28 +594,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "151091",
-    "name": "Brand New Underpads",
-    "description": "2 packets of absorbent underpads. Delivery included",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "151090",
-    "name": "Brand New Disposable Panties",
-    "description": "Includes delivery",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "151067",
     "name": "Commode Wheelchair",
     "description": "In good condition",
@@ -706,17 +695,6 @@
   {
     "id": "151108",
     "name": "Walking Stick",
-    "description": "Item located at Sembawang",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "17 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "151107",
-    "name": "Wheelchair",
     "description": "Item located at Sembawang",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "17 Nov 2025",
