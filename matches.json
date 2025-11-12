@@ -118,17 +118,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "150927",
-          "name": "Queen mattress",
-          "description": "Lightly used for 2 months.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "02 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "151101",
           "name": "Single Bed + mattress",
           "description": "Item located at Sembawang",
@@ -272,6 +261,40 @@
           "dimensions": "80x135xheight 75cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151148",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "A family of 6 generates an enormous amount of laundry daily, making a reliable washing machine essential for maintaining hygiene and managing household duties efficiently. The family includes school-going children, with the youngest being 9 years old and having special needs. With children of various ages, the family faces constant washing demands from school uniforms, everyday clothing, bedding, and towels. Without a functioning washing machine, the parents would need to visit a laundromat multiple times per week, which becomes both costly and time-consuming. The expense of commercial washing services would quickly exceed the cost of a home washing machine. Furthermore, having a washing machine at home allows for better scheduling around work commitments and school routines, ensuring that clean clothes are always available when needed.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Cassie Ee",
+      "email": "cassie_ee@msf.gov.sg",
+      "phone": [
+        "60138804",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151144",
+          "name": "Washing Machine",
+          "description": "Still in good condition but may need to do tub cleaning often.\n\nPls arrange for own transportation and manage charges. Thank you.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "54cm x 54cm x 93cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
