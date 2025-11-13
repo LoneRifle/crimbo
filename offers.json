@@ -176,28 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151094",
-    "name": "Ikea chest of drawers",
-    "description": "Ikea drawers in good condition.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "30 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "130cm x 57cm x 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151092",
-    "name": "Chest of drawers",
-    "description": "Ikea chest of drawers. Lightly used with minor markings / scratches.",
-    "location": null,
-    "validTill": "30 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "160cm x 95cm x 50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151085",
     "name": "Single bed",
     "description": "Height 110cm\nWidth 106cm\nLength 200cm.",
@@ -721,6 +699,28 @@
     "location": null,
     "validTill": "16 Nov 2025",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "151163",
+    "name": "Hospital Bed",
+    "description": "Hospital bed with air matress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "21 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "151164",
+    "name": "Hospital Bed",
+    "description": "Hospital bed with air matress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "21 Nov 2025",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
