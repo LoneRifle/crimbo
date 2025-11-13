@@ -110,13 +110,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "151162",
-    "name": "3 seater sofa",
-    "description": "3 seater sofa in light gray. Some user stain visible.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "24 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": "190cm x 85cm x 80cm",
+    "id": "151181",
+    "name": "3 seater fabric sofa",
+    "description": "Fabric 3 seater sofa",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "Length:210cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151180",
+    "name": "Brown leather arm chair with ottoman",
+    "description": "Imported Leather armchair with ottoman",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "13 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151177",
+    "name": "Brown Leather Sofa",
+    "description": "Brown Leather sofa with coffee cup holder.",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "13 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -172,6 +194,28 @@
     "validTill": "17 Nov 2025",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151175",
+    "name": "Ikea chest of drawers",
+    "description": "Ikea drawers in good condition.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "130cm x 57cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151176",
+    "name": "Chest of drawers",
+    "description": "Ikea chest of drawers. Lightly used with minor markings / scratches.",
+    "location": null,
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "160cm x 95cm x 50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
