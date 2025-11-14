@@ -1,5 +1,16 @@
 [
   {
+    "id": "151220",
+    "name": "Baby Girl Clothes",
+    "description": "Baby Girl clothes from newborn to 1 year",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "151142",
     "name": "Lady clothes Size S",
     "description": "I am decluttering as I will be moving from a big house to a small house. Giving away many office wears, casual wears such as t-shirts, bermuda. Also sport wears. Materials are mainly cotton or dri-fit. Not able to upload photos are there are many in a bulk.",
@@ -141,6 +152,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151223",
+    "name": "TV Console",
+    "description": "TV console. Light brown color",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "24 Nov 2025",
+    "ageInYears": 3,
+    "dimensions": "180cm x 45cm x 55cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151222",
+    "name": "Study table",
+    "description": "Study table. Adjustable height. Pink and beige color.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "24 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "120cm x 65cm x 120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151213",
@@ -363,6 +396,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "151221",
+    "name": "Single Stroller",
+    "description": "Good condition single stroller",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Nov 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "151117",
     "name": "Infant / Toddler toys",
     "description": "4 toys available for kids. \nLast one is skip & hop shape sorter toy.",
@@ -572,6 +616,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "151215",
+    "name": "Hospital Bed",
+    "description": "Single hospital bed. still working well.",
+    "location": "Margret Drive",
+    "validTill": "14 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "151166",
     "name": "Breathing gadget",
     "description": "It is a breathing gadget to help in breathing clean air",
@@ -647,6 +702,39 @@
     "dimensions": "30cm x 30cm x 15cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151219",
+    "name": "Air mattress",
+    "description": "Air Mattress",
+    "location": "Margret Drive",
+    "validTill": "14 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151217",
+    "name": "wheelchair 1",
+    "description": "Wheelchair No.2",
+    "location": "Margret Drive",
+    "validTill": "14 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151216",
+    "name": "wheelchair",
+    "description": "Wheelchair",
+    "location": "Margret Drive",
+    "validTill": "14 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151167",
