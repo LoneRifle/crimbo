@@ -164,6 +164,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "151254",
+          "name": "Side cupboard with drawers",
+          "description": "Cupboard mainly used for storage of dry food and snacks. Slight warping and discoloration on left panel due to weather. Item was placed in balcony.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "24 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": "120cm x 42cm x 85cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "151175",
           "name": "Ikea chest of drawers",
           "description": "Ikea drawers in good condition.",
@@ -197,6 +208,17 @@
     "date": "11 Nov 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "151253",
+          "name": "Dining Table",
+          "description": "Dining table. Comes with 1 bench as in pic. Some scratch marks and discoloration on table top. Still sturdy.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "24 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": "120cm x 70cm x 75cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "151140",
           "name": "Dining Table with 6 chairs",
@@ -276,6 +298,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "151253",
+          "name": "Dining Table",
+          "description": "Dining table. Comes with 1 bench as in pic. Some scratch marks and discoloration on table top. Still sturdy.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "24 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": "120cm x 70cm x 75cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "151140",
           "name": "Dining Table with 6 chairs",
           "description": "IKEA Dining Table with 6 chairs still in good condition except for chips at the side of table due to wear and tear.\n\nPLS ARRANGE FOR OWN TRANSPORTATION AND MANAGE NECESSARY CHARGES. THANK YOU.",
@@ -283,6 +316,73 @@
           "validTill": "30 Nov 2025",
           "ageInYears": 4,
           "dimensions": "221cm x 84cm x 74cm(ht)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150879",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client (46 y/o) lives together with her husband and their 3 children. Their family experiences financial difficulties due to client's health issues and her husband's low-income job. Their cupboard has recently spoilt and they are unable to purchase a new cupboard due to their financial difficulties. Thus, client is seeking a donation for a cupboard (rough dimension size of H:221, L:150, W:46).",
+    "specifications": "Rough dimension size of H:221, L:150, W:46",
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151254",
+          "name": "Side cupboard with drawers",
+          "description": "Cupboard mainly used for storage of dry food and snacks. Slight warping and discoloration on left panel due to weather. Item was placed in balcony.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "24 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": "120cm x 42cm x 85cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150303",
+    "category": "Home Furnishing",
+    "name": "cupboard",
+    "description": "client is a senior aged 66, staying alone, not working. He needs a wardrobe. His current wardrobe is broken.",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151254",
+          "name": "Side cupboard with drawers",
+          "description": "Cupboard mainly used for storage of dry food and snacks. Slight warping and discoloration on left panel due to weather. Item was placed in balcony.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "24 Nov 2025",
+          "ageInYears": 2,
+          "dimensions": "120cm x 42cm x 85cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
