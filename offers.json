@@ -187,6 +187,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151260",
+    "name": "pillows",
+    "description": "one soft pillow and one firm contour pillow",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151255",
     "name": "Sofa bed",
     "description": "King Coil sofabed. Good condition.",
@@ -1019,17 +1030,6 @@
     "validTill": "12 Dec 2025",
     "ageInYears": 2,
     "dimensions": "Not available",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151110",
-    "name": "Nursing bed",
-    "description": "Nursing bed that has been used for less than a year. Side handles can be lowered fully.",
-    "location": null,
-    "validTill": "16 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
