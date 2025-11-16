@@ -770,6 +770,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "151262",
+    "name": "Medical Examination Bed",
+    "description": "medical examination couch",
+    "location": null,
+    "validTill": "17 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "151215",
     "name": "Hospital Bed",
     "description": "Single hospital bed. still working well.",
