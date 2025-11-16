@@ -66,6 +66,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151264",
+    "name": "Xiaomi standing fan",
+    "description": "Four speed standing fan. Battery pack is old, has to be plugged in for power",
+    "location": null,
+    "validTill": "15 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151263",
+    "name": "Mistral standing fan",
+    "description": "Three speed standing fan, no remote",
+    "location": null,
+    "validTill": "15 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151259",
     "name": "Rice cooker",
     "description": "Rice cooker, needs adapter as its a MIC product",
@@ -95,17 +117,6 @@
     "validTill": "14 Dec 2025",
     "ageInYears": 4,
     "dimensions": "As shown in the photo",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151243",
-    "name": "Hisense TV 55\"",
-    "description": "I would like to give away my Hisense TV (55 inch). Apart from some lines of dead pixels at the top, it is in good working condition and allows access to Netflix and Youtube. Comes with the original leg stands and remote control.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "14 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "1234 × 73 x 715 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -493,6 +504,17 @@
     "dimensions": "23x109x26cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "151265",
+    "name": "Foldable table",
+    "description": "foldable table",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "28 Nov 2025",
+    "ageInYears": 3,
+    "dimensions": "90 X 60 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "151258",
