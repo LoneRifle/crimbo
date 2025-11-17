@@ -1,5 +1,16 @@
 [
   {
+    "id": "151307",
+    "name": "Towels",
+    "description": "///",
+    "location": null,
+    "validTill": "17 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "151304",
     "name": "Brand New Axel Arigato Shoes for Females, Size Uk4/37",
     "description": "Brand New Axel Arigato shoes that have never been worn in size 4/37, in black colour.",
@@ -260,17 +271,6 @@
     "validTill": "30 Nov 2025",
     "ageInYears": 4,
     "dimensions": "1.4m x 1.9m x 0.35m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151229",
-    "name": "Queen Size Storage Bed Frame",
-    "description": "- Queen size bed frame\n- Cream-colored upholstered frame\n- Lift-up storage compartment\n- Includes headboard\n- Great for space-saving\n- Bedding (mattress) not included\n- I have 2 unit to sell. Same Queen size storage bed.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "14 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1010,6 +1010,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "151306",
+    "name": "Curtains",
+    "description": "///",
+    "location": null,
+    "validTill": "17 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "151283",
