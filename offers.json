@@ -220,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151266",
-    "name": "Single storage bed",
-    "description": "IKEA single bed with storage. Comes with mattress and bed sheets if needed.",
-    "location": null,
-    "validTill": "16 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151261",
     "name": "Table",
     "description": "North American Black Walnut table and chair good for study writing.",
@@ -243,6 +232,17 @@
   },
   {
     "id": "151336",
+    "name": "Sofa bed",
+    "description": "King Coil sofabed. Good condition.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "30 Nov 2025",
+    "ageInYears": 4,
+    "dimensions": "1.4m x 1.9m x 0.35m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151346",
     "name": "Sofa bed",
     "description": "King Coil sofabed. Good condition.",
     "location": "Admiralty Drive, Sembawang, Yishun",
@@ -383,6 +383,17 @@
     "dimensions": "23x109x26cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "151343",
+    "name": "NAN milk powder voucher-exp311225",
+    "description": "NAN milk powder voucher-exp311225",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "18 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "151329",
@@ -1030,6 +1041,17 @@
     "validTill": "08 Dec 2025",
     "ageInYears": 4,
     "dimensions": "see description",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "151348",
+    "name": "Projector",
+    "description": "Fully working projector.",
+    "location": null,
+    "validTill": "07 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
