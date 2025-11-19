@@ -264,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151336",
-    "name": "Sofa bed",
-    "description": "King Coil sofabed. Good condition.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "30 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "1.4m x 1.9m x 0.35m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151346",
     "name": "Sofa bed",
     "description": "King Coil sofabed. Good condition.",
@@ -823,6 +812,17 @@
     "dimensions": "30cm x 30cm x 15cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151364",
+    "name": "Walking Frames",
+    "description": "Standard walking frame",
+    "location": null,
+    "validTill": "30 Nov 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151352",
