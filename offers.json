@@ -187,6 +187,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151389",
+    "name": "Chest of drawers",
+    "description": "Chest of 3 drawers. In good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "11 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "L80cm x H78cm x W48.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151387",
     "name": "black floor sofa set",
     "description": "3 - seater floor sofa\nlight and re-arrangeable position",
@@ -396,6 +407,39 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "151392",
+    "name": "Study Table",
+    "description": "Adjustable desk to suit 3-18years old. Table can be tilted to 50 degrees to help vary work posture. Adjustable chair seat height and back, can be moved backward or forward.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "11 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "W110cm x D60cm x H52~76 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "151391",
+    "name": "Kid's table",
+    "description": "Kid's table, without chairs.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "11 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "L76cm x W50cm x H50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "151388",
+    "name": "Toy Storage wooden frame with boxes",
+    "description": "Ikea wooden frame toy storage system. Does not come with boxes though.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "11 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "L33cm x H30cm x D31cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "151357",
     "name": "Children's toys",
     "description": "In good working condition",
@@ -423,17 +467,6 @@
     "description": "Swim floatie for a child between 15-30 kg.  (Please ensure an adult supervises a child at all times while using this floatie.)  From Decathlon.",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "18 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "151279",
-    "name": "Baby Boy Clothes",
-    "description": "One large bag of baby boy clothes for donation (approx. 3mo-1yo). Quite a few long sleeve PJs and onesies",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Nov 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -480,17 +513,6 @@
     "validTill": "14 Dec 2025",
     "ageInYears": 1,
     "dimensions": "75 to 84 cm plus 20cm extension",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "151221",
-    "name": "Single Stroller",
-    "description": "Good condition single stroller",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -594,28 +616,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "150833",
-    "name": "Kendamil stage 3 (12-36m).",
-    "description": "Item is opened on 24 October 2025.\nIt was the first time my child is tried this brand and my child does not like it.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "20 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "150834",
-    "name": "Kendamil stage 3 (12-36m).",
-    "description": "Item is opened on 24 October 2025.\nIt was the first time my child is tried this brand and my child does not like it.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "20 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "150549",
     "name": "Portable baby booster seat",
     "description": "- Used portable baby booster seat\n- Easy and quick assembly to adult’s chair\n- Storage space to keep all you need at your fingertips\n- Shoulder strap – with swivel axis\n- 3-point harness system with 1 click quick release securing your child in place.\n- Suitable for ages 6-36M (when child can seat unaided) – Approx. 20KG",
@@ -636,6 +636,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "151396",
+    "name": "Tefal Toaster",
+    "description": "In good condition",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "19 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": "24 x 16cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "151247",
@@ -777,17 +788,6 @@
     "validTill": "03 Dec 2025",
     "ageInYears": 4,
     "dimensions": "70\"x 26\" x refer to description",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "150418",
-    "name": "CPAP Machine",
-    "description": "Used CPAP Machine with hose, mask, and bag\nREMstar PRO C-Flex\nFully functional",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "20 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "30cm x 30cm x 15cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -1023,17 +1023,6 @@
     "category": "Others"
   },
   {
-    "id": "151231",
-    "name": "Milk for Mothers",
-    "description": "Milk for pregnant or lactating Moms. Delivery included.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "151153",
     "name": "Hospital bed",
     "description": "Hospital bed; would like to request vow or interested person to arrange and pay for collection.from my parents’ place.",
@@ -1173,17 +1162,6 @@
     "validTill": "28 Nov 2025",
     "ageInYears": 1,
     "dimensions": "127cm x 106cm x 12cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "150422",
-    "name": "Magic block",
-    "description": "Magic blocks for age 12 and above. About 4-5 boxes .,Self collect.  Msg 91919222 ASAP.  Note : items abit heavy.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "20 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
