@@ -77,6 +77,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151350",
+    "name": "LG Refrigerator",
+    "description": "LG ThinQ Refrigerator\nBottom Freezer, Top Fridge",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "07 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": "70 x 67 x 185 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151264",
     "name": "Xiaomi standing fan",
     "description": "Four speed standing fan. Battery pack is old, has to be plugged in for power",
@@ -187,13 +198,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "151349",
-    "name": "Curve Sofa in Grey",
-    "description": "- Stylish curved sofa\n- Modern design with chaise lounge\n- Light grey fabric (Imitation cashmere)\n- Suitable for living rooms and lounges\n- bought for only 1 month",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "25 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": "2.95m × 1.35m",
+    "id": "151361",
+    "name": "Cabinet - Buffet - Storage",
+    "description": "Storage cabinet / buffet from IKEA.\nGood condition and solid shelves and doors",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "180cm x 40cm x 115cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151353",
+    "name": "Rocking chair",
+    "description": "Still rocking condition. Just need to fix the ends part.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "06 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -394,6 +416,17 @@
     "dimensions": "23x109x26cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "151357",
+    "name": "Children's toys",
+    "description": "In good working condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "06 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "151343",
@@ -792,6 +825,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "151352",
+    "name": "Wheelchair",
+    "description": "Auto Wheelchair",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "19 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151351",
+    "name": "Electric Mobility Scooter",
+    "description": "Donating a three year old used electric mobility scooter with built in battery and charger. Best for Elderly.\nSlight wear and tear but does not impact functionality.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "19 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "151302",
     "name": "Wheelchair",
     "description": "Wheel chair ( spoilt rubber Tyre but still useable and repairable)",
@@ -810,6 +865,17 @@
     "validTill": "17 Dec 2025",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151359",
+    "name": "Hospital bed (electrical)",
+    "description": "Brand new hospital bed with 3 crank electrical functions \nHead & back raise adjustment\n4 inch standard comfort mattress (new)\nSee attached brochure , will be sent by vendor direct",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "17 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "L 212 cm X W 109 cm X H 41cm(lowest/ 69 cm (highest)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -944,6 +1010,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "151363",
+    "name": "Cloth bag",
+    "description": "More than 20 cloth bags for grocery shopping.",
+    "location": null,
+    "validTill": "19 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "151354",
+    "name": "Mahjong table & mahjong set",
+    "description": "1 x wooden mahjong table\n1 x mahjong set",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "19 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "151306",
