@@ -198,6 +198,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151438",
+    "name": "Bunk bed with mattress",
+    "description": "Double decker bed (kids frame)\nNo assembly",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "20 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": "200.5cm x 98.5cm x 130.7cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151436",
     "name": "White stained sofa",
     "description": "We do not want the sofa is because of the stain. I do not know how to remove. If you dont mind the stain, i dont mind doing 2x delivery.\n\nOnly at my living estate",
@@ -308,28 +319,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151213",
-    "name": "Glass table",
-    "description": "More than 7 years old, and in good condition.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "2100mm x 1000mm x 740mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151432",
-    "name": "Ikea Cabinet with Lock",
-    "description": "I have 2 of the same cabinet. Each cabinet is 35cm x 50cm x 120cm. Both are more approximately 6 years old and still in good condition.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "35cm x 50cm x 120cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151180",
     "name": "Brown leather arm chair with ottoman",
     "description": "Imported Leather armchair with ottoman",
@@ -421,32 +410,10 @@
     "id": "150910",
     "name": "Homecare chair",
     "description": "Item is in mum's home in Tampines St 45",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "location": "Serangoon Ave 2",
     "validTill": "06 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150462",
-    "name": "Persian carpet",
-    "description": "Persian carpet for the hall or living room.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "1500mm x 1200mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150435",
-    "name": "CD Holder Shelves",
-    "description": "2 units of CD cabinets to give away.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "23x109x26cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1096,28 +1063,6 @@
     "validTill": "12 Dec 2025",
     "ageInYears": 2,
     "dimensions": "Not available",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151163",
-    "name": "Hospital Bed",
-    "description": "Hospital bed with air matress",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151164",
-    "name": "Hospital Bed",
-    "description": "Hospital bed with air matress",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "21 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
