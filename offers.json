@@ -187,17 +187,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "151389",
-    "name": "Chest of drawers",
-    "description": "Chest of 3 drawers. In good condition.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "11 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "L80cm x H78cm x W48.5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151387",
     "name": "black floor sofa set",
     "description": "3 - seater floor sofa\nlight and re-arrangeable position",
@@ -297,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151346",
-    "name": "Sofa bed",
-    "description": "King Coil sofabed. Good condition.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "30 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "1.4m x 1.9m x 0.35m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151213",
     "name": "Glass table",
     "description": "More than 7 years old, and in good condition.",
@@ -352,7 +330,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151369",
+    "id": "151370",
     "name": "Ikea chest of drawers",
     "description": "Ikea drawers in good condition.",
     "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
@@ -363,13 +341,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151370",
-    "name": "Ikea chest of drawers",
-    "description": "Ikea drawers in good condition.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "30 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "130cm x 57cm x 40cm",
+    "id": "151397",
+    "name": "Child study desk with shelves ikea",
+    "description": "White ikea study desk with built in shelves. Very new and barely used.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "08 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "90x52x73",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151398",
+    "name": "Child study desk with shelves ikea",
+    "description": "White ikea study desk with built in shelves. Very new and barely used.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "08 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "90x52x73",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },

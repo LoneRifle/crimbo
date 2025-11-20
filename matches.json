@@ -198,6 +198,50 @@
     }
   },
   {
+    "id": "151410",
+    "category": "Electrical Home Appliances",
+    "name": "Fan",
+    "description": "Client is a single parent to a toddler and has recently gotten keys to a rental flat. As the sole breadwinner of the family, she does not have extra disposable income to purchase any furnishings and necessities for her new flat. She would require a standing fan to ensure that her flat is well-ventilated as son has eczema.",
+    "specifications": null,
+    "contact": {
+      "org": "TRANS Family Service Centre (Bedok Reservoir)",
+      "name": "Nurhayati Binte Salam",
+      "email": "hayati@trans.org.sg",
+      "phone": [
+        "67473202"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151264",
+          "name": "Xiaomi standing fan",
+          "description": "Four speed standing fan. Battery pack is old, has to be plugged in for power",
+          "location": null,
+          "validTill": "15 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "151210",
+          "name": "HOME PROUD WALL FAN",
+          "description": "Good working condition wall fan comes complete with remote control, bracket, screws and wall plug. Some rust on the fan guard.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "16\"",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151366",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -260,39 +304,6 @@
           "dimensions": "As shown in the photo",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151335",
-    "category": "Electrical Home Appliances",
-    "name": "Kettle",
-    "description": "single parent with a daugther requiring to replace current faulty kettle",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Nadiah Razak",
-      "email": "nadiah.razak@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151247",
-          "name": "Zebra Smart Kettle (Whistle) - 6 Litres",
-          "description": "- Zebra Smart Kettle\n- 6-litre capacity\n- Stainless steel\n- Features a whistle\n- Minor wear on the bottom\n- Efficient and fast water boiling",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "14 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "As shown in the photo",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Kitchen Utility Items"
         }
       ],
       "carousell": []
