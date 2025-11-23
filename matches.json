@@ -465,39 +465,6 @@
     }
   },
   {
-    "id": "151051",
-    "category": "Medical Aids",
-    "name": "Blood Glucose Test Strips",
-    "description": "Client is the main caregiver for her 5 children. She is unemployed and is living in a rental flat. She struggles to manage her daily expenses due to her chronic medical conditions. We are looking for donors who can support her, please whatsapp Kritikaa (8777 0959) or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151501",
-          "name": "ACCU-CHEK Performa blood glucose test strips",
-          "description": "Unopened box of ACCU-CHEK Performa (50 test strips) available for anyone who may need it.\nExpiry date: 31 Dec 2025",
-          "location": null,
-          "validTill": "23 Dec 2025",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "151458",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -671,6 +638,39 @@
           "dimensions": "As shown in the photo",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151051",
+    "category": "Medical Aids",
+    "name": "Blood Glucose Test Strips",
+    "description": "Client is the main caregiver for her 5 children. She is unemployed and is living in a rental flat. She struggles to manage her daily expenses due to her chronic medical conditions. We are looking for donors who can support her, please whatsapp Kritikaa (8777 0959) or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151501",
+          "name": "ACCU-CHEK Performa blood glucose test strips",
+          "description": "Unopened box of ACCU-CHEK Performa (50 test strips) available for anyone who may need it.\nExpiry date: 31 Dec 2025",
+          "location": null,
+          "validTill": "23 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
