@@ -28,6 +28,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -78,6 +89,40 @@
     }
   },
   {
+    "id": "151450",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a mother to a 1 year old daughter. Her husband struggles to find a full-time employment. Client is unemployed due to caregiving responsibility. She is also expecting a newborn in a few months' time. Hence, the family faces tight finances due to lack of income to the household.",
+    "specifications": "Drypers XL",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151449",
     "category": "Infant and Children Items",
     "name": "Milk powder",
@@ -117,6 +162,39 @@
           "dimensions": "13*13*17",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151426",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client (F/22) is a single parent with two children (F/4) and (M/3), living in a rental flat. She is actively looking for a job but has not been able to secure employment. The client is currently facing financial difficulties and is in need of milk and diapers for her children. For further details, feel free to reach out Whatsapp Liana at 8588 3163 or email to Norliana.Roslan@thkmc.org.sg to liaise. Thank you.",
+    "specifications": "Huggies Pants (Size L) x 4",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -211,6 +289,39 @@
     }
   },
   {
+    "id": "151059",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Family has a special needs child that requires high intensive caregiving support. Hence, client is unable to work and husband has lost his job. \n\nThey require XXXL 24 x 3 Packs of diapers for their daughter. \n\nBrands: \nMamyPoko JUNIOR NIGHT PANTS (GIRL)\nor \nMolfix Extra Dry Pants",
+    "specifications": "XXXL 24 x 3 Packs",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151004",
     "category": "Infant and Children Items",
     "name": "Baby safety gate",
@@ -238,6 +349,40 @@
           "dimensions": "75 to 84 cm plus 20cm extension",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150872",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "The family has two children aged three and nine years old. Father incurred debt as a self-employed driver as he was unable to earn as much as he should be and was unemployed for a few months. The family incurred further debt as they had to borrow to meet their living expenses. As mother is a homemaker and on LTVP, she is unable to contribute to the family's finances. The couple feels stressed over their tight finances and will greatly appreciate diapers for their younger son.",
+    "specifications": "XXL",
+    "contact": {
+      "org": "AWWA Early Intervention Centre @Fernvale Link",
+      "name": "Angel Lee",
+      "email": "angel_lee@awwa.org.sg",
+      "phone": [
+        "91196928",
+        "65115621"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -420,6 +565,40 @@
     }
   },
   {
+    "id": "150670",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Low-income family with 6 children requiring Drypers for their 4 and 2 year old children. The 4 year old wears XXL and the 2 year old wears XL.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Samuel Rajan David",
+      "email": "samuel_rajan_david@msf.gov.sg",
+      "phone": [
+        "62319671",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151453",
     "category": "Home Furnishing",
     "name": "Bunk bed with mattress",
@@ -492,6 +671,74 @@
           "dimensions": "60 x 40 x 100",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151395",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "We are reaching out on behalf of a senior who is wheelchair-bound and living alone without any next-of-kin. She is currently estranged from her family and faces significant financial challenges. Due to limited mobility and obesity, she relies on adult diapers to manage daily needs, especially during transfers to the toilet.\n\nHer current usage is 6 pieces per day, which places a heavy burden on her monthly expenses.\n\nIf you are able to help by donating adult diapers or would like more information, please contact me at 8126 2493.Thanks!",
+    "specifications": "Tena ProSkin Pants, XL (120–160 cm)",
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Julia Soh Ying Li",
+      "email": "juliasoh@fycs.org",
+      "phone": [
+        "63809155",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151326",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "Family is caring for a permanently disabled adult who is on long-term diapers use. Husband is the sole breadwinner, financially supporting 3 other family members including her permanently disabled sister-in-law. He relies on his additional allowances and overtime salary to provide for the family. As such, family is looking for diapers donation to help them with their financial stress.",
+    "specifications": "Size L (tape)",
+    "contact": {
+      "org": "AWWA Ltd - Transitional Shelter (JT)",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65111669"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151500",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
