@@ -244,50 +244,6 @@
     }
   },
   {
-    "id": "150783",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Client (F/52) is the main caregiver to her 3 grandchildren. As she is currently unemployed and his accumulated multiple debts, she has difficulties affording milk powder for her youngest granddaughter (F/1). Donation of Enfagrow Milk Powder (Stage 3) will be helpful to Client. Please WhatsApp Rina at 8666 1352 or email to rinaprasad@thkmc.org.sg to liaise.",
-    "specifications": "Brand - Enfagrow (Stage 3)",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151343",
-          "name": "NAN milk powder voucher-exp311225",
-          "description": "NAN milk powder voucher-exp311225",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "18 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "151467",
-          "name": "Nan Supreme Pro 1 Formula Milk Powder",
-          "description": "3 cans of Nestle Nan Supreme Pro 1 Formula Milk Powder, suitable for babies under 6 months",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "21 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": "13*13*17",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "150782",
     "category": "Infant and Children Items",
     "name": "Milk Powder",
@@ -649,6 +605,50 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151541",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Senior requires Wheelchair as she is unable to walk in community but she is unable to afford a new one",
+    "specifications": null,
+    "contact": {
+      "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
+      "name": "Dorothy Michael",
+      "email": "dorothy.michael@thkmc.org.sg",
+      "phone": [
+        "69242951"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151352",
+          "name": "Wheelchair",
+          "description": "Auto Wheelchair",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "19 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "151302",
+          "name": "Wheelchair",
+          "description": "Wheel chair ( spoilt rubber Tyre but still useable and repairable)",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "17 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": "22 inch wheels",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []

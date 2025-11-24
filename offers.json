@@ -1,5 +1,16 @@
 [
   {
+    "id": "151539",
+    "name": "Mens and womens branded clothes and shoes",
+    "description": "Mens branded clothes and shoes , womens clothes as well",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "151307",
     "name": "Towels",
     "description": "",
@@ -75,6 +86,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "151547",
+    "name": "Wall Fan",
+    "description": "Relatively new wall fan given by a client of mine who no longer needed it. Plug and play. Delivery not included.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "24 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "151534",
@@ -207,6 +229,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151542",
+    "name": "Electrical adjustable homecare single bed",
+    "description": "Paramount Bed",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "24 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "100cm x 213cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151532",
@@ -867,6 +900,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "151551",
+    "name": "hospital bed",
+    "description": "The hospital bed is behind the wheelchairs. Electric bed in good condition that comes with mattress and waterproof covers",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "24 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "151501",
