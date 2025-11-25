@@ -1,5 +1,38 @@
 [
   {
+    "id": "151566",
+    "category": "Infant and Children Items",
+    "name": "Baby carrier",
+    "description": "The client is currently pregnant and caring for four young children. Recently, the husband  lost his job due to the end of his contract and is actively searching for new employment.\nIn the meantime, the family has been relying on informal assistance from relatives and support from the FSC to meet their basic needs. Can text 6038 4091 (work phone with whatsapp) if you are able to provide free transport and delivery.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151580",
+          "name": "Infant insert for Ergo baby carrier",
+          "description": "For newborn or infants who can’t hold up their own heads yet. \nThe baby carrier itself not included.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "25 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151475",
     "category": "Infant and Children Items",
     "name": "Diaper",
@@ -324,6 +357,40 @@
           "validTill": "21 Dec 2025",
           "ageInYears": 1,
           "dimensions": "13*13*17",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150677",
+    "category": "Infant and Children Items",
+    "name": "Baby Cot",
+    "description": "Family recently moved into a new BRO. Ct just started a new employment and requires some assistance to purchase these necessities to tide through this transition period.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151582",
+          "name": "Baby cot and mattress",
+          "description": "Model: Happy Wonder+ 5-in-1 Convertible Baby Cot \n\nMattress: 4” high density anti dust mite upholstered foam mattress.",
+          "location": null,
+          "validTill": "28 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
         }
