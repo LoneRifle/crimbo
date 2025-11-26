@@ -454,106 +454,6 @@
     }
   },
   {
-    "id": "151565",
-    "category": "Home Furnishing",
-    "name": "Sofa/sofa bed",
-    "description": "The household faces financial difficulties as client is the sole caregiver for their 7 young children. Her husband, who was the only income earner in the household, is newly incarcerated. They require support to replace their sofa/ sofa bed. Can whatsapp 6038 4091 (work phone with whatsapp function)if yuo are keen to provide free delivery and transport.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Cassandra Chia",
-      "email": "cassandrachia@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151571",
-          "name": "Sofa Bed",
-          "description": "Used only less than 5 times. Excellent condition sofa bed for donation. Pick up at AMK.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Nov 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151530",
-    "category": "Home Furnishing",
-    "name": "2-Seater Sofa",
-    "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
-    "specifications": "2-Seater",
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Tommy Kwan",
-      "email": "tommy.kwan@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151386",
-          "name": "2 seater sofa (green)",
-          "description": "2 seater green sofa set",
-          "location": "Bukit Timah",
-          "validTill": "19 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "1.5m x 1m x 80cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151404",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Young family of 3 with 1 year old son requires a cabinet to furnish their new rental flat. Husband is sole breadwinner working odd jobs and wife is full time caregiver for their son.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151440",
-          "name": "cabinet",
-          "description": "staircase style bookshelf/storage",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "28 Nov 2025",
-          "ageInYears": 3,
-          "dimensions": "130x96x30 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "151458",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -683,6 +583,106 @@
           "dimensions": "As shown in the photo",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151565",
+    "category": "Home Furnishing",
+    "name": "Sofa/sofa bed",
+    "description": "The household faces financial difficulties as client is the sole caregiver for their 7 young children. Her husband, who was the only income earner in the household, is newly incarcerated. They require support to replace their sofa/ sofa bed. Can whatsapp 6038 4091 (work phone with whatsapp function)if yuo are keen to provide free delivery and transport.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151571",
+          "name": "Sofa Bed",
+          "description": "Used only less than 5 times. Excellent condition sofa bed for donation. Pick up at AMK.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151530",
+    "category": "Home Furnishing",
+    "name": "2-Seater Sofa",
+    "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
+    "specifications": "2-Seater",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Tommy Kwan",
+      "email": "tommy.kwan@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151386",
+          "name": "2 seater sofa (green)",
+          "description": "2 seater green sofa set",
+          "location": "Bukit Timah",
+          "validTill": "19 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "1.5m x 1m x 80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151404",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "Young family of 3 with 1 year old son requires a cabinet to furnish their new rental flat. Husband is sole breadwinner working odd jobs and wife is full time caregiver for their son.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151440",
+          "name": "cabinet",
+          "description": "staircase style bookshelf/storage",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "28 Nov 2025",
+          "ageInYears": 3,
+          "dimensions": "130x96x30 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
