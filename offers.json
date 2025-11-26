@@ -88,6 +88,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151587",
+    "name": "Air curtain",
+    "description": "///",
+    "location": null,
+    "validTill": "26 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "90cmL",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151586",
+    "name": "Air curtain",
+    "description": "///",
+    "location": null,
+    "validTill": "26 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "120cmL",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151585",
+    "name": "Air curtain",
+    "description": "///",
+    "location": null,
+    "validTill": "26 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "120cmL",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151534",
     "name": "Iron",
     "description": "Iron to donate, still in good condition. Do note that item does not come with the ironing board.",
@@ -216,17 +249,6 @@
     "validTill": "30 Nov 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151542",
-    "name": "Electrical adjustable homecare single bed",
-    "description": "Paramount Bed",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "24 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "100cm x 213cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -528,15 +550,15 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151398",
-    "name": "Child study desk with shelves ikea",
-    "description": "White ikea study desk with built in shelves. Very new and barely used.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "08 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": "90x52x73",
+    "id": "151594",
+    "name": "Baby Cot with mattress",
+    "description": "Foldable baby cot with mattress in good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "26 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
     "id": "151582",
@@ -902,17 +924,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "151551",
-    "name": "hospital bed",
-    "description": "The hospital bed is behind the wheelchairs. Electric bed in good condition that comes with mattress and waterproof covers",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "24 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "151501",
     "name": "ACCU-CHEK Performa blood glucose test strips",
     "description": "Unopened box of ACCU-CHEK Performa (50 test strips) available for anyone who may need it.\nExpiry date: 31 Dec 2025",
@@ -1032,6 +1043,39 @@
     "dimensions": "70\"x 26\" x refer to description",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151593",
+    "name": "Walking Stick",
+    "description": "Walking stick with adjustable height",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "26 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151592",
+    "name": "Walking Frame",
+    "description": "Foldable walking frame; Adjustable height",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "26 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151591",
+    "name": "Commode Chair",
+    "description": "Commode chair with pot & cover (detachable); has wheels for easy movement, for example from the bedroom to the bathroom.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "26 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151364",
