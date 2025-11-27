@@ -72,6 +72,28 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -116,6 +138,51 @@
           "dimensions": "13*13*17",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151450",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a mother to a 1 year old daughter. Her husband struggles to find a full-time employment. Client is unemployed due to caregiving responsibility. She is also expecting a newborn in a few months' time. Hence, the family faces tight finances due to lack of income to the household.",
+    "specifications": "Drypers XL",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -167,6 +234,50 @@
     }
   },
   {
+    "id": "151426",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client (F/22) is a single parent with two children (F/4) and (M/3), living in a rental flat. She is actively looking for a job but has not been able to secure employment. The client is currently facing financial difficulties and is in need of milk and diapers for her children. For further details, feel free to reach out Whatsapp Liana at 8588 3163 or email to Norliana.Roslan@thkmc.org.sg to liaise. Thank you.",
+    "specifications": "Huggies Pants (Size L) x 4",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151290",
     "category": "Infant and Children Items",
     "name": "MIlk Powder",
@@ -211,6 +322,50 @@
     }
   },
   {
+    "id": "151059",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Family has a special needs child that requires high intensive caregiving support. Hence, client is unable to work and husband has lost his job. \n\nThey require XXXL 24 x 3 Packs of diapers for their daughter. \n\nBrands: \nMamyPoko JUNIOR NIGHT PANTS (GIRL)\nor \nMolfix Extra Dry Pants",
+    "specifications": "XXXL 24 x 3 Packs",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151004",
     "category": "Infant and Children Items",
     "name": "Baby safety gate",
@@ -238,6 +393,51 @@
           "dimensions": "75 to 84 cm plus 20cm extension",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150872",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "The family has two children aged three and nine years old. Father incurred debt as a self-employed driver as he was unable to earn as much as he should be and was unemployed for a few months. The family incurred further debt as they had to borrow to meet their living expenses. As mother is a homemaker and on LTVP, she is unable to contribute to the family's finances. The couple feels stressed over their tight finances and will greatly appreciate diapers for their younger son.",
+    "specifications": "XXL",
+    "contact": {
+      "org": "AWWA Early Intervention Centre @Fernvale Link",
+      "name": "Angel Lee",
+      "email": "angel_lee@awwa.org.sg",
+      "phone": [
+        "91196928",
+        "65115621"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -376,6 +576,96 @@
     }
   },
   {
+    "id": "150670",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Low-income family with 6 children requiring Drypers for their 4 and 2 year old children. The 4 year old wears XXL and the 2 year old wears XL.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Samuel Rajan David",
+      "email": "samuel_rajan_david@msf.gov.sg",
+      "phone": [
+        "62319671",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Oct 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151619",
+    "category": "Home Furnishing",
+    "name": "Bed frame",
+    "description": "The client (F/69) is single, with low ID and living alone in a 1-rm rental flat. She has an unsteady gait with weak legs and has potential for fall risks. She uses a quad stick to ambulate in the community. Team has observed her having difficulty standing from a sitting position.\n\nShe is currently sleeping on the floor with mattress and 2 pillows. A bed frame would lend her support when she needs to get out of bed. The bed side railing will be beneficial to prevent any fall from the bed. \n\nShe is not particularly homebound, relies on centre-based services for her health management.",
+    "specifications": null,
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Marhamah Binte Mohamed Ali",
+      "email": "marhamah.mohamed.ali@singhealth.com.sg",
+      "phone": [
+        "64267519",
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151506",
+          "name": "Bed frame and mattress",
+          "description": "Single bed mattress and frame",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "24 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "151270",
+          "name": "Bed frame",
+          "description": "Frame only (no mattress)\nAlready dissembled previously due to moving house",
+          "location": null,
+          "validTill": "17 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151604",
     "category": "Home Furnishing",
     "name": "single mattress",
@@ -435,39 +725,6 @@
           "validTill": "30 Nov 2025",
           "ageInYears": 1,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151530",
-    "category": "Home Furnishing",
-    "name": "2-Seater Sofa",
-    "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
-    "specifications": "2-Seater",
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Tommy Kwan",
-      "email": "tommy.kwan@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151386",
-          "name": "2 seater sofa (green)",
-          "description": "2 seater green sofa set",
-          "location": "Bukit Timah",
-          "validTill": "19 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "1.5m x 1m x 80cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -589,39 +846,6 @@
     }
   },
   {
-    "id": "151563",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client lives with son with special needs. Her spouse is current incarcerated, and she is not employed. Her fridge recently spoilt and in need of a replacement. Hoping for a donation for a fridge.\tFor further liaison, kindly contact Harsheni at 81383741, thank you!",
-    "specifications": "59cm (H) by 20cm (D) by 23cm (W)",
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151616",
-          "name": "Panasonic Refrigerator",
-          "description": "2016 Panasonic Refrigerator",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "24 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "67cm x 67cm x 175cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "151458",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -648,39 +872,6 @@
           "validTill": "14 Dec 2025",
           "ageInYears": 4,
           "dimensions": "As shown in the photo",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151408",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is a single parent to a toddler and has recently gotten keys to a rental flat. As the sole breadwinner of the family, she does not have extra disposable income to purchase any furnishings and necessities for her new flat. She would require a refrigerator (Halal).",
-    "specifications": null,
-    "contact": {
-      "org": "TRANS Family Service Centre (Bedok Reservoir)",
-      "name": "Nurhayati Binte Salam",
-      "email": "hayati@trans.org.sg",
-      "phone": [
-        "67473202"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151616",
-          "name": "Panasonic Refrigerator",
-          "description": "2016 Panasonic Refrigerator",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "24 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "67cm x 67cm x 175cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -757,134 +948,45 @@
     }
   },
   {
-    "id": "151165",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "The client is a single parent of four school-going children, the youngest of whom has a developmental condition requiring intensive care. Due to the high caregiving demands, the client is currently unemployed and faces significant financial challenges. Recently, the family’s refrigerator broke down, making it difficult to store fresh groceries and prepare meals at home. As a result, the client has had to purchase food outside, which is not sustainable or economical given the family’s limited income. This situation has added to the caregiver’s stress and impacted the family’s ability to meet their basic nutritional needs. A replacement refrigerator would greatly support the family’s daily functioning and well-being. Given client's limited resources, seeking donor to cover delivery and installation fees (if any).",
-    "specifications": "Any",
+    "id": "151395",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "We are reaching out on behalf of a senior who is wheelchair-bound and living alone without any next-of-kin. She is currently estranged from her family and faces significant financial challenges. Due to limited mobility and obesity, she relies on adult diapers to manage daily needs, especially during transfers to the toilet.\n\nHer current usage is 6 pieces per day, which places a heavy burden on her monthly expenses.\n\nIf you are able to help by donating adult diapers or would like more information, please contact me at 8126 2493.Thanks!",
+    "specifications": "Tena ProSkin Pants, XL (120–160 cm)",
     "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Hafizul Hafiz",
-      "email": "hafizulhafiz@allkin.org.sg",
+      "org": "Fei Yue Community Services",
+      "name": "Julia Soh Ying Li",
+      "email": "juliasoh@fycs.org",
       "phone": [
-        "88547675",
-        "60384120"
+        "63809155",
+        "63809169"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "13 Nov 2025",
+    "date": "19 Nov 2025",
     "matches": {
       "passiton": [
         {
-          "id": "151616",
-          "name": "Panasonic Refrigerator",
-          "description": "2016 Panasonic Refrigerator",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "24 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "67cm x 67cm x 175cm",
+          "id": "151617",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151146",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Family consist of single mother who is looking for employment, daughter who is schooling and 10-month old granddaughter. Family has tight finances and relies on financial assistance for basic needs. Family's fridge (halal) is leaking badly and needs to replace it as soon as possible but has no means to.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Victoria Lim",
-      "email": "Victoria_SE_LIM@msf.gov.sg",
-      "phone": [
-        "65857009",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Nov 2025",
-    "matches": {
-      "passiton": [
+          "category": "Medical Aids"
+        },
         {
-          "id": "151616",
-          "name": "Panasonic Refrigerator",
-          "description": "2016 Panasonic Refrigerator",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "24 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "67cm x 67cm x 175cm",
+          "id": "151618",
+          "name": "Adult Diapers - Size M",
+          "description": "Tape Adults Diapers - 3 Packs",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150697",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "A family of 7 with 5 school going children are facing financial difficulties. Parents are not working due to health issues. Their refrigerator is faulty and they require a new one urgently.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Clarice Lim",
-      "email": "claricelim@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151616",
-          "name": "Panasonic Refrigerator",
-          "description": "2016 Panasonic Refrigerator",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "24 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "67cm x 67cm x 175cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "150686",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "The client is a single parent with a school-going daughter. His employment has been unstable due to ongoing health issues. He has been postponing a necessary surgery because of concerns about its potential outcome. The current refrigerator, which is over 12 years old, has been experiencing frequent malfunctions.",
-    "specifications": "171cm (h) x 64cm (w) x 60cm (d)",
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Linda Lim",
-      "email": "lindalim@kkcs.org.sg",
-      "phone": [
-        "64854750"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Oct 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151616",
-          "name": "Panasonic Refrigerator",
-          "description": "2016 Panasonic Refrigerator",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "24 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "67cm x 67cm x 175cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
