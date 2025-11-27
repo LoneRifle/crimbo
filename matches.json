@@ -621,6 +621,39 @@
     }
   },
   {
+    "id": "151627",
+    "category": "Home Furnishing",
+    "name": "Dining Table (with chairs)",
+    "description": "A family with 3 children requires a dining table. Family is currently subsisting on financial assistance. The family is currently eating on the floor.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Khairunisa Binte Rusli",
+      "email": "khairunisarusli@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151611",
+          "name": "Dining Table with 6 chairs",
+          "description": "IKEA Dining Table with 6 chairs still in good condition except for chips at the side of table due to wear and tear.\n\nPLS ARRANGE FOR OWN TRANSPORTATION AND MANAGE NECESSARY CHARGES. THANK YOU.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "30 Nov 2025",
+          "ageInYears": 4,
+          "dimensions": "221cm x 84cm x 74cm(ht)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151619",
     "category": "Home Furnishing",
     "name": "Bed frame",
@@ -718,7 +751,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151571",
+          "id": "151628",
           "name": "Sofa Bed",
           "description": "Used only less than 5 times. Excellent condition sofa bed for donation. Pick up at AMK.",
           "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -846,40 +879,6 @@
     }
   },
   {
-    "id": "151458",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Low income elderly is looking for a working fridge. Will appreciate cover of delivery as well. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner CREST @ Toa Payoh",
-      "name": "Josherine Toh",
-      "email": "josherinetoh@carecorner.org.sg",
-      "phone": [
-        "62566001",
-        "62586601"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151246",
-          "name": "LG GL131SQW Bar Fridge (90L)",
-          "description": "- Compact LG bar fridge\n- Perfect for small spaces\n- 90L capacity\n- Energy efficient\n- Annual energy cost: ~$50\n- Dimensions: 463 x 820 x 500 mm\n- Features a horizontal pocket handle\n- In good working condition, hardly use. \n- Some scratches on the door due to the magnets.",
-          "location": "Holland",
-          "validTill": "14 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "As shown in the photo",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "151366",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -984,39 +983,6 @@
           "location": "Pasir Ris, Simei, Tampines",
           "validTill": "30 Nov 2025",
           "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151051",
-    "category": "Medical Aids",
-    "name": "Blood Glucose Test Strips",
-    "description": "Client is the main caregiver for her 5 children. She is unemployed and is living in a rental flat. She struggles to manage her daily expenses due to her chronic medical conditions. We are looking for donors who can support her, please whatsapp Kritikaa (8777 0959) or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151501",
-          "name": "ACCU-CHEK Performa blood glucose test strips",
-          "description": "Unopened box of ACCU-CHEK Performa (50 test strips) available for anyone who may need it.\nExpiry date: 31 Dec 2025",
-          "location": null,
-          "validTill": "23 Dec 2025",
-          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
