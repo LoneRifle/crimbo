@@ -688,6 +688,39 @@
     }
   },
   {
+    "id": "151672",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with 4 school-going children, living in rental flat and surviving solely on SSO assistance. Existing refrigerator is rusty and not as cold, will need assistance to replace it.",
+    "specifications": "75cm by 90cm",
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Tey Mei Qi",
+      "email": "teymeiqi@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151246",
+          "name": "LG GL131SQW Bar Fridge (90L)",
+          "description": "- Compact LG bar fridge\n- Perfect for small spaces\n- 90L capacity\n- Energy efficient\n- Annual energy cost: ~$50\n- Dimensions: 463 x 820 x 500 mm\n- Features a horizontal pocket handle\n- In good working condition, hardly use. \n- Some scratches on the door due to the magnets.",
+          "location": "Holland",
+          "validTill": "14 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "As shown in the photo",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151601",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -829,6 +862,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151671",
+    "category": "Mobility Aids",
+    "name": "Crutches",
+    "description": "Couple are both suffering from medical condition that requires treatment and rest. Couple are not working at the moment. Client suffers from hip pain which impacted his mobility. Requesting for crutches to help in the movement from one place to another.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Shannon Ong",
+      "email": "shannonong@fycs.org",
+      "phone": [
+        "69783488",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "150692",
+          "name": "Elbow crutches",
+          "description": "Ergotech lightweight adjustable crutches. As comfortable to use as crutches just can be.",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "29 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "Adjustable",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "150691",
+          "name": "Elbow Crutches",
+          "description": "US Import elbow crutches for a tall/heavy person. Solid and strong.",
+          "location": "Changi, Flora, Loyang",
+          "validTill": "29 Nov 2025",
+          "ageInYears": 1,
+          "dimensions": "Adjustable",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
