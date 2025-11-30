@@ -678,6 +678,39 @@
     }
   },
   {
+    "id": "151365",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "M/60 who is medically unfit to work and living alone in rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151706",
+          "name": "TV Set",
+          "description": "Sony Bravia TV KD-49X8500F with console",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "15 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151347",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
