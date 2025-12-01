@@ -2598,21 +2598,22 @@
     "date": "31 Oct 2025"
   },
   {
-    "id": "151588",
+    "id": "150541",
     "category": "Learning Aids",
     "name": "Laptop",
-    "description": "Client is seeking a preferable new or refurbished laptop for online learning as part of her hybrid course to upskill herself. Client's family is currently living in a one-room public rental flat and their income is only able to support their basic needs and for their infant's needs. Receiving a laptop would greatly support the family's employability and their financial capacity in the long-run. If you're able to support, please WhatsApp Wani at 8718 8443 or email to Wani.Irdina@thkmc.org.sg to liaise.",
-    "specifications": null,
+    "description": "Client wants to upgrade himself. He wants to learn to use the laptop and might want to study online. He has just completed his 6 months in-care program at Highpoint halfway house. He is still under prison probation. He is now living with his wife one wants to spend his time productively.",
+    "specifications": "any size",
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
       "phone": [
-        "62706711"
+        "80207521",
+        "64402444"
       ]
     },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Nov 2025"
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Dec 2025"
   },
   {
     "id": "151218",
@@ -2877,6 +2878,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Nov 2025"
+  },
+  {
+    "id": "151727",
+    "category": "Others",
+    "name": "Aluminium grocery trolley",
+    "description": "A low income families are living in a public rental flat. Client was unable to work due to a recent pregnancy. \nShe is currently looking for a pre-loved aluminium grocery trolley.\nPlease Whatsapp Suzanne at 86661355 or email to suzanne.eu@thkmc.org.sg to liaise.",
+    "specifications": "Large/Medium",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Dec 2025"
   },
   {
     "id": "151719",
@@ -3497,6 +3515,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Nov 2025"
+  },
+  {
+    "id": "151729",
+    "category": "Electrical Home Appliances",
+    "name": "Minimum 50\" Smart TV",
+    "description": "Client is a single mother struggling to raise 5 young children, with 1 child having special needs. She is unable to work as she is the main caregiver for the child with special needs. Client’s family requires a new smart television as the family’s current one is spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Dec 2025"
+  },
+  {
+    "id": "150469",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Client has finished his 8 months program at Highpoint halfway house and is now going home after securing a rental HDB flat. He will be staying with his 21 years old daughter. They need a washing machine and a television.",
+    "specifications": "any size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Dec 2025"
+  },
+  {
+    "id": "150470",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client has finished his 8 months program at Highpoint halfway house and is now going home after securing a rental HDB flat. He will be staying with his 21 years old daughter. They need a washing machine and a television.",
+    "specifications": "any size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Dec 2025"
+  },
+  {
+    "id": "151725",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Senior is moving flat and requires a washing machine",
+    "specifications": null,
+    "contact": {
+      "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
+      "name": "Dorothy Michael",
+      "email": "dorothy.michael@thkmc.org.sg",
+      "phone": [
+        "69242951"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Dec 2025"
   },
   {
     "id": "151714",

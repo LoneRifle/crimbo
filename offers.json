@@ -1,5 +1,27 @@
 [
   {
+    "id": "151732",
+    "name": "Cushion covers",
+    "description": "2 pieces.",
+    "location": null,
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "42cmLx42cmW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "151731",
+    "name": "Blanket",
+    "description": "///",
+    "location": null,
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "200cmLx200cmW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "151704",
     "name": "Kids Clothes",
     "description": "Kids clothes from various design and apparel.",
@@ -75,17 +97,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
-  },
-  {
-    "id": "151718",
-    "name": "microwave oven",
-    "description": "seldom use",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
   },
   {
     "id": "151708",
@@ -374,17 +385,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151664",
-    "name": "Dining table + 5 chairs",
-    "description": "Dining table\n5 dining chairs",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "07 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": "160x81x75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151665",
     "name": "Dining table + 5 chairs",
     "description": "Dining table\n5 dining chairs",
@@ -451,11 +451,11 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151722",
-    "name": "Combi Stroller",
-    "description": "Seldom used Combi Stroller",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Dec 2025",
+    "id": "151726",
+    "name": "Diapers",
+    "description": "willing to purchase diapers for families in need",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -986,17 +986,6 @@
     "validTill": "17 Dec 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "151359",
-    "name": "Hospital bed (electrical)",
-    "description": "Brand new hospital bed with 3 crank electrical functions \nHead & back raise adjustment\n4 inch standard comfort mattress (new)\nSee attached brochure , will be sent by vendor direct",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "17 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": "L 212 cm X W 109 cm X H 41cm(lowest/ 69 cm (highest)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
