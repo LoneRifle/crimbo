@@ -332,34 +332,68 @@
     }
   },
   {
-    "id": "151404",
+    "id": "151720",
     "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Young family of 3 with 1 year old son requires a cabinet to furnish their new rental flat. Husband is sole breadwinner working odd jobs and wife is full time caregiver for their son.",
+    "name": "Single size mattress",
+    "description": "The senior sleeps on a foldable bedframe; however the mattress she has is too thin and causes backaches. She would hope to have a thicker and softer mattress with a width dimension of 70 CM. \nPlease WhatsApp me at 8126 2493 (Julia) thanks!",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
+      "org": "Fei Yue Community Services",
+      "name": "Julia Soh Ying Li",
+      "email": "juliasoh@fycs.org",
       "phone": [
-        "68590811",
-        "62957205"
+        "63809155",
+        "63809169"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "20 Nov 2025",
+    "date": "01 Dec 2025",
     "matches": {
       "passiton": [
         {
-          "id": "151699",
-          "name": "Cabinet",
-          "description": "Stylish cabinet\n- Combination of glass doors and drawers\n- Dark wood finish\n- Sleek metal handles\n- Ample storage space\n- Perfect for entryway or bedroom",
-          "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-          "validTill": "08 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "151724",
+          "name": "Single size bedframe with mattress",
+          "description": "Ikea single size bedframe and mattress",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "06 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": "90cm x 200cm x 100cm(height of headboard)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151666",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is on long-term MC for 6 months, husband is the only sole breadwinner. The family consist of 8 members with 6 school-going children aged between 6 to 14. \nThe family is currently receiving insufficient finance support. Client's husband employment is unstable and he is currently employed on a contract ad-hoc basis, with subsequent reviews to ascertain whether he can continue his employment. \nClient is currently receiving counselling and emotional support with regard to other psychosocial, emotional issues eg parenting, caregiving and stress management to assist her to cope with the current systemic stressors from various areas. Client request for a oven to bake cookies as she has just started home baking, this is to supplement her income and financial needs and also contributes to her sense of efficacy and sense of self.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151718",
+          "name": "microwave oven",
+          "description": "seldom use",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "15 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -425,6 +459,40 @@
           "validTill": "26 Dec 2025",
           "ageInYears": 4,
           "dimensions": "68 x 63 x 173 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151510",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Young family of 3 requires a microwave to furnish their new rental flat. Husband is sole breadwinner in odd jobs and wife is a full-time caregiver to their 1 year old son.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151718",
+          "name": "microwave oven",
+          "description": "seldom use",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "15 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
