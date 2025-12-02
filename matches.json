@@ -384,6 +384,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "151756",
+          "name": "panasonic fridge",
+          "description": "working condition",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "170x60",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "151246",
           "name": "LG GL131SQW Bar Fridge (90L)",
           "description": "- Compact LG bar fridge\n- Perfect for small spaces\n- 90L capacity\n- Energy efficient\n- Annual energy cost: ~$50\n- Dimensions: 463 x 820 x 500 mm\n- Features a horizontal pocket handle\n- In good working condition, hardly use. \n- Some scratches on the door due to the magnets.",
@@ -391,6 +402,175 @@
           "validTill": "14 Dec 2025",
           "ageInYears": 4,
           "dimensions": "As shown in the photo",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151725",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Senior is moving flat and requires a washing machine",
+    "specifications": null,
+    "contact": {
+      "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
+      "name": "Dorothy Michael",
+      "email": "dorothy.michael@thkmc.org.sg",
+      "phone": [
+        "69242951"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151714",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Husband is the sole breadwinner, financially supporting 3 other family members including her permanently disabled sister-in-law. He relies on his additional allowances and overtime salary to provide for the family. Family was previously displaced and temporarily stayed in a transitional shelter. They recently gotten their keys to their rental flat and will be moving in by 5 Dec 2025. However, family is facing financial constraints to purchase a washing machine.",
+    "specifications": "Top load",
+    "contact": {
+      "org": "AWWA Ltd - Transitional Shelter (JT)",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65111669"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151712",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Family of 3 - consisting of aged parents (who are deemed medically unfit to work due to health concerns) and an adult PWD who is unable to seek employment due to caring for parents - are requiring a washing machine as their previous one spoilt. Mum has been washing the clothes by hand for months, causing pains in her wrists.",
+    "specifications": null,
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Nadiah Aqilah Binte Bohari",
+      "email": "nadiahaqilah@rainbowcentre.org.sg",
+      "phone": [
+        "87188591",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151623",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Looking for washing machine for single mother staying in a HDB rental flat with her daughter. She is the sole breadwinner and caregiver of her daughter. Her washing machine is spoilt, and she is facing difficulties repairing the machine due to financial constraints.",
+    "specifications": "W595 x H850 x D565mm",
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Esther Yap",
+      "email": "esther_yap@msf.gov.sg",
+      "phone": [
+        "67660126",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151608",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Request for washing machine, front load, 8kg.\nThe family, consisting of four members, currently resides in a rental flat in Yishun. With two young toddlers (aged 1 and 2) and a third child on the way, they are facing significant financial strain. The father is actively searching for work, and the mother, who is pregnant, is shouldering the responsibility of caring for their young children under challenging circumstances. Presently, the family alternates between handwashing clothes and using coin-operated laundry services, as their washing machine has broken down. This ongoing situation not only adds to their financial burdens but also places physical strain on the pregnant mother, who is already managing the demands of young children and pregnancy. A washing machine would significantly reduce both their laundry costs and the physical strain on the mother. It would also allow the family to allocate their limited resources towards other essential household needs, while providing the father with the opportunity to focus on securing stable, full-time employment. We kindly request your support in providing a washing machine to help ease the family’s daily struggles and contribute to their efforts to build a more stable and healthier future.",
+    "specifications": "Dependent on Donor options",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Marc Chong",
+      "email": "marc_chong@msf.gov.sg",
+      "phone": [
+        "63548497",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -417,6 +597,17 @@
     "date": "26 Nov 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "151756",
+          "name": "panasonic fridge",
+          "description": "working condition",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "170x60",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "151246",
           "name": "LG GL131SQW Bar Fridge (90L)",
@@ -466,6 +657,73 @@
     }
   },
   {
+    "id": "151525",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Looking for washing machine for low income family of 9 with young children. Husband is the sole breadwinner of the family and family faces difficulties repairing their current washing machine due to financial difficulties.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Camelia Binte Mohamad Aripin",
+      "email": "camelia.aripin@montfortcare.org.sg",
+      "phone": [
+        "85181442",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151371",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single father staying with 2 young children requires a washing machine to replace the faulty one. Father is unable to work due to medical conditions and cannot afford a replacement. Family is under financial assistance.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Ye Jiancheng",
+      "email": "jiancheng@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151366",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -484,6 +742,17 @@
     "date": "19 Nov 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "151756",
+          "name": "panasonic fridge",
+          "description": "working condition",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "170x60",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "151246",
           "name": "LG GL131SQW Bar Fridge (90L)",
@@ -552,6 +821,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "151756",
+          "name": "panasonic fridge",
+          "description": "working condition",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "170x60",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "151246",
           "name": "LG GL131SQW Bar Fridge (90L)",
           "description": "- Compact LG bar fridge\n- Perfect for small spaces\n- 90L capacity\n- Energy efficient\n- Annual energy cost: ~$50\n- Dimensions: 463 x 820 x 500 mm\n- Features a horizontal pocket handle\n- In good working condition, hardly use. \n- Some scratches on the door due to the magnets.",
@@ -559,6 +839,40 @@
           "validTill": "14 Dec 2025",
           "ageInYears": 4,
           "dimensions": "As shown in the photo",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151331",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 3 with one young child have just moved into a rental flat and is in need of a washing machine. Father is the sole breadwinner and is seeking for full-time employment while he works part-time to provide for the family. This donation will greatly help alleviate family's stresses in managing their household.",
+    "specifications": "Any",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Azizah Binte Muhamad Azam",
+      "email": "azizah@awwa.org.sg",
+      "phone": [
+        "65119440",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -635,6 +949,74 @@
     }
   },
   {
+    "id": "151046",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a single mother, who just moved into a rental flat with her 10 year old son. She requires some items to furnish her new home.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "C Kartikeya",
+      "email": "kartikeya@fycs.org",
+      "phone": [
+        "69783011",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151025",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a single parent to 4 school-going children. Youngest child has developmental condition. Client is currently unemployed due to high caregiving needs of children. Client's washer has malfunctioned. The washer would greatly help the client in reducing the household chore load so that she can attend to the caregiving needs of children better. \n\nClient would require set up support.",
+    "specifications": "Any",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Hafizul Hafiz",
+      "email": "hafizulhafiz@allkin.org.sg",
+      "phone": [
+        "88547675",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "150977",
     "category": "Electrical Home Appliances",
     "name": "Halal Refrigerator",
@@ -661,6 +1043,39 @@
           "validTill": "26 Dec 2025",
           "ageInYears": 4,
           "dimensions": "68 x 63 x 173 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "150939",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Client is a teenager and have cut off relationship with parents since young. She is staying with a stranger under the HDB Joint Single Scheme and faces financial hardships with unstable employment.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "06 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151753",
+          "name": "washing machine",
+          "description": "under warranty",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }

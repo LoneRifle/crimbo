@@ -143,6 +143,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151756",
+    "name": "panasonic fridge",
+    "description": "working condition",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "170x60",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151753",
+    "name": "washing machine",
+    "description": "under warranty",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151749",
     "name": "Sony 55 inch tv, 55a80j",
     "description": "Sony 55 inch tv,model 55a80j. Comes with stand and remote. Screen has some cloudy artifacts along border, but is otherwise working fine.",
@@ -308,6 +330,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151758",
+    "name": "quuen bed",
+    "description": "mattress with king koil bed frame",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151757",
+    "name": "sealy super single bed with frame",
+    "description": "reasonable condition",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151724",
     "name": "Single size bedframe with mattress",
     "description": "Ikea single size bedframe and mattress",
@@ -392,17 +436,6 @@
     "validTill": "23 Dec 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151665",
-    "name": "Dining table + 5 chairs",
-    "description": "Dining table\n5 dining chairs",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "07 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": "160x81x75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -911,6 +944,39 @@
     "dimensions": "70\"x 26\" x refer to description",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151755",
+    "name": "Quad Sticks",
+    "description": "Lightly used at home",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151754",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151751",
+    "name": "Hospital Bed with Air Mattress",
+    "description": "Purchased Jan 2025",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151750",
