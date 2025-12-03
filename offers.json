@@ -143,7 +143,7 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "151768",
+    "id": "151773",
     "name": "Samsung Washing Machine",
     "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
     "location": null,
@@ -308,6 +308,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151774",
+    "name": "SIDE BOARD CABINET",
+    "description": "Sideboard dining cabinet",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "20 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": "1600mm x 40mm x 100mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151724",
     "name": "Single size bedframe with mattress",
     "description": "Ikea single size bedframe and mattress",
@@ -449,6 +460,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "151788",
+    "name": "Stroller",
+    "description": "Combi Stroller suitable from newborn up. We can deliver.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "151717",
@@ -891,17 +913,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "151754",
-    "name": "Wheelchair",
-    "description": "Lightly used at home mostly",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "151751",
     "name": "Hospital Bed with Air Mattress",
     "description": "Purchased Jan 2025",
@@ -1065,6 +1076,17 @@
     "dimensions": "21W5-20",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "151791",
+    "name": "Long Heh Magnetic Chair",
+    "description": "Magnectic therapy Chair for general health improvement. Still working well and come with manual book etc.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "02 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "77cm W x 107cm L x 105cm H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "151772",
