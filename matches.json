@@ -332,6 +332,40 @@
     }
   },
   {
+    "id": "151795",
+    "category": "Home Furnishing",
+    "name": "Queen Bed w Mattress",
+    "description": "Young low-income couple recently moved into rental flat after husband was homeless for months. Looking for donation of queen size bed so that they can sleep.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151800",
+          "name": "Queen bedframe with mattress",
+          "description": "Queen bed frame, come with mattress.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "02 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151720",
     "category": "Home Furnishing",
     "name": "Single size mattress",
