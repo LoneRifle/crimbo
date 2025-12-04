@@ -333,6 +333,83 @@
     }
   },
   {
+    "id": "151854",
+    "category": "Home Furnishing",
+    "name": "Bed frame",
+    "description": "Unemployed elderly living alone requires a single size bed frame.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151270",
+          "name": "Bed frame",
+          "description": "Frame only (no mattress)\nAlready dissembled previously due to moving house",
+          "location": null,
+          "validTill": "17 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "151703",
+          "name": "Single bed frame with storage",
+          "description": "Single bed frame with storage, but without mattress.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "30 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "200cm x 90cm x 113cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151850",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "The client and his son have recently moved into their own flat. A sofa would help provide them with a comfortable space for both of them to relax and spend time together.",
+    "specifications": "-",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Darren Tan",
+      "email": "darrentankr@fycs.org",
+      "phone": [
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151851",
+          "name": "Grey Cotton Sofa",
+          "description": "Grey cotton 2-4 person sofa in a clean and great condition.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": "167cm x 87cm x 73cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151714",
     "category": "Electrical Home Appliances",
     "name": "Washing machine",
