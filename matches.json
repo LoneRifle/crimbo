@@ -1,5 +1,38 @@
 [
   {
+    "id": "151845",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client has 5 children, age 5, 4, 2, 1 years old and 22 days old. Client has been unemployed since birth of first child. Husband is on unpaid leave in order to support caregiving of children since client just gave birth, hence, is unable to receive his daily pay. Family is currently pending approval for financial assistance. Family hopes for urgent support of a few tins of Abbott Similac Gain 5MO Growing-up Milk Stage 3, a few packets of Huggies Pants L and Huggies Pants XXL. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151343",
+          "name": "NAN milk powder voucher-exp311225",
+          "description": "NAN milk powder voucher-exp311225",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "18 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151809",
     "category": "Infant and Children Items",
     "name": "Milk Powder",
@@ -300,74 +333,6 @@
     }
   },
   {
-    "id": "151795",
-    "category": "Home Furnishing",
-    "name": "Queen Bed w Mattress",
-    "description": "Young low-income couple recently moved into rental flat after husband was homeless for months. Looking for donation of queen size bed so that they can sleep.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Nathan Hou",
-      "email": "nathanhou@thkmc.org.sg",
-      "phone": [
-        "88554795",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151800",
-          "name": "Queen bedframe with mattress",
-          "description": "Queen bed frame, come with mattress.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "02 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151720",
-    "category": "Home Furnishing",
-    "name": "Single size mattress",
-    "description": "The senior sleeps on a foldable bedframe; however the mattress she has is too thin and causes backaches. She would hope to have a thicker and softer mattress with a width dimension of 70 CM. \nPlease WhatsApp me at 8126 2493 (Julia) thanks!",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Julia Soh Ying Li",
-      "email": "juliasoh@fycs.org",
-      "phone": [
-        "63809155",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151724",
-          "name": "Single size bedframe with mattress",
-          "description": "Ikea single size bedframe and mattress",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "06 Dec 2025",
-          "ageInYears": 2,
-          "dimensions": "90cm x 200cm x 100cm(height of headboard)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "151714",
     "category": "Electrical Home Appliances",
     "name": "Washing machine",
@@ -387,7 +352,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151773",
+          "id": "151843",
           "name": "Samsung Washing Machine",
           "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
           "location": null,
@@ -398,13 +363,13 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "151821",
-          "name": "LG frontload washing machine",
-          "description": "LG front-load washing machine",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "12 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "151844",
+          "name": "Samsung Washing Machine",
+          "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+          "location": null,
+          "validTill": "26 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60x55x85 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -432,7 +397,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151773",
+          "id": "151843",
           "name": "Samsung Washing Machine",
           "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
           "location": null,
@@ -443,13 +408,13 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "151821",
-          "name": "LG frontload washing machine",
-          "description": "LG front-load washing machine",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "12 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "151844",
+          "name": "Samsung Washing Machine",
+          "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+          "location": null,
+          "validTill": "26 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60x55x85 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -476,7 +441,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151773",
+          "id": "151843",
           "name": "Samsung Washing Machine",
           "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
           "location": null,
@@ -487,13 +452,13 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "151821",
-          "name": "LG frontload washing machine",
-          "description": "LG front-load washing machine",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "12 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "151844",
+          "name": "Samsung Washing Machine",
+          "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+          "location": null,
+          "validTill": "26 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60x55x85 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -555,7 +520,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151773",
+          "id": "151843",
           "name": "Samsung Washing Machine",
           "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
           "location": null,
@@ -566,13 +531,13 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "151821",
-          "name": "LG frontload washing machine",
-          "description": "LG front-load washing machine",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "12 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "151844",
+          "name": "Samsung Washing Machine",
+          "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+          "location": null,
+          "validTill": "26 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60x55x85 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -600,7 +565,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151773",
+          "id": "151843",
           "name": "Samsung Washing Machine",
           "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
           "location": null,
@@ -611,13 +576,13 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "151821",
-          "name": "LG frontload washing machine",
-          "description": "LG front-load washing machine",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "12 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "151844",
+          "name": "Samsung Washing Machine",
+          "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+          "location": null,
+          "validTill": "26 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60x55x85 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -644,7 +609,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "151773",
+          "id": "151843",
           "name": "Samsung Washing Machine",
           "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
           "location": null,
@@ -655,13 +620,13 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "151821",
-          "name": "LG frontload washing machine",
-          "description": "LG front-load washing machine",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "12 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "151844",
+          "name": "Samsung Washing Machine",
+          "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+          "location": null,
+          "validTill": "26 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "60x55x85 CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }

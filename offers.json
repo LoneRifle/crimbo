@@ -143,18 +143,18 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "151821",
-    "name": "LG frontload washing machine",
-    "description": "LG front-load washing machine",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "12 Dec 2025",
-    "ageInYears": 3,
-    "dimensions": null,
+    "id": "151843",
+    "name": "Samsung Washing Machine",
+    "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
+    "location": null,
+    "validTill": "26 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "60x55x85 CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "151773",
+    "id": "151844",
     "name": "Samsung Washing Machine",
     "description": "Functional washing machine. \n7KG load \n- collection date can only be on 26 Dec or 29 Dec due to moving out date \n\n- Preferred to be contacted via WhatsApp",
     "location": null,
@@ -308,6 +308,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151842",
+    "name": "Single Bed and Mattress",
+    "description": "pickup on 23/12",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "03 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151841",
+    "name": "Singer bed and mattress",
+    "description": "Item pickup on 23/12",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "23 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151823",
     "name": "storage units",
     "description": "2 IKEA items + 1 brand new",
@@ -326,28 +348,6 @@
     "validTill": "12 Dec 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151800",
-    "name": "Queen bedframe with mattress",
-    "description": "Queen bed frame, come with mattress.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "02 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151724",
-    "name": "Single size bedframe with mattress",
-    "description": "Ikea single size bedframe and mattress",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "06 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": "90cm x 200cm x 100cm(height of headboard)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1007,17 +1007,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "26 Dec 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "151352",
-    "name": "Wheelchair",
-    "description": "Auto Wheelchair",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "19 Dec 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
