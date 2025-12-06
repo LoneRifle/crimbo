@@ -422,6 +422,73 @@
     }
   },
   {
+    "id": "151483",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client is living in a rental flat. Her wardrobe has spoiled and required a replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Rachel Fu",
+      "email": "rachel.fu@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151907",
+          "name": "Cupboard",
+          "description": "Worn looking but still in good usable condition.",
+          "location": "Thomson",
+          "validTill": "05 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "85cmx48cmx123cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149727",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Low-income family comprising of elderly mother and daughter living in a rental unit is looking for a cupboard to replace their broken old one. If you are able to help, please contact Jessie at 96433400 or email jessielim@fycs.org. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Restorative Care Department",
+      "name": "Jessie Lim",
+      "email": "jessielim@fycs.org",
+      "phone": [
+        "96433400",
+        "91708900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151907",
+          "name": "Cupboard",
+          "description": "Worn looking but still in good usable condition.",
+          "location": "Thomson",
+          "validTill": "05 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "85cmx48cmx123cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151865",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -517,6 +584,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151858",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client, female, 83, lives alone in a one-room rental flat and has multiple health conditions that requires frequent medical follow-ups at the hospital. Due to her declining mobility and the need to attend regular TCU appointments and other medical reviews, having a wheelchair would greatly support her ability to travel safely for her appointments. Her daughter, who checks in only occasionally, is unable to provide consistent assistance. A wheelchair will therefore enhance her independence, reduce fall risks, and ensure timely access to essential medical care.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Hajra Bee Binte Kamaludin",
+      "email": "Hajra.Kamaludin@thkmc.org.sg",
+      "phone": [
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151910",
+          "name": "Wheelchair",
+          "description": "Life Line Brand. Still in good condition; mostly used within house.",
+          "location": null,
+          "validTill": "05 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
