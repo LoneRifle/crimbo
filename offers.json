@@ -99,6 +99,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151916",
+    "name": "DVD player with speakers.",
+    "description": "///",
+    "location": null,
+    "validTill": "05 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151914",
     "name": "Down light",
     "description": "Cool white 24nos.\nDay light 4nos.",
@@ -262,28 +273,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151018",
-    "name": "Wifi Mesh Router",
-    "description": "Netgear Obri 850 wifi 6 Mesh Router. Item in good working condition. Include a main router and a satellite router for bigger area coverage.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "07 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151907",
-    "name": "Cupboard",
-    "description": "Worn looking but still in good usable condition.",
-    "location": "Thomson",
-    "validTill": "05 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "85cmx48cmx123cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "151884",
@@ -1089,13 +1078,13 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "151911",
-    "name": "Toyogo Storage Boxes x 4 pcs",
-    "description": "Toyogo Plastic Storage Boxes",
-    "location": null,
-    "validTill": "15 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "L 620 x W 430 x H 400",
+    "id": "151915",
+    "name": "DNR50 Hospital Bed",
+    "description": "https://www.dnrwheels.com/products/electric-3-functions-hospital-bed-with-quad-rails?srsltid=AfmBOor2iS-JH5jPWiuhhyySKZeg7WXNQP5rIB9wWO2CYrSVG_y9VK_K\n\n3 functions electric hospital bed: \n1) Back recline function\n2) Leg elevating function\n3) High-low adjustable\n\n✓ High-quality carbon-steel used for frame and bedstead, all surfaces with anti-rust treatment, antibacterial powder coating\n✓ One-off forming of carbon-steel bed plate, great strength, large air-bleed hole design, well-ventilated\n✓ ABS head and foot boards formed by blow moulding, nice and elegant\n✓ New style bed panel with the soft link, easy and reliable operation\n✓ Full-enclosed motor with strong thrust, low noise, waterproof and dustproof\n✓ 24V 1AH backup battery pack for emergency operation of bed up to 15 lifting cycles during power failure\n✓ Mattress included",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "05 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
@@ -1228,17 +1217,6 @@
     "validTill": "08 Dec 2025",
     "ageInYears": 4,
     "dimensions": "see description",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151348",
-    "name": "Projector",
-    "description": "Fully working projector.",
-    "location": null,
-    "validTill": "07 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
