@@ -121,17 +121,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "151916",
-    "name": "DVD player with speakers.",
-    "description": "///",
-    "location": null,
-    "validTill": "05 Jan 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "151914",
     "name": "Down light",
     "description": "Cool white 24nos.\nDay light 4nos.",
@@ -295,6 +284,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151925",
+    "name": "Single wooden bed with mattress",
+    "description": "Single bed with white wooden frame and mattress",
+    "location": null,
+    "validTill": "19 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "2M x 1.1M x 0.7m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151924",
@@ -922,6 +922,28 @@
     "dimensions": "Unable to measure",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151927",
+    "name": "Foldable Walking Frame",
+    "description": "Foldable  walking frame",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "06 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": "Foldable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151926",
+    "name": "Motorised Hospital Bed",
+    "description": "Pot has been used before, the rest is brand new",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "06 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": "It is detachable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151923",
