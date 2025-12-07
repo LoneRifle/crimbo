@@ -330,24 +330,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "151937",
+    "id": "151938",
     "name": "Office chair",
-    "description": "Nitori office chair, lightly used for less than 1 year",
+    "description": "Nitori office chair, used for less than 1 year. Has some stains on the seat, will try to remove it",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "06 Jan 2026",
     "ageInYears": 1,
-    "dimensions": "52L x 60W x 120H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151936",
-    "name": "Study table",
-    "description": "2x Nitori study table, lightly used for less than a year.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "06 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "55W x 120L x 72H",
+    "dimensions": "49L x 53W x 120H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -469,17 +458,6 @@
     "validTill": "31 Dec 2025",
     "ageInYears": 4,
     "dimensions": "1.7m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151863",
-    "name": "Ikea Nordli Queen bed and mattress",
-    "description": "Ikea nordli queen bed , well used but in good condition. Mattress was bought about one and a half years ago and is a bit soft but functional",
-    "location": null,
-    "validTill": "08 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -636,6 +614,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "151940",
+    "name": "Baby/Toddler clothes",
+    "description": "Good condition and range of clothes for children 6 months till 2 years of age. Brands include Petit Bateau, Uniqlo, Polo Ralph Lauren.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "151919",
@@ -858,6 +847,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "151939",
+    "name": "Electric piano Yamaha Clavinova",
+    "description": "Yamaha Clavinova electric piano in good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "140x52x90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "151136",
     "name": "Wooden beads massage guasha stick",
     "description": "Pressing the stick on body to relieve pain points.",
@@ -889,6 +889,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "151941",
+    "name": "Hospital Bed",
+    "description": "https://www.rainbowcare.com.sg/beds/electrical-hospital-beds\n\nMotorised hospital bed. motors fully functional\nDimension 213 x 103 cm \nWith  \nBion v450 air Mattress.bought 2024\nDimension : 194 x 84cm\n\nBoth fully functional. Clean with minimal soillage as have been using disposable incontinence bed pad every day\nWill cover cost of dissembling and assembling for transport",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "06 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "213 x 103 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "151909",
@@ -1426,17 +1437,6 @@
     "validTill": "12 Dec 2025",
     "ageInYears": 2,
     "dimensions": "Not available",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151023",
-    "name": "Shoebag",
-    "description": "2 pieces available\nBase: 34 cm x 23 cm\nHeight: 15 cm",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "08 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "see description",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
