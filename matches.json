@@ -67,39 +67,6 @@
     }
   },
   {
-    "id": "151952",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Client (F/20) is a young mother who recently welcomed her newborn and is in need of short-term support for baby diapers. She has secured a job starting end January 2026, while her husband awaits army enlistment, leaving the couple with limited income for now. Any interim support will greatly help them provide for their newborn. For further details, feel free to reach out to Jie Qi at 8484 6181 or jieqi.yeo@thkmc.org.sg",
-    "specifications": "Similac Stage 1",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151343",
-          "name": "NAN milk powder voucher-exp311225",
-          "description": "NAN milk powder voucher-exp311225",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "18 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "151846",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -473,6 +440,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "151971",
+          "name": "LG top load washing machine",
+          "description": "Smart inverter 8 kg",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "20 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151420",
+    "category": "Electrical Home Appliances",
+    "name": "Top Load Washing Machine",
+    "description": "Client lives alone in a rental flat, he has several chronic health conditions that renders him unable to find employment, certified by medical professionals. His washing machine and standing fan recently spoilt, and he would like support from donations in kind as he is not able to afford the essential items. He is also under government financial support due to his situation. (Dyl)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151971",
+          "name": "LG top load washing machine",
+          "description": "Smart inverter 8 kg",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "20 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -504,6 +516,50 @@
           "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
           "validTill": "12 Dec 2025",
           "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "151971",
+          "name": "LG top load washing machine",
+          "description": "Smart inverter 8 kg",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "20 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151169",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine (Top Load)",
+    "description": "The client is known to have mobility issue. He used to sell tissue to sustain his living, however, he had to stop for two months due to his gout issues. It is reported that the client’s washing machine is spoilt and he does not have the financial means to buy a new one. Due to his strained relationship with his family, he does not receive any support from them. The client is hoping to seek for kind donation of a new/preloved washing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151971",
+          "name": "LG top load washing machine",
+          "description": "Smart inverter 8 kg",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "20 Dec 2025",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
