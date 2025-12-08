@@ -1,5 +1,38 @@
 [
   {
+    "id": "151952",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client (F/20) is a young mother who recently welcomed her newborn and is in need of short-term support for baby diapers. She has secured a job starting end January 2026, while her husband awaits army enlistment, leaving the couple with limited income for now. Any interim support will greatly help them provide for their newborn. For further details, feel free to reach out to Jie Qi at 8484 6181 or jieqi.yeo@thkmc.org.sg",
+    "specifications": "Similac Stage 1",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151343",
+          "name": "NAN milk powder voucher-exp311225",
+          "description": "NAN milk powder voucher-exp311225",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "18 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151846",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -118,6 +151,17 @@
     "date": "21 Nov 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "151949",
+          "name": "Adult diaper M size",
+          "description": "I have 16 pavk of adult diaper. Please let me know the location",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "10 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Attires/Clothings"
+        },
         {
           "id": "151921",
           "name": "elderly Diapers",
@@ -424,6 +468,40 @@
     }
   },
   {
+    "id": "151714",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Husband is the sole breadwinner, financially supporting 3 other family members including her permanently disabled sister-in-law. He relies on his additional allowances and overtime salary to provide for the family. Family was previously displaced and temporarily stayed in a transitional shelter. They recently gotten their keys to their rental flat and will be moving in by 5 Dec 2025. However, family is facing financial constraints to purchase a washing machine.",
+    "specifications": "Top load",
+    "contact": {
+      "org": "AWWA Ltd - Transitional Shelter (JT)",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65111669"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151955",
+          "name": "Front load washing machine",
+          "description": "LG front load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "12 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151563",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -459,6 +537,40 @@
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "16 Dec 2025",
           "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151331",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 3 with one young child have just moved into a rental flat and is in need of a washing machine. Father is the sole breadwinner and is seeking for full-time employment while he works part-time to provide for the family. This donation will greatly help alleviate family's stresses in managing their household.",
+    "specifications": "Any",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Azizah Binte Muhamad Azam",
+      "email": "azizah@awwa.org.sg",
+      "phone": [
+        "65119440",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151955",
+          "name": "Front load washing machine",
+          "description": "LG front load washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "12 Dec 2025",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
