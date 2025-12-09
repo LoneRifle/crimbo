@@ -345,6 +345,95 @@
     }
   },
   {
+    "id": "152000",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Client is a single mother with health issues seeking assistance for a washing machine. She is unable to afford buying a new washing machine as she is reliant on financial assistance for support. There are multiple family members residing together in a household, requiring further need for a replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Sarrani Krishnan",
+      "email": "sarrani_krishnan@msf.gov.sg",
+      "phone": [
+        "68678568",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151986",
+          "name": "Washing machine",
+          "description": "Elba front load washing machine, 5+years old.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "12 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "151992",
+          "name": "Washing machine",
+          "description": "Very good and large size top load Fisher and Paykel washing machine in working condition.",
+          "location": null,
+          "validTill": "15 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151997",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Client is a young parent (F/22) to three children, (F/3), (F/3) and (M/13M). She is presenty working part-time receiving parcels at home, so that she is able to look after her baby. Please whatsapp Ameena at 87188444 to liase.",
+    "specifications": "7.5kg Top Load",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151986",
+          "name": "Washing machine",
+          "description": "Elba front load washing machine, 5+years old.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "12 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "151992",
+          "name": "Washing machine",
+          "description": "Very good and large size top load Fisher and Paykel washing machine in working condition.",
+          "location": null,
+          "validTill": "15 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "149812",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
