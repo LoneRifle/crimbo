@@ -121,28 +121,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "151971",
-    "name": "LG top load washing machine",
-    "description": "Smart inverter 8 kg",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151955",
-    "name": "Front load washing machine",
-    "description": "LG front load washing machine",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "12 Dec 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "151918",
     "name": "Clothes dryer",
     "description": "Very good clothes dryer in good working condition.",
@@ -317,6 +295,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151975",
+    "name": "Ikea Extendable Dining Table",
+    "description": "Table thay can be extended to sit up to 8-10 pax",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "84 (W) x 140 (L) x 70 (H) cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151974",
+    "name": "Sofa",
+    "description": "Fabric 3seater sofa, Khaki colour, very good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": "L188xH78cmxD86cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151973",
