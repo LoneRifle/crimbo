@@ -121,6 +121,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "151987",
+    "name": "Microwave",
+    "description": "Panasonic microwave oven, 20L.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "19 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151986",
+    "name": "Washing machine",
+    "description": "Elba front load washing machine, 5+years old.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "12 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "151918",
     "name": "Clothes dryer",
     "description": "Very good clothes dryer in good working condition.",
@@ -295,6 +317,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "151982",
+    "name": "Marble table Top(no legs)",
+    "description": "Marble table top without legs. No chairs. No damages. No cracks. No legs. No transport provided due to weight !",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "08 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "36 inches diameter",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151978",
@@ -1095,17 +1128,6 @@
     "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
     "validTill": "06 Jan 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "151906",
-    "name": "commode",
-    "description": "Good condition.",
-    "location": "Thomson",
-    "validTill": "05 Jan 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
