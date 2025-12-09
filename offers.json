@@ -1,16 +1,5 @@
 [
   {
-    "id": "151949",
-    "name": "Adult diaper M size",
-    "description": "I have 16 pavk of adult diaper. Please let me know the location",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "10 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "151932",
     "name": "Baby boy clothes 6-12mths old (worn, no holes & stains)",
     "description": "Free delivery only to Canberra, Sembawang, Yishun",
@@ -82,17 +71,6 @@
     "description": "Kids clothes from various design and apparel.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "30 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "151539",
-    "name": "Mens and womens branded clothes and shoes",
-    "description": "Mens branded clothes and shoes , womens clothes as well",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -339,6 +317,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152009",
+    "name": "Coffee table",
+    "description": "Solid Teak Coffee table",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "08 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": "900x400x360",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "151982",
@@ -913,6 +902,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "152008",
+    "name": "Working Piano",
+    "description": "Working Piano for self collection (Only) at Balestier Area. Good for charity home or association for music bonding sessions",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "151939",
     "name": "Electric piano Yamaha Clavinova",
     "description": "Yamaha Clavinova electric piano in good condition",
@@ -1008,17 +1008,6 @@
     "validTill": "05 Jan 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "151902",
-    "name": "Patient Transfer Chair - Electric",
-    "description": "**(This item is new, only used once)**\nThe Height Adjustable Easy Transfer Chair makes transferring easy and reduces strain. \nThis innovative design has reinvented patient transfer by minimising the movement of the user, while allowing caregivers to avoid back strain from carrying out transfers daily.\nThis is electric-operated via a wired controller or remote control to make it easy to ascend/descend the chair. Just charge the battery and use.\n\nFeatures:\n· Makes transfers easy\n· Minimises user's movement\n· Reduces caregiver's risk of injury\n· Affordable and easier to use compared to patient hoists\n· Comes with a cushion for added comfort",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "04 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "56cmx64cm, Height (95-122cm)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },

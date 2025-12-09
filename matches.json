@@ -1,5 +1,49 @@
 [
   {
+    "id": "152011",
+    "category": "Home Furnishing",
+    "name": "Bunk Bed",
+    "description": "Client has 3 children and bed recently spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151942",
+          "name": "Wooden single bunk bed",
+          "description": "There are scribbles on the frame but the structure is still sturdy.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "01 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "151884",
+          "name": "double deck bunk bedframe",
+          "description": "Have a bunk bed frame that is in very good condition. \n\ntop single bed size L x W x H\n2.02m x 0.99m x 1.85m\n(for bed mattress size of single 90 x 190cm not more than 3 inch height)\n\nBottom Super single size l x W x H\n2.02m x 1.29m x 0.64m \n(for bed mattress size @ 120 x 190cm, height of mattress not more than 6 inch)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "04 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": "Single bed at top and super single bed at bottom",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151846",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -118,17 +162,6 @@
     "date": "21 Nov 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "151949",
-          "name": "Adult diaper M size",
-          "description": "I have 16 pavk of adult diaper. Please let me know the location",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "10 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        },
         {
           "id": "151921",
           "name": "elderly Diapers",
@@ -339,6 +372,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152010",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client has 3 children and recently lost her job. She needs a fridge as he recently spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151246",
+          "name": "LG GL131SQW Bar Fridge (90L)",
+          "description": "- Compact LG bar fridge\n- Perfect for small spaces\n- 90L capacity\n- Energy efficient\n- Annual energy cost: ~$50\n- Dimensions: 463 x 820 x 500 mm\n- Features a horizontal pocket handle\n- In good working condition, hardly use. \n- Some scratches on the door due to the magnets.",
+          "location": "Holland",
+          "validTill": "14 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "As shown in the photo",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
