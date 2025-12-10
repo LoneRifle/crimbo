@@ -99,34 +99,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "152014",
-    "name": "Air Purifier",
-    "description": "Philips air purifier in working condition. Appearance is like new.",
-    "location": null,
-    "validTill": "09 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "29cm (diameter) x 64.5cm (height)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152005",
     "name": "Coffee Maker",
     "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "15 Dec 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151986",
-    "name": "Washing machine",
-    "description": "Elba front load washing machine, 5+years old.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "12 Dec 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -363,6 +341,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "152039",
+    "name": "Single wooden bed with mattress",
+    "description": "Single bed with white wooden frame and mattress",
+    "location": null,
+    "validTill": "19 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "2M x 1.1M x 0.7m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152002",
     "name": "Sofa 2 Seater",
     "description": "2 seater sofa",
@@ -583,17 +572,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151334",
-    "name": "IKEA Desk with drawers",
-    "description": "Used but sturdy IKEA Study table /desk comes with 3  drawers (1 narrow and 2 deep drawers) that can be tucked away under the desk. Good condition except for a glue stain on the right side of the desk. Dimensions of drawer set is \nL45cmx W55cm",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "16 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "(L)1.6m x (W)1.2m x (H) 80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151180",
     "name": "Brown leather arm chair with ottoman",
     "description": "Imported Leather armchair with ottoman",
@@ -722,17 +700,6 @@
     "validTill": "21 Dec 2025",
     "ageInYears": 1,
     "dimensions": "67*40*20cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "151835",
-    "name": "Study Table",
-    "description": "Adjustable desk to suit 3-18years old. Table can be tilted to 50 degrees to help vary work posture. Adjustable chair seat height and back, can be moved backward or forward.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "11 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "W110cm x D60cm x H52~76 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -973,17 +940,6 @@
     "description": "Good clean working condition. Mattress, pillows in good clean condition.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "30 Dec 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "151833",
-    "name": "Hospital bed electric",
-    "description": "Electric hospital bed.\nQuite new. Bought for elderly mum who passed on without using it.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "03 Jan 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1281,17 +1237,6 @@
     "description": "Hospital bed of about 1 year old only. It is not used anymore y patient therefore looking to donate to the needy.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "17 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "151219",
-    "name": "Air mattress",
-    "description": "Air Mattress",
-    "location": "Margret Drive",
-    "validTill": "14 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
