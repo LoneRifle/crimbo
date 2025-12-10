@@ -99,6 +99,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "152014",
+    "name": "Air Purifier",
+    "description": "Philips air purifier in working condition. Appearance is like new.",
+    "location": null,
+    "validTill": "09 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "29cm (diameter) x 64.5cm (height)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "152006",
     "name": "Philips Airfyer Accessories",
     "description": "1 philips airfryer bakong tray\n1 philips airfryer grill tray",
@@ -127,28 +138,6 @@
     "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
     "validTill": "12 Dec 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151993",
-    "name": "Refrigerator Panasonic NR-BK2655NSG",
-    "description": "Panasonic NR-BK2655NSG \nSerial Number:  \nTotal capacity: It has a total capacity of around 262 liters, with 159 liters in the refrigerator and 75 liters in the freezer.\n(Manufacture before 2016)\n\nPanasonic NR-BK2655NSG is a 2-door, top-freezer refrigerator. It is characterized by its energy efficiency features like an inverter compressor and ECONAVI sensors, which help reduce electricity consumption.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "16 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151992",
-    "name": "Washing machine",
-    "description": "Very good and large size top load Fisher and Paykel washing machine in working condition.",
-    "location": null,
-    "validTill": "15 Dec 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -330,17 +319,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152009",
-    "name": "Coffee table",
-    "description": "Solid Teak Coffee table",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "08 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": "900x400x360",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151982",
     "name": "Marble table Top(no legs)",
     "description": "Marble table top without legs. No chairs. No damages. No cracks. No legs. No transport provided due to weight !",
@@ -392,17 +370,6 @@
     "validTill": "06 Jan 2026",
     "ageInYears": 4,
     "dimensions": "70cm × 70cm × 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151925",
-    "name": "Single wooden bed with mattress",
-    "description": "Single bed with white wooden frame and mattress",
-    "location": null,
-    "validTill": "19 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "2M x 1.1M x 0.7m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -658,6 +625,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152020",
+    "name": "Single Stroller",
+    "description": "Lightly Used, needs a little clean-up as it has been in store-room for quite a while",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "152019",
+    "name": "Single Stroller",
+    "description": "Lightly Used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "151940",
