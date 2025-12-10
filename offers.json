@@ -110,17 +110,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "152006",
-    "name": "Philips Airfyer Accessories",
-    "description": "1 philips airfryer bakong tray\n1 philips airfryer grill tray",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152005",
     "name": "Coffee Maker",
     "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
@@ -418,17 +407,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151880",
-    "name": "Study Desk and Chair",
-    "description": "Seldom used, tip-top condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151879",
     "name": "Sofa",
     "description": "Fabric sofa for donation",
@@ -625,6 +603,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152021",
+    "name": "Bundle of Toys, Carrier, Clothes etc",
+    "description": "For donation:\n\n* Baby carrier (Luna)\n* Baby bag\n* Baby boy clothes (2yo)\n* Baby girl clothes (2yo)\n* Other baby essentials (blanket, fans, bottle holder, mattress covers)\n* ADDED MORE toys (complete set of cloth books, shaker, stackers)",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152020",
@@ -845,17 +834,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
-  },
-  {
-    "id": "152007",
-    "name": "Cooking pots and pan",
-    "description": "1 large cooking pot, about 4 litres\n1 personal size cooking pot\n1 30cm fry pan",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
   },
   {
     "id": "151396",
@@ -1169,6 +1147,39 @@
     "id": "151755",
     "name": "Quad Sticks",
     "description": "Lightly used at home",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152025",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152026",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152027",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "01 Jan 2026",
     "ageInYears": 3,
