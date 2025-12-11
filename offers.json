@@ -99,17 +99,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "152063",
-    "name": "Dryer",
-    "description": "Good condition, no defects. Location of item: 439431",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "16 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152005",
     "name": "Coffee Maker",
     "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
@@ -275,24 +264,46 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "152057",
-    "name": "Casterly King size wooden bed frame",
-    "description": "Need to collect latest by 20 Dec Morning due to moving house",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "20 Dec 2025",
+    "id": "152085",
+    "name": "Foldable Bed Frame",
+    "description": "Suitable for foldable mattress. Dimensions as shown in pix.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Jan 2026",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "As shown in pix",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "152013",
-    "name": "8 pax Dining Table & Chair Set",
-    "description": "I am not sure about the actual size, but this dining table can accommodate 6-8pax people. All in sturdy condition.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Dec 2025",
+    "id": "152077",
+    "name": "Single-Sized Bedsheet+pillow case",
+    "description": "Heavily used but no tears. Colour slightly faded.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Jan 2026",
     "ageInYears": 4,
-    "dimensions": "1800 or 2200 length table",
+    "dimensions": "Single",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152076",
+    "name": "Single-Sized Bedsheet",
+    "description": "Used a few times. Good condition. No tears. No pillow case.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "Single",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152075",
+    "name": "Single-Sized Bedsheet+pillow case",
+    "description": "One slight ink stain noted.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "Single",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -352,17 +363,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152039",
-    "name": "Single wooden bed with mattress",
-    "description": "Single bed with white wooden frame and mattress",
-    "location": null,
-    "validTill": "19 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "2M x 1.1M x 0.7m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152002",
     "name": "Sofa 2 Seater",
     "description": "2 seater sofa",
@@ -370,17 +370,6 @@
     "validTill": "05 Jan 2026",
     "ageInYears": 4,
     "dimensions": "H75 x L200 x D85 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151920",
-    "name": "Sofa bed",
-    "description": "Good quality sofa bed\n\nDimemsion when opened :\n1.5mx1.65m",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": "1.5m x 0 9m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -407,17 +396,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151879",
-    "name": "Sofa",
-    "description": "Fabric sofa for donation",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151878",
     "name": "Sofa Bed",
     "description": "Seldom used sofa bed for donation",
@@ -436,17 +414,6 @@
     "validTill": "31 Dec 2025",
     "ageInYears": 4,
     "dimensions": "About 1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151873",
-    "name": "Sofa bed with drawer storage",
-    "description": "Green sofa bed with 2 storage drawers. Can sleep 2 pax",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "1.7m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1078,17 +1045,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "152027",
-    "name": "Wheelchair",
-    "description": "Lightly used at home mostly",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "151751",
     "name": "Hospital Bed with Air Mattress",
     "description": "Purchased Jan 2025",
@@ -1199,6 +1155,50 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "152083",
+    "name": "Eye mask",
+    "description": "goBear eye mask with rubber strap. Brand new unused.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152082",
+    "name": "NaRaYa cosmetic pouch with mirror",
+    "description": "Brand new unopened still in plastic wrapping. Standard pouch size to put cosmetics and others.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152079",
+    "name": "Wireless Keyboard",
+    "description": "Wireless keyboard Logitech",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152078",
+    "name": "Paper shredder machine",
+    "description": "Paper shredder machine",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "151922",
     "name": "Shower Chair, Bed rail, car handle",
     "description": "Elderly support items, used for a short period, mother passed away recently",
@@ -1227,17 +1227,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "05 Jan 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151866",
-    "name": "Desktop computer",
-    "description": "-Used working desktop computer \n-Comes with Microsoft Office and Windows 10 \n-Comes with power cable \n-DOES NOT come with monitor, mouse & keyboard \n-Can help to setup\n\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "04 Jan 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
@@ -1338,17 +1327,6 @@
     "validTill": "17 Dec 2025",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151137",
-    "name": "Study table + chair + stepper",
-    "description": "Bought new study table n chair for son. Stepper is used less than 5 times but as good as new.",
-    "location": null,
-    "validTill": "12 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": "Not available",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
