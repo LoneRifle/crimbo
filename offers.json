@@ -99,6 +99,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "152063",
+    "name": "Dryer",
+    "description": "Good condition, no defects. Location of item: 439431",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152062",
+    "name": "Washing Machine",
+    "description": "Good condition, no defects. Location of item: 439431",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152061",
+    "name": "Fridge",
+    "description": "Good condition, no defects. Location of item: 439431",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "152005",
     "name": "Coffee Maker",
     "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
@@ -149,17 +182,6 @@
     "location": null,
     "validTill": "04 Jan 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151708",
-    "name": "Midea Dishwasher",
-    "description": "We took in this secondhand dishwasher from our neighbour as they planned to dispose of it. Have not used it, but it is functioning.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "30 Dec 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -273,6 +295,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152057",
+    "name": "Casterly King size wooden bed frame",
+    "description": "Need to collect latest by 20 Dec Morning due to moving house",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "20 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "152013",
@@ -581,6 +614,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152065",
+    "name": "Large baby cot",
+    "description": "Large baby cot with custom mattress and cover. Good condition (mattress is new)",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "152064",
+    "name": "Milk saver shell (new)- breastfeeding",
+    "description": "Milk saver shell (new) 1 pair- breastfeeding",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152049",
@@ -1048,17 +1103,6 @@
     "id": "151755",
     "name": "Quad Sticks",
     "description": "Lightly used at home",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "152025",
-    "name": "Wheelchair",
-    "description": "Lightly used at home mostly",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "01 Jan 2026",
     "ageInYears": 3,
