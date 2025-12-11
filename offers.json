@@ -88,17 +88,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "151142",
-    "name": "Lady clothes Size S",
-    "description": "I am decluttering as I will be moving from a big house to a small house. Giving away many office wears, casual wears such as t-shirts, bermuda. Also sport wears. Materials are mainly cotton or dri-fit. Not able to upload photos are there are many in a bulk.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "12 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "152005",
     "name": "Coffee Maker",
     "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
@@ -262,6 +251,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152087",
+    "name": "Childs Bed",
+    "description": "Childs car racer bed with mattress. Single bed size",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "15 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "90x190",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "152085",
@@ -440,17 +440,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151822",
-    "name": "King mattress",
-    "description": "king size mattress",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "12 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151709",
     "name": "Foldable chairs",
     "description": "Have 4. Plastic and pvc",
@@ -469,17 +458,6 @@
     "validTill": "30 Dec 2025",
     "ageInYears": 4,
     "dimensions": "200cm x 90cm x 113cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "151646",
-    "name": "High pillow",
-    "description": "Used only once with a cover so still in very fresh and new condition. Not suitable as it is too high for our use. Please kindly contact via WhatsApp text for pickup, thank you!",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -548,6 +526,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152091",
+    "name": "Child car seat",
+    "description": "Delivery only to selected East and North-East areas.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152065",
@@ -922,6 +911,28 @@
     "dimensions": "Unable to measure",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "152090",
+    "name": "Walking stick",
+    "description": "Delivery only to selected East and Northeast area.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "89cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152089",
+    "name": "Foldable walking frame",
+    "description": "Delivery only to selected East and North-East area.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "51cm (L), 40cm (W), 80cm (,H) adjustable,",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151968",
