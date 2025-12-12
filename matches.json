@@ -379,6 +379,39 @@
     }
   },
   {
+    "id": "152110",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client just had a newborn a few months ago and just moved into a rental flat recently",
+    "specifications": "Halal fridge",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "12 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151246",
+          "name": "LG GL131SQW Bar Fridge (90L)",
+          "description": "- Compact LG bar fridge\n- Perfect for small spaces\n- 90L capacity\n- Energy efficient\n- Annual energy cost: ~$50\n- Dimensions: 463 x 820 x 500 mm\n- Features a horizontal pocket handle\n- In good working condition, hardly use. \n- Some scratches on the door due to the magnets.",
+          "location": "Holland",
+          "validTill": "14 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "As shown in the photo",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152010",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -440,6 +473,39 @@
           "dimensions": "As shown in the photo",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151365",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "M/60 who is medically unfit to work and living alone in rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nadiah Razak",
+      "email": "nadiah.razak@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152114",
+          "name": "TV Console",
+          "description": "Very good condition",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "16 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []

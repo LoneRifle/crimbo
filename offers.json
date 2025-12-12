@@ -242,6 +242,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "152115",
+    "name": "Single Reclining Sofa",
+    "description": "Great condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152114",
+    "name": "TV Console",
+    "description": "Very good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152106",
     "name": "KING size bedframe with mattress",
     "description": "KING BEDFRAME WITH MATTRESS. \nneed to clear away by 14dec2025. Pls Arrange your own transport",
@@ -249,17 +271,6 @@
     "validTill": "14 Dec 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152087",
-    "name": "Childs Bed",
-    "description": "Childs car racer bed with mattress. Single bed size",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "90x190",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -275,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152077",
-    "name": "Single-Sized Bedsheet+pillow case",
-    "description": "Heavily used but no tears. Colour slightly faded.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "10 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "Single",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152076",
     "name": "Single-Sized Bedsheet",
     "description": "Used a few times. Good condition. No tears. No pillow case.",
@@ -297,13 +297,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152075",
-    "name": "Single-Sized Bedsheet+pillow case",
-    "description": "One slight ink stain noted.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "10 Jan 2026",
+    "id": "152117",
+    "name": "Casterly King size wooden bed frame",
+    "description": "Need to collect latest by 20 Dec Morning due to moving house",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "20 Dec 2025",
     "ageInYears": 4,
-    "dimensions": "Single",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -495,23 +495,23 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "152113",
+    "name": "Bottle Steriliser",
+    "description": "Brand New",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "152091",
     "name": "Child car seat",
     "description": "Delivery only to selected East and North-East areas.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "31 Dec 2025",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "152065",
-    "name": "Large baby cot",
-    "description": "Large baby cot with custom mattress and cover. Good condition (mattress is new)",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "10 Jan 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -688,17 +688,6 @@
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "17 Dec 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "151270",
-    "name": "Bed frame",
-    "description": "Frame only (no mattress)\nAlready dissembled previously due to moving house",
-    "location": null,
-    "validTill": "17 Dec 2025",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -968,17 +957,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "151862",
-    "name": "Desks and walking frame with wheels",
-    "description": "2 desks and one walking frame with wheels",
-    "location": null,
-    "validTill": "03 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "151767",
     "name": "Brand New Hospital Bed Unused",
     "description": "Brand new hospital bed unused. still in plastic. please arrange for your own mover",
@@ -1161,6 +1139,17 @@
     "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
     "validTill": "06 Jan 2026",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152118",
+    "name": "Desktop computer",
+    "description": "-Used working desktop computer \n-Comes with Microsoft Office and Windows 10 \n-Comes with power cable \n-DOES NOT come with monitor, mouse & keyboard \n-Can help to setup\n\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "04 Jan 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
