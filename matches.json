@@ -1,5 +1,39 @@
 [
   {
+    "id": "152043",
+    "category": "Home Furnishing",
+    "name": "shelf",
+    "description": "Family of 3 with young child requires a shelf to place their items and furnish their new rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152139",
+          "name": "Wall mount shelf",
+          "description": "Stainless steel wall mount shelf\n\nDimensions: 40cmLx10cmW",
+          "location": null,
+          "validTill": "12 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152011",
     "category": "Home Furnishing",
     "name": "Bunk Bed",
@@ -496,6 +530,17 @@
     "date": "19 Nov 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "152143",
+          "name": "TV console",
+          "description": "TV console and glass display cabinet to bless. In good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "152114",
           "name": "TV Console",
