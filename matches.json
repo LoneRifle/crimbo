@@ -510,5 +510,50 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "152127",
+    "category": "Others",
+    "name": "Air Mattress",
+    "description": "Patient is a single elderly who is bedbound and requires help in assistance of daily living. His current air mattress is faulty and unable to inflate, thus increasing his chance of developing sacral sores. He is currently not working thus unable to afford a new air mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "St Luke's Hospital Ltd",
+      "name": "Lee Xin Yi",
+      "email": "xinyilee@stluke.org.sg",
+      "phone": [
+        "66977519",
+        "65632281"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151772",
+          "name": "Air Matress/Cycle",
+          "description": "Air Matress and Excerice cycle",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "151751",
+          "name": "Hospital Bed with Air Mattress",
+          "description": "Purchased Jan 2025",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "01 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
