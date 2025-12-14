@@ -77,6 +77,83 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "152155",
+    "name": "Vacuum cleaner",
+    "description": "Battery last about 30mins. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152154",
+    "name": "Cornell Oven Toaster",
+    "description": "Model CT-25W. 700W. 9 litre capacity. Useful for toasting bread and reheating pastries. Top and bottom heating element. Well-used, working condition. Small dent on the back panel.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "35cm x 20cm x 23cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152152",
+    "name": "Apple TV 2nd gen",
+    "description": "2 sets avail. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
+    "location": null,
+    "validTill": "13 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152151",
+    "name": "Panasonic Electric Oven",
+    "description": "Model NB-H3203 Electric oven. 1500W, 32 litre capacity.  Suitable for home baker. Can fit 2x12 cupcake trays at one go.\nAll original accessories included. Good condition. Double heater grill and convection. Double layered insulated glass.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "40cm x 60cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152150",
+    "name": "HEPA air purifier",
+    "description": "Panasonic HEPA air filter. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152149",
+    "name": "Novita Garment Steamer",
+    "description": "Well-used, working condition. Useful to steam iron cotton shirts and dresses on a hanger.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "30cm x 40cm x 70 cm (extendable to 170cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152148",
+    "name": "Vacuum cleaner",
+    "description": "1 year old  sterra vacuum cleaner. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "152005",
     "name": "Coffee Maker",
     "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
@@ -198,6 +275,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "152147",
+    "name": "IKEA PLATSA Wardrobe",
+    "description": "80x55x180cm white wardrobe with 3 pull out drawers and large hanging space with clothes rail and an enclosed top shelf. Disassembled and packed in boxes for easy pick up. Recipient need to re-assemble. Slight damage to back panel where it was secured to the wall.",
+    "location": "Khatib",
+    "validTill": "13 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "W80cm x D55cm x H180xm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152145",
     "name": "Glass display cabinet",
     "description": "Wooden display cabinet in good condition to be given away.",
@@ -293,17 +381,6 @@
     "validTill": "11 Jan 2026",
     "ageInYears": 4,
     "dimensions": "As shown in pix",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152121",
-    "name": "ergonomic pillow",
-    "description": "very good condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "11 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "standard",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -588,17 +665,6 @@
     "description": "Very good condition. Already dismantled and kept in storeroom.",
     "location": null,
     "validTill": "31 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "152113",
-    "name": "Bottle Steriliser",
-    "description": "Brand New",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "16 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
