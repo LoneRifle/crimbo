@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "152155",
-    "name": "Vacuum cleaner",
-    "description": "Battery last about 30mins. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "13 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152154",
     "name": "Cornell Oven Toaster",
     "description": "Model CT-25W. 700W. 9 litre capacity. Useful for toasting bread and reheating pastries. Top and bottom heating element. Well-used, working condition. Small dent on the back panel.",
@@ -117,39 +106,6 @@
     "validTill": "13 Jan 2026",
     "ageInYears": 4,
     "dimensions": "40cm x 60cm x 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "152150",
-    "name": "HEPA air purifier",
-    "description": "Panasonic HEPA air filter. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "13 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "152149",
-    "name": "Novita Garment Steamer",
-    "description": "Well-used, working condition. Useful to steam iron cotton shirts and dresses on a hanger.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "13 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "30cm x 40cm x 70 cm (extendable to 170cm)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "152148",
-    "name": "Vacuum cleaner",
-    "description": "1 year old  sterra vacuum cleaner. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "13 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -264,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152147",
-    "name": "IKEA PLATSA Wardrobe",
-    "description": "80x55x180cm white wardrobe with 3 pull out drawers and large hanging space with clothes rail and an enclosed top shelf. Disassembled and packed in boxes for easy pick up. Recipient need to re-assemble. Slight damage to back panel where it was secured to the wall.",
-    "location": "Khatib",
-    "validTill": "13 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "W80cm x D55cm x H180xm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152145",
     "name": "Glass display cabinet",
     "description": "Wooden display cabinet in good condition to be given away.",
@@ -289,17 +234,6 @@
     "id": "152144",
     "name": "L shape sofa with arm chair",
     "description": "L shaped sofa and arm chair to bless.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152143",
-    "name": "TV console",
-    "description": "TV console and glass display cabinet to bless. In good condition.",
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "31 Dec 2025",
     "ageInYears": 4,
@@ -352,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152126",
-    "name": "Foldable Mattress",
-    "description": "Lightly used single foldable mattress",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "17 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152125",
     "name": "Tablecloth (long table)",
     "description": "Items are old and used but not torn.\nWaterproof with lining.\nThey also can be used to line/protect floors when house painting is carried out.\nQty:3pc",
@@ -407,13 +330,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152114",
-    "name": "TV Console",
-    "description": "Very good condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "16 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
+    "id": "152159",
+    "name": "Used Sofa",
+    "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "approx L120cm x B40cm x H65cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152161",
+    "name": "Used Sofa",
+    "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "approx L120cm x B40cm x H65cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -638,23 +572,34 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "152122",
-    "name": "Play yard",
-    "description": "Very good condition. Already dismantled and kept in storeroom.",
-    "location": null,
-    "validTill": "31 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "152091",
     "name": "Child car seat",
     "description": "Delivery only to selected East and North-East areas.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "31 Dec 2025",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "152165",
+    "name": "Large baby cot",
+    "description": "Large baby cot with custom mattress and cover. Good condition (mattress is new)",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "152166",
+    "name": "Large baby cot",
+    "description": "Large baby cot with custom mattress and cover. Good condition (mattress is new)",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "10 Jan 2026",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -834,6 +779,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "152174",
+    "name": "Dish rack",
+    "description": "Plastic dish rack",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "151396",
@@ -1221,17 +1177,6 @@
     "category": "Others"
   },
   {
-    "id": "151921",
-    "name": "elderly Diapers",
-    "description": "I have 2 packets of elderly diaper pants in XL size that i want to give away as my mother passed away recently",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "06 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "152118",
     "name": "Desktop computer",
     "description": "-Used working desktop computer \n-Comes with Microsoft Office and Windows 10 \n-Comes with power cable \n-DOES NOT come with monitor, mouse & keyboard \n-Can help to setup\n\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
@@ -1250,17 +1195,6 @@
     "validTill": "02 Jan 2026",
     "ageInYears": 4,
     "dimensions": "77cm W x 107cm L x 105cm H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151772",
-    "name": "Air Matress/Cycle",
-    "description": "Air Matress and Excerice cycle",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
