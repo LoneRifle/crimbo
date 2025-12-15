@@ -374,17 +374,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152115",
-    "name": "Single Reclining Sofa",
-    "description": "Great condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "16 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152159",
     "name": "Used Sofa",
     "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
@@ -581,6 +570,17 @@
     "dimensions": "60 x 60 x 50 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152201",
+    "name": "Assorted toys - cars, heavy vehicles",
+    "description": "Assorted toys available, cars, heavy vehicles, animals etc",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152190",
@@ -1175,6 +1175,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "152203",
+    "name": "Water appliances",
+    "description": "To recycle those new water appliances item that I can provide with labour replace/install for the family needed",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "23 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152202",
+    "name": "Men Boots",
+    "description": "Used Men Boots (EUR size : 42 UK :8)\nSeldom wear. Good Condition. Suitable for slippery floor.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "23 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "152146",
