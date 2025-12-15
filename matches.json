@@ -1,54 +1,10 @@
 [
   {
-    "id": "152168",
+    "id": "152194",
     "category": "Home Furnishing",
-    "name": "Queen-size Mattress",
-    "description": "Family of 2, child (11) and grandmother in need of a new queen size mattress as their mattress is old and sunken, creating back problems for grandmother.",
-    "specifications": "Queen size",
-    "contact": {
-      "org": "Life Community Services Society",
-      "name": "Life Community Services Society",
-      "email": "lcss@life-community.org",
-      "phone": [
-        "63873700"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152134",
-          "name": "Queen size bedframe & mattress",
-          "description": "Good condition bedframe & mattress - queen size + queen size bedsheet & duvet + duvet cover",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "152135",
-          "name": "Queen size bedframe & mattress",
-          "description": "Good condition bedframe & mattress - queen size + queen size bedsheet & duvet + duvet cover",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152163",
-    "category": "Home Furnishing",
-    "name": "Bed Frame + Mattress",
-    "description": "Client (56) has chronic medical conditions and is living alone. She had been unemployed for many years due to her medical conditions and relies on government payouts to sustain her living. She is in need of a bed frame and mattress. Please Whatsapp Kritikaa at 8777 0959 to liase.",
-    "specifications": "Single Size",
+    "name": "Sofa",
+    "description": "Client (56) has chronic medical conditions and is living alone. She had been unemployed for many years due to her medical conditions and relies on government payouts to sustain her living. She is in need of a sofa. Please Whatsapp Kritikaa at 8777 0959 to liase.",
+    "specifications": "1 Seater",
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
       "name": "Norlizawati Binte Hamid",
@@ -62,12 +18,56 @@
     "matches": {
       "passiton": [
         {
-          "id": "152128",
-          "name": "Super single bed frame and mattress",
-          "description": "Donating a super single bed frame with mattress.Would like to know how much is collection fee.",
+          "id": "152159",
+          "name": "Used Sofa",
+          "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "approx L120cm x B40cm x H65cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152161",
+          "name": "Used Sofa",
+          "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "approx L120cm x B40cm x H65cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152156",
+          "name": "2-Seater Sofa",
+          "description": "well used\nself-picked up; \nI won't pay for delivery\nThere is no option to choose NOT to pay for delivery. Even if this defaults to paying for delivery, I won't pay and won't arrange",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "13 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "200cmx80cmx60cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152144",
+          "name": "L shape sofa with arm chair",
+          "description": "L shaped sofa and arm chair to bless.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152115",
+          "name": "Single Reclining Sofa",
+          "description": "Great condition",
           "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "05 Jan 2026",
-          "ageInYears": 3,
+          "validTill": "16 Dec 2025",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -375,6 +375,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "152191",
+          "name": "Electric oven",
+          "description": "Brand new aged electric oven that has not been used before. Comes with skewers.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "14 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "152154",
           "name": "Cornell Oven Toaster",
           "description": "Model CT-25W. 700W. 9 litre capacity. Useful for toasting bread and reheating pastries. Top and bottom heating element. Well-used, working condition. Small dent on the back panel.",
@@ -420,6 +431,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "152191",
+          "name": "Electric oven",
+          "description": "Brand new aged electric oven that has not been used before. Comes with skewers.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "14 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "152151",
           "name": "Panasonic Electric Oven",
           "description": "Model NB-H3203 Electric oven. 1500W, 32 litre capacity.  Suitable for home baker. Can fit 2x12 cupcake trays at one go.\nAll original accessories included. Good condition. Double heater grill and convection. Double layered insulated glass.",
@@ -453,6 +475,17 @@
     "date": "01 Dec 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "152191",
+          "name": "Electric oven",
+          "description": "Brand new aged electric oven that has not been used before. Comes with skewers.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "14 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "152154",
           "name": "Cornell Oven Toaster",
@@ -498,6 +531,17 @@
     "date": "28 Nov 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "152191",
+          "name": "Electric oven",
+          "description": "Brand new aged electric oven that has not been used before. Comes with skewers.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "14 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "152154",
           "name": "Cornell Oven Toaster",
