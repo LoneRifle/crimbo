@@ -1,39 +1,5 @@
 [
   {
-    "id": "152229",
-    "category": "Home Furnishing",
-    "name": "King Size Bed Frame",
-    "description": "Nuclear family with 7 young children. Father works ad hoc and receives unstable income while mother is unable to work due to high caregiving needs. Family relies on SSO for financial assistance for their basic needs. Current bedframe is old and broken, and needs to be replaced.",
-    "specifications": "183cm x 190cm",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-      "name": "Phoo Thazin Moe",
-      "email": "phoothazinmoe@fycs.org",
-      "phone": [
-        "69783514",
-        "67625215"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152117",
-          "name": "Casterly King size wooden bed frame",
-          "description": "Need to collect latest by 20 Dec Morning due to moving house",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "20 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "152226",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -51,6 +17,17 @@
     "date": "16 Dec 2025",
     "matches": {
       "passiton": [
+        {
+          "id": "152235",
+          "name": "Super Single Mattress with bed frame",
+          "description": "Super single mattress c/w bed frame. Mattress was recently professionally cleaned and sanitized and not used by anyone since then.",
+          "location": null,
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": "Super single size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "152220",
           "name": "Super Single Mattress and Frame",
@@ -105,83 +82,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        },
-        {
-          "id": "151751",
-          "name": "Hospital Bed with Air Mattress",
-          "description": "Purchased Jan 2025",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Jan 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "152128",
-          "name": "Super single bed frame and mattress",
-          "description": "Donating a super single bed frame with mattress.Would like to know how much is collection fee.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "05 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "151897",
-          "name": "Electric hospital bed with remote, mattress, pillows, adjustable bedside table",
-          "description": "Good clean working condition. Mattress, pillows in good clean condition.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152225",
-    "category": "Home Furnishing",
-    "name": "Bed Mattress",
-    "description": "3 generation family whereby they need 2 new mattress as previous ones were thrown away as they were causing health problems for family. Elderly client had stopped working since being involved in car accident and middle-aged daughter had been recently diagnosed with cancer, both are not working.",
-    "specifications": "Single size",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Cynric Koh",
-      "email": "cynrickoh@allkin.org.sg",
-      "phone": [
-        "60384140"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152141",
-          "name": "Kingsize bedframe with mattress",
-          "description": "Wooden bed frame with mattress, mattress 2 years old.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "31 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "183cm x 190cm x 50cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "152135",
-          "name": "Queen size bedframe & mattress",
-          "description": "Good condition bedframe & mattress - queen size + queen size bedsheet & duvet + duvet cover",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         },
         {
           "id": "151751",
@@ -392,39 +292,6 @@
           "dimensions": "Single bed at top and super single bed at bottom",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152217",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
-    "specifications": "Similac Total Comfort Stage 3",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "151343",
-          "name": "NAN milk powder voucher-exp311225",
-          "description": "NAN milk powder voucher-exp311225",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "18 Dec 2025",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
