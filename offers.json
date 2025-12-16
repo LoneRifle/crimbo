@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "152191",
-    "name": "Electric oven",
-    "description": "Brand new aged electric oven that has not been used before. Comes with skewers.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "14 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152154",
     "name": "Cornell Oven Toaster",
     "description": "Model CT-25W. 700W. 9 litre capacity. Useful for toasting bread and reheating pastries. Top and bottom heating element. Well-used, working condition. Small dent on the back panel.",
@@ -95,17 +84,6 @@
     "validTill": "13 Jan 2026",
     "ageInYears": 4,
     "dimensions": "35cm x 20cm x 23cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "152151",
-    "name": "Panasonic Electric Oven",
-    "description": "Model NB-H3203 Electric oven. 1500W, 32 litre capacity.  Suitable for home baker. Can fit 2x12 cupcake trays at one go.\nAll original accessories included. Good condition. Double heater grill and convection. Double layered insulated glass.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "13 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "40cm x 60cm x 40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -209,6 +187,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "152232",
+    "name": "Massage chair",
+    "description": "Working massage chair",
+    "location": null,
+    "validTill": "01 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152222",
     "name": "IKEA Kallax shelving unit",
     "description": "IKEA Kalla shelving unit.\nPreloved\nMarks of usage take as it is\nFuncional\n- will help you send the unit if it’s near my area",
@@ -249,17 +238,6 @@
     "validTill": "31 Dec 2025",
     "ageInYears": 2,
     "dimensions": "Queen size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152145",
-    "name": "Glass display cabinet",
-    "description": "Wooden display cabinet in good condition to be given away.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,7 +319,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152159",
+    "id": "152161",
     "name": "Used Sofa",
     "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
@@ -352,7 +330,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152161",
+    "id": "152227",
+    "name": "Used Sofa",
+    "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "approx L120cm x B40cm x H65cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152228",
     "name": "Used Sofa",
     "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
@@ -825,6 +814,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "152224",
+    "name": "Phlegm suction machine",
+    "description": "Portable phlegm suction machine used only once. Come with catheters.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "152192",
     "name": "brand new commode",
     "description": "brand new commode",
@@ -974,17 +974,6 @@
     "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
     "validTill": "06 Jan 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "151905",
-    "name": "Commode",
-    "description": "Good condition",
-    "location": "Thomson",
-    "validTill": "05 Jan 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
