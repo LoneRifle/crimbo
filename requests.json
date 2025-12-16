@@ -1,5 +1,39 @@
 [
   {
+    "id": "152221",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Client has history of low mood, self-harm behaviours and suicidal ideations. Currently is living in a rental unit with her son and is working as a delivery rider to support both herself and son but finances are tight for her to manage both their expenses. Currently client is sleeping on the floor and is causing her to have back pains.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "16 Dec 2025"
+  },
+  {
+    "id": "152216",
+    "category": "Home Furnishing",
+    "name": "cabinet",
+    "description": "Family of 2, husband and wife are facing financial difficulty, and they require a cabinet to store essential items",
+    "specifications": "Height: 180cm, Depth: 50cm, Width: 80cm",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Evelyn  Chin",
+      "email": "evelynchin@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025"
+  },
+  {
     "id": "152209",
     "category": "Home Furnishing",
     "name": "Kitchen Cabinet / counter",
@@ -223,24 +257,6 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "11 Dec 2025"
-  },
-  {
-    "id": "152043",
-    "category": "Home Furnishing",
-    "name": "shelf",
-    "description": "Family of 3 with young child requires a shelf to place their items and furnish their new rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Dec 2025"
   },
   {
     "id": "152040",
@@ -661,24 +677,6 @@
     "date": "21 Nov 2025"
   },
   {
-    "id": "151477",
-    "category": "Home Furnishing",
-    "name": "Kitchen waist height cupboard",
-    "description": "Family of 5 requires a kitchen cabinet as theirs is broken. Father works as delivery rider, mother is having difficult pregnancy. 2 children have special needs. Pls feel free to email me if you have, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Poh Mei Ying",
-      "email": "poh_mei_ying@msf.gov.sg",
-      "phone": [
-        "67087143",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Nov 2025"
-  },
-  {
     "id": "151454",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -819,6 +817,57 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "17 Nov 2025"
+  },
+  {
+    "id": "152219",
+    "category": "Infant and Children Items",
+    "name": "Diaper - Pant Type",
+    "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+    "specifications": "Any Brand, Size XL",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025"
+  },
+  {
+    "id": "152218",
+    "category": "Infant and Children Items",
+    "name": "diapers and milk",
+    "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+    "specifications": "Rice & Mixed Fruit / Rice & Mixed Veg (No wheat or egg)",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025"
+  },
+  {
+    "id": "152217",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+    "specifications": "Similac Total Comfort Stage 3",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025"
   },
   {
     "id": "150896",
@@ -3424,6 +3473,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "21 Nov 2025"
+  },
+  {
+    "id": "152212",
+    "category": "Mobility Aids",
+    "name": "Wheelchair & Walking Frame (with wheels)",
+    "description": "Client is a caregiver for her mother who is currently hospitalised due to poor health. The wheelchair and walking frame are needed for client's mother. Client is staying in a 2 room rental flat and have limited support.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care COMIT @ Kreta Ayer",
+      "name": "Donavan Lai",
+      "email": "donavan.lai@montfortcare.org.sg",
+      "phone": [
+        "91726709",
+        "97115240"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025"
   },
   {
     "id": "152199",

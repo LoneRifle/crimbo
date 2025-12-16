@@ -1,5 +1,49 @@
 [
   {
+    "id": "152216",
+    "category": "Home Furnishing",
+    "name": "cabinet",
+    "description": "Family of 2, husband and wife are facing financial difficulty, and they require a cabinet to store essential items",
+    "specifications": "Height: 180cm, Depth: 50cm, Width: 80cm",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Evelyn  Chin",
+      "email": "evelynchin@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152145",
+          "name": "Glass display cabinet",
+          "description": "Wooden display cabinet in good condition to be given away.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "151967",
+          "name": "Small Black Storage Cabinet",
+          "description": "Lightly used cupboard used to store plates and cups next to dining table. In very good condition.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "28 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": "L 40cm x W 30cm x H106cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152208",
     "category": "Home Furnishing",
     "name": "Queen bed",
@@ -74,57 +118,12 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "152156",
-          "name": "2-Seater Sofa",
-          "description": "well used\nself-picked up; \nI won't pay for delivery\nThere is no option to choose NOT to pay for delivery. Even if this defaults to paying for delivery, I won't pay and won't arrange",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "13 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "200cmx80cmx60cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "152144",
           "name": "L shape sofa with arm chair",
           "description": "L shaped sofa and arm chair to bless.",
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
           "validTill": "31 Dec 2025",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152043",
-    "category": "Home Furnishing",
-    "name": "shelf",
-    "description": "Family of 3 with young child requires a shelf to place their items and furnish their new rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152139",
-          "name": "Wall mount shelf",
-          "description": "Stainless steel wall mount shelf\n\nDimensions: 40cmLx10cmW",
-          "location": null,
-          "validTill": "12 Jan 2026",
-          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -172,6 +171,39 @@
           "dimensions": "Single bed at top and super single bed at bottom",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152217",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+    "specifications": "Similac Total Comfort Stage 3",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "151343",
+          "name": "NAN milk powder voucher-exp311225",
+          "description": "NAN milk powder voucher-exp311225",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "18 Dec 2025",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -618,39 +650,6 @@
           "validTill": "13 Jan 2026",
           "ageInYears": 4,
           "dimensions": "40cm x 60cm x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151365",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "M/60 who is medically unfit to work and living alone in rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Nadiah Razak",
-      "email": "nadiah.razak@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Nov 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152152",
-          "name": "Apple TV 2nd gen",
-          "description": "2 sets avail. Delivery area to \nPunggol/ sengkang/ Tampines / Bedok preferred.",
-          "location": null,
-          "validTill": "13 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
