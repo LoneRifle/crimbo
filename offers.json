@@ -176,17 +176,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "152235",
-    "name": "Super Single Mattress with bed frame",
-    "description": "Super single mattress c/w bed frame. Mattress was recently professionally cleaned and sanitized and not used by anyone since then.",
-    "location": null,
-    "validTill": "31 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "Super single size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152233",
     "name": "Queen size cot",
     "description": "Queen size cot. Mattress not included. Just the cot frame.",
@@ -205,17 +194,6 @@
     "validTill": "01 Jan 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152222",
-    "name": "IKEA Kallax shelving unit",
-    "description": "IKEA Kalla shelving unit.\nPreloved\nMarks of usage take as it is\nFuncional\n- will help you send the unit if it’s near my area",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "76.5x149",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -898,6 +876,28 @@
     "validTill": "15 Jan 2026",
     "ageInYears": 3,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152236",
+    "name": "Walking stick",
+    "description": "Delivery only to selected East and Northeast area.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "89cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152237",
+    "name": "Walking stick",
+    "description": "Delivery only to selected East and Northeast area.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "89cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
