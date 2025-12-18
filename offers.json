@@ -1,5 +1,16 @@
 [
   {
+    "id": "152269",
+    "name": "Casual Clothes",
+    "description": "Casual clothes for young adult. Size M or waist size 30inches.\nT shirts, Trousers and Bermuda\nAll in good condition.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "152262",
     "name": "Worn Baby clothes (6-12mths), new cloth diapers",
     "description": "No stains.",
@@ -75,6 +86,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "152277",
+    "name": "Standing Fan, Airfryer, Breadmaker, Air Purifier",
+    "description": "All items lightly used.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "25 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "152154",
@@ -187,6 +209,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "152274",
+    "name": "Wooden bed frame",
+    "description": "Almost new premium wood bed frame for queen size mattress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "17 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": "205cm x 177cm x 120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152273",
+    "name": "Sofa bed",
+    "description": "Ikea ASKENÄSET sofa bed. \n\nThe middle of the sofa where it is folded/unfolded ha  sagged a bit due to wear and tear, but still functional. May not be suitable for elderly because (a) as a sofa, the seat may be too wide/deep, and (b) as a bed, it may be on the softer side. \n\n3 big cushions with synthetic inner filling. 2 smaller cushions with original down filling. \n\nSofa and cushion covers can be removed and washed. \n\nWill cover transport.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "17 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152265",
     "name": "Tv console",
     "description": "Good condition except a small peeling (20cent coin size) and middle drawer knob loose. All is good. Long shelf life.",
@@ -198,11 +242,22 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152233",
-    "name": "Queen size cot",
-    "description": "Queen size cot. Mattress not included. Just the cot frame.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Dec 2025",
+    "id": "152271",
+    "name": "Sofa bed",
+    "description": "Ikea ASKENÄSET sofa bed. \n\nSofa is on the soft side (i.e. not firm). The middle of the sofa where it is folded/unfolded has sagged a bit due to wear and tear, but still functional. \n\n3 big cushions with synthetic inner filling. 2 smaller cushions with original down filling. \n\nSofa and cushion covers can be removed and washed.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "16 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152272",
+    "name": "Sofa bed",
+    "description": "Ikea ASKENÄSET sofa bed. \n\nSofa is on the soft side (i.e. not firm). The middle of the sofa where it is folded/unfolded has sagged a bit due to wear and tear, but still functional. \n\n3 big cushions with synthetic inner filling. 2 smaller cushions with original down filling. \n\nSofa and cushion covers can be removed and washed.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "16 Jan 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -238,6 +293,28 @@
     "validTill": "19 Dec 2025",
     "ageInYears": 4,
     "dimensions": "L118.5cm x W51cm x H121.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152281",
+    "name": "TV console",
+    "description": "TV console and glass display cabinet to bless. In good condition.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152282",
+    "name": "TV console",
+    "description": "TV console and glass display cabinet to bless. In good condition.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },

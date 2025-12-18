@@ -161,6 +161,28 @@
           "dimensions": "148x47x57cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "152281",
+          "name": "TV console",
+          "description": "TV console and glass display cabinet to bless. In good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152282",
+          "name": "TV console",
+          "description": "TV console and glass display cabinet to bless. In good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -378,6 +400,39 @@
     }
   },
   {
+    "id": "152248",
+    "category": "Electrical Home Appliances",
+    "name": "Air Purifier",
+    "description": "The client is the sole breadwinner of a household of four and relies on ad-hoc work as a banquet server for income. She has been diagnosed with mental health conditions that affect her ability to function consistently at work. The client also has asthma, which has been aggravated by environmental conditions in the home, including frequent exposure to cats fur in the household.\n\nDue to financial constraints, the client is unable to afford an air purifier on her own. The provision of an air purifier would help to improve the home environment, reduce asthma triggers, and support the client’s health and capacity to continue caring for her family.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152277",
+          "name": "Standing Fan, Airfryer, Breadmaker, Air Purifier",
+          "description": "All items lightly used.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "25 Dec 2025",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152207",
     "category": "Electrical Home Appliances",
     "name": "Iron",
@@ -539,6 +594,28 @@
           "validTill": "31 Dec 2025",
           "ageInYears": 3,
           "dimensions": "148x47x57cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152281",
+          "name": "TV console",
+          "description": "TV console and glass display cabinet to bless. In good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152282",
+          "name": "TV console",
+          "description": "TV console and glass display cabinet to bless. In good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
