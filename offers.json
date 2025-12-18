@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "152285",
+    "name": "irene ng",
+    "description": "2 door fridge in working condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 3,
+    "dimensions": "1.4m height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "152277",
     "name": "Standing Fan, Airfryer, Breadmaker, Air Purifier",
     "description": "All items lightly used.",
@@ -271,28 +282,6 @@
     "validTill": "15 Jan 2026",
     "ageInYears": 2,
     "dimensions": "L190cm W105cm H25cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152186",
-    "name": "Study table",
-    "description": "L118.5cm x W51cm x H121.5cm, Height from floor to desk – 90cm",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "L118.5cm x W51cm x H121.5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152281",
-    "name": "TV console",
-    "description": "TV console and glass display cabinet to bless. In good condition.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -561,17 +550,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "152190",
-    "name": "Baby Clothes",
-    "description": "Baby Clothings for 6months - 2 years. We have plenty of other items for babies to donate. Please message me at 9119 7743. Prefer to give to one family.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "152123",
     "name": "IKEA children table",
     "description": "IKEA children round table.",
@@ -733,17 +711,6 @@
     "validTill": "31 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "151396",
-    "name": "Tefal Toaster",
-    "description": "In good condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "19 Dec 2025",
-    "ageInYears": 2,
-    "dimensions": "24 x 16cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
   },
@@ -1161,17 +1128,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "21 Dec 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "151363",
-    "name": "Cloth bag",
-    "description": "More than 20 cloth bags for grocery shopping.",
-    "location": null,
-    "validTill": "19 Dec 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
