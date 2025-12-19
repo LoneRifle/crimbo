@@ -88,17 +88,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "152296",
-    "name": "2 door fridge",
-    "description": "2 door fridge in working condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 3,
-    "dimensions": "1.4m height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152277",
     "name": "Standing Fan, Airfryer, Breadmaker, Air Purifier",
     "description": "All items lightly used.",
@@ -150,17 +139,6 @@
     "validTill": "05 Jan 2026",
     "ageInYears": 2,
     "dimensions": "20cmDia, hole 18cmDia",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "151864",
-    "name": "Fans, washer, heater, kettle,",
-    "description": "Fans, tv, massage chair, sofa, washer,",
-    "location": null,
-    "validTill": "04 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -218,6 +196,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152313",
+    "name": "IKEA Cupboard .",
+    "description": "3 panel cupboard with drawers",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "04 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": "180cm x 40cm x 105cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "152291",
@@ -451,7 +440,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151884",
+    "id": "152314",
     "name": "double deck bunk bedframe",
     "description": "Have a bunk bed frame that is in very good condition. \n\ntop single bed size L x W x H\n2.02m x 0.99m x 1.85m\n(for bed mattress size of single 90 x 190cm not more than 3 inch height)\n\nBottom Super single size l x W x H\n2.02m x 1.29m x 0.64m \n(for bed mattress size @ 120 x 190cm, height of mattress not more than 6 inch)",
     "location": "Farrer Park, Little India, Serangoon Road",
@@ -726,17 +715,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "152293",
-    "name": "Apple TV 2nd gen",
-    "description": "2 sets available. Preferred drop off at sengkang/ hougang / Tampines / Bedok area only.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "152224",
     "name": "Phlegm suction machine",
     "description": "Portable phlegm suction machine used only once. Come with catheters.",
@@ -823,6 +801,39 @@
     "dimensions": "A4",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "152311",
+    "name": "Foldable wheelchair",
+    "description": "Still in good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "18 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152310",
+    "name": "Bath chair",
+    "description": "Still in very good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "18 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152309",
+    "name": "Wheelchair",
+    "description": "Foldable wheelchair, still in good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "18 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "152234",
@@ -957,17 +968,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "151751",
-    "name": "Hospital Bed with Air Mattress",
-    "description": "Purchased Jan 2025",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "151750",
     "name": "Electrical hospital bed with compression unit",
     "description": "Electrical hospital bed with air bed compression machine",
@@ -1032,6 +1032,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "152305",
+    "name": "Plastic files and plastic filing sleeves",
+    "description": "Files and sleeve suitable for filing of documents for home office or for school worksheets and test papers.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "Suitable for A4 sized papers",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "152203",

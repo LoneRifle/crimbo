@@ -129,13 +129,80 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "151884",
+          "id": "152314",
           "name": "double deck bunk bedframe",
           "description": "Have a bunk bed frame that is in very good condition. \n\ntop single bed size L x W x H\n2.02m x 0.99m x 1.85m\n(for bed mattress size of single 90 x 190cm not more than 3 inch height)\n\nBottom Super single size l x W x H\n2.02m x 1.29m x 0.64m \n(for bed mattress size @ 120 x 190cm, height of mattress not more than 6 inch)",
           "location": "Farrer Park, Little India, Serangoon Road",
           "validTill": "04 Jan 2026",
           "ageInYears": 3,
           "dimensions": "Single bed at top and super single bed at bottom",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151483",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Client is living in a rental flat. Her wardrobe has spoiled and required a replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Rachel Fu",
+      "email": "rachel.fu@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152313",
+          "name": "IKEA Cupboard .",
+          "description": "3 panel cupboard with drawers",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "04 Jan 2026",
+          "ageInYears": 2,
+          "dimensions": "180cm x 40cm x 105cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "149727",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Low-income family comprising of elderly mother and daughter living in a rental unit is looking for a cupboard to replace their broken old one. If you are able to help, please contact Jessie at 96433400 or email jessielim@fycs.org. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Restorative Care Department",
+      "name": "Jessie Lim",
+      "email": "jessielim@fycs.org",
+      "phone": [
+        "96433400",
+        "91708900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152313",
+          "name": "IKEA Cupboard .",
+          "description": "3 panel cupboard with drawers",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "04 Jan 2026",
+          "ageInYears": 2,
+          "dimensions": "180cm x 40cm x 105cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -344,106 +411,6 @@
     }
   },
   {
-    "id": "152276",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "We are reaching out to support a dedicated mother who is the sole breadwinner and caregiver for her two children, ages 9 and 10. Despite her tireless efforts, she is facing financial hardship and significant stress in meeting her family’s basic needs and monthly expenses.\n \nMost recently, her refrigerator broke down right after she purchased groceries. The cost of replacing it is beyond her means, yet having a working fridge is essential for storing food and managing her household. Getting a refrigerator would greatly ease her financial burden and help ensure her children’s well-being.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Woodlands",
-      "name": "Joel Low",
-      "email": "joellow@carecorner.org.sg",
-      "phone": [
-        "63622481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152296",
-          "name": "2 door fridge",
-          "description": "2 door fridge in working condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": "1.4m height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152267",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client stays in a rental flat and currently not working due to health issues. Client required a halal fridge as her current fridge has spoiled.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Rachel Fu",
-      "email": "rachel.fu@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152296",
-          "name": "2 door fridge",
-          "description": "2 door fridge in working condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": "1.4m height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152254",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family of 3, living in a 2-room rental flat have been using their current fridge for many years. It has recently started to malfunction, and family does not have enough funds to purchase a brand new one. Family is hoping for one that they can use for their daily groceries and food storage. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Simon Salomon",
-      "email": "simon_salomon@msf.gov.sg",
-      "phone": [
-        "62319406",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152296",
-          "name": "2 door fridge",
-          "description": "2 door fridge in working condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": "1.4m height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "152207",
     "category": "Electrical Home Appliances",
     "name": "Iron",
@@ -470,39 +437,6 @@
           "validTill": "24 Dec 2025",
           "ageInYears": 2,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152110",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client just had a newborn a few months ago and just moved into a rental flat recently",
-    "specifications": "Halal fridge",
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Muhammad Suffian Bin Bahrin",
-      "email": "muhammadsuffian@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "12 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152296",
-          "name": "2 door fridge",
-          "description": "2 door fridge in working condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Dec 2025",
-          "ageInYears": 3,
-          "dimensions": "1.4m height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -651,17 +585,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152275",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "client is staying alone in a rental flat, her old wheelchair is broken. she needs a wheelchair for medical appointment. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Dec 2025",
+    "matches": {
+      "passiton": [
         {
-          "id": "152293",
-          "name": "Apple TV 2nd gen",
-          "description": "2 sets available. Preferred drop off at sengkang/ hougang / Tampines / Bedok area only.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "id": "152309",
+          "name": "Wheelchair",
+          "description": "Foldable wheelchair, still in good condition",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
           "validTill": "18 Jan 2026",
-          "ageInYears": 4,
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "152311",
+          "name": "Foldable wheelchair",
+          "description": "Still in good condition",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "18 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
