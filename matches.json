@@ -410,50 +410,5 @@
       ],
       "carousell": []
     }
-  },
-  {
-    "id": "152275",
-    "category": "Mobility Aids",
-    "name": "wheelchair",
-    "description": "client is staying alone in a rental flat, her old wheelchair is broken. she needs a wheelchair for medical appointment. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Thye Hua Kwan Moral Charities",
-      "name": "Penelope Lim",
-      "email": "penelope.lim@thkmc.org.sg",
-      "phone": [
-        "68461228",
-        "63371201"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152309",
-          "name": "Wheelchair",
-          "description": "Foldable wheelchair, still in good condition",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "18 Jan 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "152311",
-          "name": "Foldable wheelchair",
-          "description": "Still in good condition",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "18 Jan 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
   }
 ]
