@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "152341",
+    "name": "Electrolux Washing Machine and Dryer",
+    "description": "Sorry it is a bit old (9 years), but I've serviced both washing nachine and dryer and still use them regularly. Donating as its a bit too small for my meeds now and getting a bigger set.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "26 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "152336",
     "name": "AIR COOLER",
     "description": "Bought more than 5years but still functioning. We have got a new big ceiling fan so decided to giveaway instead of throw it.",
@@ -116,17 +127,6 @@
     "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "20 Jan 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "152329",
-    "name": "Blender",
-    "description": "Small blender.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "20 Jan 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -282,17 +282,6 @@
     "validTill": "18 Jan 2026",
     "ageInYears": 4,
     "dimensions": "37x50x118 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152331",
-    "name": "Reclining sofa 3+1",
-    "description": "Its a 3+1 seater",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "20 Jan 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -968,31 +957,9 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "152311",
-    "name": "Foldable wheelchair",
-    "description": "Still in good condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "152310",
     "name": "Bath chair",
     "description": "Still in very good condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "152309",
-    "name": "Wheelchair",
-    "description": "Foldable wheelchair, still in good condition",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "18 Jan 2026",
     "ageInYears": 1,
