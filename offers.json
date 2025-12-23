@@ -220,6 +220,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "152422",
+    "name": "Study table/ computer table",
+    "description": "Good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "26 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "120x80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152404",
     "name": "Super single size mattress",
     "description": "This is a used (few months only) super single size mattress.",
@@ -480,17 +491,6 @@
     "validTill": "31 Dec 2025",
     "ageInYears": 4,
     "dimensions": "6\" x 6\" x 12\"",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "152316",
-    "name": "Baby items (0 to 6 months)",
-    "description": "Baby items to bless including baby clothes",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -966,6 +966,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "152423",
+    "name": "Board Games",
+    "description": "Compendium of 11 board games incl Ludo, Chess, Chinese Checkers, Snakes n Ladders, etc.\nUsable condition.  Good for children or elderly to keep them occupied",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "22 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "152305",
