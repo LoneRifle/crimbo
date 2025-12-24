@@ -155,6 +155,51 @@
     }
   },
   {
+    "id": "152451",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "My 77-year-old patient with late stage cancer would like to get a TV, as he is homebound and unable to go out of the house. It would help with his quality of life. \n\nFamily is facing financial challenges as there is no income earner since his wife is the sole caregiver while their son has just started his diploma studies. \n\nIf keen to donate, please kindly contact me at 9727 4215. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Lim Yi Xi",
+      "email": "yixi_lim@singaporecancersociety.org.sg",
+      "phone": [
+        "97274215",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152265",
+          "name": "Tv console",
+          "description": "Good condition except a small peeling (20cent coin size) and middle drawer knob loose. All is good. Long shelf life.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 3,
+          "dimensions": "148x47x57cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152282",
+          "name": "TV console",
+          "description": "TV console and glass display cabinet to bless. In good condition.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "31 Dec 2025",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151838",
     "category": "Electrical Home Appliances",
     "name": "Oven",
