@@ -1,16 +1,5 @@
 [
   {
-    "id": "152269",
-    "name": "Casual Clothes",
-    "description": "Casual clothes for young adult. Size M or waist size 30inches.\nT shirts, Trousers and Bermuda\nAll in good condition.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "31 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "152262",
     "name": "Worn Baby clothes (6-12mths), new cloth diapers",
     "description": "No stains.",
@@ -86,6 +75,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "152431",
+    "name": "Speakers - Logitech",
+    "description": "Please self collect anytime. Speakers are in working condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "23 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "152335",
@@ -227,17 +227,6 @@
     "validTill": "26 Dec 2025",
     "ageInYears": 4,
     "dimensions": "120x80",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152404",
-    "name": "Super single size mattress",
-    "description": "This is a used (few months only) super single size mattress.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "26 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": "10\" x 75\" x 43\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
