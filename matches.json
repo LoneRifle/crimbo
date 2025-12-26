@@ -1,38 +1,5 @@
 [
   {
-    "id": "152473",
-    "category": "Home Furnishing",
-    "name": "Coffee table",
-    "description": "Low-income family of 3 in need of getting household appliances and furniture's for the new rental block.\n\nFather is serving the nation as a NSF. Mother is looking for a job.\nFather and mother reported not having any financial support from their family.\n\nAs such, the family faces trouble to purchasing household appliances like tv and coffee table.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152445",
-          "name": "Coffee table - solid wood",
-          "description": "Wooden coffee table to be given away.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "31 Dec 2025",
-          "ageInYears": 4,
-          "dimensions": "130cm x 48cm x 65cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "152444",
     "category": "Home Furnishing",
     "name": "single bed",
@@ -105,39 +72,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "151846",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client has 5 children, age 5, 4, 2, 1 years old and 22 days old. Client has been unemployed since birth of first child. Husband is on unpaid leave in order to support caregiving of children since client just gave birth, hence, is unable to receive his daily pay. Family is currently pending approval for financial assistance. Family hopes for urgent support of a few tins of Abbott Similac Gain 5MO Growing-up Milk Stage 3, a few packets of Huggies Pants L and Huggies Pants XXL. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152262",
-          "name": "Worn Baby clothes (6-12mths), new cloth diapers",
-          "description": "No stains.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "16 Jan 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
         }
       ],
       "carousell": []
@@ -274,6 +208,39 @@
           "dimensions": "35cm x 20cm x 23cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "151846",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client has 5 children, age 5, 4, 2, 1 years old and 22 days old. Client has been unemployed since birth of first child. Husband is on unpaid leave in order to support caregiving of children since client just gave birth, hence, is unable to receive his daily pay. Family is currently pending approval for financial assistance. Family hopes for urgent support of a few tins of Abbott Similac Gain 5MO Growing-up Milk Stage 3, a few packets of Huggies Pants L and Huggies Pants XXL. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152262",
+          "name": "Worn Baby clothes (6-12mths), new cloth diapers",
+          "description": "No stains.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "16 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Attires/Clothings"
         }
       ],
       "carousell": []
