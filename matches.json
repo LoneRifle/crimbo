@@ -112,6 +112,106 @@
     }
   },
   {
+    "id": "152267",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client stays in a rental flat and currently not working due to health issues. Client required a halal fridge as her current fridge has spoiled.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Rachel Fu",
+      "email": "rachel.fu@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152495",
+          "name": "Mini fridge",
+          "description": "Bought in Dec. Used only as an interim mini fridge for two weeks. Brand new condition.",
+          "location": "Singapore",
+          "validTill": "02 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": "44.5 cm x 47 cm x 49.5 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152254",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 3, living in a 2-room rental flat have been using their current fridge for many years. It has recently started to malfunction, and family does not have enough funds to purchase a brand new one. Family is hoping for one that they can use for their daily groceries and food storage. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Simon Salomon",
+      "email": "simon_salomon@msf.gov.sg",
+      "phone": [
+        "62319406",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152495",
+          "name": "Mini fridge",
+          "description": "Bought in Dec. Used only as an interim mini fridge for two weeks. Brand new condition.",
+          "location": "Singapore",
+          "validTill": "02 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": "44.5 cm x 47 cm x 49.5 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152110",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client just had a newborn a few months ago and just moved into a rental flat recently",
+    "specifications": "Halal fridge",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "12 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152495",
+          "name": "Mini fridge",
+          "description": "Bought in Dec. Used only as an interim mini fridge for two weeks. Brand new condition.",
+          "location": "Singapore",
+          "validTill": "02 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": "44.5 cm x 47 cm x 49.5 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151838",
     "category": "Electrical Home Appliances",
     "name": "Oven",
