@@ -1,5 +1,16 @@
 [
   {
+    "id": "152507",
+    "name": "New t-shirts",
+    "description": "New children's t-shirts. Some with designs.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": "Three boxes",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "152494",
     "name": "Jubah for Muslim men",
     "description": "Brand new in packaging long jubah for Muslim men, in size 56. Brand is Ikaf from Egypt. Should fit well for up to xl, maybe xxl (western size) for men. Purchased from Saudi. Hope to gift someone in time for Ramadhan.",
@@ -97,6 +108,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "152508",
+    "name": "Samsung LCD TV",
+    "description": "Samsung 40-inch LCD television set in good working condition.\nIt is more than 4 years old.\nIncludes remote control and accessories.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "40 x 25 x 28 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "152505",
@@ -231,6 +253,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "152513",
+    "name": "couch",
+    "description": "2 seater sofa with high back. good condition.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "18 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "106 (h) × 187(w)x  80(d)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152512",
+    "name": "2-seater sofa bed",
+    "description": "2-seater sofa bed, grey colour - no need to disassemble/assemble\nPls arrange for collection and I will pay, thanks",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "W145cmxH85cmxD95cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152510",
+    "name": "2 IKEA MINNE SINGLE BEDS",
+    "description": "MINNEN\nExt bed frame with slatted bed base, white",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "04 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": "80X200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152506",
+    "name": "Bed frame + mattress",
+    "description": "Bed frame with jute mattress. 2 units. Single size. Barely used.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "152503",
     "name": "Single bed frame and 3inch mattress",
     "description": "Single size bed frame and 3 inches mattress.\nUpgrading to super single, item is still in good condition and only available after 9 Jan.\nOk to pay max $30 delivery fee.",
@@ -359,17 +425,6 @@
     "validTill": "24 Jan 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152458",
-    "name": "Bedside table",
-    "description": "A small side table with two shelves - the height between the first and second shelf is about 25 cm.",
-    "location": null,
-    "validTill": "24 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "42 cm x 27 cm x 59 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -561,6 +616,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "152514",
+    "name": "Bicycles",
+    "description": "Three Decathlon children bicycles of varying sizes",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "04 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "152511",
+    "name": "I Angel Baby Carrier",
+    "description": "I Angel baby carrier in good condition to be given.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "152500",
     "name": "4pm",
     "description": "Random toys",
@@ -710,17 +787,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "31 Dec 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "151692",
-    "name": "Combi stroller baby jogger",
-    "description": "It is the older version of this \nhttps://sg.shp.ee/4VkMSVB",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "29 Dec 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -946,17 +1012,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "152477",
-    "name": "Toilet Chair with wheel",
-    "description": "Toilet Chair with wheel, can lock and unlock. Seat with cover. Can sit as a normal chair. the chair can be pushed throught HDB bathroom. Can get through the toliet bowl. Suitable for adult with mobility challenges and bowel control challenges.Strong and firm, water proof. Made with stainless steel.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "25 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": "42cm x 51 cm x 52 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "152453",
     "name": "Wheel chair",
     "description": "New",
@@ -1142,6 +1197,17 @@
     "dimensions": "NA",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "152515",
+    "name": "Clothes hangers",
+    "description": "20 x Clothes hangers",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "152489",

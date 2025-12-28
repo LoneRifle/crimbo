@@ -1,5 +1,38 @@
 [
   {
+    "id": "152487",
+    "category": "Home Furnishing",
+    "name": "2 Single Bed",
+    "description": "Member currently resides in a 2-room rental flat with her 4 children. Due to space and resource constraints, not all children have access to a bed. Member hopes to obtain two single-sized beds to improve the children’s sleeping arrangements and comfort. She has managed to secure double bed bunk bedframe donation and hopes to have the beds too for the children to sleep on.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Quak Mei Qing",
+      "email": "meiqing@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152510",
+          "name": "2 IKEA MINNE SINGLE BEDS",
+          "description": "MINNEN\nExt bed frame with slatted bed base, white",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "04 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": "80X200",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152444",
     "category": "Home Furnishing",
     "name": "single bed",
@@ -48,6 +81,50 @@
           "validTill": "01 Jan 2026",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152510",
+          "name": "2 IKEA MINNE SINGLE BEDS",
+          "description": "MINNEN\nExt bed frame with slatted bed base, white",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "04 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": "80X200",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152364",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Family consist of mother and son, and are currently under Comcare financial assistance for their daily necessities. Hence, it is challenging for them to obtain a sofa for their use at home.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2025",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152512",
+          "name": "2-seater sofa bed",
+          "description": "2-seater sofa bed, grey colour - no need to disassemble/assemble\nPls arrange for collection and I will pay, thanks",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "27 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "W145cmxH85cmxD95cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -117,6 +194,17 @@
           "dimensions": "148x47x57cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "152508",
+          "name": "Samsung LCD TV",
+          "description": "Samsung 40-inch LCD television set in good working condition.\nIt is more than 4 years old.\nIncludes remote control and accessories.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "27 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "40 x 25 x 28 inches",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
