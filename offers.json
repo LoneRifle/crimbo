@@ -176,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152597",
-    "name": "Queen size bed",
-    "description": "Foam Mattress Zinus Cooling Gel Memory Foam",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "29 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "152x190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152572",
     "name": "High table",
     "description": "Used high table \nHeight 1.34m\nLength 1.27m\nDepth 0.38m",
@@ -275,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152587",
-    "name": "Bed frame + mattress",
-    "description": "Bed frame with jute mattress. 2 units. Single size. Barely used.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "27 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152588",
     "name": "Bed frame + mattress",
     "description": "Bed frame with jute mattress. 2 units. Single size. Barely used.",
@@ -297,13 +275,24 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152503",
-    "name": "Single bed frame and 3inch mattress",
-    "description": "Single size bed frame and 3 inches mattress.\nUpgrading to super single, item is still in good condition and only available after 9 Jan.\nOk to pay max $30 delivery fee.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "Single bed",
+    "id": "152603",
+    "name": "Bed frame + mattress",
+    "description": "Bed frame with jute mattress. 2 units. Single size. Barely used.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152604",
+    "name": "Bed frame + mattress",
+    "description": "Bed frame with jute mattress. 2 units. Single size. Barely used.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -370,17 +359,6 @@
     "validTill": "09 Jan 2026",
     "ageInYears": 4,
     "dimensions": "1.20m x 0.6m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152460",
-    "name": "IKEA LACK Side Table - White",
-    "description": "- IKEA LACK side table\n- Color: White\n- Dimensions: 55x55cm\n- Perfect for: Small spaces, bedside table",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "24 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -583,17 +561,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "152459",
-    "name": "Stainless steel cooking pot",
-    "description": "Hardly used.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "01 Jan 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "152428",
     "name": "Kawai Upright Piano",
     "description": "Upright grand piano. Working perfectly fine. Giving away because I do not play it anymore. Small cracks on the keyboard, but the sound is great.",
@@ -704,23 +671,12 @@
     "category": "Medical Aids"
   },
   {
-    "id": "152595",
-    "name": "Push Chair",
-    "description": "Push type wheel chair which has only been tested once.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Jan 2026",
+    "id": "152607",
+    "name": "Hospital bed, air mattress and foam mat",
+    "description": "Items used for less than 2 months",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 Jan 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "152579",
-    "name": "Bion Wheelchair",
-    "description": "functioning wheelchair for donation",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "29 Jan 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -880,6 +836,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "152602",
+    "name": "Sea horse brand foldable bed for single pax",
+    "description": "Foldable bed for 1 pax",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "152596",
     "name": "Recumbent Exercise Bike",
     "description": "good for elderly to exercise in their own home. The digital control panel is not working, other than that, it's functioning perfectly well",
@@ -920,6 +887,28 @@
     "validTill": "16 Jan 2026",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152600",
+    "name": "Tena XXL diapers approx 30+ New Packs",
+    "description": "Brand new diapers just bought in November, unused as senior passed away.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": "Na",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "152601",
+    "name": "Tena XXL diapers approx 30+ New Packs",
+    "description": "Brand new diapers just bought in November, unused as senior passed away.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": "Na",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
