@@ -1,5 +1,57 @@
 [
   {
+    "id": "152635",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Low-income family of 4 requires two 2-door wardrobe as the current ones have become faulty after years of use. The family's income is unstable as both parents have multiple physical health issues.",
+    "specifications": "Length 80 x Width 42 x Height 180 cm",
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Andy Wee",
+      "email": "andywee@kkcs.org.sg",
+      "phone": [
+        "64854720",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2026"
+  },
+  {
+    "id": "152629",
+    "category": "Home Furnishing",
+    "name": "Foldable mattress",
+    "description": "A single mother living in an HDB rental flat with three children is working hard to create a safe and comfortable home. However, due to financial constraints, she cannot afford essential items. We hope to provide a foldable mattress for her eldest son to ensure he has a proper place to rest.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Irene Chua",
+      "email": "irene_chua@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2026"
+  },
+  {
+    "id": "152628",
+    "category": "Home Furnishing",
+    "name": "Kitchen Base Cabinets",
+    "description": "A single mother with three children living in an HDB rental flat is working hard to build an independent life. However, she lacks the financial means for essential furniture. We hope to provide a kitchen cabinet to safely place a gas stove and store the gas tank. Your support can make a real difference in creating a functional and secure home for this family.",
+    "specifications": "60x60x80cm",
+    "contact": {
+      "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+      "name": "Irene Chua",
+      "email": "irene_chua@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2026"
+  },
+  {
     "id": "152586",
     "category": "Home Furnishing",
     "name": "Coffee Table",
@@ -140,24 +192,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "26 Dec 2025"
-  },
-  {
-    "id": "152444",
-    "category": "Home Furnishing",
-    "name": "single bed",
-    "description": "bachelor 55 years old, weigh 125 kg. needs a single bed-frame and mattress. He has completed his one year program. He is currently staying in Highpoint halfway house and is promoted to a helper. As a helper he is sourcing for a super single bed as move into the helper room. It is also because of his size and weigh.",
-    "specifications": "standard size with bed frame",
-    "contact": {
-      "org": "HCSA Highpoint",
-      "name": "Stephen Ong",
-      "email": "stephen_ong@hcsa.org.sg",
-      "phone": [
-        "80207521",
-        "64402444"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "24 Dec 2025"
   },
   {
     "id": "152401",
@@ -506,6 +540,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Dec 2025"
+  },
+  {
+    "id": "152630",
+    "category": "Electrical Home Appliances",
+    "name": "Samsung Smart TV 43\"",
+    "description": "Family has two young children below 4 years old at their rental flat, and require a television as the one at home is malfunctioning. \n\nFather is sole breadwinner earning minimal, and mum is caregiving for the two children. The television helps mother get some respite during lunch time, where the children can be engaged.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Nicole Chew",
+      "email": "nicole.chew@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2026"
   },
   {
     "id": "152571",
@@ -1885,6 +1936,40 @@
     "date": "05 Dec 2025"
   },
   {
+    "id": "152642",
+    "category": "Infant and Children Items",
+    "name": "Milk powder (Pediasure) and diapers (Huggies sz L)",
+    "description": "Client is a 23y/o single mother caring for a 3 y/o who will benefit from these items.  Please send the items to the FSC.\nDo contact me at 83522798 if needed",
+    "specifications": null,
+    "contact": {
+      "org": "TRANS Family Service Centre (Bukit Timah)",
+      "name": "Geraldine Ng",
+      "email": "geraldine@trans.org.sg",
+      "phone": [
+        "64662287"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2026"
+  },
+  {
+    "id": "152636",
+    "category": "Infant and Children Items",
+    "name": "Similac Isomil Plus 1-10yr old",
+    "description": "Client has mental health condition, is a single parent with rental income but has many arrears, husband is incarcerated and only to be released in 2026.",
+    "specifications": "6x",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Jan 2026"
+  },
+  {
     "id": "152626",
     "category": "Infant and Children Items",
     "name": "Milk and diapers for two young children",
@@ -2575,6 +2660,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Dec 2025"
+  },
+  {
+    "id": "152633",
+    "category": "Learning Aids",
+    "name": "Handphone",
+    "description": "Client is requesting a handphone for her child, who has mild intellectual disability, as the child is about to start secondary school. The school is located some distance away, and the client hopes that providing a phone will help ensure the child’s safety during travel to and from school.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jan 2026"
   },
   {
     "id": "151960",
