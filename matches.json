@@ -1,5 +1,49 @@
 [
   {
+    "id": "152841",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Low-income family of 3 in need of getting household appliances and furniture's for the new rental block.\n\nFather is serving the nation as a NSF. Mother is looking for a job.\nFather and mother reported not having any financial support from their family.\n\nAs such, the family faces trouble to purchasing household appliances like TV and coffee table.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152687",
+          "name": "Tv sideboard",
+          "description": "Tv sideboard with internal shelving for storage for giveaway. Brown color.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "30 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "1.2m x 0.42m x 0.75m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152543",
+          "name": "Nice tv console",
+          "description": "Light brown with dark brown top tv console",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "28 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "1.5mx0.3mx0.43m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152819",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -306,6 +350,106 @@
           "dimensions": "127H x 54D x 50w cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152851",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame with Mattress",
+    "description": "Single Bed Frame with Mattress\nClient's room was recently damaged by fire and he is currently staying with son in a temporary flat arranged by HDB. Client is a dialysis patient and amputee, and requires a donated bed frame with mattress as the temporary flat has no furniture in place.",
+    "specifications": null,
+    "contact": {
+      "org": "National Kidney Foundation (NKF)",
+      "name": "Tay Jing Han",
+      "email": "jinghan.tay@nkfs.org",
+      "phone": [
+        "62990200",
+        "65062244"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152820",
+          "name": "Super single bed frame with 6\" mattress",
+          "description": "Nyatoh solid wood frame and 6\" thick firm mattress. Used as guest bed occasionally only.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "17 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "107 x 190 x 120 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152850",
+    "category": "Home Furnishing",
+    "name": "Super Single Mattress",
+    "description": "Client aged 62 requires a super single mattress following recent decluttering and fumigation by HABITAT for bed bugs. Existing mattress is unsuitable for use. Client is currently not working due to health conditions and requires assistance.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Nur Sabrina Binte Sanizal",
+      "email": "nur.sabrina@thkmc.org.sg",
+      "phone": [
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152820",
+          "name": "Super single bed frame with 6\" mattress",
+          "description": "Nyatoh solid wood frame and 6\" thick firm mattress. Used as guest bed occasionally only.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "17 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "107 x 190 x 120 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152842",
+    "category": "Home Furnishing",
+    "name": "Coffee table",
+    "description": "Low-income family of 3 in need of getting household appliances and furniture's for the new rental block.\n\nFather is serving the nation as a NSF. Mother is looking for a job.\nFather and mother reported not having any financial support from their family.\n\nAs such, the family faces trouble to purchasing household appliances like TV and coffee table.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152609",
+          "name": "Coffee Table",
+          "description": "Wooden coffee table, with two tempered glass panels top of table. Well-worn condition.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "30 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "L120cm x W60cm x H46cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
