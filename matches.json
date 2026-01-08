@@ -1,60 +1,5 @@
 [
   {
-    "id": "152841",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Low-income family of 3 in need of getting household appliances and furniture's for the new rental block.\n\nFather is serving the nation as a NSF. Mother is looking for a job.\nFather and mother reported not having any financial support from their family.\n\nAs such, the family faces trouble to purchasing household appliances like TV and coffee table.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152687",
-          "name": "Tv sideboard",
-          "description": "Tv sideboard with internal shelving for storage for giveaway. Brown color.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "30 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "1.2m x 0.42m x 0.75m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "152855",
-          "name": "Samsung TV Monitor",
-          "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "17.5 inch x 26.5 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "152543",
-          "name": "Nice tv console",
-          "description": "Light brown with dark brown top tv console",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "1.5mx0.3mx0.43m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "152819",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -105,39 +50,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152811",
-          "name": "Fridge",
-          "description": "Old but functional \nFreezer included",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "06 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "127H x 54D x 50w cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152740",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Single mother with 4 school-going children, living in rental flat and surviving solely on SSO assistance. Existing refrigerator is rusty and not as cold, will need assistance to replace it.",
-    "specifications": "75cm*90cm (ht not an issue)",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Tey Mei Qi",
-      "email": "teymeiqi@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Jan 2026",
     "matches": {
       "passiton": [
         {
@@ -250,6 +162,17 @@
           "dimensions": "1.2m x 0.42m x 0.75m",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "152860",
+          "name": "Samsung TV monitor",
+          "description": "We are decluttering and would like to find a home for the reasonably good TV monitor.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "32 inch X 21 Inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         },
         {
           "id": "152855",
@@ -372,84 +295,6 @@
           "dimensions": "127H x 54D x 50w cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152842",
-    "category": "Home Furnishing",
-    "name": "Coffee table",
-    "description": "Low-income family of 3 in need of getting household appliances and furniture's for the new rental block.\n\nFather is serving the nation as a NSF. Mother is looking for a job.\nFather and mother reported not having any financial support from their family.\n\nAs such, the family faces trouble to purchasing household appliances like TV and coffee table.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152609",
-          "name": "Coffee Table",
-          "description": "Wooden coffee table, with two tempered glass panels top of table. Well-worn condition.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "30 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "L120cm x W60cm x H46cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152723",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Family of four just shifted into a rental flat at Yishun. Both adults are currently unemployed. Two young children below the age of 7.\n\nThere is a lack of basic furnishings and household items.  They only have a washing machine and fan and two mattresses so far.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Edwin Wee",
-      "email": "edwin_kh_wee@msf.gov.sg",
-      "phone": [
-        "62319460",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152611",
-          "name": "Display Cabinet",
-          "description": "Wooden display cabinet. Well-worn condition. Certain spots are chipped.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "30 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "L60cm x W40cm x H120cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "152523",
-          "name": "Toyogo Plastic Storage Cabinet",
-          "description": "Qty: 3\n40x95x50 [L x H x D]\nPreloved Toyogo Storage Cabinets to give away.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "28 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "40x95x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
