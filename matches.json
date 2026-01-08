@@ -29,6 +29,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "152855",
+          "name": "Samsung TV Monitor",
+          "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "17.5 inch x 26.5 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "152543",
           "name": "Nice tv console",
           "description": "Light brown with dark brown top tv console",
@@ -241,6 +252,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "152855",
+          "name": "Samsung TV Monitor",
+          "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "17.5 inch x 26.5 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "152543",
           "name": "Nice tv console",
           "description": "Light brown with dark brown top tv console",
@@ -356,73 +378,6 @@
     }
   },
   {
-    "id": "152851",
-    "category": "Home Furnishing",
-    "name": "Single Bed Frame with Mattress",
-    "description": "Single Bed Frame with Mattress\nClient's room was recently damaged by fire and he is currently staying with son in a temporary flat arranged by HDB. Client is a dialysis patient and amputee, and requires a donated bed frame with mattress as the temporary flat has no furniture in place.",
-    "specifications": null,
-    "contact": {
-      "org": "National Kidney Foundation (NKF)",
-      "name": "Tay Jing Han",
-      "email": "jinghan.tay@nkfs.org",
-      "phone": [
-        "62990200",
-        "65062244"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152820",
-          "name": "Super single bed frame with 6\" mattress",
-          "description": "Nyatoh solid wood frame and 6\" thick firm mattress. Used as guest bed occasionally only.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "17 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "107 x 190 x 120 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152850",
-    "category": "Home Furnishing",
-    "name": "Super Single Mattress",
-    "description": "Client aged 62 requires a super single mattress following recent decluttering and fumigation by HABITAT for bed bugs. Existing mattress is unsuitable for use. Client is currently not working due to health conditions and requires assistance.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Geylang",
-      "name": "Nur Sabrina Binte Sanizal",
-      "email": "nur.sabrina@thkmc.org.sg",
-      "phone": [
-        "68461228"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152820",
-          "name": "Super single bed frame with 6\" mattress",
-          "description": "Nyatoh solid wood frame and 6\" thick firm mattress. Used as guest bed occasionally only.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "17 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "107 x 190 x 120 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "152842",
     "category": "Home Furnishing",
     "name": "Coffee table",
@@ -448,40 +403,6 @@
           "validTill": "30 Jan 2026",
           "ageInYears": 4,
           "dimensions": "L120cm x W60cm x H46cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152777",
-    "category": "Home Furnishing",
-    "name": "Super single Mattress",
-    "description": "Family has 2 school going children with father being the sole breadwinner as mother is unable to work due to health issues. Mother requires a brand new super single mattress due to skin allergy issues, and her current one being worn out. Please Whatsapp me at 62319407 if you are able to donate a suitable one to the client, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Fatimah Azzahrah",
-      "email": "fatimah_azzahrah_noor@msf.gov.sg",
-      "phone": [
-        "62319407",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152820",
-          "name": "Super single bed frame with 6\" mattress",
-          "description": "Nyatoh solid wood frame and 6\" thick firm mattress. Used as guest bed occasionally only.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "17 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "107 x 190 x 120 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
