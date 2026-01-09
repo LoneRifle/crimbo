@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "152872",
+    "name": "Fridge",
+    "description": "Very new condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": "520 x 570 x 1400",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "152860",
     "name": "Samsung TV monitor",
     "description": "We are decluttering and would like to find a home for the reasonably good TV monitor.",
@@ -128,17 +139,6 @@
     "validTill": "20 Jan 2026",
     "ageInYears": 4,
     "dimensions": "H120cm x W30cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "152327",
-    "name": "Rice cooker",
-    "description": "Lightly used rice cooker PowerPac",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "20 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -385,17 +385,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152667",
-    "name": "Bed frame + mattress",
-    "description": "Bed frame with jute mattress. 2 units. Single size. Barely used.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "27 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152498",
     "name": "Black Leather Electric Recliner sofa",
     "description": "3 Seater Sofa with 1 electric recliner. One piece furniture and will need a big vehicle for collection.",
@@ -471,6 +460,17 @@
     "dimensions": "Single",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152871",
+    "name": "Baby & kid items(see list below)",
+    "description": "IKEA cot & mattress & bumper & sheets \n2 IKEA High chairs \nTravel cot\n1 potty\nKiddy push-along trolley \nKiddy ride-on car",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "See photos",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152818",
