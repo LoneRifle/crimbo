@@ -1,5 +1,49 @@
 [
   {
+    "id": "152884",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a single dad and is moving into a new rental home. He needs a fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152872",
+          "name": "Fridge",
+          "description": "Very new condition.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "22 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": "520 x 570 x 1400",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "152811",
+          "name": "Fridge",
+          "description": "Old but functional \nFreezer included",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "06 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "127H x 54D x 50w cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152819",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -228,17 +272,6 @@
           "dimensions": "17.5 inch x 26.5 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "152543",
-          "name": "Nice tv console",
-          "description": "Light brown with dark brown top tv console",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "1.5mx0.3mx0.43m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -378,31 +411,130 @@
     }
   },
   {
-    "id": "152654",
+    "id": "152885",
     "category": "Home Furnishing",
-    "name": "TV Console",
-    "description": "This is a 3-generation household consisting of grandparents in their late 50s, a single mother and 3 school-going children. The family has been allocated a rental flat and is looking for a TV Console. Family is under financial assistance.",
+    "name": "Sofa",
+    "description": "Client is a single dad moving into his new rental flat. He needs a sofa as he lives with his other siblings as well and he needs to sleep in the living room.",
     "specifications": null,
     "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Khairunisa Binte Rusli",
-      "email": "khairunisarusli@kkcs.org.sg",
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
       "phone": [
-        "62997662"
+        "64761481"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jan 2026",
+    "date": "09 Jan 2026",
     "matches": {
       "passiton": [
         {
-          "id": "152543",
-          "name": "Nice tv console",
-          "description": "Light brown with dark brown top tv console",
+          "id": "152809",
+          "name": "Sofa",
+          "description": "Main sofa is around 230cm x 70cm. Side chairs are around 80cm x 60cm.\n\nWill not pay for collection. Self collect only",
           "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "05 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152695",
+          "name": "Sofa",
+          "description": "2.5 seater sofa. Grey color fabric.",
+          "location": null,
+          "validTill": "15 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "L 186cm, H 42cm, W 80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152666",
+          "name": "Sofa set",
+          "description": "Set includes a 2-seater, coffee table and a side table. Original teak wood, cushion is one year old.\nPreferably collect on 29-30 Jan.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "W163 D71 H68cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152562",
+          "name": "Recliner sofa. A small tear",
+          "description": "Single recliner sofa with a small tear on the leather back support.",
+          "location": null,
           "validTill": "28 Jan 2026",
           "ageInYears": 4,
-          "dimensions": "1.5mx0.3mx0.43m",
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152547",
+          "name": "Two Seaters Fabric Sofa",
+          "description": "Well used Cream Color Two Seaters Fabric Sofa \n\nI will not cover transport fees.\n\nNote* 2 man can carry this ideally with a trolley for support",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "28 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "Length 158cm, Depth 100cm, Height 60cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152498",
+          "name": "Black Leather Electric Recliner sofa",
+          "description": "3 Seater Sofa with 1 electric recliner. One piece furniture and will need a big vehicle for collection.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "26 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "320x200x100",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152881",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "An elderly couples staying in rental require 1 cupboard or cabinet or shelf without door, as they old furniture is broken.\nthank you",
+    "specifications": "Height: 150cm to 180cm, Length: 60cm to 80cm",
+    "contact": {
+      "org": "MWS Wesley Active Ageing Centre - Jalan Berseh",
+      "name": "Hsu Hsia Yang",
+      "email": "hsuhsiayang@mws.sg",
+      "phone": [
+        "62980194"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "09 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152611",
+          "name": "Display Cabinet",
+          "description": "Wooden display cabinet. Well-worn condition. Certain spots are chipped.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "30 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "L60cm x W40cm x H120cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152523",
+          "name": "Toyogo Plastic Storage Cabinet",
+          "description": "Qty: 3\n40x95x50 [L x H x D]\nPreloved Toyogo Storage Cabinets to give away.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "28 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "40x95x50",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
