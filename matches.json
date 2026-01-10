@@ -488,50 +488,6 @@
     }
   },
   {
-    "id": "152881",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "An elderly couples staying in rental require 1 cupboard or cabinet or shelf without door, as they old furniture is broken.\nthank you",
-    "specifications": "Height: 150cm to 180cm, Length: 60cm to 80cm",
-    "contact": {
-      "org": "MWS Wesley Active Ageing Centre - Jalan Berseh",
-      "name": "Hsu Hsia Yang",
-      "email": "hsuhsiayang@mws.sg",
-      "phone": [
-        "62980194"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "09 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152611",
-          "name": "Display Cabinet",
-          "description": "Wooden display cabinet. Well-worn condition. Certain spots are chipped.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "30 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "L60cm x W40cm x H120cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "152523",
-          "name": "Toyogo Plastic Storage Cabinet",
-          "description": "Qty: 3\n40x95x50 [L x H x D]\nPreloved Toyogo Storage Cabinets to give away.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "28 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "40x95x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "152208",
     "category": "Home Furnishing",
     "name": "Queen bed",
@@ -560,6 +516,73 @@
           "dimensions": "Queen Size Bed Frame",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152869",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client had suffered a stroke last year, and her mobility is weak. Recently her legs started feeling pain and have become swollen, affecting her mobility and putting her at risk of falling. A wheelchair would allow her husband to push her for her medical appointments.For further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152893",
+          "name": "Wheelchair",
+          "description": "New wheelchair, can be used as walker or wheelchair. Brandnew",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152844",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Mr Zul lives with his spouse in a 2 room rental flat. Mr Zul has visual impairment and is wheelchair bound. \n\nThe wheelchair that Mr Zul purchased from carousell a few years ago had spoilt, putting him in a safety risk. \n\nA new wheelchair would help him to regain his mobility in a safe manner, so that his spouse would also be able to wheel him with confidence. \n\nIf there are any leads, feel free to contact me, Sabrina at 82922208. thank u!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Sabrina Wong",
+      "email": "sabrina.wong@thkmc.org.sg",
+      "phone": [
+        "63371201",
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152893",
+          "name": "Wheelchair",
+          "description": "New wheelchair, can be used as walker or wheelchair. Brandnew",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []

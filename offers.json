@@ -803,6 +803,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "152893",
+    "name": "Wheelchair",
+    "description": "New wheelchair, can be used as walker or wheelchair. Brandnew",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "31 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "152328",
     "name": "Hospital bed",
     "description": "Electric bed",
