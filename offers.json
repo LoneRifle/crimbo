@@ -121,17 +121,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "152912",
-    "name": "Queen Bed",
-    "description": "- Queen Size Bed\n\n- 2 years old, Great condition (no stains or wear & tear)\n\n- King Koil Aloe Vera mattress\n\n- Comfortable top layer\n\n- Comes with Bed frame",
-    "location": null,
-    "validTill": "31 Jan 2026",
-    "ageInYears": 2,
-    "dimensions": "Queen Size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "152898",
     "name": "IKEA Vesteroy Queen Size Mattress",
     "description": "Only used for 1 month for guest staying.\n\nImmaculate and clean and used with Mattress Protector (provided)\n\nSmall scuff marks due to damage unpacking.",
@@ -304,17 +293,6 @@
     "validTill": "30 Jan 2026",
     "ageInYears": 4,
     "dimensions": "L60cm x W40cm x H170cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152609",
-    "name": "Coffee Table",
-    "description": "Wooden coffee table, with two tempered glass panels top of table. Well-worn condition.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "30 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "L120cm x W60cm x H46cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -737,10 +715,21 @@
     "category": "Medical Aids"
   },
   {
+    "id": "152915",
+    "name": "Mobility scooter",
+    "description": "Mum has pass on, had a mobility scooter to donate, however batt is flat & need replace. Good condition seldom use. Have self collect.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "11 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "Na",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "152899",
     "name": "wheelchair and commode",
     "description": "one wheelchair and two commode.\nThe wheelchair has a bit rusty on the handle",
-    "location": "Balestier, Toa Payoh",
+    "location": "Seng Kang",
     "validTill": "10 Feb 2026",
     "ageInYears": 3,
     "dimensions": null,
