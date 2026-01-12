@@ -217,6 +217,17 @@
           "dimensions": "17.5 inch x 26.5 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "152956",
+          "name": "Panasonic 55” TV",
+          "description": "55 inches TV to give away. In good working condition and comes with remote control.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "55 inches TV",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -238,40 +249,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "18 Dec 2025",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152811",
-          "name": "Fridge",
-          "description": "Old but functional \nFreezer included",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "06 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "127H x 54D x 50w cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152254",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family of 3, living in a 2-room rental flat have been using their current fridge for many years. It has recently started to malfunction, and family does not have enough funds to purchase a brand new one. Family is hoping for one that they can use for their daily groceries and food storage. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Simon Salomon",
-      "email": "simon_salomon@msf.gov.sg",
-      "phone": [
-        "62319406",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Dec 2025",
     "matches": {
       "passiton": [
         {
@@ -317,6 +294,61 @@
           "dimensions": "127H x 54D x 50w cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152961",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Diapers\nClient lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 10, 5, 4, and 1. The family is currently facing financial challenges due to bankruptcy and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL and Drypers Superdry Pants XXL for their young children. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152600",
+          "name": "Tena XXL diapers approx 30+ New Packs",
+          "description": "Brand new diapers just bought in November, unused as senior passed away.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": "Na",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "152601",
+          "name": "Tena XXL diapers approx 30+ New Packs",
+          "description": "Brand new diapers just bought in November, unused as senior passed away.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": "Na",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "152262",
+          "name": "Worn Baby clothes (6-12mths), new cloth diapers",
+          "description": "No stains.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "16 Jan 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Attires/Clothings"
         }
       ],
       "carousell": []
