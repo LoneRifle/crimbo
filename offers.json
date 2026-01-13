@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "152811",
-    "name": "Fridge",
-    "description": "Old but functional \nFreezer included",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "06 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": "127H x 54D x 50w cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "152589",
     "name": "Kettle & Water Dispenser",
     "description": "Water dispenser is working well except that the top lid area is rusty. Have 2 identical water dispensers to give away if can be used.\n\nWill throw away if not wanted by anyone.",
@@ -119,6 +108,39 @@
     "dimensions": "H120cm x W30cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "152988",
+    "name": "2 seater Fabric Sofa",
+    "description": "Still in good condition 2 seater.\nIUIGA Rivera Fabric Sofa\nColor: Light Grey\nSize: 209 x 95 x 76.5 (cm)",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "22 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": "209 x 95 x 76.5 (cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152984",
+    "name": "Chest of Drawers",
+    "description": "Chest of drawers from IKEA. Lightly used.  In good condition.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "12 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "80cm x 50cm x 123cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "152982",
+    "name": "Sofa Set (3+2 Seater)",
+    "description": "The set consists of a black leather three-seater and two-seater sofa with thick armrests and adjustable, tiltable headrests, accompanied by a coffee table.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "14 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "152980",
@@ -429,15 +451,15 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "152330",
-    "name": "Geriatric chair",
-    "description": "Manual geriatric chair",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "20 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
+    "id": "152985",
+    "name": "Nuna Sena Aire Playard & Travel Crib",
+    "description": "A good night’s sleep is in the palm of your hands. The SENA aire opens with just that—in seconds. Its Advanced air design™ provides 360° of ventilation for ultimate airflow and super-fresh, deep sleeps. All so you can easily turn any room into your baby’s room. Suitable from newborn to 15kg",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": "L100 x W73 x H73 cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
     "id": "152979",
@@ -671,6 +693,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "152991",
+    "name": "CASIO fx-82MS Scientific Calculator",
+    "description": "CASIO fx-82MS Scientific Calculator",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "24 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": "20 x 20 x 20 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
     "id": "152867",
     "name": "Learning Materials",
     "description": "Science past year papers",
@@ -732,17 +765,6 @@
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "09 Feb 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "152785",
-    "name": "Geriatric Chair",
-    "description": "Geriatric chair for elderly to sit out of bed. Good condition, hardly used.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "05 Feb 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
@@ -900,6 +922,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "152987",
+    "name": "Tena Value Diapers (M size)",
+    "description": "We have 17 unopened packets of Tena Value M size diapers to give away. There are 12 pieces inside each packet.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "12 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "152911",
