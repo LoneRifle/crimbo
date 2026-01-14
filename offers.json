@@ -1,16 +1,5 @@
 [
   {
-    "id": "152507",
-    "name": "New t-shirts",
-    "description": "New children's t-shirts. Some with designs.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "27 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "Three boxes",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "152262",
     "name": "Worn Baby clothes (6-12mths), new cloth diapers",
     "description": "No stains.",
@@ -108,6 +97,39 @@
     "dimensions": "H120cm x W30cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "153036",
+    "name": "queen size bed and mattress",
+    "description": "queen bed and mattress. USED for 2 years by a single.Similar to the picture. Need to replace with hospital bed.",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "09 Feb 2026",
+    "ageInYears": 2,
+    "dimensions": "queen size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153035",
+    "name": "Dinning table",
+    "description": "Good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "83cmx150cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153030",
+    "name": "Two working lamps / good for someone setting up new home",
+    "description": "Two good condition ceramic lamps, light blue in colour.  Suitable for someone setting up a new home or wanting to make their home better.",
+    "location": null,
+    "validTill": "13 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "153006",
@@ -293,17 +315,6 @@
     "validTill": "17 Jan 2026",
     "ageInYears": 3,
     "dimensions": "190x1900",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152666",
-    "name": "Sofa set",
-    "description": "Set includes a 2-seater, coffee table and a side table. Original teak wood, cushion is one year old.\nPreferably collect on 29-30 Jan.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "31 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "W163 D71 H68cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },

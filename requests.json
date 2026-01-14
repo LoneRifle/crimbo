@@ -1,5 +1,59 @@
 [
   {
+    "id": "153037",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Single mom who is 20 y/o has a 1 year old son. Her own mother has recently left home and thus she is supporting her younger siblings as well ranging from 8 to 18 years old. She will need assistance to get a new washing machine as their current one is spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Gan Wan Lin",
+      "email": "wanlin.gan@reach.org.sg",
+      "phone": [
+        "68010735",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jan 2026"
+  },
+  {
+    "id": "153033",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client who is now on Long-home-leave requested for a 55 inch smart television. He is under curfew and wish to spend his time watching movies with his family. He will be another 14 months curfew.",
+    "specifications": "55 inches",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "14 Jan 2026"
+  },
+  {
+    "id": "153032",
+    "category": "Electrical Home Appliances",
+    "name": "Neck massager",
+    "description": "Client is a 84-year-old senior who lives alone. She experiences immense back/neck pains that causes her great discomfort and results in a hunch. She also has leg pains and this caused her to stop going out for activities. Client would greatly benefit from a neck massager that can alleviate the pain in her pressure points around her neck.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Szandra Law",
+      "email": "szandralaw@fycs.org",
+      "phone": [
+        "96421760",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jan 2026"
+  },
+  {
     "id": "153027",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -667,24 +721,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Jan 2026"
-  },
-  {
-    "id": "152672",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Resident of HCSA Highpoint who has completed his 6 months program. He is now in his 3rd month on Long-home-leave. He is doing well and wants to enjoy watching television at home with his family.",
-    "specifications": "55 inches",
-    "contact": {
-      "org": "HCSA Highpoint",
-      "name": "Stephen Ong",
-      "email": "stephen_ong@hcsa.org.sg",
-      "phone": [
-        "80207521",
-        "64402444"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "02 Jan 2026"
   },
   {
     "id": "145911",
@@ -3453,60 +3489,6 @@
     "date": "15 Dec 2025"
   },
   {
-    "id": "153021",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Erhu music instrument",
-    "description": "Client has diagnosed schizophrenia and is unemployed. He helps to take care of his mother with dementia. He enjoys playing musical instruments such as the keyboard and erhu, but does not own an erhu. He is keen to have one and does not mind a secondhand item.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Szandra Law",
-      "email": "szandralaw@fycs.org",
-      "phone": [
-        "96421760",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Jan 2026"
-  },
-  {
-    "id": "152870",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Treadmill for home exercise",
-    "description": "Client has a visual impairment that limits her mobility outside of home. As she is unemployed, she is unable to finance a new equipment. However, she is severely underweight and will benefit from having a treadmill to complete home exercises to build muscle mass and strength.",
-    "specifications": null,
-    "contact": {
-      "org": "Touch Community Services - Enabling Services Hub",
-      "name": "Joan Peh",
-      "email": "joan.peh@touch.org.sg",
-      "phone": [
-        "60228227",
-        "60228264"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jan 2026"
-  },
-  {
-    "id": "152447",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Laptop",
-    "description": "Bachelor has completed his one year program in Highpoint halfway house. He is currently promoted to be a helper. He is requesting for a laptop to further enhanced his computer skills to secure a better job. It will also help to explore the world outside as a leisure.",
-    "specifications": "standard size",
-    "contact": {
-      "org": "HCSA Highpoint",
-      "name": "Stephen Ong",
-      "email": "stephen_ong@hcsa.org.sg",
-      "phone": [
-        "80207521",
-        "64402444"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "24 Dec 2025"
-  },
-  {
     "id": "153022",
     "category": "Medical Aids",
     "name": "Male portable urinal (new)",
@@ -3683,6 +3665,60 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Jan 2026"
+  },
+  {
+    "id": "153034",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Laptop",
+    "description": "Client on Long-home-leave wish to learn to use a laptop and to upgrade himself. He is currently under curfew at home and wish to spend his time productively.",
+    "specifications": "any size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "14 Jan 2026"
+  },
+  {
+    "id": "153021",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Erhu music instrument",
+    "description": "Client has diagnosed schizophrenia and is unemployed. He helps to take care of his mother with dementia. He enjoys playing musical instruments such as the keyboard and erhu, but does not own an erhu. He is keen to have one and does not mind a secondhand item.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Szandra Law",
+      "email": "szandralaw@fycs.org",
+      "phone": [
+        "96421760",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jan 2026"
+  },
+  {
+    "id": "152870",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Treadmill for home exercise",
+    "description": "Client has a visual impairment that limits her mobility outside of home. As she is unemployed, she is unable to finance a new equipment. However, she is severely underweight and will benefit from having a treadmill to complete home exercises to build muscle mass and strength.",
+    "specifications": null,
+    "contact": {
+      "org": "Touch Community Services - Enabling Services Hub",
+      "name": "Joan Peh",
+      "email": "joan.peh@touch.org.sg",
+      "phone": [
+        "60228227",
+        "60228264"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jan 2026"
   },
   {
     "id": "153007",
