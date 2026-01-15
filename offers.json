@@ -1,16 +1,5 @@
 [
   {
-    "id": "152262",
-    "name": "Worn Baby clothes (6-12mths), new cloth diapers",
-    "description": "No stains.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "16 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "153038",
     "name": "Electric Toaster",
     "description": "Toaster in good working condition.\n\nI can deliver ONLY to South/Central areas.",
@@ -616,17 +605,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "152259",
-    "name": "ikea floor potty",
-    "description": "ikea floor potty - like new",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "16 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "152955",
     "name": "Plates",
     "description": "Seldom been used, so it has few defects and looks relatively new.",
@@ -647,6 +625,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "153096",
+    "name": "Leg Stretcher",
+    "description": "Equipment to stretch the legs",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "14 Feb 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "152617",
@@ -748,17 +737,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "153093",
-    "name": "Shower Chair",
-    "description": "Never used before shower chair, was only kept in storage.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "14 Feb 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "153070",
     "name": "Non sterile cotton wool roll",
     "description": "cotton wool roll",
@@ -856,6 +834,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "153097",
+    "name": "Shower Chair",
+    "description": "Shower Chair",
+    "location": null,
+    "validTill": "14 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "153072",
@@ -1051,17 +1040,6 @@
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "28 Jan 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "152515",
-    "name": "Clothes hangers",
-    "description": "20 x Clothes hangers",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Jan 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
