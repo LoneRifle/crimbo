@@ -22,13 +22,24 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "153152",
-    "name": "Home camera",
-    "description": "Vida by Fermax\nSmart Home Gateway with FHD Pan & Tilt camera (brand new)",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "id": "153154",
+    "name": "Stainless Steel Kettle",
+    "description": "A basic, but robust 1.8l stainless steel electric kettle.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "16 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": "24.5 x 17 x 23.5 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "153153",
+    "name": "Basic Air Fryer",
+    "description": "Brand new, barely used basic air fryer with a rotary-type timer and operation. Cooking temperature is not adjustable i.e. fixed, and cooking method is based on length of cooking time rather than a combination of adjustable temperature + time.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "16 Feb 2026",
     "ageInYears": 1,
-    "dimensions": null,
+    "dimensions": "30 x 23 x 23.5 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -143,28 +154,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "153148",
-    "name": "Noa Sofa Cream",
-    "description": "Very good condition sofa",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153147",
-    "name": "TV Stand",
-    "description": "Ikea TV stand. Very good condition.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "153146",
     "name": "Sofa cushion latext",
     "description": "20 pcs with cushion cover",
@@ -216,17 +205,6 @@
     "validTill": "31 Jan 2026",
     "ageInYears": 2,
     "dimensions": "Queen Size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153078",
-    "name": "HOSPITAL BED + ANTI BEDSORE MATTRESS",
-    "description": "DONATE HOSPITAL BED FROM MY LATE MUM.\nBOUGHT ON EARLY 2025. MUM PASS AWAY ON NOV 2025.\nBED WITH ANTI BEDSORE MATTRESS",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "ESTIMATE: 205CM(L) X 80(W) CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -493,6 +471,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "153155",
+    "name": "Nuna Pipa Infant Car Seat",
+    "description": "A car seat that was given to us and we'd like to pay it forward. It served us well for 2+ years. While it has a bit of scruff marks on the seat, and some wear and tear on the cushion cover, it is functioning fine. We hope it will be of good use for someone.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "24 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152985",
@@ -836,28 +825,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "152706",
-    "name": "Bed rail",
-    "description": "To prevent falling from bed. Can be used on left or right",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "See photo",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "152647",
-    "name": "Suction machine",
-    "description": "Suction machine. Barely used. Clean",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 1,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "152502",
     "name": "Tummy binder",
     "description": "Tummy binders",
@@ -974,17 +941,6 @@
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "20 Jan 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "152310",
-    "name": "Bath chair",
-    "description": "Still in very good condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "18 Jan 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
