@@ -110,17 +110,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "153159",
-    "name": "sofa 3 seater",
-    "description": "half leather sofaa, brown color with wooden short stump legs for shpporf",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "15 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": "2 by 1 by 1",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "153158",
     "name": "Queen size bedsheets",
     "description": "Bedsheets still in good condition. Queen size.",
@@ -150,17 +139,6 @@
     "validTill": "16 Feb 2026",
     "ageInYears": 3,
     "dimensions": "50cm × 50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153145",
-    "name": "Metal bed frame Single",
-    "description": "Bedframe is ard 8yrs old. Needs a new mattress.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "16 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": "Single",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -238,17 +216,6 @@
     "validTill": "13 Feb 2026",
     "ageInYears": 1,
     "dimensions": "H 85cm x W 54cm x D 54cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "152988",
-    "name": "2 seater Fabric Sofa",
-    "description": "Still in good condition 2 seater.\nIUIGA Rivera Fabric Sofa\nColor: Light Grey\nSize: 209 x 95 x 76.5 (cm)",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "22 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "209 x 95 x 76.5 (cm)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -770,6 +737,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "153168",
+    "name": "Commode Chair",
+    "description": "Commode Chair in good condition.",
+    "location": "Ghim Moh ",
+    "validTill": "18 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "L60cm x W50cm x H102cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "153156",
     "name": "Transfer chair",
     "description": "Lightly used transfer chair, in good condition. Can also be as a commode or shower chair.",
@@ -891,6 +869,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "153174",
+    "name": "ELECTRIC HOSPITAL BED WITH AIR MATTRES & PUMP",
+    "description": "ELECTRICAL HOSPITAL BED WITH PUMP AND AIR MATTRESS. LESS THAN 1 YEAR.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "ESTIMATE: 210X90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "153162",
+    "name": "Super Single Mattress",
+    "description": "Used Super single mattress still in good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "01 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "153074",
     "name": "Laundry Hanger",
     "description": "laundry hanger",
@@ -909,17 +909,6 @@
     "validTill": "14 Feb 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "153065",
-    "name": "Diapers",
-    "description": "Size L",
-    "location": null,
-    "validTill": "14 Feb 2026",
-    "ageInYears": 1,
-    "dimensions": "Size L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
