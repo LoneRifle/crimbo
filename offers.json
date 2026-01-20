@@ -99,6 +99,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "153244",
+    "name": "Super single bed frame + mattress",
+    "description": "Super single bed frame + mattress",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153243",
+    "name": "Preloved Ikea study table with only 2 legs",
+    "description": "Linnmon table top with some small holes Only come with 2 Hilver bamboo legs, u need to buy 2 more legs fr Ikea. all dismantled and packed.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": "100cm x 60cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "153221",
     "name": "Chairs",
     "description": "Study chairs with rollers 7 pieces available",
@@ -160,17 +182,6 @@
     "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
     "validTill": "25 Jan 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153223",
-    "name": "Single bed frame with mattress",
-    "description": "Brand new single bed frame fabric (without headboard) plus 6inch foam mattress",
-    "location": null,
-    "validTill": "21 Jan 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -909,6 +920,17 @@
     "validTill": "11 Feb 2026",
     "ageInYears": 4,
     "dimensions": "Na",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "153245",
+    "name": "Wheel chair",
+    "description": "New",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "24 Jan 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
