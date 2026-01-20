@@ -63,17 +63,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "152687",
-          "name": "Tv sideboard",
-          "description": "Tv sideboard with internal shelving for storage for giveaway. Brown color.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "30 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "1.2m x 0.42m x 0.75m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "152860",
           "name": "Samsung TV monitor",
           "description": "We are decluttering and would like to find a home for the reasonably good TV monitor.",
@@ -117,17 +106,6 @@
     "date": "29 Dec 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "152687",
-          "name": "Tv sideboard",
-          "description": "Tv sideboard with internal shelving for storage for giveaway. Brown color.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "30 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "1.2m x 0.42m x 0.75m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "152860",
           "name": "Samsung TV monitor",
@@ -307,6 +285,40 @@
           "dimensions": "Queen Size Bed Frame",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "152844",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Mr Zul lives with his spouse in a 2 room rental flat. Mr Zul has visual impairment and is wheelchair bound. \n\nThe wheelchair that Mr Zul purchased from carousell a few years ago had spoilt, putting him in a safety risk. \n\nA new wheelchair would help him to regain his mobility in a safe manner, so that his spouse would also be able to wheel him with confidence. \n\nIf there are any leads, feel free to contact me, Sabrina at 82922208. thank u!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Sabrina Wong",
+      "email": "sabrina.wong@thkmc.org.sg",
+      "phone": [
+        "63371201",
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153215",
+          "name": "Wheelchair",
+          "description": "wheelchair",
+          "location": null,
+          "validTill": "14 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
