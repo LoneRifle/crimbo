@@ -234,6 +234,40 @@
     }
   },
   {
+    "id": "153277",
+    "category": "Home Furnishing",
+    "name": "mattress",
+    "description": "A single mother, unemployed with chronic mental health issues, who just moved into a rental flat requires 2 single sized mattresses for her children.\nHer children are currently sleeping on bare floor.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153174",
+          "name": "ELECTRIC HOSPITAL BED WITH AIR MATTRES & PUMP",
+          "description": "ELECTRICAL HOSPITAL BED WITH PUMP AND AIR MATTRESS. LESS THAN 1 YEAR.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "18 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "ESTIMATE: 210X90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153262",
     "category": "Home Furnishing",
     "name": "Chest of Drawers",
