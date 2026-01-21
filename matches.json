@@ -234,21 +234,21 @@
     }
   },
   {
-    "id": "153277",
+    "id": "153291",
     "category": "Home Furnishing",
-    "name": "mattress",
-    "description": "A single mother, unemployed with chronic mental health issues, who just moved into a rental flat requires 2 single sized mattresses for her children.\nHer children are currently sleeping on bare floor.",
-    "specifications": null,
+    "name": "Mattress",
+    "description": "Mattress needed for elderly lady who is currently mostly bed-bound due to health issues. She comes from a low-income family. Current mattress is sagging and old.",
+    "specifications": "width: 142cm, length: 190cm, height: 38cm",
     "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Ann Wende",
-      "email": "wende_ann@msf.gov.sg",
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Danielle Ngin",
+      "email": "daniellengin@carecorner.org.sg",
       "phone": [
-        "63765987",
-        "18002220000"
+        "69506713",
+        "64761481"
       ]
     },
-    "deliveryCostsCoveredByDonor": false,
+    "deliveryCostsCoveredByDonor": true,
     "date": "21 Jan 2026",
     "matches": {
       "passiton": [
@@ -262,6 +262,84 @@
           "dimensions": "ESTIMATE: 210X90",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153286",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is a family of four who are in need of a sofa for their home, especially with Hari Raya approaching. Currently, there is no proper seating for family members to gather and sit comfortably. Family is facing financial difficulties.\nThe father has recently become unemployed, and the mother is unable to work due to full-time caregiving responsibilities. In addition, the client’s elderly father, who occasionally assists with caregiving, has existing health conditions and requires proper seating support. A sofa would greatly improve the family’s comfort and well-being during daily activities and family gatherings. We kindly request the donor’s assistance in providing the sofa and covering the delivery cost, as the family is unable to afford these expenses at this time.\n\nThank you for your kind consideration and support.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Rachel Toh",
+      "email": "racheltoh@carecorner.org.sg",
+      "phone": [
+        "69506716",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153146",
+          "name": "Sofa cushion latext",
+          "description": "20 pcs with cushion cover",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "16 Feb 2026",
+          "ageInYears": 3,
+          "dimensions": "50cm × 50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152562",
+          "name": "Recliner sofa. A small tear",
+          "description": "Single recliner sofa with a small tear on the leather back support.",
+          "location": null,
+          "validTill": "28 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153267",
+          "name": "3 seaters sofa",
+          "description": "Used 3 seaters sofa with minor defects on both side armrest but still in good seating condition. Please refer to the attached pics . Only available after 31 Jan 26. Please confirm to me before 30 Jan if you are keen . Thanks",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "05 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153181",
+          "name": "Brown fabric sofa",
+          "description": "3-seater fabric sofa in good usable condition. Clean, sturdy, normal wear.  Self-collection only. Lift access available (lift level)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "01 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "approx 186cmWx90Dx93H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152498",
+          "name": "Black Leather Electric Recliner sofa",
+          "description": "3 Seater Sofa with 1 electric recliner. One piece furniture and will need a big vehicle for collection.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "26 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": "320x200x100",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
