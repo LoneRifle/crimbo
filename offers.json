@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "153250",
+    "name": "Standing Fan",
+    "description": "Traditional Standing fan. Like new.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "15 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "153177",
     "name": "Electric bread toaster",
     "description": "Rarely used bread toaster.",
@@ -97,6 +108,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "153253",
+    "name": "Plastic chairs Qty 6",
+    "description": "Plastic chairs in good condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "153244",
@@ -726,6 +748,28 @@
     "category": "Learning Aids"
   },
   {
+    "id": "153252",
+    "name": "Reclinable Geriatric Chair with removable meal top",
+    "description": "Geriatric chair in good condition, recline-able, removable meal table top.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "153251",
+    "name": "Commode",
+    "description": "Commode in good condition. Comes with pail.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "153233",
     "name": "Hospital Bed with Air Mattress",
     "description": "Standard Hospital Bed with Air Mattress in good working condition",
@@ -944,6 +988,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "153249",
+    "name": "Zojirushi Thermos Bottle 0.48L",
+    "description": "Brand new Thermos water bottle with heat retention.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "0.48L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "153248",
+    "name": "Zojirushi Thermos",
+    "description": "Thermos water bottle with heat retention.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "0.5L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "153180",
