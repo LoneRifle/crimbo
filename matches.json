@@ -18,13 +18,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "152600",
-          "name": "Tena XXL diapers approx 30+ New Packs",
-          "description": "Brand new diapers just bought in November, unused as senior passed away.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Jan 2026",
-          "ageInYears": 1,
-          "dimensions": "Na",
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
         },
@@ -83,6 +83,17 @@
           "dimensions": "17.5 inch x 26.5 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "153268",
+          "name": "Portable TV rack with small shelving",
+          "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
+          "location": "Yishun",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "L 60 W 40 H 114 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -127,6 +138,17 @@
           "dimensions": "17.5 inch x 26.5 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "153268",
+          "name": "Portable TV rack with small shelving",
+          "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
+          "location": "Yishun",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "L 60 W 40 H 114 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -152,13 +174,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "152600",
-          "name": "Tena XXL diapers approx 30+ New Packs",
-          "description": "Brand new diapers just bought in November, unused as senior passed away.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Jan 2026",
-          "ageInYears": 1,
-          "dimensions": "Na",
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
         },
@@ -170,6 +192,40 @@
           "validTill": "26 Jan 2026",
           "ageInYears": 1,
           "dimensions": "Na",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153020",
+    "category": "Others",
+    "name": "Adult diapers",
+    "description": "Client is an elderly senior who sustained a fall in Jan 2025 and requires diapers as she recovers. Her husband who is her caregiver is retired and finances are strained for the family. Client would like the Adult diaper TENA in L size.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Szandra Law",
+      "email": "szandralaw@fycs.org",
+      "phone": [
+        "96421760",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
         }
@@ -246,6 +302,17 @@
           "description": "Single recliner sofa with a small tear on the leather back support.",
           "location": null,
           "validTill": "28 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153267",
+          "name": "3 seaters sofa",
+          "description": "Used 3 seaters sofa with minor defects on both side armrest but still in good seating condition. Please refer to the attached pics . Only available after 31 Jan 26. Please confirm to me before 30 Jan if you are keen . Thanks",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "05 Feb 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -351,6 +418,72 @@
           "dimensions": "Queen Size Bed Frame",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153170",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Client (f/73) is a frail elderly who requires support in terms of mobility. Her granddaughter is looking for a donor who can provide pampers to support her grandmother. If you are able to support, please whatsapp Kritikaa (8777 0959) or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
+    "specifications": "Size - M (75-100cm)",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153056",
+    "category": "Medical Aids",
+    "name": "Adult diapers",
+    "description": "Client (F/42), a single who take care of her elderly grandmother (F/87) in a one-room rental flat. Client has artritis and currently using PMA devices to commute in the community. Please Whatsapp Suzanne at 86661355 or email to suzanne.eu@thkmc.org.sg to liaise.",
+    "specifications": "XL",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
