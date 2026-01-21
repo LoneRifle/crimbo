@@ -110,6 +110,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "153296",
+    "name": "cupboard",
+    "description": "Used for 2 months.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "08 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153295",
+    "name": "Nippon Paint 3 tins of 5 litres",
+    "description": "Nippon paint . unopened. Purchased 12/1/26\nUnused. Unopened.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "5 litre tins",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153294",
+    "name": "Kids bookshelf",
+    "description": "Children bookshelf with wheels , whiteboard/blackboard",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "07 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "153269",
     "name": "Coffee/Side table",
     "description": "Black plastic top\nGold coloured mental legs (good condition, no rust, minimal scratches)",
@@ -759,6 +792,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "153297",
+    "name": "Oxygen concentrator",
+    "description": "Nidek",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "153252",
     "name": "Reclinable Geriatric Chair with removable meal top",
     "description": "Geriatric chair in good condition, recline-able, removable meal table top.",
@@ -847,23 +891,34 @@
     "category": "Medical Aids"
   },
   {
-    "id": "153266",
-    "name": "Casalift 180E",
-    "description": "The Casalift Hoist is a lightweight and versatile lifting device for use when transferring individuals.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Jan 2026",
+    "id": "153299",
+    "name": "Push Chair",
+    "description": "Travel Push Chair",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "20 Feb 2026",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
   {
-    "id": "153241",
-    "name": "Wheelchair",
-    "description": "Wheelchair. Old model but still working well.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "19 Feb 2026",
-    "ageInYears": 4,
+    "id": "153298",
+    "name": "Walking Stick",
+    "description": "Walking stick",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "153266",
+    "name": "Casalift 180E",
+    "description": "The Casalift Hoist is a lightweight and versatile lifting device for use when transferring individuals.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jan 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
