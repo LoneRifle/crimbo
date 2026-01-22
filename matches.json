@@ -1,5 +1,39 @@
 [
   {
+    "id": "153329",
+    "category": "Infant and Children Items",
+    "name": "Stroller",
+    "description": "Client resides in a rental flat with husband and 3 young children. Client and husband are in the midst of their divorce process, and husband has not been providing any financial support to cover children's expenses. Hence, client has some difficulty providing for all their needs and replacing their faulty items by herself.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153182",
+          "name": "Tandem Stroller",
+          "description": "Great condition tandem/double stroller",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "18 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152961",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -63,17 +97,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "152860",
-          "name": "Samsung TV monitor",
-          "description": "We are decluttering and would like to find a home for the reasonably good TV monitor.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "32 inch X 21 Inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "152855",
           "name": "Samsung TV Monitor",
           "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
@@ -117,17 +140,6 @@
     "date": "29 Dec 2025",
     "matches": {
       "passiton": [
-        {
-          "id": "152860",
-          "name": "Samsung TV monitor",
-          "description": "We are decluttering and would like to find a home for the reasonably good TV monitor.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "32 inch X 21 Inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "152855",
           "name": "Samsung TV Monitor",
@@ -192,85 +204,6 @@
           "validTill": "26 Jan 2026",
           "ageInYears": 1,
           "dimensions": "Na",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153020",
-    "category": "Others",
-    "name": "Adult diapers",
-    "description": "Client is an elderly senior who sustained a fall in Jan 2025 and requires diapers as she recovers. Her husband who is her caregiver is retired and finances are strained for the family. Client would like the Adult diaper TENA in L size.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Szandra Law",
-      "email": "szandralaw@fycs.org",
-      "phone": [
-        "96421760",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153263",
-          "name": "Adult Diapers Size M",
-          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
-          "location": "Farrer Park, Little India, Serangoon Road",
-          "validTill": "20 Feb 2026",
-          "ageInYears": 2,
-          "dimensions": "80-130cm in waist",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153291",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Mattress needed for elderly lady who is currently mostly bed-bound due to health issues. She comes from a low-income family. Current mattress is sagging and old.",
-    "specifications": "width: 142cm, length: 190cm, height: 38cm",
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Danielle Ngin",
-      "email": "daniellengin@carecorner.org.sg",
-      "phone": [
-        "69506713",
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153303",
-          "name": "Single bed frame without mattress",
-          "description": "Metal single bed frame with headboard and foot board. Bed frame height is 32 cm from bed base to the floor.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": "200cm x 93cm x 32cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "153174",
-          "name": "ELECTRIC HOSPITAL BED WITH AIR MATTRES & PUMP",
-          "description": "ELECTRICAL HOSPITAL BED WITH PUMP AND AIR MATTRESS. LESS THAN 1 YEAR.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "18 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": "ESTIMATE: 210X90",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
         }
@@ -496,6 +429,40 @@
           "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153323",
+    "category": "Mobility Aids",
+    "name": "Walking frame",
+    "description": "Client recently had a fall and sprained her knee. Husband is the sole bread winner and she is the main caregiver of 2 children, one of which has low functioning disability. It has been hard for her to move about to care give with her knee injured and is looking for a walking frame to help with her mobility around the house.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153000",
+          "name": "Walking frame",
+          "description": "Foldable walking aid. Hardly used as too high for my father's height.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "13 Feb 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
