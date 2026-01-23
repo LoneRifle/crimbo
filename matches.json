@@ -34,6 +34,40 @@
     }
   },
   {
+    "id": "153287",
+    "category": "Infant and Children Items",
+    "name": "Milk",
+    "description": "The family has three young dependents. Both parents are currently seeking employment and are relying on their savings to meet basic needs. Their youngest child still requires milk and would benefit from milk support, as the family is facing financial difficulties.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Andrea Tan",
+      "email": "andreatan@fycs.org",
+      "phone": [
+        "69783017",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153363",
+          "name": "Nestle Mom maternal milk",
+          "description": "Offer to donate a box of maternity milk for pregnant or breastfeeding mummies. Help to supplement extra nutrients for your baby\n\nOffer to donate this along with my diapers :)",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "152961",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -52,6 +86,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "153361",
+          "name": "Beenies Diapers",
+          "description": "Suitable for size S babies from 4-8kg. \nHave 2 of these bags\nExpiring in Nov 2027\nGood for daily use",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "Size S",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "153263",
           "name": "Adult Diapers Size M",
           "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
@@ -61,6 +106,17 @@
           "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "153362",
+          "name": "Hoppi Size S diapers",
+          "description": "Suitable for Size S babies from 4-8kg\nExpiring in Apr 2028\nSuitable for overnight use. Have 1 bag to donate",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "Size S",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -219,6 +275,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "153361",
+          "name": "Beenies Diapers",
+          "description": "Suitable for size S babies from 4-8kg. \nHave 2 of these bags\nExpiring in Nov 2027\nGood for daily use",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "Size S",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "153263",
           "name": "Adult Diapers Size M",
           "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
@@ -228,6 +295,17 @@
           "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "153362",
+          "name": "Hoppi Size S diapers",
+          "description": "Suitable for Size S babies from 4-8kg\nExpiring in Apr 2028\nSuitable for overnight use. Have 1 bag to donate",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "Size S",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []

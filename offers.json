@@ -165,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "153269",
-    "name": "Coffee/Side table",
-    "description": "Black plastic top\nGold coloured mental legs (good condition, no rust, minimal scratches)",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 3,
-    "dimensions": "L 40 W 40 H 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "153268",
     "name": "Portable TV rack with small shelving",
     "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
@@ -517,6 +506,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "153362",
+    "name": "Hoppi Size S diapers",
+    "description": "Suitable for Size S babies from 4-8kg\nExpiring in Apr 2028\nSuitable for overnight use. Have 1 bag to donate",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "Size S",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "153361",
+    "name": "Beenies Diapers",
+    "description": "Suitable for size S babies from 4-8kg. \nHave 2 of these bags\nExpiring in Nov 2027\nGood for daily use",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "Size S",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "153183",
     "name": "Breastfeeding pillow and Maternity Pants",
     "description": "very comfortable nursing pillow and maternity pants (S - size)",
@@ -546,17 +557,6 @@
     "validTill": "24 Jan 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "152985",
-    "name": "Nuna Sena Aire Playard & Travel Crib",
-    "description": "A good night’s sleep is in the palm of your hands. The SENA aire opens with just that—in seconds. Its Advanced air design™ provides 360° of ventilation for ultimate airflow and super-fresh, deep sleeps. All so you can easily turn any room into your baby’s room. Suitable from newborn to 15kg",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "12 Feb 2026",
-    "ageInYears": 3,
-    "dimensions": "L100 x W73 x H73 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -803,17 +803,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "153252",
-    "name": "Reclinable Geriatric Chair with removable meal top",
-    "description": "Geriatric chair in good condition, recline-able, removable meal table top.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "153251",
     "name": "Commode",
     "description": "Commode in good condition. Comes with pail.",
@@ -1021,6 +1010,17 @@
     "dimensions": "Na",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "153363",
+    "name": "Nestle Mom maternal milk",
+    "description": "Offer to donate a box of maternity milk for pregnant or breastfeeding mummies. Help to supplement extra nutrients for your baby\n\nOffer to donate this along with my diapers :)",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "153263",
