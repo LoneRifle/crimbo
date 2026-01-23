@@ -19,7 +19,18 @@
     "matches": {
       "passiton": [
         {
-          "id": "153182",
+          "id": "153385",
+          "name": "Tandem Stroller",
+          "description": "Great condition tandem/double stroller",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "18 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "153386",
           "name": "Tandem Stroller",
           "description": "Great condition tandem/double stroller",
           "location": "Pasir Ris, Simei, Tampines",
@@ -306,6 +317,39 @@
           "dimensions": "Size S",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153376",
+    "category": "Home Furnishing",
+    "name": "Dining table",
+    "description": "A family of four (two adults and two children) is relocating to a 2-room rental unit because of continuing conflicts between the father and the paternal grandparents. The mother is the only income earner and has a low income.  Please whatsapp me at 8907 8297!",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - HEART @ Fei Yue",
+      "name": "Bernice  Chai",
+      "email": "bernicechai@fycs.org",
+      "phone": [
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153335",
+          "name": "Teak Solid Wood Dining Table",
+          "description": "Solid teak dining table \nSurface well used. Sturdy and 100% functional\nTable only. No chairs",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "09 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "200cm x 100cm x 76cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
