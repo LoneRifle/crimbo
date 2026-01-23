@@ -479,6 +479,39 @@
     }
   },
   {
+    "id": "153234",
+    "category": "Home Furnishing",
+    "name": "Single size Mattress",
+    "description": "A senior with multiple health conditions living in a rental flat requires a single-size mattress. With limited family contact and being temporarily unfit for work, he does not have available financial resources to purchase a new single size mattress.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Munawarah Binte Sukaimi",
+      "email": "Munawarah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153390",
+          "name": "Single-size Mattress",
+          "description": "Donor is changing from a single-size mattress to a queen-size mattress, thus donating the good condition single-size matress.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "36\" x 75\" x 3*",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153049",
     "category": "Home Furnishing",
     "name": "Queen bed frame",
