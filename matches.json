@@ -67,7 +67,7 @@
           "id": "153363",
           "name": "Nestle Mom maternal milk",
           "description": "Offer to donate a box of maternity milk for pregnant or breastfeeding mummies. Help to supplement extra nutrients for your baby\n\nOffer to donate this along with my diapers :)",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "location": "Paya lebar",
           "validTill": "22 Feb 2026",
           "ageInYears": 1,
           "dimensions": null,
@@ -97,17 +97,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "153361",
-          "name": "Beenies Diapers",
-          "description": "Suitable for size S babies from 4-8kg. \nHave 2 of these bags\nExpiring in Nov 2027\nGood for daily use",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "22 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": "Size S",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "153263",
           "name": "Adult Diapers Size M",
           "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
@@ -117,17 +106,40 @@
           "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153422",
+    "category": "Electrical Home Appliances",
+    "name": "Standing Fan",
+    "description": "Single mother with 13 year old son staying in a 1 room rental flat requires a standing fan for the son. Mother is unable to work due to multiple health condition and is on government payouts to survive.  She can only afford basic needs. House has recently been decluttered and repainted by a NGO. Son requires standing fan to alleviate the heat and to create a cooler environment for his studying and resting. Son has skin condition that will trigger and cause bleeding when scratched.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jan 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "153362",
-          "name": "Hoppi Size S diapers",
-          "description": "Suitable for Size S babies from 4-8kg\nExpiring in Apr 2028\nSuitable for overnight use. Have 1 bag to donate",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "22 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": "Size S",
+          "id": "153408",
+          "name": "Midea Standing Fan",
+          "description": "- 16 inch\n- 3 Speeds\n- Able to oscillate",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "15 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -286,17 +298,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "153361",
-          "name": "Beenies Diapers",
-          "description": "Suitable for size S babies from 4-8kg. \nHave 2 of these bags\nExpiring in Nov 2027\nGood for daily use",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "22 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": "Size S",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "153263",
           "name": "Adult Diapers Size M",
           "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
@@ -306,50 +307,6 @@
           "dimensions": "80-130cm in waist",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        },
-        {
-          "id": "153362",
-          "name": "Hoppi Size S diapers",
-          "description": "Suitable for Size S babies from 4-8kg\nExpiring in Apr 2028\nSuitable for overnight use. Have 1 bag to donate",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "22 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": "Size S",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153376",
-    "category": "Home Furnishing",
-    "name": "Dining table",
-    "description": "A family of four (two adults and two children) is relocating to a 2-room rental unit because of continuing conflicts between the father and the paternal grandparents. The mother is the only income earner and has a low income.  Please whatsapp me at 8907 8297!",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services - HEART @ Fei Yue",
-      "name": "Bernice  Chai",
-      "email": "bernicechai@fycs.org",
-      "phone": [
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153335",
-          "name": "Teak Solid Wood Dining Table",
-          "description": "Solid teak dining table \nSurface well used. Sturdy and 100% functional\nTable only. No chairs",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "09 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "200cm x 100cm x 76cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
