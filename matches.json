@@ -79,39 +79,6 @@
     }
   },
   {
-    "id": "152961",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Diapers\nClient lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 10, 5, 4, and 1. The family is currently facing financial challenges due to bankruptcy and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL and Drypers Superdry Pants XXL for their young children. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153263",
-          "name": "Adult Diapers Size M",
-          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
-          "location": "Farrer Park, Little India, Serangoon Road",
-          "validTill": "20 Feb 2026",
-          "ageInYears": 2,
-          "dimensions": "80-130cm in waist",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "153422",
     "category": "Electrical Home Appliances",
     "name": "Standing Fan",
@@ -187,17 +154,6 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "153340",
-          "name": "White TV Console",
-          "description": "White TV Console with 2 storage cabinets\nCollection in Kovan",
-          "location": null,
-          "validTill": "31 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "150 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "153268",
           "name": "Portable TV rack with small shelving",
           "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
@@ -251,17 +207,6 @@
           "dimensions": "17.5 inch x 26.5 inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "153340",
-          "name": "White TV Console",
-          "description": "White TV Console with 2 storage cabinets\nCollection in Kovan",
-          "location": null,
-          "validTill": "31 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "150 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         },
         {
           "id": "153268",
@@ -339,17 +284,6 @@
           "validTill": "10 Feb 2026",
           "ageInYears": 2,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "153340",
-          "name": "White TV Console",
-          "description": "White TV Console with 2 storage cabinets\nCollection in Kovan",
-          "location": null,
-          "validTill": "31 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": "150 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -667,6 +601,17 @@
     "date": "08 Jan 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "153429",
+          "name": "Wheelchair",
+          "description": "Usable but brake not working",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
         {
           "id": "153215",
           "name": "Wheelchair",

@@ -231,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "153340",
-    "name": "White TV Console",
-    "description": "White TV Console with 2 storage cabinets\nCollection in Kovan",
-    "location": null,
-    "validTill": "31 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": "150 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "153338",
     "name": "Tv console",
     "description": "Tv console with lumunious light\nSelf collection , I do not responsible to pay the fee.",
@@ -900,6 +889,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "153429",
+    "name": "Wheelchair",
+    "description": "Usable but brake not working",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Jan 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "153406",
