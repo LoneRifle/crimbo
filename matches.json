@@ -1,5 +1,38 @@
 [
   {
+    "id": "153436",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a single parent of 2 children, a 13-year-old daughter and a 10-year-old son who is diagnosed with autism, non-verbal and fully dependent on client for daily activities such as feeding, bathing, and other personal care. Client has been the sole breadwinner of the family and has only been able to explore ad-hoc employment in view that she is the sole caregiver to her son.\n\nClient is hoping to seek interim diapers assistance for her son whilst exploring sustainable alternatives with formal supports in alleviating the financial and caregiving stress that she has been experiencing.  \n\nQuantity: 4-8 packs of Pamper Sensi Night Pants Junior Children's Diapers Pants 4XL",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Odelia Tan",
+      "email": "odeliatan@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153329",
     "category": "Infant and Children Items",
     "name": "Stroller",
@@ -79,34 +112,55 @@
     }
   },
   {
-    "id": "153422",
+    "id": "153437",
     "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Single mother with 13 year old son staying in a 1 room rental flat requires a standing fan for the son. Mother is unable to work due to multiple health condition and is on government payouts to survive.  She can only afford basic needs. House has recently been decluttered and repainted by a NGO. Son requires standing fan to alleviate the heat and to create a cooler environment for his studying and resting. Son has skin condition that will trigger and cause bleeding when scratched.",
-    "specifications": null,
+    "name": "TV",
+    "description": "A family of 8, including 5 school going children, living in a 2-room rental flat. Mother is the sole caregiver and breadwinner and does adhoc delivery to support the family. The family will be refurbishing their home with the assistance from Central CDC in March 2026 and requires a new TV as their current TV has spoiled.",
+    "specifications": "42 inch",
     "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
+      "org": "Kampong Kapor Community Services",
+      "name": "Fenni Sim",
+      "email": "fennisim@kkcs.org.sg",
       "phone": [
-        "88333080",
-        "67169466"
+        "62997662"
       ]
     },
-    "deliveryCostsCoveredByDonor": true,
+    "deliveryCostsCoveredByDonor": false,
     "date": "26 Jan 2026",
     "matches": {
       "passiton": [
         {
-          "id": "153408",
-          "name": "Midea Standing Fan",
-          "description": "- 16 inch\n- 3 Speeds\n- Able to oscillate",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "15 Feb 2026",
-          "ageInYears": 4,
+          "id": "153338",
+          "name": "Tv console",
+          "description": "Tv console with lumunious light\nSelf collection , I do not responsible to pay the fee.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "10 Feb 2026",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152855",
+          "name": "Samsung TV Monitor",
+          "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "17.5 inch x 26.5 inch",
+          "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "153268",
+          "name": "Portable TV rack with small shelving",
+          "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
+          "location": "Yishun",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "L 60 W 40 H 114 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -353,17 +407,6 @@
           "dimensions": "approx 186cmWx90Dx93H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "153402",
-          "name": "IKEA 3 seater sofa gently used",
-          "description": "Lightly used IKEA 3 seater sofa with high backrest.",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "15 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -396,40 +439,6 @@
           "validTill": "05 Feb 2026",
           "ageInYears": 4,
           "dimensions": "Queen Size Bed Frame",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152952",
-    "category": "Home Furnishing",
-    "name": "Queen Size Mattress",
-    "description": "Client (61 y.o.) has financial difficulty in replacing his old mattress with a new mattress. The current mattress is old and needs to be replaced. Though he is working, his current income only sufficient for him to meet his daily needs. Hence, client hopes that he could get some help with the replacement of his current queen size mattress.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Christine Ang",
-      "email": "angliyan@fycs.org",
-      "phone": [
-        "63809163",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153397",
-          "name": "Queen sized mattress",
-          "description": "Good quality  queen sized mattress (brand: NOA). The Noa Mattress is a hybrid mattress combining premium materials like latex, cooling gel memory foam, and pocket springs. New flat tenant moving in wants to use their own mattress so seeking to donate asap.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "06 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": "60x80x10 inches",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -475,40 +484,6 @@
           "validTill": "05 Feb 2026",
           "ageInYears": 4,
           "dimensions": "Queen Size Bed Frame",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152827",
-    "category": "Home Furnishing",
-    "name": "King Sized Mattress",
-    "description": "Family is seeking assistance with a king-sized mattress to fit an existing bed frame, as their previous mattress is no longer suitable for use.",
-    "specifications": "King Sized Mattress",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Farahlina Tan",
-      "email": "farahlina_tan@awwa.org.sg",
-      "phone": [
-        "65119458",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153409",
-          "name": "King sized bed mattress",
-          "description": "183x190cm King sized bed mattress",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "15 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "183x190 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
