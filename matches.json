@@ -174,7 +174,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "153338",
+          "id": "153472",
           "name": "Tv console",
           "description": "Tv console with lumunious light\nSelf collection , I do not responsible to pay the fee.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -230,7 +230,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "153338",
+          "id": "153472",
           "name": "Tv console",
           "description": "Tv console with lumunious light\nSelf collection , I do not responsible to pay the fee.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -285,7 +285,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "153338",
+          "id": "153472",
           "name": "Tv console",
           "description": "Tv console with lumunious light\nSelf collection , I do not responsible to pay the fee.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -367,6 +367,40 @@
     }
   },
   {
+    "id": "151790",
+    "category": "Home Furnishing",
+    "name": "Single Bed with Mattress",
+    "description": "An elderly woman with medical conditions that limit her mobility requested. She is currently bankrupt and recently moved into a rental flat with her son. She has been sleeping on the floor and requires a wheelchair for mobility. Her son works part-time and has difficulty finding stable employment. The client needs assistance to obtain a bed and bed frame for herself and her son, as she has difficulty getting up from the floor.",
+    "specifications": "Single Size, 2 quantity",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153303",
+          "name": "Single bed frame without mattress",
+          "description": "Metal single bed frame with headboard and foot board. Bed frame height is 32 cm from bed base to the floor.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": "200cm x 93cm x 32cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153337",
     "category": "Home Furnishing",
     "name": "TV console",
@@ -386,7 +420,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "153338",
+          "id": "153472",
           "name": "Tv console",
           "description": "Tv console with lumunious light\nSelf collection , I do not responsible to pay the fee.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -460,40 +494,6 @@
           "validTill": "01 Feb 2026",
           "ageInYears": 4,
           "dimensions": "approx 186cmWx90Dx93H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153049",
-    "category": "Home Furnishing",
-    "name": "Queen bed frame",
-    "description": "Family consists of a single mother with 3 pri sch/sec sch children, living in a 2-room rental flat. Her children have been sharing a queen sized mattress to sleep on every night, which is currently on the floor with no bedframe. Client would like a new bedframe to place the mattress on. Please Whatsapp me at 62319407 if you have a suitable one to donate. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Fatimah Azzahrah",
-      "email": "fatimah_azzahrah_noor@msf.gov.sg",
-      "phone": [
-        "62319407",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152810",
-          "name": "Queen Size Antique Rosewood Bed Frame with Display Shelves",
-          "description": "Currently dismantled. In relatively good condition and able to come and view first. Antique rosewood material that holds strongly together for years.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "Queen Size Bed Frame",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
