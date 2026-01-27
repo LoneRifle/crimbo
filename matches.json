@@ -156,6 +156,72 @@
     }
   },
   {
+    "id": "153511",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is a single father, just moved to his new flat and wishes to furnish his house. He has mental health concerns and daughter has special needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153146",
+          "name": "Sofa cushion latext",
+          "description": "20 pcs with cushion cover",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "16 Feb 2026",
+          "ageInYears": 3,
+          "dimensions": "50cm × 50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152562",
+          "name": "Recliner sofa. A small tear",
+          "description": "Single recliner sofa with a small tear on the leather back support.",
+          "location": null,
+          "validTill": "28 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153309",
+          "name": "IKEA Single Sofa - 3 pieces",
+          "description": "3 single ikea sofas to give away asap.  Collection at a shop unit @ Queensway Shopping Centre",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153181",
+          "name": "Brown fabric sofa",
+          "description": "3-seater fabric sofa in good usable condition. Clean, sturdy, normal wear.  Self-collection only. Lift access available (lift level)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "01 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "approx 186cmWx90Dx93H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "151790",
     "category": "Home Furnishing",
     "name": "Single Bed with Mattress",
