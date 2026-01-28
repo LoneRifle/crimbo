@@ -112,6 +112,62 @@
     }
   },
   {
+    "id": "153540",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Family consists of parents and 3 young children below the age of 5. They had to throw out their current sofa due to damage and is currently sitting on the floor when in their living room. They require a leather sofa (easy to clean) and preferably 2-seater. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153146",
+          "name": "Sofa cushion latext",
+          "description": "20 pcs with cushion cover",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "16 Feb 2026",
+          "ageInYears": 3,
+          "dimensions": "50cm × 50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153309",
+          "name": "IKEA Single Sofa - 3 pieces",
+          "description": "3 single ikea sofas to give away asap.  Collection at a shop unit @ Queensway Shopping Centre",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153181",
+          "name": "Brown fabric sofa",
+          "description": "3-seater fabric sofa in good usable condition. Clean, sturdy, normal wear.  Self-collection only. Lift access available (lift level)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "01 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "approx 186cmWx90Dx93H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153537",
     "category": "Home Furnishing",
     "name": "Dining set",
@@ -164,17 +220,6 @@
     "date": "28 Jan 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "153303",
-          "name": "Single bed frame without mattress",
-          "description": "Metal single bed frame with headboard and foot board. Bed frame height is 32 cm from bed base to the floor.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": "200cm x 93cm x 32cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "153442",
           "name": "Adjustable bedframe to support n prevent fall",
@@ -356,11 +401,11 @@
     }
   },
   {
-    "id": "151790",
+    "id": "142263",
     "category": "Home Furnishing",
-    "name": "Single Bed with Mattress",
-    "description": "An elderly woman with medical conditions that limit her mobility requested. She is currently bankrupt and recently moved into a rental flat with her son. She has been sleeping on the floor and requires a wheelchair for mobility. Her son works part-time and has difficulty finding stable employment. The client needs assistance to obtain a bed and bed frame for herself and her son, as she has difficulty getting up from the floor.",
-    "specifications": "Single Size, 2 quantity",
+    "name": "Foldable Mattress",
+    "description": "Family living in rental flat. 2 out of 4 children with special needs and debt accumulated. Husband is solebread winner and Wife needs to care for children.",
+    "specifications": "Foldable, 2 pax",
     "contact": {
       "org": "THK Family Service Centre @ Bukit Panjang",
       "name": "Muhammad Idris Bin Mohd Margono",
@@ -375,13 +420,47 @@
     "matches": {
       "passiton": [
         {
-          "id": "153303",
-          "name": "Single bed frame without mattress",
-          "description": "Metal single bed frame with headboard and foot board. Bed frame height is 32 cm from bed base to the floor.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "31 Jan 2026",
+          "id": "153545",
+          "name": "Foldable Mattress ( Thin )",
+          "description": "Not used",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "27 Feb 2026",
           "ageInYears": 3,
-          "dimensions": "200cm x 93cm x 32cm",
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153477",
+    "category": "Home Furnishing",
+    "name": "Foldable Mattress",
+    "description": "9pax living is public rental flat. The couple have 7 children and 4 of them have special needs. Currently 2 of the children foldable mattress have worn out and they are seeking donation for foldable mattress",
+    "specifications": "2 pax, foldable",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153545",
+          "name": "Foldable Mattress ( Thin )",
+          "description": "Not used",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "27 Feb 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
