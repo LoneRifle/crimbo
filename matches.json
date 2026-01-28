@@ -524,6 +524,40 @@
     }
   },
   {
+    "id": "152827",
+    "category": "Home Furnishing",
+    "name": "King Sized Mattress",
+    "description": "Family is seeking assistance with a king-sized mattress to fit an existing bed frame, as their previous mattress is no longer suitable for use.",
+    "specifications": "King Sized Mattress",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Farahlina Tan",
+      "email": "farahlina_tan@awwa.org.sg",
+      "phone": [
+        "65119458",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153550",
+          "name": "King Sized Mattress",
+          "description": "King sized mattress only, without bed.",
+          "location": "Newton",
+          "validTill": "28 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "183x190cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153437",
     "category": "Electrical Home Appliances",
     "name": "TV",
