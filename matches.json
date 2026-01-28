@@ -18,17 +18,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "153468",
-          "name": "Baby diapers XL, steriliser, bibs",
-          "description": "Baby diapers XL(5Packs), Sterliser (used 1year +), some new & used bibs. Must take all",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "25 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "153263",
           "name": "Adult Diapers Size M",
           "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
@@ -123,33 +112,155 @@
     }
   },
   {
-    "id": "153059",
-    "category": "Infant and Children Items",
-    "name": "Baby Diaper",
-    "description": "Client (F/21) is a young mother to two daughters under 4 years old. She is currently staying at her adoptive parents both of whom are not working and are assiting client with caregiving for her daughters, in their two-room rental flat. Client's adoptive father has retired and has recently suffered a stroke. Client is the main breadwinner for the family. The family is thus facing a lot of financial contraints. Your donation would greatly help ease their burden. Donation of any quantity is very much appreciated. Please Whatsapp Ameena at 8718 8444 or email siti.ameena@thkmc.org.sg to liase.",
-    "specifications": "Brand: Huggies Size: L",
+    "id": "153526",
+    "category": "Home Furnishing",
+    "name": "Bed",
+    "description": "Client (M/79) is single who lives alone in a 1rm rental flat, with an unsteady gait, requiring a walking stick for ambulation at home. He also experiences blurred vision and has potential fall risks, resulting in him being homebound for his safety.\n\nClient’s current bed frame is in poor condition. It appears old, discoloured (yellowish), rusty, and stained with black spots. Given his mobility challenges and visual impairment, having a proper and stable bed frame will be beneficial for him. It would provide safer support, reduce fall risks, and improve his home hygiene and overall living environment. \n\nIn view of this, we would like to request assistance in sourcing a new donated bed frame for client to enhance his safety and living environment.",
+    "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Marhamah Binte Mohamed Ali",
+      "email": "marhamah.mohamed.ali@singhealth.com.sg",
       "phone": [
-        "62706711"
+        "64267519",
+        "64268053"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "15 Jan 2026",
+    "date": "28 Jan 2026",
     "matches": {
       "passiton": [
         {
-          "id": "153468",
-          "name": "Baby diapers XL, steriliser, bibs",
-          "description": "Baby diapers XL(5Packs), Sterliser (used 1year +), some new & used bibs. Must take all",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "25 Feb 2026",
+          "id": "153303",
+          "name": "Single bed frame without mattress",
+          "description": "Metal single bed frame with headboard and foot board. Bed frame height is 32 cm from bed base to the floor.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 3,
+          "dimensions": "200cm x 93cm x 32cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153442",
+          "name": "Adjustable bedframe to support n prevent fall",
+          "description": "Adjustable bedframe bought for elderly but unused aa bed had special configuration. Photo is upside down, the 2 metal sticks goes on the floor to stabilize the guardrail to prevent fall and give support.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "11 Feb 2026",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "152933",
+          "name": "Adjustable bedframe to prevent fall",
+          "description": "Bedframe to prevent fall and to give support. To slot under mattress.bought for elderly parent but never used",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "02 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153204",
+          "name": "Single Bunk bed with attached desk",
+          "description": "Ikea bunk bed with attached desk with single mattress adult size single bed. For measurements please refer to the attached photos. Dismantle and assemble guide can be found in ikea website.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153158",
+          "name": "Queen size bedsheets",
+          "description": "Bedsheets still in good condition. Queen size.",
+          "location": null,
+          "validTill": "15 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153102",
+          "name": "Electric hospital bed",
+          "description": "Electric hospital bed with air mattress with pump.\n\nThis was posted in another category earlier",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "15 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153387",
+          "name": "Motorised Hospital Bed",
+          "description": "Motorised Hospital bed",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "21 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "212cm x 110.5cm x 69cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "153174",
+          "name": "ELECTRIC HOSPITAL BED WITH AIR MATTRES & PUMP",
+          "description": "ELECTRICAL HOSPITAL BED WITH PUMP AND AIR MATTRESS. LESS THAN 1 YEAR.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "18 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "ESTIMATE: 210X90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "152892",
+          "name": "Super Single Metal Bed Frame",
+          "description": "- 16 inch high super single metal bed frame\n- bought it back in Aug 2024\n- dismantled\n- self-collect",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153413",
+          "name": "Baby/toddler play bedding/ toys/ books",
+          "description": "I have a lot of baby/toddler stuff. \n\nMattress for playpen / floor\nToys for toddler/ kids below 5yrs\nA toy piano\nBooks\n\nI have more items so if you are looking for children items, i see what i have to match. Thanks",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "11 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "153416",
+          "name": "Baby/toddler play bedding/ toys/ books",
+          "description": "I have a lot of baby/toddler stuff. \n\nMattress for playpen / floor\nToys for toddler/ kids below 5yrs\nA toy piano\nBooks\n\nI have more items so if you are looking for children items, i see what i have to match. Thanks",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "11 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "152810",
+          "name": "Queen Size Antique Rosewood Bed Frame with Display Shelves",
+          "description": "Currently dismantled. In relatively good condition and able to come and view first. Antique rosewood material that holds strongly together for years.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "05 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "Queen Size Bed Frame",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -565,50 +676,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "153468",
-          "name": "Baby diapers XL, steriliser, bibs",
-          "description": "Baby diapers XL(5Packs), Sterliser (used 1year +), some new & used bibs. Must take all",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "25 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "153263",
-          "name": "Adult Diapers Size M",
-          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
-          "location": "Farrer Park, Little India, Serangoon Road",
-          "validTill": "20 Feb 2026",
-          "ageInYears": 2,
-          "dimensions": "80-130cm in waist",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153170",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client (f/73) is a frail elderly who requires support in terms of mobility. Her granddaughter is looking for a donor who can provide pampers to support her grandmother. If you are able to support, please whatsapp Kritikaa (8777 0959) or email to kritikaa.subramaniam@thkmc.org.sg to liase.",
-    "specifications": "Size - M (75-100cm)",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
           "id": "153263",
           "name": "Adult Diapers Size M",
           "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
@@ -730,6 +797,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153534",
+    "category": "Learning Aids",
+    "name": "Tablet",
+    "description": "\"The client is the primary caregiver for her two school-going teenage children. She is currently medically unfit for work due to physical and mental health concerns and is in the midst of divorce proceedings. At present, she has no source of income. Despite her financial challenges, the client continues to meet household expenses and provide for her children through external family support and donations. \n\nThe client is seeking assistance for a tablet to support her children’s educational needs. The device is necessary for school assignments, accessing online learning platforms, and completing home-based learning tasks. Due to her lack of income and ongoing financial strain, she is unable to afford a laptop on her own. For further information, please contact Seelvi at 8699 3152 or via email at seelvi.nadarasan@thkmc.org.sg. Thank you.\"",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153344",
+          "name": "Table Tennis Tabletop (Brand New)",
+          "description": "Brand New (not used) Standard Size Table Tennis.\n\nTabletop (Only the table top), foldable - to be used by placing on top of any existing table.\n\nWeight: Very Heavy (30-40kg?).",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "22 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "2740*1520*18mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
