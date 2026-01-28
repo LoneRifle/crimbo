@@ -112,6 +112,40 @@
     }
   },
   {
+    "id": "153537",
+    "category": "Home Furnishing",
+    "name": "Dining set",
+    "description": "Family of 6 staying in a 2-room rental requires a dining set for family meals and the children to study in. Previously the household had bed bugs and currently HDB has ascertain that there are no bedbugs. Would greatly appreciate if donor is able to cover transportation expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Mohamad Harith",
+      "email": "harith_husaini@msf.gov.sg",
+      "phone": [
+        "63254547",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152664",
+          "name": "Wooden Dining set",
+          "description": "- 1 Table (1.8x1m)\n- 2 benches (1.6x0.36m)\n- 2 Chairs",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "31 Jan 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153526",
     "category": "Home Furnishing",
     "name": "Bed",
@@ -446,51 +480,6 @@
     }
   },
   {
-    "id": "152927",
-    "category": "Home Furnishing",
-    "name": "Queen size bed",
-    "description": "Client is a single mother with 5 children. She is the sole breadwinner and primary caregiver to her children. Given the large household and limited income, she will require a new queen size mattress and bed frame to replace her current mattress which is soiled.",
-    "specifications": "-",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Hannah Lim",
-      "email": "hannahlimzhixin@fycs.org",
-      "phone": [
-        "69783487",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153158",
-          "name": "Queen size bedsheets",
-          "description": "Bedsheets still in good condition. Queen size.",
-          "location": null,
-          "validTill": "15 Feb 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "152810",
-          "name": "Queen Size Antique Rosewood Bed Frame with Display Shelves",
-          "description": "Currently dismantled. In relatively good condition and able to come and view first. Antique rosewood material that holds strongly together for years.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "05 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "Queen Size Bed Frame",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "153437",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -748,17 +737,6 @@
           "description": "Usable but brake not working",
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
           "validTill": "31 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "153215",
-          "name": "Wheelchair",
-          "description": "wheelchair",
-          "location": null,
-          "validTill": "14 Feb 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
