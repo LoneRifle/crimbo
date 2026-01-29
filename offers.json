@@ -77,6 +77,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "153566",
+    "name": "single mattress",
+    "description": "single-size mattress",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "28 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": "190cm x 90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "153550",
     "name": "King Sized Mattress",
     "description": "King sized mattress only, without bed.",
@@ -84,17 +95,6 @@
     "validTill": "28 Feb 2026",
     "ageInYears": 4,
     "dimensions": "183x190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153547",
-    "name": "Dinning Table with 3 chairs",
-    "description": "Will deliver the set to the receiver on 5 Feb afternoon around 3-5pm. Delivery cost will be covered.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "06 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": "107 cm in diameter for Table",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -128,17 +128,6 @@
     "validTill": "10 Feb 2026",
     "ageInYears": 1,
     "dimensions": "Stated in the pictures attached",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153399",
-    "name": "Ikea Green Open Shelves",
-    "description": "2 green Kallax open shelves from Ikea. Please note that the feet are fixed so that one is meant to be placed vertical (the one on the right) and the other is meant to be horizontal (the one on the left). The horizontal one has a peg broken when I was fixing it so I won't put something heavy on it (circled red in the photo). I put the horizontal one vertical to save space for now and it's on a floor mat so it won't get scratched. The brackets for affixing to the wall is new and never used.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "08 Feb 2026",
-    "ageInYears": 1,
-    "dimensions": "147x77x39 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -770,17 +759,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "153429",
-    "name": "Wheelchair",
-    "description": "Usable but brake not working",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Jan 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "153406",
     "name": "Various grab bars",
     "description": "Various length, in good condition. Prefer to give away all to 1 VWO.",
@@ -891,12 +869,12 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "153553",
-    "name": "Baba Planter box (Size: 68.5cm x 24.5cm x 18.7cm)",
-    "description": "› Biodegradable material - Environment-friendly\n> Elegant design\n> Suitable for indoor and outdoor\ngardening.\n> Suitable for corridor and balcony gardening.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "id": "153564",
+    "name": "Nepro High Protein Milk",
+    "description": "We have 81 bottles of Nepro High Protein Milk to donate. \n4 bottles expired on 12 March 2026.\n77 bottles expired on 8 April 2026.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
     "validTill": "28 Feb 2026",
-    "ageInYears": 4,
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
