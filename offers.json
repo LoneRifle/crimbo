@@ -44,11 +44,11 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "153520",
-    "name": "Table fan",
-    "description": "Table fan x 2",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Feb 2026",
+    "id": "153622",
+    "name": "fan",
+    "description": "standing fan",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "10 Feb 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -99,11 +99,22 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "153592",
-    "name": "Cupboard",
-    "description": "Cupboard well used",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "04 Feb 2026",
+    "id": "153623",
+    "name": "office chair",
+    "description": "office chair",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "10 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153618",
+    "name": "Single bed with trundle (two mattresses)",
+    "description": "Solid wood (pine) single bed with trundle and two mattresses",
+    "location": null,
+    "validTill": "07 Feb 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -117,17 +128,6 @@
     "validTill": "03 Feb 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153584",
-    "name": "Dinning Table with 3 chairs",
-    "description": "I will delivery them to the client's house on 5 Feb afternoon. Delivery cost is absorbed by me.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "05 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": "107 cm in diameter for Table",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -671,23 +671,23 @@
     "category": "Medical Aids"
   },
   {
+    "id": "153613",
+    "name": "Mobile Mini Shower Commode (Fixed Armrests)",
+    "description": "This is a compact 3-in-1 mobility aid for narrow spaces. Please read the condition notes below carefully before requesting.\n\nCondition:\n* Status: Well used (since August 2023).\n* Maintenance: Stainless steel frame is rust-free. The wheels still swivel smoothly.\n* Hygiene: Thoroughly cleaned and disinfected.\n\nDefects (Please Read):\n* Wheel Lock: The lock on one of the wheels is spoiled. The other three wheels still lock, but please use with caution.\n* Seat Condition: There is a small tear along the seam of the soft PU seat.\n\nSpecifications:\n* Seat W x D: 15.5\" x 16.5\" (39.5 x 42 cm)\n* Seat height: 19.75\" (50 cm)\n* Overall height: 37.5\" (95 cm)\n* Overall width: 20.7\" (52.5 cm)\n* Wheel size: 4\" swivel wheel casters\n* Product weight: 9.6 kg (Fixed Armrests)\n* Weight capacity: 100 kg\n* Material: Stainless steel (frame), PU (seat, backrest, armrest)\n* To roll over toilet bowl, ensure height is less than 15.5\" (39.5 cm) and width is less than 16\" (41 cm)",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "01 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "153515",
     "name": "Commode with pot (no cover)",
     "description": "Commode on wheels and pot (no cover)",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "26 Feb 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "153507",
-    "name": "Shower stool",
-    "description": "Shower stool with adjustable legs",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "26 Feb 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
