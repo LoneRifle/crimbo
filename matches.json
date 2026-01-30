@@ -175,17 +175,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153309",
-          "name": "IKEA Single Sofa - 3 pieces",
-          "description": "3 single ikea sofas to give away asap.  Collection at a shop unit @ Queensway Shopping Centre",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "31 Jan 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "153181",
           "name": "Brown fabric sofa",
           "description": "3-seater fabric sofa in good usable condition. Clean, sturdy, normal wear.  Self-collection only. Lift access available (lift level)",
@@ -253,17 +242,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153204",
-          "name": "Single Bunk bed with attached desk",
-          "description": "Ikea bunk bed with attached desk with single mattress adult size single bed. For measurements please refer to the attached photos. Dismantle and assemble guide can be found in ikea website.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "31 Jan 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "153158",
           "name": "Queen size bedsheets",
           "description": "Bedsheets still in good condition. Queen size.",
@@ -297,17 +275,6 @@
           "category": "Others"
         },
         {
-          "id": "152892",
-          "name": "Super Single Metal Bed Frame",
-          "description": "- 16 inch high super single metal bed frame\n- bought it back in Aug 2024\n- dismantled\n- self-collect",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "31 Jan 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "153413",
           "name": "Baby/toddler play bedding/ toys/ books",
           "description": "I have a lot of baby/toddler stuff. \n\nMattress for playpen / floor\nToys for toddler/ kids below 5yrs\nA toy piano\nBooks\n\nI have more items so if you are looking for children items, i see what i have to match. Thanks",
@@ -337,6 +304,51 @@
           "validTill": "05 Feb 2026",
           "ageInYears": 4,
           "dimensions": "Queen Size Bed Frame",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153624",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Elderly couple living in 2 room flat. No children. Elderly lady with bad knees is the sole caregiver of elderly man who got a stroke, now living with limited mobility and impaired speech. As it is difficult for them to go out, having a TV is important for them to be connected with the world.",
+    "specifications": "45 to 50 inch",
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Anthea Chua",
+      "email": "anthea.chua@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jan 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "152855",
+          "name": "Samsung TV Monitor",
+          "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "17.5 inch x 26.5 inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "153268",
+          "name": "Portable TV rack with small shelving",
+          "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
+          "location": "Yishun",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "L 60 W 40 H 114 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
