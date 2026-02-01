@@ -167,73 +167,6 @@
     }
   },
   {
-    "id": "153624",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Elderly couple living in 2 room flat. No children. Elderly lady with bad knees is the sole caregiver of elderly man who got a stroke, now living with limited mobility and impaired speech. As it is difficult for them to go out, having a TV is important for them to be connected with the world.",
-    "specifications": "45 to 50 inch",
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Anthea Chua",
-      "email": "anthea.chua@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "152855",
-          "name": "Samsung TV Monitor",
-          "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "07 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "17.5 inch x 26.5 inch",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "153268",
-          "name": "Portable TV rack with small shelving",
-          "description": "Portable TV rack on 4 on 4 wheels with 2 shelf space to place routers/speakers. Good condition",
-          "location": "Yishun",
-          "validTill": "20 Feb 2026",
-          "ageInYears": 2,
-          "dimensions": "L 60 W 40 H 114 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "153638",
-          "name": "Sony 65inch TV",
-          "description": "Fully functional Sony OLED TV. \nBut please note that there is some issue with the remote control. To turn on the TV, one must press the on/off button in the TV.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "03 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "145cm width x 95cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "153639",
-          "name": "Grey colour TV console/ cupboard",
-          "description": "- Grey wooden TV console\n- Features 3 drawers with dividers for organized storage\n- Includes open shelves\n190 (W)\n40 (D)\n54 (H)\n\n- Sturdy and ready for use, may want to repaint, some water damage to paint on top\n- Perfect for your living room",
-          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-          "validTill": "04 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "190cm, 40cm, 54cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "153437",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -252,6 +185,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "153645",
+          "name": "TV cabinet",
+          "description": "It’s ikea tv console, no need to dismantle",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "05 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "152855",
           "name": "Samsung TV Monitor",
           "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
@@ -272,17 +216,6 @@
           "dimensions": "L 60 W 40 H 114 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "153638",
-          "name": "Sony 65inch TV",
-          "description": "Fully functional Sony OLED TV. \nBut please note that there is some issue with the remote control. To turn on the TV, one must press the on/off button in the TV.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "03 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "145cm width x 95cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         },
         {
           "id": "153639",
@@ -319,6 +252,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "153645",
+          "name": "TV cabinet",
+          "description": "It’s ikea tv console, no need to dismantle",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "05 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "152855",
           "name": "Samsung TV Monitor",
           "description": "Samsung TV Monitor. Only 1 user. Reasonably good condition. We are decluttering.",
@@ -339,17 +283,6 @@
           "dimensions": "L 60 W 40 H 114 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "153638",
-          "name": "Sony 65inch TV",
-          "description": "Fully functional Sony OLED TV. \nBut please note that there is some issue with the remote control. To turn on the TV, one must press the on/off button in the TV.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "03 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "145cm width x 95cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         },
         {
           "id": "153639",
