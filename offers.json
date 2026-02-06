@@ -660,6 +660,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "153851",
+    "name": "Hospital  bed",
+    "description": "Good condition Hospital  bed include Pump n air mattress, pump warranty till 16/10/2026",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "23 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "153728",
     "name": "A shower chair",
     "description": "if possible, we do not cover delivery charges",
@@ -711,17 +722,6 @@
     "validTill": "15 Feb 2026",
     "ageInYears": 4,
     "dimensions": "Various length",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "153298",
-    "name": "Walking Stick",
-    "description": "Walking stick",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
