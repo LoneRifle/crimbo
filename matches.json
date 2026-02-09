@@ -437,40 +437,6 @@
     }
   },
   {
-    "id": "153767",
-    "category": "Home Furnishing",
-    "name": "Queen Size Mattress",
-    "description": "A young couple is raising four children (ages 2, 3, 7, and 11) in a 2-room HDB rental flat needs a queen sized mattress. After the father lost his full-time job in October 2025, the family now relies on his part-time income of just $800 monthly from Burger King, whilst the mother cannot work due to Goldenhar Syndrome, a medical condition affecting her daily functioning. The mother and her two children currently sleep on two worn-out single mattresses that are causing her severe back pain, making it difficult for her to rest and care for her young children. A queen-sized mattress would provide her the basic comfort she needs to manage her health condition and continue caring for her family during this challenging time.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Chua Chu Kang",
-      "name": "Joan Chan",
-      "email": "joan_jy_chan@msf.gov.sg",
-      "phone": [
-        "87714038",
-        "67671347"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153766",
-          "name": "Queen Size Mattress",
-          "description": "Relatively New and Very Good condition. Hotel Collection Good Quality Queen size Mattress. German Technology, Cool Silk, Pocketed Spring System. Kindly arrange and pay for own delivery. Thank you!",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "12 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "153734",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -490,17 +456,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "153766",
-          "name": "Queen Size Mattress",
-          "description": "Relatively New and Very Good condition. Hotel Collection Good Quality Queen size Mattress. German Technology, Cool Silk, Pocketed Spring System. Kindly arrange and pay for own delivery. Thank you!",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "12 Feb 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "153830",
           "name": "Queen bed with mattress",
           "description": "Upholster queen bed frame with mattress",
@@ -512,7 +467,29 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153831",
+          "id": "153885",
+          "name": "Queen bed with mattress",
+          "description": "Upholster queen bed frame with mattress",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "04 Mar 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153886",
+          "name": "Queen bed with mattress",
+          "description": "Upholster queen bed frame with mattress",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "04 Mar 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "153887",
           "name": "Queen bed with mattress",
           "description": "Upholster queen bed frame with mattress",
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
@@ -543,6 +520,17 @@
           "dimensions": "ESTIMATE: 210X90",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "153888",
+          "name": "Single size metal bed (+ very firm mattress)",
+          "description": "Brand new unused black metal bed frame. Comes with very firm mattress (also brand new, still in shop plastic wrap).\n\nReason to let go: Bought 2 sets by mistake. Purchased Nov 2025.\n\nBed frame already dismantled & ready for pickup.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "28 Feb 2026",
+          "ageInYears": 1,
+          "dimensions": "Single-size bed",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "153793",
@@ -833,6 +821,40 @@
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153883",
+    "category": "Mobility Aids",
+    "name": "Walking frame",
+    "description": "Client is divorced and living alone. Limited social and financial support. His daughter seldom involved in his care and does not provide financial support. Client recently had a fall leading to left hip fracture and on non- weight bearing status. He has difficulty with ambulation and attending TCU due to the lack of appropriate walking aids and wheelchair. Unable to purchase proper equipment due to financial constraint.",
+    "specifications": null,
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Marhamah Binte Mohamed Ali",
+      "email": "marhamah.mohamed.ali@singhealth.com.sg",
+      "phone": [
+        "64267519",
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153869",
+          "name": "Walking frame",
+          "description": "Walking frame",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "09 Mar 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
