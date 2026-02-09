@@ -1,106 +1,5 @@
 [
   {
-    "id": "93032",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Family of 3 requires a TV",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Mardiana Bte Mohd Amizan",
-      "email": "mardiana@sccfsc.org.sg",
-      "phone": [
-        "88286409",
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153864",
-          "name": "White TV console from IKEA",
-          "description": "Simple piece of furniture. Recommended for those staying near Serangoon Ave 2 for self pick up.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "1.2m x 41.5 x 54 (LxWxH)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153437",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "A family of 8, including 5 school going children, living in a 2-room rental flat. Mother is the sole caregiver and breadwinner and does adhoc delivery to support the family. The family will be refurbishing their home with the assistance from Central CDC in March 2026 and requires a new TV as their current TV has spoiled.",
-    "specifications": "42 inch",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Fenni Sim",
-      "email": "fennisim@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "26 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153864",
-          "name": "White TV console from IKEA",
-          "description": "Simple piece of furniture. Recommended for those staying near Serangoon Ave 2 for self pick up.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "1.2m x 41.5 x 54 (LxWxH)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153026",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Family of 6 with 4 school-going children staying in a 2-room rental flat who requires a television as their current one is faulty (TV backlight is spoilt, can turn on but no picture). Would greatly appreciate if donor is able to cover transport expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Mohamad Harith",
-      "email": "harith_husaini@msf.gov.sg",
-      "phone": [
-        "63254547",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Jan 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153864",
-          "name": "White TV console from IKEA",
-          "description": "Simple piece of furniture. Recommended for those staying near Serangoon Ave 2 for self pick up.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "1.2m x 41.5 x 54 (LxWxH)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "153739",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -328,6 +227,39 @@
           "validTill": "20 Feb 2026",
           "ageInYears": 2,
           "dimensions": "80-130cm in waist",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "153909",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Client comes from a low-income family and is doing her best to care for her elderly mother while working part-time as a cleaner to support her children, who are still in school. As she prepares to celebrate the upcoming Hari Raya, client is hoping to receive a dining table to create a more welcoming and comfortable home for her family. Any assistance in the form of a donated coffee table would be greatly appreciated. Please Whatsapp Jie Qi at 8484 6181 or email at jieqi.yeo@thkmc.org.sg to liase. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153890",
+          "name": "Dining Table",
+          "description": "Dining Table",
+          "location": "D9",
+          "validTill": "15 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "W140 x D80 x H75 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
         }
