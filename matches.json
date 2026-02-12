@@ -34,6 +34,40 @@
     }
   },
   {
+    "id": "154060",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Single mother with 3 children ranging from 6 months to 15 y/o requires assistance to purchase diapers as she is tight on finances. She is also undergoing divorce and is not receiving money from her spouse. The assistance with purchasing diapers for her will be beneficial to tide through the financial constraints.",
+    "specifications": "Drypers Size M",
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Gan Wan Lin",
+      "email": "wanlin.gan@reach.org.sg",
+      "phone": [
+        "68010735",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153263",
+          "name": "Adult Diapers Size M",
+          "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
+          "location": "Farrer Park, Little India, Serangoon Road",
+          "validTill": "20 Feb 2026",
+          "ageInYears": 2,
+          "dimensions": "80-130cm in waist",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "153991",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -386,56 +420,22 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "153968",
-    "category": "Home Furnishing",
-    "name": "Sofa Bed",
-    "description": "Family is low-income and residing in a rental flat. They have challenges to afford purchasing furniture. Client would appreciate a sofa bed for their 13 year old son, as he currently sleeps on a mattress on the floor.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
-      "phone": [
-        "88333080",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "153647",
-          "name": "Single sofa bed",
-          "description": "Single sofa bed with red cover. Please message me instead of call. Thank you.",
-          "location": "Clementi",
-          "validTill": "28 Feb 2026",
-          "ageInYears": 4,
-          "dimensions": "180L when open",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         },
         {
-          "id": "153871",
+          "id": "154065",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -530,11 +530,22 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -630,11 +641,22 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -664,11 +686,22 @@
     "matches": {
       "passiton": [
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -698,11 +731,22 @@
     "matches": {
       "passiton": [
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -731,11 +775,22 @@
     "matches": {
       "passiton": [
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -865,11 +920,22 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -899,11 +965,22 @@
     "matches": {
       "passiton": [
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
@@ -932,45 +1009,22 @@
     "matches": {
       "passiton": [
         {
-          "id": "153871",
+          "id": "154066",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "152902",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Family has 2 children aged 6 & 7 years old and family is receiving SSO assistance. Family hopes to have a wardrobe to put all the family's clothings neatly.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Toa Payoh",
-      "name": "Yeo Jie Min",
-      "email": "yeojiemin@carecorner.org.sg",
-      "phone": [
-        "69783474",
-        "63561622"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Jan 2026",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "153871",
+          "id": "154065",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
-          "description": "Donating to needy families, lightly used \n\nNeedy families who keen to collect this adjustable height hospital metal bedframe without mattress about 1m (width) x 3m (Length) for own usage, sofa about 1m (width) x 2.7m (Length), 3 door wardrobe about 39cm (width) x 2m (Length) x 2.5m (Height), pls seek transport fee assistance from your social worker for transportation arrangement if interested.\n\nAll this items going dispose if no taker",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Feb 2026",
+          "validTill": "12 Mar 2026",
           "ageInYears": 4,
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
