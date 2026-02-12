@@ -820,17 +820,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "154031",
-          "name": "Mattress",
-          "description": "Queen size mattress comes with bed frame",
-          "location": null,
-          "validTill": "13 Feb 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "153886",
           "name": "Queen bed with mattress",
           "description": "Upholster queen bed frame with mattress",
@@ -1170,28 +1159,6 @@
           "description": "Walking frame",
           "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
           "validTill": "09 Mar 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "153901",
-          "name": "Walking frame",
-          "description": "Foldable walking aid. Hardly used as too high for my father's height.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "13 Feb 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "153902",
-          "name": "Walking frame",
-          "description": "Foldable walking aid. Hardly used as too high for my father's height.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "13 Feb 2026",
           "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
