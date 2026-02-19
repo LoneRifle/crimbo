@@ -33,13 +33,13 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "154161",
-    "name": "1.7l MORRIES GLASS KETTLE BRAND NEW",
-    "description": "Brand new glass kettle \n1.7l\nLocal plug with Singapore safety mark",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "01 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": null,
+    "id": "154176",
+    "name": "Hitachi Fridge",
+    "description": "2 door fridge. Light not working but fridge still works well.\n\n148cm x 65cm deep x 55cm wide",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "148cm x 65cm x 55cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -119,6 +119,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "154175",
+    "name": "Pickett and Rail TV cabinet drawers",
+    "description": "Pickett & Rail cabinet with drawers",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "170cm x 88cm x 46cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154174",
+    "name": "Ikea Cabinet",
+    "description": "Ikea Wooden cabinet",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "192cm x 86cm x 33cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154173",
+    "name": "Ikea drawers",
+    "description": "80cm tall x 80cm length x 50cm deep",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Feb 2026",
+    "ageInYears": 4,
+    "dimensions": "80cm x 80cm x 50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "154126",
@@ -231,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "153923",
-    "name": "Desk with storage shelves",
-    "description": "Compact and functional multifunctional desk with shelves. Can be used as desk or as storage option. Great for small homes / study rooms. Self-collection from Cavenagh Road.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "153747",
     "name": "IKEA LÅNGFJÄLL Conference Chair - Pink",
     "description": "This easy-to-place conference chair with gently curved lines accentuated by sewn details is kind to your body and pleasant to look at. The tilt and height-adjusting mechanism enables individual comfort.",
@@ -292,17 +314,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "26 Feb 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153253",
-    "name": "Plastic chairs Qty 6",
-    "description": "Plastic chairs in good condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -528,28 +539,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "153297",
-    "name": "Oxygen concentrator",
-    "description": "Nidek",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "153251",
-    "name": "Commode",
-    "description": "Commode in good condition. Comes with pail.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "154123",
     "name": "Crutches",
     "description": "In very good condition.",
@@ -658,6 +647,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "154172",
+    "name": "Single air bed and pump",
+    "description": "Airbed from decathlon and pump, like new, only used once-",
+    "location": null,
+    "validTill": "23 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "154143",
@@ -799,17 +799,6 @@
     "validTill": "21 Feb 2026",
     "ageInYears": 1,
     "dimensions": "212cm x 110.5cm x 69cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "153263",
-    "name": "Adult Diapers Size M",
-    "description": "All in size M\nX4 Tena Diapers (opened)\nX1 Suprem Fit diapers (Opened)\nX1 Suprem Fit diapers (un opened)",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "20 Feb 2026",
-    "ageInYears": 2,
-    "dimensions": "80-130cm in waist",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
