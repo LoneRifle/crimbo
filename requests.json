@@ -4313,24 +4313,6 @@
     "date": "03 Feb 2026"
   },
   {
-    "id": "153721",
-    "category": "Infant and Children Items",
-    "name": "Baby Cot",
-    "description": "Family has 3 children under 10y.o and is expecting their 4th child. With one spouse serving as the sole breadwinner, the family is facing financial constraints and would greatly benefit from assistance with essential baby items. They are particularly in need of a baby cot with mattress, though any baby-related items would be warmly welcomed and deeply appreciated. :)",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Aryani Ramlan",
-      "email": "Aryani_RAMLAN@msf.gov.sg",
-      "phone": [
-        "92269040",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Feb 2026"
-  },
-  {
     "id": "153708",
     "category": "Infant and Children Items",
     "name": "Similac Stage 4 Milk",
@@ -4807,6 +4789,24 @@
     "date": "26 Jan 2026"
   },
   {
+    "id": "154402",
+    "category": "Medical Aids",
+    "name": "Portable Oxygen Concentrator",
+    "description": "Elderly patient under our home hospice care requires long-term round-the-clock oxygen concentrator to help with her breathing. Hence, she has stayed home for a year now. It is her greatest wish to be able to leave her house again but is unable to do so without a portable oxygen concentrator.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Tan Wen Shi",
+      "email": "wenshi_tan@singaporecancersociety.org.sg",
+      "phone": [
+        "81296306",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2026"
+  },
+  {
     "id": "154364",
     "category": "Medical Aids",
     "name": "Adult Diapers",
@@ -4980,6 +4980,58 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Jan 2026"
+  },
+  {
+    "id": "154406",
+    "category": "Home Furnishing",
+    "name": "Kitchen cabinet",
+    "description": "Low income family is replacing their spoilt furniture and hopes to receive a small cabinet that can store their food items in the kitchen. Direct delivery to their home in Queenstown is appreciated!",
+    "specifications": "Small-sized cabinet suitable for storing food items",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2026"
+  },
+  {
+    "id": "154405",
+    "category": "Home Furnishing",
+    "name": "Sofa bed",
+    "description": "Low income family is replacing their spoilt furniture and hopes to receive a sofa bed. Direct delivery to their home in Queenstown is appreciated!",
+    "specifications": "2-seater sofa bed",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2026"
+  },
+  {
+    "id": "154403",
+    "category": "Home Furnishing",
+    "name": "Small study desk",
+    "description": "Client, F/52 is married with a daughter, aged 14 years old.  Husband, M/58 is working as a full time cleaner, while Client works as a part-time cleaner. Daughter, F/14 is doing well in Secondary school but does not have a proper study area at home. Client hopes to get a small study desk ( that can fit into 89cm by 52 cm area)  and chair so that F/14 has a more conducive studying environment.  M/58 also recently recovered from a mild heart attack and the family hopes to be more prudent in their expenses and does not mind any pre-loved items.",
+    "specifications": "89cm by 52 cm area",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "25 Feb 2026"
   },
   {
     "id": "154400",

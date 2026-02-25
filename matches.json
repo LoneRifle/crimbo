@@ -34,6 +34,40 @@
     }
   },
   {
+    "id": "154048",
+    "category": "Electrical Home Appliances",
+    "name": "Printer",
+    "description": "Family of 4. Current printer is no longer working. Need it to print documents and for project work etc. Dad not working due to health reasons. Mom is a caregiver",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Terence Chiuh",
+      "email": "terence_chiuh@msf.gov.sg",
+      "phone": [
+        "62319389",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "154404",
+          "name": "Canon Pixma E410 printer",
+          "description": "Brand new printer, Canon Pixma E410 printer bought the wrong specification, instead of throwing found about this place and chose instead.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "03 Mar 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "93032",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -530,6 +564,61 @@
           "validTill": "19 Mar 2026",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154405",
+    "category": "Home Furnishing",
+    "name": "Sofa bed",
+    "description": "Low income family is replacing their spoilt furniture and hopes to receive a sofa bed. Direct delivery to their home in Queenstown is appreciated!",
+    "specifications": "2-seater sofa bed",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "153647",
+          "name": "Single sofa bed",
+          "description": "Single sofa bed with red cover. Please message me instead of call. Thank you.",
+          "location": "Clementi",
+          "validTill": "28 Feb 2026",
+          "ageInYears": 4,
+          "dimensions": "180L when open",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "154066",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "154065",
+          "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
+          "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
         }
