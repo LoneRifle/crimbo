@@ -77,6 +77,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "154487",
+    "name": "Small cabinet",
+    "description": "Storage cabinet",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": "24\" x 18\" x 42\"",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154486",
+    "name": "3 seater sofa",
+    "description": "NA",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": "Nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154485",
+    "name": "Sealy Posturepedic Super Single mattress",
+    "description": "Super single",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Mar 2026",
+    "ageInYears": 3,
+    "dimensions": "190 x 107 x 30 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "154461",
     "name": "Hospital bed and table",
     "description": "Fully working hospital bed, with table, needs to be removed urgently.",
@@ -128,17 +161,6 @@
     "validTill": "28 Feb 2026",
     "ageInYears": 4,
     "dimensions": "100cm x 45cm x 80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154365",
-    "name": "6 seater dining table",
-    "description": "6 seater dining table",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "23 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -218,6 +240,28 @@
     "dimensions": "180L when open",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "154474",
+    "name": "Drypers Drypants size M",
+    "description": "2 brand new packs and 1 opened packet of Drypers drypantz. only used few pieces from the opened packet as it is too tight for my baby. The diaper should fit baby of up till 9 or 10 kg, otherwise might be too tight.\n\nAs travelling is an issue, prefer to send donate diaper to family staying close to AMK, Bishan, Serangoon, Hougang, Sengkang and punggol area.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154471",
+    "name": "Millard brand Cot/Crib Mattress - Soft/Firm - Cover machine washable",
+    "description": "- CertiPUR-US certified for safety\n- Soft and firm sides for comfort\n- Made without ozone depleters, flame retardants, and heavy metals\n- Low VOC emissions for better air quality\n- Waterproof cover fully removable for easy machine washing\n- Near new condition\n\nPick up at 268800",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "29 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": "191cm x 79cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "153984",
@@ -363,22 +407,11 @@
     "category": "Learning Aids"
   },
   {
-    "id": "154380",
-    "name": "Tape Adult Diapers - L size",
-    "description": "Please make your own pick up arrangement from Sin Ming Road",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "154379",
-    "name": "Pull up Pants",
-    "description": "Please make your own pick up arrangement from Sin Ming Road",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 Mar 2026",
+    "id": "154476",
+    "name": "Brand new Ossur shoulder brace with abduction",
+    "description": "Brand new in bag",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "29 Mar 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -418,6 +451,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "154464",
+    "name": "Hospital bed with air pump",
+    "description": "Bed bought from DNR. Mattress not included. Please arrange for own transport.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "28 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "153794",
     "name": "Roll of 2-ply couch tissue",
     "description": "- Medical couch roll 2-ply\n- Tear off each piece is 49.5 cm x 48 cm\n- Tissue quality is like kitchen tissue\n- Use for lining couch/bed for hygiene purpose",
@@ -447,17 +491,6 @@
     "validTill": "12 Mar 2026",
     "ageInYears": 1,
     "dimensions": "See below",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "154356",
-    "name": "Walker",
-    "description": "Foldable, adjustable height",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "26 Mar 2026",
-    "ageInYears": 3,
-    "dimensions": "Approx 50cm x 50cm x 80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -512,17 +545,6 @@
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "09 Mar 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "153728",
-    "name": "A shower chair",
-    "description": "if possible, we do not cover delivery charges",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "05 Mar 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
