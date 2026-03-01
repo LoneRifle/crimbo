@@ -235,6 +235,40 @@
     }
   },
   {
+    "id": "153817",
+    "category": "Others",
+    "name": "Adult diaper",
+    "description": "Client is an elderly lady who lives alone, with little social support and estranged relationship with her family. She is on Public Assistance as she is permanently unfit for work due to multiple chronic conditions. She was recommended by doctors to purchase adult diapers due to poor bladder control but is unable to afford daily supply. She will appreciate kind donation of adult diaper pants size M.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "154505",
+          "name": "Adult diaper",
+          "description": "The diaper is well pack and not open. Only bought it around Aug last year.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "154452",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -1114,6 +1148,39 @@
           "dimensions": "120 x 55 x 105 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154457",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Family of 5 children who requires a wheelchair. One of the five children in the family sustained a leg injury and now requires a wheelchair to assist with mobility.",
+    "specifications": "Normal",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Evelyn  Chin",
+      "email": "evelynchin@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "154506",
+          "name": "Wheelchair",
+          "description": "Use for about 2 years",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
