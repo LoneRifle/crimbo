@@ -1,5 +1,27 @@
 [
   {
+    "id": "154532",
+    "name": "Woman sandals",
+    "description": "Woman’s sandals, size 37. Not worn.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "15 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "154531",
+    "name": "Ladies shoulder bag",
+    "description": "Woman’s black shoulder bag. Wide base, can fit wallet, mobile phone and small portable fan.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "15 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "153982",
     "name": "UNIQLO Blouse and Skirt",
     "description": "- Cream button top with blue floral print (Size: XL)\n- Light blue flowy skirt (Size: L)\n- Elastic waistband\n- Gives the sweet-girl vibes\n- Worn only once \n\nVWO to collect at Ang Mo Kio or I send to VWO (if it's in/near AMK). I prefer not to interact directly with needy, but will consider on a case-by-case basis. I do not wish to pay for any collection/delivery services.\n\nVWO may pay me $5-6 for postal mail, if item is suitable for postal mail.",
@@ -77,17 +99,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "154508",
-    "name": "\"Home to Life\"  L-shape Signature Full Leather 3 seater Sofa (two seats with recliner)",
-    "description": "Home to Life\"  3-Seater L-shape Signature Full Leather Sofa (two seats with recliner)\n\nWidth 2.85 meters\nL shape part Depth 1.7 meter \n\nHas minor scratches (please refer to the photos), but overall in good condition. Recliner function works well like new. \n\nWe bought it from \"Home to Life\" Marina Square outlet in August 2019 at S$4,931. A copy of the receipt can be provided upon request. \n\nPlease feel free to WhatsApp me if you have any questions. Thanks!:)",
-    "location": "Newton",
-    "validTill": "31 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": "Width 2.85m, Depth 1.7m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "154502",
     "name": "Study table (w/ chair included if keen)",
     "description": "Study table and chair to bless. All items still in good condition for use.",
@@ -106,17 +117,6 @@
     "validTill": "05 Mar 2026",
     "ageInYears": 4,
     "dimensions": "192 x 84 x 35",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154500",
-    "name": "Large heavy duty cabinet",
-    "description": "209cm x 90cm x 40cm",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "04 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": "209 x 90 x 40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -176,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "154366",
-    "name": "6 seater dining table",
-    "description": "6 seater dining table",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "23 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "154118",
     "name": "hospital bed",
     "description": "electrical hospital bed with mattress",
@@ -218,6 +207,17 @@
     "dimensions": "66cmDia x 77cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "154539",
+    "name": "Baby cot",
+    "description": "Comes with mattress , mattress cover , 2 bed sheets , cot bumper",
+    "location": null,
+    "validTill": "01 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "123 x 66 x 80cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "154491",
@@ -462,6 +462,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "154528",
+    "name": "Hospital Bed with Air Mattress",
+    "description": "Bought less than a month, comes with a Air mattress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "09 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": "212cmx 110.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "154510",
     "name": "Collapsible Walker",
     "description": "Prefer Self-collect \nDeliver only to Pasir Ris, Tampines, Simei, Bedok.",
@@ -479,17 +490,6 @@
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "31 Mar 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "154506",
-    "name": "Wheelchair",
-    "description": "Use for about 2 years",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "31 Mar 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -513,17 +513,6 @@
     "validTill": "12 Mar 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "154411",
-    "name": "Commode Wheel Chair",
-    "description": "FEATURES\nHold 150 kg\nAnti Tipper\nAnti-Rust Aluminum Finishing\n4 Attendant Wheel Brakes\nFoldable in 3 Seconds\nBucket with cover\nThick Aluminum Material\nHeight Adjustable Footrests\nLightweight 10 kg\nFit toilet seat height 46 cm below\nFit toilet seat width within 46 cm\n\nSPECIFICATION\nSeat entrance: 19\" (48 cm)\nSeat height: 16\" (40c cm)\nProduct weight: 10kg\nHold 150 kg\nMATERIAL: Aluminium",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "12 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": "See below",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -568,17 +557,6 @@
     "validTill": "15 Mar 2026",
     "ageInYears": 1,
     "dimensions": "32 to 39 inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "153870",
-    "name": "Shower Bench",
-    "description": "Shower Bench with no back rest \nAdjustable seat height",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "03 Mar 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },

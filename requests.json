@@ -1,5 +1,93 @@
 [
   {
+    "id": "154540",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "A family of three requires a working fridge. The family has attempted to repair their current fridge several times, but it can no longer be salvaged. Without a working fridge, the family is unable to store food that requires refrigeration, resulting in food spoilage. The family is facing financial constraints and is currently in the midst of searching for stable employment. The family has a school-going child.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154534",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "A family of five is currently living in a rental flat in Punggol. The household consists of two parents (aged 32 and 29) and three children (aged 12, 5, and 2). They do not own a microwave oven, and they have requested one as it would greatly assist them in reheating food and managing their daily meals more conveniently.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Kasthuri Raju",
+      "email": "kasthuri_raju@msf.gov.sg",
+      "phone": [
+        "63548391",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154530",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "I've a low-income 68 year old lady staying in a rental flat at Bendeemer Road whose washing machine was recently spoilt. She is now hand washing all her clothes which is physically taxing. Whenever she is stressed, she suffers fits now and then, and a small washing machine would greatly help her with lessening the stress of washing clothes. As she is on a permanent MC and with no income, it would be good if delivery can be arranged for the washing machine to be delivered to her, and if the delivery person can help her install the new machine and remove the old washing machine as well. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Catholic Welfare Services",
+      "name": "Ian Michael Binny",
+      "email": "michaelbinny@catholicwelfare.org.sg",
+      "phone": [
+        "84840008",
+        "63394711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154523",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client (F/69) has recently moved into a one-room rental flat shared with a JSS senior tenant. She is seeking a pass-it-on refrigerator to reduce the financial burden of purchasing additional household appliances. Thank you for your kindness!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154521",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "The client is married with three children aged 15, 13, and 1 year old. Her husband works as the family's sole breadwinner, earning a monthly income of $1,200, which barely covers their essential living expenses. The family had previously been managing with a broken refrigerator until they gratefully received a donated replacement. Unfortunately, the cooling system in the donated appliance failed after three weeks of use. The family is now seeking assistance from a donor to provide them with a reliable, functional replacement refrigerator to meet their household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Yanyu Phua",
+      "email": "phua_yanyu@msf.gov.sg",
+      "phone": [
+        "67564551",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
     "id": "153479",
     "category": "Electrical Home Appliances",
     "name": "Top Load Washing Machine",
@@ -287,24 +375,6 @@
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
     "description": "ComLink+ family urgently needs a washing machine. Kind donors who are able to bless family, pls contact family coach.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Teo Chin Wee",
-      "email": "teo_chin_wee@msf.gov.sg",
-      "phone": [
-        "63549057",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026"
-  },
-  {
-    "id": "154408",
-    "category": "Electrical Home Appliances",
-    "name": "Cooking Stove",
-    "description": "ComLink+ family urgently needs a cooking stove. Kind donors who are able to bless family, pls contact family coach.",
     "specifications": null,
     "contact": {
       "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
@@ -1643,217 +1713,142 @@
     "date": "30 Jan 2026"
   },
   {
-    "id": "154517",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is a 13-year-old female who recently had a relapse of her previous brain cancer and just completed brain surgery. Due to this, she is facing some mobility issues. A wheelchair (preferably one with anti-tippers) will ease caregiving duties by her dad, who is the main caregiver. Client is still in active treatment. A similar item can be found here for your reference: https://shopee.sg/Flip-up-light-weight-pushchair-wheelchair-9.8kg-w-anti-tipper-i.10883196.25241037787?extraParams=%7B%22display_model_id%22%3A198190309053%2C%22model_selection_logic%22%3A3%7D&sp_atk=f74312ce-ee09-4ed1-90bc-1626e2241f10&xptdk=f74312ce-ee09-4ed1-90bc-1626e2241f10",
-    "specifications": "with Anti-Tippers",
+    "id": "143548",
+    "category": "Medical Aids",
+    "name": "Tena Proskin Pants Adult Diapers S Size",
+    "description": "Client is an elderly widowed lady staying alone and requires support to purchase Tena Adult Diapers, S size as she is financially stretched out and bowel issues, requiring her to use diapers frequently.\n\nhttps://shopee.sg/Tena-PROskin-Pants-Plus-Adult-Diapers-S-M-L-XL-XXL-Size-i.1181215185.24564596400?sp_atk=c4151ae9-1e67-49a2-8c76-d503bdf77b27&xptdk=c4151ae9-1e67-49a2-8c76-d503bdf77b27\n\nKindly contact Christy at 9642 3618 to make the arrangement. Thank you!",
+    "specifications": null,
     "contact": {
-      "org": "AIN Society",
-      "name": "Nur'Ain Binte Mohamed Said",
-      "email": "nurain@ainsociety.org.sg",
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Christy Lim",
+      "email": "christylim@fycs.org",
       "phone": [
-        "68485116",
-        "68485166"
+        "96423618",
+        "64712022"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Mar 2026"
   },
   {
-    "id": "148316",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "The elderly man live in a 2-room HDB rental flat. Due to old age and multiple health conditions, he is unable to work. \n\nThe couple needs a wheelchair, as his motorised wheelchair is faulty. He requires a standard size wheelchair (with big wheels), as he can be quite tall and heavy.",
+    "id": "154402",
+    "category": "Medical Aids",
+    "name": "Portable Oxygen Concentrator",
+    "description": "Elderly patient under our home hospice care requires long-term round-the-clock oxygen concentrator to help with her breathing. Hence, she has stayed home for a year now. It is her greatest wish to be able to leave her house again but is unable to do so without a portable oxygen concentrator.",
     "specifications": null,
     "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
+      "org": "Singapore Cancer Society",
+      "name": "Tan Wen Shi",
+      "email": "wenshi_tan@singaporecancersociety.org.sg",
       "phone": [
-        "94552166",
-        "67156715"
+        "81296306",
+        "62219578"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "02 Mar 2026"
+    "date": "25 Feb 2026"
   },
   {
-    "id": "154457",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Family of 5 children who requires a wheelchair. One of the five children in the family sustained a leg injury and now requires a wheelchair to assist with mobility.",
-    "specifications": "Normal",
+    "id": "154364",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Client is a single parent with 1 school going child. She is currently unable to seek employment due to poor mobility from her illnesses (diabetes, severe varicose veins). She is currently dependent on financial assistance which is difficult to cover for her expenses on adult diapers on top of other household expenses and educational needs for her child.",
+    "specifications": "(64 inch, 163 cm)",
     "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Vera Teo",
+      "email": "verateo@fycs.org",
       "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Feb 2026"
-  },
-  {
-    "id": "154442",
-    "category": "Mobility Aids",
-    "name": "Wheel Chair",
-    "description": "Client has multiple chronic medical conditions. He is currently undergoing Negative Pressure Therapy for wound healing on his right leg and has undergone a below-knee amputation of his left leg. As he is wheelchair-bound and has no source of income, his overall condition has been deteriorating. We would like to request assistance with the following essential items to better support his daily living needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Caregiving Welfare Association",
-      "name": "Genevieve Koh",
-      "email": "genevieve.koh@cwa.org.sg",
-      "phone": [
-        "64667996",
-        "68595170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Feb 2026"
-  },
-  {
-    "id": "154349",
-    "category": "Mobility Aids",
-    "name": "Aplus Lightweight Detachable Pushchair",
-    "description": "Family is requesting a lightweight, detachable wheelchair for their child, who recently had brain surgery and walks with an unsteady gait. She tires quickly on longer distances and needs wheelchair support. Their current model lacks anti-tippers, leading to a recent backward fall over a small hump. Both parents work full-time, but father has taken several weeks of no-pay leave to support her recovery and caregiving.\n\nFamily would prefer an anti-tippers on the wheelchair. For easier referencing and dimensions, please refer to this model, preferably the 16\" dimensions: https://www.dnrwheels.com/products/aplus-lightweight-detachable-pushchair?variant=13503605440570",
-    "specifications": null,
-    "contact": {
-      "org": "Club Rainbow (Singapore)",
-      "name": "Nurulhuda Binte Abu Bakar",
-      "email": "nurul@clubrainbow.org",
-      "phone": [
-        "81336189",
-        "63771789"
+        "65690381"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "24 Feb 2026"
   },
   {
-    "id": "154046",
-    "category": "Mobility Aids",
-    "name": "Travel Rollator",
-    "description": "Senior living alone with suspected dementia and is experiencing increasing mobility difficulties. Due to her limited social support and financial constraints, she would benefit from a lightweight travel rollator (with a seat) to support her safety and independence when moving around. \n\nPlease feel free to contact Gina at 6389 5108 (WhatsApp) if you are able to help. Thank you so much for your kindness and support.",
-    "specifications": "-",
-    "contact": {
-      "org": "Dementia Singapore",
-      "name": "Gina Peh",
-      "email": "gina.peh@dementia.org.sg",
-      "phone": [
-        "63895108",
-        "63895133"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Feb 2026"
-  },
-  {
-    "id": "154003",
-    "category": "Mobility Aids",
-    "name": "Wheelchair 22 inch seat",
-    "description": "Client's previous wheelchair spoilt and he lacks the financial means to purchase a new one (medically unfit for work)  If you have a suitable item, please WhatsApp us at 6843 9619 thank you!",
+    "id": "154262",
+    "category": "Medical Aids",
+    "name": "Anlene Gold TX",
+    "description": "The client (F/63) is the primary caregiver for her three grandchildren and is medically unfit for work. She relies on financial assistance as her main source of income. Despite her financial challenges, she continues to cover all household expenses and provide for her family’s needs. She requires Anlene milk for her own consumption, which she is currently unable to afford due to her limited resources. Thank You for your kind donation.",
     "specifications": null,
     "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Han Wen Ting",
-      "email": "hanwenting@mws.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
       "phone": [
-        "67872001"
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "11 Feb 2026"
+    "date": "23 Feb 2026"
   },
   {
-    "id": "153904",
-    "category": "Mobility Aids",
-    "name": "Rollator frame",
-    "description": "Client has end stage liver cancer. He lives with his wife, who also has other chronic illnesses. \n\nHe is in palliative care and requires assistance to remain mobile. While at home, he has been using a wheeled office chair to help him around. However, this is getting more difficult as he needs compromise his posture due to the way the chair is. \n\nA rollator frame with 2 wheels will help improve his quality of life tremendously.",
+    "id": "154133",
+    "category": "Medical Aids",
+    "name": "Adult pull-up diapers (no tape-type) and underpads",
+    "description": "Client is a 61-year-old elderly woman who is diabetic and an amputee, requiring pull-up adult diapers (Size L) for daily use. She is unfit for work due to her medical condition and mobility issues. She is also the primary caregiver for her school-going nephew. The family relies on limited informal support and would benefit from any donation of adult pull-up diapers (no tape-type) and underpads if available. Any brand and quantity are welcome; the more, the better. Best case scenario is a supply for at least three months or more.",
     "specifications": null,
     "contact": {
-      "org": "AIN Society",
-      "name": "Nurul Huda Maarop",
-      "email": "nurulhuda@ainsociety.org.sg",
+      "org": "Whampoa Family Service Centre",
+      "name": "Harry Muhammad Shahari Bin Suhaimi",
+      "email": "harrysuhaimi@kkcs.org.sg",
       "phone": [
-        "68486033",
-        "68485166"
+        "64854750"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "09 Feb 2026"
+    "date": "19 Feb 2026"
   },
   {
-    "id": "153899",
-    "category": "Mobility Aids",
-    "name": "4-wheel walker",
-    "description": "We are assisting a client who has recently been discharged and is facing mobility difficulties. Client requires a walker with wheels and a seat to support her daily movements and reduce her risk of falls.",
+    "id": "153725",
+    "category": "Medical Aids",
+    "name": "Adult Diapers Pant Style",
+    "description": "Client (F/42), a single who take care of her elderly grandmother (F/87) in a one-room rental flat. She has Artritis and is using PMA devices to commute in the community. Please Whatsapp Suzanne at 86661355 or email to suzanne.eu@thkmc.org.sg to liaise.",
+    "specifications": "Size: XL",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2026"
+  },
+  {
+    "id": "154538",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client and husband are facing challenges in finding employment at this time. Client is also experiencing health issues, which make job-seeking more difficult. They are needing support to meet their 3 young children's needs. They require Dugro Stage 3, 4 tins are consumed per month. For further liaison, kindly contact me at 98598768, I will respond during office hours from 9am to 5pm on weekdays, thank you so much!",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Nurul Adryana Abu Bakar",
-      "email": "nuruladryana@allkin.org.sg",
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
       "phone": [
-        "60384270",
-        "60384100"
+        "60156970"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "09 Feb 2026"
+    "date": "02 Mar 2026"
   },
   {
-    "id": "153892",
-    "category": "Mobility Aids",
-    "name": "Commode",
-    "description": "Request assistance for a brand new commode for an elderly lady from a family of three, consisting of two elderly parents and an adult daughter.\n\nThe daughter is the full-time caregiver for both parents and is unable to work, hence the family currently has no source of income and is surviving on their savings. The existing commode is no longer suitable, and a replacement is urgently needed due to hygiene concerns.\n\nIf the request is feasible, please WhatsApp me at 8800 3073 and I can provide an image or Shopee link of the suitable commode. Delivery can be made directly to the family’s address.",
-    "specifications": "NA",
-    "contact": {
-      "org": "Hua Mei Care Management Service of TSAO Foundation",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
-      "phone": [
-        "65939576",
-        "65939596"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Feb 2026"
-  },
-  {
-    "id": "153760",
-    "category": "Mobility Aids",
-    "name": "Electric wheelchair",
-    "description": "Client is a 31-year-old female with left-sided paralysis who is wheelchair-bound and resides with her elderly mother. She is motivated to increase her social and community participation but is unable to do so independently due to mobility limitations.\n\nThe client’s mother has difficulty assisting with a manual wheelchair due to her age, significantly limiting the client’s ability to access the community. Provision of a motorised wheelchair would improve the client’s independence, reduce caregiver strain, and support safe community mobility and social engagement. Kindly contact me at 96409381 for coordination thank you! :)",
+    "id": "154537",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client and husband are facing challenges in finding employment at this time. Client is also experiencing health issues, which make job-seeking more difficult. They are needing support to meet their 3 young children's needs. They require Drypers Pants size XXL, 4 packets are used per month. For further liaison, kindly contact me at 98598768, I will respond during office hours from 9am to 5pm on weekdays, thank you so much!",
     "specifications": null,
     "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Shanelle Tan",
-      "email": "shanelle.tan@montfortcare.org.sg",
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
       "phone": [
-        "62746904",
-        "62708327"
+        "60156970"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "04 Feb 2026"
-  },
-  {
-    "id": "153755",
-    "category": "Mobility Aids",
-    "name": "Motorized wheelchair",
-    "description": "Client is a 76-year-old senior, whom is no longer working and lacks informal social support.\n\nShe is keen to replace her motorized wheelchair, but is unable to afford one financially. She would thus benefit from the donation of a working motorized wheelchair.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner - Community Case Management Service Central",
-      "name": "Alethia Toh",
-      "email": "alethiatoh@carecorner.org.sg",
-      "phone": [
-        "62586601"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Feb 2026"
+    "date": "02 Mar 2026"
   },
   {
     "id": "154455",
@@ -3576,6 +3571,60 @@
     "date": "30 Jan 2026"
   },
   {
+    "id": "154541",
+    "category": "Others",
+    "name": "Groceries",
+    "description": "I am writing to request donation support for one of my elderly male clients.\n\nHe is 77 years old, lives alone, and is physically frail. Due to his age and ongoing health issues, he is unable to work and currently has no income. Despite being very careful with his spending and trying to save wherever possible, he continues to struggle financially each month, even for daily necessities and groceries. The ongoing financial stress has also affected his mental well-being.\n\nI have obtained his permission to reach out for support on his behalf. We are hoping to receive grocery and basic household necessities through Pass-It-On, so he can at least have peace of mind regarding his essential needs.\n\nAny brand will do, and partial support would also be greatly appreciated. The items requested are:\n\n1.Laundry detergent\n2.Multi-purpose floor cleaner\n3.Body wash\n4.Shampoo\n5.Toilet paper\n6.Peanut butter and kaya\n7.Packet tissues\n8.Bread loaf\n9.100PLUS Zero Sugar\n10.Biscuits and crackers\n\nYour support would greatly ease his burden and make a meaningful difference in his daily life.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Chris Tan",
+      "email": "tanyonghong@fycs.org",
+      "phone": [
+        "96424877",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154535",
+    "category": "Others",
+    "name": "Queen Size Mattress",
+    "description": "A family of five living in a rental flat in Punggol. The household consists of two parents (aged 32 and 29) and three children (aged 12, 5, and 2). Currently, both parents and their two younger children are sleeping on an old, stained mattress but due to financial difficulties they are unable to afford a replacement. We would be grateful for any  donated queen-size mattress in good condition to help the family.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Kasthuri Raju",
+      "email": "kasthuri_raju@msf.gov.sg",
+      "phone": [
+        "63548391",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154529",
+    "category": "Others",
+    "name": "Air Mattress",
+    "description": "Pt is bedbound and requires air mattress to prevent bed sores. Pt's children range from 50s to 60s and of low-income, thus donated air mattress will be appreciated.",
+    "specifications": "Mai Air Mattress preferred",
+    "contact": {
+      "org": "St Luke's Hospital Ltd",
+      "name": "Lee Xin Yi",
+      "email": "xinyilee@stluke.org.sg",
+      "phone": [
+        "66977519",
+        "65632281"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
     "id": "153482",
     "category": "Others",
     "name": "Toyota Storage Box",
@@ -4247,24 +4296,6 @@
     "date": "03 Feb 2026"
   },
   {
-    "id": "153611",
-    "category": "Others",
-    "name": "Ensure Life Milk Powder - Vanilla",
-    "description": "Client has multiple medical and mental issue, at times affecting her appetite. Client has estranged relationship with family members and can't afford to buy the milk powder. Client is requesting for Ensure milk powder donation so that she can drink whenever she has poor appetite from her medical condition.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Shannon Ong",
-      "email": "shannonong@fycs.org",
-      "phone": [
-        "69783488",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Jan 2026"
-  },
-  {
     "id": "153596",
     "category": "Others",
     "name": "Mobile phone and charger",
@@ -4281,6 +4312,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "30 Jan 2026"
+  },
+  {
+    "id": "154536",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "A family of five living in a rental flat in Punggol. The household consists of two parents (aged 32 and 29) and three children (aged 12, 5, and 2). The family has requested assistance with a wardrobe, as they do not currently have adequate storage for clothing. The wardrobe would allow them to properly store their children’s clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Kasthuri Raju",
+      "email": "kasthuri_raju@msf.gov.sg",
+      "phone": [
+        "63548391",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "02 Mar 2026"
   },
   {
     "id": "154520",
@@ -4532,24 +4581,6 @@
     "date": "26 Feb 2026"
   },
   {
-    "id": "154433",
-    "category": "Home Furnishing",
-    "name": "dressingvtable, wardrobe",
-    "description": "Client has now been placed on Long-home-leave. He needs a cupboard and dressing table as his room is bare due to his stay in prison.",
-    "specifications": "standard size",
-    "contact": {
-      "org": "HCSA Highpoint",
-      "name": "Stephen Ong",
-      "email": "stephen_ong@hcsa.org.sg",
-      "phone": [
-        "80207521",
-        "64402444"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "26 Feb 2026"
-  },
-  {
     "id": "154418",
     "category": "Home Furnishing",
     "name": "Queen Size Bed",
@@ -4760,24 +4791,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "24 Feb 2026"
-  },
-  {
-    "id": "154317",
-    "category": "Home Furnishing",
-    "name": "Writing Table",
-    "description": "Client's working ability has been greatly reduced due to his multiple health issues. He is currently the sole breadwinner, caring for a friend's adult child, who is also seeking employment. Client requested for a writing table as they do not have the financial ability to purchase it.(Sa)",
-    "specifications": "60cm by 120cm with  03 side drawers",
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Feb 2026"
   },
   {
     "id": "154314",
@@ -5737,45 +5750,257 @@
     "date": "03 Feb 2026"
   },
   {
-    "id": "154402",
-    "category": "Medical Aids",
-    "name": "Portable Oxygen Concentrator",
-    "description": "Elderly patient under our home hospice care requires long-term round-the-clock oxygen concentrator to help with her breathing. Hence, she has stayed home for a year now. It is her greatest wish to be able to leave her house again but is unable to do so without a portable oxygen concentrator.",
-    "specifications": null,
+    "id": "154542",
+    "category": "Mobility Aids",
+    "name": "Lightweight pushchair",
+    "description": "Senior is currently staying with his elderly spouse in a 3 room HDB flat, both are retired with the last employment for senior being > 20 years ago.  Their financial support is therefore primarily provided by their son, who is in his early 50s, married and staying apart. He was recently diagnosed with a tumor and will be out of a job after Apr 2026. Senior was assessed to require someone to push him in a wheelchair when outside. They have previously purchased one under government subsidy but the device was found to be too heavy for the elderly spouse to manage. They are unable to reuse the scheme due to the stipulated blackout period. We are therefore seeking kind donor for a lighter weight push chair (<25kg) which we hope will be more manageable for the elderly spouse to use.",
+    "specifications": "< 25 kg",
     "contact": {
-      "org": "Singapore Cancer Society",
-      "name": "Tan Wen Shi",
-      "email": "wenshi_tan@singaporecancersociety.org.sg",
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
       "phone": [
-        "81296306",
-        "62219578"
+        "66814941",
+        "63758600"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026"
+    "date": "02 Mar 2026"
   },
   {
-    "id": "154364",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client is a single parent with 1 school going child. She is currently unable to seek employment due to poor mobility from her illnesses (diabetes, severe varicose veins). She is currently dependent on financial assistance which is difficult to cover for her expenses on adult diapers on top of other household expenses and educational needs for her child.",
-    "specifications": "(64 inch, 163 cm)",
+    "id": "154526",
+    "category": "Mobility Aids",
+    "name": "Commode Chair",
+    "description": "Client (f/73) is a frail elderly who requires support in terms of mobility. Her family is looking for a donor who can provide a commode chair to support her grandmother. Thank you for your kindness.",
+    "specifications": null,
     "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Vera Teo",
-      "email": "verateo@fycs.org",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
       "phone": [
-        "65690381"
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154525",
+    "category": "Mobility Aids",
+    "name": "Wheelchair (For someone big size)",
+    "description": "A family of six is currently residing in a rental unit. Both client and her husband are unemployed. The husband experiences frequent asthma attacks, which significantly affect his ability to secure stable employment. Client is the primary caregiver for all their children.\nThe couple is requesting a donation of an adult wheelchair. The client's husband recently met with an accident and sustained a leg fracture. He is currently in a cast and requires the use of a wheelchair for mobility. Thank you for your kindness",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154517",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is a 13-year-old female who recently had a relapse of her previous brain cancer and just completed brain surgery. Due to this, she is facing some mobility issues. A wheelchair (preferably one with anti-tippers) will ease caregiving duties by her dad, who is the main caregiver. Client is still in active treatment. A similar item can be found here for your reference: https://shopee.sg/Flip-up-light-weight-pushchair-wheelchair-9.8kg-w-anti-tipper-i.10883196.25241037787?extraParams=%7B%22display_model_id%22%3A198190309053%2C%22model_selection_logic%22%3A3%7D&sp_atk=f74312ce-ee09-4ed1-90bc-1626e2241f10&xptdk=f74312ce-ee09-4ed1-90bc-1626e2241f10",
+    "specifications": "with Anti-Tippers",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
+  },
+  {
+    "id": "154457",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Family of 5 children who requires a wheelchair. One of the five children in the family sustained a leg injury and now requires a wheelchair to assist with mobility.",
+    "specifications": "Normal",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Evelyn  Chin",
+      "email": "evelynchin@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2026"
+  },
+  {
+    "id": "154442",
+    "category": "Mobility Aids",
+    "name": "Wheel Chair",
+    "description": "Client has multiple chronic medical conditions. He is currently undergoing Negative Pressure Therapy for wound healing on his right leg and has undergone a below-knee amputation of his left leg. As he is wheelchair-bound and has no source of income, his overall condition has been deteriorating. We would like to request assistance with the following essential items to better support his daily living needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Caregiving Welfare Association",
+      "name": "Genevieve Koh",
+      "email": "genevieve.koh@cwa.org.sg",
+      "phone": [
+        "64667996",
+        "68595170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Feb 2026"
+  },
+  {
+    "id": "154349",
+    "category": "Mobility Aids",
+    "name": "Aplus Lightweight Detachable Pushchair",
+    "description": "Family is requesting a lightweight, detachable wheelchair for their child, who recently had brain surgery and walks with an unsteady gait. She tires quickly on longer distances and needs wheelchair support. Their current model lacks anti-tippers, leading to a recent backward fall over a small hump. Both parents work full-time, but father has taken several weeks of no-pay leave to support her recovery and caregiving.\n\nFamily would prefer an anti-tippers on the wheelchair. For easier referencing and dimensions, please refer to this model, preferably the 16\" dimensions: https://www.dnrwheels.com/products/aplus-lightweight-detachable-pushchair?variant=13503605440570",
+    "specifications": null,
+    "contact": {
+      "org": "Club Rainbow (Singapore)",
+      "name": "Nurulhuda Binte Abu Bakar",
+      "email": "nurul@clubrainbow.org",
+      "phone": [
+        "81336189",
+        "63771789"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "24 Feb 2026"
   },
   {
-    "id": "154262",
-    "category": "Medical Aids",
-    "name": "Anlene Gold TX",
-    "description": "The client (F/63) is the primary caregiver for her three grandchildren and is medically unfit for work. She relies on financial assistance as her main source of income. Despite her financial challenges, she continues to cover all household expenses and provide for her family’s needs. She requires Anlene milk for her own consumption, which she is currently unable to afford due to her limited resources. Thank You for your kind donation.",
+    "id": "154046",
+    "category": "Mobility Aids",
+    "name": "Travel Rollator",
+    "description": "Senior living alone with suspected dementia and is experiencing increasing mobility difficulties. Due to her limited social support and financial constraints, she would benefit from a lightweight travel rollator (with a seat) to support her safety and independence when moving around. \n\nPlease feel free to contact Gina at 6389 5108 (WhatsApp) if you are able to help. Thank you so much for your kindness and support.",
+    "specifications": "-",
+    "contact": {
+      "org": "Dementia Singapore",
+      "name": "Gina Peh",
+      "email": "gina.peh@dementia.org.sg",
+      "phone": [
+        "63895108",
+        "63895133"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Feb 2026"
+  },
+  {
+    "id": "154003",
+    "category": "Mobility Aids",
+    "name": "Wheelchair 22 inch seat",
+    "description": "Client's previous wheelchair spoilt and he lacks the financial means to purchase a new one (medically unfit for work)  If you have a suitable item, please WhatsApp us at 6843 9619 thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Han Wen Ting",
+      "email": "hanwenting@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Feb 2026"
+  },
+  {
+    "id": "153904",
+    "category": "Mobility Aids",
+    "name": "Rollator frame",
+    "description": "Client has end stage liver cancer. He lives with his wife, who also has other chronic illnesses. \n\nHe is in palliative care and requires assistance to remain mobile. While at home, he has been using a wheeled office chair to help him around. However, this is getting more difficult as he needs compromise his posture due to the way the chair is. \n\nA rollator frame with 2 wheels will help improve his quality of life tremendously.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nurul Huda Maarop",
+      "email": "nurulhuda@ainsociety.org.sg",
+      "phone": [
+        "68486033",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Feb 2026"
+  },
+  {
+    "id": "153899",
+    "category": "Mobility Aids",
+    "name": "4-wheel walker",
+    "description": "We are assisting a client who has recently been discharged and is facing mobility difficulties. Client requires a walker with wheels and a seat to support her daily movements and reduce her risk of falls.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Nurul Adryana Abu Bakar",
+      "email": "nuruladryana@allkin.org.sg",
+      "phone": [
+        "60384270",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Feb 2026"
+  },
+  {
+    "id": "153892",
+    "category": "Mobility Aids",
+    "name": "Commode",
+    "description": "Request assistance for a brand new commode for an elderly lady from a family of three, consisting of two elderly parents and an adult daughter.\n\nThe daughter is the full-time caregiver for both parents and is unable to work, hence the family currently has no source of income and is surviving on their savings. The existing commode is no longer suitable, and a replacement is urgently needed due to hygiene concerns.\n\nIf the request is feasible, please WhatsApp me at 8800 3073 and I can provide an image or Shopee link of the suitable commode. Delivery can be made directly to the family’s address.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Hua Mei Care Management Service of TSAO Foundation",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "65939596"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Feb 2026"
+  },
+  {
+    "id": "153760",
+    "category": "Mobility Aids",
+    "name": "Electric wheelchair",
+    "description": "Client is a 31-year-old female with left-sided paralysis who is wheelchair-bound and resides with her elderly mother. She is motivated to increase her social and community participation but is unable to do so independently due to mobility limitations.\n\nThe client’s mother has difficulty assisting with a manual wheelchair due to her age, significantly limiting the client’s ability to access the community. Provision of a motorised wheelchair would improve the client’s independence, reduce caregiver strain, and support safe community mobility and social engagement. Kindly contact me at 96409381 for coordination thank you! :)",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Shanelle Tan",
+      "email": "shanelle.tan@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Feb 2026"
+  },
+  {
+    "id": "153755",
+    "category": "Mobility Aids",
+    "name": "Motorized wheelchair",
+    "description": "Client is a 76-year-old senior, whom is no longer working and lacks informal social support.\n\nShe is keen to replace her motorized wheelchair, but is unable to afford one financially. She would thus benefit from the donation of a working motorized wheelchair.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner - Community Case Management Service Central",
+      "name": "Alethia Toh",
+      "email": "alethiatoh@carecorner.org.sg",
+      "phone": [
+        "62586601"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Feb 2026"
+  },
+  {
+    "id": "154524",
+    "category": "Learning Aids",
+    "name": "TI 84 plus CE python Texas Instruments",
+    "description": "",
     "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
@@ -5786,58 +6011,7 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "23 Feb 2026"
-  },
-  {
-    "id": "154133",
-    "category": "Medical Aids",
-    "name": "Adult pull-up diapers (no tape-type) and underpads",
-    "description": "Client is a 61-year-old elderly woman who is diabetic and an amputee, requiring pull-up adult diapers (Size L) for daily use. She is unfit for work due to her medical condition and mobility issues. She is also the primary caregiver for her school-going nephew. The family relies on limited informal support and would benefit from any donation of adult pull-up diapers (no tape-type) and underpads if available. Any brand and quantity are welcome; the more, the better. Best case scenario is a supply for at least three months or more.",
-    "specifications": null,
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Harry Muhammad Shahari Bin Suhaimi",
-      "email": "harrysuhaimi@kkcs.org.sg",
-      "phone": [
-        "64854750"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Feb 2026"
-  },
-  {
-    "id": "154102",
-    "category": "Medical Aids",
-    "name": "Adult Diapers (Pants Type)",
-    "description": "Family of 6, comprising of 3 young children, mother and grandparents. Grandmother's health has deteriorated recently, resulting in her having to use adult diaper. Due to financial constraints, she is unable to afford and requires support. The family If you're able to support, please WhatsApp Fang Ling (85886196) or email to Fangling.koh@thkmc.org.sg",
-    "specifications": "Brand: Fairprice Size: XL",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Feb 2026"
-  },
-  {
-    "id": "153725",
-    "category": "Medical Aids",
-    "name": "Adult Diapers Pant Style",
-    "description": "Client (F/42), a single who take care of her elderly grandmother (F/87) in a one-room rental flat. She has Artritis and is using PMA devices to commute in the community. Please Whatsapp Suzanne at 86661355 or email to suzanne.eu@thkmc.org.sg to liaise.",
-    "specifications": "Size: XL",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Feb 2026"
+    "date": "02 Mar 2026"
   },
   {
     "id": "154427",
@@ -5925,6 +6099,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Feb 2026"
+  },
+  {
+    "id": "154522",
+    "category": "Attires/Clothings",
+    "name": "New Clothes",
+    "description": "client is a 62-year-old single mother of a 20-year-old son who has recently commenced medical school under a government bond. Due to the academic intensity of the programme, her son is unable to work. Client is employed as an office cleaner with a monthly income of approximately $1,400. Her CPF Ordinary Account has been depleted, and she is currently servicing a monthly mortgage repayment of $1,000, leaving her with approximately $400 for other living expenses. Her son has been attending school in second- and third-hand clothing. As a student entering a professional course, access to appropriate and presentable attire may contribute positively to his morale and self-esteem.",
+    "specifications": null,
+    "contact": {
+      "org": "Pasir Ris Family Service Centre",
+      "name": "Jesslyn Phua Shu Jun",
+      "email": "jesslynphua@goodnews.org.sg",
+      "phone": [
+        "65812159"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Mar 2026"
   },
   {
     "id": "154432",
