@@ -1,5 +1,16 @@
 [
   {
+    "id": "154554",
+    "name": "Clothes",
+    "description": "I have 19 pieces, including a body, tops,shorts,jeans size size 26,legging,jacket,dresses, bikini with pants and T-shirts.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "02 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "XS or S",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "154532",
     "name": "Woman sandals",
     "description": "Woman’s sandals, size 37. Not worn.",
@@ -194,17 +205,6 @@
     "validTill": "04 Mar 2026",
     "ageInYears": 1,
     "dimensions": "80 x 60 x 75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154118",
-    "name": "hospital bed",
-    "description": "electrical hospital bed with mattress",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "18 Mar 2026",
-    "ageInYears": 2,
-    "dimensions": "212 x110.5x 69cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
