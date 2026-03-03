@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "154572",
+    "name": "Digital Radio",
+    "description": "Digital Radio",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": "26x10x16",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "154566",
     "name": "Airfryer",
     "description": "Muslim-Owned \nPrefer Self-collect. \nDeliver only to Pasir Ris, Tampines, Simei and Bedok.",
@@ -62,17 +73,6 @@
     "validTill": "31 Mar 2026",
     "ageInYears": 1,
     "dimensions": "29 x 34.5 x 7 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "154509",
-    "name": "Microwave",
-    "description": "Muslim-Owned \nPrefer Self-collection \nDelivery only to Pasir Ris, Simei, Tampines, Bedok",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Mar 2026",
-    "ageInYears": 2,
-    "dimensions": "43 x 29.5 x 24 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -117,17 +117,6 @@
     "validTill": "31 Mar 2026",
     "ageInYears": 4,
     "dimensions": "60.5(W)x28(D)x106.5(H) cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154543",
-    "name": "Matrix storage cabinet",
-    "description": "Well maintained, no damaged, clean and usable.No dismantling required.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": "147 cm x 147 cm x39 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -482,6 +471,17 @@
     "dimensions": "49.5 cm x 48 cm per piece",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "154573",
+    "name": "Commode",
+    "description": "Brand new commode",
+    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "154528",
