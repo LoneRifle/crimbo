@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "154566",
+    "name": "Airfryer",
+    "description": "Muslim-Owned \nPrefer Self-collect. \nDeliver only to Pasir Ris, Tampines, Simei and Bedok.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "23 x 24 x 30 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "154511",
     "name": "Induction Cooker",
     "description": "Prefer Self Collect. \nOnly Deliver to Pasir Ris, Tampines, Simei, Bedok.",
@@ -150,17 +161,6 @@
     "validTill": "05 Mar 2026",
     "ageInYears": 4,
     "dimensions": "192 x 84 x 35",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154499",
-    "name": "Large 2-door cabinet",
-    "description": "Heavy duty cupboard",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "04 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": "About 2m x 70cm x 40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -704,7 +704,7 @@
     "category": "Others"
   },
   {
-    "id": "154374",
+    "id": "154565",
     "name": "Headset",
     "description": "used headset to be given away",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
