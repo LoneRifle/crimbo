@@ -36,24 +36,6 @@
     "date": "02 Mar 2026"
   },
   {
-    "id": "154402",
-    "category": "Medical Aids",
-    "name": "Portable Oxygen Concentrator",
-    "description": "Elderly patient under our home hospice care requires long-term round-the-clock oxygen concentrator to help with her breathing. Hence, she has stayed home for a year now. It is her greatest wish to be able to leave her house again but is unable to do so without a portable oxygen concentrator.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Cancer Society",
-      "name": "Tan Wen Shi",
-      "email": "wenshi_tan@singaporecancersociety.org.sg",
-      "phone": [
-        "81296306",
-        "62219578"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026"
-  },
-  {
     "id": "154364",
     "category": "Medical Aids",
     "name": "Adult Diapers",
@@ -240,23 +222,6 @@
       "phone": [
         "67564995ext102/83688612",
         "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Mar 2026"
-  },
-  {
-    "id": "154612",
-    "category": "Electrical Home Appliances",
-    "name": "Mini Fridge",
-    "description": "Young female living on her own requires a small fridge. Currently working ad-hoc jobs and has limited capacity to purchase a new fridge for herself.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Shona D/O Suthendran",
-      "email": "shona@sccfsc.org.sg",
-      "phone": [
-        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2076,24 +2041,6 @@
     "date": "05 Mar 2026"
   },
   {
-    "id": "154609",
-    "category": "Others",
-    "name": "Biscuit",
-    "description": "Our home need 100 packets of Assorted Biscuit for our 430 elderly residents. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "Ju Eng Home For Senior Citizens",
-      "name": "Lee Jun Hui",
-      "email": "junhui@jeh.org.sg",
-      "phone": [
-        "64846890ext127",
-        "64846890"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Mar 2026"
-  },
-  {
     "id": "154591",
     "category": "Others",
     "name": "Dumex Dulac Infant Milk Formula - Step 1",
@@ -2713,6 +2660,42 @@
     "date": "04 Feb 2026"
   },
   {
+    "id": "154702",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "A single mother with two children (aged 4 and 7) who is receiving ComCare assistance has a worn-out wardrobe at home and requires support to replace it so that the family can properly store their clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Wong Li Yi",
+      "email": "wongliyi@kkcs.org.sg",
+      "phone": [
+        "62997662ext544",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Mar 2026"
+  },
+  {
+    "id": "154701",
+    "category": "Home Furnishing",
+    "name": "Kitchen Cabinet",
+    "description": "Single mother of two children (age 4 and 7) receiving ComCare assistance. The kitchen cabinet at home is spoilt and she needs help to replace it.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Wong Li Yi",
+      "email": "wongliyi@kkcs.org.sg",
+      "phone": [
+        "62997662ext544",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Mar 2026"
+  },
+  {
     "id": "154688",
     "category": "Home Furnishing",
     "name": "2 or 3 seater sofa",
@@ -2889,24 +2872,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Mar 2026"
-  },
-  {
-    "id": "154601",
-    "category": "Home Furnishing",
-    "name": "Sofa Bed - Queen size",
-    "description": "Client is a mother of 4 children living in a 2-rm rental flat. She is unemployed due to being the main caregiver of her son who has mental health issue. She is requesting for a sofa bed for her children.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
-      "phone": [
-        "88333080",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Mar 2026"
   },
   {
     "id": "154596",
@@ -5962,41 +5927,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "04 Feb 2026"
-  },
-  {
-    "id": "154457",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Family of 5 children who requires a wheelchair. One of the five children in the family sustained a leg injury and now requires a wheelchair to assist with mobility.",
-    "specifications": "Normal",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Feb 2026"
-  },
-  {
-    "id": "154442",
-    "category": "Mobility Aids",
-    "name": "Wheel Chair",
-    "description": "Client has multiple chronic medical conditions. He is currently undergoing Negative Pressure Therapy for wound healing on his right leg and has undergone a below-knee amputation of his left leg. As he is wheelchair-bound and has no source of income, his overall condition has been deteriorating. We would like to request assistance with the following essential items to better support his daily living needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Caregiving Welfare Association",
-      "name": "Genevieve Koh",
-      "email": "genevieve.koh@cwa.org.sg",
-      "phone": [
-        "64667996",
-        "68595170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Feb 2026"
   },
   {
     "id": "154349",
