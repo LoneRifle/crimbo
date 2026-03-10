@@ -101,6 +101,39 @@
     }
   },
   {
+    "id": "154770",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Adult grand-daughter is a full-time caregiver to elderly frail grandfather, purely surviving on financial assistance for daily expenses. Need to replace a spoilt dining table, will be nice if it comes with suitable chairs.",
+    "specifications": "120 (L) 70 (H) and 72 (H)",
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Tey Mei Qi",
+      "email": "teymeiqi@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "154746",
+          "name": "Glass dining table",
+          "description": "Glass table is in good condition. There are 3 chairs. The arm rest paint had peeled off. Can make it new by painting if the user wants the chairs. Chairs are optional.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Glass table 96 cm in diameter",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "154744",
     "category": "Home Furnishing",
     "name": "TV Console",
@@ -202,39 +235,6 @@
     }
   },
   {
-    "id": "154560",
-    "category": "Home Furnishing",
-    "name": "2-seater sofa",
-    "description": "Client (F/46) with teenage children is looking for donation of a 2-seater sofa as they do not currently own one. Mother is the sole breadwinner earning limited daily income that can only cover basic necessities while step-father is currently incarcerated.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "154755",
-          "name": "2 seater Sofa @ 2.11m",
-          "description": "This sofa is lightly used and donating due to shifting. We’re more than happy to donate this in good condition.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "01 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "2.11m length",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "154536",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -263,40 +263,6 @@
           "dimensions": "About 1m (Width) x 3m (Length)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154478",
-    "category": "Home Furnishing",
-    "name": "2-seater sofa",
-    "description": "Low-income family of 6 looking for a 2 or 3-seater sofa as family currently sits and sleeps on the floor.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Toa Payoh",
-      "name": "Samuel Rajan David",
-      "email": "samuel_rajan_david@msf.gov.sg",
-      "phone": [
-        "62319671",
-        "67157503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "154755",
-          "name": "2 seater Sofa @ 2.11m",
-          "description": "This sofa is lightly used and donating due to shifting. We’re more than happy to donate this in good condition.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "01 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "2.11m length",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -388,6 +354,17 @@
     "date": "25 Feb 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "154768",
+          "name": "Sofa bed",
+          "description": "Sofa bed",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "Sofa mode Length: ~190–192 cm Depth: ~85–90 cm Height: ~75–80 cm Bed mode (opened flat) Length: ~190–192 cm Width: ~105–110 cm Height: ~35–40 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "154065",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
@@ -524,6 +501,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "154768",
+          "name": "Sofa bed",
+          "description": "Sofa bed",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "Sofa mode Length: ~190–192 cm Depth: ~85–90 cm Height: ~75–80 cm Bed mode (opened flat) Length: ~190–192 cm Width: ~105–110 cm Height: ~35–40 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "154065",
           "name": "Hospital metal adjustable bedframe, sofa, 3 doors wardrobe",
           "description": "Adjustable Metal hospital bedframe airpump without mattress about 2.3m (L) x 1.2m (Width) \n\nSofa about 2.5m (L) x 1.3m (Width)\n\n3 doors Brown wardrobe in good usable condition about 1.5m (L) x 2.5m (H)\n\n\nPls approach your social worker for transportation arrangement via VWO to seek financial transport fee assistance for needy families",
@@ -557,13 +545,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "154755",
-          "name": "2 seater Sofa @ 2.11m",
-          "description": "This sofa is lightly used and donating due to shifting. We’re more than happy to donate this in good condition.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "01 Apr 2026",
+          "id": "154768",
+          "name": "Sofa bed",
+          "description": "Sofa bed",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Apr 2026",
           "ageInYears": 3,
-          "dimensions": "2.11m length",
+          "dimensions": "Sofa mode Length: ~190–192 cm Depth: ~85–90 cm Height: ~75–80 cm Bed mode (opened flat) Length: ~190–192 cm Width: ~105–110 cm Height: ~35–40 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
