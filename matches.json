@@ -86,15 +86,26 @@
     "matches": {
       "passiton": [
         {
-          "id": "154802",
-          "name": "Mattress Protector Disposable Pads",
-          "description": "Having 2 boxes of newly Mattress Protector Disposable Pads to give away for free. Can come and collect as i do not have any vehicle. Thanks.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "154852",
+          "name": "Queen size divan and mattress",
+          "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "154853",
+          "name": "Queen size divan and mattress",
+          "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "154788",
@@ -104,6 +115,51 @@
           "validTill": "18 Mar 2026",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154475",
+    "category": "Home Furnishing",
+    "name": "Queen Size Mattress",
+    "description": "A family of eight is residing in a 3-room flat in Yishun and requires assistance with a queen-size mattress. The household includes two adults (aged 41 and 42) and six children (aged 18, 13, 12, 15, 8, and 7). Three of the children currently share a damaged mattress, but the family cannot afford a replacement due to financial difficulties. A new mattress would greatly improve the children’s sleep quality and overall well-being, ensuring they get the necessary rest for their studies and daily activities.",
+    "specifications": "Dependent on Donor options",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Marc Chong",
+      "email": "marc_chong@msf.gov.sg",
+      "phone": [
+        "63548497",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "154852",
+          "name": "Queen size divan and mattress",
+          "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "154853",
+          "name": "Queen size divan and mattress",
+          "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -131,15 +187,26 @@
     "matches": {
       "passiton": [
         {
-          "id": "154802",
-          "name": "Mattress Protector Disposable Pads",
-          "description": "Having 2 boxes of newly Mattress Protector Disposable Pads to give away for free. Can come and collect as i do not have any vehicle. Thanks.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "154852",
+          "name": "Queen size divan and mattress",
+          "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "154853",
+          "name": "Queen size divan and mattress",
+          "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
           "id": "154788",
