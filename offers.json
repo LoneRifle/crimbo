@@ -22,34 +22,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "154532",
-    "name": "Woman sandals",
-    "description": "Woman’s sandals, size 37. Not worn.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "15 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "154531",
-    "name": "Ladies shoulder bag",
-    "description": "Woman’s black shoulder bag. Wide base, can fit wallet, mobile phone and small portable fan.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "15 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "154709",
-    "name": "Bread toaster",
-    "description": "///",
-    "location": null,
-    "validTill": "07 Apr 2026",
-    "ageInYears": 3,
+    "id": "154883",
+    "name": "Washing Machine",
+    "description": "Pick up at 258333. Please self-collection.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Mar 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -155,17 +133,6 @@
   },
   {
     "id": "154852",
-    "name": "Queen size divan and mattress",
-    "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154853",
     "name": "Queen size divan and mattress",
     "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -451,17 +418,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "154251",
-    "name": "Hot Flask",
-    "description": "Good condition hot water flask.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "23 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "154729",
     "name": "Lower Limb Bicycle",
     "description": "Lower limb bicycle",
@@ -493,6 +449,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "154871",
+    "name": "Urine bag and catheter",
+    "description": "Sterile catheter set and urine bag",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "154705",
@@ -548,6 +515,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "154874",
+    "name": "Hospital bed with air mattress",
+    "description": "Hospital bed with air mattress\n\nDonor please kindly arrange for own delivery/pickup",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "154873",
+    "name": "Hospital bed with air mattress",
+    "description": "Hospital bed with air mattress\n\nDonor please kindly arrange for own delivery/pickup",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "154870",
+    "name": "Commode",
+    "description": "In good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "154869",
+    "name": "Hospital bed with air matress",
+    "description": "In good condition, used less than 2 years.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "154868",
