@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "154883",
-    "name": "Washing Machine",
-    "description": "Pick up at 258333. Please self-collection.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "154708",
     "name": "Barbecue grill",
     "description": "///",
@@ -451,6 +440,28 @@
     "category": "Learning Aids"
   },
   {
+    "id": "154891",
+    "name": "Medical blanket",
+    "description": "Medical blanket. Can be used normally as well.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "170x97cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "154887",
+    "name": "Transfer board",
+    "description": "【Versatile Transfer Board】: This slide transfer board is designed to assist individuals with mobility in moving from beds, wheelchairs, chairs, cars, and other locations. It can be used for self transfer or with the help of a caregiver.\n\n【Anti Slip Design】: The board features an 11.5cm anti slip area on both ends to prevent slipping during transfers. Additionally, it has five 2.3cm reinforcement ribs to enhance weight bearing capacity and ensure stability.\n\n【Easy and Efficient】: This transfer tool allows individuals with mobility issues to move their bodies easily and efficiently, saving time and effort.\n\n【Material】: Made from ABS steel, this slide transfer board is strong and with a maximum load capacity of 150kg (330lbs). It will not break when used within a 40cm distance.\n\n【Product Dimensions】: The board for transferring measures Length 80cm/31.50inch; Width 21cm/8.27inch; Thickness 1cm/0.39inch, compact enough for easy storage yet large enough for safe transfers.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "154871",
     "name": "Urine bag and catheter",
     "description": "Sterile catheter set and urine bag",
@@ -515,6 +526,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "154890",
+    "name": "Commode w/pot and cover on wheels (detachable)",
+    "description": "With wheels, movable armrest, bucket included.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "Seat (42x46cm) Backrest to leg rest (75cm) Ground to seat (51cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "154889",
+    "name": "Bathroom folding seat",
+    "description": "Brand new UNUSED bathroom folding seat",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "In the picture provided",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "154888",
+    "name": "Toilet handle bar (2 pieces)",
+    "description": "Black Colour  (1 piece 40cm) (1 piece 60cm). Brand new unused toilet handle bar",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "Black Colour  (1 piece 40cm) (1 piece 60cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "154874",
