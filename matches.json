@@ -244,50 +244,5 @@
       ],
       "carousell": []
     }
-  },
-  {
-    "id": "154017",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Single mother with a K2 child. She is currently searching for job and hopes to start food delivery to meet ends meet with a bicycle.",
-    "specifications": "with child safety seat",
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Edwin Wee",
-      "email": "edwin_kh_wee@msf.gov.sg",
-      "phone": [
-        "62319460",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "154729",
-          "name": "Lower Limb Bicycle",
-          "description": "Lower limb bicycle",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "08 Apr 2026",
-          "ageInYears": 2,
-          "dimensions": "50 cm L x 40 cm W",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
-        },
-        {
-          "id": "154120",
-          "name": "Stationary Exercise Bicycle",
-          "description": "stationary exercise bike. Has roller wheels on one side of the base to enable easy relocation of the bicycle in the room",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "18 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "120 x 55 x 105 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
-        }
-      ],
-      "carousell": []
-    }
   }
 ]
