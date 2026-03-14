@@ -6239,77 +6239,6 @@
     "date": "11 Feb 2026"
   },
   {
-    "id": "154808",
-    "category": "Mobility Aids",
-    "name": "manual wheelchair",
-    "description": "Client is a dialysis patient. Aged 68 years old, she stays alone. Her current wheelchair is spoilt and she hopes to have a replacement. She is unemployed and is unable to afford a new wheelchair. Thank you.",
-    "specifications": "Seat Width 20\" x Seat Depth 16\" x Seat Height 18\"",
-    "contact": {
-      "org": "National Kidney Foundation (NKF)",
-      "name": "Liau Lian Lee",
-      "email": "lianlee.liau@nkfs.org",
-      "phone": [
-        "63593657",
-        "65062244"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "11 Mar 2026"
-  },
-  {
-    "id": "154793",
-    "category": "Mobility Aids",
-    "name": "Foldable walking frame with front castors",
-    "description": "The client aged 50 is diagnosed with Amyotrophic lateral sclerosis (ALS) which causes progressive muscle weakness. He is married with no children. Both the client and his wife are medically unfit to work due to their own medical condition. The client and wife are facing financial difficulties to afford a walking frame which recommended by the therapist.",
-    "specifications": null,
-    "contact": {
-      "org": "Lions Befrienders Service Association (Singapore)",
-      "name": "Chow Ching Hua",
-      "email": "chinghua.chow@lb.org.sg",
-      "phone": [
-        "66814941",
-        "63758600"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Mar 2026"
-  },
-  {
-    "id": "154784",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client's son has a medical condition that requires him to use wheelchair for medical appointment",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Adrian Ng",
-      "email": "adrianng@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Mar 2026"
-  },
-  {
-    "id": "154046",
-    "category": "Mobility Aids",
-    "name": "Travel Rollator",
-    "description": "Senior living alone with suspected dementia and is experiencing increasing mobility difficulties. Due to her limited social support and financial constraints, she would benefit from a lightweight travel rollator (with a seat) to support her safety and independence when moving around. \n\nPlease feel free to contact Gina at 6389 5108 (WhatsApp) if you are able to help. Thank you so much for your kindness and support.",
-    "specifications": "-",
-    "contact": {
-      "org": "Dementia Singapore",
-      "name": "Gina Peh",
-      "email": "gina.peh@dementia.org.sg",
-      "phone": [
-        "63895108",
-        "63895133"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Feb 2026"
-  },
-  {
     "id": "154712",
     "category": "Attires/Clothings",
     "name": "Hari Raya Goodies",
@@ -6432,5 +6361,58 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "26 Feb 2026"
+  },
+  {
+    "id": "154808",
+    "category": "Mobility Aids",
+    "name": "manual wheelchair",
+    "description": "Client is a dialysis patient. Aged 68 years old, she stays alone. Her current wheelchair is spoilt and she hopes to have a replacement. She is unemployed and is unable to afford a new wheelchair. Thank you.",
+    "specifications": "Seat Width 20\" x Seat Depth 16\" x Seat Height 18\"",
+    "contact": {
+      "org": "National Kidney Foundation (NKF)",
+      "name": "Liau Lian Lee",
+      "email": "lianlee.liau@nkfs.org",
+      "phone": [
+        "63593657",
+        "65062244"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "11 Mar 2026"
+  },
+  {
+    "id": "154793",
+    "category": "Mobility Aids",
+    "name": "Foldable walking frame with front castors",
+    "description": "The client aged 50 is diagnosed with Amyotrophic lateral sclerosis (ALS) which causes progressive muscle weakness. He is married with no children. Both the client and his wife are medically unfit to work due to their own medical condition. The client and wife are facing financial difficulties to afford a walking frame which recommended by the therapist.",
+    "specifications": null,
+    "contact": {
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
+      "phone": [
+        "66814941",
+        "63758600"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Mar 2026"
+  },
+  {
+    "id": "154784",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client's son has a medical condition that requires him to use wheelchair for medical appointment",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Adrian Ng",
+      "email": "adrianng@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Mar 2026"
   }
 ]
