@@ -33,6 +33,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "154930",
+    "name": "Fridge",
+    "description": "Over 10yrs old",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "26 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "154929",
+    "name": "Washing machine",
+    "description": "Over 10yrs old top loader",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "26 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "154928",
+    "name": "Microwave oven",
+    "description": "Over 10 yrs old but good working condition",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "154924",
     "name": "Samsung Washing Machine",
     "description": "Extra washing machine, still in good condition",
@@ -97,6 +130,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "154926",
+    "name": "shoe rack",
+    "description": "Could work as a shoe rack for 8-10 pairs of shoes or a Small TV console",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "14 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "100 x 29 x 42",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154925",
+    "name": "Wood Coffee Table",
+    "description": "Stylish mid-century modern coffee table. Features a dark wood top and black metal frame. Sturdy and well-designed, perfect for living rooms. Minor scratches on surface.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "14 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "108 x 50 x 40",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "154922",
@@ -572,6 +627,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "154931",
+    "name": "Lightly used walker",
+    "description": "Lightly used walker, mostly folded and stored in storeroom",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "14 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "154890",
     "name": "Commode w/pot and cover on wheels (detachable)",
     "description": "With wheels, movable armrest, bucket included.",
@@ -702,6 +768,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "154927",
+    "name": "Brand New Commode Chair/ Toilet",
+    "description": "Brand new Commode Chair Toilet, not used at all. Happy to donate to the needy.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "14 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "154923",
