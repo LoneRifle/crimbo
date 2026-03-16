@@ -122,6 +122,23 @@
     "date": "19 Feb 2026"
   },
   {
+    "id": "154934",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Low income family with 5 children requires a washing machine as they have been bringing their clothes to the laundromat since their washing machine has broke down.",
+    "specifications": null,
+    "contact": {
+      "org": "Life Community Services Society",
+      "name": "Life Community Services Society",
+      "email": "lcss@life-community.org",
+      "phone": [
+        "63873700"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Mar 2026"
+  },
+  {
     "id": "154911",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -3158,23 +3175,6 @@
     "date": "16 Feb 2026"
   },
   {
-    "id": "154101",
-    "category": "Infant and Children Items",
-    "name": "Double stroller",
-    "description": "Client is undergoing divorce with her husband, currently staying with her three children and elderly parents with multiple health conditions. They are staying in a one-room flat. The family needs a double stroller to bring the children to childcare centre. Without the stroller, it is very challenging for the client to manage sending them to childcare. Your donation of a double stroller is extremely appreciated. If you're able to support, please WhatsApp Fang Ling (85886196) or email to Fangling.koh@thkmc.org.sg",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Feb 2026"
-  },
-  {
     "id": "154074",
     "category": "Infant and Children Items",
     "name": "Milk powder",
@@ -3977,6 +3977,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Feb 2026"
+  },
+  {
+    "id": "154936",
+    "category": "Home Furnishing",
+    "name": "King Sized Mattress",
+    "description": "Family of 10 currently require a king-sized mattress to replace their bed bug infested mattress.",
+    "specifications": "King Sized",
+    "contact": {
+      "org": "Montfort Care - @27 Family Service Centre",
+      "name": "Celine Ming",
+      "email": "celine.ming@montfortcare.org.sg",
+      "phone": [
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Mar 2026"
+  },
+  {
+    "id": "154933",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "The client’s wardrobe is currently broken and she is unable to afford a replacement. At present, her clothes are being hung on a bamboo pole, which is difficult for her to access and manage safely. A proper wardrobe would greatly improve her ability to store and retrieve her belongings with ease.\n\nThe family is also facing financial challenges, as the client’s son does not have stable employment and relies on occasional odd jobs, resulting in an inconsistent household income. As such, the family is unable to set aside funds to replace the damaged wardrobe.\n\nWe would greatly appreciate any support in the form of a donated wardrobe to help improve the client’s living conditions.",
+    "specifications": "1",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Esther Lim",
+      "email": "esther.l3@ntuchealth.sg",
+      "phone": [
+        "81230429",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Mar 2026"
   },
   {
     "id": "154918",
