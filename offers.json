@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "154943",
+    "name": "Electrolux Bar Fridge",
+    "description": "90L Electrolux fridge in good condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": "HxWxD - 840mm x 475mm x 393mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "154928",
     "name": "Microwave oven",
     "description": "Over 10 yrs old but good working condition",
@@ -73,17 +84,6 @@
     "validTill": "02 Apr 2026",
     "ageInYears": 1,
     "dimensions": "23 x 24 x 30 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "154205",
-    "name": "Rice cooker",
-    "description": "Japanese rice cooker",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "22 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -264,6 +264,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "154941",
+    "name": "Bedsheets",
+    "description": "Several king size/queen size bedsheets washed and cleaned to be used",
+    "location": null,
+    "validTill": "30 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154942",
+    "name": "Bedsheets",
+    "description": "Several king size/queen size bedsheets washed and cleaned to be used",
+    "location": null,
+    "validTill": "30 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "154651",
     "name": "Wooden Desk with Hidden Compartments",
     "description": "Elegant wooden desk with two drawers and hidden compartments. Features a sleek design with a rich, dark wood finish. Perfect for a home office or study space. Offers ample storage for stationery and other essentials.\n\nMeasurement : 120x55x82cm\nItems inside shown are not included.",
@@ -284,6 +306,94 @@
     "dimensions": "120x55x82cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "154954",
+    "name": "Nursing cover",
+    "description": "95% bamboo, 5% Spandex \nFor nursing mother, material is thin & not see thru",
+    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "L: 75cm x W: 54.5cm x D: 93.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154952",
+    "name": "Baby hat & mittens",
+    "description": "Baby mittens: 8cm x 10cm \nBaby hat: 40cm - 47cm, suitable for 3-16mths\nFor bigger size baby",
+    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154949",
+    "name": "Breast milk collection shells",
+    "description": "Used a few times when my breast milk keep leaking, already clean and sterilised",
+    "location": null,
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154948",
+    "name": "Weaning food storage with 2 silicone spoons",
+    "description": "Food storage set new in box.",
+    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154947",
+    "name": "colostrum Collecting set",
+    "description": "For mother who would like to store and collect colostrum once your body starts producing. 10 syringes and 1 baby cup feeder. Brand new",
+    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154946",
+    "name": "Baby bottles",
+    "description": "New bottle that was gifted to me, didn’t use as baby already have existing bottle",
+    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154945",
+    "name": "Baby sling carrier",
+    "description": "A very long stretchy piece of cloth to tie baby securely to your body. Adjustable, washable and fits any baby size.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "154944",
+    "name": "Dr Brown baby bottle",
+    "description": "Baby bottle that was used once only, baby didn’t like thus not using",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "154907",
