@@ -123,6 +123,112 @@
     "date": "19 Feb 2026"
   },
   {
+    "id": "155002",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Clt, elderly male, had recently refurnished his home with assistance of his niece, who had decluttered his home. He hopes to have a replacement tv for his current one, that is spoiled. A small on to put on top of a cabinet in his living room.",
+    "specifications": "40inch",
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Ong Qiu Lin",
+      "email": "qiulin_ong@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
+    "id": "155000",
+    "category": "Electrical Home Appliances",
+    "name": "Rice Cooker",
+    "description": "Client is an elderly lady living alone with limited social support and an estranged relationship with her family. She is currently on Public Assistance and has been assessed to be permanently unfit for work due to multiple chronic medical condition. Her old rice cooker is currently spoiled, hence she would greatly benefit from a new rice cooker to improve her daily nutrition and well-being.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
+    "id": "154999",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine, refrigrator",
+    "description": "Client has completed his one year program at HCSA Highpoint and is now going on Long-home-leave from May 2026. He has just gotten his one room HDB rental flat and need a refrigerator and washing machine.",
+    "specifications": "any size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "17 Mar 2026"
+  },
+  {
+    "id": "154998",
+    "category": "Electrical Home Appliances",
+    "name": "Air cooler",
+    "description": "Client has completed his 0ne year program at HCSA Highpoint. He is now on Long-home-leave staying alone in a one room HDB rental flat. As his home is very hot, he is requesting for an Air-cooler to help him sleep. He needs a good sleep as he is a cleaner which requires himmto be rested to work well.",
+    "specifications": "any size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
+    "id": "154995",
+    "category": "Electrical Home Appliances",
+    "name": "Ceiling Fan & Installation",
+    "description": "A family of six with children aged 8, 2, 1, and 3 month old urgently needs a ceiling fan for their 2-room rental flat's living room. The father is job-seeking and the mother gave birth in December 2025. The current fans pose a safety risk as young children try to put their fingers into the blades. Electrical wiring and installation work are required.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Ken Toh",
+      "email": "ken_zq_toh@msf.gov.sg",
+      "phone": [
+        "62319385",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
+    "id": "154993",
+    "category": "Electrical Home Appliances",
+    "name": "Wall Fan",
+    "description": "Family's fan currently has a faulty cover. While it is taped on, we are concerned of the risk of it coming apart especially with many young children. Due to financial constraints, we hope for a donation of it.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Punggol 616",
+      "name": "Seow Jia Qi",
+      "email": "seowjiaqi@allkin.org.sg",
+      "phone": [
+        "60384140"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
     "id": "154953",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -1753,6 +1859,23 @@
     "date": "19 Feb 2026"
   },
   {
+    "id": "154994",
+    "category": "Infant and Children Items",
+    "name": "Newborn Diaper",
+    "description": "low income family require assistance for newborn diaper as the mom is due soon and most preparations are still pending due to husband sudden loss of income due to health.",
+    "specifications": "newborn",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
     "id": "154863",
     "category": "Infant and Children Items",
     "name": "Baby Diapers",
@@ -1976,24 +2099,6 @@
       "phone": [
         "91266100",
         "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Mar 2026"
-  },
-  {
-    "id": "153743",
-    "category": "Infant and Children Items",
-    "name": "Double Pram",
-    "description": "A family of six with children aged 8, 2, 1, and 1 month old urgently needs a double pram. They are staying in a 2-room rental flat. The father is job-seeking and the mother recently gave birth in December 2025. A double pram is essential for transporting the two youngest children safely, especially with the mother's recent childbirth and the father's current unemployment situation.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Ken Toh",
-      "email": "ken_zq_toh@msf.gov.sg",
-      "phone": [
-        "62319385",
-        "64244017"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3860,6 +3965,41 @@
     "date": "16 Feb 2026"
   },
   {
+    "id": "155001",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Clt, elderly male, had recently completed a declutter at home, and requires some replacement of furniture.",
+    "specifications": "160cm (L) x 45cm (W)",
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Ong Qiu Lin",
+      "email": "qiulin_ong@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
+    "id": "154991",
+    "category": "Home Furnishing",
+    "name": "Small Wardrobe",
+    "description": "Low-income family of 7 individuals with young children requires a wardrobe about 1m wide.",
+    "specifications": "thin wardrobe (approx. ~ 1m wide)",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Nurul Adryana Abu Bakar",
+      "email": "nuruladryana@allkin.org.sg",
+      "phone": [
+        "60384270",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Mar 2026"
+  },
+  {
     "id": "154936",
     "category": "Home Furnishing",
     "name": "King Sized Mattress",
@@ -5353,6 +5493,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Feb 2026"
+  },
+  {
+    "id": "154009",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client will be going home after a 6 months program at Highpoint halfway house. He is hoping to pursue studies after going home and hopes to have a laptop. He says he wants to upgrade himself. The nold one he has is not working well.",
+    "specifications": "any size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "17 Mar 2026"
   },
   {
     "id": "154938",
