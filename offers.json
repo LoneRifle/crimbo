@@ -33,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "155042",
-    "name": "Electrolux bar fridge",
-    "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": "393mm x 475mm x 840mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155041",
     "name": "Electric water boiler",
     "description": "Unused electric kettle produced on 18/02/2025",
@@ -121,13 +110,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "155054",
-    "name": "3 Crank Electrical Medical Bed",
-    "description": "Electrical Hospital Bed, single size. Has split side panels that follow the back raising reclining feature. Increased safety and stability when getting on and off the bed while holding on to the side rails.\n\nRemote to control head/back raise, leg raise and height adjustments functions.\n\nComes with inflatable air mattress.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "18 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": "50 x 105 x 229 cm",
+    "id": "155142",
+    "name": "Single size bed frame",
+    "description": "Well used for 10 years by children \nSolid wood \nFrom ibenma \nSingle size \nHas decolourized but bed is well maintained \nHas been dismantled and can be hand carried in few rounds",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155125",
+    "name": "Wooden Dining table",
+    "description": "Chairs not included. Comes with glass top.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "200 x 80 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155121",
+    "name": "Dining table 6 pax set with chairs",
+    "description": "Dining table with 06 chairs.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": "6ft length and 3.5ft width .",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -165,17 +176,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "155043",
-    "name": "Single-size foldable mattress",
-    "description": "Single size mattress used once. In good condition.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Mar 2026",
-    "ageInYears": 1,
-    "dimensions": "75in x 36in x 4in",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "155020",
     "name": "IKEA HÖGSTEN White Outdoor Armchair",
     "description": "- Stylish white wicker chair\n- Suitable for outdoor use\n- Shows some wear on top\n- Sturdy and comfortable\n- Ideal for balcony or patio\n- Perfect for relaxing\n- Comes with the cushion",
@@ -205,17 +205,6 @@
     "validTill": "15 Apr 2026",
     "ageInYears": 4,
     "dimensions": "37x50x74cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "154937",
-    "name": "Hospital Bed",
-    "description": "hospital bed, used less than 2 months. \n\nto arrange own delivery/pay for own collection. \n\nplease call 80582540/62411503 for further details.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -363,12 +352,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "155031",
-    "name": "Baby cot",
-    "description": "Baby cot 60×120 from Picket and Rail, with bamboo anti-SIDS mattress. Lightly used.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "17 Apr 2026",
-    "ageInYears": 2,
+    "id": "155141",
+    "name": "Line Friends Merchandise",
+    "description": "Brand new items but stored long time so there's little yellow stains.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -548,6 +537,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "155116",
+    "name": "Elliptical Machine",
+    "description": "2 year old machine in a home with light usage. It's fully functioning.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "18 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "Estd 140 cm (L) x 80 cm (W) x 150 cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "154932",
@@ -768,6 +768,17 @@
     "dimensions": "Adjustable Height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "155140",
+    "name": "School supplies",
+    "description": "Brand new items but stored for long time so there's little yellow stains.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "154906",

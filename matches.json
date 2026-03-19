@@ -1,5 +1,39 @@
 [
   {
+    "id": "155070",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhoea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155044",
+          "name": "TV console",
+          "description": "The whole piece is functional. Behind it (on the right side) minor delamination. All drawers are in good condition.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "121 cm x 54 cm x 66 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "154895",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -28,40 +62,6 @@
           "dimensions": "121 cm x 54 cm x 66 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154856",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Due to the family current financial constraints, they are unable to replace the refrigerator independently. Assistance with sourcing a replacement refrigerator would help the family meet their basic household needs and ensure safe food storage at home.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Nurul Adryana Abu Bakar",
-      "email": "nuruladryana@allkin.org.sg",
-      "phone": [
-        "60384270",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155042",
-          "name": "Electrolux bar fridge",
-          "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "393mm x 475mm x 840mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -102,73 +102,6 @@
     }
   },
   {
-    "id": "154569",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "This family of four has recently secured their rental flat after spending two years in transitional shelter, marking an important step toward stability and rebuilding their lives. As they settle into their new home, they are in urgent need of essential household appliances, including a refrigerator. The mother, who is the sole breadwinner earning slightly over $2,000 a month, is doing her best to provide for her children, but her income is stretched across daily expenses, school needs, and household bills. A refrigerator is vital for safe food storage, meal preparation, and reducing daily food costs, allowing the family to buy groceries in bulk and minimise food wastage. A donated fridge would significantly ease their financial strain and support their transition into a stable and dignified living environment.",
-    "specifications": null,
-    "contact": {
-      "org": "AWWA Ltd - Transitional Shelter (JT)",
-      "name": "Nur Atikah Binte Hamdan",
-      "email": "nur_atikah@awwa.org.sg",
-      "phone": [
-        "88860487",
-        "65511669"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155042",
-          "name": "Electrolux bar fridge",
-          "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "393mm x 475mm x 840mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154540",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "A family of three requires a working fridge. The family has attempted to repair their current fridge several times, but it can no longer be salvaged. Without a working fridge, the family is unable to store food that requires refrigeration, resulting in food spoilage. The family is facing financial constraints and is currently in the midst of searching for stable employment. The family has a school-going child.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Muhammamd Farhan Bin Abdul Rahman",
-      "email": "muhdfarhan.abdrahman@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155042",
-          "name": "Electrolux bar fridge",
-          "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "393mm x 475mm x 840mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "154421",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -197,105 +130,6 @@
           "dimensions": "121 cm x 54 cm x 66 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154392",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family has 1 special needs child and 1 newborn. Father recently lost his job unexpectedly. Fridge has been broken for about 2 weeks, resulting in food being spoilt and family having to depend on dry rations.",
-    "specifications": "One door",
-    "contact": {
-      "org": "Singapore Children’s Society - Community Services &amp; Programmes @ Children’s Society",
-      "name": "Katherine Ofiaza",
-      "email": "kofiaza@childrensociety.org.sg",
-      "phone": [
-        "64486658"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155042",
-          "name": "Electrolux bar fridge",
-          "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "393mm x 475mm x 840mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154370",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family of 5 with 3 school children living in a 3room flat requiring a new fridge.",
-    "specifications": "NIL",
-    "contact": {
-      "org": "RiverLife Community Services Ltd",
-      "name": "Vivian Lip-Yeo",
-      "email": "vivian@rcs.org.sg",
-      "phone": [
-        "63125963"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155042",
-          "name": "Electrolux bar fridge",
-          "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "393mm x 475mm x 840mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154269",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is functioning as a single father to 2 young children, one with suspected special needs. Family is low income and requires a new fridge as theirs has broken down, and this has resulted in additional load for father while caring for childern. If you have a suitable item, please WhatsApp us at 6843 9619 thank you!",
-    "specifications": "Any",
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Han Wen Ting",
-      "email": "hanwenting@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "23 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155042",
-          "name": "Electrolux bar fridge",
-          "description": "90L bar fridge used for 1 year. In good condition. Need to run manual defroze to maintain cooling once a whole.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "393mm x 475mm x 840mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -335,32 +169,65 @@
     }
   },
   {
-    "id": "152539",
+    "id": "155129",
     "category": "Home Furnishing",
-    "name": "Foldable Mattress",
-    "description": "Ct is a wholehold of 9 living is public rental flat. The couple have 7 children and 4 of them have special needs. Currently 2 of the children foldable mattress have worn out and they are seeking donation for foldable mattress. And a cabinet to store their their belongings.",
+    "name": "Sofa",
+    "description": "Sourcing for a Sofa/sofa bed for a family of 7 whose house was infested with bed bugs recently and had to throw away their furniture. The family is a single-parent unit with 6 children and have financial limitations in replacing the furniture for the children",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Too Xiu Hui",
+      "email": "tooxiuhui@allkin.org.sg",
       "phone": [
-        "87145182",
-        "67671740"
+        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "18 Mar 2026",
+    "date": "19 Mar 2026",
     "matches": {
       "passiton": [
         {
-          "id": "155043",
-          "name": "Single-size foldable mattress",
-          "description": "Single size mattress used once. In good condition.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "75in x 36in x 4in",
+          "id": "155045",
+          "name": "L shape sofa",
+          "description": "Sofa is fabric. Sofa covers are removable. Washed in January 2026. Cushions are spring. \nDimensions: 76 cm (w) on the arm rest side, 145 cm (w) on the L-shape side, 188cm (L) 85 cm (H)",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155063",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client resides in a 2-room rental flat in Ang Mo Kio with 4 of her children. Due to financial constraints, they are unable to afford a new sofa. Client usually sits on the floor but faces difficulty getting up due to health issues and swelling in her leg.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155045",
+          "name": "L shape sofa",
+          "description": "Sofa is fabric. Sofa covers are removable. Washed in January 2026. Cushions are spring. \nDimensions: 76 cm (w) on the arm rest side, 145 cm (w) on the L-shape side, 188cm (L) 85 cm (H)",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -394,40 +261,6 @@
           "validTill": "31 Mar 2026",
           "ageInYears": 4,
           "dimensions": "121 cm x 54 cm x 66 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154893",
-    "category": "Home Furnishing",
-    "name": "Single size mattress",
-    "description": "Young couple with 5 young children who are relocating from a Public Rental Housing to another Public Rental Housing to be nearer to their children's school. The family is on ComCare SSO Assistance for several years due to caregiving commitments and do not have any savings to afford replacements for their household items that have deteriorated.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Charmaine Chin",
-      "email": "charmaine_chin@msf.gov.sg",
-      "phone": [
-        "63765982",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155043",
-          "name": "Single-size foldable mattress",
-          "description": "Single size mattress used once. In good condition.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "75in x 36in x 4in",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -487,17 +320,6 @@
     "date": "11 Mar 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "155043",
-          "name": "Single-size foldable mattress",
-          "description": "Single size mattress used once. In good condition.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "75in x 36in x 4in",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "154873",
           "name": "Hospital bed with air mattress",
@@ -577,17 +399,6 @@
     "date": "25 Feb 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "155043",
-          "name": "Single-size foldable mattress",
-          "description": "Single size mattress used once. In good condition.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": "75in x 36in x 4in",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "154873",
           "name": "Hospital bed with air mattress",
