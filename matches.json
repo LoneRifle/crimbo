@@ -1,5 +1,39 @@
 [
   {
+    "id": "155071",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum",
+    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhoea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155176",
+          "name": "Vacuum cleaner",
+          "description": "Electrolux Z1220 Compactgo vacuum cleaner with extra 5 dustbags",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "21 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "155070",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -28,6 +62,40 @@
           "dimensions": "121 cm x 54 cm x 66 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155066",
+    "category": "Electrical Home Appliances",
+    "name": "Vaccuum cleaner",
+    "description": "Client resides in a 2-room rental flat in Ang Mo Kio with 4 of her children. Since the passing of her late husband, she has been unemployed due to chronic health issues and grief. Client requires a new vacuum but is unable to afford one due to a lack of income.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155176",
+          "name": "Vacuum cleaner",
+          "description": "Electrolux Z1220 Compactgo vacuum cleaner with extra 5 dustbags",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "21 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
