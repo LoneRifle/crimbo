@@ -1,39 +1,5 @@
 [
   {
-    "id": "155071",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum",
-    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhoea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155176",
-          "name": "Vacuum cleaner",
-          "description": "Electrolux Z1220 Compactgo vacuum cleaner with extra 5 dustbags",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "21 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "155070",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -62,40 +28,6 @@
           "dimensions": "121 cm x 54 cm x 66 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155066",
-    "category": "Electrical Home Appliances",
-    "name": "Vaccuum cleaner",
-    "description": "Client resides in a 2-room rental flat in Ang Mo Kio with 4 of her children. Since the passing of her late husband, she has been unemployed due to chronic health issues and grief. Client requires a new vacuum but is unable to afford one due to a lack of income.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155176",
-          "name": "Vacuum cleaner",
-          "description": "Electrolux Z1220 Compactgo vacuum cleaner with extra 5 dustbags",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "21 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -730,74 +662,6 @@
           "validTill": "25 Mar 2026",
           "ageInYears": 2,
           "dimensions": "90 x 100 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154170",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "Family of 7 living in 3 room purchased flat in Yishun requires cupboard to put children clothes. Husband is a cleaner and sole provider. They have 5 children who have special needs.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Edwin Wee",
-      "email": "edwin_kh_wee@msf.gov.sg",
-      "phone": [
-        "62319460",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155169",
-          "name": "2 Cupboards",
-          "description": "I have 2 cupboards, 1 with 2 drawers and a mirror inside. Quite new and use lightly",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "L70cm W46cm H180 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154165",
-    "category": "Home Furnishing",
-    "name": "Cupboard",
-    "description": "Family of 7 living in a 3 room purchased flat. Husband is the sole provider, working as a cleaner. They 5 children who are special needs. Family needs one cupboard to put children clothing.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Edwin Wee",
-      "email": "edwin_kh_wee@msf.gov.sg",
-      "phone": [
-        "62319460",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155169",
-          "name": "2 Cupboards",
-          "description": "I have 2 cupboards, 1 with 2 drawers and a mirror inside. Quite new and use lightly",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": "L70cm W46cm H180 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
