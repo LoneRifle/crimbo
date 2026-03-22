@@ -302,39 +302,6 @@
     }
   },
   {
-    "id": "155129",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Sourcing for a Sofa/sofa bed for a family of 7 whose house was infested with bed bugs recently and had to throw away their furniture. The family is a single-parent unit with 6 children and have financial limitations in replacing the furniture for the children",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Too Xiu Hui",
-      "email": "tooxiuhui@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155045",
-          "name": "L shape sofa",
-          "description": "Sofa is fabric. Sofa covers are removable. Washed in January 2026. Cushions are spring. \nDimensions: 76 cm (w) on the arm rest side, 145 cm (w) on the L-shape side, 188cm (L) 85 cm (H)",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "155063",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -353,6 +320,17 @@
     "date": "19 Mar 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "155174",
+          "name": "2 Seater Sofa with three cushions",
+          "description": "Beautiful blue/grey two seater sofa with cushions for sale. We bought this from Wynn Living a year and a half ago and haven’t used it much. There’s just me and the hubby and we spend most of the time on the three seater. So we would like to donate it. The great thing about this sofa is that the whole cover comes off the frame should you need to wash the covers. There’s the odd pull here and there from normal wear and tear but it’s in fantastic condition.",
+          "location": null,
+          "validTill": "15 Apr 2026",
+          "ageInYears": 1,
+          "dimensions": "40\"depthx67\"widex36\" High",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "155045",
           "name": "L shape sofa",
@@ -539,6 +517,73 @@
           "validTill": "25 Mar 2026",
           "ageInYears": 2,
           "dimensions": "90 x 100 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154560",
+    "category": "Home Furnishing",
+    "name": "2-seater sofa",
+    "description": "Client (F/46) with teenage children is looking for donation of a 2-seater sofa as they do not currently own one. Mother is the sole breadwinner earning limited daily income that can only cover basic necessities while step-father is currently incarcerated.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155174",
+          "name": "2 Seater Sofa with three cushions",
+          "description": "Beautiful blue/grey two seater sofa with cushions for sale. We bought this from Wynn Living a year and a half ago and haven’t used it much. There’s just me and the hubby and we spend most of the time on the three seater. So we would like to donate it. The great thing about this sofa is that the whole cover comes off the frame should you need to wash the covers. There’s the odd pull here and there from normal wear and tear but it’s in fantastic condition.",
+          "location": null,
+          "validTill": "15 Apr 2026",
+          "ageInYears": 1,
+          "dimensions": "40\"depthx67\"widex36\" High",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154478",
+    "category": "Home Furnishing",
+    "name": "2-seater sofa",
+    "description": "Low-income family of 6 looking for a 2 or 3-seater sofa as family currently sits and sleeps on the floor.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Samuel Rajan David",
+      "email": "samuel_rajan_david@msf.gov.sg",
+      "phone": [
+        "62319671",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155174",
+          "name": "2 Seater Sofa with three cushions",
+          "description": "Beautiful blue/grey two seater sofa with cushions for sale. We bought this from Wynn Living a year and a half ago and haven’t used it much. There’s just me and the hubby and we spend most of the time on the three seater. So we would like to donate it. The great thing about this sofa is that the whole cover comes off the frame should you need to wash the covers. There’s the odd pull here and there from normal wear and tear but it’s in fantastic condition.",
+          "location": null,
+          "validTill": "15 Apr 2026",
+          "ageInYears": 1,
+          "dimensions": "40\"depthx67\"widex36\" High",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
