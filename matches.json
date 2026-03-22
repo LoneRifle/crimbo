@@ -623,5 +623,73 @@
       ],
       "carousell": []
     }
+  },
+  {
+    "id": "154170",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Family of 7 living in 3 room purchased flat in Yishun requires cupboard to put children clothes. Husband is a cleaner and sole provider. They have 5 children who have special needs.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Edwin Wee",
+      "email": "edwin_kh_wee@msf.gov.sg",
+      "phone": [
+        "62319460",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155169",
+          "name": "2 Cupboards",
+          "description": "I have 2 cupboards, 1 with 2 drawers and a mirror inside. Quite new and use lightly",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "L70cm W46cm H180 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154165",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Family of 7 living in a 3 room purchased flat. Husband is the sole provider, working as a cleaner. They 5 children who are special needs. Family needs one cupboard to put children clothing.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Edwin Wee",
+      "email": "edwin_kh_wee@msf.gov.sg",
+      "phone": [
+        "62319460",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Feb 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155169",
+          "name": "2 Cupboards",
+          "description": "I have 2 cupboards, 1 with 2 drawers and a mirror inside. Quite new and use lightly",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Mar 2026",
+          "ageInYears": 4,
+          "dimensions": "L70cm W46cm H180 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
   }
 ]
