@@ -22,39 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "155178",
-    "name": "Lena Chew",
-    "description": "Electrolux 8kg front load washer for donation, in good working condition.\nModel number as per picture.\n\nLandlady has just sold her property and has asked me to assist in donating the above.\n\nVWO or client has to arrange for mover to collect at River Valley at their own expense.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "05 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "155177",
-    "name": "Lena Chew",
-    "description": "Large Samsung side by side fridge in good working condition. \nModel number as per pictures.\n\nLandlady has just sold her property and has asked me to assist in donating the above.\n\nVWO or client has to arrange for mover to collect at River Valley at their own expense.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "05 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "155167",
-    "name": "Front load washer",
-    "description": "Washer is 7-8 years old but in good condition.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "02 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155041",
     "name": "Electric water boiler",
     "description": "Unused electric kettle produced on 18/02/2025",
@@ -132,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "155179",
+    "name": "Office chair",
+    "description": "Still working well, adjustable height. \nMesh still intact.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "110mm(H) x 70mm (D) x 50mm (L)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "155175",
     "name": "Muji Oak Dining Chairs - Set of 2",
     "description": "2 nos. of stable wooden chairs in very good condition.",
@@ -139,17 +117,6 @@
     "validTill": "31 Mar 2026",
     "ageInYears": 3,
     "dimensions": "W45 x D51 x H77cm (seat height 42cm)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155174",
-    "name": "2 Seater Sofa with three cushions",
-    "description": "Beautiful blue/grey two seater sofa with cushions for sale. We bought this from Wynn Living a year and a half ago and haven’t used it much. There’s just me and the hubby and we spend most of the time on the three seater. So we would like to donate it. The great thing about this sofa is that the whole cover comes off the frame should you need to wash the covers. There’s the odd pull here and there from normal wear and tear but it’s in fantastic condition.",
-    "location": null,
-    "validTill": "15 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": "40\"depthx67\"widex36\" High",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -902,13 +869,35 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "155166",
-    "name": "Buffet Table/ Storage cabinet",
-    "description": "IKEA besta buffet table/ versatile storage cabinet",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "id": "155184",
+    "name": "Washing Machine",
+    "description": "Washing Machine for donation. Please arrange own pick up from 449301.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "155182",
+    "name": "Homecare Chair",
+    "description": "A Geriatric Chair for someone who needs greater support and comfort.",
+    "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "15 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "180 x 50x 60 cm",
+    "ageInYears": 2,
+    "dimensions": "About 29 inches x 25 inches x 44 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "155181",
+    "name": "Homecare bed",
+    "description": "This will be useful if you require a hospital-like bed to take good care of someone.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "15 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "about 80 inches by 36 inches",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
