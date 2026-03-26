@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "155289",
+    "name": "EuropAce Portable Aircon",
+    "description": "Only used less than one year and the item still look new",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "250 Sqft",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "155282",
     "name": "Stand Fan",
     "description": "Pick up from 311079 on saturday 28 March",
@@ -108,6 +119,61 @@
     "dimensions": "26x10x16",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155290",
+    "name": "Sofa",
+    "description": "Comfy sofa about 1.6m long.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "02 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": "About 1.6m long",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155286",
+    "name": "King Bed and Mattress",
+    "description": "Pick up at 311079 on 28 Mar",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Mar 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155285",
+    "name": "Dining Table and Chairs",
+    "description": "Pick up at 311079 on 28 Mar",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155284",
+    "name": "Sofa Bed",
+    "description": "Pick up at 311079 on 28 Mar",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155283",
+    "name": "Shelves",
+    "description": "Pick up at 311079 on 28 March",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "155255",
