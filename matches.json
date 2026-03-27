@@ -225,6 +225,50 @@
     }
   },
   {
+    "id": "155139",
+    "category": "Home Furnishing",
+    "name": "single mattress",
+    "description": "The client is experiencing significant caregiving stress in managing her 16-year-old son alongside her 21-year-old son with special needs. The family is also facing financial constraints, as the client’s husband is the sole breadwinner with a limited income. \n\nRecently, the client’s 21-year-old son urinated on the mattress. The provision of super single mattress would greatly support the family by restoring a basic level of comfort and functionality in their home.",
+    "specifications": "NIL",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "19 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155319",
+          "name": "King Koil Single Headboard with Mattress",
+          "description": "King Koil single bed frame and Simone mattress",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Mar 2026",
+          "ageInYears": 2,
+          "dimensions": "200cmx100cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "155320",
+          "name": "King Koil Single Headboard with Mattress",
+          "description": "King Koil single bed frame and Simone mattress",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Mar 2026",
+          "ageInYears": 2,
+          "dimensions": "200cmx100cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "154820",
     "category": "Home Furnishing",
     "name": "Sofa bed",
@@ -295,6 +339,28 @@
           "validTill": "28 Mar 2026",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "155319",
+          "name": "King Koil Single Headboard with Mattress",
+          "description": "King Koil single bed frame and Simone mattress",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Mar 2026",
+          "ageInYears": 2,
+          "dimensions": "200cmx100cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "155320",
+          "name": "King Koil Single Headboard with Mattress",
+          "description": "King Koil single bed frame and Simone mattress",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Mar 2026",
+          "ageInYears": 2,
+          "dimensions": "200cmx100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
