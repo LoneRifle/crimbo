@@ -131,17 +131,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "155285",
-          "name": "Dining Table and Chairs",
-          "description": "Pick up at 311079 on 28 Mar",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "155125",
           "name": "Wooden Dining table",
           "description": "Chairs not included. Comes with glass top.",
@@ -235,39 +224,6 @@
     }
   },
   {
-    "id": "154820",
-    "category": "Home Furnishing",
-    "name": "Sofa bed",
-    "description": "Family of 7 requires a sofa bed to meet both seating and sleeping needs within limited living space.",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Jocelyn  Tan",
-      "email": "jocelyn@shenghong.org.sg",
-      "phone": [
-        "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155284",
-          "name": "Sofa Bed",
-          "description": "Pick up at 311079 on 28 Mar",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "154414",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -298,17 +254,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "155286",
-          "name": "King Bed and Mattress",
-          "description": "Pick up at 311079 on 28 Mar",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Mar 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "155320",
           "name": "King Koil Single Headboard with Mattress",
           "description": "King Koil single bed frame and Simone mattress",
@@ -316,39 +261,6 @@
           "validTill": "30 Mar 2026",
           "ageInYears": 2,
           "dimensions": "200cmx100cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "154405",
-    "category": "Home Furnishing",
-    "name": "Sofa bed",
-    "description": "Low income family is replacing their spoilt furniture and hopes to receive a sofa bed. Direct delivery to their home in Queenstown is appreciated!",
-    "specifications": "2-seater sofa bed",
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Fitrah Nabilah",
-      "email": "fitrahnabilah@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155284",
-          "name": "Sofa Bed",
-          "description": "Pick up at 311079 on 28 Mar",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
