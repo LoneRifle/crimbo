@@ -120,6 +120,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "155325",
+          "name": "Dining Table with Chairs",
+          "description": "150cm by 110 cm",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "09 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "155285",
           "name": "Dining Table and Chairs",
           "description": "Pick up at 311079 on 28 Mar",
@@ -149,40 +160,6 @@
           "validTill": "31 Mar 2026",
           "ageInYears": 4,
           "dimensions": "L80 cm W40cm/80cm H55cm/75cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155209",
-    "category": "Home Furnishing",
-    "name": "Sofa bed",
-    "description": "Single mother with 3 sons attending preschool/secondary school. Mother lost her job and in midst of job searching. Current sofa is spoilt and family is seeking for a donation as mother sleeps on it at night.",
-    "specifications": "Depth 151cm, bed width 140cm, bed length 204cm, height 86cm, width 230cm",
-    "contact": {
-      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-      "name": "Lam Jie Ying",
-      "email": "lam_jie_ying@msf.gov.sg",
-      "phone": [
-        "62287150",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155284",
-          "name": "Sofa Bed",
-          "description": "Pick up at 311079 on 28 Mar",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Mar 2026",
-          "ageInYears": 1,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -242,17 +219,6 @@
     "date": "19 Mar 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "155319",
-          "name": "King Koil Single Headboard with Mattress",
-          "description": "King Koil single bed frame and Simone mattress",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "30 Mar 2026",
-          "ageInYears": 2,
-          "dimensions": "200cmx100cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "155320",
           "name": "King Koil Single Headboard with Mattress",
@@ -339,17 +305,6 @@
           "validTill": "28 Mar 2026",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "155319",
-          "name": "King Koil Single Headboard with Mattress",
-          "description": "King Koil single bed frame and Simone mattress",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "30 Mar 2026",
-          "ageInYears": 2,
-          "dimensions": "200cmx100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
