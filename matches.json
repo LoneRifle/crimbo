@@ -235,43 +235,66 @@
     }
   },
   {
-    "id": "154414",
+    "id": "155059",
     "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "ComLink+ family urgently needs a single and a super single mattress. Kind donors who are able to bless family, pls contact family coach.",
+    "name": "Queen Size Mattress",
+    "description": "Mdm Julianah (F/50) resides in a 2-room rental flat in Ang Mo Kio with 4 of her children. The family of 5 shares one queen sized mattress in the bedroom. Due to financial constraints, they are unable to afford a new mattress. Mdm Julianah sleeps on the floor but faces difficulty getting up due to health issues and swelling in her leg.",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Teo Chin Wee",
-      "email": "teo_chin_wee@msf.gov.sg",
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
       "phone": [
-        "63549057",
-        "64244017"
+        "60384117",
+        "60384120"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2026",
+    "date": "19 Mar 2026",
     "matches": {
       "passiton": [
         {
-          "id": "155311",
-          "name": "Loft bed with mattress",
-          "description": "White wooden loft bed with mattress",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "25 Apr 2026",
+          "id": "155329",
+          "name": "Queen Size Mattress",
+          "description": "I have gotten a new mattress and want to give away my queen size mattress.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "02 Apr 2026",
           "ageInYears": 4,
-          "dimensions": "220x200x215 cm",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154475",
+    "category": "Home Furnishing",
+    "name": "Queen Size Mattress",
+    "description": "A family of eight is residing in a 3-room flat in Yishun and requires assistance with a queen-size mattress. The household includes two adults (aged 41 and 42) and six children (aged 18, 13, 12, 15, 8, and 7). Three of the children currently share a damaged mattress, but the family cannot afford a replacement due to financial difficulties. A new mattress would greatly improve the children’s sleep quality and overall well-being, ensuring they get the necessary rest for their studies and daily activities.",
+    "specifications": "Dependent on Donor options",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Marc Chong",
+      "email": "marc_chong@msf.gov.sg",
+      "phone": [
+        "63548497",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Feb 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "155320",
-          "name": "King Koil Single Headboard with Mattress",
-          "description": "King Koil single bed frame and Simone mattress",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "30 Mar 2026",
-          "ageInYears": 2,
-          "dimensions": "200cmx100cm",
+          "id": "155329",
+          "name": "Queen Size Mattress",
+          "description": "I have gotten a new mattress and want to give away my queen size mattress.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "02 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
