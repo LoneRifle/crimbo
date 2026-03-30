@@ -143,6 +143,42 @@
     "date": "02 Mar 2026"
   },
   {
+    "id": "155339",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Single mother with one pre-school aged son requires a washing machine as their old one has broken down. Required to ease household load of mom.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2026"
+  },
+  {
+    "id": "154435",
+    "category": "Electrical Home Appliances",
+    "name": "Smart TV",
+    "description": "Client received a smart TV which stopped working after 3 months. He hopes to get a replacement soon.",
+    "specifications": "55 inches",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "30 Mar 2026"
+  },
+  {
     "id": "155326",
     "category": "Electrical Home Appliances",
     "name": "Microwave oven",
@@ -778,24 +814,6 @@
     "date": "12 Mar 2026"
   },
   {
-    "id": "154836",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "The family has five children with the mother currently staying home as a caregiver. Their television has recently broken down, and the family used it for family bonding sessions on weekends. The father has also recently lost his job and is looking for employment to support the family.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Karen Chin",
-      "email": "karen_chin@msf.gov.sg",
-      "phone": [
-        "62319464",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Mar 2026"
-  },
-  {
     "id": "154826",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -1155,24 +1173,6 @@
     "category": "Electrical Home Appliances",
     "name": "Window air-conditioner",
     "description": "Low-income nuclear family with a 9 year old son and 1 year old baby requires a window air-conditioner in their home as their current portable air-con uses up a lot of electricity, resulting in high bills. An air-con is required for their family as a cool environment ensures the children do not develop itch when it gets hot. A window air-con will help to reduce their electricity bills.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Emilyn Teo",
-      "email": "emilyn_teo@msf.gov.sg",
-      "phone": [
-        "67087820",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Mar 2026"
-  },
-  {
-    "id": "153188",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Family comprises a single mother and her daughter. Their washing machine has spoiled and they require a new one, preferably with front load, to wash their clothes.",
     "specifications": null,
     "contact": {
       "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
@@ -2652,6 +2652,24 @@
     "date": "02 Mar 2026"
   },
   {
+    "id": "155340",
+    "category": "Home Furnishing",
+    "name": "mattress",
+    "description": "The client is married with three young children aged 5, 3, and 7 months old. Her husband is the sole breadwinner, earning a monthly income of $2,500, which barely covers their daily expenses. The three children currently share a queen-size mattress for sleeping, but due to constant use, it has become worn out and needs replacing. The family is seeking a donor who could provide them with a mattress, preferably queen-size to accommodate their growing family.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "30 Mar 2026"
+  },
+  {
     "id": "155317",
     "category": "Home Furnishing",
     "name": "TV console",
@@ -3779,24 +3797,6 @@
     "date": "27 Feb 2026"
   },
   {
-    "id": "154475",
-    "category": "Home Furnishing",
-    "name": "Queen Size Mattress",
-    "description": "A family of eight is residing in a 3-room flat in Yishun and requires assistance with a queen-size mattress. The household includes two adults (aged 41 and 42) and six children (aged 18, 13, 12, 15, 8, and 7). Three of the children currently share a damaged mattress, but the family cannot afford a replacement due to financial difficulties. A new mattress would greatly improve the children’s sleep quality and overall well-being, ensuring they get the necessary rest for their studies and daily activities.",
-    "specifications": "Dependent on Donor options",
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Marc Chong",
-      "email": "marc_chong@msf.gov.sg",
-      "phone": [
-        "63548497",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Feb 2026"
-  },
-  {
     "id": "154472",
     "category": "Home Furnishing",
     "name": "Request for 2-door wardrobe for a single elderly",
@@ -4571,6 +4571,24 @@
     "date": "28 Feb 2026"
   },
   {
+    "id": "155338",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Family consists of a single mum and her two sons living together in a 2-room HDB rental flat. Older son requires a laptop as he is starting polytechnic soon. *Macbooks are unsuitable for his course. Please Whatsapp me at 62319407 if you have a suitable working laptop in good condition that can support my client in his poly studies for the next 3 years. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2026"
+  },
+  {
     "id": "155303",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -4870,24 +4888,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Mar 2026"
-  },
-  {
-    "id": "155321",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is a 31-year-old female with left-sided paralysis who is wheelchair-bound and resides with her elderly mother. She is motivated to increase her social and community participation but is unable to do so independently due to mobility limitations. Client would like to request for a manual wheelchair to aid in her mobility. Kindly contact me at 96409381 for coordination thank you! :)",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Shanelle Tan",
-      "email": "shanelle.tan@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Mar 2026"
   },
   {
     "id": "155218",
