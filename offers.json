@@ -121,6 +121,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "155386",
+    "name": "3 seater sofa",
+    "description": "Good condition 3 seater sofa. Cover is removable for washing",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "29 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": "200x100x92",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "155380",
     "name": "Dining table set",
     "description": "Extension to 1.8m. W bench n 2 chairs",
@@ -128,17 +139,6 @@
     "validTill": "19 Apr 2026",
     "ageInYears": 3,
     "dimensions": "L160 W90 H75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155379",
-    "name": "Sofa",
-    "description": "Sofa",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "19 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "L200 W90",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -172,17 +172,6 @@
     "validTill": "09 Apr 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155366",
-    "name": "Pull out bed",
-    "description": "Its a pull out bed, top one is super single. Bottom one is normal single.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "09 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "160X180X130",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -702,17 +691,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "155332",
-    "name": "Mobility aids and medical supplies",
-    "description": "Various wheelchairs, commode chair, diapers, bedlinings, cushions",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "28 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "155331",
