@@ -135,6 +135,39 @@
     }
   },
   {
+    "id": "155448",
+    "category": "Home Furnishing",
+    "name": "Bed Frame and Mattress",
+    "description": "Lower-income family staying in a rental flat requires a kind donation of a queen-sized bed frame along with mattress. Their previous bed frame was broken and family has limited finances to replace it. The donation will benefit the 2 young children, aged 6 and 2 and their parents.",
+    "specifications": "Queen-sized",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Joel Low",
+      "email": "joellow@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155482",
+          "name": "Bed frame and matress",
+          "description": "king size 1, queen size 2 beds",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "05 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "king and queen size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "155312",
     "category": "Home Furnishing",
     "name": "Single size mattress",
