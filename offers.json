@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "155509",
-    "name": "Refrigerator",
-    "description": "2 door refrigerator with freezer at bottom compartment",
-    "location": null,
-    "validTill": "18 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155507",
     "name": "32 inch TV, Philips",
     "description": "Philips 32 inch TV",
@@ -128,6 +117,17 @@
     "validTill": "03 May 2026",
     "ageInYears": 2,
     "dimensions": "10.8\"D x 10.8\"W x 20.5\"H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155517",
+    "name": "TV",
+    "description": "LG TV in great condition with remote included. NOTE: BROUGHT FROM US and will require an adapter/transformer as it's 120 V / 50-60 Hz",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "03 May 2026",
+    "ageInYears": 4,
+    "dimensions": "50-inch LG TV typically measures approximately 43.7 inches wide and 25.4 inches high",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -748,6 +748,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "155519",
+    "name": "Walking frame and wheelchair",
+    "description": "Preferably for delivery in west\nWalking frame with and without wheels available \nShower chair\nWheelchair\nWalking stick\nDisposable urina",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "04 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "155445",
     "name": "Reclining wheelchair 18\"",
     "description": "Reclining wheelchair, 18\", unfoldable",
@@ -812,6 +823,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "155518",
+    "name": "Super single bed with mattress",
+    "description": "Super single bed with mattress. Bed railing can be included together with pillow, bolster and bedsheet",
+    "location": null,
+    "validTill": "04 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "155433",
