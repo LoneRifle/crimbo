@@ -203,6 +203,40 @@
     }
   },
   {
+    "id": "155269",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Ct is unemployed and looking after her elderly mother. Ct seeks a bicycle to travel around the neighbourhood.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "154729",
+          "name": "Lower Limb Bicycle",
+          "description": "Lower limb bicycle",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "08 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "50 cm L x 40 cm W",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "155541",
     "category": "Home Furnishing",
     "name": "Bookshelf",
@@ -240,40 +274,6 @@
           "validTill": "26 Apr 2026",
           "ageInYears": 1,
           "dimensions": "62 x 24 x 165cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155473",
-    "category": "Home Furnishing",
-    "name": "3 seater sofa",
-    "description": "Family of 5 with 2 school-going children living in a 2-room rental flat who requires a 3-seater sofa as their current one is broken. Father is the sole breadwinner. Would greatly appreciate if donor is able to cover transport expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Mohamad Harith",
-      "email": "harith_husaini@msf.gov.sg",
-      "phone": [
-        "63254547",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155554",
-          "name": "3 seater sofa",
-          "description": "Good condition 3 seater sofa. Cover is removable for washing",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "29 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "200x100x92",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -355,40 +355,6 @@
           "dimensions": "220x200x215 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155269",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Ct is unemployed and looking after her elderly mother. Ct seeks a bicycle to travel around the neighbourhood.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "154729",
-          "name": "Lower Limb Bicycle",
-          "description": "Lower limb bicycle",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "08 Apr 2026",
-          "ageInYears": 2,
-          "dimensions": "50 cm L x 40 cm W",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
