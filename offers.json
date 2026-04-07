@@ -154,6 +154,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "155619",
+    "name": "Foldable Mattress",
+    "description": "Foldable mattress available and very thick (11cm). Single size only. I have hardly used it.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "08 May 2026",
+    "ageInYears": 1,
+    "dimensions": "190cm X 92cm X 11cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "155618",
     "name": "Foldable single size mattress or day bed",
     "description": "Foldable single bed",
@@ -392,28 +403,6 @@
     "validTill": "29 Apr 2026",
     "ageInYears": 3,
     "dimensions": "200x100x92",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155368",
-    "name": "chair",
-    "description": "Normal seating chair",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "08 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155421",
-    "name": "chair",
-    "description": "Normal seating chair",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "08 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -770,17 +759,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "154729",
-    "name": "Lower Limb Bicycle",
-    "description": "Lower limb bicycle",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "08 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": "50 cm L x 40 cm W",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "154919",
     "name": "Assorted files and note books",
     "description": "Assorted files for studies materials and note books for writing and sketching",
@@ -986,28 +964,6 @@
     "validTill": "12 Apr 2026",
     "ageInYears": 1,
     "dimensions": "A4",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "154718",
-    "name": "Cancer supplies",
-    "description": "Cancer supplies",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "08 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "154717",
-    "name": "Cancer supplies",
-    "description": "Cancer supplies",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "08 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
