@@ -88,23 +88,34 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "155578",
-    "name": "Electric airpot",
-    "description": "Electric airpot. Can boil water and keep water warm.\n\nI can deliver ONLY to central/south/west areas.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "20 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155560",
     "name": "Wall fan",
     "description": "16 inch wall fan. \n\nI have 2 pieces.\n\nI can deliver ONLY to central/south/west areas. \nVWO please assist in giving me contact of an electrician who can install the fans.",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "20 Apr 2026",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155685",
+    "name": "Wireless headphones, torch and batteries",
+    "description": "As seen in photo",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "01 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155686",
+    "name": "Wireless headphones, torch and batteries",
+    "description": "As seen in photo",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "01 May 2026",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -603,6 +614,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "155679",
+    "name": "Exercise Bike",
+    "description": "99% new (never been used)\nPic of approximate measurements attached\nFeatures adjustable seat and handlebars for a comfortable workout\nIncludes a wool felt silent brake and an iPad/phone holder",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "09 May 2026",
+    "ageInYears": 1,
+    "dimensions": "90 x 46.5 x 105",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "155267",
