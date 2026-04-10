@@ -119,6 +119,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "155697",
+          "name": "Work Table",
+          "description": "1 Work table, 1 small cabinet, 1 small side table, about a decade old and in good condition",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "17 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "155599",
           "name": "Meeting Table",
           "description": "Meeting Table for blessing. In a very good condition. Need to arrange own transport and dismantle the table.",
@@ -170,17 +181,6 @@
           "validTill": "26 Apr 2026",
           "ageInYears": 4,
           "dimensions": "123cm(D)x76cm(H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "155550",
-          "name": "Wooden dining table",
-          "description": "Extendable dining table .",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "13 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "L138xw85xh76",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -263,17 +263,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "155550",
-          "name": "Wooden dining table",
-          "description": "Extendable dining table .",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "13 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "L138xw85xh76",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "155125",
           "name": "Wooden Dining table",
           "description": "Chairs not included. Comes with glass top.",
@@ -308,6 +297,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "155698",
+          "name": "Single bed with mattress",
+          "description": "To bless Chinese family especially if there’s any immobile persons or those physically or mentally challenged. Thanks",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "10 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "155418",
           "name": "Loft bed with mattress",
           "description": "White wooden loft bed with mattress",
@@ -328,40 +328,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155613",
-    "category": "Mobility Aids",
-    "name": "Walking Frame",
-    "description": "Senior living in marine terrace rental flat requires a walking frame. He is not able to afford the delivery cost.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife!",
-      "name": "Charmaine Seah",
-      "email": "charmaine.seah@montfortcare.org.sg",
-      "phone": [
-        "96450862",
-        "64450570"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155666",
-          "name": "NEW Walking Frame",
-          "description": "DNR Brand\nAdjustable Height \nTwo front wheels",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "18 Apr 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
