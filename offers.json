@@ -110,6 +110,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "155723",
+    "name": "Coke fridge",
+    "description": "Fridge",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "155720",
     "name": "IKEA ÅRSTID Table Lamp - Brass/White",
     "description": "I have total of 4 to give awayz",
@@ -127,17 +138,6 @@
     "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
     "validTill": "12 May 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "155714",
-    "name": "Sona portable aircon",
-    "description": "Potable aircon",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "11 May 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -218,6 +218,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155721",
+    "name": "6 inch single mattress",
+    "description": "6 inch single mattress, still wrapped in plastic",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "12 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "155719",
@@ -561,6 +572,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "155724",
+    "name": "Kids chair",
+    "description": "Study chair",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "12 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "155692",
     "name": "Rascal & Friends Premium Diaper size XL",
     "description": "Brand new",
@@ -790,6 +812,17 @@
     "dimensions": "45cmx 45cmX 45cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "155722",
+    "name": "Urine bags",
+    "description": "9 urine bags, exp May 2030",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "12 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "155531",
