@@ -106,17 +106,6 @@
           "category": "Others"
         },
         {
-          "id": "155181",
-          "name": "Homecare bed",
-          "description": "This will be useful if you require a hospital-like bed to take good care of someone.",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "15 Apr 2026",
-          "ageInYears": 2,
-          "dimensions": "about 80 inches by 36 inches",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
-        {
           "id": "155255",
           "name": "Single folder bed by Seahorse",
           "description": "Product Size: 194cm(L)x90cm(W) (Fit single size mattress 36x75 inch)\nHeight: Floor to bed head :54 cm, floor to bed end: 40.5 cm, floor to bed: 36.6cm",
@@ -194,6 +183,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "155805",
+          "name": "Dining table with 4 chairs",
+          "description": "Marble dining table with 4 blue chairs to be given away",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "29 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "155697",
           "name": "Work Table",
           "description": "1 Work table, 1 small cabinet, 1 small side table, about a decade old and in good condition",
@@ -260,17 +260,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "155125",
-          "name": "Wooden Dining table",
-          "description": "Chairs not included. Comes with glass top.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "15 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "200 x 80 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "155558",
           "name": "Tempered Glass Study table",
           "description": "White tempered glass study table",
@@ -327,6 +316,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "155805",
+          "name": "Dining table with 4 chairs",
+          "description": "Marble dining table with 4 blue chairs to be given away",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "29 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "155664",
           "name": "Round dining table",
           "description": "Round dining table only to bless. No chairs.",
@@ -334,17 +334,6 @@
           "validTill": "26 Apr 2026",
           "ageInYears": 4,
           "dimensions": "123cm(D)x76cm(H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "155125",
-          "name": "Wooden Dining table",
-          "description": "Chairs not included. Comes with glass top.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "15 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "200 x 80 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
