@@ -187,6 +187,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "155776",
+    "name": "Bedside cabinet",
+    "description": "Bedside cabinet",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "14 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "155757",
     "name": "IKEA study desk",
     "description": "Study desk in good condition.",
@@ -269,17 +280,6 @@
     "description": "2 single bed frame with 1 foldable mattress and 1 sponge mattress\n\nSuitable for young people",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "10 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155667",
-    "name": "McQueen Racing Car Shaped Bed Frame with Mattress",
-    "description": "Good condition bed frame with mattress. My son has outgrown it",
-    "location": null,
-    "validTill": "01 May 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -517,6 +517,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "155770",
+    "name": "Rascal & Friend premium diaper sz XL",
+    "description": "Brand new",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "25 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "155731",
     "name": "Bath tub",
     "description": "Simple bathtub",
@@ -544,17 +555,6 @@
     "description": "Brand new",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "30 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "155520",
-    "name": "Various baby items to bless",
-    "description": "Items to bless: \n1. 3 pairs of brand new nursing bras (L size) \n2. 1 foldable baby mat \n3. 1 bathing net to attach to bathtub\n4. toys and book for baby\n5. 1 breastfeeding book and nursing cover \n6. opened pack of diapers M size (brand moko moko) \n7. 2 x waterproof mats (used once only) \n8. 1x  medela breast pump and power charger only.\n9. 1 x feeding bib \n10. Breast milk storage bags \n11. Jevon baby brand disposable Breast pads x 1 pack",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 May 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -627,28 +627,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "154952",
-    "name": "Baby hat & mittens",
-    "description": "Baby mittens: 8cm x 10cm \nBaby hat: 40cm - 47cm, suitable for 3-16mths\nFor bigger size baby",
-    "location": "Lim Chu Kang, Sungei Gedong, Tengah",
-    "validTill": "15 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "154949",
-    "name": "Breast milk collection shells",
-    "description": "Used a few times when my breast milk keep leaking, already clean and sterilised",
-    "location": null,
-    "validTill": "15 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "154947",
     "name": "colostrum Collecting set",
     "description": "For mother who would like to store and collect colostrum once your body starts producing. 10 syringes and 1 baby cup feeder. Brand new",
@@ -669,6 +647,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "155775",
+    "name": "Glassware",
+    "description": "Plates, bowls, cups, glassware , teapot",
+    "location": "Cavendish Park",
+    "validTill": "14 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "155773",
+    "name": "Crockery",
+    "description": "Cups, saucers, plates, bowls , teacup pot, glassware",
+    "location": "Cavendish Park",
+    "validTill": "14 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "155715",
@@ -737,6 +737,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "155769",
+    "name": "All in one ASUS Desktop",
+    "description": "Still in good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "14 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
     "id": "155722",
     "name": "Urine bags",
     "description": "9 urine bags, exp May 2030",
@@ -790,6 +801,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "155772",
+    "name": "Elderly walking sticks",
+    "description": "3 walking sticks for elderly",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "14 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "155689",
@@ -853,6 +875,28 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "30 Apr 2026",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "155766",
+    "name": "Super single bed with mattress",
+    "description": "Super single bed with mattress. Bed railing can be included together with pillow, bolster and bedsheet",
+    "location": null,
+    "validTill": "04 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "155767",
+    "name": "Super single bed with mattress",
+    "description": "Super single bed with mattress. Bed railing can be included together with pillow, bolster and bedsheet",
+    "location": null,
+    "validTill": "04 May 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
