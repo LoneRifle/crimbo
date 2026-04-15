@@ -1,5 +1,40 @@
 [
   {
+    "id": "155825",
+    "category": "Electrical Home Appliances",
+    "name": "Portal Aircon Needed!",
+    "description": "Client’s daughter has been experiencing severe eczema flare-ups, which have been exacerbated by the heat/weather. The family is requesting support for a portable air conditioner, if available, to help alleviate the child’s symptoms and improve her comfort.",
+    "specifications": "Portable Aircon",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Farahlina Tan",
+      "email": "farahlina_tan@awwa.org.sg",
+      "phone": [
+        "65119458",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
+    "id": "155814",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is currently staying in a 4-room HDB with her husband, helper and 4 children. Couple has high credit debts to pay and are both gainfully employed to cover the family expenses. However, due to their debt and high dependents, the family continues to experience difficulties in finances. Recently, the washing machine broke down, and family urgently needs a new washing machine due to the high number of people at home.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
     "id": "155799",
     "category": "Electrical Home Appliances",
     "name": "Heat Pump Dryer",
@@ -684,40 +719,6 @@
     "date": "30 Mar 2026"
   },
   {
-    "id": "155360",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Client is moving into his rental flat and requires a washing machine.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Mar 2026"
-  },
-  {
-    "id": "155359",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is moving into his rental flat and requires a refrigerator.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Mar 2026"
-  },
-  {
     "id": "155358",
     "category": "Electrical Home Appliances",
     "name": "Clothes Dryer",
@@ -1157,6 +1158,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "17 Mar 2026"
+  },
+  {
+    "id": "155821",
+    "category": "Infant and Children Items",
+    "name": "Stroller",
+    "description": "Single mother of 2 who is the main caregiver of the children requires a stroller for the youngest child who is 3 years old. Mother is not working due to caregiving needs and does not have the means to get a stroller.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Nur Hidayah Binte Abdul Rahim",
+      "email": "nurhidayah@carecorner.org.sg",
+      "phone": [
+        "64506649",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
+    "id": "155819",
+    "category": "Infant and Children Items",
+    "name": "Baby gate",
+    "description": "Single mother of 7 with 2 young special needs children require a baby gate, preferably a taller than usual one to keep the children out of the kitchen. \n\nShe is also the sole breadwinner where her income is just enough for the family to meet their basic needs.",
+    "specifications": "width 92cm",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Nur Hidayah Binte Abdul Rahim",
+      "email": "nurhidayah@carecorner.org.sg",
+      "phone": [
+        "64506649",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
+    "id": "155818",
+    "category": "Infant and Children Items",
+    "name": "Diapers (Pull up pants L)",
+    "description": "Single mother of three requesting support for pull-up pants diapers (any brand) for her 1-year-old child (F/1). She is currently facing financial constraints and requires assistance to meet the child’s daily care needs.",
+    "specifications": "Size L (any brand)",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Hanissah Abdullah",
+      "email": "hanissah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
+    "id": "155815",
+    "category": "Infant and Children Items",
+    "name": "Baby diapers",
+    "description": "Family is a household of 4 with two children (M/2, M/13). Mother is currently the sole provider for the children, as father has left the home and is no longer providing financially. As mother's income is insufficient, family faces financial difficulty and is seeking assistance with milk and diapers for M/2.\n\nBaby diapers (pants type) - size L",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Julianah Binte Fauzi Ong",
+      "email": "julianahong@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
   },
   {
     "id": "154234",
@@ -2866,6 +2937,24 @@
     "date": "17 Mar 2026"
   },
   {
+    "id": "155827",
+    "category": "Others",
+    "name": "Art supplies",
+    "description": "Client is an individual with mental health challenges and limited social support. She is currently working towards running a small online craft business to generate income and maintain a sense of purpose. However, she faces financial constraints in purchasing adequate art supplies. Art materials would help her create craft pieces, support her income, and improve her well-being.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
     "id": "155813",
     "category": "Others",
     "name": "Dog bed",
@@ -3678,93 +3767,39 @@
     "date": "16 Mar 2026"
   },
   {
-    "id": "155812",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "The family is seeking assistance to obtain a second-hand bicycle for their 13-year-old son, who requires a reliable way to travel to school. He is approximately 1.6–1.7m tall, and a suitably sized bicycle is important for his safety and comfort. With a household income of $1.9k, the family prioritises essential expenses and is unable to afford a bicycle.\n\nA second-hand bicycle would provide him with a practical and independent means of commuting and support his school attendance.",
+    "id": "155823",
+    "category": "Home Furnishing",
+    "name": "Queen bed w/ mattress",
+    "description": "Client is a single mother with a young child. She is the sole caregiver for her child. She is also trying to secure stable employment to support her daily needs. With finances being limited, she has requested for a queen bed donation as she only has a single bed now. With her child growing up, it is difficult for them to sleep in a single bed comfortably.",
     "specifications": null,
     "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Vanessa Goh",
-      "email": "vanessagoh@mws.sg",
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Sarrani Krishnan",
+      "email": "sarrani_krishnan@msf.gov.sg",
       "phone": [
-        "67564995ext102/83688612",
-        "67564995"
+        "68678568",
+        "67660097"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Apr 2026"
   },
   {
-    "id": "155701",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Donations for basic household items",
-    "description": "*Interested donors please WHATSAPP 96183516/ OR EMAIL to liaise. 96yo low income elderly client living alone with a helper requires some grocery & household items. Caseworker is looking for some grocery assistance to help client. Thank you!",
+    "id": "155820",
+    "category": "Home Furnishing",
+    "name": "Bookshelf",
+    "description": "The family has three children aged 6, 8, and 9. They would benefit from a bookshelf to store the children’s storybooks. Currently, the storybooks are stacked on a table, which makes it difficult for the children to access them independently and is not a conducive setup. Having a bookshelf will allow the children to easily find and return their storybooks, supporting their daily routine, especially during bedtime reading",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Community Services - Mental Health",
-      "name": "Mindy Choo",
-      "email": "mindychoo@fycs.org",
+      "org": "KidSTART @ Allkin",
+      "name": "Nursyafizah Yosope",
+      "email": "nursyafizah@allkin.org.sg",
       "phone": [
-        "60117651",
-        "64712022"
+        "60384210"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "10 Apr 2026"
-  },
-  {
-    "id": "154595",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Adult bicycle",
-    "description": "Clients have 4 young children and are expecting another child. Husband is the primary breadwinner at home. He uses public transport and bicycle to go to work. However, his bicycle recently broke down. The bicycle support can help him in transport and possibly on getting extra income through delivery.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Apr 2026"
-  },
-  {
-    "id": "155437",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Carrom Board Sets (5 Sets)",
-    "description": "The Helping Hand halfway house would like to organise recreational activities for our beneficiaries. We would appreciate it if you could donate 5 sets of Carrom Boards Sets (including the Seeds/ Strikers) for our residents to play. We are also thinking of organizing a competition and could include Carrom. This will help our residents in their recovery journey. Thank you in advance. Ben (Social Work Department)",
-    "specifications": "Carrom Board Sets (5X)",
-    "contact": {
-      "org": "The Helping Hand",
-      "name": "Benjamin Ong",
-      "email": "benjaminong@thehelpinghand.org.sg",
-      "phone": [
-        "67184076",
-        "62832204"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Apr 2026"
-  },
-  {
-    "id": "155269",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Ct is unemployed and looking after her elderly mother. Ct seeks a bicycle to travel around the neighbourhood.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Mar 2026"
+    "date": "15 Apr 2026"
   },
   {
     "id": "155810",
@@ -3796,24 +3831,6 @@
       "email": "meiqing@sccfsc.org.sg",
       "phone": [
         "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Apr 2026"
-  },
-  {
-    "id": "155792",
-    "category": "Home Furnishing",
-    "name": "Queen Size mattress",
-    "description": "Elderly couple is in need of a Queen-sized mattress. Husband is mobile but walks with a limp. Wife is wheelchair bound with multiple medical conditions. Currently, their mattress was a donated mattress and have been using it for the past 1.5 years (due to bedbug infestations). However, the current mattress is now sunk in and makes it uncomfortable for them to sleep and often cause them backaches. \nAppreciate any kind donors with good condition and clean queen-sized mattress (bed bug free), please contact me via whatsapp @ 8518 3526\nThank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Yishun",
-      "name": "Danny Tan",
-      "email": "danny.tan@montfortcare.org.sg",
-      "phone": [
-        "64840804",
-        "64848040"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4660,6 +4677,23 @@
     "date": "16 Mar 2026"
   },
   {
+    "id": "155826",
+    "category": "Mobility Aids",
+    "name": "Senior seeking for well-maintained Geriatric Chair",
+    "description": "Senior is a foreigner (LTVP holder). Currently, her eldest daughter has been providing round-the-clock care for her together with a helper. Not long ago, the daughter was retrenched from her job and has been utilising her savings to provide for their daily needs. As senior has poor health, she requires support for feeding, getting around the neighbourhood etc. \nThey are seeking a donation of a well-maintained geriatric chair for the senior to improve her comfort and care at home.",
+    "specifications": "any",
+    "contact": {
+      "org": "Care Corner CREST @ Toa Payoh",
+      "name": "Loh Jia Yi",
+      "email": "lohjiayi@carecorner.org.sg",
+      "phone": [
+        "62586601"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
     "id": "155748",
     "category": "Mobility Aids",
     "name": "Wheelchair",
@@ -4911,6 +4945,24 @@
     "date": "19 Mar 2026"
   },
   {
+    "id": "155816",
+    "category": "Attires/Clothings",
+    "name": "Girl clothes",
+    "description": "Single mother is looking for clothes for her 8 year old daughter. Most of their income is needed to meet basic needs hence they are unable to afford new clothes. Daughter has outgrown the old clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Nur Hidayah Binte Abdul Rahim",
+      "email": "nurhidayah@carecorner.org.sg",
+      "phone": [
+        "64506649",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
     "id": "155127",
     "category": "Attires/Clothings",
     "name": "Baju Kurung (Girls, children)",
@@ -4926,6 +4978,78 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Mar 2026"
+  },
+  {
+    "id": "155812",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "The family is seeking assistance to obtain a second-hand bicycle for their 13-year-old son, who requires a reliable way to travel to school. He is approximately 1.6–1.7m tall, and a suitably sized bicycle is important for his safety and comfort. With a household income of $1.9k, the family prioritises essential expenses and is unable to afford a bicycle.\n\nA second-hand bicycle would provide him with a practical and independent means of commuting and support his school attendance.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Vanessa Goh",
+      "email": "vanessagoh@mws.sg",
+      "phone": [
+        "67564995ext102/83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026"
+  },
+  {
+    "id": "155701",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Donations for basic household items",
+    "description": "*Interested donors please WHATSAPP 96183516/ OR EMAIL to liaise. 96yo low income elderly client living alone with a helper requires some grocery & household items. Caseworker is looking for some grocery assistance to help client. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Mindy Choo",
+      "email": "mindychoo@fycs.org",
+      "phone": [
+        "60117651",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Apr 2026"
+  },
+  {
+    "id": "155437",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Carrom Board Sets (5 Sets)",
+    "description": "The Helping Hand halfway house would like to organise recreational activities for our beneficiaries. We would appreciate it if you could donate 5 sets of Carrom Boards Sets (including the Seeds/ Strikers) for our residents to play. We are also thinking of organizing a competition and could include Carrom. This will help our residents in their recovery journey. Thank you in advance. Ben (Social Work Department)",
+    "specifications": "Carrom Board Sets (5X)",
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Benjamin Ong",
+      "email": "benjaminong@thehelpinghand.org.sg",
+      "phone": [
+        "67184076",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Apr 2026"
+  },
+  {
+    "id": "155269",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Ct is unemployed and looking after her elderly mother. Ct seeks a bicycle to travel around the neighbourhood.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Mar 2026"
   },
   {
     "id": "155797",
