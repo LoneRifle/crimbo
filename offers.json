@@ -88,28 +88,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "155876",
-    "name": "Refrigerator",
-    "description": "Rough estimate of dimensions. Fridge is maybe 6-8 years with inbuilt ice maker but working well with only slight peeling of coating.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "75 x 72 x 182",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "155874",
-    "name": "Washing machine",
-    "description": "Rough estimate of dimensions, there is slight rusting at the front bottom seamline but washing machine still work well.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "20 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "60 x 58 x 84",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155848",
     "name": "OVEN TOASTER",
     "description": "Oven toaster still working well.",
@@ -209,17 +187,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "155878",
-    "name": "Dark green sofa",
-    "description": "Dark green color IKEA KIVIK 3-seater\nLarge and comfortable!\nLess <1y old.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "20 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": "228*95*83",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "155847",
     "name": "Extendable table",
     "description": "Extendable wooden table suitable for various uses. When not extended only 25cm in thickness. When extended can go up to 130cm.",
@@ -291,17 +258,6 @@
     "description": "Bedside cabinet",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "14 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155757",
-    "name": "IKEA study desk",
-    "description": "Study desk in good condition.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 Apr 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -506,6 +462,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "155880",
+    "name": "Graco car seat",
+    "description": "Used front facing Graco car seat.\nWill need a longer car seat belt for larger child.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "17 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "155809",
     "name": "Baby cot without mattresses",
     "description": "2 x Baby cots from Palette Box for blessings",
@@ -524,17 +491,6 @@
     "validTill": "25 Apr 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "155731",
-    "name": "Bath tub",
-    "description": "Simple bathtub",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "13 May 2026",
-    "ageInYears": 4,
-    "dimensions": "85x50x31cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
