@@ -33,6 +33,39 @@
     }
   },
   {
+    "id": "155920",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "Client 2 cabinets to store his items is faulty and may fall (possible risk), will need replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Nur Sabrina Binte Sanizal",
+      "email": "nur.sabrina@thkmc.org.sg",
+      "phone": [
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155776",
+          "name": "Bedside cabinet",
+          "description": "Bedside cabinet",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "14 May 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "155590",
     "category": "Home Furnishing",
     "name": "Table",
@@ -51,13 +84,46 @@
     "matches": {
       "passiton": [
         {
-          "id": "155847",
-          "name": "Extendable table",
-          "description": "Extendable wooden table suitable for various uses. When not extended only 25cm in thickness. When extended can go up to 130cm.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "30 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "70cm x 60cm x 130cm",
+          "id": "155913",
+          "name": "Table lamp",
+          "description": "33cmDia x 67cmH",
+          "location": null,
+          "validTill": "17 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "155912",
+          "name": "Table lamp",
+          "description": "25cmDia x 30cmH",
+          "location": null,
+          "validTill": "17 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "155918",
+          "name": "Dining table only",
+          "description": "Wooden table brand new. No chairs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "25 Apr 2026",
+          "ageInYears": 1,
+          "dimensions": "L135 cm x W 80 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "155914",
+          "name": "Dressing table",
+          "description": "///",
+          "location": null,
+          "validTill": "17 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -161,6 +227,17 @@
     "date": "24 Mar 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "155918",
+          "name": "Dining table only",
+          "description": "Wooden table brand new. No chairs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "25 Apr 2026",
+          "ageInYears": 1,
+          "dimensions": "L135 cm x W 80 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "155664",
           "name": "Round dining table",

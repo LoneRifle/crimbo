@@ -88,12 +88,23 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "155848",
-    "name": "OVEN TOASTER",
-    "description": "Oven toaster still working well.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 4,
+    "id": "155913",
+    "name": "Table lamp",
+    "description": "33cmDia x 67cmH",
+    "location": null,
+    "validTill": "17 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155912",
+    "name": "Table lamp",
+    "description": "25cmDia x 30cmH",
+    "location": null,
+    "validTill": "17 May 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -176,24 +187,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "155899",
-    "name": "Sofa",
-    "description": "Lovely 2-3 person sofa. No structural damage. All covers can be removed to wash.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "175x88x70cm",
+    "id": "155918",
+    "name": "Dining table only",
+    "description": "Wooden table brand new. No chairs.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "25 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": "L135 cm x W 80 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "155847",
-    "name": "Extendable table",
-    "description": "Extendable wooden table suitable for various uses. When not extended only 25cm in thickness. When extended can go up to 130cm.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "70cm x 60cm x 130cm",
+    "id": "155914",
+    "name": "Dressing table",
+    "description": "///",
+    "location": null,
+    "validTill": "17 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -231,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "155777",
-    "name": "Chest of drawer",
-    "description": "2 chest of drawers , can stack one on top of the other or side by side",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "14 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "155776",
     "name": "Bedside cabinet",
     "description": "Bedside cabinet",
@@ -260,17 +260,6 @@
     "validTill": "12 May 2026",
     "ageInYears": 4,
     "dimensions": "36x17x33cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155708",
-    "name": "IKEA rocking chair",
-    "description": "IKEA rocking chair with white cushions",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "26 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "H80cm x W70cm x D80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -418,15 +407,15 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "155255",
-    "name": "Single folder bed by Seahorse",
-    "description": "Product Size: 194cm(L)x90cm(W) (Fit single size mattress 36x75 inch)\nHeight: Floor to bed head :54 cm, floor to bed end: 40.5 cm, floor to bed: 36.6cm",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 2,
+    "id": "155924",
+    "name": "Baby Cot",
+    "description": "Baby cot",
+    "location": null,
+    "validTill": "09 May 2026",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
     "id": "155880",
@@ -468,17 +457,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "12 May 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "155692",
-    "name": "Rascal & Friends Premium Diaper size XL",
-    "description": "Brand new",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
