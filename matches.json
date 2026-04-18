@@ -556,6 +556,40 @@
     }
   },
   {
+    "id": "155796",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Looking for a TV for a senior in need.",
+    "specifications": "Normal Size",
+    "contact": {
+      "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
+      "name": "Sharlyn Tan",
+      "email": "Sharlyn.Tan@thkmc.org.sg",
+      "phone": [
+        "69240362",
+        "69242951"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155938",
+          "name": "LG 55 inch TV",
+          "description": "Standard 55inch LG TV.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "Standard 55inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "155735",
     "category": "Electrical Home Appliances",
     "name": "fridge",
@@ -749,6 +783,40 @@
           "validTill": "18 May 2026",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155070",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhoea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155938",
+          "name": "LG 55 inch TV",
+          "description": "Standard 55inch LG TV.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "Standard 55inch",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
