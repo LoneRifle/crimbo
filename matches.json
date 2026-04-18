@@ -309,39 +309,6 @@
     }
   },
   {
-    "id": "155353",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Client (F/37) and her husband operate a household of 11 with 8 young children living within, 5 of whom are under the age of 10, one of whom has moderate to servere autism. Client is unable to work due to physical health and caregiving concerns, and her husband is the sole income earner and the family faces challenges meeting monthly expenses. Their household wardrobe cupboard is a hand-me-down, and it is breaking apart due to age and wear and tear. They hope to be blessed with a new cupboard that can support their household needs.",
-    "specifications": "180cm (Height) x 130cm (Length) x 55cm (Breadth)",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155936",
-          "name": "two-door wardrobe",
-          "description": "Wardrobe in excellent condition and already partially disassembled",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "21 Apr 2026",
-          "ageInYears": 1,
-          "dimensions": "150X66X202 CM",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "155221",
     "category": "Home Furnishing",
     "name": "Dining table",
@@ -817,6 +784,40 @@
           "validTill": "30 Apr 2026",
           "ageInYears": 3,
           "dimensions": "Standard 55inch",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155426",
+    "category": "Others",
+    "name": "Phone",
+    "description": "Mr Goh is a senior, living with an unrelated flatemate. He has retired. His mobile phone had overheated and is unable to make phone calls out. \n\nHe would need a mobile phone (second hand is also fine) to receive relevant community support.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Sabrina Wong",
+      "email": "sabrina.wong@thkmc.org.sg",
+      "phone": [
+        "63371201",
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155939",
+          "name": "Wireless line phone",
+          "description": "///",
+          "location": null,
+          "validTill": "19 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
