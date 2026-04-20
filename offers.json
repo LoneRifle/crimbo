@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "155516",
-    "name": "Female teens casual pants",
-    "description": "Light purple coloured pants is size 160 with adjustable elastic waist, Uniqlo.\nCharcoal grey coloured pants, uniqlo airism, size M, waist 63-69cm.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "155515",
     "name": "Female teens bottoms",
     "description": "Plaid A line skirt (above knee), size is L but its for waist about 24 inches.\nBlacks skorts is size S with elastic band behind.",
@@ -88,6 +77,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156029",
+    "name": "Two-door Fridge",
+    "description": "Self-collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "24 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156025",
+    "name": "Chest Freezer (Halal)",
+    "description": "Chest Freezer (Muslim-owned). Arrange own pick up.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "24 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "155939",
     "name": "Wireless line phone",
     "description": "///",
@@ -127,6 +138,17 @@
     "location": null,
     "validTill": "17 May 2026",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156033",
+    "name": "OVEN TOASTER",
+    "description": "Oven toaster still working well.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -176,23 +198,12 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "155989",
-    "name": "Grey leather L-shaped sofa",
-    "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "25 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "275 x 170 x 63cm (90cm w headrest)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155988",
-    "name": "Queen size bed with mattress",
-    "description": "Used bed frame with mattress. The fabric under the bed is torn, but otherwise in good condition. \n\nContact via WhatsApp only. Delivery will be scheduled on 30 April 2026.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "26 Apr 2026",
-    "ageInYears": 4,
+    "id": "156027",
+    "name": "Divan bed frame",
+    "description": "Queen size",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 May 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -471,6 +482,28 @@
     "dimensions": "220x200x215 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "156031",
+    "name": "Baby Foodmaker",
+    "description": "Baby foodmaker",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "24 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156030",
+    "name": "Electric Breast Pump",
+    "description": "Single Electric Breast Pump",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "24 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "155880",
@@ -770,6 +803,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "156028",
+    "name": "Quad Walker",
+    "description": "Barely used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "24 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "155981",
     "name": "Wheel chair",
     "description": "Wheelchair",
@@ -847,17 +891,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "155864",
-    "name": "Transfer Walking Belt",
-    "description": "A 移位习走带 (yí wèi xí zǒu dài) in English is commonly referred to as a gait belt or a transfer belt. \n\nDefinition: A gait belt is a safety device used in healthcare and caregiving to help patients with walking (gait training) or to assist them when transferring from one position to another (e.g., from a bed to a wheelchair).\n\nPurpose: It is designed to be worn around a patient's waist, providing a secure, strong handhold for caregivers to hold onto, which helps prevent falls and protects both the patient and the caregiver from back injuries.\nAlternative English Terms:\nTransfer belt (focused on moving from seat to seat).\nWalking belt (focused on mobility assistance).",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "16 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "155772",
     "name": "Elderly walking sticks",
     "description": "3 walking sticks for elderly",
@@ -867,17 +900,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "155992",
-    "name": "Adult Diapers - Tena Proskin Pants Plus Medium Size",
-    "description": "Adult diapers - Tena Proskin Pants Plus Medium Size",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "20 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "155947",
