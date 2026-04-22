@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156111",
-    "name": "Rice Cooker, kettle, crockery, cutlery, single induction cooker",
-    "description": "The items are new and it is at the store house. I will need to retrieve it. Suppose to use for my new house but I am going overseas.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "22 May 2026",
-    "ageInYears": 1,
-    "dimensions": "All small items",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155939",
     "name": "Wireless line phone",
     "description": "///",
@@ -176,6 +165,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156131",
+    "name": "Pillow",
+    "description": "Bought last year but never used still in packaging.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 May 2026",
+    "ageInYears": 1,
+    "dimensions": "51x66x10 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156126",
+    "name": "Mattress",
+    "description": "Single size mattress 3 fold",
+    "location": null,
+    "validTill": "22 May 2026",
+    "ageInYears": 1,
+    "dimensions": "36x75x3.31”",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156042",
     "name": "Queen mattress",
     "description": "Well used. \nSome stains",
@@ -227,17 +238,6 @@
     "validTill": "18 May 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155933",
-    "name": "Sofa",
-    "description": "Couch about 2.1 metre and 3 seater together with an ottoman",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "18 May 2026",
-    "ageInYears": 4,
-    "dimensions": "2.1 m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -405,6 +405,17 @@
     "dimensions": "62 x 24 x 165cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "156144",
+    "name": "2 pigeon milk bottles and 1 Philip anti colic milk bottle",
+    "description": "2 pigeon and 1 Philips anti colic milk bottle rarely used.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "156112",
@@ -616,17 +627,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "155804",
-    "name": "Roller skates",
-    "description": "Roller skates, 2 helmets, 6 protectors",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "14 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "155679",
     "name": "Exercise Bike",
     "description": "99% new (never been used)\nPic of approximate measurements attached\nFeatures adjustable seat and handlebars for a comfortable workout\nIncludes a wool felt silent brake and an iPad/phone holder",
@@ -737,6 +737,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "156128",
+    "name": "Toilet Safety Rail",
+    "description": "The Bathroom Safety Rail provides support for users when they sit and stand from the toilet seat. The stand-alone versatile design allows to be used at either the toilet or by the sink.\n\nAvailable'With Base Plate'.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 May 2026",
+    "ageInYears": 1,
+    "dimensions": "53cm x 51cm x 73cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "156127",
+    "name": "Transfer Walking Belt",
+    "description": "A transfer walking belt (or gait belt) is a safety device used by caregivers to guide, support, and transfer individuals with limited mobility, such as moving from a bed to a wheelchair. These belts, often featuring padded handles for comfort and improved grip, are applied snugly around the patient's waist over clothing to reduce the risk of falls and caregiver back injury. \n\nwilling to send to addresses in West and North area only. Thank you!",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "22 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "156028",
     "name": "Quad Walker",
     "description": "Barely used",
@@ -812,6 +834,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156146",
+    "name": "Poco X6 Pro 512GB Grey, Give away",
+    "description": "Poco X6 Pro 512GB Grey mobile phone for giving away, in good condition, with full box packaging and charger/cable and extra phone case",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "22 May 2026",
+    "ageInYears": 3,
+    "dimensions": "6.7inch mobile phone",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "156136",
+    "name": "Clothes Hangers",
+    "description": "Good condition plastic clothes hangers",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "155947",
