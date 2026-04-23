@@ -121,35 +121,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "156156",
-    "name": "Hitachi Fridge",
-    "description": "Fridge is in good condition",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "01 May 2026",
-    "ageInYears": 3,
-    "dimensions": "1.68cm x 60cm x 65.5 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156153",
-    "name": "Refrigerator",
-    "description": "LG 188L 2 door refrigerator\nModel: gr-v2525L\nFully functional, good working condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 May 2026",
-    "ageInYears": 4,
-    "dimensions": "145cm (H) x 55cm (W) x 53cm (D)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156147",
-    "name": "16\" wall Fan",
-    "description": "New, never used ,need to install",
+    "id": "156167",
+    "name": "Hairdryer",
+    "description": "Xiaomi hairdryer bought last year. Used only two times",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "22 May 2026",
     "ageInYears": 1,
-    "dimensions": "16\"  4.3kgs",
+    "dimensions": "23.5x(3.5 handle and 10 head) x (3.5 handle and 7.5 head) cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -231,6 +209,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156173",
+    "name": "Office Chair",
+    "description": "Office chair, without arm rest",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "23 May 2026",
+    "ageInYears": 3,
+    "dimensions": "50x50x120",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156131",
     "name": "Pillow",
     "description": "Bought last year but never used still in packaging.",
@@ -238,39 +227,6 @@
     "validTill": "22 May 2026",
     "ageInYears": 1,
     "dimensions": "51x66x10 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156042",
-    "name": "Queen mattress",
-    "description": "Well used. \nSome stains",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "21 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156040",
-    "name": "Carpet",
-    "description": "Hi there,\n\nWe have x2 long grey carpet, used from 2019 to 2025, still in decent condition.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "20 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156027",
-    "name": "Divan bed frame",
-    "description": "Queen size",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -381,6 +337,17 @@
     "validTill": "01 May 2026",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156183",
+    "name": "Round dining table",
+    "description": "Round dining table only to bless. No chairs.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "123cm(D)x76cm(H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -889,6 +856,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156177",
+    "name": "Baby Rocker",
+    "description": "Lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "27 Apr 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156136",
