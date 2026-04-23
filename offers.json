@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156190",
+    "name": "Sandwichmaker",
+    "description": "Sandwichmaker from the 1980s but still in working condition",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "23 May 2026",
+    "ageInYears": 4,
+    "dimensions": "Nil",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156163",
     "name": "Perfume vaporiser",
     "description": "///",
@@ -207,6 +218,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156196",
+    "name": "Chest of drawers",
+    "description": "Comes with the colourful pull out drawers. still in good condition.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "18 May 2026",
+    "ageInYears": 4,
+    "dimensions": "H55xW100xD44",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156195",
+    "name": "Step up shelf",
+    "description": "Good condition. Comes with all the colourful pull out plastic drawers.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "H94xW100xD44",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156194",
+    "name": "Open shelf",
+    "description": "Ikea Open shelf. still in good condition. Can be used to put clothes or any items.You can let us know which you want. 4 by 4 or 4 by 2. Or you can take both",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "29 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "150 x 150 x 41 or 150 x 77 x 41",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156192",
+    "name": "Office chair",
+    "description": "///",
+    "location": null,
+    "validTill": "23 May 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "156173",
@@ -451,28 +506,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "156031",
-    "name": "Baby Foodmaker",
-    "description": "Baby foodmaker",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "156030",
-    "name": "Electric Breast Pump",
-    "description": "Single Electric Breast Pump",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "155880",
     "name": "Graco car seat",
     "description": "Used front facing Graco car seat.\nWill need a longer car seat belt for larger child.",
@@ -512,28 +545,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "12 May 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "155266",
-    "name": "Smiggle Glittery LED digital Kids Watch - Pink",
-    "description": "Rarely used by my daughter. Still in good condition.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "155260",
-    "name": "Baby cot",
-    "description": "Used for two children; yet still in good condition.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -634,17 +645,6 @@
     "validTill": "09 May 2026",
     "ageInYears": 1,
     "dimensions": "90 x 46.5 x 105",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "155267",
-    "name": "Treadmill",
-    "description": "Functional Treadmill and there are 2 lifts available to reach my HDB house unit.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "120cm x 50cm x 125cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
   },
@@ -781,17 +781,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156028",
-    "name": "Quad Walker",
-    "description": "Barely used",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "155951",
     "name": "Wheelchair",
     "description": "Belongs to my grandmother. It’s more than 4 years old. Rusty on the wheels and the handle but still can be used. A bit heavy though.",
@@ -856,6 +845,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156193",
+    "name": "6 tins of smoked sardines",
+    "description": "6 tins of lightly smoked tinned sardines. Just purchased on 22/4/26 but as the taste doesn’t suit me, I’m giving away. Please also note the expiry of 21/5/26. Prefer to give west side",
+    "location": null,
+    "validTill": "05 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156177",
@@ -941,17 +941,6 @@
     "location": null,
     "validTill": "06 May 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "155265",
-    "name": "Casio LW-200 Pink Kids Watch",
-    "description": "Straps a bit discoloured but still in working condition. For kids between 5- 12 years old.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "24 Apr 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
