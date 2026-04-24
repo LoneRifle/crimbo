@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156227",
+    "name": "Fridge",
+    "description": "Still working",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "28 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "Ht 175cm x w75cm x depth 70cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156190",
     "name": "Sandwichmaker",
     "description": "Sandwichmaker from the 1980s but still in working condition",
@@ -374,28 +385,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156205",
-    "name": "Grey leather L-shaped sofa",
-    "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "25 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "275 x 170 x 63cm (90cm w headrest)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156206",
-    "name": "Grey leather L-shaped sofa",
-    "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "25 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "275 x 170 x 63cm (90cm w headrest)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "155935",
     "name": "Writing/Computer Desk",
     "description": "Writing and computer desk",
@@ -678,17 +667,6 @@
     "validTill": "29 Apr 2026",
     "ageInYears": 3,
     "dimensions": "125L x 67W x 99H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "155786",
-    "name": "Birthday cake",
-    "description": "Facebook SG Blessing Bakers Group have 9 birthday cakes to bless for qualified children. Pls Q at FB directly. Includes delivery\nhttps://www.facebook.com/share/p/1GpmS1khnm/",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -999,6 +977,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156228",
+    "name": "Nepro HP milk",
+    "description": "One carton of Nepro HP milk - 30 bottles",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "24 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156219",

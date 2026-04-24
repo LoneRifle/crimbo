@@ -83,28 +83,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "156205",
-          "name": "Grey leather L-shaped sofa",
-          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "25 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156206",
-          "name": "Grey leather L-shaped sofa",
-          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "25 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -224,28 +202,6 @@
           "validTill": "26 Apr 2026",
           "ageInYears": 3,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156205",
-          "name": "Grey leather L-shaped sofa",
-          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "25 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156206",
-          "name": "Grey leather L-shaped sofa",
-          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "25 Apr 2026",
-          "ageInYears": 3,
-          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -464,40 +420,6 @@
     }
   },
   {
-    "id": "155221",
-    "category": "Home Furnishing",
-    "name": "Dining table",
-    "description": "Client who is transiting to Long-home-leave after a 1 year residential stay at HCSA Highpoint. He needs a small dining table as he is staying in an L-shape rental flat. Table will be placed against the wall.",
-    "specifications": "small table for 2 person",
-    "contact": {
-      "org": "HCSA Highpoint",
-      "name": "Stephen Ong",
-      "email": "stephen_ong@hcsa.org.sg",
-      "phone": [
-        "80207521",
-        "64402444"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "24 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156183",
-          "name": "Round dining table",
-          "description": "Round dining table only to bless. No chairs.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "123cm(D)x76cm(H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "156098",
     "category": "Infant and Children Items",
     "name": "Milk",
@@ -536,6 +458,151 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "156228",
+          "name": "Nepro HP milk",
+          "description": "One carton of Nepro HP milk - 30 bottles",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "24 May 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156017",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Low income client is requesting for a fridge as his current one has spoilt. He has been going through emotional challenges in his life and is facing ongoing conflict which severely limits his cognitive bandwidth.  A donation of a fridge would greatly benefit him.  Due to his financial circumstances,  we are seeking support for donors to arrange transport of the fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156227",
+          "name": "Fridge",
+          "description": "Still working",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "28 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": "Ht 175cm x w75cm x depth 70cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155671",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Muslim family comprising of single mother and her 5 young children finally got their own BTO flat recently but is currently struggling to furnish their new flat with the necessary home appliances as her monthly income is just sufficient for their daily expenses. \nClient needs a working fridge and wardrobe at the moment.",
+    "specifications": "H68xW28xD29",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Tan Wee Han",
+      "email": "weehan_tan@awwa.org.sg",
+      "phone": [
+        "65119462",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156227",
+          "name": "Fridge",
+          "description": "Still working",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "28 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": "Ht 175cm x w75cm x depth 70cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155651",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 4 staying in a two-room public rental flat. Father is currently incarcerated while mum is the sole breadwinner for two young children (3 and 5 years old respectively), earning an income of $1,700 a month. Their previous fridge is spoiled, hence, they are hoping to request for a halal fridge for their daily needs.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Vanessa Ong",
+      "email": "vanessa_ong@msf.gov.sg",
+      "phone": [
+        "63549538",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156227",
+          "name": "Fridge",
+          "description": "Still working",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "28 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": "Ht 175cm x w75cm x depth 70cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155395",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family has 4 school-going children who requires a working fridge to prepare home cooked meals. Their current fridge is faulty and unable to store premade food well. Both parents are working odd job and looking after a elderly father who is on dialysis",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Joel Low",
+      "email": "joellow@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Mar 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156227",
+          "name": "Fridge",
+          "description": "Still working",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "28 Apr 2026",
+          "ageInYears": 4,
+          "dimensions": "Ht 175cm x w75cm x depth 70cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
