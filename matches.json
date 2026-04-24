@@ -1,38 +1,5 @@
 [
   {
-    "id": "156175",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client is a single mother with a 6 year old son. She is currently unemployed and looking for a job. She is the sole caregiving and breadwinner for the family as she has a lack of social support. There is no furniture in the living room and she shared a sofa would be beneficial for her and her son.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Mohammed Zuhair Bin Yusof",
-      "email": "zuhair.yusof@montfortcare.org.sg",
-      "phone": [
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156202",
-          "name": "2 seater sofa",
-          "description": "With some scratches, but well maintained",
-          "location": null,
-          "validTill": "26 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "156117",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -52,47 +19,90 @@
     "matches": {
       "passiton": [
         {
-          "id": "156202",
+          "id": "156218",
+          "name": "Sofa",
+          "description": "1 single seat sofa\n1 double seat sofa",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "Double 152cm single 107cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156214",
+          "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
+          "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "06 May 2026",
+          "ageInYears": 2,
+          "dimensions": "155cm*112cm*42cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156215",
+          "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
+          "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "06 May 2026",
+          "ageInYears": 2,
+          "dimensions": "155cm*112cm*42cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156224",
+          "name": "checker sofa",
+          "description": "single seated checker sofa",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "66 x 56 x 83",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156223",
+          "name": "green sofa",
+          "description": "single seated green sofa",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "70 x 57 x 78",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156213",
           "name": "2 seater sofa",
-          "description": "With some scratches, but well maintained",
+          "description": "Some scratches on arm of sofa, but well maintained condition.",
           "location": null,
           "validTill": "26 Apr 2026",
-          "ageInYears": 4,
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "156108",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client is a mother who is caring for 3 young children (6, 5 and 2 years old). She receives limited financial support from husband. She is currently working part time as she is the main caregiver for her 3 children.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "60384138",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Apr 2026",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "156202",
-          "name": "2 seater sofa",
-          "description": "With some scratches, but well maintained",
-          "location": null,
-          "validTill": "26 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": null,
+          "id": "156205",
+          "name": "Grey leather L-shaped sofa",
+          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "25 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156206",
+          "name": "Grey leather L-shaped sofa",
+          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "25 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -119,12 +129,12 @@
     "matches": {
       "passiton": [
         {
-          "id": "156202",
+          "id": "156213",
           "name": "2 seater sofa",
-          "description": "With some scratches, but well maintained",
+          "description": "Some scratches on arm of sofa, but well maintained condition.",
           "location": null,
           "validTill": "26 Apr 2026",
-          "ageInYears": 4,
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -152,136 +162,92 @@
     "matches": {
       "passiton": [
         {
-          "id": "156202",
-          "name": "2 seater sofa",
-          "description": "With some scratches, but well maintained",
-          "location": null,
-          "validTill": "26 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155979",
-    "category": "Home Furnishing",
-    "name": "Table",
-    "description": "Single-mother of two children requires support with appliance as she moves into rental flat by end April 2026. Mother facing financial strain and has limited social support in Singapore to support with this transition.",
-    "specifications": "NIL",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156162",
-          "name": "Table lamp",
-          "description": "///",
-          "location": null,
-          "validTill": "23 May 2026",
+          "id": "156218",
+          "name": "Sofa",
+          "description": "1 single seat sofa\n1 double seat sofa",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "30 Apr 2026",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "155913",
-          "name": "Table lamp",
-          "description": "33cmDia x 67cmH",
-          "location": null,
-          "validTill": "17 May 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "155912",
-          "name": "Table lamp",
-          "description": "25cmDia x 30cmH",
-          "location": null,
-          "validTill": "17 May 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "155914",
-          "name": "Dressing table",
-          "description": "///",
-          "location": null,
-          "validTill": "17 May 2026",
-          "ageInYears": 2,
-          "dimensions": null,
+          "dimensions": "Double 152cm single 107cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
         {
-          "id": "155599",
-          "name": "Meeting Table",
-          "description": "Meeting Table for blessing. In a very good condition. Need to arrange own transport and dismantle the table.",
+          "id": "156214",
+          "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
+          "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "07 May 2026",
-          "ageInYears": 4,
-          "dimensions": null,
+          "validTill": "06 May 2026",
+          "ageInYears": 2,
+          "dimensions": "155cm*112cm*42cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
         {
-          "id": "155720",
-          "name": "IKEA ÅRSTID Table Lamp - Brass/White",
-          "description": "I have total of 4 to give awayz",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "12 May 2026",
-          "ageInYears": 4,
-          "dimensions": "See photo as attached",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "156183",
-          "name": "Round dining table",
-          "description": "Round dining table only to bless. No chairs.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "26 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "123cm(D)x76cm(H)",
+          "id": "156215",
+          "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
+          "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "06 May 2026",
+          "ageInYears": 2,
+          "dimensions": "155cm*112cm*42cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
         {
-          "id": "155559",
-          "name": "Tempered Glass Study table",
-          "description": "White tempered glass study table",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "03 May 2026",
-          "ageInYears": 4,
-          "dimensions": "100x50x75cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "155733",
-          "name": "Circadin® is a 2mg prolonged-release melatonin table",
-          "description": "Unopened and unused Melatonin for giveaway.  Only suitable for patient with current prescription , thus it will be Strictly self collection so I can check",
+          "id": "156224",
+          "name": "checker sofa",
+          "description": "single seated checker sofa",
           "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "13 May 2026",
-          "ageInYears": 1,
+          "validTill": "30 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "66 x 56 x 83",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156223",
+          "name": "green sofa",
+          "description": "single seated green sofa",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "70 x 57 x 78",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156213",
+          "name": "2 seater sofa",
+          "description": "Some scratches on arm of sofa, but well maintained condition.",
+          "location": null,
+          "validTill": "26 Apr 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156205",
+          "name": "Grey leather L-shaped sofa",
+          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "25 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156206",
+          "name": "Grey leather L-shaped sofa",
+          "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "25 Apr 2026",
+          "ageInYears": 3,
+          "dimensions": "275 x 170 x 63cm (90cm w headrest)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -305,6 +271,28 @@
     "date": "17 Apr 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "156222",
+          "name": "Cabinet",
+          "description": "2 grey/black cabinet",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "30 Apr 2026",
+          "ageInYears": 2,
+          "dimensions": "90 x 39.5 x 181",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156216",
+          "name": "Locker cabinet",
+          "description": "K",
+          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+          "validTill": "05 May 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "155776",
           "name": "Bedside cabinet",
@@ -339,17 +327,6 @@
     "date": "13 Apr 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "156194",
-          "name": "Open shelf",
-          "description": "Ikea Open shelf. still in good condition. Can be used to put clothes or any items.You can let us know which you want. 4 by 4 or 4 by 2. Or you can take both",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "29 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "150 x 150 x 41 or 150 x 77 x 41",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "156195",
           "name": "Step up shelf",

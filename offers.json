@@ -220,20 +220,86 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "156204",
-    "name": "Super Single Bed and Bed Frame",
-    "description": "Used but well maintained",
-    "location": null,
-    "validTill": "26 Apr 2026",
+    "id": "156224",
+    "name": "checker sofa",
+    "description": "single seated checker sofa",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "66 x 56 x 83",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156223",
+    "name": "green sofa",
+    "description": "single seated green sofa",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "70 x 57 x 78",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156222",
+    "name": "Cabinet",
+    "description": "2 grey/black cabinet",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "90 x 39.5 x 181",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156218",
+    "name": "Sofa",
+    "description": "1 single seat sofa\n1 double seat sofa",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 2,
+    "dimensions": "Double 152cm single 107cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156216",
+    "name": "Locker cabinet",
+    "description": "K",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "05 May 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "156202",
-    "name": "2 seater sofa",
-    "description": "With some scratches, but well maintained",
+    "id": "156211",
+    "name": "IKEA desk",
+    "description": "IKEA L shape desk, in good condition. Height is adjustable. Without items on desk.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "24 May 2026",
+    "ageInYears": 3,
+    "dimensions": "160 x 110 x 70",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156210",
+    "name": "Queen size mattress with bed frame and storage",
+    "description": "Hardly used as in the guest room\nQueen size mattress with bed frame and two storage drawers that are brand new in box\nI will pay for delivery and assembly",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "03 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156204",
+    "name": "Super Single Bed and Bed Frame",
+    "description": "Used but well maintained",
     "location": null,
     "validTill": "26 Apr 2026",
     "ageInYears": 4,
@@ -264,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156194",
-    "name": "Open shelf",
-    "description": "Ikea Open shelf. still in good condition. Can be used to put clothes or any items.You can let us know which you want. 4 by 4 or 4 by 2. Or you can take both",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "29 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "150 x 150 x 41 or 150 x 77 x 41",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156192",
     "name": "Office chair",
     "description": "///",
@@ -297,6 +352,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "156213",
+    "name": "2 seater sofa",
+    "description": "Some scratches on arm of sofa, but well maintained condition.",
+    "location": null,
+    "validTill": "26 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156131",
     "name": "Pillow",
     "description": "Bought last year but never used still in packaging.",
@@ -304,6 +370,28 @@
     "validTill": "22 May 2026",
     "ageInYears": 1,
     "dimensions": "51x66x10 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156205",
+    "name": "Grey leather L-shaped sofa",
+    "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "25 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": "275 x 170 x 63cm (90cm w headrest)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156206",
+    "name": "Grey leather L-shaped sofa",
+    "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "25 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": "275 x 170 x 63cm (90cm w headrest)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -451,6 +539,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "156214",
+    "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
+    "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "06 May 2026",
+    "ageInYears": 2,
+    "dimensions": "155cm*112cm*42cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156215",
+    "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
+    "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "06 May 2026",
+    "ageInYears": 2,
+    "dimensions": "155cm*112cm*42cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "155524",
     "name": "bolster",
     "description": "self collect welcome",
@@ -504,6 +614,28 @@
     "dimensions": "62 x 24 x 165cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "156226",
+    "name": "Child bassinet/seat",
+    "description": "A baby carrier/bassinet. Lightly used as usually kept at my parents place.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156225",
+    "name": "Kids push chair/tricycle",
+    "description": "This tricycle was hardly used as was at my parents place.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "156144",
@@ -867,6 +999,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156219",
+    "name": "Used Bumbo seat with insert and straps",
+    "description": "Lightly used for a few months then kept in storage.",
+    "location": null,
+    "validTill": "28 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156193",
