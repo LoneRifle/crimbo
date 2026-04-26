@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156250",
+    "name": "Refrigerator",
+    "description": "Energy saving fridge with 3 ticks, quite new",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 May 2026",
+    "ageInYears": 4,
+    "dimensions": "59 cm by 65 cm by 177 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156227",
     "name": "Fridge",
     "description": "Still working",
@@ -229,6 +240,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156249",
+    "name": "Dining Table",
+    "description": "Sturdy Rose Wood Dining Table. Stable and lasting",
+    "location": null,
+    "validTill": "13 May 2026",
+    "ageInYears": 4,
+    "dimensions": "145 cm by 97 cm by 79 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156248",
+    "name": "Ergonomics chair",
+    "description": "Two study ergonomic chairs:\n1. Brand new black chair from MySeat.Sg (unused)\n2. ~2+ year-old green chair from ErgoTune (higher end, but used)",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156247",
+    "name": "Free dining set, king bed frame & coffee table",
+    "description": "- Free furniture set available! \n\nIncludes: \n- Dining set with marble base, glass top table and 6 chairs \n- King size bed frame \n- Unique coffee table \n\nPreference given to someone who can take all 3 together. Pls arrange own mover to collect from 99 Bukit Drive, Singapore 587841",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "29 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "156246",
@@ -801,6 +845,17 @@
     "dimensions": "90 x 46.5 x 105",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "156251",
+    "name": "Custom Made Whiteboard",
+    "description": "This is a customised white board for teaching and learning. Great for conducting lessons in classrooms or at home.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 May 2026",
+    "ageInYears": 4,
+    "dimensions": "92 cm by 52 cm by 190 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "156164",
