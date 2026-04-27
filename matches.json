@@ -205,17 +205,6 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "156252",
-          "name": "Coffee Table And Dining Table",
-          "description": "This is a coffee table 80 cm by 40 cm by 55 cm which can be converted to a dining table 80 cm by 80 cm by 70 cm. Very useful because can be used as a coffee table and a dining table.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "13 May 2026",
-          "ageInYears": 4,
-          "dimensions": "80 cm by 80 cm by 70 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "156249",
           "name": "Dining Table",
           "description": "Sturdy Rose Wood Dining Table. Stable and lasting",
@@ -297,39 +286,6 @@
     }
   },
   {
-    "id": "155373",
-    "category": "Home Furnishing",
-    "name": "Dining Table Set",
-    "description": "Posting on behalf of a Deafblind senior, 61M, who recently moved houses. \nHe is unemployed and will benefit from pre-loved items to support his adjustment and stability.\nHe would greatly appreciate a dining table set with 2 chairs, a fan, mosquito light trap and auto-light sensors for his residual vision. Please call/text Social Worker from SADeaf Kiara +65 9437 9579 if you would be able to support. Thank you!",
-    "specifications": "Rectangle Fit with 2 Chairs",
-    "contact": {
-      "org": "The Singapore Association For The Deaf (SADeaf)",
-      "name": "Angeles Kiara Luna",
-      "email": "kiara@sadeaf.org.sg",
-      "phone": [
-        "63448274"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Mar 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156247",
-          "name": "Free dining set, king bed frame & coffee table",
-          "description": "- Free furniture set available! \n\nIncludes: \n- Dining set with marble base, glass top table and 6 chairs \n- King size bed frame \n- Unique coffee table \n\nPreference given to someone who can take all 3 together. Pls arrange own mover to collect from 99 Bukit Drive, Singapore 587841",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "29 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "156098",
     "category": "Infant and Children Items",
     "name": "Milk",
@@ -379,6 +335,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156283",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client resides in a 2-room rental flat in Ang Mo Kio with 4 of her children, and her youngest son has special needs. Since the passing of her late husband, she has been unemployed due to chronic health issues and grief. Client's TV is faulty but she is unable to afford a new one.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156272",
+          "name": "TV Console",
+          "description": "Solid wooden TV console, with one open shelf and two drawers below. \n\nthe base of one drawer is slightly warped so remains slightly open, but can be used. the other drawer closes properly.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "15 May 2026",
+          "ageInYears": 4,
+          "dimensions": "110cm x 55cm x 55cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
