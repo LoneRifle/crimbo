@@ -88,28 +88,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156250",
-    "name": "Refrigerator",
-    "description": "Energy saving fridge with 3 ticks, quite new",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "13 May 2026",
-    "ageInYears": 4,
-    "dimensions": "59 cm by 65 cm by 177 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156227",
-    "name": "Fridge",
-    "description": "Still working",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "28 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "Ht 175cm x w75cm x depth 70cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "156190",
     "name": "Sandwichmaker",
     "description": "Sandwichmaker from the 1980s but still in working condition",
@@ -242,13 +220,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "156256",
-    "name": "Single Bed frame and mattress",
-    "description": "Single bed frame and mattress\nMust be carried from 2nd level of landed house\nI will provide 3 spare bed sheets (white, grey, black)",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
+    "id": "156276",
+    "name": "Green leather L-shaped sofa",
+    "description": "Green leather L-shaped sofa.\nTwo seater + lounge chaise\nLess than 3 years of use",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": "270 cm x 170 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156272",
+    "name": "TV Console",
+    "description": "Solid wooden TV console, with one open shelf and two drawers below. \n\nthe base of one drawer is slightly warped so remains slightly open, but can be used. the other drawer closes properly.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 May 2026",
+    "ageInYears": 4,
+    "dimensions": "110cm x 55cm x 55cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -319,28 +308,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156237",
-    "name": "Leg Elevation Pillow (to relieve swollen legs)",
-    "description": "Can used as backrest,or to elevate legs.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 May 2026",
-    "ageInYears": 1,
-    "dimensions": "60cm x 55cm x 15cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156235",
-    "name": "Office chair",
-    "description": "Office chair",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "28 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156224",
     "name": "checker sofa",
     "description": "single seated checker sofa",
@@ -396,17 +363,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156211",
-    "name": "IKEA desk",
-    "description": "IKEA L shape desk, in good condition. Height is adjustable. Without items on desk.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "24 May 2026",
-    "ageInYears": 3,
-    "dimensions": "160 x 110 x 70",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156196",
     "name": "Chest of drawers",
     "description": "Comes with the colourful pull out drawers. still in good condition.",
@@ -414,17 +370,6 @@
     "validTill": "18 May 2026",
     "ageInYears": 4,
     "dimensions": "H55xW100xD44",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156195",
-    "name": "Step up shelf",
-    "description": "Good condition. Comes with all the colourful pull out plastic drawers.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": "H94xW100xD44",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -458,17 +403,6 @@
     "validTill": "15 May 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156131",
-    "name": "Pillow",
-    "description": "Bought last year but never used still in packaging.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 May 2026",
-    "ageInYears": 1,
-    "dimensions": "51x66x10 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -623,28 +557,6 @@
     "validTill": "06 May 2026",
     "ageInYears": 2,
     "dimensions": "155cm*112cm*42cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155524",
-    "name": "bolster",
-    "description": "self collect welcome",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "05 May 2026",
-    "ageInYears": 1,
-    "dimensions": "regular length",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "155559",
-    "name": "Tempered Glass Study table",
-    "description": "White tempered glass study table",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "03 May 2026",
-    "ageInYears": 4,
-    "dimensions": "100x50x75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -880,28 +792,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "156244",
-    "name": "DNR Elec 3 Function Low Bed w 4 Side Rail & Battery",
-    "description": "Comes With 1 Extra Singa Pressure Relief Matteress Just In Case Any 1 Part Spoils, Instrustions Will Be Wirtten On An A4 Paper.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "25 May 2026",
-    "ageInYears": 1,
-    "dimensions": "216cm X 101cm X 71cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "156238",
-    "name": "DNR Elec 3 Function Low Bed w 4 Slides Rail & Battery",
-    "description": "ULTRA NIGHT Adult Diapers\nBreathable Cloth-Like materia(Non Plastic)\nAntibacterial Controls odour\nRapid Absorption Keeps Wearer Dry",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "25 May 2026",
-    "ageInYears": 3,
-    "dimensions": "71-112CM",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "155945",
     "name": "Lancets",
     "description": "Lancets",
@@ -1078,45 +968,12 @@
     "category": "Others"
   },
   {
-    "id": "156239",
-    "name": "Diben Drink Vanilla Flavour",
-    "description": "Food For Special Medical Special Purposes.\nwith sugar amd sweeteners. For the dietary managment of patients with 0r at risk of mainutrition in particular for patients with impaired glucose metabolism.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "25 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156236",
-    "name": "Blanket",
-    "description": "Quantity: 2 pieces\nOnly used once.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 May 2026",
-    "ageInYears": 1,
-    "dimensions": "100cm x 170cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "156228",
     "name": "Nepro HP milk",
     "description": "One carton of Nepro HP milk - 30 bottles",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "24 May 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156219",
-    "name": "Used Bumbo seat with insert and straps",
-    "description": "Lightly used for a few months then kept in storage.",
-    "location": null,
-    "validTill": "28 Apr 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
