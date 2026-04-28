@@ -88,28 +88,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156311",
-    "name": "Slow cooker",
-    "description": "2 Slow cookers (one big and one small) to give away. All in good condition and hard use",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "27 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156291",
-    "name": "Desktop set with 17 inch monitor",
-    "description": "Desktop formatted with 17 inch monitor and keyboard and mouse \n\n10 over sets \n\nOnly need windows software to play\nAll sets without system disc",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "05 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "156190",
     "name": "Sandwichmaker",
     "description": "Sandwichmaker from the 1980s but still in working condition",
@@ -150,17 +128,6 @@
     "validTill": "22 May 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156167",
-    "name": "Hairdryer",
-    "description": "Xiaomi hairdryer bought last year. Used only two times",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 May 2026",
-    "ageInYears": 1,
-    "dimensions": "23.5x(3.5 handle and 10 head) x (3.5 handle and 7.5 head) cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -242,13 +209,46 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "156309",
-    "name": "Study table with drawer",
-    "description": "IKEA Black Desk with Side Cabinet \n\nStylish black desk from IKEA. Perfect for home office or study. Feature a side cabinet and two drawers for storage and a cable management hole. Great for maximizing space and keeping your work space organized.",
+    "id": "156347",
+    "name": "Brown Sofa",
+    "description": "Well used sofa but sturdy",
+    "location": null,
+    "validTill": "01 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156346",
+    "name": "Adjustable Computer Table",
+    "description": "This is a Adjustable Computer Table, can also be used as coffee table in the living room. Height can be adjustable, and the table has 4 wheels so it's easy to move around. It comes with two small shelves below the main table top that you can place items on. See the pictures for more accurate reference.",
     "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "10 May 2026",
+    "validTill": "28 May 2026",
     "ageInYears": 1,
-    "dimensions": "105 x 50 x 70 cm",
+    "dimensions": "80cm x 40cm x 60-90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156336",
+    "name": "Upholstered queen sized bedframe with drawers",
+    "description": "Upholsetered queen sized bedframe with 2 underbed drawers on each side. Fits standard queen (152x190)",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 May 2026",
+    "ageInYears": 3,
+    "dimensions": "200x152x120",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156327",
+    "name": "3 seater sofa",
+    "description": "This is an ottoman leather 3 seater sofa with a mixture of leather and cotton. Sturdy, firm, stain resistant & solid base. Still in good condition.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "02 May 2026",
+    "ageInYears": 3,
+    "dimensions": "L220cm x W90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -308,17 +308,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156303",
-    "name": "Queen sized bed frame & mattress",
-    "description": "Queen sized wooden bed frame with mattress. Only available in June 2026.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "27 May 2026",
-    "ageInYears": 4,
-    "dimensions": "L: 200 X W: 160 X H: 40",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156302",
     "name": "Single Beds X 3 pieces (including mattress)",
     "description": "3 pieces of single bed frame metal (white) all comes with mattress.",
@@ -330,17 +319,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156293",
-    "name": "Wadrobe",
-    "description": "2 doors 80cm with drawer - L80cm x D42cm xH180cm",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "27 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156272",
     "name": "TV Console",
     "description": "Solid wooden TV console, with one open shelf and two drawers below. \n\nthe base of one drawer is slightly warped so remains slightly open, but can be used. the other drawer closes properly.",
@@ -348,6 +326,17 @@
     "validTill": "15 May 2026",
     "ageInYears": 4,
     "dimensions": "110cm x 55cm x 55cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156338",
+    "name": "Blue Fabric sofa 2 seater",
+    "description": "Fabric sofa, in good condition. colour faded because of use. base/ frame is intact/ sturdy. can easily take weight of upto 170kg or even more",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "147cm x 88cm x 71cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -370,28 +359,6 @@
     "validTill": "13 May 2026",
     "ageInYears": 4,
     "dimensions": "145 cm by 97 cm by 79 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156247",
-    "name": "Free dining set, king bed frame & coffee table",
-    "description": "- Free furniture set available! \n\nIncludes: \n- Dining set with marble base, glass top table and 6 chairs \n- King size bed frame \n- Unique coffee table \n\nPreference given to someone who can take all 3 together. Pls arrange own mover to collect from 99 Bukit Drive, Singapore 587841",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "29 Apr 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156245",
-    "name": "TwoSeater sofa",
-    "description": "Two seater sofa . Not used at all",
-    "location": null,
-    "validTill": "29 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -425,17 +392,6 @@
     "validTill": "30 Apr 2026",
     "ageInYears": 2,
     "dimensions": "70 x 57 x 78",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156222",
-    "name": "Cabinet",
-    "description": "2 grey/black cabinet",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "30 Apr 2026",
-    "ageInYears": 2,
-    "dimensions": "90 x 39.5 x 181",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -671,17 +627,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "155809",
-    "name": "Baby cot without mattresses",
-    "description": "2 x Baby cots from Palette Box for blessings",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "29 Apr 2026",
-    "ageInYears": 3,
-    "dimensions": "125L x 67W x 99H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "155724",
     "name": "Kids chair",
     "description": "Study chair",
@@ -691,6 +636,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "156328",
+    "name": "Mini cooker",
+    "description": "Used less than 5x so considered still new. Can use to steam, hotpot, fry and cook soup. Enough for 1-2 Pax depending. Can cook rice also but have to read own instructions from website. \n\nPrefer self collection from needy",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "28 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "155842",
@@ -792,17 +748,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "156251",
-    "name": "Custom Made Whiteboard",
-    "description": "This is a customised white board for teaching and learning. Great for conducting lessons in classrooms or at home.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "13 May 2026",
-    "ageInYears": 4,
-    "dimensions": "92 cm by 52 cm by 190 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
     "id": "156164",
     "name": "Small pack bag",
     "description": "///",
@@ -834,6 +779,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "156349",
+    "name": "Mechanical hospital bed",
+    "description": "Mechanical hospital bed",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "29 May 2026",
+    "ageInYears": 4,
+    "dimensions": "216cmx107cmx91cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "155945",
