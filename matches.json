@@ -1,5 +1,39 @@
 [
   {
+    "id": "156372",
+    "category": "Home Furnishing",
+    "name": "TV Console",
+    "description": "2 clients have completed their program at HCSA Highpoint. They need home furishing like TV console, refrigerator.",
+    "specifications": "standard size",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156272",
+          "name": "TV Console",
+          "description": "Solid wooden TV console, with one open shelf and two drawers below. \n\nthe base of one drawer is slightly warped so remains slightly open, but can be used. the other drawer closes properly.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "15 May 2026",
+          "ageInYears": 4,
+          "dimensions": "110cm x 55cm x 55cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "156334",
     "category": "Home Furnishing",
     "name": "3-seater sofa",
@@ -67,149 +101,6 @@
     }
   },
   {
-    "id": "156325",
-    "category": "Home Furnishing",
-    "name": "Single Mattress",
-    "description": "Client, a Stage 4 cancer survivor, has recently moved into a shared space in a 2-room rental flat. He is permanently unfit for work and needs help with the purchase of a mattress, pillow, bolster and bedsheets.",
-    "specifications": "91 cm (W) x 190 cm (L)",
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Tan Jia Wei",
-      "email": "tanjiawei@kkcs.org.sg",
-      "phone": [
-        "64854750"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156302",
-          "name": "Single Beds X 3 pieces (including mattress)",
-          "description": "3 pieces of single bed frame metal (white) all comes with mattress.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "10 May 2026",
-          "ageInYears": 4,
-          "dimensions": "L: 200 X W: 95 X H: 110",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "155980",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Single-mother of two children requires support with appliance as she moves into rental flat by end April 2026. Mother facing financial strain and has limited social support in Singapore to support with this transition.",
-    "specifications": "NIL",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156218",
-          "name": "Sofa",
-          "description": "1 single seat sofa\n1 double seat sofa",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Apr 2026",
-          "ageInYears": 2,
-          "dimensions": "Double 152cm single 107cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156214",
-          "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
-          "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "06 May 2026",
-          "ageInYears": 2,
-          "dimensions": "155cm*112cm*42cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156215",
-          "name": "Sofa/Lounger - Deep-seated rust orange sofa (cozy lounger)",
-          "description": "Comfortable and compact 2-seater sofa in warm rust orange tone. extra-deep seating makes it perfect for lounging or lying down - great for naps, reading and rest. \n\nLength: 155cm; Depth: 112cm; Seat height: 42cm \n\nUsed, in good condition. one section of stitching on the seat has come loose (see pic). Structure is all well and solid.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "06 May 2026",
-          "ageInYears": 2,
-          "dimensions": "155cm*112cm*42cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156347",
-          "name": "Brown Sofa",
-          "description": "Well used sofa but sturdy",
-          "location": null,
-          "validTill": "01 May 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156224",
-          "name": "checker sofa",
-          "description": "single seated checker sofa",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "30 Apr 2026",
-          "ageInYears": 2,
-          "dimensions": "66 x 56 x 83",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156223",
-          "name": "green sofa",
-          "description": "single seated green sofa",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "30 Apr 2026",
-          "ageInYears": 2,
-          "dimensions": "70 x 57 x 78",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156327",
-          "name": "3 seater sofa",
-          "description": "This is an ottoman leather 3 seater sofa with a mixture of leather and cotton. Sturdy, firm, stain resistant & solid base. Still in good condition.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "02 May 2026",
-          "ageInYears": 3,
-          "dimensions": "L220cm x W90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "156338",
-          "name": "Blue Fabric sofa 2 seater",
-          "description": "Fabric sofa, in good condition. colour faded because of use. base/ frame is intact/ sturdy. can easily take weight of upto 170kg or even more",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "30 Apr 2026",
-          "ageInYears": 4,
-          "dimensions": "147cm x 88cm x 71cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "155920",
     "category": "Home Furnishing",
     "name": "Cabinet",
@@ -246,6 +137,61 @@
           "validTill": "14 May 2026",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156370",
+          "name": "Rosewood Side Cabinet",
+          "description": "helping my boyfriends grandparents to move house. cabinet is more than 4 years old but still in good condition thus felt like a waste to throw it away. further more movers quoted a hefty price for disposal. cabinet is made of rosewood thus wanted to see if it can go to a new home instead. delivery can be discussed",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "08 May 2026",
+          "ageInYears": 4,
+          "dimensions": "Width 80cm Depth 46cm Height 87cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155833",
+    "category": "Home Furnishing",
+    "name": "Dining Chairs",
+    "description": "Client (f/43) residing in a 2-room HDB rental flat with her husband and four school-going children is seeking a donation of dining chairs. The current chairs in the household are worn out and broken. The husband is the sole breadwinner, while the client is not working due to her health issues and caregiving responsibilities for her children. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156378",
+          "name": "Wooden Dinning table ( no chairs)",
+          "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156368",
+          "name": "Rosewood Dining Table Set with 6 chairs",
+          "description": "i am helping my boyfriends grandparents to move out of their house. furniture is older than 4 years but its in very good condition and it's rosewood. disposal quoted by the movers were very ex and felt like it was a waste to just throw away something so valuable. open to donations and delivery can be arranged.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "08 May 2026",
+          "ageInYears": 4,
+          "dimensions": "Height 77cm Length 152cm Width (widest) 100cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -305,6 +251,17 @@
           "category": "Electrical Home Appliances"
         },
         {
+          "id": "156379",
+          "name": "dressing table with mirror",
+          "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "156249",
           "name": "Dining Table",
           "description": "Sturdy Rose Wood Dining Table. Stable and lasting",
@@ -349,6 +306,39 @@
           "category": "Electrical Home Appliances"
         },
         {
+          "id": "156378",
+          "name": "Wooden Dinning table ( no chairs)",
+          "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156369",
+          "name": "Full Marble Table Set",
+          "description": "helping my boyfriends grandparents to move house. furniture set is more than 4 years but as u can see from image it's still in good condition. felt like it was a waste to throw away a full marble table set and the movers quoted a very hefty sum for it to be disposed. wanted to at least donate it if possible. delivery fee can be discussed",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "08 May 2026",
+          "ageInYears": 4,
+          "dimensions": "Diameter - 91.3cm Table Height - 75cm Stool Diameter - 30cm Stool Height - 46.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156368",
+          "name": "Rosewood Dining Table Set with 6 chairs",
+          "description": "i am helping my boyfriends grandparents to move out of their house. furniture is older than 4 years but its in very good condition and it's rosewood. disposal quoted by the movers were very ex and felt like it was a waste to just throw away something so valuable. open to donations and delivery can be arranged.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "08 May 2026",
+          "ageInYears": 4,
+          "dimensions": "Height 77cm Length 152cm Width (widest) 100cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "156346",
           "name": "Adjustable Computer Table",
           "description": "This is a Adjustable Computer Table, can also be used as coffee table in the living room. Height can be adjustable, and the table has 4 wheels so it's easy to move around. It comes with two small shelves below the main table top that you can place items on. See the pictures for more accurate reference.",
@@ -356,6 +346,17 @@
           "validTill": "28 May 2026",
           "ageInYears": 1,
           "dimensions": "80cm x 40cm x 60-90cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156380",
+          "name": "office/study desk/table with chair",
+          "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "16 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -501,6 +502,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156361",
+    "category": "Mobility Aids",
+    "name": "COMMODE",
+    "description": "the senior was discharged home in April after 20 days admission for a surgery. He needs a donated commode in his bedroom. He lives alone with a helper at Bukit Panjang.",
+    "specifications": "Normal",
+    "contact": {
+      "org": "SACS Anglican Cluster Operator @ Jurong East",
+      "name": "Liu Mao Xiang",
+      "email": "maoxiang_liu@sacs.org.sg",
+      "phone": [
+        "62621183"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "155946",
+          "name": "Commode",
+          "description": "Commode for showering.can support heavy weight.\n\n\nWe attached a seat cover but can be removed.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "01 May 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
