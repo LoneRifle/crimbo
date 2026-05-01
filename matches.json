@@ -451,6 +451,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "156429",
+          "name": "Rice cooker Used and Side table",
+          "description": "Rice Cooker large. \nSide table 50x50x41cm (h)",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 May 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
           "id": "155733",
           "name": "Circadin® is a 2mg prolonged-release melatonin table",
           "description": "Unopened and unused Melatonin for giveaway.  Only suitable for patient with current prescription , thus it will be Strictly self collection so I can check",
@@ -521,17 +532,17 @@
     }
   },
   {
-    "id": "156400",
+    "id": "156425",
     "category": "Electrical Home Appliances",
-    "name": "Cooker",
-    "description": "Client is a teenager living independently under the JSS scheme and facing financial hardship. She is requesting the following items: a small fridge, induction cooker, small cabinet, foldable chairs, and a dining table. Any support would be greatly appreciated.",
+    "name": "Standing fan",
+    "description": "Rental flat is crowded and ventilation is poor, client's children require the fan",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
       "phone": [
-        "63128100"
+        "67872001"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -539,15 +550,15 @@
     "matches": {
       "passiton": [
         {
-          "id": "156328",
-          "name": "Mini cooker",
-          "description": "Used less than 5x so considered still new. Can use to steam, hotpot, fry and cook soup. Enough for 1-2 Pax depending. Can cook rice also but have to read own instructions from website. \n\nPrefer self collection from needy",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "28 May 2026",
-          "ageInYears": 1,
+          "id": "156432",
+          "name": "Dyson Standing Fan",
+          "description": "Functioning well dyson standing fan. Giving away as friends bought new fan for me.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 May 2026",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Kitchen Utility Items"
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
