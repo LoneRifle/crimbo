@@ -1,5 +1,27 @@
 [
   {
+    "id": "156449",
+    "name": "White sneakers shoes",
+    "description": "White sneakers, hardly used, size 11 UK",
+    "location": "Newton",
+    "validTill": "02 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "UK size 11",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "156448",
+    "name": "Black sneakers",
+    "description": "Black sneakers, hardly used, size 11 UK",
+    "location": "Newton",
+    "validTill": "02 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "UK SIZE 11",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "156165",
     "name": "Safety shoes",
     "description": "Size: Europe41.",
@@ -31,6 +53,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "156447",
+    "name": "Philips Electric Kettle",
+    "description": "Well used electric kettle. Retiring due to having a new multipurpose electric kettle.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "156439",
@@ -196,6 +229,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156450",
+    "name": "Dining Table",
+    "description": "This rosewood dining table is very sturdy and good. It is very stable and can last for many years.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "06 May 2026",
+    "ageInYears": 4,
+    "dimensions": "148 cm by 95 cm by 78 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "156446",
@@ -713,6 +757,17 @@
     "dimensions": "155cm*112cm*42cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "156451",
+    "name": "Educational materials",
+    "description": "Left brain training materials and toys",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "02 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "156433",

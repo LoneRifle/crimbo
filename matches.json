@@ -219,6 +219,17 @@
           "category": "Electrical Home Appliances"
         },
         {
+          "id": "156450",
+          "name": "Dining Table",
+          "description": "This rosewood dining table is very sturdy and good. It is very stable and can last for many years.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "06 May 2026",
+          "ageInYears": 4,
+          "dimensions": "148 cm by 95 cm by 78 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "156379",
           "name": "dressing table with mirror",
           "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
@@ -826,39 +837,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "156035",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Family has 6 children aged 18 to 8 years old. 11 year old son is currently struggling to go to school. Having a bicycle would support 11 year old son to go to school easily as he can cycle to school and would be more motivated as well.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Noor Syazana",
-      "email": "noorsyazana@allkin.org.sg",
-      "phone": [
-        "60384140"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Apr 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "155808",
-          "name": "Exercise bicycle",
-          "description": "Bought it for my mom but she hardly us and the bicycle is in good working condition",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "15 May 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
