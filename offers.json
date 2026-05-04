@@ -77,28 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156486",
-    "name": "Samsung Refrigerator",
-    "description": "A very well maintained refrigerator",
-    "location": null,
-    "validTill": "03 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "WxHxD- 675x1785x668mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156485",
-    "name": "Whirlpool Washing Machine",
-    "description": "Very new and well maintained",
-    "location": null,
-    "validTill": "03 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "(WxDxH): 600 x 599 x 850mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "156481",
     "name": "Fridge",
     "description": "Hi VWOs, pls indicate the Case No. I will read through the clients' profile before making a decision.",
@@ -284,6 +262,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156492",
+    "name": "IKEA 2 seater sofa with sleeper bed",
+    "description": "Lightly used IKEA 2 seater sofa which has pull out bed",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "16 May 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "156453",
@@ -979,6 +968,28 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "156488",
+    "name": "Exercise Bike",
+    "description": "99% new (never been used)\nPic of approximate measurements attached\nFeatures adjustable seat and handlebars for a comfortable workout\nIncludes a wool felt silent brake and an iPad/phone holder",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "09 May 2026",
+    "ageInYears": 1,
+    "dimensions": "90 x 46.5 x 105",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "156489",
+    "name": "Exercise Bike",
+    "description": "99% new (never been used)\nPic of approximate measurements attached\nFeatures adjustable seat and handlebars for a comfortable workout\nIncludes a wool felt silent brake and an iPad/phone holder",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "09 May 2026",
+    "ageInYears": 1,
+    "dimensions": "90 x 46.5 x 105",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "156164",
     "name": "Small pack bag",
     "description": "///",
@@ -1067,17 +1078,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "156455",
-    "name": "Wheelchair and toilet commode",
-    "description": "Condition well maintained. \nPrefer to give away both",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "02 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "156454",
     "name": "Hospital bed",
     "description": "Well maintained . Cannot remember when the validity is but works well and looks like new.\n\nYou can contact me via WhatsApp first.",
@@ -1096,17 +1096,6 @@
     "validTill": "01 Jun 2026",
     "ageInYears": 1,
     "dimensions": "See description",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156434",
-    "name": "Walker for Seniors",
-    "description": "Items are in good conditions",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "01 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -1194,17 +1183,6 @@
     "location": null,
     "validTill": "05 May 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156136",
-    "name": "Clothes Hangers",
-    "description": "Good condition plastic clothes hangers",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 May 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
