@@ -22,28 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156449",
-    "name": "White sneakers shoes",
-    "description": "White sneakers, hardly used, size 11 UK",
-    "location": "Newton",
-    "validTill": "02 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "UK size 11",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "156448",
-    "name": "Black sneakers",
-    "description": "Black sneakers, hardly used, size 11 UK",
-    "location": "Newton",
-    "validTill": "02 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "UK SIZE 11",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "156165",
     "name": "Safety shoes",
     "description": "Size: Europe41.",
@@ -253,6 +231,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156521",
+    "name": "King size bed frame + mattress",
+    "description": "Willing to top up with mattress to be delivered to recipient home. Bedside tables + clothes rack to be delivered together (recipient must take).",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "20 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156495",
     "name": "Marble dining table and two chairs",
     "description": "Marble dining table and two chairs",
@@ -260,17 +249,6 @@
     "validTill": "15 May 2026",
     "ageInYears": 4,
     "dimensions": "90cm diameter",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156494",
-    "name": "Greyish blue 3-seaters Sofa",
-    "description": "sofa bed still in good, usable condition. Defects below won't affect enjoyment of sofa.\n\nThe middle seat cushion is slightly compressed when sitting.\nOne leg has a loose bracket, but remains firm and sturdy.\nThe back cover of the sofa is torn but doesn't affect usability",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "04 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "200 cm by 80 cm by 90 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,30 +319,8 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156443",
-    "name": "Single Bedframe",
-    "description": "Self collection by 9 May",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156442",
     "name": "TV Console",
-    "description": "Self collection by 9 May",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156441",
-    "name": "Queen Bedframe and Mattress",
     "description": "Self collection by 9 May",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "09 May 2026",
@@ -781,6 +737,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "156520",
+    "name": "Maxi Cosi Pebble 360 Pro Infant Car Seat",
+    "description": "This is the Maxi-Cosi Pebble 360 Pro, a premium infant car seat designed for infants from 40 cm to 87 cm in height (birth to approx. 15 months), with a maximum weight capacity of 13 kg.\nKey features include:\n• Safety Standards: Complies with the latest UN-Regulation No. 129/03 (i-Size) for enhanced side-impact protection.\n• Versatility: It can be installed using a vehicle’s 3-point seat belt (universal belted) or clicked into a FamilyFix 360 Pro base for 360° rotation and \"SlideTech\" functionality.\n• Design: Features an ergonomic carry handle, adjustable harness, and integrated sun canopy.\n\nPls self collect at Bishan 570124. Thanks",
+    "location": null,
+    "validTill": "04 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156506",
+    "name": "Booster Car Seat",
+    "description": "Britax Parkway SGL Booster Car Seat\nBack piece can be removed to only booster seat",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "31 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "156471",
     "name": "Baby girl clothes (12-18 months)",
     "description": "Loved baby girl clothes and shoes (12-18 months)",
@@ -1034,6 +1012,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "156499",
+    "name": "Commode",
+    "description": "Commode. Used once.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "04 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "156351",
     "name": "Oral swab sticks",
     "description": "50+ oral swab sticks",
@@ -1087,6 +1076,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "156497",
+    "name": "Commode",
+    "description": "Commode is sturdy and in good condition & comes with wheels",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "156454",
@@ -1145,8 +1145,8 @@
   },
   {
     "id": "156429",
-    "name": "Rice cooker Used and Side table",
-    "description": "Rice Cooker large. \nSide table 50x50x41cm (h)",
+    "name": "Side table",
+    "description": "Side table 50x50x41cm (h)",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "31 May 2026",
     "ageInYears": 1,

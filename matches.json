@@ -177,32 +177,86 @@
     }
   },
   {
-    "id": "156484",
+    "id": "156518",
     "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Needy family of 4, including two elderly in their 80s, requires a standing fan in this hot weather.",
+    "name": "fridge",
+    "description": "Client is a 69-year-old caregiver to her 8-year-old grandson while his natural parent is incarcerated. She is supported in caregiving by her adult son, who resides in the same household.\nThe family is currently in need of a replacement refrigerator, as their existing unit is leaking and at risk of imminent breakdown. They also have a washing machine that is no longer functioning effectively and would benefit from replacement, including installation support.\nAs the family is reliant on financial assistance, they do not have the means to purchase these items or cover associated delivery and installation costs.",
     "specifications": null,
     "contact": {
-      "org": "SACS Anglican Cluster Operator @ Jurong East",
-      "name": "Koh Leong Foo",
-      "email": "leongfoo_koh@sacs.org.sg",
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
       "phone": [
-        "62621183ext209",
-        "62621183"
+        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2026",
+    "date": "05 May 2026",
     "matches": {
       "passiton": [
         {
-          "id": "156424",
-          "name": "Fan & Aircooler",
-          "description": "Fan with air cooler feature - we have not tried air cooler. It has a tank to put water and 2 ice blocks (included). Bought in China, menu is in Chinese but I can write in English and tape it to the top for easy reference. \n\nCan WhatsApp me for more details and to arrange drop off. \n\nWill send to VWO / needy living in Bedok, Tampines, Changi or Ang Mo Kio area.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "10 May 2026",
-          "ageInYears": 4,
-          "dimensions": "31 x 38 x 78 cm",
+          "id": "156481",
+          "name": "Fridge",
+          "description": "Hi VWOs, pls indicate the Case No. I will read through the clients' profile before making a decision.",
+          "location": "Bayshore",
+          "validTill": "03 Jun 2026",
+          "ageInYears": 3,
+          "dimensions": "168cm x 60cm x 65.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "156438",
+          "name": "Fridge",
+          "description": "Self collection by 6 May",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "06 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156507",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Elderly client has just moved into his rental flat and he needs assistance with furnishing his flat. He requires a fridge to store his medication.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@kkcs.org.sg",
+      "phone": [
+        "64854750"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156481",
+          "name": "Fridge",
+          "description": "Hi VWOs, pls indicate the Case No. I will read through the clients' profile before making a decision.",
+          "location": "Bayshore",
+          "validTill": "03 Jun 2026",
+          "ageInYears": 3,
+          "dimensions": "168cm x 60cm x 65.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "156438",
+          "name": "Fridge",
+          "description": "Self collection by 6 May",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "06 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -212,40 +266,6 @@
   },
   {
     "id": "156483",
-    "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Needy family of 4, including two elderly in their 80s, requires a standing fan in this hot weather.",
-    "specifications": null,
-    "contact": {
-      "org": "SACS Anglican Cluster Operator @ Jurong East",
-      "name": "Koh Leong Foo",
-      "email": "leongfoo_koh@sacs.org.sg",
-      "phone": [
-        "62621183ext209",
-        "62621183"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156424",
-          "name": "Fan & Aircooler",
-          "description": "Fan with air cooler feature - we have not tried air cooler. It has a tank to put water and 2 ice blocks (included). Bought in China, menu is in Chinese but I can write in English and tape it to the top for easy reference. \n\nCan WhatsApp me for more details and to arrange drop off. \n\nWill send to VWO / needy living in Bedok, Tampines, Changi or Ang Mo Kio area.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "10 May 2026",
-          "ageInYears": 4,
-          "dimensions": "31 x 38 x 78 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "156468",
     "category": "Electrical Home Appliances",
     "name": "Fan",
     "description": "Needy family of 4, including two elderly in their 80s, requires a standing fan in this hot weather.",

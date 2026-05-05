@@ -1,5 +1,40 @@
 [
   {
+    "id": "156517",
+    "category": "Home Furnishing",
+    "name": "Sofas",
+    "description": "Our home need 2 sets 3 seaters second-hand sofas.\nThank you",
+    "specifications": null,
+    "contact": {
+      "org": "Ju Eng Home For Senior Citizens",
+      "name": "Lee Jun Hui",
+      "email": "junhui@jeh.org.sg",
+      "phone": [
+        "64846890ext127",
+        "64846890"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156515",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame",
+    "description": "Client lives alone in a HDB rental unit and has multiple physical and mental conditions, is requesting for a single bed frame to enable safer, more ease and less painful transfer",
+    "specifications": null,
+    "contact": {
+      "org": "Brahm Centre Ltd - Tampines",
+      "name": "Gregory Ho",
+      "email": "gregory.ho@brahmcentre.com",
+      "phone": [
+        "69082122"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
     "id": "156478",
     "category": "Home Furnishing",
     "name": "Queen size bed mattress",
@@ -66,23 +101,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "04 May 2026"
-  },
-  {
-    "id": "156460",
-    "category": "Home Furnishing",
-    "name": "3-Door Cabinet",
-    "description": "Client is going to have a newborn grandchild soon, family requires financial support because sold breadwinner is incarcerated, 3-door cabinet to store children's clothes in their rental flat",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "04 May 2026"
   },
   {
@@ -168,24 +186,6 @@
       "phone": [
         "81214654",
         "63867688"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Apr 2026"
-  },
-  {
-    "id": "156323",
-    "category": "Home Furnishing",
-    "name": "TOYOGO Drawers",
-    "description": "We are supporting an elderly couple in their 80s who are living with their son (in his 50s) who has mild intellectual disability. The family would benefit from better storage solutions to keep their belongings organised.\n\nWe are seeking support for 2–3 Toyogo plastic drawer units (4-tier), estimated at $40–$50 each. Volunteers will be assisting with the setup and organizing once items arrives.\n\nItems can be purchased online and delivered directly to their residence.\n\nIf you’re able to help, please WhatsApp me at 8800 3073 for the address and further details.\n\nThank you in advance for your support.",
-    "specifications": "4 tiers",
-    "contact": {
-      "org": "Hua Mei Care Management Service of TSAO Foundation",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
-      "phone": [
-        "65939576",
-        "65939596"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -612,6 +612,127 @@
     "date": "06 Apr 2026"
   },
   {
+    "id": "156522",
+    "category": "Infant and Children Items",
+    "name": "Clothing & items for Infants less than 12 months old",
+    "description": "Looking for assorted items for infants and their mothers for Shelter for teenage moms with unplanned pregnancies.",
+    "specifications": null,
+    "contact": {
+      "org": "Mother of Hope",
+      "name": "Tony Tan",
+      "email": "tan_tony@gebirah.org",
+      "phone": [
+        "92347889"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156519",
+    "category": "Infant and Children Items",
+    "name": "Children chair and table set",
+    "description": "Client recently received the keys to a 2-room HDB rental flat in Sengkang and is in the process of moving in. She is married with a 1-year-old daughter and is currently 5 months pregnant with her second child, due in September 2026. As she is unable to secure employment due to her pregnancy, her husband is the sole breadwinner, working as a lorry attendant. With his income going towards household expenses, the family has limited means to furnish their new home.\n\nThey are hoping to receive donations of second-hand furniture, specifically a cabinet for storing the children's toys and a child-sized table and chair set. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Belle Teo",
+      "email": "belle_teo@msf.gov.sg",
+      "phone": [
+        "63548976",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156512",
+    "category": "Infant and Children Items",
+    "name": "Faybel Diapers",
+    "description": "Family comes from low income and is struggling to provide for their 2 preschool children's basic needs such as milk and diapers.",
+    "specifications": "XL Pants diapers - Faybel",
+    "contact": {
+      "org": "Yayasan Mendaki @ Punggol",
+      "name": "Fitri Aini",
+      "email": "fitriaini.mohdtahir@mendaki.org.sg",
+      "phone": [
+        "62485996"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156511",
+    "category": "Infant and Children Items",
+    "name": "Drypers - Super Dry Diapers",
+    "description": "Family comes from low income and is struggling to provide for their 2 preschool children's basic needs such as milk and diapers.",
+    "specifications": "Drypers - Super Dry XXL Pants",
+    "contact": {
+      "org": "Yayasan Mendaki @ Punggol",
+      "name": "Fitri Aini",
+      "email": "fitriaini.mohdtahir@mendaki.org.sg",
+      "phone": [
+        "62485996"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156510",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Family comes from low income and is struggling to provide for their 2 preschool children's basic needs such as milk and diapers.",
+    "specifications": "Dugro - 1 to 3 years old",
+    "contact": {
+      "org": "Yayasan Mendaki @ Punggol",
+      "name": "Fitri Aini",
+      "email": "fitriaini.mohdtahir@mendaki.org.sg",
+      "phone": [
+        "62485996"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156509",
+    "category": "Infant and Children Items",
+    "name": "Powder Milk",
+    "description": "Family comes from low income and is struggling to provide for their 2 preschool children's basic needs such as milk and diapers.",
+    "specifications": "Grow Toddler - 1 to 3 years old",
+    "contact": {
+      "org": "Yayasan Mendaki @ Punggol",
+      "name": "Fitri Aini",
+      "email": "fitriaini.mohdtahir@mendaki.org.sg",
+      "phone": [
+        "62485996"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156502",
+    "category": "Infant and Children Items",
+    "name": "Baby Bottle Sterilizer",
+    "description": "Client (Person with Disability) with foreign spouse and a 1-month-old baby are currently staying at a rented room. Family is not receiving income and are struggling to meet basic needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Nurul Adryana Abu Bakar",
+      "email": "nuruladryana@allkin.org.sg",
+      "phone": [
+        "60384270",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
     "id": "156480",
     "category": "Infant and Children Items",
     "name": "PediaSure® Gold with PeptiGroᵀᴹ - Classic Vanilla (Ages 1 - 10)",
@@ -795,40 +916,6 @@
       "email": "chanmian@fycs.org",
       "phone": [
         "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Apr 2026"
-  },
-  {
-    "id": "156198",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL and Drypers Superdry Pants XXL for their young children. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Apr 2026"
-  },
-  {
-    "id": "156197",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet family's basic needs. Family is seeking support for essential items such as Enfagrow Pro A+ Stage 3 for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1335,23 +1422,6 @@
     "date": "21 Apr 2026"
   },
   {
-    "id": "156037",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL and Drypers Superdry Pants XXL for their young children. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Apr 2026"
-  },
-  {
     "id": "156021",
     "category": "Infant and Children Items",
     "name": "Huggies Diapers (Size L)",
@@ -1366,24 +1436,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "20 Apr 2026"
-  },
-  {
-    "id": "156015",
-    "category": "Infant and Children Items",
-    "name": "4-5 Packs of Diapers (L-sized, pants)",
-    "description": "The family consists of young working parents caring for their 2-year-old son. The mother has recently taken on full-time employment as the family works towards greater financial stability. While both parents are working, their combined income is only sufficient to cover basic monthly expenses, leaving little room for additional expenses.\n\nThey continue to face financial strain, particularly with ongoing childcare-related expenses. Assistance for 4-5 packs of L-sized diapers will help ease immediate financial pressure and allow the family to better manage their essential needs as they work towards a more stable situation.\n\n*Family would prefer any brand of diapers, except for Drypers",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Vanessa Goh",
-      "email": "vanessagoh@mws.sg",
-      "phone": [
-        "67564995ext102/83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "20 Apr 2026"
   },
   {
@@ -2286,6 +2338,145 @@
     "date": "06 Apr 2026"
   },
   {
+    "id": "156518",
+    "category": "Electrical Home Appliances",
+    "name": "fridge",
+    "description": "Client is a 69-year-old caregiver to her 8-year-old grandson while his natural parent is incarcerated. She is supported in caregiving by her adult son, who resides in the same household.\nThe family is currently in need of a replacement refrigerator, as their existing unit is leaking and at risk of imminent breakdown. They also have a washing machine that is no longer functioning effectively and would benefit from replacement, including installation support.\nAs the family is reliant on financial assistance, they do not have the means to purchase these items or cover associated delivery and installation costs.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156516",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Client is a 69-year-old caregiver to her 8-year-old grandson while his natural parent is incarcerated. She is supported in caregiving by her adult son, who resides in the same household.\nThe family is currently in need of a replacement refrigerator, as their existing unit is leaking and at risk of imminent breakdown. They also have a washing machine that is no longer functioning effectively and would benefit from replacement, including installation support.\nAs the family is reliant on financial assistance, they do not have the means to purchase these items or cover associated delivery and installation costs.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156514",
+    "category": "Electrical Home Appliances",
+    "name": "Digital Tv 55\"",
+    "description": "Our home need two sets of digital TV55\" for our elderly residents. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Ju Eng Home For Senior Citizens",
+      "name": "Lee Jun Hui",
+      "email": "junhui@jeh.org.sg",
+      "phone": [
+        "64846890ext127",
+        "64846890"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156513",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Client (F/45) is a single mother with health issues. Seeking a donor who can provide a washing machine to replace her spoiled washing machine.",
+    "specifications": "9kg top load",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Nur Hidayah Bte Sarifudin",
+      "email": "hidayah_sarifudin@awwa.org.sg",
+      "phone": [
+        "65119449",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156507",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Elderly client has just moved into his rental flat and he needs assistance with furnishing his flat. He requires a fridge to store his medication.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@kkcs.org.sg",
+      "phone": [
+        "64854750"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156504",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family is in urgent need of a washing machine. They are facing financial difficulties and requires the washing machine to meet their daily household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Nurul Adryana Abu Bakar",
+      "email": "nuruladryana@allkin.org.sg",
+      "phone": [
+        "60384270",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156501",
+    "category": "Electrical Home Appliances",
+    "name": "refrigerator (Halal)",
+    "description": "Client just attained his rental flat and requires item to furnish his new home. He is a low wage earner,",
+    "specifications": "1 door",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Darren Tan",
+      "email": "darrentankr@fycs.org",
+      "phone": [
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
+    "id": "156498",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine (5-8kg capacity)",
+    "description": "Client is a single mother of 10 years old. She just attained her rental flat and requires items to furnish her new home. She is a low wage earner supporting heself and son.",
+    "specifications": "5-8kg capacity",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Darren Tan",
+      "email": "darrentankr@fycs.org",
+      "phone": [
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
     "id": "156491",
     "category": "Electrical Home Appliances",
     "name": "Front load washing machine",
@@ -2298,42 +2489,6 @@
       "phone": [
         "63519525",
         "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2026"
-  },
-  {
-    "id": "155456",
-    "category": "Electrical Home Appliances",
-    "name": "Electric Oven (45L/50L) x 2 units",
-    "description": "Gracehaven Children's Home will require 2 units of 45L or 50L ovens for the children's baking activities at the Home (1x at Boys Block, 1x at Girls Block).\n\nOvens can be pre-loved and in good working condition, but has to be halal so that all of our children can use and enjoy the baking sessions together.",
-    "specifications": "45L/50L x 2 units",
-    "contact": {
-      "org": "The Salvation Army - Gracehaven Children's Home",
-      "name": "Maggie Chin",
-      "email": "Maggie.Chin@smmt.salvationarmy.org",
-      "phone": [
-        "-",
-        "65802250"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2026"
-  },
-  {
-    "id": "156484",
-    "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Needy family of 4, including two elderly in their 80s, requires a standing fan in this hot weather.",
-    "specifications": null,
-    "contact": {
-      "org": "SACS Anglican Cluster Operator @ Jurong East",
-      "name": "Koh Leong Foo",
-      "email": "leongfoo_koh@sacs.org.sg",
-      "phone": [
-        "62621183ext209",
-        "62621183"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2421,24 +2576,6 @@
       "email": "claudineng@allkin.org.sg",
       "phone": [
         "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2026"
-  },
-  {
-    "id": "156468",
-    "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Needy family of 4, including two elderly in their 80s, requires a standing fan in this hot weather.",
-    "specifications": null,
-    "contact": {
-      "org": "SACS Anglican Cluster Operator @ Jurong East",
-      "name": "Koh Leong Foo",
-      "email": "leongfoo_koh@sacs.org.sg",
-      "phone": [
-        "62621183ext209",
-        "62621183"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2703,24 +2840,6 @@
       "phone": [
         "68590811",
         "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Apr 2026"
-  },
-  {
-    "id": "154180",
-    "category": "Electrical Home Appliances",
-    "name": "650L Refrigerator - 2 Door (Halal Fridge – For Resident L3MPH Dormitory)",
-    "description": "Sunbeam Place @ Children’s Society is in need of new/used but still in good condition 650L 2-door refrigerator (Halal) to support the L3MPH Dormitory. The current unit has become faulty and beyond repair, and is causing frequent power trips, affecting daily operations. Delivery will need to be arranged by the kind donor. If you wish to contribute, please click “Donate” and we will get in touch with you soon. We sincerely thank you for your kindness and generosity in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3973,6 +4092,23 @@
     "date": "08 Apr 2026"
   },
   {
+    "id": "156503",
+    "category": "Others",
+    "name": "Handphone (with charger)",
+    "description": "Client is a single mum with chronic health issues and frequent hospitalisations. She is unable to work as such and relies solely on comcare support. Her phone is spoiling and she would benefit from a replacement for her daily functioning eg commnunication and tracking of medical appointments, interactions with social service systems and informal support system. Whatsapp 6038 4091 if you can deliver it directly to her home in ang mo kio for free.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Cassandra Chia",
+      "email": "cassandrachia@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026"
+  },
+  {
     "id": "156344",
     "category": "Others",
     "name": "Diapers (Size XL)",
@@ -4858,23 +4994,6 @@
       "email": "nur.sabrina@thkmc.org.sg",
       "phone": [
         "68461228"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2026"
-  },
-  {
-    "id": "156464",
-    "category": "Mobility Aids",
-    "name": "Self-Propelled Wheelchair",
-    "description": "Client's mobility is limited waist down due to a spinal injury. He is declared permanently unfit for work, and relies on a care giver. His current wheelchair is worn out.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Muhammad Safwan",
-      "email": "safwan.ishak@montfortcare.org.sg",
-      "phone": [
-        "63254753"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
