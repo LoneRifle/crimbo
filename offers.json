@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156525",
+    "name": "Ceiling LED lights",
+    "description": "LED Ceiling lights\nNeed to get an electrician to install",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "05 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156481",
     "name": "Fridge",
     "description": "Hi VWOs, pls indicate the Case No. I will read through the clients' profile before making a decision.",
@@ -269,17 +280,6 @@
     "description": "Study Table + Drawers + Chair",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "20 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156492",
-    "name": "IKEA 2 seater sofa with sleeper bed",
-    "description": "Lightly used IKEA 2 seater sofa which has pull out bed",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "16 May 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -524,17 +524,6 @@
     "validTill": "27 May 2026",
     "ageInYears": 4,
     "dimensions": "L: 150 W: 40 H: 79",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156403",
-    "name": "Reading Arm Chair & Foot stool",
-    "description": "Wooden, Fabric upholstered arm chair with foot stool separate",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "27 May 2026",
-    "ageInYears": 4,
-    "dimensions": "H: 97 D: 87 W: 90",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -997,6 +986,17 @@
     "validTill": "29 May 2026",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "156526",
+    "name": "Mechanical hospital bed",
+    "description": "Mechanical hospital bed",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "29 May 2026",
+    "ageInYears": 4,
+    "dimensions": "216cmx107cmx91cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
