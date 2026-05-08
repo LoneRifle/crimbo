@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156605",
-    "name": "Sony 49\" TV",
-    "description": "Used 49\" Sony TV, still in working condition but with a bar flashing at the bottom of the screen.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "09 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "156525",
     "name": "Ceiling LED lights",
     "description": "LED Ceiling lights\nNeed to get an electrician to install",
@@ -302,17 +291,6 @@
     "description": "very nice blue sofa available for free but needs to be collected before end of week",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "09 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156524",
-    "name": "3 seater L- shaped IKEA sofa",
-    "description": "L-Shaped 3 seater IKEA sofa, green color",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "10 May 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1076,6 +1054,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156624",
+    "name": "Electric Hospital Bed",
+    "description": "An electric hospital bed that can adjust position with a remote control. Comes with an air mattress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "07 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156429",
