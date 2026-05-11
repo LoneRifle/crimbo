@@ -73,17 +73,6 @@
           "dimensions": "152 cm x 190 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "156652",
-          "name": "queen size bed X2",
-          "description": "bed frame with mattress - queen size.",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "09 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": "queen size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -151,6 +140,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156667",
+    "category": "Electrical Home Appliances",
+    "name": "rice cooker",
+    "description": "Elderly mother and daughter just moved into rental flat and require rice cooker for daily need.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Tasek Academy and Social Services",
+      "name": "Sakinah Sukaime",
+      "email": "sakinah@tasek.org",
+      "phone": [
+        "88438376",
+        "69666140/88438376"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "11 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156669",
+          "name": "Philips Avance Collection IH Rice Cooker HD4535",
+          "description": "Tasty multigrain with every grain well cooked iSpiral IH technology\nBakuhanseki coating iron pot\n1.5L (about 8 cups of rice)\n13 dedicated cooking menus for the contemporary cook\n12 hours keep warm\nDetachable inner lid for easy cleaning\nLarge digital display provides easy-to-read menus and time",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "31 May 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -363,39 +386,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "07 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156656",
-          "name": "15packs Adult pull-up diapers, female elderly clothings,  3 wheelchairs, 3M Cavilon skin barrier cream, forlax 10g medication, duphalac 200ml (expiry 01/27), Thicken Up clear 1 tin",
-          "description": "All items are within at least 8months validity.Please contact me on my mobile for coordination. Thank you.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "10 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "156558",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client is a person with disability who is cared for by his 70-year-old mother, who is struggling financially while continuing to work hard, and the family requires assistance with his daily needs including adult diapers.",
-    "specifications": "Size: XXL or XXXL",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 May 2026",
     "matches": {
       "passiton": [
         {
