@@ -1,5 +1,27 @@
 [
   {
+    "id": "156760",
+    "name": "Men's batik shirt",
+    "description": "Lightly worn",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "12 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": "Medium / Large",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "156759",
+    "name": "Men's shirts",
+    "description": "Lightly worn",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "12 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": "Medium / Large",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "156619",
     "name": "BNWT Sports leggings",
     "description": "Blessing a BNWT sports leggings size L.",
@@ -187,13 +209,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "156740",
-    "name": "queen sized bedding frame (IKEA) & mattress",
-    "description": "- Queen-sized white bed frame\n- Simple, modern design\n- Sturdy construction\n- Mattress included\n- ikea",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 May 2026",
-    "ageInYears": 2,
-    "dimensions": "1.9 x 1 x0.5",
+    "id": "156761",
+    "name": "Super single bed with pull out bed and mattresses",
+    "description": "Super single pull out bed with 2 mattresses. Seldom used, and in good condition. King Koil brand.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "12 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -215,17 +237,6 @@
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "16 May 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156704",
-    "name": "Grey arm chair",
-    "description": "Like new arm chair",
-    "location": null,
-    "validTill": "31 May 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -627,11 +638,11 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156686",
-    "name": "M size diapers",
-    "description": "M pants (10 packs in total)",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 May 2026",
+    "id": "156748",
+    "name": "Baby and toddler toys",
+    "description": "Baby and toddler toys - cloth books, musical instrument, teething etc. all in good condition",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "10 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -836,6 +847,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "156758",
+    "name": "3M cream/cleanser/oxygen cannula/humidifer bottle",
+    "description": "- oxygen nasal cannula \n   3meter x 5 (exp 2030)\n   4 meter x 8 (exp 2027)\n- humidifier bottle x 3\n- 3M cavilon barrier cream x 4 (exp 2027)\n- 3M cavilon no rinse skin cleanser x 4",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "12 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "156682",
     "name": "Geriatric Chair - Vermeiren Normandie",
     "description": "Geriatric chair lightly used. Has tray table and arm rest can be lowered.",
@@ -933,6 +955,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "156753",
+    "name": "commode chair with pot, cover, wheels and detachable armrest",
+    "description": "can be used to transfer patient from chair/bed to commode chair, then wheel patient to toilet and shower patient on commode chair directly (will send item directly to VWO/needy if in the east of Singapore)",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "19 May 2026",
+    "ageInYears": 4,
+    "dimensions": "55 x 65 x 100 (all in cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "156733",
