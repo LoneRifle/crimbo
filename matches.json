@@ -19,22 +19,66 @@
     "matches": {
       "passiton": [
         {
-          "id": "156568",
-          "name": "q bed and mattress",
-          "description": "Hi, I can give only after 12 May until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "16 May 2026",
-          "ageInYears": 3,
+          "id": "156770",
+          "name": "Single mattress",
+          "description": "Donating a single sized mattress",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "13 Jun 2026",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
         {
-          "id": "156761",
-          "name": "Super single bed with pull out bed and mattresses",
-          "description": "Super single pull out bed with 2 mattresses. Seldom used, and in good condition. King Koil brand.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "12 Jun 2026",
+          "id": "156771",
+          "name": "Single Sized Mattress",
+          "description": "Donating a single sized mattress",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "13 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "156786",
+          "name": "Single Bed and mattress",
+          "description": "Single bed and frame",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156736",
+    "category": "Home Furnishing",
+    "name": "Single-size Mattress",
+    "description": "Client lives in a rental flat and has 3 young children who are currently using bedding that is worn and no longer in suitable condition. This may be affecting their overall health, quality of rest, and school attendance. We are therefore reaching out to seek support from anyone who may be able to provide the family with 3 single mattresses. These items would help improve the children’s sleeping conditions, contributing positively to their overall well-being and daily functioning.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Shanell Tan",
+      "email": "shanelltan@carecorner.org.sg",
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156771",
+          "name": "Single Sized Mattress",
+          "description": "Donating a single sized mattress",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "13 Jun 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -63,17 +107,6 @@
     "date": "06 May 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "156737",
-          "name": "queen bed frame and bed",
-          "description": "queen size bed frame with mattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "07 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": "152 cm x 190 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "156691",
           "name": "Queen Bedframe",
@@ -157,6 +190,74 @@
     }
   },
   {
+    "id": "156754",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with health issue living with 2 children in a rental flat. Mother is not able to work yet due to health",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156778",
+          "name": "Fridge",
+          "description": "Good working condition. Extra Refrigerator due to house moving",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "21 May 2026",
+          "ageInYears": 4,
+          "dimensions": "79cm x 68cm x 178cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156665",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Elderly mother with chronic health issues, just moved in with daughter to a rental flat. Require fridge for daily needs.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Tasek Academy and Social Services",
+      "name": "Sakinah Sukaime",
+      "email": "sakinah@tasek.org",
+      "phone": [
+        "88438376",
+        "69666140/88438376"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "11 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156778",
+          "name": "Fridge",
+          "description": "Good working condition. Extra Refrigerator due to house moving",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "21 May 2026",
+          "ageInYears": 4,
+          "dimensions": "79cm x 68cm x 178cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "139840",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -185,6 +286,73 @@
           "dimensions": "110cm x 55cm x 55cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156507",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Elderly client has just moved into his rental flat and he needs assistance with furnishing his flat. He requires a fridge to store his medication.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Clarissa Ang",
+      "email": "clarissaang@kkcs.org.sg",
+      "phone": [
+        "64854750"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156778",
+          "name": "Fridge",
+          "description": "Good working condition. Extra Refrigerator due to house moving",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "21 May 2026",
+          "ageInYears": 4,
+          "dimensions": "79cm x 68cm x 178cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156326",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with pre-school age son requires a fridge around 300l. Family has never owned a fridge since moving into their rental flat in 2025 and would like to own one to store their fresh foods.",
+    "specifications": "width: 75cm max, height: 213cm max",
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156778",
+          "name": "Fridge",
+          "description": "Good working condition. Extra Refrigerator due to house moving",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "21 May 2026",
+          "ageInYears": 4,
+          "dimensions": "79cm x 68cm x 178cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []

@@ -77,6 +77,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156778",
+    "name": "Fridge",
+    "description": "Good working condition. Extra Refrigerator due to house moving",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "21 May 2026",
+    "ageInYears": 4,
+    "dimensions": "79cm x 68cm x 178cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156662",
     "name": "Desk fan",
     "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
@@ -95,17 +106,6 @@
     "validTill": "05 Jun 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "156475",
-    "name": "Food Dehydrator",
-    "description": "Rommelsbacher food dehydrator with timer & adjustable temperature controls.\nMotor unit has yellowed but dehydrator works fine.\nIncludes 4 dehydrating trays, deep trays can accommodate thicker items).\nGreat for home preservation of fruit, vegetables etc. \nFrom a pet-free, nonsmoking household (dehydrator was used for fruit only).",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 May 2026",
-    "ageInYears": 3,
-    "dimensions": "around 40x40x50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -198,11 +198,44 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "156761",
-    "name": "Super single bed with pull out bed and mattresses",
-    "description": "Super single pull out bed with 2 mattresses. Seldom used, and in good condition. King Koil brand.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "12 Jun 2026",
+    "id": "156786",
+    "name": "Single Bed and mattress",
+    "description": "Single bed and frame",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156780",
+    "name": "Basket for laundry",
+    "description": "2 brand new plastic baskets . self collection from my house . thank you",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "in picture",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156771",
+    "name": "Single Sized Mattress",
+    "description": "Donating a single sized mattress",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156770",
+    "name": "Single mattress",
+    "description": "Donating a single sized mattress",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "13 Jun 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -319,17 +352,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156737",
-    "name": "queen bed frame and bed",
-    "description": "queen size bed frame with mattress",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "07 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "152 cm x 190 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156493",
     "name": "Study Table Set + Chair",
     "description": "Study Table + Drawers + Chair",
@@ -402,17 +424,6 @@
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "16 May 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156568",
-    "name": "q bed and mattress",
-    "description": "Hi, I can give only after 12 May until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "16 May 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -957,13 +968,13 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156692",
-    "name": "Assorted Items for Adults",
-    "description": "adults stuff to giveaway\n\n1. Eye mask\n2. Male pants size M\n3. Clothes organisers\n4. Caps\n5. Flute",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
+    "id": "156788",
+    "name": "Two seaters fabric sofa with cup holder",
+    "description": "About one year old sofa. \nCondition like new.\nGive away together with two sofa cushions.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 May 2026",
+    "ageInYears": 1,
+    "dimensions": "L136cmxW78cmxH68cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
