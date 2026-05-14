@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156778",
-    "name": "Fridge",
-    "description": "Good working condition. Extra Refrigerator due to house moving",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "21 May 2026",
-    "ageInYears": 4,
-    "dimensions": "79cm x 68cm x 178cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "156662",
     "name": "Desk fan",
     "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
@@ -196,6 +185,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156793",
+    "name": "1 plus 4 Dining set",
+    "description": "The whole dining table is in tip top condition. There are 4 chairs (1 chairs fabric slightly torn) dining set from CELINI",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "15 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "180/90/75",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "156780",
@@ -572,6 +572,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "156794",
+    "name": "Baby Bjorn Bouncer Bliss Mesh",
+    "description": "Item was purchased in 2018 but still in very good condition. Includes a travel bag and an additional seat cover.\n\nSpecifications:\nWeight Capicity: 3.5 kg to 13 kg\nSuitable From: birth to 2 years\nProduct Weight: 2.1 kg\nDimensions (open) : 56 x 79 x 39 cm\nDimensions (folded): 11 x 89 x 39 cm",
+    "location": null,
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "Dimensions (folded): 11 x 89 x 39 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "156748",
     "name": "Baby and toddler toys",
     "description": "Baby and toddler toys - cloth books, musical instrument, teething etc. all in good condition",
@@ -713,6 +724,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "156795",
+    "name": "Horrible Science books",
+    "description": "Horrible Science series. Simple readers for primary school students. Unfortunately, books are yellowed due to storage.",
+    "location": "Punggol",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "156164",
@@ -933,6 +955,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156796",
+    "name": "Minecraft books",
+    "description": "Minecraft books for primary school students. Unfortunately, books are yellowed due to storage.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156788",
