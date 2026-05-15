@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156619",
-    "name": "BNWT Sports leggings",
-    "description": "Blessing a BNWT sports leggings size L.",
-    "location": null,
-    "validTill": "16 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "156616",
     "name": "BN Thailand Tee Shirt",
     "description": "Blessing a brand new gift from Thailand.",
@@ -187,6 +176,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156830",
+    "name": "Grey sofa bed",
+    "description": "Used sofa bed in usable condition. Some wear and tear: seat slightly sunken, back cover torn, one leg bracket loose but stable.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 May 2026",
+    "ageInYears": 4,
+    "dimensions": "200 cm by 80 cm by 90 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156827",
     "name": "Burgundy color, fabric Recliner single sofa - lean back and relax",
     "description": "Burgendy lean back and relax recliner single seat sofa",
@@ -259,17 +259,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "13 Jun 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156732",
-    "name": "2 dining chairs (velvet and metal)",
-    "description": "2 Dining Chairs (velvet and metal), lightly used",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "16 May 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -414,39 +403,6 @@
     "validTill": "30 May 2026",
     "ageInYears": 4,
     "dimensions": "40cmL X 40cmW X 3cmH",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156380",
-    "name": "office/study desk/table with chair",
-    "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "16 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156379",
-    "name": "dressing table with mirror",
-    "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "16 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156378",
-    "name": "Wooden Dinning table ( no chairs)",
-    "description": "Hi, available from now only until 16 May. My sincere apologies, I will not be able to pay for the collection fee. Kindly arrange someone to cover the fee for this.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "16 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -891,15 +847,26 @@
     "category": "Medical Aids"
   },
   {
-    "id": "155863",
-    "name": "Suction Catheter",
-    "description": "suction catheter",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "16 May 2026",
-    "ageInYears": 1,
+    "id": "156829",
+    "name": "Wheelchair",
+    "description": "Wheelchair",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Jun 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "156828",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed c/w air mattress and pump, back support and waterproof pillow.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "14 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "210cm x 100cm x 95cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "156693",
