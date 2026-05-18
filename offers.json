@@ -66,6 +66,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156863",
+    "name": "Green electronic elderly chair",
+    "description": "Electronic elderly chair",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "H 4ft X L 3ftx W 2.5ft",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156662",
     "name": "Desk fan",
     "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
@@ -154,6 +165,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156909",
+    "name": "Extra Rollaway Bed",
+    "description": "Brand New Hotel Grade Rollaway Beds with Quilted Mattress - 10units",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 May 2026",
+    "ageInYears": 1,
+    "dimensions": "D60 x W100 x H206cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156872",
+    "name": "Foldable bed",
+    "description": "Foldable single bed",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "31 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156835",
     "name": "Extendable Lazy Chair",
     "description": "Used only 1 month. Good for hot weather as very ventilated.",
@@ -171,17 +204,6 @@
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "15 Jun 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156831",
-    "name": "Sofa",
-    "description": "Fabric 3 seater sofa",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 May 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -528,23 +550,67 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156841",
-    "name": "Toys",
-    "description": "Several toys for toddlers and young kids. Plastic, wooden, cars, games, walkers, trampoline. \n\nPlease contact and indicate preferences. Pictures were too large to upload to your system. Please email me for details.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "16 Jun 2026",
+    "id": "156910",
+    "name": "Applecrumby® SlimDry⁺ Diapers size XL",
+    "description": "Giving Applecrumby® SlimDry⁺ Diapers mini packs (pack of 10 diapers) in xl.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Jun 2026",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
   {
-    "id": "156834",
-    "name": "Baby stroller foldable",
-    "description": "Foldable baby stroller. Quinny Zapp brand/model. More than 4yrs old but in good condition. Photo is not of actual item but the same model.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "15 Jun 2026",
+    "id": "156888",
+    "name": "Children's table and chairs",
+    "description": "Ikea children's table and chairs. My daughter is 6 and starting to outgrow.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "30 May 2026",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156882",
+    "name": "0-6 month baby clothes",
+    "description": "Huge bag of baby clothes, 0-6 months. Includes short sleeved and long sleeved vests, t shirts, sleep suit, hats, shorts, large muslin and a stretchy wrap baby carrier. Some soft booties not shown in photo also included.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156864",
+    "name": "Infant Formula Milk",
+    "description": "Dumex Dupro Infant Formula Milk for Newborns (5 packs)",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156854",
+    "name": "Baby cot",
+    "description": "Baby cot in good condition with slight used marks.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "156841",
+    "name": "Toys",
+    "description": "Several toys for toddlers and young kids. Plastic, wooden, cars, games, walkers, trampoline. \n\nPlease contact and indicate preferences. Pictures were too large to upload to your system. Please email me for details.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "16 Jun 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -737,15 +803,15 @@
     "category": "Learning Aids"
   },
   {
-    "id": "155940",
-    "name": "Electric arc sphere",
-    "description": "///",
-    "location": null,
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
+    "id": "156871",
+    "name": "Fleet / Centa Enema",
+    "description": "Enemas\nBrand Fleet and Centa\nMultiple bottles available.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 May 2026",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
+    "category": "Medical Aids"
   },
   {
     "id": "156852",
@@ -869,17 +935,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "156682",
-    "name": "Geriatric Chair - Vermeiren Normandie",
-    "description": "Geriatric chair lightly used. Has tray table and arm rest can be lowered.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "120cm x 69cm x 87cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "156645",
     "name": "Medicine organiser",
     "description": "Well-used medicine organiser, 7 days, 4 compartments per day.",
@@ -935,34 +990,23 @@
     "category": "Medical Aids"
   },
   {
-    "id": "155945",
-    "name": "Lancets",
-    "description": "Lancets",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
+    "id": "156893",
+    "name": "Handicapped shower commode (1 no)",
+    "description": "Stainless steel handicapped commode",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": "Shown in the photos",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
+    "category": "Mobility Aids"
   },
   {
-    "id": "156853",
+    "id": "156906",
     "name": "Saction tilt and recline pushchair",
     "description": "Saction tilt and recline pushchair in good condition",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "16 Jun 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156851",
-    "name": "Wheelchair",
-    "description": "Wheelchair in good condition",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "16 Jun 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -990,24 +1034,13 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156829",
+    "id": "156907",
     "name": "Wheelchair",
     "description": "Wheelchair",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "14 Jun 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156828",
-    "name": "Hospital Bed",
-    "description": "Hospital Bed c/w air mattress and pump, back support and waterproof pillow.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "14 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "210cm x 100cm x 95cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -1089,12 +1122,12 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156845",
-    "name": "Assure oral swab stick",
-    "description": "Expire 2030",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "16 Jun 2026",
-    "ageInYears": 1,
+    "id": "156894",
+    "name": "Hospital bed",
+    "description": "Hospital bed",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
@@ -1116,83 +1149,6 @@
     "description": "15bottles",
     "location": null,
     "validTill": "16 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156691",
-    "name": "Queen Bedframe",
-    "description": "Queen bedframe for self-collection",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156690",
-    "name": "Storage Cabinet",
-    "description": "Self-collection. Ikea cabinet with inserts.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156689",
-    "name": "Table and office chair",
-    "description": "Table and office chair, Self-collection",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156688",
-    "name": "Table",
-    "description": "Study Table. Self-collection",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156637",
-    "name": "Skechers ladies sneakers",
-    "description": "Skechers elite female sneakers with fleece lined. Size 37.5(EUR), 4.5(UK), 24.5 (JPN).",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "19 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156636",
-    "name": "Ladies adidas shoes",
-    "description": "Slightly worn adidas female shoes. Size 23 (JPN), 4.5(UK), 37.5(FR), 6(US).",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "19 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "156635",
-    "name": "Ladies slingback short heels",
-    "description": "Wore once. Size 36. DMK brand",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "19 May 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1238,39 +1194,6 @@
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "24 May 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "155947",
-    "name": "Motorcycle helmet",
-    "description": "Good quality Nolan motorcycle helmet. Light usage and in good condition.\nOlder than 4 yrs.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "19 May 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "155942",
-    "name": "Sun glasses",
-    "description": "///",
-    "location": null,
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "155941",
-    "name": "Piggy banks",
-    "description": "5 pcs to be donated.",
-    "location": null,
-    "validTill": "19 May 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
