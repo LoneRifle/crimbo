@@ -187,6 +187,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156948",
+    "name": "3 seater sofa x2  - for self collection",
+    "description": "Donating working condition sofa made of water hyacinth on teak. Heavy. Bought from Outdoor Living. 2 separate sofas. Please collect it yourself at your own cost from Kovan condo.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156925",
     "name": "Lazy chair",
     "description": "Good for hot weather, foldable, easy to keep, washable .",
@@ -539,17 +550,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156307",
-    "name": "Dark Wood Shelves IKEA TROFAST",
-    "description": "IKEA Trofast Shelf can be used horizontally (wide) or vertical (tall). Some water damage on one side but doesn't affect use.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "27 May 2026",
-    "ageInYears": 4,
-    "dimensions": "L: 150 W: 40 H: 79",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156305",
     "name": "IKEA kids swivel study chair",
     "description": "IKEA ORFJALL Kids desk swivel chair black",
@@ -614,17 +614,6 @@
     "dimensions": "50x50x120",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "156910",
-    "name": "Applecrumby® SlimDry⁺ Diapers size XL",
-    "description": "Giving Applecrumby® SlimDry⁺ Diapers mini packs (pack of 10 diapers) in xl.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "17 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "156888",
@@ -858,6 +847,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "156976",
+    "name": "Hospital bed",
+    "description": "Nice hospital bed with air mattress",
+    "location": null,
+    "validTill": "18 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "156871",
     "name": "Fleet / Centa Enema",
     "description": "Enemas\nBrand Fleet and Centa\nMultiple bottles available.",
@@ -883,7 +883,7 @@
     "id": "156850",
     "name": "Dopezil 10mg",
     "description": "6 boxes and some loose one expire Dec 2026",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -894,7 +894,7 @@
     "id": "156849",
     "name": "Curam 625mg",
     "description": "20 tablets",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -905,7 +905,7 @@
     "id": "156848",
     "name": "Atorvastatin",
     "description": "Atorvastatin 40mg expiring Dec 2026",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -916,7 +916,7 @@
     "id": "156847",
     "name": "Quetiapine",
     "description": "180 tablets expiring 11 Nov 2026",
-    "location": null,
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -927,7 +927,7 @@
     "id": "156846",
     "name": "Spiriva Respimat",
     "description": "12 bottles expiring Jan 2027 and 3 bottles expiring Feb 2027",
-    "location": null,
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -938,7 +938,7 @@
     "id": "156844",
     "name": "Salbuair cfc-free inhaler",
     "description": "11 boxes expire in 10 oct, 4 boxes expire 11 Nov and 2 boxes expire in Dec",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -949,7 +949,7 @@
     "id": "156843",
     "name": "Duphalac",
     "description": "expire in 2028",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -960,18 +960,7 @@
     "id": "156842",
     "name": "Circadian 2mg",
     "description": "5 boxes of circadian 2mg\n(Expire 2029)",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "16 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "156840",
-    "name": "Thickener",
-    "description": "One expire in Aug and the other in oct",
-    "location": null,
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -1045,6 +1034,61 @@
     "category": "Medical Aids"
   },
   {
+    "id": "156981",
+    "name": "Walking stick",
+    "description": "Walking stick in good condition",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "18 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "156980",
+    "name": "Walking frame, foldable",
+    "description": "Un-used foldable walking frame",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "18 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "156979",
+    "name": "Commode",
+    "description": "Un-used commode",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "18 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "156975",
+    "name": "Geriatric chair",
+    "description": "Nil",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "156950",
+    "name": "Walking frame",
+    "description": "Nil",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "156893",
     "name": "Handicapped shower commode (1 no)",
     "description": "Stainless steel handicapped commode",
@@ -1067,10 +1111,10 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156839",
-    "name": "Air mattress",
-    "description": "Recent purchase",
-    "location": null,
+    "id": "156838",
+    "name": "Hospital bed",
+    "description": "Hospital bed",
+    "location": "680159",
     "validTill": "16 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -1078,13 +1122,13 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156838",
-    "name": "Hospital bed",
-    "description": "Hospital bed",
-    "location": null,
-    "validTill": "16 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
+    "id": "156974",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed c/w air mattress and pump, back support and waterproof pillow.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "14 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "210cm x 100cm x 95cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -1166,7 +1210,7 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156923",
+    "id": "156972",
     "name": "Cabinet",
     "description": "- IKEA white wooden cabinet\n- Well used but still in very good condition\n- Multiple compartments and shelves\n- middle shelf has a slim top drawer for smaller items.\n- Ideal for home organization\n- Minor wear and tear present\n- 147cm length, 49cm depth,  88cm height",
     "location": "Pasir Ris, Simei, Tampines",
