@@ -66,6 +66,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "156914",
+    "name": "Washing Machine",
+    "description": "Front-load washing machine for donation. Arrange own collection.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "156913",
+    "name": "Medium Fridge",
+    "description": "Hitachi medium-size fridge for donation. Arrange own pick up on Saturday",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "156863",
     "name": "Green electronic elderly chair",
     "description": "Electronic elderly chair",
@@ -165,6 +187,61 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "156925",
+    "name": "Lazy chair",
+    "description": "Good for hot weather, foldable, easy to keep, washable .",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "18 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156921",
+    "name": "King-size bed with storage",
+    "description": "Very good quality King-size bed with storage. Pls make own pick up arrangements",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156917",
+    "name": "Sofa",
+    "description": "Arrange own collection",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156916",
+    "name": "Sofa Bed - Queen Size",
+    "description": "Arrange own collection. Barely used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156915",
+    "name": "Foldable Bed",
+    "description": "blue velvet sofa bed. 39.5 inch (L) x 22.5 inch (H).",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156909",
     "name": "Extra Rollaway Bed",
     "description": "Brand New Hotel Grade Rollaway Beds with Quilted Mattress - 10units",
@@ -172,17 +249,6 @@
     "validTill": "31 May 2026",
     "ageInYears": 1,
     "dimensions": "D60 x W100 x H206cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156872",
-    "name": "Foldable bed",
-    "description": "Foldable single bed",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "31 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -660,17 +726,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "156648",
-    "name": "PUMA baby boy shoes",
-    "description": "Brand new baby boy shoes. puma BMW brand. Feet size max 15.5cm, but it is better for smaller feet. Would fit 1 to 2 year old. Hope to give this as a gift to a baby.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "09 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "156634",
     "name": "Bonbijou S3 playpen baby cot",
     "description": "Bonbijou S3 playpen baby cot\n\n(Do not request if you can't do self-collect with no fee - this playpen is heavy and I can't carry myself to take train and send to you.)\n\n(We are working parents or if you tends not to reply then we would appreciate if you kindly skip our post. Only contact through email or WhatsApp - NO PHONE CALL. Thank you.)",
@@ -1034,17 +1089,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156907",
-    "name": "Wheelchair",
-    "description": "Wheelchair",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "14 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "156693",
     "name": "Electrical hospital bed",
     "description": "Good condition. No expiry date for item",
@@ -1120,6 +1164,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "156923",
+    "name": "Cabinet",
+    "description": "- IKEA white wooden cabinet\n- Well used but still in very good condition\n- Multiple compartments and shelves\n- middle shelf has a slim top drawer for smaller items.\n- Ideal for home organization\n- Minor wear and tear present\n- 147cm length, 49cm depth,  88cm height",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "156920",
+    "name": "TV Console",
+    "description": "TV Console only. Please make own pick up arrangements",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "156919",
+    "name": "Vanity Table",
+    "description": "Vanity table. Arrange own collection",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "156918",
+    "name": "Shoe Rack (2)",
+    "description": "2 shoe racks. Arrange own collection",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156894",
