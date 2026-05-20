@@ -187,6 +187,127 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "157033",
+    "name": "Dinner Table",
+    "description": "Very new Dinner table",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 May 2026",
+    "ageInYears": 4,
+    "dimensions": "1.5m x 0.88m x 176cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157032",
+    "name": "Dinner Table",
+    "description": "Living Room Cabinet/TV Console",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 May 2026",
+    "ageInYears": 2,
+    "dimensions": "85cm x 40cm x 1,6m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157031",
+    "name": "Queen size bed frame and mattress",
+    "description": "The bed is more than 4 years old, but it is very well made and still in good, solid condition. The mattress is the hard type, which may be good for back support. The item is in Jurong area.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157030",
+    "name": "Pillow",
+    "description": "new memory foam pillow\nclean, unused",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157028",
+    "name": "IKEA kids wardrobe",
+    "description": "IKEA kids wardrobe",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "01 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157027",
+    "name": "TV Console",
+    "description": "With 2 swing doors and 2 compartments, the Aglaia TV Console provides ample storage capacity for your media necessities and keeps your living area organised and clutter-free. With a timeless elegant aesthetic, and natural wood detailing, its simple yet tasteful design fits among most interior styles and will anchor your room. \n\nProduct Information\n\nMDF wood with laminate finish\nOpen compartments for placement of media devices\n2 X enclosed storage to keep living area clutter-free\nElevated legs for ease of cleaning floor areas\nX1 35mm Cable hole",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 May 2026",
+    "ageInYears": 1,
+    "dimensions": "158.4cmx39.5cmx47cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157024",
+    "name": "Senior’s reclining chair",
+    "description": "Brown reclining chair for seniors",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157023",
+    "name": "Hospital bed",
+    "description": "Hospital bed was purchased in Jan 2026",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157002",
+    "name": "Single mattress with bed frame",
+    "description": "Single mattress with bed frame",
+    "location": null,
+    "validTill": "19 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156998",
+    "name": "Single mattress",
+    "description": "Single mattress",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "156993",
+    "name": "Adjustable length child bed frame",
+    "description": "child's bed frame that has adjustable length.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "156987",
     "name": "Dining Table (120cm)",
     "description": "Used for about 3 years but it is in as-good-as-new condition, i.e. no defects.",
@@ -330,18 +451,18 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156801",
-    "name": "Ikea Sofa",
-    "description": "Ikea sofa witb changeable covers. Slightly squeaky but very much still usable. Comes with another set of washable covers that is exactly same as what is on the sofa now. There is also two additional cover sets.\n\nItem is available till 18.05.2026 only.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "24 May 2026",
+    "id": "157013",
+    "name": "1 plus 4 Dining set",
+    "description": "The whole dining table is in tip top condition. There are 4 chairs (1 chairs fabric slightly torn) dining set from CELINI",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "15 Jun 2026",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "180/90/75",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "156793",
+    "id": "157014",
     "name": "1 plus 4 Dining set",
     "description": "The whole dining table is in tip top condition. There are 4 chairs (1 chairs fabric slightly torn) dining set from CELINI",
     "location": "Seletar, Yio Chu Kang",
@@ -605,6 +726,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "157016",
+    "name": "Philips Avent Sterlizer",
+    "description": "Philips Avent Sterlizer",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "157012",
+    "name": "kids toys",
+    "description": "Several boxes of children's toys - from finger paint, to baby and toddler toys, to puzzles. Several items can be older than 4 years though.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "156888",
     "name": "Children's table and chairs",
     "description": "Ikea children's table and chairs. My daughter is 6 and starting to outgrow.",
@@ -781,6 +924,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "157018",
+    "name": "Kettle",
+    "description": "Still can used",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "19 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "156328",
     "name": "Mini cooker",
     "description": "Used less than 5x so considered still new. Can use to steam, hotpot, fry and cook soup. Enough for 1-2 Pax depending. Can cook rice also but have to read own instructions from website. \n\nPrefer self collection from needy",
@@ -823,6 +977,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "157029",
+    "name": "oxygen concentrator",
+    "description": "oxygen concentrator",
+    "location": null,
+    "validTill": "02 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "156976",
@@ -946,17 +1111,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "156758",
-    "name": "3M cream/cleanser/oxygen cannula/humidifer bottle",
-    "description": "- oxygen nasal cannula \n   3meter x 5 (exp 2030)\n   4 meter x 8 (exp 2027)\n- humidifier bottle x 3\n- 3M cavilon barrier cream x 4 (exp 2027)\n- 3M cavilon no rinse skin cleanser x 4",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "156645",
     "name": "Medicine organiser",
     "description": "Well-used medicine organiser, 7 days, 4 compartments per day.",
@@ -1012,34 +1166,12 @@
     "category": "Medical Aids"
   },
   {
-    "id": "156981",
-    "name": "Walking stick",
-    "description": "Walking stick in good condition",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "18 Jun 2026",
+    "id": "157010",
+    "name": "Maroon reclining chair, Como",
+    "description": "Reclining chair for elderly\nComo for elderly bathing aid",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "19 Jun 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156980",
-    "name": "Walking frame, foldable",
-    "description": "Un-used foldable walking frame",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "18 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156979",
-    "name": "Commode",
-    "description": "Un-used commode",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "18 Jun 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -1078,17 +1210,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "156906",
-    "name": "Saction tilt and recline pushchair",
-    "description": "Saction tilt and recline pushchair in good condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "16 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "156838",
     "name": "Hospital bed",
     "description": "Hospital bed",
@@ -1117,17 +1238,6 @@
     "location": null,
     "validTill": "11 Jun 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156631",
-    "name": "Quad stick, walking stick",
-    "description": "User admitted to dementia residential care facility.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "31 May 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
