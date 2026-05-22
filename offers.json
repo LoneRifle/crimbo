@@ -66,39 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "157065",
-    "name": "SMART TV 43 inch",
-    "description": "The TV is only available from the 10th June!!",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "14 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157064",
-    "name": "SMART TV 43 inch",
-    "description": "The TV is only available from the 10th June!!",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "14 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157060",
-    "name": "3 door Refrigerator",
-    "description": "NATIONAL NR-C432D \n346 L \n3 doors\nFridge locks",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "62 Wx 68 Dx 172 H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "157059",
     "name": "Samsung Refrigerator 255L",
     "description": "Fridge to give away \nSAMSUNG 255L 2 DOOR FRIDGE ALL-AROUND RT25FARADSA/SS (TOP MOUNT FREEZER) (SILVER)\nSKU, looks a bit worn down but functions well, lightly used. \nFridge locks installed can be removed",
@@ -198,6 +165,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "157069",
+    "name": "Pullout Bed",
+    "description": "Preloved super single bed with trundle. In good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "157033",
     "name": "Dinner Table",
     "description": "Very new Dinner table",
@@ -226,17 +204,6 @@
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "19 Jun 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157028",
-    "name": "IKEA kids wardrobe",
-    "description": "IKEA kids wardrobe",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "01 Jun 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -638,6 +605,39 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "157082",
+    "name": "Joie Mimzy Recline High Chair",
+    "description": "Hand-me-down chair that is still safe to use. Comes with infant insert and tray.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "157081",
+    "name": "New Philips Avent Steam Sterilizer",
+    "description": "Very new steam sterilizer. Only used once to test.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "157077",
+    "name": "Carrera Racing Track",
+    "description": "It's a fun race track for older children?young adults to build and play! It's not didgital, but good old manual! We have 4 big boxes full of tracks, 4 cars and lots of accessoires. Most of them have never been used. Kids can start with a smaller track and then make it longer, add curves etc. It's lots of fun and much better than sitting behind a device...",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "15 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "huge",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "157016",
     "name": "Philips Avent Sterlizer",
     "description": "Philips Avent Sterlizer",
@@ -869,17 +869,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "157029",
-    "name": "oxygen concentrator",
-    "description": "oxygen concentrator",
-    "location": null,
-    "validTill": "02 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "156976",
     "name": "Hospital bed",
     "description": "Nice hospital bed with air mattress",
@@ -1056,11 +1045,44 @@
     "category": "Medical Aids"
   },
   {
-    "id": "157058",
+    "id": "157075",
     "name": "Eldercare aids",
-    "description": "All pre loved items in good condition and less than a year old.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "20 Jun 2026",
+    "description": "preloved table for bed feeding",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157068",
+    "name": "Eldercare aids",
+    "description": "Shower chair in good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157067",
+    "name": "Eldercare aids",
+    "description": "Preloved but good condition",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157066",
+    "name": "Eldercare",
+    "description": "Brand new Only used once as shower chair. Commode hasn't been used",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "21 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1175,6 +1197,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157070",
+    "name": "Building block",
+    "description": "Building block for children to adult. Please WhatsApp/sms asap",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "156894",
