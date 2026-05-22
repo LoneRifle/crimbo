@@ -45,6 +45,39 @@
     }
   },
   {
+    "id": "157102",
+    "category": "Electrical Home Appliances",
+    "name": "Fan",
+    "description": "Single mother with a school-going son recently transitioned from Transitional Shelter to a HDB rental flat in Sembawang following divorce proceedings. Client is currently unemployed and actively seeking employment. Family requires essential household items (e.g. refrigerator, washing machine, fan, furniture) as the flat is currently unfurnished and they are unable to move in fully.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Vienne Chiam",
+      "email": "viennechiam@carecorner.org.sg",
+      "phone": [
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "156662",
+          "name": "Desk fan",
+          "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "31 May 2026",
+          "ageInYears": 4,
+          "dimensions": "see picture",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157084",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -138,6 +171,40 @@
           "dimensions": "56 W x 60 D  x 162H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157108",
+    "category": "Home Furnishing",
+    "name": "Single Bed with Frame",
+    "description": "Family of 3 looking for a single bed for the 9 year old boy, family recently saved up enough to move out of public rental and hopes that somebody can help to support them by providing a bed for their child, they are currently sleeping together in the same bed. Please provide delivery to family as well, located at Bukit Batok",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Esther Tan",
+      "email": "tan_ziji@msf.gov.sg",
+      "phone": [
+        "67087032",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157002",
+          "name": "Single mattress with bed frame",
+          "description": "Single mattress with bed frame",
+          "location": null,
+          "validTill": "19 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
