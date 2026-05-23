@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "157124",
+    "name": "Microwave Powerpac",
+    "description": "Microwave Brand: Powerpac",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 May 2026",
+    "ageInYears": 2,
+    "dimensions": "451mmL332mmD258mmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157059",
     "name": "Samsung Refrigerator 255L",
     "description": "Fridge to give away \nSAMSUNG 255L 2 DOOR FRIDGE ALL-AROUND RT25FARADSA/SS (TOP MOUNT FREEZER) (SILVER)\nSKU, looks a bit worn down but functions well, lightly used. \nFridge locks installed can be removed",
@@ -119,6 +130,72 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "157123",
+    "name": "Side table",
+    "description": "Study side table from Ikea, fairly good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 May 2026",
+    "ageInYears": 4,
+    "dimensions": "40cmL by 40cmD",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157122",
+    "name": "side table",
+    "description": "Bed side table with 2 3 drawers, 3 modes of light with charging glass top, china plug, just have to buy a plug converter. Good condition, except that the first drawer handle paint came off",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 May 2026",
+    "ageInYears": 2,
+    "dimensions": "40cmL by 40cmD",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157121",
+    "name": "Dining Table with 4 Chairs",
+    "description": "Very good condition, hardly used except that the chairs legs have some dog bite marks",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 May 2026",
+    "ageInYears": 2,
+    "dimensions": "1.4mL by 0.8mW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157120",
+    "name": "Study table",
+    "description": "White Study table from Ikea, manual adjustable height, in very good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 May 2026",
+    "ageInYears": 4,
+    "dimensions": "1.8mL 0.8mD",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157117",
+    "name": "Air Mattress system",
+    "description": "Air mattress syste.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157114",
+    "name": "Hospital bed",
+    "description": "Electric Hospital bed",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "157113",
@@ -803,6 +880,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "157118",
+    "name": "Phlegm suction unit",
+    "description": "Phlegm suction unit",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "156976",
     "name": "Hospital bed",
     "description": "Nice hospital bed with air mattress",
@@ -979,6 +1067,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "157115",
+    "name": "Commode",
+    "description": "Commode",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "157098",
     "name": "Wheel Chair",
     "description": "Looking to bless a brand new wheelchair. To order and deliver to your Center or beneficiary house.\n\nhttps://sg.shp.ee/6zEx74fS",
@@ -1029,17 +1128,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "21 Jun 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157010",
-    "name": "Maroon reclining chair, Como",
-    "description": "Reclining chair for elderly\nComo for elderly bathing aid",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Jun 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -1142,6 +1230,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157125",
+    "name": "Standing Mirror",
+    "description": "Self Standing Mirror",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 May 2026",
+    "ageInYears": 2,
+    "dimensions": "1.8MH 0.8mW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "157119",
+    "name": "medicine",
+    "description": "Myfortic 180mg\nCerticon 0.25mg\nCerticon 0.75mg\nCalcitriol 0.25mg",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "157116",
+    "name": "Adult diapers",
+    "description": "16 packets",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157070",
