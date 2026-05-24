@@ -45,17 +45,51 @@
     }
   },
   {
-    "id": "157102",
-    "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Single mother with a school-going son recently transitioned from Transitional Shelter to a HDB rental flat in Sembawang following divorce proceedings. Client is currently unemployed and actively seeking employment. Family requires essential household items (e.g. refrigerator, washing machine, fan, furniture) as the flat is currently unfurnished and they are unable to move in fully.",
+    "id": "156730",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Mother is currently unemployed and have no income, while husband have an unstable job as a grab driver. They have 3 young children (5y/o, 3 y/o, and 8 mths old) and faces financial difficulties. Mother is also diagnosed with mental health issues (anxiety & depression) which adds on to caregiver stress. The family is in urgent need of diapers (Any brand, size S and M) for her 8 months old and 3 years old child.",
     "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Toa Payoh",
-      "name": "Vienne Chiam",
-      "email": "viennechiam@carecorner.org.sg",
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
       "phone": [
-        "63561622"
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157094",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition. Client is unemployed, living in a 1-room rental flat and without any family support. Her rental flat is without basic appliances and hopes for a television.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nurul Huda Maarop",
+      "email": "nurulhuda@ainsociety.org.sg",
+      "phone": [
+        "68486033",
+        "68485166"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -63,13 +97,47 @@
     "matches": {
       "passiton": [
         {
-          "id": "156662",
-          "name": "Desk fan",
-          "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "31 May 2026",
-          "ageInYears": 4,
-          "dimensions": "see picture",
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155882",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Family of 5 lives in a 2 room HDB flat. The family is requesting for a television to enhance their home environment and provide educational and quality time for the household.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Alycia Chua",
+      "email": "alycia_chua@msf.gov.sg",
+      "phone": [
+        "63540134",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -101,6 +169,73 @@
           "description": "Well-used but still in great working condition. Non-Halal",
           "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
           "validTill": "31 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156875",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Family of 3 staying in a HDB rental flat. Hb is 70 years old and is the sole breadwinner. Ct is unable to work due to health issues. Tv is used family time.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156858",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client and her adult daughter is living together. Client is unemployed due to medical reasons and both are dependent on Comcare financial assistance for their daily sustenance. The television will help client in coping with her medical conditions.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
           "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -177,6 +312,140 @@
     }
   },
   {
+    "id": "156617",
+    "category": "Electrical Home Appliances",
+    "name": "television",
+    "description": "Family of 3, with one young child requires a TV as their TV broke down. Father is the sole breadwinner.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "154345",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Young family of 5 are lower resourced and dependent on father for family necessities. They have recently disposed of their television as it was spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society - Yishun FSC",
+      "name": "Faith Felice Chiam",
+      "email": "fchiam@childrensociety.org.sg",
+      "phone": [
+        "67537331"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156374",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client has comleted his program at HCSA Highpoint and is getting ready to be discharge. As he is still under probation, he has requested for a smart TV to enjoy watching shows at night.",
+    "specifications": "50 or 55 inch smart TV",
+    "contact": {
+      "org": "HCSA Highpoint",
+      "name": "Stephen Ong",
+      "email": "stephen_ong@hcsa.org.sg",
+      "phone": [
+        "80207521",
+        "64402444"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "155002",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Clt, elderly male, had recently refurnished his home with assistance of his niece, who had decluttered his home. He hopes to have a replacement tv for his current one, that is spoiled. A small on to put on top of a cabinet in his living room.",
+    "specifications": "40inch",
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Ong Qiu Lin",
+      "email": "qiulin_ong@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157133",
+          "name": "40\" Television",
+          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 May 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "156736",
     "category": "Home Furnishing",
     "name": "Single-size Mattress",
@@ -204,6 +473,108 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156339",
+    "category": "Others",
+    "name": "Adult diapers",
+    "description": "Client is a senior caregiver to her adult child with special needs. She is unemployed and is the main caregiver to her child and also husband with a history of stroke and heart conditions. With financial restrains, the family will benefit greatly from a sponsor for her child's diapers as they are a regular expense.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Szandra Law",
+      "email": "szandralaw@fycs.org",
+      "phone": [
+        "96421760",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Apr 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156587",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is a stroke survivor, living in a 2-room HDB rental flat. Her husband is the sole breadwinner of the family, and their 3 adult children have moved out, with their individual commitments and families. \n\nThe client is not drinking sufficient water as she avoids going to the toilet, due to mobility issues. \n\nThe adult diapers will be helpful to allow her to ensure adequate hydration. \n\nShe needs size XL, pants, adult diapers.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156584",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is widowed for many years and single-handedly raised up 3 children. She lives in a one-room HDB rental flat with her second son who is struggling financially. \n\nThe client needs adult diapers as she has urine incontinence and refrains from drinking water to avoid going to the toilet. \n\nHaving adult diapers will be very helpful for the elderly client, to ensure hydration and to alleviate her concern of frequent toileting.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
