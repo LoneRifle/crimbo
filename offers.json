@@ -902,6 +902,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "157128",
+    "name": "Hospital grade disposable urinals",
+    "description": "1 carton of disposable urinals",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "23 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "157118",
     "name": "Phlegm suction unit",
     "description": "Phlegm suction unit",
@@ -1087,6 +1098,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "157130",
+    "name": "Hospital Bed",
+    "description": "Less than 3 months old electric hospital bed in good condition.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "23 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "212cm x 110.5cm x 41-69cm H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157129",
+    "name": "Electric Wheelchair",
+    "description": "Bought less than 1 year. Wheelchair is in very condition, clean and maintained well.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "23 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "157115",
