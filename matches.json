@@ -1,50 +1,5 @@
 [
   {
-    "id": "156911",
-    "category": "Infant and Children Items",
-    "name": "baby cot",
-    "description": "The client is a young single mother who will be delivering anytime. She has no income at the moment due to pregnancy, and there is also minimal help from the family that is also struggling financially. She is appreciative if she can have a baby cot for her baby.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "156854",
-          "name": "Baby cot",
-          "description": "Baby cot in good condition with slight used marks.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "17 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "156634",
-          "name": "Bonbijou S3 playpen baby cot",
-          "description": "Bonbijou S3 playpen baby cot\n\n(Do not request if you can't do self-collect with no fee - this playpen is heavy and I can't carry myself to take train and send to you.)\n\n(We are working parents or if you tends not to reply then we would appreciate if you kindly skip our post. Only contact through email or WhatsApp - NO PHONE CALL. Thank you.)",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "31 May 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "156730",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -78,40 +33,6 @@
     }
   },
   {
-    "id": "157094",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition. Client is unemployed, living in a 1-room rental flat and without any family support. Her rental flat is without basic appliances and hopes for a television.",
-    "specifications": null,
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nurul Huda Maarop",
-      "email": "nurulhuda@ainsociety.org.sg",
-      "phone": [
-        "68486033",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157133",
-          "name": "40\" Television",
-          "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 May 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "155882",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -138,6 +59,40 @@
           "validTill": "30 May 2026",
           "ageInYears": 3,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156968",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum",
+    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhoea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157140",
+          "name": "Ecovacs Vacuum Robot",
+          "description": "coes with extra accessories. \nOmi X2 is the model.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "15 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": "44.37cm x 39.4cm x 52.75cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
