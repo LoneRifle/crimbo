@@ -132,6 +132,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "157237",
+    "name": "Dining set",
+    "description": "Oak colour dining table with 4 chairs",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "02 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "140cm x 80cm x 74cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157235",
+    "name": "Brimmes Ikea Day Bed",
+    "description": "Brimnes Day bed which converts into a double bed. Mattresses are available. Hardly used, bed comes with storage so perfect for smallish rooms and those with children",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "12 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "200 x 80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "157218",
     "name": "Dinning table",
     "description": "Its a 4seater dinning table but 6 persons can also eat. its like new. hardly used.",
@@ -183,17 +205,6 @@
     "validTill": "28 May 2026",
     "ageInYears": 4,
     "dimensions": "1.8mL 0.8mD",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157117",
-    "name": "Air Mattress system",
-    "description": "Air mattress syste.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "22 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "NA",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -528,39 +539,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156308",
-    "name": "IKEA Trofast Single Storage Shelf",
-    "description": "Single IKEA Trofast Storage Shelf (no shelf containers included) can be easily purchased from IKEA",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "27 May 2026",
-    "ageInYears": 4,
-    "dimensions": "H: 94 D: 30 W: 47",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156305",
-    "name": "IKEA kids swivel study chair",
-    "description": "IKEA ORFJALL Kids desk swivel chair black",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "27 May 2026",
-    "ageInYears": 4,
-    "dimensions": "Width: 53 cm Depth: 53 cm Max. height: 83 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "156304",
-    "name": "Ikea URBAN Tall Chair x 3 pieces",
-    "description": "IKEA URBAN Chair x 3 pieces",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "27 May 2026",
-    "ageInYears": 4,
-    "dimensions": "Width: 45 cm Depth: 48 cm Height: 79 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157185",
     "name": "Toddler tricycle with pedals",
     "description": "Happy Baby tricycle with pedals.\n\nPlastic frame. The music function no longer works but otherwise in great working condition.\n\nThe are minor aesthetic flaws on the wheels, see photos.\n\nPassing it on as my daughter has outgrown it.",
@@ -779,17 +757,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "157224",
-    "name": "Ultraviolet Multifunctional Disinfector",
-    "description": "Free 50-60 boxes of disinfector for hp, masks, socks, toothbrushes, keys, jewellery, underwear, headsets, watches etc",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "25 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": "26 x 13 x 5.5 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "156795",
@@ -1056,13 +1023,13 @@
     "category": "Medical Aids"
   },
   {
-    "id": "157198",
-    "name": "Elderly shower safety bath Chair with Backrest and Handles Safety Anti-slip Shower Chair",
-    "description": "Suitable for seniors, pregnant women or\n\npeople with difficulty standing for long periods\n\nMaterial - Aluminum Alloy\nWeight - 3.3kg\nWeight Capacity - 150kg",
-    "location": "Changi, Flora, Loyang",
+    "id": "157238",
+    "name": "Wheelchair",
+    "description": "Used abt 2 months. Working well, with leg support.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "25 Jun 2026",
     "ageInYears": 1,
-    "dimensions": "41cm Width x 49cm Length x 68~81cm Height",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
