@@ -1,5 +1,39 @@
 [
   {
+    "id": "157462",
+    "category": "Infant and Children Items",
+    "name": "Baby cot",
+    "description": "Client is currently pregnant and is expected to delivery in one month's time. Client's husband faces challenges securing a full-time employment, hence the overall income to the household is low, in relative to the large household size (the couple has 3 young children). Hence, securing of baby essential items will help to alleviate the family's financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "04 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157463",
+          "name": "Baby cot",
+          "description": "Baby cot in good condition with slight used marks.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "17 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157264",
     "category": "Infant and Children Items",
     "name": "Milk Powder",
@@ -232,6 +266,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "157449",
+          "name": "Desk fan",
+          "description": "Fan can work but cannot swivel. \nSelf-collect at my HDB block lobby.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "21 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": "see picture",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "157437",
           "name": "Mistral metal floor fan",
           "description": "Mistral metal floor fan, 13 inches in diameter.\nWell-used, fan is already cleaned up.",
@@ -286,40 +331,6 @@
           "dimensions": "38cm x 29cm x 5.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157414",
-    "category": "Home Furnishing",
-    "name": "3-Seater Sofa",
-    "description": "The client is married with three young children aged 5 years, 3 years, and 9 months. Her husband is currently the sole breadwinner, earning a monthly income of $2,500, which is only sufficient to meet the family’s basic daily expenses. At present, the family’s home is unfurnished, and the client has requested assistance in obtaining a small three-seater sofa to better accommodate the needs of their growing family.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Ann Wende",
-      "email": "wende_ann@msf.gov.sg",
-      "phone": [
-        "63765987",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "03 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157441",
-          "name": "2/3 Seater sofa bed pink",
-          "description": "Well-used with little stains, can scrub off. Material for the bedding seems bit too thin, better off as a sofa.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "03 Jul 2026",
-          "ageInYears": 2,
-          "dimensions": "108cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
