@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "157477",
+    "name": "Tefal",
+    "description": "Still new",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "04 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157449",
     "name": "Desk fan",
     "description": "Fan can work but cannot swivel. \nSelf-collect at my HDB block lobby.",
@@ -121,6 +132,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "157483",
+    "name": "Super Single Bed Frame",
+    "description": "Super Single Size",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "04 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157473",
+    "name": "Altar Table",
+    "description": "Very well maintained like new. Got slot-out board just below table top for putting extra items. \n\nOwner to relocate current ancestral to temple hence donating this custom-made Altar table, can also be used for other storage purpose.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "04 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "110cm x 51cm x 125cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "157448",
     "name": "Study desk",
     "description": "Senior owner has no means to deliver this big and heavy piece. Sponsor and beneficiary to collect at HDB unit with own movers.",
@@ -150,17 +183,6 @@
     "validTill": "26 Jun 2026",
     "ageInYears": 4,
     "dimensions": "82cm x 39cm x 178cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157441",
-    "name": "2/3 Seater sofa bed pink",
-    "description": "Well-used with little stains, can scrub off. Material for the bedding seems bit too thin, better off as a sofa.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "03 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "108cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -374,17 +396,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157030",
-    "name": "Pillow",
-    "description": "new memory foam pillow\nclean, unused",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "19 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156993",
     "name": "Adjustable length child bed frame",
     "description": "child's bed frame that has adjustable length.",
@@ -528,17 +539,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "157243",
-    "name": "Crib + Mattress",
-    "description": "Self collection at 520938",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "157185",
     "name": "Toddler tricycle with pedals",
     "description": "Happy Baby tricycle with pedals.\n\nPlastic frame. The music function no longer works but otherwise in great working condition.\n\nThe are minor aesthetic flaws on the wheels, see photos.\n\nPassing it on as my daughter has outgrown it.",
@@ -568,17 +568,6 @@
     "validTill": "15 Jun 2026",
     "ageInYears": 4,
     "dimensions": "huge",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "157463",
-    "name": "Baby cot",
-    "description": "Baby cot in good condition with slight used marks.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "17 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -614,6 +603,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "157482",
+    "name": "Homeward, bowls, plates",
+    "description": "Good condition kitchen items",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "157061",
@@ -658,6 +658,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "157471",
+    "name": "Hospital Reclining Bed",
+    "description": "Newly bought in Apr 2026. \nUsed less than 3 weeks, very new, fully functional by electronic control. \nThe left side upper edge guard got a bit lilted out (no damage or crack), but can bend it back if needed.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "23 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "220cm x 110cm x110cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "157444",
@@ -979,6 +990,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "157474",
+    "name": "Wheel Chair",
+    "description": "Looking to bless a brand new wheelchair. To order and deliver to your Center or beneficiary house.\n\nhttps://sg.shp.ee/6zEx74fS",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "20 inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157475",
+    "name": "Wheel Chair",
+    "description": "Looking to bless a brand new wheelchair. To order and deliver to your Center or beneficiary house.\n\nhttps://sg.shp.ee/6zEx74fS",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "21 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "20 inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "157075",
     "name": "Eldercare aids",
     "description": "preloved table for bed feeding",
@@ -1043,6 +1076,17 @@
     "dimensions": "Shown in the photos",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157476",
+    "name": "Storage Shelf",
+    "description": "The metal shelf is in good condition, no rust or no damage/dent. \nThose air-bubble wrap on vertical bar are only for cushioning purpose can be peeled off and it will looks new.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "23 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "60cm x 33cm x 125cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157440",

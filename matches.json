@@ -1,30 +1,106 @@
 [
   {
-    "id": "157462",
+    "id": "157479",
     "category": "Infant and Children Items",
-    "name": "Baby cot",
-    "description": "Client is currently pregnant and is expected to delivery in one month's time. Client's husband faces challenges securing a full-time employment, hence the overall income to the household is low, in relative to the large household size (the couple has 3 young children). Hence, securing of baby essential items will help to alleviate the family's financial burden.",
+    "name": "Cot",
+    "description": "Client requested for a cot for her youngest child as she had thrown the cot away after it was spoiled due to the pressure after her older child jumped on it. Client reported that while she had attempted to get child to sleep with her in the bunk bed, child reportedly refused to do so and is unable to sleep. Client is currently unemployed and is reliant on the Comcare assistance for their basic needs and is unable to afford a new washing machine.",
     "specifications": null,
     "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Eunice Koh",
-      "email": "eunice@frcsfsc.sg",
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
       "phone": [
-        "67799488ext17",
-        "67799488"
+        "67547050"
       ]
     },
-    "deliveryCostsCoveredByDonor": false,
+    "deliveryCostsCoveredByDonor": true,
     "date": "04 Jun 2026",
     "matches": {
       "passiton": [
         {
-          "id": "157463",
-          "name": "Baby cot",
-          "description": "Baby cot in good condition with slight used marks.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "17 Jun 2026",
-          "ageInYears": 4,
+          "id": "157149",
+          "name": "Sterile Cotton Balls",
+          "description": "18 packs of cotton balls.",
+          "location": null,
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157470",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges due to bankruptcy and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "157435",
+          "name": "Adult L size tape diapers",
+          "description": "4 packs of adult L-sized tape diapers. \n2 packs for day-use and 2 packs for night-use.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "30 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157469",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet family's basic needs. Family is seeking support for essential items such as Enfagrow Pro A+ Stage 3 for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157155",
+          "name": "S26 SMA formula milk powder",
+          "description": "S26 SMA formula milk powder for 0-12 months infant",
+          "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+          "validTill": "24 Jun 2026",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
