@@ -362,17 +362,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "157436",
-          "name": "Mistral metal floor fan",
-          "description": "Mistral metal floor fan, 13 inches in diameter.\nWell-used, fan is already cleaned up.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -407,6 +396,74 @@
           "dimensions": "38cm x 29cm x 5.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157456",
+    "category": "Home Furnishing",
+    "name": "Queen Size Bed Frame",
+    "description": "Client and her husband are residing in a 1-room rental flat. They are currently sleeping on a queen size bed on the floor. Client has mild intellectual disability, while her husband has autism. Due to their special needs, it is challenging for the client and her husband to seek and sustain employment. The bed frame would help them with their hygiene and organization of their household.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Sengkang West",
+      "name": "Ng Yan Ting",
+      "email": "ngyanting@mws.sg",
+      "phone": [
+        "64855501",
+        "64855500"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157486",
+          "name": "Used queen size bed with bed frame",
+          "description": "Used mattress with bed frame\nPillow bolster not included\nCondition 6.5/10",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "05 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157202",
+    "category": "Others",
+    "name": "Nebulizer Machine",
+    "description": "Client lives alone and has limited family support. She has been unemployed since 2014 due to asthma. Client reported ongoing depression and chronic skin condition since 2017, with no significant improvement despite ongoing medical treatment. Client shared that her doctor recommended the use of a nebulizer machine; however, she is unable to purchase one due to lack of income.(JM)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157504",
+          "name": "Suction machine and nebulizer",
+          "description": "Bought for 2 years but used once only.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "30 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
