@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "157501",
-    "name": "1Fridge and 2Wardrobes",
-    "description": "2 wardrobes(81cmx51xmx180cm) and 1 fridege(65cm x 60cm x 170 cm tall)\nWe have 2 wardrobes and 1 fridge to give away. All still functional. \nPlease let me know your client's condition to assess real needy families can get all 3 items.\n\nAll need to arrange transportation yourself or we can cover $20 of your transport fee for you when you arrange transport for all 3 items(2 wardrobes and 1 fridge)\n\nEverything must be taken away by latest 15th June 2026.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "14 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "81cm wide 51cm deep 180cm tall",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "157449",
     "name": "Desk fan",
     "description": "Fan can work but cannot swivel. \nSelf-collect at my HDB block lobby.",
@@ -99,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "157639",
+    "name": "Single bed with pull out bedframe",
+    "description": "Mattress size 190cm by 94cm and bedframe size is bigger at 200cm by 95cm. Wooden bedframe has 4 wheels (pull out bed).",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "190am x 94cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "157594",
     "name": "Kids bed frame and mattress",
     "description": "Kids bed frame and mattress (single), great condition",
@@ -117,17 +117,6 @@
     "validTill": "29 Jun 2026",
     "ageInYears": 4,
     "dimensions": "L209cm x W50cm x H63cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157535",
-    "name": "Chaise lounge",
-    "description": "Mustard-color chaise lounge, very good for reading or watching TV.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "89 cm W x 162 L x 43 H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -341,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157362",
-    "name": "Open Shelving Unit with 10 boxes",
-    "description": "White IKEA VIHALS Shelves.\nGood condition, good for storage.\nNo doors for easy access",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "15 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "95x37x2000",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157255",
     "name": "Tiered IKEA TROFAST Storage",
     "description": "Storage combination with boxes. \nIKEA TROFSAST.",
@@ -528,17 +506,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "156748",
-    "name": "Baby and toddler toys",
-    "description": "Baby and toddler toys - cloth books, musical instrument, teething etc. all in good condition",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "10 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "156684",
     "name": "Bottle warmer",
     "description": "Milk bottle warmer.\n\nWest/Central only. Please do not reserve if the beneficiary is staying in the other areas.",
@@ -594,10 +561,54 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "157631",
+    "name": "Etac Clean Commode Shower Chair with Seat Cushion",
+    "description": "Etac Clean Commode Shower chair with seat cushion.It fits easily over regular toilet bowls and the wheels make it easy to manoeuvre around the house. Upright caregiver handle ensures easy fit over toilet bowls. Can use on its own with pan, or roll it over the toilet bowl. There is back opening for hygiene. Ergonomic foot support is adjustable, can be folded away under seat. 4 individual locking wheels.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "approx 52cm x 62cm x 103cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "157630",
+    "name": "Hospital bed",
+    "description": "Used hospital bed. In good condition.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "220cm x 90cm x 60cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "157622",
+    "name": "Nestle Beneprotein Protein Powder",
+    "description": "2 unopened tubs of Nestle Beneprotein instant protein powder (unflavored)",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "10cm x 10cm x 13cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "157620",
+    "name": "Duphalac lactulose for constipation relief (1 litre bottle, unopened)",
+    "description": "Duphalac lactulose oral solution (laxative) for constipation relief",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "10cm x 10cm x 23cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "157587",
     "name": "Nasal Cannula for Oxygen Concentrator",
     "description": "Assorted Nasal cannula to be used on Oxygen concentrator. Length 2m & 4m.",
-    "location": "Braddell , Macpherson, Potong Pasir",
+    "location": "Potong Pasir",
     "validTill": "08 Jul 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -847,10 +858,32 @@
     "category": "Medical Aids"
   },
   {
+    "id": "157638",
+    "name": "Exercise Bicycle  (non-electric)",
+    "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "approx 43cm x 52cm x 92cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157633",
+    "name": "Non-motorised wheelchair",
+    "description": "Non-motorised wheelchair with footrest and wheel-locking mechanism.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "09 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "approx 66cm x 73cm x 83cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "157577",
     "name": "Commode",
     "description": "Mobile-Non height adjustable commode. Bought on 23/4/26. Used for only 3 weeks.Almost brand new. Well washed and sterilised.",
-    "location": "Braddell , Macpherson, Potong Pasir",
+    "location": "Potong Pasir",
     "validTill": "08 Jul 2026",
     "ageInYears": 1,
     "dimensions": "23\" x 20.5\" x 38\"",

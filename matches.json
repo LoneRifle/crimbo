@@ -34,51 +34,6 @@
     }
   },
   {
-    "id": "157421",
-    "category": "Electrical Home Appliances",
-    "name": "Fan",
-    "description": "Single mother with health issue living and will be released from prison who hopes to start afresh with her children. Living with 2 children in a rental flat. Mother is not able to work yet due to health",
-    "specifications": null,
-    "contact": {
-      "org": "Trybe Limited",
-      "name": "Nadiah Binte Abdul Razak",
-      "email": "nadiah.razak@trybe.org",
-      "phone": [
-        "-",
-        "67841481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157449",
-          "name": "Desk fan",
-          "description": "Fan can work but cannot swivel. \nSelf-collect at my HDB block lobby.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "21 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": "see picture",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "157437",
-          "name": "Mistral metal floor fan",
-          "description": "Mistral metal floor fan, 13 inches in diameter.\nWell-used, fan is already cleaned up.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157412",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -242,6 +197,105 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157636",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "",
+    "specifications": "Brand: Dumex Dugro Stage 5 x 8 packs",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157537",
+          "name": "FERNLEAF FULL CREAM MILK POWDER",
+          "description": "Brand new x 3 packets",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "08 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "500g",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157625",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges due to bankruptcy and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157624",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet family's basic needs. Family is seeking support for essential items such as Enfagrow Pro A+ Stage 3 for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157537",
+          "name": "FERNLEAF FULL CREAM MILK POWDER",
+          "description": "Brand new x 3 packets",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "08 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "500g",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -561,6 +615,39 @@
     }
   },
   {
+    "id": "157637",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Client is a vulnerable adult (F/66) with multiple medical conditions, blurred vision and mobile challenges. Her bowel incontinence issues has worsened, resulting in a high and ongoing need for adult diapers. The requested quantity is sufficient for her one month usage. Your kind donation will help ease her financial  burden and make a meaningful difference in her quality of life.",
+    "specifications": "Brand: TENA Size: L x 5packs",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157539",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -690,6 +777,106 @@
           "dimensions": "38cm x 29cm x 5.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157087",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition.\n\nClient is unemployed, living in a 1-room rental flat and without any family support. She hopes for a bicycle to allow her to do Grab to provide for herself.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nurul Huda Maarop",
+      "email": "nurulhuda@ainsociety.org.sg",
+      "phone": [
+        "68486033",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157638",
+          "name": "Exercise Bicycle  (non-electric)",
+          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "156962",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Couple is diagnosed with mild ID and previously uses an e-bike for grab delivery to sustain monthly expenses. Both parents are also supporting their child diagnosed with global developmental delay. However, as their e-bike has previously broken down, this has affected their monthly income. Hence, it would be beneficial for parents to own a bicycle to assist with grab deliveries.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Joel Low",
+      "email": "joellow@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157638",
+          "name": "Exercise Bicycle  (non-electric)",
+          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157074",
+    "category": "Mobility Aids",
+    "name": "Motorised Wheelchair",
+    "description": "We are seeking support for a senior who attends daycare at our nursing home and relies on a motorised wheelchair for his daily mobility. His current motorised wheelchair has recently stopped working. \n\nA replacement motorised wheelchair is urgently needed to help him move safely and comfortably at home and within the nursing home.",
+    "specifications": "Weight capacity: 100–120 kg",
+    "contact": {
+      "org": "Jamiyah Nursing Home",
+      "name": "Siti Nur Atiqah Bte Aminudin",
+      "email": "siti_nur_atiqah@jamiyah.org.sg",
+      "phone": [
+        "67768575"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "22 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157633",
+          "name": "Non-motorised wheelchair",
+          "description": "Non-motorised wheelchair with footrest and wheel-locking mechanism.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": "approx 66cm x 73cm x 83cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
