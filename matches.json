@@ -30,17 +30,6 @@
           "category": "Electrical Home Appliances"
         },
         {
-          "id": "157588",
-          "name": "MUJI Table Fan",
-          "description": "Letting go of my two MUJI table fans as I'm relocating in less than 2 months. If you get a stool, this can become a standing fan too.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "157437",
           "name": "Mistral metal floor fan",
           "description": "Mistral metal floor fan, 13 inches in diameter.\nWell-used, fan is already cleaned up.",
@@ -157,40 +146,6 @@
     }
   },
   {
-    "id": "157569",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client, 31, Male is undergoing divorce.staying at a two room rental flat with 2 children son (10) and daughter (5). Requires assistance in basic  furnishing such as foldable mattress (2), microwave oven, stove, television, sofa, chest of drawers/tv console and pillows. He is currently working as grab rider. (Isk)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157246",
-          "name": "Velvet Sofa and Ottoman",
-          "description": "Self collection at 520938",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157567",
     "category": "Home Furnishing",
     "name": "TV console",
@@ -250,6 +205,40 @@
           "location": "Boon Lay, Jurong, Tuas",
           "validTill": "05 Jul 2026",
           "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157425",
+    "category": "Home Furnishing",
+    "name": "Office Chair",
+    "description": "Mr Lai is a 82 year old senior living in a 1 room rental flat. \n\nHe ambulates (rolls) around the home with a office chair. his current office chair is low and requires a lot of effort for him to get up\n\nMr Lai requires a new office chair. Feel free to contact me at 82922208 if you have any leads.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Sabrina Wong",
+      "email": "sabrina.wong@thkmc.org.sg",
+      "phone": [
+        "63371201",
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157597",
+          "name": "Office chair",
+          "description": "Office chair, lightly used, perfect condition",
+          "location": null,
+          "validTill": "07 Jul 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -328,17 +317,6 @@
           "validTill": "23 Jun 2026",
           "ageInYears": 1,
           "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "157435",
-          "name": "Adult L size tape diapers",
-          "description": "4 packs of adult L-sized tape diapers. \n2 packs for day-use and 2 packs for night-use.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 2,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
         }
@@ -541,17 +519,6 @@
           "validTill": "23 Jun 2026",
           "ageInYears": 1,
           "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "157435",
-          "name": "Adult L size tape diapers",
-          "description": "4 packs of adult L-sized tape diapers. \n2 packs for day-use and 2 packs for night-use.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 2,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
         }
