@@ -169,33 +169,34 @@
     }
   },
   {
-    "id": "157636",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "",
-    "specifications": "Brand: Dumex Dugro Stage 5 x 8 packs",
+    "id": "157161",
+    "category": "Home Furnishing",
+    "name": "Queen-sized Mattress",
+    "description": "Client is a single mother with 2 young children. She requested for second hand items as she is currently unemployed and solely relies on social assistance. Requires a mattress as their current one is worn, and a sofa for more comfortable seating for herself and children.",
+    "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Joanna Tan",
+      "email": "joannatan@carecorner.org.sg",
       "phone": [
-        "62706711"
+        "69784211",
+        "63561622"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jun 2026",
+    "date": "25 May 2026",
     "matches": {
       "passiton": [
         {
-          "id": "157537",
-          "name": "FERNLEAF FULL CREAM MILK POWDER",
-          "description": "Brand new x 3 packets",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "500g",
+          "id": "157680",
+          "name": "Queen sized mattress with Divan bed frame",
+          "description": "Lightly used bed. Prefer to not pay for collection/delivery fee.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "14 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -235,39 +236,6 @@
     }
   },
   {
-    "id": "157624",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet family's basic needs. Family is seeking support for essential items such as Enfagrow Pro A+ Stage 3 for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157537",
-          "name": "FERNLEAF FULL CREAM MILK POWDER",
-          "description": "Brand new x 3 packets",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "500g",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157479",
     "category": "Infant and Children Items",
     "name": "Cot",
@@ -285,6 +253,17 @@
     "date": "04 Jun 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "157676",
+          "name": "Sterile cotton balls, saline solution, gauze swab",
+          "description": "Medical aid supply. Suitable for wound care",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "10 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
         {
           "id": "157149",
           "name": "Sterile Cotton Balls",
@@ -328,141 +307,6 @@
           "dimensions": "L size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157469",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet family's basic needs. Family is seeking support for essential items such as Enfagrow Pro A+ Stage 3 for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157537",
-          "name": "FERNLEAF FULL CREAM MILK POWDER",
-          "description": "Brand new x 3 packets",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "500g",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157264",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "Requesting for milk powder (Karihome Goat Milk Infant Formula) for my client's new born. My client just gave birth and would need this support. She is currently unemployed. She is in the midst of filing for a divorce and is not receiving support from her husband at the moment.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Asimah Beevi d/o Abdul",
-      "email": "asimah@frcsfsc.sg",
-      "phone": [
-        "67799488ext13",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157537",
-          "name": "FERNLEAF FULL CREAM MILK POWDER",
-          "description": "Brand new x 3 packets",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "500g",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157141",
-    "category": "Infant and Children Items",
-    "name": "Milk powder",
-    "description": "Family has 2 young children, aged 8 months and 3 years old (special needs). They just moved into a public rental flat in Sembawang last year and are trying to stabilise their finances. \n\nMilk powder for the 2 children run out very fast, as the 3 year old son with special needs is fussy and prefers milk over solid foods. \n\nThey would appreciate if anyone is willing to assist with Lactogen Stage 3.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Nur Farizan Hashim",
-      "email": "nur_farizan_hashim@msf.gov.sg",
-      "phone": [
-        "60138532",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157537",
-          "name": "FERNLEAF FULL CREAM MILK POWDER",
-          "description": "Brand new x 3 packets",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "500g",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157020",
-    "category": "Infant and Children Items",
-    "name": "Milk powder",
-    "description": "Client requires assistance - milk powder for her daughter. Client is unemployed due to caregiving responsibilities and current pregnancy. She shares a strained relationship with her husband, hence there is limited financial contribution from him. Client has limited family support. Hence, she is worried about her daughter's needs.",
-    "specifications": "Pediasure (original or vanilla)",
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Eunice Koh",
-      "email": "eunice@frcsfsc.sg",
-      "phone": [
-        "67799488ext17",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "20 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157537",
-          "name": "FERNLEAF FULL CREAM MILK POWDER",
-          "description": "Brand new x 3 packets",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "08 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "500g",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []

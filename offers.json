@@ -44,6 +44,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "157679",
+    "name": "Electric Home Appliances",
+    "description": "Self collection for the entire 4 items",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "For small unit usage",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "157678",
+    "name": "Electric Home Appliances",
+    "description": "Prefer Collection at my premises on a prearranged date/timing Usually VWO comes to collect",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "For small unit usage",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "157656",
+    "name": "Iona hotpot - 5L unused once only",
+    "description": "Voltage : 220-240V 50/60Hz 1350W\nSafety Mark : 151783-12\nDimensions : 36 ×37 ×19cm\nNet Weight: 3.1kg\nCooking Surface: 30cm\n\nSelf pick up at Pasir Ris. Thanks",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157449",
     "name": "Desk fan",
     "description": "Fan can work but cannot swivel. \nSelf-collect at my HDB block lobby.",
@@ -86,6 +119,50 @@
     "dimensions": "H 4ft X L 3ftx W 2.5ft",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "157680",
+    "name": "Queen sized mattress with Divan bed frame",
+    "description": "Lightly used bed. Prefer to not pay for collection/delivery fee.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "14 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157675",
+    "name": "NÄMMARÖ IKEA Outdoor Table",
+    "description": "Outdoor low table but can be used  indoors; not much weathering and have withstood many episodes of heavy rain.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "10 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": "63cm X 63cm X 30cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157674",
+    "name": "Outdoor Chair",
+    "description": "Two outdoor chairs that can be used indoor as long as you don't mind the canvas stains due to weathering (sun & rain)",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "10 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": "63cm X 57.5cm X 72cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157670",
+    "name": "Sofa bed",
+    "description": "Queen sofa bed with cover.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "17 Jun 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "157639",
@@ -440,15 +517,26 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157537",
-    "name": "FERNLEAF FULL CREAM MILK POWDER",
-    "description": "Brand new x 3 packets",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "08 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "500g",
+    "id": "157651",
+    "name": "Single mattress",
+    "description": "Donating a single sized mattress",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "157652",
+    "name": "Single mattress",
+    "description": "Donating a single sized mattress",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "157527",
@@ -550,13 +638,24 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "157631",
-    "name": "Etac Clean Commode Shower Chair with Seat Cushion",
-    "description": "Etac Clean Commode Shower chair with seat cushion.It fits easily over regular toilet bowls and the wheels make it easy to manoeuvre around the house. Upright caregiver handle ensures easy fit over toilet bowls. Can use on its own with pan, or roll it over the toilet bowl. There is back opening for hygiene. Ergonomic foot support is adjustable, can be folded away under seat. 4 individual locking wheels.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "09 Jul 2026",
+    "id": "157677",
+    "name": "3M Tegaderm pad, Aquacel foam",
+    "description": "2pcs brand new Aquacel foam for back\n12pcs 3M Tegaderm +pad",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Jul 2026",
     "ageInYears": 1,
-    "dimensions": "approx 52cm x 62cm x 103cm",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "157676",
+    "name": "Sterile cotton balls, saline solution, gauze swab",
+    "description": "Medical aid supply. Suitable for wound care",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -634,17 +733,6 @@
     "validTill": "04 Jul 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "157471",
-    "name": "Hospital Reclining Bed",
-    "description": "Newly bought in Apr 2026. \nUsed less than 3 weeks, very new, fully functional by electronic control. \nThe left side upper edge guard got a bit lilted out (no damage or crack), but can bend it back if needed.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "220cm x 110cm x110cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -732,17 +820,6 @@
     "location": "Changi, Flora, Loyang",
     "validTill": "23 Jun 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "157513",
-    "name": "Hospital bed",
-    "description": "Nice hospital bed with air mattress",
-    "location": null,
-    "validTill": "18 Jun 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
@@ -880,6 +957,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "157653",
+    "name": "Wheelchair",
+    "description": "Seldom used wheelchair.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "07 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157654",
+    "name": "Wheelchair",
+    "description": "Seldom used wheelchair.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "07 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "157506",
     "name": "Walking frame, stick and quad stick",
     "description": "Foldable walking frame with wheels x 1\nWalking stick x 1\nQuad stick x 1",
@@ -968,18 +1067,7 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "157068",
-    "name": "Eldercare aids",
-    "description": "Shower chair in good condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "21 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "156975",
+    "id": "157671",
     "name": "Geriatric chair",
     "description": "Nil",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -1010,6 +1098,17 @@
     "dimensions": "Shown in the photos",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157663",
+    "name": "New Curtain",
+    "description": "2 panels. New. Never used \nCan be hung on curtain rod, hook or clip",
+    "location": null,
+    "validTill": "11 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "145*250cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157591",
