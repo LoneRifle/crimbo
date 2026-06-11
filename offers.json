@@ -22,28 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "156760",
-    "name": "Men's batik shirt",
-    "description": "Lightly worn",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": "Medium / Large",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "156759",
-    "name": "Men's shirts",
-    "description": "Lightly worn",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": "Medium / Large",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "157679",
     "name": "Electric Home Appliances",
     "description": "Self collection for the entire 4 items",
@@ -94,17 +72,6 @@
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "30 Jun 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157345",
-    "name": "Wireless Mouse (1600 DPI) – Brand New in Box",
-    "description": "Slim and lightweight wireless mouse, perfect for work, study, and everyday use.\n\nFeatures: 1. Up to 1600 DPI for smooth tracking, 2. Wireless range up to 10m, 3. Ergonomic design for comfortable use, 4. Compatible with Windows, MacOS and other USB A-enabled devices, 5. Plug-and-play with wireless receiver.\n\nCondition: New in box",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -418,17 +385,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157288",
-    "name": "Armchair",
-    "description": "Ikea Armchair in green velvet fabric\nSlightly used",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157246",
     "name": "Velvet Sofa and Ottoman",
     "description": "Self collection at 520938",
@@ -578,17 +534,6 @@
     "location": null,
     "validTill": "07 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "157298",
-    "name": "Infant baby Fisher price lion walker in mint condition",
-    "description": "- Fisher-Price Lion Walker\n- Interactive activities\n- Sturdy design for first steps\n- Colorful buttons and spinning toys\n- Fun lion face\n\nUsed condition\nNot for fussy\n\nOnly for self collection from Bishan area",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -946,6 +891,50 @@
     "category": "Medical Aids"
   },
   {
+    "id": "157715",
+    "name": "wheelchair cushion",
+    "description": "Details refer to https://www.thegoldenconcepts.com/collections/home-furniture/products/roho-mosaic-air-cushion-for-pressure-relief",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157714",
+    "name": "wheelchair",
+    "description": "Details refer to https://guardian.com.sg/guardian-lightweight-transport-chair-ky867-supplier-direct-delivery-600238.html?gad_source=1&gad_campaignid=17148950348&gbraid=0AAAAADnwZm7sSqVHnyzWX2tciNOatRot1&gclid=CjwKCAjwuanRBhBSEiwAY5y6V4W5sEI1pyUkE0gC0tXHcvnWJeIW53UyoE9IZ6JlM8hQiowNdmjGXxoCriYQAvD_BwE",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157713",
+    "name": "Commode",
+    "description": "Details refer to https://www.thegoldenconcepts.com/collections/commodes/products/stainless-steel-deluxe-commode-with-retractable-footrest",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157712",
+    "name": "Geratric_chair",
+    "description": "find the details in https://www.thegoldenconcepts.com/collections/geriatric-chairs/products/mobile-recliner-geriatric-chair",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "157638",
     "name": "Exercise Bicycle  (non-electric)",
     "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
@@ -1076,6 +1065,17 @@
     "dimensions": "Shown in the photos",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157716",
+    "name": "adult bibs",
+    "description": "Adults bibs for feeding. Details refer to https://care.com.sg/product/reusable-adult-bib/",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157591",
