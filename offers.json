@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "157795",
+    "name": "Hp printer",
+    "description": "Working condition used printer.",
+    "location": null,
+    "validTill": "15 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157762",
     "name": "Computer Monitor (27 inch)",
     "description": "Computer monitor with stand (table clamp) as shown in picture. In good working condition",
@@ -29,17 +40,6 @@
     "validTill": "13 Jul 2026",
     "ageInYears": 3,
     "dimensions": "27 inch computer monitor",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157679",
-    "name": "Electric Home Appliances",
-    "description": "Self collection for the entire 4 items",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "For small unit usage",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "157792",
+    "name": "Sofa bed",
+    "description": "Two seater sofa bed",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "157775",
     "name": "Single-sized mattress",
     "description": "Single mattress in good condition (pictures attached). We recently changed the bedframe and bought a new mattress, hence we no longer need this. Hope this finds a home who needs it!",
@@ -110,17 +121,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157774",
-    "name": "3 Seater Grey Sofa with Chaise Lounger",
-    "description": "3 seater sofa with chaise lounger. In excellent condition. Fabric is easy to clean, kid friendly. Current sofa is being replaced so will be available only after the new sofa arrives, likely early July. You can reserve this sofa first.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "14 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "To be updated",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157773",
     "name": "Four Leather Dining Chairs",
     "description": "4 dining chairs to bless. Excellent condition.",
@@ -128,39 +128,6 @@
     "validTill": "23 Jun 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157765",
-    "name": "Sofa",
-    "description": "Castlery Hamilton 3 seater sofa",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "13 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157763",
-    "name": "Wall mounted mirror",
-    "description": "Wall mounted mirror in good condition",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "13 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "166cm x 76cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157760",
-    "name": "Nitori Sofa Bed (portable)",
-    "description": "Nitori sofabed that can be turned into lounge daybed, mattress and low sofa. Good for tight spaces. I can only release this item in mid July.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "13 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "W97 x D197 x H12cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -183,39 +150,6 @@
     "validTill": "16 Jun 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157749",
-    "name": "Dining table with 4 chairs",
-    "description": "Japanese Dining table set with 4 chaira. Solid oak wood.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "W1100xD1100xH660",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157744",
-    "name": "Wardrobe",
-    "description": "Metal frame wardrobe with curtain. Good as new",
-    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-    "validTill": "30 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "160 x 45 x 200",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157739",
-    "name": "queen bed frame and mattress",
-    "description": "Queen bed frame and mattress in good condition. bed frame slight creaky",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "25 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "200x155x120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -282,17 +216,6 @@
     "validTill": "07 Jul 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157543",
-    "name": "TV Console",
-    "description": "Collection between on 3rd July only",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "29 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "L209cm x W50cm x H63cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -539,17 +462,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157709",
-    "name": "Kids pram/stroller",
-    "description": "Kids pram/stroller, well loved but fully functioning and with sibiling platform at the back for second kid. Pram handles broke once but we fixed it back together and does not affect use. Premium brand (bugaboo).",
-    "location": null,
-    "validTill": "07 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "157527",
     "name": "Toddler Stroller suitable for 3yo and above",
     "description": "Well used branded stroller that’s still very usable",
@@ -614,17 +526,6 @@
     "dimensions": "62L x 40W x 50H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "157771",
-    "name": "Hospital bed push chair commode W/stick",
-    "description": "All In working condition",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "14 Jul 2026",
-    "ageInYears": 3,
-    "dimensions": "L2.06m W1.01m H1.7m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "157769",
@@ -891,17 +792,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "156844",
-    "name": "Salbuair cfc-free inhaler",
-    "description": "11 boxes expire in 10 oct, 4 boxes expire 11 Nov and 2 boxes expire in Dec",
-    "location": "680159",
-    "validTill": "16 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "156843",
     "name": "Duphalac",
     "description": "expire in 2028",
@@ -924,45 +814,34 @@
     "category": "Medical Aids"
   },
   {
-    "id": "157768",
-    "name": "wheelchair with pot",
-    "description": "item age 1year +",
-    "location": null,
-    "validTill": "13 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157767",
-    "name": "wheelchair",
-    "description": "item age 1year +",
+    "id": "157797",
+    "name": "walking frame",
+    "description": "na",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "13 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157766",
-    "name": "auto adjustable hospitable bed",
-    "description": "need to be dismantled. item age 1 year +",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "13 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157764",
-    "name": "Hospital Bed",
-    "description": "Used adjustable hospital bed for donation.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "13 Jul 2026",
+    "validTill": "15 Jul 2026",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157796",
+    "name": "wheelchair",
+    "description": "na",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "157793",
+    "name": "Commode",
+    "description": "This commode was bought as a backup.  Not used but has been around for 2 years",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -1008,28 +887,6 @@
     "validTill": "09 Jul 2026",
     "ageInYears": 1,
     "dimensions": "approx 43cm x 52cm x 92cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157654",
-    "name": "Wheelchair",
-    "description": "Seldom used wheelchair.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "07 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157747",
-    "name": "Wheelchair",
-    "description": "Seldom used wheelchair.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "07 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -1120,6 +977,17 @@
     "dimensions": "Shown in the photos",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157778",
+    "name": "House plant",
+    "description": "Beautiful and healthy house plant with a metal standing. Perfect to be in the corner of a living room.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "22 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "120 cm Height with the stand",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157716",
