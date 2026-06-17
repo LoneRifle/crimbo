@@ -18,6 +18,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "157853",
+          "name": "Sofa",
+          "description": "Great Sofa bed in superb condition, bought 18 months ago from IKEA",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "24 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "157792",
           "name": "Sofa bed",
           "description": "Two seater sofa bed",
@@ -69,6 +80,17 @@
           "validTill": "27 Jun 2026",
           "ageInYears": 3,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157878",
+          "name": "L-shaped 3 seater sofa",
+          "description": "In good condition other than some visible stains on the fabric.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": "240cm x 98cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -95,6 +117,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "157853",
+          "name": "Sofa",
+          "description": "Great Sofa bed in superb condition, bought 18 months ago from IKEA",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "24 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "157792",
           "name": "Sofa bed",
           "description": "Two seater sofa bed",
@@ -148,6 +181,51 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "157878",
+          "name": "L-shaped 3 seater sofa",
+          "description": "In good condition other than some visible stains on the fabric.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": "240cm x 98cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157854",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client is a youth who has been isolating himself at home for a few years. He is keen to start working as a Grabfood rider to provide for himself and supplement household income as his single-mother and sole breadwinner for the family was retrenched last year.",
+    "specifications": "Adult bicycle",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Jeremy Cherng",
+      "email": "jeremycherng@carecorner.org.sg",
+      "phone": [
+        "65658751",
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157638",
+          "name": "Exercise Bicycle  (non-electric)",
+          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -222,117 +300,17 @@
     }
   },
   {
-    "id": "157625",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges due to bankruptcy and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157479",
-    "category": "Infant and Children Items",
-    "name": "Cot",
-    "description": "Client requested for a cot for her youngest child as she had thrown the cot away after it was spoiled due to the pressure after her older child jumped on it. Client reported that while she had attempted to get child to sleep with her in the bunk bed, child reportedly refused to do so and is unable to sleep. Client is currently unemployed and is reliant on the Comcare assistance for their basic needs and is unable to afford a new washing machine.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157149",
-          "name": "Sterile Cotton Balls",
-          "description": "18 packs of cotton balls.",
-          "location": null,
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157470",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges due to bankruptcy and the monthly household income is insufficient to meet the family's basic needs. Family is seeking support for essential items such as Drypers Superdry Pants XL for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157818",
+    "id": "157825",
     "category": "Electrical Home Appliances",
-    "name": "Desk Fan",
-    "description": "This family of four is living on a household income of approximately $1,900 per month and faces ongoing challenges meeting daily expenses and basic household needs.\n\nOne of their immediate needs is a desk fan to improve airflow in their home. As the family sleeps on mattresses placed on the floor, their existing standing fan is unable to adequately reach their 14-year-old son, leaving him uncomfortable, especially during warm weather.\n\nA donated desk fan would provide much-needed ventilation and help create a more comfortable environment during their slumber.",
+    "name": "Water",
+    "description": "Client and her 2 years old girl have unstable housing and requires utensils such as electric kettle, fork, spoon, pots, cooking knife as they are planning to move to a temporary housing. Client is unemployed due to caregiving of her daughter and difficult family situation. Client is Muslim hence utensils and kettle needs to be halal. Your donation is much appreciated!",
     "specifications": null,
     "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Vanessa Goh",
-      "email": "vanessagoh@mws.sg",
+      "org": "Care Corner Family Service Centre - Tampines",
+      "name": "Jessica Lim",
+      "email": "jessicalim@carecorner.org.sg",
       "phone": [
-        "67564995ext102/83688612",
-        "67564995"
+        "67866225"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -340,15 +318,15 @@
     "matches": {
       "passiton": [
         {
-          "id": "157449",
-          "name": "Desk fan",
-          "description": "Fan can work but cannot swivel. \nSelf-collect at my HDB block lobby.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "21 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": "see picture",
+          "id": "157867",
+          "name": "Water for Irrigation",
+          "description": "Brand: Baxter\nSize: 1000ml / bot\nQty: 20 bot",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "17 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -490,6 +468,40 @@
     }
   },
   {
+    "id": "157871",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is an elderly lady who is widowed and living with her grand-daughter. She has experienced many life challenges, one of which is a physical disability. As such, she is unfit for work. \n\nShe needs to wear a specific brand of diapers, called Depend Protect+, Absorbent pants, size L.\n\nShe also needs to take Fybogel (Orange), which is costly for her.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157646",
     "category": "Medical Aids",
     "name": "Diapers",
@@ -541,17 +553,6 @@
     "date": "16 Jun 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "157796",
-          "name": "wheelchair",
-          "description": "na",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "15 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
         {
           "id": "157715",
           "name": "wheelchair cushion",
