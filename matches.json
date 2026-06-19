@@ -1,82 +1,5 @@
 [
   {
-    "id": "157920",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Client (F/38) and her husband operate a household of 11 with 8 young children living within, 5 of whom are under the age of 10, one of whom has moderate to servere autism. Client is unable to work due to physical health and caregiving concerns, her husband is the sole income earner and the family faces challenges meeting monthly expenses. The family recently got rid of an old and lumpy queen-sized mattress which several of their children sleep on, and require a new one.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157927",
-          "name": "Mattress and bed frame",
-          "description": "Snow slumber queen size mattress - less than one year old 13 inches. with Bedframe (few years old, still usable, with drawers on both sides (4 drawers) and simple headboard",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "18 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "queen size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "157708",
-          "name": "Pressure relief mattress",
-          "description": "In good working condition",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "157349",
-          "name": "hospital bed with mattress",
-          "description": "hospital bed with mattress",
-          "location": null,
-          "validTill": "01 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "157835",
-          "name": "Metal Frame Bed with Mattress",
-          "description": "Metal Frame Bed in Guest Room \nComes with Mattress \nCondition of bed frame and mattress = 8/10",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "05 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "195 x 155 x 50 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "157157",
-          "name": "Homecare Hospital Bed w Mattress",
-          "description": "Note : this comes with the overhead trapeze that hands over the bed at a height that is 85 cm above the bedframe. Bed in good condition ~9yo. Elderly moved to alternative accommodation hence bed no longer required.",
-          "location": "Changi, Flora, Loyang",
-          "validTill": "24 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": "L215cm x W101cm x H88cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157830",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -101,17 +24,6 @@
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
           "validTill": "24 Jun 2026",
           "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "157246",
-          "name": "Velvet Sofa and Ottoman",
-          "description": "Self collection at 520938",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Jun 2026",
-          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -161,17 +73,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "157246",
-          "name": "Velvet Sofa and Ottoman",
-          "description": "Self collection at 520938",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "157878",
           "name": "L-shaped 3 seater sofa",
           "description": "In good condition other than some visible stains on the fabric.",
@@ -179,6 +80,40 @@
           "validTill": "30 Jun 2026",
           "ageInYears": 4,
           "dimensions": "240cm x 98cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157431",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "3 youth siblings living independently and would require cupboard for their items",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157948",
+          "name": "Small cupboard with drawers",
+          "description": "Small cupboard with 3 drawers",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "30 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": "110cm x 45cm x 80cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -289,22 +224,90 @@
     }
   },
   {
-    "id": "157087",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition.\n\nClient is unemployed, living in a 1-room rental flat and without any family support. She hopes for a bicycle to allow her to do Grab to provide for herself.",
+    "id": "157871",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is an elderly lady who is widowed and living with her grand-daughter. She has experienced many life challenges, one of which is a physical disability. As such, she is unfit for work. \n\nShe needs to wear a specific brand of diapers, called Depend Protect+, Absorbent pants, size L.\n\nShe also needs to take Fybogel (Orange), which is costly for her.",
     "specifications": null,
     "contact": {
-      "org": "AIN Society",
-      "name": "Nurul Huda Maarop",
-      "email": "nurulhuda@ainsociety.org.sg",
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
       "phone": [
-        "68486033",
-        "68485166"
+        "94552166",
+        "67156715"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "22 May 2026",
+    "date": "17 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157646",
+    "category": "Medical Aids",
+    "name": "Diapers",
+    "description": "The client is an elderly lady who is a stroke survivor. She lives with her husband in a 2-room HDB rental flat. Although her husband is also ageing, he remains the sole breadwinner of the family. However, he struggles to maintain the monthly household expenses with his low income. The client needs to have adult pull-up/pants diapers, sized XL, to reduce fall risk at home.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157957",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Client, 11, cycles to school and tuition almost daily but his bicycle chain recently became loose and has been coming off when he cycles - which is dangerous and delays his travel time to school. His father is currently bedridden and has high care needs, and mother is the main caregiver, so parents are unable to afford to buy him a new one. The rest of his siblings are also school-going. A new bicycle will be of great benefit to him.\n\nThank you!",
+    "specifications": "Suitable for age 11-12",
+    "contact": {
+      "org": "Montfort Care Family Service (Telok Blangah)",
+      "name": "Sharifah Hashim",
+      "email": "sharifah.hashim@montfortcare.org.sg",
+      "phone": [
+        "89406352",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jun 2026",
     "matches": {
       "passiton": [
         {
@@ -323,21 +326,22 @@
     }
   },
   {
-    "id": "156962",
+    "id": "157087",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Bicycle",
-    "description": "Couple is diagnosed with mild ID and previously uses an e-bike for grab delivery to sustain monthly expenses. Both parents are also supporting their child diagnosed with global developmental delay. However, as their e-bike has previously broken down, this has affected their monthly income. Hence, it would be beneficial for parents to own a bicycle to assist with grab deliveries.",
+    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition.\n\nClient is unemployed, living in a 1-room rental flat and without any family support. She hopes for a bicycle to allow her to do Grab to provide for herself.",
     "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Woodlands",
-      "name": "Joel Low",
-      "email": "joellow@carecorner.org.sg",
+      "org": "AIN Society",
+      "name": "Nurul Huda Maarop",
+      "email": "nurulhuda@ainsociety.org.sg",
       "phone": [
-        "63622481"
+        "68486033",
+        "68485166"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "19 May 2026",
+    "date": "22 May 2026",
     "matches": {
       "passiton": [
         {
@@ -451,108 +455,6 @@
           "dimensions": "38cm x 29cm x 5.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "156982",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Family consists of 2 secondary school going children. Client is medically unfit for employment and her husband's monthly income is inadequate to meet family needs. 1 of the children's laptop has broke down and he is no longer able to use it for his school work. Family hopes to receive a laptop so that he may have access to complete his schoolwork timely for submission.",
-    "specifications": "-",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157293",
-          "name": "Laptop bag",
-          "description": "Acer laptop bag. Was a free gift with laptop but never used.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "38cm x 29cm x 5.5cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157871",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "The client is an elderly lady who is widowed and living with her grand-daughter. She has experienced many life challenges, one of which is a physical disability. As such, she is unfit for work. \n\nShe needs to wear a specific brand of diapers, called Depend Protect+, Absorbent pants, size L.\n\nShe also needs to take Fybogel (Orange), which is costly for her.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157646",
-    "category": "Medical Aids",
-    "name": "Diapers",
-    "description": "The client is an elderly lady who is a stroke survivor. She lives with her husband in a 2-room HDB rental flat. Although her husband is also ageing, he remains the sole breadwinner of the family. However, he struggles to maintain the monthly household expenses with his low income. The client needs to have adult pull-up/pants diapers, sized XL, to reduce fall risk at home.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
