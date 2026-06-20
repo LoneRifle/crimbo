@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "157973",
+    "name": "Mistral mini oven",
+    "description": "Functions more as small oven than toaster oven. Used item but both temperature and timer controls are fully functioning. Good for baking food, cakes or reheating pizza. Tray is the bigger type. Non-halal item.\nDelivery to the East or if West is up to only Tiong Bahru.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "13 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157950",
     "name": "Fan and air cooler",
     "description": "Standing fan and air cooler in good condition",
@@ -91,7 +102,7 @@
     "id": "157970",
     "name": "Divan bed + mattress",
     "description": "Sleeppost custom size W75cm x L185cm\nDivan bed + mattress",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Holland Hill",
     "validTill": "23 Jun 2026",
     "ageInYears": 2,
     "dimensions": "W75cm x L185cm",
@@ -102,7 +113,7 @@
     "id": "157969",
     "name": "Ikea king bed and mattress",
     "description": "Ikea mattress, cover pads and divan base\nDimension: 1,8 * 2 meters",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Holland Hill",
     "validTill": "23 Jun 2026",
     "ageInYears": 2,
     "dimensions": "2  x 1.8 meters",
@@ -161,17 +172,6 @@
     "validTill": "13 Jul 2026",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157963",
-    "name": "Mattress Queen Size",
-    "description": "Zinus mattress with iCoil pocketed springs\nUsed about 2 years plus\nNo stains and generally in good condition\nFrom non-smoking and no pet household",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "15 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "190cm x 152cm x 26cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -337,17 +337,6 @@
     "validTill": "12 Jul 2026",
     "ageInYears": 3,
     "dimensions": "68*(79-90)*44",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157964",
-    "name": "Study desk",
-    "description": "Good as new study desk with a lot of storage space",
-    "location": "Bugis",
-    "validTill": "30 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -526,6 +515,28 @@
     "dimensions": "sofa 2 m / arm chair 1 m x 1 m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "157972",
+    "name": "Ikea crib, cot",
+    "description": "Ikea white cot/crib + mattress\nAlways used with mattress cover",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "23 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "67 * 125 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "157971",
+    "name": "Ikea Sniglar Cot",
+    "description": "Preloved cot for less than a year as upgrading child to bed. Will pass cover and mattress as well. Item dismantled so need to fix it back. Toys and pillow inside not included.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "157958",
