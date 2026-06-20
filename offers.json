@@ -99,17 +99,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "157970",
-    "name": "Divan bed + mattress",
-    "description": "Sleeppost custom size W75cm x L185cm\nDivan bed + mattress",
-    "location": "Holland Hill",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "W75cm x L185cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157969",
     "name": "Ikea king bed and mattress",
     "description": "Ikea mattress, cover pads and divan base\nDimension: 1,8 * 2 meters",
@@ -517,17 +506,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157972",
-    "name": "Ikea crib, cot",
-    "description": "Ikea white cot/crib + mattress\nAlways used with mattress cover",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "67 * 125 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "157971",
     "name": "Ikea Sniglar Cot",
     "description": "Preloved cot for less than a year as upgrading child to bed. Will pass cover and mattress as well. Item dismantled so need to fix it back. Toys and pillow inside not included.",
@@ -625,6 +603,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "157974",
+    "name": "Oxygen tube",
+    "description": "New tubing for oxygen concentrator. Self collection only. Thanks",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "20 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "2.1m lemgth",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "157867",
@@ -988,6 +977,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "157975",
+    "name": "Medical Preventive Items",
+    "description": "Medical preventive items such as Chlorhexidine x 18 bottles/thermometers/hand sanitizers",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "28 Jun 2026",
+    "ageInYears": 2,
+    "dimensions": "For small unit usage",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157862",
