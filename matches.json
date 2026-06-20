@@ -314,74 +314,6 @@
     }
   },
   {
-    "id": "157871",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "The client is an elderly lady who is widowed and living with her grand-daughter. She has experienced many life challenges, one of which is a physical disability. As such, she is unfit for work. \n\nShe needs to wear a specific brand of diapers, called Depend Protect+, Absorbent pants, size L.\n\nShe also needs to take Fybogel (Orange), which is costly for her.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157646",
-    "category": "Medical Aids",
-    "name": "Diapers",
-    "description": "The client is an elderly lady who is a stroke survivor. She lives with her husband in a 2-room HDB rental flat. Although her husband is also ageing, he remains the sole breadwinner of the family. However, he struggles to maintain the monthly household expenses with his low income. The client needs to have adult pull-up/pants diapers, sized XL, to reduce fall risk at home.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157957",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Bicycle",
@@ -511,6 +443,74 @@
           "dimensions": "38cm x 29cm x 5.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157871",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is an elderly lady who is widowed and living with her grand-daughter. She has experienced many life challenges, one of which is a physical disability. As such, she is unfit for work. \n\nShe needs to wear a specific brand of diapers, called Depend Protect+, Absorbent pants, size L.\n\nShe also needs to take Fybogel (Orange), which is costly for her.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157646",
+    "category": "Medical Aids",
+    "name": "Diapers",
+    "description": "The client is an elderly lady who is a stroke survivor. She lives with her husband in a 2-room HDB rental flat. Although her husband is also ageing, he remains the sole breadwinner of the family. However, he struggles to maintain the monthly household expenses with his low income. The client needs to have adult pull-up/pants diapers, sized XL, to reduce fall risk at home.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157135",
+          "name": "Adult diapers (L size)",
+          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "23 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "L size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
