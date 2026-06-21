@@ -1,5 +1,39 @@
 [
   {
+    "id": "157873",
+    "category": "Home Furnishing",
+    "name": "Dresser",
+    "description": "The client is requesting a dresser to store her clothing. She is a mother of four children, including an infant, and due to her current financial situation, she is unable to afford one. Having a dresser would greatly benefit her and her family by providing safe and organized storage for their belongings.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care CREST @ Bedok",
+      "name": "Mardiana Zurian Binte Mohd Zaki",
+      "email": "mardiana.zaki@montfortcare.org.sg",
+      "phone": [
+        "83398236",
+        "63123988"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157987",
+          "name": "Dresser with mirror",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157809",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -18,12 +52,34 @@
     "matches": {
       "passiton": [
         {
+          "id": "157990",
+          "name": "Sofa Set",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "157853",
           "name": "Sofa",
           "description": "Great Sofa bed in superb condition, bought 18 months ago from IKEA",
           "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
           "validTill": "24 Jun 2026",
           "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157991",
+          "name": "3 seater sofa",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -36,6 +92,39 @@
           "validTill": "30 Jun 2026",
           "ageInYears": 4,
           "dimensions": "240cm x 98cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157798",
+    "category": "Home Furnishing",
+    "name": "Chest of drawers",
+    "description": "Client requires a chest of drawer for herself and younger daughter. Client has financial difficulty due to family conflict, health issues and unemployment.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Tampines",
+      "name": "Jessica Lim",
+      "email": "jessicalim@carecorner.org.sg",
+      "phone": [
+        "67866225"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157993",
+          "name": "Chest of Drawers",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -180,6 +269,39 @@
     }
   },
   {
+    "id": "157893",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a divorced individual staying alone in his father's 3 room flat. Flat is overall in poor condition as client has no financial capability to upkeep home. Client is also chronically relying on SSO support as he has physical and mental health issues. His fridge is faulty and is leaking, and hopes to get a single door fridge so that it can fit into the current fridge's location in the kitchen.",
+    "specifications": "Single Door",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157983",
+          "name": "Fridge",
+          "description": "Self-collect. Very good condition",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157699",
     "category": "Electrical Home Appliances",
     "name": "Vacuum Cleaner",
@@ -271,6 +393,74 @@
           "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
           "validTill": "20 Jul 2026",
           "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157304",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with health issue living and will be released from prison who hopes to start afresh with her children. Living with 2 children in a rental flat. Mother is not able to work yet due to health",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157983",
+          "name": "Fridge",
+          "description": "Self-collect. Very good condition",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157050",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "We are seeking the support of kind donors to help a family of three — a single mother and her two young children aged 8 and 6 — with a washing machine and fridge for their new rental flat. The mother is currently medically unfit for work due to mental health concerns and has been doing her best to care for her children despite the many challenges they face. The family had experienced homelessness for the past three years and have only recently secured stable housing through a rental flat. As they rebuild their lives and settle into their new home, a washing machine and fridge would greatly ease the family’s daily burden and support a more stable living environment for the children. Any support extended to the family would be deeply appreciated.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Ltd - Transitional Shelter (JT)",
+      "name": "Nur Atikah Binte Hamdan",
+      "email": "nur_atikah@awwa.org.sg",
+      "phone": [
+        "88860487",
+        "65511669"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157983",
+          "name": "Fridge",
+          "description": "Self-collect. Very good condition",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -375,6 +565,17 @@
           "dimensions": "38cm x 29cm x 5.5cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        },
+        {
+          "id": "157999",
+          "name": "Thule Red Laptop Backpack",
+          "description": "hardly use, the THULE logo has been peeled off, and one of the zipper's cover has fallen off, overall condition is still good.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "30x12x49",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -407,6 +608,17 @@
           "validTill": "27 Jun 2026",
           "ageInYears": 1,
           "dimensions": "38cm x 29cm x 5.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "157999",
+          "name": "Thule Red Laptop Backpack",
+          "description": "hardly use, the THULE logo has been peeled off, and one of the zipper's cover has fallen off, overall condition is still good.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "30x12x49",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
         }
