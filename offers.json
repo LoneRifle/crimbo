@@ -77,6 +77,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158029",
+    "name": "4 drawer plastic storage",
+    "description": "4 drawer plastic storage drawers",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "30 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158024",
+    "name": "Dining table and chairs",
+    "description": "Wooden table extendable for 6. Comes with 3 dining chairs.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "22 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "1400 x 90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158001",
     "name": "Single Seat Sofa",
     "description": "Self-collect",
@@ -198,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157969",
-    "name": "Ikea king bed and mattress",
-    "description": "Ikea mattress, cover pads and divan base\nDimension: 1,8 * 2 meters",
-    "location": "Holland Hill",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "2  x 1.8 meters",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157953",
     "name": "Wine Rack",
     "description": "Solid Rosewood Wine Rack",
@@ -326,17 +337,6 @@
     "validTill": "05 Jul 2026",
     "ageInYears": 4,
     "dimensions": "195 x 155 x 50 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157817",
-    "name": "Armchair",
-    "description": "Green velvet armchair",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -605,6 +605,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "158034",
+    "name": "Pleur-x Drainage Kit with 1L bottle",
+    "description": "7 sets of these bottles to give away, with 1 set expiring on Feb 2027.\npreferably to self collect, arrangement can be made.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "22 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "158015",
     "name": "Hospital Bed electric",
     "description": "Full hospital bed electric, with air mattress powered to have airflow moving. Side railings on both sides, and tray.",
@@ -797,50 +808,6 @@
     "description": "Brand new. Suction machine to suck out segregation when patient cannot swallow.",
     "location": "Changi, Flora, Loyang",
     "validTill": "28 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "157149",
-    "name": "Sterile Cotton Balls",
-    "description": "18 packs of cotton balls.",
-    "location": null,
-    "validTill": "23 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "157136",
-    "name": "Sodium Chloride 0.9%",
-    "description": "Saline solution for dressing of wounds.\n\n2 x 1000ml bottle\n22 x 20ml",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "157135",
-    "name": "Adult diapers (L size)",
-    "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "L size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "157128",
-    "name": "Hospital grade disposable urinals",
-    "description": "1 carton of disposable urinals",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "23 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -1052,17 +1019,6 @@
     "validTill": "27 Jun 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "157981",
-    "name": "Water bottles, flask and cups",
-    "description": "Assortment of water bottles and cups",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 1,
-    "dimensions": "22cm and less",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },

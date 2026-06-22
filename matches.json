@@ -1,5 +1,106 @@
 [
   {
+    "id": "158032",
+    "category": "Home Furnishing",
+    "name": "Study tables and chairs",
+    "description": "Single mother who is Thai National and is divorced recently is shifting into a HDB rental flat with her 2 preschooler children. She needs two study tables with chairs for her children and a water heater.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Goh Swee Lee",
+      "email": "gohsweelee@fycs.org",
+      "phone": [
+        "60110714",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157988",
+          "name": "Study Tables and Chairs",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158022",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "For newly released single mother who is moving house from halfway house.",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Radiant Chua",
+      "email": "radiant@newlifestories.org.sg",
+      "phone": [
+        "88761852",
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157853",
+          "name": "Sofa",
+          "description": "Great Sofa bed in superb condition, bought 18 months ago from IKEA",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "24 Jun 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158001",
+          "name": "Single Seat Sofa",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157991",
+          "name": "3 seater sofa",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157878",
+          "name": "L-shaped 3 seater sofa",
+          "description": "In good condition other than some visible stains on the fabric.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": "240cm x 98cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157873",
     "category": "Home Furnishing",
     "name": "Dresser",
@@ -134,40 +235,6 @@
     }
   },
   {
-    "id": "156339",
-    "category": "Others",
-    "name": "Adult diapers",
-    "description": "Client is a senior caregiver to her adult child with special needs. She is unemployed and is the main caregiver to her child and also husband with a history of stroke and heart conditions. With financial restrains, the family will benefit greatly from a sponsor for her child's diapers as they are a regular expense.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Szandra Law",
-      "email": "szandralaw@fycs.org",
-      "phone": [
-        "96421760",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157135",
-          "name": "Adult diapers (L size)",
-          "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Jun 2026",
-          "ageInYears": 1,
-          "dimensions": "L size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157202",
     "category": "Others",
     "name": "Nebulizer Machine",
@@ -196,6 +263,74 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158025",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "For newly released single mother who is moving house from halfway house.",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Radiant Chua",
+      "email": "radiant@newlifestories.org.sg",
+      "phone": [
+        "88761852",
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157824",
+          "name": "Panasonic Microwave Oven",
+          "description": "Non halal, heavy used Microwave Oven. Usually used only for heating food. Still work well. Wear and tear can be seen.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "16 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158023",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "For newly released single mother who is moving house from halfway house.",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Radiant Chua",
+      "email": "radiant@newlifestories.org.sg",
+      "phone": [
+        "88761852",
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157976",
+          "name": "Vacuum cleaner with accessories",
+          "description": "Vacuum cleaner (bagless) with accessories",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "20 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -370,74 +505,6 @@
     }
   },
   {
-    "id": "157957",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Client, 11, cycles to school and tuition almost daily but his bicycle chain recently became loose and has been coming off when he cycles - which is dangerous and delays his travel time to school. His father is currently bedridden and has high care needs, and mother is the main caregiver, so parents are unable to afford to buy him a new one. The rest of his siblings are also school-going. A new bicycle will be of great benefit to him.\n\nThank you!",
-    "specifications": "Suitable for age 11-12",
-    "contact": {
-      "org": "Montfort Care Family Service (Telok Blangah)",
-      "name": "Sharifah Hashim",
-      "email": "sharifah.hashim@montfortcare.org.sg",
-      "phone": [
-        "89406352",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157638",
-          "name": "Exercise Bicycle  (non-electric)",
-          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "09 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "approx 43cm x 52cm x 92cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157087",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition.\n\nClient is unemployed, living in a 1-room rental flat and without any family support. She hopes for a bicycle to allow her to do Grab to provide for herself.",
-    "specifications": null,
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nurul Huda Maarop",
-      "email": "nurulhuda@ainsociety.org.sg",
-      "phone": [
-        "68486033",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157638",
-          "name": "Exercise Bicycle  (non-electric)",
-          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "09 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "approx 43cm x 52cm x 92cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157913",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -521,6 +588,40 @@
           "dimensions": "30x12x49",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157957",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Client, 11, cycles to school and tuition almost daily but his bicycle chain recently became loose and has been coming off when he cycles - which is dangerous and delays his travel time to school. His father is currently bedridden and has high care needs, and mother is the main caregiver, so parents are unable to afford to buy him a new one. The rest of his siblings are also school-going. A new bicycle will be of great benefit to him.\n\nThank you!",
+    "specifications": "Suitable for age 11-12",
+    "contact": {
+      "org": "Montfort Care Family Service (Telok Blangah)",
+      "name": "Sharifah Hashim",
+      "email": "sharifah.hashim@montfortcare.org.sg",
+      "phone": [
+        "89406352",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157638",
+          "name": "Exercise Bicycle  (non-electric)",
+          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
