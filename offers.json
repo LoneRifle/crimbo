@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "158002",
-    "name": "Washing Machine",
-    "description": "Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "157976",
     "name": "Vacuum cleaner with accessories",
     "description": "Vacuum cleaner (bagless) with accessories",
@@ -39,17 +28,6 @@
     "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "13 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157950",
-    "name": "Fan and air cooler",
-    "description": "Standing fan and air cooler in good condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "19 Jul 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -112,28 +90,6 @@
   {
     "id": "158000",
     "name": "Display Cabinets",
-    "description": "Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157998",
-    "name": "Queen bed with matress",
-    "description": "Queen-sized Origin Pro matress and Origin timber bedframe. Happy to donate as a set or separately based on need!",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "21 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157997",
-    "name": "Queen bed and mattress",
     "description": "Self-collect",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "26 Jun 2026",
@@ -297,17 +253,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157966",
-    "name": "Mattress Queen Size",
-    "description": "Zinus mattress with iCoil pocketed springs\nUsed about 2 years plus\nNo stains and generally in good condition\nFrom non-smoking and no pet household",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "15 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "190cm x 152cm x 26cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157935",
     "name": "Circular table 60cm width 70cm heigh",
     "description": "Lightly used dining table that fits a smaller space well. In good condition. Wooden top. Metal base with detail.",
@@ -326,17 +271,6 @@
     "validTill": "19 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157927",
-    "name": "Mattress and bed frame",
-    "description": "Snow slumber queen size mattress - less than one year old 13 inches. with Bedframe (few years old, still usable, with drawers on both sides (4 drawers) and simple headboard",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "queen size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -400,17 +334,6 @@
     "name": "Armchair",
     "description": "Green velvet armchair",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "23 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157773",
-    "name": "Four Leather Dining Chairs",
-    "description": "4 dining chairs to bless. Excellent condition.",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
     "validTill": "23 Jun 2026",
     "ageInYears": 2,
     "dimensions": null,
@@ -682,13 +605,13 @@
     "category": "Learning Aids"
   },
   {
-    "id": "157979",
-    "name": "Electrical Hospital Bed",
-    "description": "3 Crank Electrical Luxury Hospital Bed with 3” foldable standard comfort mattress and QDC-300B Alternating Pressure Mattress System",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "212cm x 109cm x 41-69cm",
+    "id": "158015",
+    "name": "Hospital Bed electric",
+    "description": "Full hospital bed electric, with air mattress powered to have airflow moving. Side railings on both sides, and tray.",
+    "location": null,
+    "validTill": "22 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "1800 x 100",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -924,6 +847,39 @@
     "category": "Medical Aids"
   },
   {
+    "id": "158019",
+    "name": "Extendable Chair",
+    "description": "Adjustable aluminum legs to adjust height",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "50 x 55",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "158018",
+    "name": "Wheelchair",
+    "description": "Almost new. Standard wheelchair.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "80 x 25",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "158017",
+    "name": "Hospital Chair",
+    "description": "Reclinable chair on wheels. Comes with detachable tray",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "22 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "75 x 90",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "157980",
     "name": "Push Chair",
     "description": "https://easywheels.com.sg/products/lightweight-flip-up-pushchair?variant=40983543906417&country=SG¤cy=SGD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=21353607736&gbraid=0AAAAAC9prP84JBr632e7GqEvNTisJnsQ5&gclid=EAIaIQobChMI2dDSv6iXlQMVnzeDAx2u0jvlEAQYASABEgKV8PD_BwE",
@@ -963,17 +919,6 @@
     "location": "Balestier, Toa Payoh",
     "validTill": "11 Jul 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157713",
-    "name": "Commode",
-    "description": "Details refer to https://www.thegoldenconcepts.com/collections/commodes/products/stainless-steel-deluxe-commode-with-retractable-footrest",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "11 Jul 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
