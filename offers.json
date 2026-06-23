@@ -1,5 +1,16 @@
 [
   {
+    "id": "158088",
+    "name": "Clothings/Pillows/Bedsheet",
+    "description": "2 Blouses/1 bag 1 set of Pillows/queen-size bedsheets\n\nSell collection",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "23 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "For small unit usage",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "157332",
     "name": "Shoes",
     "description": "Male short boots and formal black leather shoes. Both good condition. Value need :400 usd",
@@ -77,13 +88,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158077",
-    "name": "Sanctum Soft leather sofa",
-    "description": "3+1 sofa set",
+    "id": "158093",
+    "name": "IKEA Wooden storage side table",
+    "description": "- natural wood storage\n- lattice design on all sides and top\n- use as side table or fo storage\n- good for organising items",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "03 Jul 2026",
+    "validTill": "23 Jul 2026",
     "ageInYears": 4,
-    "dimensions": "L- 187cm, H:35cm",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158092",
+    "name": "IKEA stainless steel trolley",
+    "description": "- white metal storage rack\n- multiple tiers for organisation\n- rolls easily on wheels\n- ideal for kitchen, study room",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "23 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -583,6 +605,28 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "158113",
+    "name": "Cooking wok",
+    "description": "Big aluminium wok for cooking",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "03 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "158112",
+    "name": "Stainless steel pots for cooking",
+    "description": "Lightly used staineless steel big pots",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "03 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "157879",
     "name": "Mini Cooking pot",
     "description": "3 multi function electric small cooking pots to give away. \nPlease WhatsApp if keen",
@@ -847,17 +891,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "157980",
-    "name": "Push Chair",
-    "description": "https://easywheels.com.sg/products/lightweight-flip-up-pushchair?variant=40983543906417&country=SG¤cy=SGD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=21353607736&gbraid=0AAAAAC9prP84JBr632e7GqEvNTisJnsQ5&gclid=EAIaIQobChMI2dDSv6iXlQMVnzeDAx2u0jvlEAQYASABEgKV8PD_BwE",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "21 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "157797",
     "name": "walking frame",
     "description": "na",
@@ -955,6 +988,17 @@
     "dimensions": "L215cm x W101cm x H88cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "158089",
+    "name": "Medicines",
+    "description": "Panadol/Pain Killers\n\nPlease collect",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "28 Jun 2026",
+    "ageInYears": 1,
+    "dimensions": "For small unit usage",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158082",
