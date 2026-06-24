@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "157976",
-    "name": "Vacuum cleaner with accessories",
-    "description": "Vacuum cleaner (bagless) with accessories",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "20 Jul 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "157973",
     "name": "Mistral mini oven",
     "description": "Functions more as small oven than toaster oven. Used item but both temperature and timer controls are fully functioning. Good for baking food, cakes or reheating pizza. Tray is the bigger type. Non-halal item.\nDelivery to the East or if West is up to only Tiong Bahru.",
@@ -86,6 +75,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158146",
+    "name": "3 seater leather sofa",
+    "description": "3 seater",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "30 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158135",
+    "name": "Queen Size Storage bed",
+    "description": "Maxcoil Grand Comfort II mattress - Queen Size with storage base only [NO headboard]\n\nMattress Height 12″\nFirmness: Medium (5)\n\nTotal height for storage base + mattress: 66cm",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "10 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": "191x154x37",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "158129",
@@ -264,17 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157986",
-    "name": "Queen Bedframe and Mattress",
-    "description": "Queen bed, mattress and 2 side tables. Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157985",
     "name": "King Bed with side tables",
     "description": "King size bed and mattress + 2 side tables. Self-collect",
@@ -381,17 +381,6 @@
     "validTill": "26 Jun 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157938",
-    "name": "queen bed frame and mattress",
-    "description": "Queen bed frame and mattress in good condition. bed frame slight creaky",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "25 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "200x155x120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -570,6 +559,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "158139",
+    "name": "Adidas Baby Shoes",
+    "description": "- Adorable pink Adidas toddler shoes\n- Hook-and-loop closure for easy wear\n- Clean soles, never worn, only fitted.\n- Size US4K see photos for conversions",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "24 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158137",
+    "name": "Double Electric Breast Pump",
+    "description": "Barely used double electric breast pumps. Full set including bottles.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "24 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158136",
+    "name": "Baby carrier",
+    "description": "Brand new still in box baby carrier that transforms to hip carrier for toddler. Red colour.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "24 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "157958",
