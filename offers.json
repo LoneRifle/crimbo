@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158129",
+    "name": "Coffee table",
+    "description": "coffee table with storage\n:ift-up table top",
+    "location": null,
+    "validTill": "03 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "120x60x45",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158117",
     "name": "Study table with pedestal",
     "description": "Measurement is for the table and does not include Measurement of pedestal. In good condition, sturdy, except 1 drawer cannot pull out fully. Does not affect functionality",
@@ -212,17 +223,6 @@
     "id": "157992",
     "name": "Dining Table and Chairs",
     "description": "Dining Table with 6 chairs. Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157991",
-    "name": "3 seater sofa",
-    "description": "Self-collect",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "26 Jun 2026",
     "ageInYears": 4,
@@ -570,28 +570,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "158118",
-    "name": "Similac NeoSure Milk Powder (0 - 12 months)",
-    "description": "Milk Powder 1 Tin, Similac NeoSure 0-12 months \nFor premature and low birth weight infants \nExpiry 19 May 2028",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "23 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "158115",
-    "name": "Drypers SuperDry Size M Diapers",
-    "description": "I have 4 packets of Dryers Superdry M Size.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "23 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "157958",
