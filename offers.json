@@ -22,13 +22,13 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "158166",
-    "name": "Microwave",
-    "description": "Delivery included",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Jul 2026",
+    "id": "158182",
+    "name": "Fridge",
+    "description": "There is lift landing access",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "03 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "820 x 1770 x 740 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "157824",
-    "name": "Panasonic Microwave Oven",
-    "description": "Non halal, heavy used Microwave Oven. Usually used only for heating food. Still work well. Wear and tear can be seen.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "16 Jul 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "157795",
     "name": "Hp printer",
     "description": "Working condition used printer.",
@@ -86,6 +75,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158180",
+    "name": "Hospital Bed",
+    "description": "Hospital bed with manual crank shaft",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "25 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "200x100x80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "158146",

@@ -1,27 +1,138 @@
 [
   {
-    "id": "158150",
+    "id": "158177",
     "category": "Home Furnishing",
-    "name": "Single Bed",
-    "description": "Client has just moved into rental flat housing and would need a single bed for his use to furnish the flat.",
+    "name": "Table",
+    "description": "Client lives in a rental flat with her eight children (aged 2–12). Aside from being a single parent juggling her children's basic and emotional needs, she is unable to work due to poor health resulting from previous pregnancies. The family is fully reliant on financial assistance and requires support with essential household items to maintain a safe and functional living environment.",
     "specifications": null,
     "contact": {
-      "org": "TRANS Family Service Centre (Bedok Reservoir)",
-      "name": "Benjamin Chua",
-      "email": "benjamin@trans.org.sg",
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
       "phone": [
-        "67473202"
+        "69783108",
+        "62672900"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jun 2026",
+    "date": "25 Jun 2026",
     "matches": {
       "passiton": [
         {
-          "id": "157846",
-          "name": "Super single electric bed",
-          "description": "Super single electric bed.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "id": "158117",
+          "name": "Study table with pedestal",
+          "description": "Measurement is for the table and does not include Measurement of pedestal. In good condition, sturdy, except 1 drawer cannot pull out fully. Does not affect functionality",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "15 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "132cmx58cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158075",
+          "name": "Dining Table",
+          "description": "1.8m sinister stone table\n6 dining available if needed",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "03 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": "1800x900x750",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158024",
+          "name": "Dining table and chairs",
+          "description": "Wooden table extendable for 6. Comes with 3 dining chairs.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "22 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "1400 x 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157992",
+          "name": "Dining Table and Chairs",
+          "description": "Dining Table with 6 chairs. Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157988",
+          "name": "Study Tables and Chairs",
+          "description": "Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157935",
+          "name": "Circular table 60cm width 70cm heigh",
+          "description": "Lightly used dining table that fits a smaller space well. In good condition. Wooden top. Metal base with detail.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "19 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": "60cm across, 70cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157473",
+          "name": "Altar Table",
+          "description": "Very well maintained like new. Got slot-out board just below table top for putting extra items. \n\nOwner to relocate current ancestral to temple hence donating this custom-made Altar table, can also be used for other storage purpose.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "04 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "110cm x 51cm x 125cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157352",
+          "name": "side table",
+          "description": "bed side table with drawers",
+          "location": null,
+          "validTill": "01 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157509",
+          "name": "Small table",
+          "description": "Like new",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "29 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "See pic",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158093",
+          "name": "IKEA Wooden storage side table",
+          "description": "- natural wood storage\n- lattice design on all sides and top\n- use as side table or fo storage\n- good for organising items",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "23 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "157985",
+          "name": "King Bed with side tables",
+          "description": "King size bed and mattress + 2 side tables. Self-collect",
+          "location": "Pasir Ris, Simei, Tampines",
           "validTill": "26 Jun 2026",
           "ageInYears": 4,
           "dimensions": null,
@@ -80,62 +191,6 @@
           "validTill": "26 Jun 2026",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158126",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "The family comprises three members and is expecting a newborn. The father is the sole breadwinner. Their child is one year old. They are seeking a three-seater sofa for the home. They would require the assistance of the furniture to be send to their house as they cannot afford delivery fees.",
-    "specifications": "3 Seaters Sofa",
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Karen Chin",
-      "email": "karen_chin@msf.gov.sg",
-      "phone": [
-        "62319464",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158001",
-          "name": "Single Seat Sofa",
-          "description": "Self-collect",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "26 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158146",
-          "name": "3 seater leather sofa",
-          "description": "3 seater",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "157878",
-          "name": "L-shaped 3 seater sofa",
-          "description": "In good condition other than some visible stains on the fabric.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": "240cm x 98cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -558,88 +613,32 @@
     }
   },
   {
-    "id": "158025",
+    "id": "158039",
     "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "For newly released single mother who is moving house from halfway house.",
+    "name": "Fridge",
+    "description": "A 27-year-old woman has recently left an abusive marriage after her PPO had been approved and is starting over in a rental flat. She is working a daily-paid warehouse job and is also managing loans due to past financial exploitation. She is currently in urgent need of a refrigerator to help her settle into her new home.",
     "specifications": null,
     "contact": {
-      "org": "New Life Stories Limited",
-      "name": "Radiant Chua",
-      "email": "radiant@newlifestories.org.sg",
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
       "phone": [
-        "88761852",
-        "63867688"
+        "60384138",
+        "60384120"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jun 2026",
+    "date": "23 Jun 2026",
     "matches": {
       "passiton": [
         {
-          "id": "158166",
-          "name": "Microwave",
-          "description": "Delivery included",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "01 Jul 2026",
+          "id": "158182",
+          "name": "Fridge",
+          "description": "There is lift landing access",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "03 Jul 2026",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "157824",
-          "name": "Panasonic Microwave Oven",
-          "description": "Non halal, heavy used Microwave Oven. Usually used only for heating food. Still work well. Wear and tear can be seen.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "16 Jul 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158010",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Family consists of a single mum with 4 children living in a 2-room rental flat. The family requires a microwave for easier food preparation for the children when mum is working. They need either a halal microwave or a brand new one. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Fatimah Azzahrah",
-      "email": "fatimah_azzahrah_noor@msf.gov.sg",
-      "phone": [
-        "62319407",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158166",
-          "name": "Microwave",
-          "description": "Delivery included",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "01 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "157824",
-          "name": "Panasonic Microwave Oven",
-          "description": "Non halal, heavy used Microwave Oven. Usually used only for heating food. Still work well. Wear and tear can be seen.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "16 Jul 2026",
-          "ageInYears": 3,
-          "dimensions": null,
+          "dimensions": "820 x 1770 x 740 mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -676,6 +675,39 @@
           "dimensions": "L209cm x W50cm x H63cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157893",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a divorced individual staying alone in his father's 3 room flat. Flat is overall in poor condition as client has no financial capability to upkeep home. Client is also chronically relying on SSO support as he has physical and mental health issues. His fridge is faulty and is leaking, and hopes to get a single door fridge so that it can fit into the current fridge's location in the kitchen.",
+    "specifications": "Single Door",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158182",
+          "name": "Fridge",
+          "description": "There is lift landing access",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "03 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "820 x 1770 x 740 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -749,6 +781,40 @@
     }
   },
   {
+    "id": "157304",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with health issue living and will be released from prison who hopes to start afresh with her children. Living with 2 children in a rental flat. Mother is not able to work yet due to health",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 May 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158182",
+          "name": "Fridge",
+          "description": "There is lift landing access",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "03 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "820 x 1770 x 740 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "157143",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -777,6 +843,50 @@
           "dimensions": "L209cm x W50cm x H63cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158185",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a full-time caregiver to her elderly father who has dementia and other health issues. She is facing significant hardship and is barely getting by on SSO short-term financial assistance. Informal support is limited as her sister is caring for 2 young children and paying for their mother’s nursing home fees. Client desires financial independence and thus has been actively job-searching. As her old laptop has spoiled, she requires a new one to update her resume and apply for jobs. Your donation will support Client in attaining financial independence.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "WONG Rui-Min, Sara Regan.",
+      "email": "sarawong@carecorner.org.sg",
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157293",
+          "name": "Laptop bag",
+          "description": "Acer laptop bag. Was a free gift with laptop but never used.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "27 Jun 2026",
+          "ageInYears": 1,
+          "dimensions": "38cm x 29cm x 5.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        },
+        {
+          "id": "157999",
+          "name": "Thule Red Laptop Backpack",
+          "description": "hardly use, the THULE logo has been peeled off, and one of the zipper's cover has fallen off, overall condition is still good.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "30x12x49",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -1000,6 +1110,39 @@
           "dimensions": "30x12x49",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158186",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "The family has been facing significant financial hardship since Client’s husband, previously the family’s sole breadwinner, was incarcerated last year. Client wishes to seek employment to provide for her family but finds it challenging to balance work with her caregiving responsibilities. Hence, she plans to work as a Grab delivery rider for greater flexibility and thus needs a bicycle to facilitate this. She has attempted to ask her friends and family if she could borrow a bicycle but to no avail.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "WONG Rui-Min, Sara Regan.",
+      "email": "sarawong@carecorner.org.sg",
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157638",
+          "name": "Exercise Bicycle  (non-electric)",
+          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
