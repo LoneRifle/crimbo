@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "158166",
+    "name": "Microwave",
+    "description": "Delivery included",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "01 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157973",
     "name": "Mistral mini oven",
     "description": "Functions more as small oven than toaster oven. Used item but both temperature and timer controls are fully functioning. Good for baking food, cakes or reheating pizza. Tray is the bigger type. Non-halal item.\nDelivery to the East or if West is up to only Tiong Bahru.",
@@ -95,17 +106,6 @@
     "validTill": "10 Jul 2026",
     "ageInYears": 3,
     "dimensions": "191x154x37",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158129",
-    "name": "Coffee table",
-    "description": "coffee table with storage\n:ift-up table top",
-    "location": null,
-    "validTill": "03 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "120x60x45",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -517,13 +517,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158139",
-    "name": "Adidas Baby Shoes",
-    "description": "- Adorable pink Adidas toddler shoes\n- Hook-and-loop closure for easy wear\n- Clean soles, never worn, only fitted.\n- Size US4K see photos for conversions",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "24 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
+    "id": "158170",
+    "name": "2 nos. Joie Stages Car Seat",
+    "description": "2 x Joie Stages Car Seat (twins outgrown it). Very good condition.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "25 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "154.5 x 58 x 76",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -658,6 +658,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "158164",
+    "name": "Tena Proskin Barrier Cream - 3 tubes",
+    "description": "Tena Proskin Barrier Cream - 3 tubes\n\nPls arrange for self pick-up at NCCS Building",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "25 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "158162",
+    "name": "Diben Vanilla (200ml) - 5 bottles",
+    "description": "Diben Vanilla (200ml) - 5 bottles\n\nPls arrange for self-pick up at NCCS Building",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "25 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "158034",
@@ -933,6 +955,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "158165",
+    "name": "Laserjet Printer",
+    "description": "HP Laserjet P4015x. Delivery included",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "01 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158089",
