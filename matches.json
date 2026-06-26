@@ -146,40 +146,6 @@
     }
   },
   {
-    "id": "157202",
-    "category": "Others",
-    "name": "Nebulizer Machine",
-    "description": "Client lives alone and has limited family support. She has been unemployed since 2014 due to asthma. Client reported ongoing depression and chronic skin condition since 2017, with no significant improvement despite ongoing medical treatment. Client shared that her doctor recommended the use of a nebulizer machine; however, she is unable to purchase one due to lack of income.(JM)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 May 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157504",
-          "name": "Suction machine and nebulizer",
-          "description": "Bought for 2 years but used once only.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158228",
     "category": "Home Furnishing",
     "name": "Bed",
@@ -298,10 +264,21 @@
           "category": "Attires/Clothings"
         },
         {
+          "id": "158231",
+          "name": "Double deck bed with shelves and portable storage stairs. Can replace stairs with step ladder",
+          "description": "Double deck bed with shelves and portable storage stairs. Can replace stairs with step ladder. Dimension is without the portable storage stairs.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "29 Jun 2026",
+          "ageInYears": 4,
+          "dimensions": "195.5cm x 130cm x 130cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "158217",
           "name": "Double Deck bed with book shelve and storage staircase",
           "description": "Good condition Double Deck Bed with book shelve and storage stairs. Will need help on dismantling",
-          "location": "Pasir Ris, Simei, Tampines",
+          "location": "Pasir Ris",
           "validTill": "29 Jun 2026",
           "ageInYears": 4,
           "dimensions": "8ft x 4.5ft x 6.5ft",
@@ -555,6 +532,28 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "158232",
+          "name": "3 seater sofa",
+          "description": "Full Grain Leather Sofa \nMediterranean Sea, legs Walnut\nIn good condition\nIts just 3 seater sofa not a sofa bed",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "26 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "L216cm x W96cm x H66cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158230",
+          "name": "Lycksele Single Sofabed",
+          "description": "Gently used single sofabed in great condition, smoke free pet free home.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "26 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": "80x188x30 cm (bed)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "158146",
           "name": "3 seater leather sofa",
           "description": "3 seater",
@@ -606,6 +605,28 @@
           "validTill": "13 Jul 2026",
           "ageInYears": 4,
           "dimensions": "230cm x 151xm x 96cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158232",
+          "name": "3 seater sofa",
+          "description": "Full Grain Leather Sofa \nMediterranean Sea, legs Walnut\nIn good condition\nIts just 3 seater sofa not a sofa bed",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "26 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "L216cm x W96cm x H66cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158230",
+          "name": "Lycksele Single Sofabed",
+          "description": "Gently used single sofabed in great condition, smoke free pet free home.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "26 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": "80x188x30 cm (bed)",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
