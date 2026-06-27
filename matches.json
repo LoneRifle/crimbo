@@ -101,6 +101,40 @@
     }
   },
   {
+    "id": "158227",
+    "category": "Infant and Children Items",
+    "name": "Baby Cot",
+    "description": "Family of 5. Client is currently expecting her third child and would require a baby cot for her infant. Client's husband is the sole breadwinner of the household and faces financial limitations in purchasing a baby cot.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joanna Tay",
+      "email": "joannatay@fycs.org",
+      "phone": [
+        "66901029",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158238",
+          "name": "Baby cot (solid wood)",
+          "description": "Baby cot with mattress, white colour",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "27 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158163",
     "category": "Others",
     "name": "Laptop",
