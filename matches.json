@@ -28,15 +28,26 @@
           "dimensions": "H180  W65  D68 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "158282",
+          "name": "2 x Mini Fridge",
+          "description": "Donating 2 x mini fridge (Non Halal) under KAEFER PROSTAR PTE LTD. VWO may email or SMS me",
+          "location": null,
+          "validTill": "15 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
     }
   },
   {
-    "id": "158020",
+    "id": "158025",
     "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
+    "name": "Microwave",
     "description": "For newly released single mother who is moving house from halfway house.",
     "specifications": null,
     "contact": {
@@ -53,12 +64,46 @@
     "matches": {
       "passiton": [
         {
-          "id": "158270",
-          "name": "Samsung Topload Washing Machine",
-          "description": "Used for 6 years. In good condition, still functioning",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "07 Jul 2026",
-          "ageInYears": 4,
+          "id": "158281",
+          "name": "2 x Microwave (Halal and Non Halal)",
+          "description": "Donating 2 x Microwave (Halal and Non Halal) under KAEFER PROSTAR PTE LTD.\nVWO can email or SMS me",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "15 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158010",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Family consists of a single mum with 4 children living in a 2-room rental flat. The family requires a microwave for easier food preparation for the children when mum is working. They need either a halal microwave or a brand new one. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158281",
+          "name": "2 x Microwave (Halal and Non Halal)",
+          "description": "Donating 2 x Microwave (Halal and Non Halal) under KAEFER PROSTAR PTE LTD.\nVWO can email or SMS me",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "15 Jul 2026",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -95,36 +140,14 @@
           "dimensions": "H180  W65  D68 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157858",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Client is a 69-year-old male with mobility limitations who is reliant on a mobility scooter for transportation. Since his washing machine is no longer functional, he currently travels approximately 15 minutes to the nearest laundromat every 2-3 days while carrying his soiled laundry. Given his age and mobility challenges, this poses a safety risk and affects his ability to manage his laundry independently. Client would benefit from a donated washing machine so that he can continue to have safe and independent living at home.",
-    "specifications": "540 x 870 x 540 (WxHxD)",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Andreanna Angeline Stewart",
-      "email": "andreannastewart@allkin.org.sg",
-      "phone": [
-        "60384140"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Jun 2026",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "158270",
-          "name": "Samsung Topload Washing Machine",
-          "description": "Used for 6 years. In good condition, still functioning",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "07 Jul 2026",
-          "ageInYears": 4,
+          "id": "158282",
+          "name": "2 x Mini Fridge",
+          "description": "Donating 2 x mini fridge (Non Halal) under KAEFER PROSTAR PTE LTD. VWO may email or SMS me",
+          "location": null,
+          "validTill": "15 Jul 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -134,34 +157,33 @@
     }
   },
   {
-    "id": "157780",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Client staying alone in a purchased flat with a tenant. He has been diagnosed with brain damages due to high BP and possibly dementia. He is unemployed due to cognitive issues. Thus, is struggling with his basic needs.",
+    "id": "158277",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client has 5 children, age 6, 4, 3, 1 and 7 months old. Client has been unemployed ever since the birth of first child and is pending to start employment. Family is currently in a financial hardship, as such, family hopes for support of a few packets of Drypers Pants size L for their youngest child. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
       "phone": [
-        "88333080",
-        "67169466"
+        "60156970"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "15 Jun 2026",
+    "date": "29 Jun 2026",
     "matches": {
       "passiton": [
         {
-          "id": "158270",
-          "name": "Samsung Topload Washing Machine",
-          "description": "Used for 6 years. In good condition, still functioning",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "07 Jul 2026",
-          "ageInYears": 4,
+          "id": "158245",
+          "name": "adult diapers",
+          "description": "unused 12 pieces available",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "28 Jul 2026",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -288,6 +310,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "158275",
+          "name": "Dining Table 1.6 metre",
+          "description": "A big dining table suitable for 6 persons. Still in very good condition",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "160 x 90 x 76 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "158075",
           "name": "Dining Table",
           "description": "1.8m sinister stone table\n6 dining available if needed",
@@ -306,6 +339,17 @@
           "validTill": "22 Jul 2026",
           "ageInYears": 4,
           "dimensions": "1400 x 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158280",
+          "name": "6 pax Dining Table",
+          "description": "Brown wooden Top with 4 white wooden legs\nTempered Glass Top\nAble to sit 6 to 8 pax",
+          "location": "Tampines",
+          "validTill": "29 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -346,39 +390,6 @@
           "id": "158234",
           "name": "Height Adjustable Study Table",
           "description": "Height adjustable study table",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "30 Jun 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157600",
-    "category": "Home Furnishing",
-    "name": "Leather Sofa",
-    "description": "Client is a single mother caring for her teenage daughter and they currently reside in a one-room public rental flat. Mother has a diagnosed mental health condition which significantly affects her ability to sustain long‑term employment. The family’s financial situation deteriorated further following a divorce a few months ago, resulting in ongoing financial strain.\n\nMother also has asthma and experiences discomfort with the family’s current fabric couch, which tends to trap dust and allergens, affecting her breathing and comfort at home. As such, she is hoping to replace the existing couch with a small two‑seater leather or leather‑like couch, which would be easier to clean and more suitable for her health needs.\n\nIn addition, mother is currently using a single folding mattress that is old and worn down, affecting her comfort in resting. As such, she is seeking support for a replacement single folding mattress.\n\nAssistance with delivery would be greatly appreciated.",
-    "specifications": "2-Seater",
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Althea Rae Chan",
-      "email": "althea.chan@childrensociety.org.sg",
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158146",
-          "name": "3 seater leather sofa",
-          "description": "3 seater",
           "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
           "validTill": "30 Jun 2026",
           "ageInYears": 4,
