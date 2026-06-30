@@ -157,6 +157,74 @@
     }
   },
   {
+    "id": "158287",
+    "category": "Infant and Children Items",
+    "name": "Baby Stroller",
+    "description": "Client is pregnant with EDD in July 2026. With the newborn, the family is looking to be blessed with a baby stroller as it is costly to purchase a new baby stroller. Family is also keen for any baby boy item as they are staying in rental unit and hoping to keep their expenses low.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Tan Yi Ping",
+      "email": "tan_yi_ping@msf.gov.sg",
+      "phone": [
+        "60138796",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158300",
+          "name": "Maclaren Baby Stroller",
+          "description": "Foldable Stroller, can fit in regular sedan car boot. If VWO is is in west/central area I can send over directly",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157888",
+    "category": "Infant and Children Items",
+    "name": "Baby stroller",
+    "description": "Client has 2 young children (10 days old and 2 years old). They are a low-income family and reside in a HDB 1-room rental flat. Client is unemployed due to caregiving for the children. Her husband, who used to only work for 3 months, has been incarcerated recently, hence there is a loss of income to the household. Client requires a double stroller to ease her in managing them single-handedly when she needs to bring them out of the house.  However, she is unable to purchase one due to limited savings.",
+    "specifications": "Double stroller",
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "18 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158300",
+          "name": "Maclaren Baby Stroller",
+          "description": "Foldable Stroller, can fit in regular sedan car boot. If VWO is is in west/central area I can send over directly",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "30 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158163",
     "category": "Others",
     "name": "Laptop",
@@ -253,6 +321,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158296",
+    "category": "Home Furnishing",
+    "name": "3-seater Sofa",
+    "description": "This mother is raising her four children in a 1-room rental flat while managing the daily needs of her family with limited resources. Due to financial constraints, the family does not have a sofa and currently sits on the floor whenever they spend time together in the living area.\n\nA donated 3-seater sofa would provide the family with a comfortable space to rest, share time together after school and work. Help this household to create a more welcoming home environment and bring comfort and dignity to their daily life.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Vanessa Goh",
+      "email": "vanessagoh@mws.sg",
+      "phone": [
+        "67564995ext102/83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158232",
+          "name": "3 seater sofa",
+          "description": "Full Grain Leather Sofa \nMediterranean Sea, legs Walnut\nIn good condition\nIts just 3 seater sofa not a sofa bed",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "26 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "L216cm x W96cm x H66cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -520,6 +622,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158306",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Client, a single mother, shared that she is looking for a bicycle to reward her Primary 6 son for his consistent school attendance.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Kee Ru Wei",
+      "email": "keeruwei@fycs.org",
+      "phone": [
+        "63519525",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157638",
+          "name": "Exercise Bicycle  (non-electric)",
+          "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
