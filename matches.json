@@ -157,6 +157,40 @@
     }
   },
   {
+    "id": "158310",
+    "category": "Infant and Children Items",
+    "name": "Diaper",
+    "description": "Family with a 3-year-old child requires 5-6 packs of size L diapers. One parent is facing mental health challenges and debt, while the other earns a low income. Support is needed to help meet their child's essential needs.",
+    "specifications": "L size",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Peh Li Ping",
+      "email": "liping_peh1@awwa.org.sg",
+      "phone": [
+        "65119442",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158245",
+          "name": "adult diapers",
+          "description": "unused 12 pieces available",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "28 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158287",
     "category": "Infant and Children Items",
     "name": "Baby Stroller",
@@ -419,39 +453,6 @@
           "validTill": "29 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158060",
-    "category": "Home Furnishing",
-    "name": "Study Table",
-    "description": "Client is a widow currently living in a one-room rental flat with her 21-year-old daughter and her partner. Client is certified unfit for work due to both her physical and mental health conditions, and experiencing difficulties cleaning up her flat due to her deteriorating eyesight. She is usually dependent on her daughter to clean up the flat, but daughter is usually busy away from home to provide sufficient support.\nThe rental flat has recently been infested with bedbugs, requiring fumigation, home cleaning services and the need to throw majority of their furniture. As a result, they will require a new study table to be replaced.\nBeneficiary would require help from donor to arrange for delivery and cover the delivery costs.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-      "name": "Reina Chantelle Reyes",
-      "email": "reinachantelle@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158117",
-          "name": "Study table with pedestal",
-          "description": "Measurement is for the table and does not include Measurement of pedestal. In good condition, sturdy, except 1 drawer cannot pull out fully. Does not affect functionality",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "15 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "132cmx58cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
