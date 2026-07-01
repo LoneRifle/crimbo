@@ -110,6 +110,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158337",
+    "name": "mattress - foam",
+    "description": "odd size mattress - lightly used, no stains.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "190x120x10cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158336",
+    "name": "mattress - latex",
+    "description": "odd size latex mattress - clean. no stains. lightly used.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "190x120x10",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158335",
     "name": "Extendable bed frame with storage drawers (single/double)",
     "description": "Brand new IKEA extendable wooden bedframe with 2 storage drawers (fully assembled).\n\nhttps://www.ikea.com/sg/en/p/glamberget-extendable-bed-with-storage-pine-40564846/",
@@ -117,17 +139,6 @@
     "validTill": "30 Jul 2026",
     "ageInYears": 1,
     "dimensions": "80-160cm x 200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158334",
-    "name": "coffee table",
-    "description": "lightly used",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "06 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "120 x 60 x 42 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,17 +583,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "158015",
-    "name": "Hospital Bed electric",
-    "description": "Full hospital bed electric, with air mattress powered to have airflow moving. Side railings on both sides, and tray.",
-    "location": null,
-    "validTill": "22 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "1800 x 100",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "157974",
     "name": "Oxygen tube",
     "description": "New tubing for oxygen concentrator. Self collection only. Thanks",
@@ -715,6 +715,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "158342",
+    "name": "Hospital bed with air mattress",
+    "description": "Hospital bedframe, mattress and air mattress. \nPlease arrange own transport, will need driver + 2 helpers as bed is very heavy.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "220cm x 110cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "158233",
     "name": "Bedside Armrest Grab Bar Safety Handrail. Walking frame and walking stick.",
     "description": "Bedside Armrest Grab Bar, Safety Handrail Bed Guard with Storage Pouch. Applicable user: The elderly, The disabled, Stroke Patient, Pregnant women, etc. The flat base can be directly pressed under a thick mattress. Suitable for various bed types (As long as there is a gap between the top and the mattress)",
@@ -744,17 +755,6 @@
     "validTill": "22 Jul 2026",
     "ageInYears": 2,
     "dimensions": "50 x 55",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157797",
-    "name": "walking frame",
-    "description": "na",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "15 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
