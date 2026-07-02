@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "158406",
-    "name": "Washing Machine",
-    "description": "Fully functional, works well. Self pick up at Sengkang.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "05 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "158346",
     "name": "desk fan",
     "description": "Self collect at my HDB block.\nFan still works but cannot swivel.",
@@ -110,21 +99,32 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158412",
-    "name": "Queen size bed with mattress",
-    "description": "Self collection",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "07 Jul 2026",
+    "id": "158417",
+    "name": "Cabinet",
+    "description": "Not sure",
+    "location": null,
+    "validTill": "31 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "158411",
-    "name": "Marble Dining Table, Leather 3 seat Sofa, Front Load washing machine",
+    "id": "158415",
+    "name": "Laundry Rack",
+    "description": "Laundry Rack - Almost Brand New and used for two months.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "04 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158412",
+    "name": "Queen size bed with mattress",
     "description": "Self collection",
-    "location": null,
+    "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "07 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
@@ -539,6 +539,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "158419",
+    "name": "Golf Iron Set (3 Iron to S Wedge)",
+    "description": "well used iron set.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "158226",
     "name": "Scooter 2 wheel",
     "description": "Good condition scooter - similar to the photo. Purple colour. Suitable for 6-9 years old.",
@@ -792,6 +803,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "158418",
+    "name": "Hospital bed",
+    "description": "- Bock Livorno premium wooden hospital bed frame\n- Includes mattress\n- Safety side rails included\n- Equipped with wheels for easy movement\n- Perfect for home care needs\n- Selling as is\n\nFor more details on this product, click here: \nhttps://www.rainbowcare.com.sg/beds/premium-hospital-beds/livorno-split-side-rails",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "23 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "158398",
     "name": "Hospital bed with air mattress",
     "description": "Hospital bed with air mattress. Still functioning",
@@ -832,6 +854,17 @@
     "validTill": "22 Jul 2026",
     "ageInYears": 2,
     "dimensions": "50 x 55",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "158421",
+    "name": "wheelchair",
+    "description": "na",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -902,7 +935,18 @@
     "category": "Others"
   },
   {
-    "id": "158389",
+    "id": "158428",
+    "name": "Galaxy A9 pro mobile phone",
+    "description": "Good condition old smart phone for basic usage .",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "07 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "158429",
     "name": "Galaxy A9 pro mobile phone",
     "description": "Good condition old smart phone for basic usage .",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
