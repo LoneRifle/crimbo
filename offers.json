@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "158406",
+    "name": "Washing Machine",
+    "description": "Fully functional, works well. Self pick up at Sengkang.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "05 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158346",
     "name": "desk fan",
     "description": "Self collect at my HDB block.\nFan still works but cannot swivel.",
@@ -29,17 +40,6 @@
     "validTill": "17 Jul 2026",
     "ageInYears": 4,
     "dimensions": "see picture",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "158282",
-    "name": "2 x Mini Fridge",
-    "description": "Donating 2 x mini fridge (Non Halal) under KAEFER PROSTAR PTE LTD. VWO may email or SMS me",
-    "location": null,
-    "validTill": "15 Jul 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -110,6 +110,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158412",
+    "name": "Queen size bed with mattress",
+    "description": "Self collection",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "07 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158411",
+    "name": "Marble Dining Table, Leather 3 seat Sofa, Front Load washing machine",
+    "description": "Self collection",
+    "location": null,
+    "validTill": "07 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158405",
+    "name": "Seahorse sofa",
+    "description": "Sofa is still in good condition. Suitable for Small area.\nThis is a sofa but not sofa bed.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "128 (L) x 77 (w) x 77 (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158404",
+    "name": "Kids wandrobe",
+    "description": "used kids wandrobe x 2 units\n\nfully functional with scratches at the side of the door externally.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "57x60x123 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158394",
     "name": "Dining Table Set",
     "description": "Solid wood extendable dining table inclusive of 4 chairs\nNon extendable length at 140cm\nExtendable length at 180cm",
@@ -154,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158352",
-    "name": "Bookshelves",
-    "description": "2 wooden bookshelves and 1 metal/wood shelf. Self collection",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158350",
     "name": "Table and Chair for kids",
     "description": "Two Study Table and Chair Set (blue and pink). Self collection",
@@ -183,17 +216,6 @@
     "validTill": "17 Jul 2026",
     "ageInYears": 4,
     "dimensions": "see picture",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158337",
-    "name": "mattress - foam",
-    "description": "odd size mattress - lightly used, no stains.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "190x120x10cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -407,6 +429,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "158407",
+    "name": "Single Stroller",
+    "description": "Self collection",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "158300",
     "name": "Maclaren Baby Stroller",
     "description": "Foldable Stroller, can fit in regular sedan car boot. If VWO is is in west/central area I can send over directly",
@@ -559,6 +592,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "158408",
+    "name": "Hospital Bed",
+    "description": "3 crank electrical  luxury hospital bed with 3 inch standard comfort mattress ( Foldable)and an alternating Pressure Mattress System.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "84 X 37 X 20 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "158358",
@@ -746,6 +790,17 @@
     "dimensions": "Adjustable",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "158398",
+    "name": "Hospital bed with air mattress",
+    "description": "Hospital bed with air mattress. Still functioning",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "158342",
