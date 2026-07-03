@@ -44,34 +44,12 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158246",
-    "name": "Canon inkjet printer",
-    "description": "Canon inkjet printer",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "28 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "157973",
     "name": "Mistral mini oven",
     "description": "Functions more as small oven than toaster oven. Used item but both temperature and timer controls are fully functioning. Good for baking food, cakes or reheating pizza. Tray is the bigger type. Non-halal item.\nDelivery to the East or if West is up to only Tiong Bahru.",
     "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "13 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157891",
-    "name": "Canon printer",
-    "description": "Working printer",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "06 Jul 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -99,6 +77,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158440",
+    "name": "Kingkoil Super Single Orthocoil Mattress",
+    "description": "Firmness 7.5/10\nMattress and Hooga Tencel fitted sheets only",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "02 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "107 x 200cm x 25cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158436",
+    "name": "Armchair",
+    "description": "Armchair in green velvet",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "10 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158433",
     "name": "1.8m sintered stone dining table with 4 chairs",
     "description": "- Table set with 4 chairs\n- Chair seat covers are removable and washable\n- Scuff marks on table and chair legs but not visible",
@@ -106,17 +106,6 @@
     "validTill": "19 Jul 2026",
     "ageInYears": 4,
     "dimensions": "180cm L x 75cm H x 80cm D",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158417",
-    "name": "Cabinet",
-    "description": "Not sure",
-    "location": null,
-    "validTill": "31 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -150,17 +139,6 @@
     "validTill": "15 Jul 2026",
     "ageInYears": 2,
     "dimensions": "128 (L) x 77 (w) x 77 (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158404",
-    "name": "Kids wandrobe",
-    "description": "used kids wandrobe x 2 units\n\nfully functional with scratches at the side of the door externally.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "57x60x123 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -435,17 +413,6 @@
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "30 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "158252",
-    "name": "Baby crib",
-    "description": "US sized crib\nBrand: Fisher Price\nIncludes Newton crib mattress",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "29 Jul 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -842,17 +809,6 @@
     "location": "Balestier, Toa Payoh",
     "validTill": "11 Jul 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157712",
-    "name": "Geratric_chair",
-    "description": "find the details in https://www.thegoldenconcepts.com/collections/geriatric-chairs/products/mobile-recliner-geriatric-chair",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "11 Jul 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
