@@ -1,5 +1,56 @@
 [
   {
+    "id": "158449",
+    "category": "Electrical Home Appliances",
+    "name": "Bagless Vacuum Cleaner",
+    "description": "A single parent with 3 family members requested for a bagless vacuum cleaner because client cannot afford to buy the vacuum bag cleaner. Their current vacuum cleaner is faulty. The client is currently unemployed due to caregiving of her elderly mother and her nephew. Social worker requested for the vacuum cleaner to be delivered directly to VWO and also for the donor to pay for the delivery cost.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ MacPherson",
+      "name": "Bazeela Kalile D/O Anuwardeen",
+      "email": "bazeela.kalile@thkmc.org.sg",
+      "phone": [
+        "67414255"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2026"
+  },
+  {
+    "id": "158448",
+    "category": "Electrical Home Appliances",
+    "name": "Electric Kettle",
+    "description": "A single parent with 3 family members requested for a brand New Electric Kettle as their current electric kettle is faulty. The client is currently unemployed due to caregiving of her elderly mother and her nephew. Social worker requested for the electric kettle to be delivered directly to VWO and also for the donor to pay for the delivery cost.",
+    "specifications": "For a family 3 - 4 people",
+    "contact": {
+      "org": "THK Family Service Centre @ MacPherson",
+      "name": "Bazeela Kalile D/O Anuwardeen",
+      "email": "bazeela.kalile@thkmc.org.sg",
+      "phone": [
+        "67414255"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2026"
+  },
+  {
+    "id": "158447",
+    "category": "Electrical Home Appliances",
+    "name": "Rice Cooker",
+    "description": "A single parent with 3 family members requested for a brand New rice cooker as their current rice cooker is faulty. The client is currently unemployed due to caregiving of her elderly mother and her nephew. Social worker requested for the rice cooker to be delivered directly to VWO and also for the donor to pay for the delivery cost.",
+    "specifications": "For a family 3 - 4 people",
+    "contact": {
+      "org": "THK Family Service Centre @ MacPherson",
+      "name": "Bazeela Kalile D/O Anuwardeen",
+      "email": "bazeela.kalile@thkmc.org.sg",
+      "phone": [
+        "67414255"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2026"
+  },
+  {
     "id": "158439",
     "category": "Electrical Home Appliances",
     "name": "Window mounted air conditioner unit",
@@ -209,23 +260,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026"
-  },
-  {
-    "id": "158361",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave Oven",
-    "description": "Family with a newborn is currently managing on a single income as the mother is on confinement leave. They are in need of a working microwave oven to help prepare and reheat meals more conveniently while caring for the baby and young children. This would ease their daily caregiving responsibilities and support the family's day-to-day needs.",
-    "specifications": "Any",
-    "contact": {
-      "org": "Lutheran Community Care Services",
-      "name": "Nigel Lee",
-      "email": "nigel.lee@lccs.org.sg",
-      "phone": [
-        "64413906"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
     "date": "01 Jul 2026"
   },
   {
@@ -703,24 +737,6 @@
       "email": "regina@sccfsc.org.sg",
       "phone": [
         "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Jun 2026"
-  },
-  {
-    "id": "157889",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is an elderly unemployed male staying on his own. His current TV is spoilt and is hoping for a replacement set as he is unable to afford a new one.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care COMIT @ Kreta Ayer",
-      "name": "Clinton Low",
-      "email": "clinton.low@montfortcare.org.sg",
-      "phone": [
-        "97727467",
-        "97115240"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1358,6 +1374,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Jun 2026"
+  },
+  {
+    "id": "158444",
+    "category": "Infant and Children Items",
+    "name": "Diapers Size XL",
+    "description": "Ct and hb are parents with multiple children, with the youngest aged 1 year. Hb is the sole breadwinner but is currently only doing adhoc delivery work, as he had injured his back recently. Ct has multiple mental health issues, and newly diagnosed with rheumatoid arthritis, thus vastly limiting her movements. She is also the main caregiver for the children. The family will be grateful for diapers to assist them.",
+    "specifications": "4 packets",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2026"
+  },
+  {
+    "id": "158443",
+    "category": "Infant and Children Items",
+    "name": "Diapers Size M",
+    "description": "Ct and hb are parents with multiple children, with the youngest aged 1 year. Hb is the sole breadwinner but is currently only doing adhoc delivery work, as he had injured his back recently. Ct has multiple mental health issues, and newly diagnosed with rheumatoid arthritis, thus vastly limiting her movements. She is also the main caregiver for the children. The family will be grateful for diapers to assist them.",
+    "specifications": "4 packets",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2026"
   },
   {
     "id": "158442",
@@ -2509,24 +2561,6 @@
     "date": "05 Jun 2026"
   },
   {
-    "id": "157433",
-    "category": "Infant and Children Items",
-    "name": "Towels",
-    "description": "Client lives in a rental flat with her 8 children (aged 2-12). Aside from being a single parent juggling children's basic and emotional needs, she is unable to work due to poor health from pregnancies previously. Family is fully reliant on financial assistance. The family sleeps on mattresses and the mattresses have become dirty and worn out over the years and the client is unable to afford new ones. Family would like to request for 8 mattresses, mattress sheets, pillows, blankets, towels to ensure adequate hygiene and reduce children from falling ill easily.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Jun 2026"
-  },
-  {
     "id": "157432",
     "category": "Infant and Children Items",
     "name": "Blankets",
@@ -3252,24 +3286,6 @@
     "date": "03 Jul 2026"
   },
   {
-    "id": "158432",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Patient is an 8-year-old boy diagnosed with complex congenital heart condition. The patient's condition has deteriorated and at risk of sudden death. \n\nCurrently, he lives with father and two younger siblings in a 2-room HDB rented flat in Punggol. As the father is the main caregiver to patient and two younger children, he is unable to work and currently receiving SSO ComCare Financial Assistance to cover their daily expenses. \n\nThe family is looking for a Queen-size mattress to replace their current one.",
-    "specifications": null,
-    "contact": {
-      "org": "HCA Hospice Limited",
-      "name": "Ang Siang Ping",
-      "email": "siangpinga@hcahospicecare.org.sg",
-      "phone": [
-        "92286797",
-        "62512561"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2026"
-  },
-  {
     "id": "158431",
     "category": "Home Furnishing",
     "name": "Mattress for kids",
@@ -3328,23 +3344,6 @@
     "category": "Home Furnishing",
     "name": "Queen Size Bed Frame",
     "description": "Family of 4 with 2 young, school-going children, are seeking for kind assistance for a donation of Queen-size bed frame as their current one is broken. Parents earn limited income and kind donation can assist for family to get quality rest.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2026"
-  },
-  {
-    "id": "158422",
-    "category": "Home Furnishing",
-    "name": "Foldable Mattress",
-    "description": "Client (M/79) with his wife (F/76) lives in a one-room rental flat. They are currently taking care of their grandson (M/12). Elderly client faces financial limitations and has recently stopped working. A donation of a foldable mattress can assist in ensuring comfortable and quality rest for the family members.",
     "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
@@ -4743,24 +4742,6 @@
     "date": "01 Jul 2026"
   },
   {
-    "id": "158365",
-    "category": "Kitchen Utility Items",
-    "name": "Pot",
-    "description": "Client is a PwD (Deaf), M/60, who is single with limited social support. He is facing financial difficulties after being a scam victim, resulting in significant debt. Despite being employed, his income is insufficient and he runs a monthly income deficit, affecting his ability to meet his basic needs. He reported eating only 1–2 meals daily. Client appears thin and frail. During a home visit noted the absence of cooking facilities, no cooking stove and cooking equipments.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Nurul Adryana Abu Bakar",
-      "email": "nuruladryana@allkin.org.sg",
-      "phone": [
-        "60384270",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026"
-  },
-  {
     "id": "157923",
     "category": "Kitchen Utility Items",
     "name": "mini cooker",
@@ -4832,18 +4813,18 @@
     "date": "11 Jun 2026"
   },
   {
-    "id": "158438",
+    "id": "158446",
     "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Client would like to request for a bicycle for her 12 yo to encourage him to attend school regularly.",
+    "name": "Exercise bike",
+    "description": "60yo senior staying alone, with cervical spondylosis and mobility issues, hence finds it difficult to ambulate outside. She hopes to get some physical exercise in the comfort of her home, hence is requesting for an exercise bike with hand grip as she could not afford it.\n\nExaample of product https://sg.shp.ee/8vmRETjB (UP-F)",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Kee Ru Wei",
-      "email": "keeruwei@fycs.org",
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Shanelle Tan",
+      "email": "shanelle.tan@montfortcare.org.sg",
       "phone": [
-        "63519525",
-        "65690381"
+        "62746904",
+        "62708327"
       ]
     },
     "deliveryCostsCoveredByDonor": true,

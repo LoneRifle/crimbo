@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "158189",
-    "name": "Men's short sleeved cotton shirts, M to L",
-    "description": "Worn, not new\nNo tears or stains\nCotton material",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "25 Jul 2026",
-    "ageInYears": 3,
-    "dimensions": "Medium to Large",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "158346",
     "name": "desk fan",
     "description": "Self collect at my HDB block.\nFan still works but cannot swivel.",
@@ -77,13 +66,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158440",
-    "name": "Kingkoil Super Single Orthocoil Mattress",
-    "description": "Firmness 7.5/10\nMattress and Hooga Tencel fitted sheets only",
+    "id": "158454",
+    "name": "US sized toddler bed",
+    "description": "US sized toddler bed with mattress (brand: Newton)\nGrey fabric with small wooden legs\nDimensions are approximate",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "02 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "140cm long, 76cm wide, 65cm tall",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158453",
+    "name": "Super single mattress with storage bedframe",
+    "description": "I have 2 super single bed (storage frame and mattress provided). Both bought from Forty Two. Condition is almost brand new since it has been 1 year + 8 months. One of the bed can be collected immediately. The other one must be collected after August. \n\nThe mattresses are: Sleepmed Wellness Spinal Care Hypoallergenic\n\nThe bedframe name is: RayLight Faux Leather Storage Bed\n\nOne is in Porcelain colour, the other is a grayish colour.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "02 Aug 2026",
     "ageInYears": 2,
-    "dimensions": "107 x 200cm x 25cm",
+    "dimensions": "107 cm × 190 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -396,13 +396,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158407",
-    "name": "Single Stroller",
-    "description": "Self collection",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Jul 2026",
+    "id": "158455",
+    "name": "Breathable crib mattress",
+    "description": "Brand: Newton\nBreathable mattress that fits full size cribs and toddler beds. \nFully washable",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "02 Aug 2026",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "132cm long, 70cm wide, 14cm thick",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -460,6 +460,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "158456",
+    "name": "Plastic Crockery (hardly used)",
+    "description": "1. Set of 10 beige ceramic soup bowls ( i have more of these!)\n2. White ceramic bowl with bottle design and black rim\n3. White scalloped ceramic serving plate\n4. Set of 3 floral porcelain dessert bowls\n\nwill wipe it down for them :)",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "157482",
@@ -825,6 +836,28 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "158458",
+    "name": "water bottlesssss",
+    "description": "all kept in plastic and never been used before :)\ncan take all or just one it’s alright",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "158457",
+    "name": "brand new insulated water bottle",
+    "description": "can take one or both\nblack colour \nnever used before",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
     "id": "158395",
     "name": "Backpack",
     "description": "White colour backpack (New item)\nGrey colour backpack (Used item with care)",
@@ -847,10 +880,10 @@
     "category": "Others"
   },
   {
-    "id": "158428",
+    "id": "158429",
     "name": "Galaxy A9 pro mobile phone",
     "description": "Good condition old smart phone for basic usage .",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "location": "seng kang",
     "validTill": "07 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
@@ -858,10 +891,10 @@
     "category": "Others"
   },
   {
-    "id": "158429",
+    "id": "158445",
     "name": "Galaxy A9 pro mobile phone",
     "description": "Good condition old smart phone for basic usage .",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "location": "seng kang",
     "validTill": "07 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
