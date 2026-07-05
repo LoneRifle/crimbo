@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "158477",
+    "name": "Airfryer",
+    "description": "Well used airfryer, can heat up to 200 degrees, works very well",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "11 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "33x30x25",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158470",
     "name": "Hospital bed",
     "description": "Hospital bed with air mattress",
@@ -97,6 +108,61 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158479",
+    "name": "Commode",
+    "description": "Only used for transporting patient to the bathroom. Good condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "04 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158478",
+    "name": "Electric hospital bed",
+    "description": "Still in good condition….. comes with mattress and air mattress",
+    "location": null,
+    "validTill": "04 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158476",
+    "name": "tv console",
+    "description": "brown wood",
+    "location": null,
+    "validTill": "31 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158475",
+    "name": "coffee table",
+    "description": "brown coffee table",
+    "location": null,
+    "validTill": "31 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158474",
+    "name": "green sofa",
+    "description": "sofa set",
+    "location": null,
+    "validTill": "31 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "158472",
@@ -854,17 +920,6 @@
     "validTill": "22 Jul 2026",
     "ageInYears": 2,
     "dimensions": "50 x 55",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "158421",
-    "name": "wheelchair",
-    "description": "na",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "15 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
