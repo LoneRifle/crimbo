@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "158486",
+    "name": "Dryer",
+    "description": "Bought in Oct 2025. hardly used",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "620(D) x 670(w) x 830(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158477",
     "name": "Airfryer",
     "description": "Well used airfryer, can heat up to 200 degrees, works very well",
@@ -108,6 +119,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158494",
+    "name": "Balcony set",
+    "description": "Set of balcony seats and table.",
+    "location": null,
+    "validTill": "14 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158487",
+    "name": "3 seater Sofa and coffee table",
+    "description": "Bought 0ct 2025, hardly used",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "695(D) x 1800(W) x 765(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "158480",
@@ -279,6 +312,17 @@
     "name": "Queen size bed with mattress",
     "description": "Self collection",
     "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "07 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158483",
+    "name": "Marble Dining Table, Leather 3 seat Sofa, Front Load washing machine",
+    "description": "Self collection",
+    "location": null,
     "validTill": "07 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
@@ -704,6 +748,28 @@
     "category": "Learning Aids"
   },
   {
+    "id": "158491",
+    "name": "Biatain Alginate Ag 10x10cm",
+    "description": "5 boxes (50pkts) expiry 10/03/28.  6 loose pkts expiry 23/04/28.  Brand New.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "158489",
+    "name": "Assure dressing pack",
+    "description": "6 packets of brand new Assure Dressing Set.  Expiry 09/12/2030.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "158408",
     "name": "Hospital Bed",
     "description": "3 crank electrical  luxury hospital bed with 3 inch standard comfort mattress ( Foldable)and an alternating Pressure Mattress System.",
@@ -867,6 +933,17 @@
     "dimensions": "10cm x 10cm x 13cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "158492",
+    "name": "Walking Frame",
+    "description": "Brand new walking frame.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "158473",
@@ -1040,17 +1117,6 @@
     "location": "seng kang",
     "validTill": "07 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "158354",
-    "name": "ELECTRIC NURSING BED EKD301",
-    "description": "2 MONTH ELECTRIC NURSING BED LIKE BRAND NEW",
-    "location": null,
-    "validTill": "07 Jul 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
