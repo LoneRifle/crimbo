@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "158508",
-    "name": "Fridge",
-    "description": "Still working fine, home use by 1 person, self-collection. 8 yr old fridge",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "height 213.4cm width 61cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "158477",
     "name": "Airfryer",
     "description": "Well used airfryer, can heat up to 200 degrees, works very well",
@@ -110,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158559",
+    "name": "Recliner single seat sofa",
+    "description": "Burgundy armchair, recliner single seat sofa.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": "L135 cm x W 80 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158528",
     "name": "Wooden brown sofa",
     "description": "Wooden sofa which is well used and still in good condition.",
@@ -117,17 +117,6 @@
     "validTill": "09 Jul 2026",
     "ageInYears": 4,
     "dimensions": "Nil",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158522",
-    "name": "2 seater sofabed simulated leather",
-    "description": "Short, not high sofa bed",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "06 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "L132 x D79 x H64cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -253,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158474",
-    "name": "green sofa",
-    "description": "sofa set",
-    "location": null,
-    "validTill": "31 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158472",
     "name": "Brand New Plastic Chair with Back Rest",
     "description": "- 4 units of Brand New Plastic Chair with Back Rest. \n\n- White or Grey colour.",
@@ -370,17 +348,6 @@
     "validTill": "15 Jul 2026",
     "ageInYears": 2,
     "dimensions": "128 (L) x 77 (w) x 77 (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158394",
-    "name": "Dining Table Set",
-    "description": "Solid wood extendable dining table inclusive of 4 chairs\nNon extendable length at 140cm\nExtendable length at 180cm",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "18 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -594,6 +561,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "158556",
+    "name": "Children items",
+    "description": "Left brain training materials",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "158466",
     "name": "Travel cot",
     "description": "Travel cot. Brand is Phil and Ted’s. Good condition. Does not have the mattress.",
@@ -715,6 +693,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "158540",
+    "name": "Encyclopaedia Britannica",
+    "description": "Full set of Britannica Encyclopaedia. 32 volumes. Aged but in good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
     "id": "158298",
     "name": "Calculator Casio FC-100V",
     "description": "///",
@@ -810,6 +799,28 @@
     "validTill": "28 Jul 2026",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "158530",
+    "name": "Hospital Bed",
+    "description": "Brand new, as is used for 2 weeks.",
+    "location": null,
+    "validTill": "26 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "Bed size (L × B × H): ≈ 210 cm × 100 cm × 50 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "158531",
+    "name": "Hospital Bed",
+    "description": "Brand new, as is used for 2 weeks.",
+    "location": null,
+    "validTill": "26 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "Bed size (L × B × H): ≈ 210 cm × 100 cm × 50 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -924,6 +935,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "158565",
+    "name": "Lightweight Foldable Wheelchair",
+    "description": "Brand new lightweight foldable wheelchair\nCan collect anytime.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": "92 * 50 * 93 9.2kg",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "158473",
     "name": "Mobility Vehicle",
     "description": "4 wheel mobility vehicle from Heartway. Vehicle condition is good but batteries may need to be replaced soon. ***I have mobility issue, so I cannot deliver, please come to collect upon arrangement***",
@@ -1010,6 +1032,28 @@
     "dimensions": "approx 43cm x 52cm x 92cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "158543",
+    "name": "24\" used Lenovo PC monitor",
+    "description": "used monitor still working",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "62x42x21",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "158539",
+    "name": "HOUZE 60L Motif Storage Box with Wheels SB-1112 Clear",
+    "description": "- HOUZE 60L Storage Box\n- Clear colour\n- Built-in wheels for easy mobility\n- Dimensions: 43.5cm (L) x 60cm (W) x 35cm (H)\n- Sturdy and practical design\n- Ideal for organizing various belongings",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "Please refer to the photos",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158481",
