@@ -1,5 +1,40 @@
 [
   {
+    "id": "158527",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client and her daughter are unemployed due to medical issues. They have no source of income and relies heavily on financial assistance schemes. Their refrigerator has become faulty which becomes inconvenient for the preparation of meals. They are unable to purchase a new refrigerator.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Eunice Koh",
+      "email": "eunice@frcsfsc.sg",
+      "phone": [
+        "67799488ext17",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "07 Jul 2026"
+  },
+  {
+    "id": "158520",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge (Urgent)",
+    "description": "Family of 3 living in a 1-room rental flat. Client is the sole breadwinner earning limited income while daughter cares for her ADL-dependent husband who has dementia. Their fridge has broken down and they are unable to afford repairs or a replacement. A donated fridge would greatly ease their financial burden by allowing them to store groceries and cook, reducing daily expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jul 2026"
+  },
+  {
     "id": "158512",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -444,24 +479,6 @@
     "id": "158025",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
-    "description": "For newly released single mother who is moving house from halfway house.",
-    "specifications": null,
-    "contact": {
-      "org": "New Life Stories Limited",
-      "name": "Radiant Chua",
-      "email": "radiant@newlifestories.org.sg",
-      "phone": [
-        "88761852",
-        "63867688"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jun 2026"
-  },
-  {
-    "id": "158021",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
     "description": "For newly released single mother who is moving house from halfway house.",
     "specifications": null,
     "contact": {
@@ -1202,6 +1219,42 @@
     "date": "10 Jun 2026"
   },
   {
+    "id": "158526",
+    "category": "Infant and Children Items",
+    "name": "Drypants",
+    "description": "Client lives in a rental flat with her 2 young children aged 5 and 3 years old. As a single parent, she has been addressing children's basic and emotional needs and ensuring they attend childcare regularly; she is struggling from mental health concerns that inhibits routine setting of her own to sustain schooling or employment goals. Family is fully reliant on financial assistance. The younger child has not completed potty training and reliant on diapers currently. Providing these will ensure adequate hygiene for the child while not further stretching the limited financial aid received.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jul 2026"
+  },
+  {
+    "id": "158525",
+    "category": "Infant and Children Items",
+    "name": "Drypants",
+    "description": "Client lives in a rental flat with her eight children (aged 2–12). Aside from being a single parent juggling her children's basic and emotional needs, she is unable to work due to poor health resulting from previous pregnancies. The family is fully reliant on financial assistance and requires support with drypants for her two youngest children to help meet their essential daily needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jul 2026"
+  },
+  {
     "id": "158444",
     "category": "Infant and Children Items",
     "name": "Diapers Size XL",
@@ -1443,23 +1496,6 @@
       "phone": [
         "87145182",
         "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026"
-  },
-  {
-    "id": "158347",
-    "category": "Infant and Children Items",
-    "name": "Baby Food Steamer & Blender",
-    "description": "This family of six has recently welcomed a newborn baby girl and is adjusting to caring for an infant while managing financial challenges. Both parents are working hard to provide for their children and improve their family situation. A baby food steamer and blender would help them prepare healthy homemade meals for their baby more easily and reduce daily caregiving costs.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2320,24 +2356,6 @@
     "date": "01 Jul 2026"
   },
   {
-    "id": "154096",
-    "category": "Others",
-    "name": "Biscuit",
-    "description": "Our home need 100 packets of Assorted Biscuit for our 400 elderly residents. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "Ju Eng Home For Senior Citizens",
-      "name": "Lee Jun Hui",
-      "email": "junhui@jeh.org.sg",
-      "phone": [
-        "64846890ext127",
-        "64846890"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026"
-  },
-  {
     "id": "158367",
     "category": "Others",
     "name": "10 Halal Cooking Oil",
@@ -2454,24 +2472,6 @@
       "phone": [
         "60117651",
         "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jun 2026"
-  },
-  {
-    "id": "158269",
-    "category": "Others",
-    "name": "Safety Bed Rails For Elderly",
-    "description": "Senior is a 79-year-old widow staying with her 54-year-old son in a 2-room rental flat. Ever since the passing of her husband in Jan 2026, senior's condition has rapidly declined and she is now fully dependent on son for her care needs. Son had to stop working to be her full-time caregiver and has expressed challenges with their finances. Senior will benefit from having bed rails to lower the risk of falls. Son is also open to receiving donations of diapers for senior (Tena M-size diapers).\n\nIf keen to donate any of the above items, please kindly reach out to Ms. Lin via WhatsApp at 9846 7229. Thank you for your generosity!\n\nhttps://www.lazada.sg/products/safety-bed-rails-grab-for-elderly-adult-bed-assist-bed-cane-guard-bar-w-storage-i3122534103-s22598183050.html?dsource=share&laz_share_info=3711479981_3_6500_1012320090_3711481981_null&laz_token=9bb41cae49d405fe212c6e17c17313ab&c=c&exlaz=e_LC5dncUrvhvGip8qo24MCfU%2BqLKrZhcY0V%2FYMPjMbRDCXvTKdNAtBTKOftFCYw0EK8SJLU59cDlSAx8AEmXnHy%2BLZW0ris2zD3WnASIas1Y%3D&sub_aff_id=social_share&sub_id2=3711479981&sub_id3=1012320090&sub_id6=CPI_EXLAZ",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Senior Services Ltd",
-      "name": "Lin Hong Yue",
-      "email": "linhongyue@carecorner.org.sg",
-      "phone": [
-        "-",
-        "62536979"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2834,6 +2834,23 @@
     "date": "08 Jun 2026"
   },
   {
+    "id": "158524",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame and Mattress",
+    "description": "Stay alone senior with mental health concern is unable to work due to poor health and is financially challenged. Looking to replace his current single bed (frame + mattress) after bed bug fumigation.",
+    "specifications": "Single bed",
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Marine Parade",
+      "name": "Tan Hui Min",
+      "email": "huimin.tan@montfortcare.org.sg",
+      "phone": [
+        "62423309"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jul 2026"
+  },
+  {
     "id": "158505",
     "category": "Home Furnishing",
     "name": "Clothes wardrobe",
@@ -2972,24 +2989,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Jul 2026"
-  },
-  {
-    "id": "158424",
-    "category": "Home Furnishing",
-    "name": "Sofa Bed (preferably new)",
-    "description": "A single mother and her 11-month-old infant are preparing to move into their newly allocated public rental flat and begin a new chapter together. Without support from her family and while actively seeking employment, she faces financial challenges in furnishing their home with basic essentials.\n\nOne of their most urgent needs is a sofa bed, which will provide a practical and space-saving sleeping arrangement in their home. A donated sofa bed would both mother and child to settle into their new home with greater comfort and dignity.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Vanessa Goh",
-      "email": "vanessagoh@mws.sg",
-      "phone": [
-        "67564995ext102/83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2026"
   },
   {
     "id": "158423",
@@ -3198,23 +3197,6 @@
       "phone": [
         "60384207",
         "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Jun 2026"
-  },
-  {
-    "id": "158307",
-    "category": "Home Furnishing",
-    "name": "Bed frame and mattress",
-    "description": "Client is an elderly man currently residing under the Joint Single Scheme with a housemate. He requires a single or super single bed frame and mattress, as his current bed is unstable and poses a safety risk. The client has experienced multiple falls from the bed due to its condition.",
-    "specifications": "107 cm wide by 190 cm long",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Chan Mian",
-      "email": "chanmian@fycs.org",
-      "phone": [
-        "65690381"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4375,24 +4357,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Jun 2026"
-  },
-  {
-    "id": "158510",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Single mother with a son who requires bicycle to take up part time job for delivery",
-    "specifications": null,
-    "contact": {
-      "org": "Trybe Limited",
-      "name": "Nadiah Binte Abdul Razak",
-      "email": "nadiah.razak@trybe.org",
-      "phone": [
-        "-",
-        "67841481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Jul 2026"
   },
   {
     "id": "158506",
