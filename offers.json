@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "158598",
+    "name": "Refrigerator",
+    "description": "Self collect refrigerator as I am giving away for free",
+    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
+    "validTill": "25 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158477",
     "name": "Airfryer",
     "description": "Well used airfryer, can heat up to 200 degrees, works very well",
@@ -143,34 +154,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158590",
-    "name": "Standing work desk and office Chair",
-    "description": "Standing desk - with adjustable height. And IKEA office chair.  In good condition.  Available before end of July.",
-    "location": null,
-    "validTill": "07 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": "Large desk space. Adjustable height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158582",
     "name": "Single Mattress",
     "description": "2.5 year old ikea mattress - still in good condition. Has 1 stain from a spilled drink, not bodily fluid.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "31 Jul 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158571",
-    "name": "Fridge, console & storage cabinet",
-    "description": "9 yo Fridge is in working condition \nConsole & cabinet from Ikea \nDimensions for console -\nL: 120cm\nW: 52cm\nH: 40cm\nDimensions for storage cabinet - \nStorage cabinet\nH: 203cm\nL: 40.5cm\nW: 28.5cm",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "27 Jul 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -834,6 +823,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "158596",
+    "name": "Hospital Bed Automatic with remote control",
+    "description": "This Hospital Bed is almost brand new and was bought in October 2025. It comes with air pressure mattress and fully automatic bed to incline or decline the bed with a remote controller. \nAnyone who is keen please feel free to contact me in the afternoon. Please arrange your own transportation. Thanks",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "07 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "158491",

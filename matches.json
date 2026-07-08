@@ -1,16 +1,16 @@
 [
   {
-    "id": "158570",
+    "id": "158597",
     "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Young couple living in 1 room rental flat has worked and saved hard to improve their living conditions. Now with 3 young sons, they will be moving into a purchased BTO flat soon and would need a larger and workable fridge.",
-    "specifications": "2-door fridge",
+    "name": "Refrigerator",
+    "description": "39-year-old father to 3 children living in a 1-room rental flat was recently released from prison. The family needs a refrigerator. With no fridge currently, he is unable to store fresh produce for his family. Although he is returning to employment, it is in its early stages. Thus, he is unable to finance a new/second hand purchase for a refrigerator.",
+    "specifications": null,
     "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Angel Lone",
-      "email": "angel@frcsfsc.sg",
+      "org": "South Central Community FSC Ltd",
+      "name": "Munawarah Binte Sukaimi",
+      "email": "Munawarah@sccfsc.org.sg",
       "phone": [
-        "67799488"
+        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -18,24 +18,46 @@
     "matches": {
       "passiton": [
         {
-          "id": "158571",
-          "name": "Fridge, console & storage cabinet",
-          "description": "9 yo Fridge is in working condition \nConsole & cabinet from Ikea \nDimensions for console -\nL: 120cm\nW: 52cm\nH: 40cm\nDimensions for storage cabinet - \nStorage cabinet\nH: 203cm\nL: 40.5cm\nW: 28.5cm",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "27 Jul 2026",
+          "id": "158598",
+          "name": "Refrigerator",
+          "description": "Self collect refrigerator as I am giving away for free",
+          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
+          "validTill": "25 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158581",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client is a single mother caring for her 9-year-old daughter and is currently dependent on ComCare assistance to meet the family's basic needs. Following an incident involving her ex-partner, essential kitchen fixtures were damaged and are no longer usable. As client has limited financial means and is prioritising her daughter's daily needs and household expenses, she is unable to replace these items independently. The loss of these kitchen facilities has affected the family's ability to prepare meals safely and conveniently at home. Donations of a refrigerator, would help restore a safe and functional living environment while alleviating the family's financial strain during this challenging period.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "158369",
-          "name": "Panasonic fridge",
-          "description": "Panasonic 3 door Refrigerator\n- Model: NR-C432D\n- Type: Top Freezer\n\nWorking fridge - very cold freezer & fridge\nNeeds new defrost thermostat \nCurrently must manual defrost\n( I will repair it before collection )\nH180  W65 D68 cm",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "29 Jul 2026",
+          "id": "158598",
+          "name": "Refrigerator",
+          "description": "Self collect refrigerator as I am giving away for free",
+          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
+          "validTill": "25 Jul 2026",
           "ageInYears": 4,
-          "dimensions": "H180  W65  D68 cm",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -141,17 +163,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "158571",
-          "name": "Fridge, console & storage cabinet",
-          "description": "9 yo Fridge is in working condition \nConsole & cabinet from Ikea \nDimensions for console -\nL: 120cm\nW: 52cm\nH: 40cm\nDimensions for storage cabinet - \nStorage cabinet\nH: 203cm\nL: 40.5cm\nW: 28.5cm",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "27 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "158369",
           "name": "Panasonic fridge",
           "description": "Panasonic 3 door Refrigerator\n- Model: NR-C432D\n- Type: Top Freezer\n\nWorking fridge - very cold freezer & fridge\nNeeds new defrost thermostat \nCurrently must manual defrost\n( I will repair it before collection )\nH180  W65 D68 cm",
@@ -159,6 +170,39 @@
           "validTill": "29 Jul 2026",
           "ageInYears": 4,
           "dimensions": "H180  W65  D68 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158355",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "The client is a 67-year-old elderly male with chronic health conditions and mobility limitations. Due to his mobility issues, he is currently unable to work and was recently homeless. He has since transitioned into a new JSS rental flat with his JSS partner. Providing support to source for essential items would greatly aid in his adjustment to the new living environment. While he is presently unemployed due to his condition, he intends to focus on improving his health and eventually return to employment once he has settled more comfortably into his home.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Norsiah Binte Mohd Basir",
+      "email": "norsiah@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158598",
+          "name": "Refrigerator",
+          "description": "Self collect refrigerator as I am giving away for free",
+          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
+          "validTill": "25 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -185,17 +229,6 @@
     "date": "23 Jun 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "158571",
-          "name": "Fridge, console & storage cabinet",
-          "description": "9 yo Fridge is in working condition \nConsole & cabinet from Ikea \nDimensions for console -\nL: 120cm\nW: 52cm\nH: 40cm\nDimensions for storage cabinet - \nStorage cabinet\nH: 203cm\nL: 40.5cm\nW: 28.5cm",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "27 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "158369",
           "name": "Panasonic fridge",
@@ -230,17 +263,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "158571",
-          "name": "Fridge, console & storage cabinet",
-          "description": "9 yo Fridge is in working condition \nConsole & cabinet from Ikea \nDimensions for console -\nL: 120cm\nW: 52cm\nH: 40cm\nDimensions for storage cabinet - \nStorage cabinet\nH: 203cm\nL: 40.5cm\nW: 28.5cm",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "27 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "158369",
           "name": "Panasonic fridge",
           "description": "Panasonic 3 door Refrigerator\n- Model: NR-C432D\n- Type: Top Freezer\n\nWorking fridge - very cold freezer & fridge\nNeeds new defrost thermostat \nCurrently must manual defrost\n( I will repair it before collection )\nH180  W65 D68 cm",
@@ -250,6 +272,39 @@
           "dimensions": "H180  W65  D68 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158600",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Elderly client is requesting for Adult Diapers. Due to his medical condition, he requires assistance with his daily care needs and the use of adult diapers to maintain his personal hygiene. As he is unable to work and support himself financially due to his health condition, he requires support for his essential daily necessities.",
+    "specifications": "Brand: Dr.P (Pull-up Pants) Size: M",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158245",
+          "name": "adult diapers",
+          "description": "unused 12 pieces available",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "28 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -863,6 +918,39 @@
           "validTill": "09 Jul 2026",
           "ageInYears": 1,
           "dimensions": "approx 43cm x 52cm x 92cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158599",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Elderly client is requesting for looking for a lightweight, foldable, and easy-to-use wheelchair. He experiences chronic leg pain that affects his leg bones and significantly limits his mobility. The wheelchair will help him move around more safely at home and attend his hospital appointments. Due to his medical condition, he is currently unable to work and support himself financially.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157715",
+          "name": "wheelchair cushion",
+          "description": "Details refer to https://www.thegoldenconcepts.com/collections/home-furniture/products/roho-mosaic-air-cushion-for-pressure-relief",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "11 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         }
