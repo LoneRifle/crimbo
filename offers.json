@@ -110,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158608",
+    "name": "Single size mattress",
+    "description": "Single mattress. Preloved. Still in good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "20 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158603",
     "name": "Cabinet & console",
     "description": "Console\nL: 120cm\nW: 52cm\nH: 40cm\nCabinet\nH: 203cm\nL: 40.5cm\nW: 28.5cm",
@@ -194,17 +205,6 @@
     "validTill": "06 Aug 2026",
     "ageInYears": 1,
     "dimensions": "L135 cm x W 80 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158528",
-    "name": "Wooden brown sofa",
-    "description": "Wooden sofa which is well used and still in good condition.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "Nil",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -748,6 +748,61 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "158613",
+    "name": "6 glass set",
+    "description": "More than 4 years old. Can still be used.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "158612",
+    "name": "5 Glass Set",
+    "description": "More than 4 years old. Can still be used.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "158611",
+    "name": "2 Glass Sets - 2 Different Types",
+    "description": "More than 4 years old. Can still be used.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "158610",
+    "name": "Small Ikea Glasses",
+    "description": "Old Ikea Glasses. Still can be used.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "158609",
+    "name": "12 Big Ikea Glasses",
+    "description": "Old Ikea Glasses. Still can be used. Do not require it anymore.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "158456",
     "name": "Plastic Crockery (hardly used)",
     "description": "1. Set of 10 beige ceramic soup bowls ( i have more of these!)\n2. White ceramic bowl with bottle design and black rim\n3. White scalloped ceramic serving plate\n4. Set of 3 floral porcelain dessert bowls\n\nwill wipe it down for them :)",
@@ -834,6 +889,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "158607",
+    "name": "Air mattress",
+    "description": "Almost new air mattress. Only used 1 week",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "Box",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "158596",
@@ -1034,17 +1100,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "157622",
-    "name": "Nestle Beneprotein Protein Powder",
-    "description": "2 unopened tubs of Nestle Beneprotein instant protein powder (unflavored)",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "09 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "10cm x 10cm x 13cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "158473",
     "name": "Mobility Vehicle",
     "description": "4 wheel mobility vehicle from Heartway. Vehicle condition is good but batteries may need to be replaced soon. ***I have mobility issue, so I cannot deliver, please come to collect upon arrangement***",
@@ -1118,17 +1173,6 @@
     "validTill": "11 Jul 2026",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "157638",
-    "name": "Exercise Bicycle  (non-electric)",
-    "description": "Simple exercise bicycle with handlebars and feet pedals. Height of bike is adjustable.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "09 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "approx 43cm x 52cm x 92cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
