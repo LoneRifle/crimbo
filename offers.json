@@ -1,21 +1,21 @@
 [
   {
-    "id": "158618",
-    "name": "Washing Machine",
-    "description": "Fisher & Paykal Washing Machine, still in working condition.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "31 Jul 2026",
-    "ageInYears": 4,
+    "id": "158640",
+    "name": "Air cooler",
+    "description": "Air Cooler, use with water and ice cooler.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Aug 2026",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158598",
+    "id": "158622",
     "name": "Refrigerator",
-    "description": "Self collect refrigerator as I am giving away for free",
-    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-    "validTill": "25 Jul 2026",
+    "description": "Fridge for donation. Self pick up tomorrow.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -110,11 +110,22 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158608",
-    "name": "Single size mattress",
-    "description": "Single mattress. Preloved. Still in good condition",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "20 Jul 2026",
+    "id": "158631",
+    "name": "3-Tier Laundryand  Storage Rack",
+    "description": "Comes with a nylon tray and organisers for additional clothes and laundry storage",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "29 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "54 cm x 43 cm x 95 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158630",
+    "name": "PILLOW",
+    "description": "Brand new pillow X2",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "12 Jul 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -209,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158515",
-    "name": "2 door ikea wardobe",
-    "description": "Ikea pax/hasivik modular wardrobe",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "18 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "200*66*201cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158513",
     "name": "Cream Fabric 3 Seater Sofa with Incliner",
     "description": "Fabric 3 seater sofa with incliner. Fabric is pet friendly and repels water.",
@@ -231,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158509",
-    "name": "Queen-sized Mattress",
-    "description": "Pre-loved queen-sized mattress",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158507",
     "name": "Dressing Table with Vanity Mirror",
     "description": "Makeup Table Storage Cabinet with Vanity Mirror",
@@ -249,17 +238,6 @@
     "validTill": "29 Jul 2026",
     "ageInYears": 4,
     "dimensions": "78 cm x 35 cm x 191 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158583",
-    "name": "IKEA BRIMNES Cabinet with Doors (White)",
-    "description": "IKEA BRIMNES Cabinet with Doors (White) \n\na well-maintained IKEA BRIMNES cabinet with doors in white.\nDimensions: 78(W) × 41(D) × 95(H) cm\n* Adjustable shelves\n* Great for shoes, books, pantry items or general storage\n* Clean and sturdy\n* Normal signs of use only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -880,6 +858,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "158639",
+    "name": "Crutches",
+    "description": "a pair of crutches",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "08 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "158607",
     "name": "Air mattress",
     "description": "Almost new air mattress. Only used 1 week",
@@ -941,17 +930,6 @@
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "31 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "158245",
-    "name": "adult diapers",
-    "description": "unused 12 pieces available",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Jul 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"

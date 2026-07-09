@@ -18,11 +18,11 @@
     "matches": {
       "passiton": [
         {
-          "id": "158598",
+          "id": "158622",
           "name": "Refrigerator",
-          "description": "Self collect refrigerator as I am giving away for free",
-          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-          "validTill": "25 Jul 2026",
+          "description": "Fridge for donation. Self pick up tomorrow.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -51,11 +51,11 @@
     "matches": {
       "passiton": [
         {
-          "id": "158598",
+          "id": "158622",
           "name": "Refrigerator",
-          "description": "Self collect refrigerator as I am giving away for free",
-          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-          "validTill": "25 Jul 2026",
+          "description": "Fridge for donation. Self pick up tomorrow.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -91,73 +91,6 @@
           "validTill": "17 Jul 2026",
           "ageInYears": 4,
           "dimensions": "see picture",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158544",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Client is a single parent raising 4 children and one of them is special needs. Client has financial constraints and unable to purchase washing machine and she will require washing machine for daily washing needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Syamirul Azim",
-      "email": "syamirulazim@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158618",
-          "name": "Washing Machine",
-          "description": "Fisher & Paykal Washing Machine, still in working condition.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158493",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "A low income individual, living in a rental flat looking for a washing machine as hers has broken down recently.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Cherie Ho",
-      "email": "cherie.ho@montfortcare.org.sg",
-      "phone": [
-        "89407189",
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158618",
-          "name": "Washing Machine",
-          "description": "Fisher & Paykal Washing Machine, still in working condition.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -245,39 +178,6 @@
     }
   },
   {
-    "id": "158401",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "The family is a low-income household of seven members whose washing machine is no longer functional. As they have several school-going children, the lack of a working washing machine has made it difficult to maintain clean school uniforms and clothing. A replacement washing machine would enable the family to meet their basic household and hygiene needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Jocelyn  Tan",
-      "email": "jocelyn@shenghong.org.sg",
-      "phone": [
-        "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158618",
-          "name": "Washing Machine",
-          "description": "Fisher & Paykal Washing Machine, still in working condition.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158355",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -296,44 +196,11 @@
     "matches": {
       "passiton": [
         {
-          "id": "158598",
+          "id": "158622",
           "name": "Refrigerator",
-          "description": "Self collect refrigerator as I am giving away for free",
-          "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-          "validTill": "25 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158351",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Looking for washing machine to help young family of 7 to replace faulty washing machine. husband is sole breadwinner with meagre salary and wife is Full time housewife to care for the 5 young children.",
-    "specifications": "top load if possible",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Norsiah Binte Mohd Basir",
-      "email": "norsiah@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158618",
-          "name": "Washing Machine",
-          "description": "Fisher & Paykal Washing Machine, still in working condition.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "31 Jul 2026",
+          "description": "Fridge for donation. Self pick up tomorrow.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -378,40 +245,6 @@
     }
   },
   {
-    "id": "158020",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "For newly released single mother who is moving house from halfway house.",
-    "specifications": null,
-    "contact": {
-      "org": "New Life Stories Limited",
-      "name": "Radiant Chua",
-      "email": "radiant@newlifestories.org.sg",
-      "phone": [
-        "88761852",
-        "63867688"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158618",
-          "name": "Washing Machine",
-          "description": "Fisher & Paykal Washing Machine, still in working condition.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "157893",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -439,139 +272,6 @@
           "dimensions": "H180  W65  D68 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "157858",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Client is a 69-year-old male with mobility limitations who is reliant on a mobility scooter for transportation. Since his washing machine is no longer functional, he currently travels approximately 15 minutes to the nearest laundromat every 2-3 days while carrying his soiled laundry. Given his age and mobility challenges, this poses a safety risk and affects his ability to manage his laundry independently. Client would benefit from a donated washing machine so that he can continue to have safe and independent living at home.",
-    "specifications": "540 x 870 x 540 (WxHxD)",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Punggol 616",
-      "name": "Andreanna Angeline Stewart",
-      "email": "andreannastewart@allkin.org.sg",
-      "phone": [
-        "60384140"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158618",
-          "name": "Washing Machine",
-          "description": "Fisher & Paykal Washing Machine, still in working condition.",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158600",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Elderly client is requesting for Adult Diapers. Due to his medical condition, he requires assistance with his daily care needs and the use of adult diapers to maintain his personal hygiene. As he is unable to work and support himself financially due to his health condition, he requires support for his essential daily necessities.",
-    "specifications": "Brand: Dr.P (Pull-up Pants) Size: M",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158245",
-          "name": "adult diapers",
-          "description": "unused 12 pieces available",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158343",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Looking for donations of Adult Diapers (Size XL), preferably the pull-up/pants type, for an elderly lady whom we are supporting in the community.\n\nShe has mobility difficulties and relies on a walking stick to move around safely. She is also experiencing incontinence, and because she is quite frail, she is often unable to get to the toilet in time, especially when she is outside her home. Pull-up style diapers would help her feel more comfortable, maintain her dignity, and give her greater confidence to attend medical appointments and carry on with her daily activities.\n\nIf you have any Adult Diapers (Size XL, pull-up/pants type) to spare, your donation would make a meaningful difference in supporting her daily needs.\n\nIf you are able to help or would like more information, please feel free to reach out to Nisah at 9657 3159 via WhatsApp or phone call.\n\nThank you for your kindness and generosity in supporting our community.",
-    "specifications": "Size XL",
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Yishun",
-      "name": "Kevin Manik",
-      "email": "kevin.manik@montfortcare.org.sg",
-      "phone": [
-        "64848040"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158245",
-          "name": "adult diapers",
-          "description": "unused 12 pieces available",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158310",
-    "category": "Infant and Children Items",
-    "name": "Diaper",
-    "description": "Family with a 3-year-old child requires 5-6 packs of size L diapers. One parent is facing mental health challenges and debt, while the other earns a low income. Support is needed to help meet their child's essential needs.",
-    "specifications": "L size",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Peh Li Ping",
-      "email": "liping_peh1@awwa.org.sg",
-      "phone": [
-        "65119442",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158245",
-          "name": "adult diapers",
-          "description": "unused 12 pieces available",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -640,74 +340,6 @@
           "dimensions": "30x12x49",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158087",
-    "category": "Others",
-    "name": "Adult Diapers",
-    "description": "The client is a 50-year-old female with chronic mobility challenges and relies heavily on a personal mobility device for daily functioning. Recently, her medical condition has worsened, resulting in a need for adult diaper support.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Nurul Adryana Abu Bakar",
-      "email": "nuruladryana@allkin.org.sg",
-      "phone": [
-        "60384270",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158245",
-          "name": "adult diapers",
-          "description": "unused 12 pieces available",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "156339",
-    "category": "Others",
-    "name": "Adult diapers",
-    "description": "Client is a senior caregiver to her adult child with special needs. She is unemployed and is the main caregiver to her child and also husband with a history of stroke and heart conditions. With financial restrains, the family will benefit greatly from a sponsor for her child's diapers as they are a regular expense.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Szandra Law",
-      "email": "szandralaw@fycs.org",
-      "phone": [
-        "96421760",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158245",
-          "name": "adult diapers",
-          "description": "unused 12 pieces available",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "28 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -1008,6 +640,39 @@
           "dimensions": "30x12x49",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158632",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Seeking the donation of a standard wheelchair for an elderly client with a history of multiple strokes and progressive mobility decline. The client is no longer able to use his motorised mobility scooter following his recent hospitalisation and now requires a wheelchair for safer mobility when attending medical appointments and accessing the community.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Nur Sabrina Binte Sanizal",
+      "email": "nur.sabrina@thkmc.org.sg",
+      "phone": [
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "157715",
+          "name": "wheelchair cushion",
+          "description": "Details refer to https://www.thegoldenconcepts.com/collections/home-furniture/products/roho-mosaic-air-cushion-for-pressure-relief",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "11 Jul 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
