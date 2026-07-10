@@ -1,5 +1,39 @@
 [
   {
+    "id": "158669",
+    "category": "Electrical Home Appliances",
+    "name": "Desk Fan",
+    "description": "Vulnerable low-income household flat currently occupied by an adult son who has mental health and executive functioning challenges. His elderly parents are currently in nursing home, and the son is living alone while managing the household independently. House is cluttered, lighting and appliances are mostly not functioning. Seeking a small desk fan to improve home ventilation.",
+    "specifications": "12-16\"",
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Nicole Oi",
+      "email": "nicole.o@ntuchealth.sg",
+      "phone": [
+        "90625070",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158346",
+          "name": "desk fan",
+          "description": "Self collect at my HDB block.\nFan still works but cannot swivel.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "17 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "see picture",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158568",
     "category": "Electrical Home Appliances",
     "name": "Desk fan",
@@ -61,17 +95,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "158646",
-          "name": "Samsung 40\" TV",
-          "description": "Samsung Full HD 40-inch TV\nModel: UA40J5200AK",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "L92 W24 H61",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -213,40 +236,6 @@
     }
   },
   {
-    "id": "158163",
-    "category": "Others",
-    "name": "Laptop",
-    "description": "The client is a single mother caring for 7 children. The family is in need of a refurbished, functional laptop to support the children's schoolwork and educational needs. The laptop would also assist the client in her job search and employment applications as she seeks new opportunities to improve the family's financial situation.\nThe family is on financial assistance and cannot afford to buy a new laptop. Your donation will greatly help the family.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-      "name": "Claire Chen",
-      "email": "clairechen@fycs.org",
-      "phone": [
-        "69783101",
-        "67625215"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "157999",
-          "name": "Thule Red Laptop Backpack",
-          "description": "hardly use, the THULE logo has been peeled off, and one of the zipper's cover has fallen off, overall condition is still good.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "30x12x49",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158501",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -295,6 +284,17 @@
           "validTill": "13 Jul 2026",
           "ageInYears": 4,
           "dimensions": "230cm x 151xm x 96cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158663",
+          "name": "ONE SEAT SOFA CHAIR",
+          "description": "pls arrange for self collection if interested",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "14 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
