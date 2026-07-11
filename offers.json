@@ -1,5 +1,16 @@
 [
   {
+    "id": "158682",
+    "name": "Standing Fan",
+    "description": "Standing Fan with good condition",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "15 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158674",
     "name": "Mini Refrigerator",
     "description": "Ideal for small space\nStill in good conditions\nModel : ppf136\nEnergy efficiencies",
@@ -506,17 +517,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158275",
-    "name": "Dining Table 1.6 metre",
-    "description": "A big dining table suitable for 6 persons. Still in very good condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "160 x 90 x 76 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158244",
     "name": "Glass Top Table",
     "description": "Old but usable, metal base, glass top.",
@@ -605,17 +605,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "157736",
-    "name": "Study chair",
-    "description": "Study chair from ikea, Bleckberget series\nAdjustable height of 79-90cm\nColour: beige",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "12 Jul 2026",
-    "ageInYears": 3,
-    "dimensions": "68*(79-90)*44",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158659",
     "name": "Baby Cot",
     "description": "A cot that is versatile as babycot, toddler bed, furniture and playpen.",
@@ -634,17 +623,6 @@
     "validTill": "31 Jul 2026",
     "ageInYears": 3,
     "dimensions": "121 x 98 x 66 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "158556",
-    "name": "Children items",
-    "description": "Left brain training materials",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "12 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -1131,17 +1109,6 @@
     "dimensions": "50 x 55",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "158481",
-    "name": "Bedsheet/Pillows/Body Lotion/Panadol",
-    "description": "For self collection of all items together",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "12 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "For small unit usage",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "158467",
