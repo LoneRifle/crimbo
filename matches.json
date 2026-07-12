@@ -300,109 +300,176 @@
     }
   },
   {
-    "id": "158501",
+    "id": "158666",
     "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client is a 61-year-old elderly who is wheelchair-bound and managing multiple health conditions. She lives with her 19-year-old son, who is currently serving his NS, in a 2-room rental flat. Family has limited financial means and looking for a 2-seater sofa that is easy to clean, which would greatly ease the caregiving process and provide much-needed comfort for client.",
+    "name": "Shoe Rack",
+    "description": "The family of 5 has requested a shoe rack with enclosed doors to help organise and store their footwear more effectively.",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Ann Wende",
-      "email": "wende_ann@msf.gov.sg",
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Filzah Faisarah",
+      "email": "filzah.aziz@montfortcare.org.sg",
       "phone": [
-        "63765987",
-        "18002220000"
+        "63254753"
       ]
     },
-    "deliveryCostsCoveredByDonor": false,
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158690",
+          "name": "Shoe rack",
+          "description": "Shoe rack",
+          "location": "North",
+          "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158661",
+    "category": "Home Furnishing",
+    "name": "Drawers",
+    "description": "Family consisting of single mother and her 4 children are living in a 2-room rental flat, and would like a new chest of drawers to store their clothes in, as their current one is broken. Please Whatsapp me at 62319407 if you have a suitable one to donate. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158689",
+          "name": "Chest of drawers",
+          "description": "Only the white drawers",
+          "location": "North",
+          "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158495",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Family consisting of mother, 2 children, a grandson and grandfather. They are needing of a new bed as mother has recently been released from prison",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
     "date": "06 Jul 2026",
     "matches": {
       "passiton": [
         {
-          "id": "158673",
-          "name": "SOFA",
-          "description": "single sitting sofa, well maintained",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "10 Aug 2026",
-          "ageInYears": 2,
-          "dimensions": "80x60x60",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158591",
-          "name": "Sofa",
-          "description": "Stylish sofa with cushion.  In good condition. Could do with a clean and then would be in excellent condition.",
-          "location": null,
-          "validTill": "27 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "2 metres long",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158405",
-          "name": "Seahorse sofa",
-          "description": "Sofa is still in good condition. Suitable for Small area.\nThis is a sofa but not sofa bed.",
+          "id": "158687",
+          "name": "Sofa Bed - 2 seater",
+          "description": "This sofa bed can sleep 1 adult and 1 child. Pretty new and sturdy.",
           "location": "Pasir Ris, Simei, Tampines",
           "validTill": "15 Jul 2026",
-          "ageInYears": 2,
-          "dimensions": "128 (L) x 77 (w) x 77 (H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158193",
-          "name": "IKEA Sofabed",
-          "description": "A very comfortable sofabed with a small coffee stain, but otherwise good. Comes with the white cushions. Only selling as leaving Singapore and no space in my shipping.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "13 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "230cm x 151xm x 96cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158663",
-          "name": "ONE SEAT SOFA CHAIR",
-          "description": "pls arrange for self collection if interested",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "14 Jul 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158393",
-          "name": "White fabric sofa",
-          "description": "Self collect only because we are a charity and have too many items to dispose.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158232",
-          "name": "3 seater sofa",
-          "description": "Full Grain Leather Sofa \nMediterranean Sea, legs Walnut\nIn good condition\nIts just 3 seater sofa not a sofa bed",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "26 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "L216cm x W96cm x H66cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158559",
-          "name": "Recliner single seat sofa",
-          "description": "Burgundy armchair, recliner single seat sofa.",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "06 Aug 2026",
           "ageInYears": 1,
-          "dimensions": "L135 cm x W 80 cm",
+          "dimensions": "128cm x 78cm x 30cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158688",
+          "name": "3 seater sofa bed",
+          "description": "Green sofa bed",
+          "location": "North",
+          "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158380",
+    "category": "Home Furnishing",
+    "name": "Chest Drawers",
+    "description": "Client (56) has chronic medical conditions and is living alone. She had been unemployed for many years due to her medical conditions and relies on government payouts to sustain her living. She is in need of chest drawers.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158689",
+          "name": "Chest of drawers",
+          "description": "Only the white drawers",
+          "location": "North",
+          "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157798",
+    "category": "Home Furnishing",
+    "name": "Chest of drawers",
+    "description": "Client requires a chest of drawer for herself and younger daughter. Client has financial difficulty due to family conflict, health issues and unemployment.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Tampines",
+      "name": "Jessica Lim",
+      "email": "jessicalim@carecorner.org.sg",
+      "phone": [
+        "67866225"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158689",
+          "name": "Chest of drawers",
+          "description": "Only the white drawers",
+          "location": "North",
+          "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
