@@ -1,5 +1,16 @@
 [
   {
+    "id": "158749",
+    "name": "Rice cooker",
+    "description": "Large capacity Tefal rice cooker can cook more than 8 cups. Good clean working condition. Collection ASAP OK.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158730",
     "name": "Tower fan",
     "description": "Good working tower fan.",
@@ -198,6 +209,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158748",
+    "name": "Wardrobe",
+    "description": "Good condition clean wardrobe. Collection ASAP ok.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158739",
     "name": "Dining table",
     "description": "Dining table form IKEA. Six seater. In great condition.",
@@ -220,23 +242,23 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158729",
-    "name": "Shoe rack (excellent condition)",
-    "description": "Not very heavily used shoe rack that has been kept in a room",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "25 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "80cm * 30cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158726",
     "name": "Queen size bedframe & mattress",
     "description": "Item can be collected ASAP. Clean Queen sized bed frame & mattress.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "01 Aug 2026",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158741",
+    "name": "Computer study table",
+    "description": "Good condition computer / study table. Chair available too.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -260,17 +282,6 @@
     "validTill": "17 Jul 2026",
     "ageInYears": 1,
     "dimensions": "80cmD x 46cmH",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158717",
-    "name": "King bed w mattress",
-    "description": "Brand new king size bed with mattress",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "17 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "2mL x 2mW x 1.36mH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -352,7 +363,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158701",
+    "id": "158746",
     "name": "Wooden dinning table",
     "description": "Wooden dinning table with 4 chairs",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
