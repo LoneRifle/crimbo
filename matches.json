@@ -51,17 +51,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "158702",
-          "name": "REFRIGERATOR",
-          "description": "originally used for a family of 4. good clean working condition.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "158674",
           "name": "Mini Refrigerator",
           "description": "Ideal for small space\nStill in good conditions\nModel : ppf136\nEnergy efficiencies",
@@ -94,17 +83,6 @@
     "date": "08 Jul 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "158702",
-          "name": "REFRIGERATOR",
-          "description": "originally used for a family of 4. good clean working condition.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "158674",
           "name": "Mini Refrigerator",
@@ -187,6 +165,39 @@
     }
   },
   {
+    "id": "158512",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Ct is a 66 year old retiree with medical issues such as high blood pressure and heart concerns. Ct has no income and is unable to heat up food due to having no gas and appropriate appliance at home",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care COMIT @ Bukit Merah",
+      "name": "Joy Chan Nian En",
+      "email": "joy.chan@montfortcare.org.sg",
+      "phone": [
+        "62746904"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158705",
+          "name": "Microwave oven",
+          "description": "Sharp Double Grill Convection Microwave",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "520 x 309 x 486",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158493",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -211,6 +222,39 @@
           "description": "10kg samsung washing machine in good condition.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158449",
+    "category": "Electrical Home Appliances",
+    "name": "Bagless Vacuum Cleaner",
+    "description": "A single parent with 3 family members requested for a bagless vacuum cleaner because client cannot afford to buy the vacuum bag cleaner. Their current vacuum cleaner is faulty. The client is currently unemployed due to caregiving of her elderly mother and her nephew. Social worker requested for the vacuum cleaner to be delivered directly to VWO and also for the donor to pay for the delivery cost.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ MacPherson",
+      "name": "Bazeela Kalile D/O Anuwardeen",
+      "email": "bazeela.kalile@thkmc.org.sg",
+      "phone": [
+        "67414255"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158704",
+          "name": "Electrolux Lite II (Model Z1860) Bagless Vacuum Cleaner",
+          "description": "* Bagless cylinder vacuum cleaner.\n* Power 1600W.\n* Brand New 2 Filters (As Shown).\n* Includes metal telescopic tubes and interchangeable floor/crevice nozzles.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -339,17 +383,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "158702",
-          "name": "REFRIGERATOR",
-          "description": "originally used for a family of 4. good clean working condition.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "11 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "158674",
           "name": "Mini Refrigerator",
           "description": "Ideal for small space\nStill in good conditions\nModel : ppf136\nEnergy efficiencies",
@@ -465,6 +498,40 @@
     }
   },
   {
+    "id": "158025",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "For newly released single mother who is moving house from halfway house.",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Radiant Chua",
+      "email": "radiant@newlifestories.org.sg",
+      "phone": [
+        "88761852",
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158705",
+          "name": "Microwave oven",
+          "description": "Sharp Double Grill Convection Microwave",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "520 x 309 x 486",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158020",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -489,6 +556,74 @@
           "description": "10kg samsung washing machine in good condition.",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158010",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Family consists of a single mum with 4 children living in a 2-room rental flat. The family requires a microwave for easier food preparation for the children when mum is working. They need either a halal microwave or a brand new one. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158705",
+          "name": "Microwave oven",
+          "description": "Sharp Double Grill Convection Microwave",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "520 x 309 x 486",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157916",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "Family of young couple with 5 children aged 0 to 4yo under financial stress due delay in support from SSO and husband unable work as a delivery driver due to PMD being confiscated. The family has poor social support.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Dishalani D/O Anbanathan",
+      "email": "dishalani@allkin.org.sg",
+      "phone": [
+        "60384135",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158704",
+          "name": "Electrolux Lite II (Model Z1860) Bagless Vacuum Cleaner",
+          "description": "* Bagless cylinder vacuum cleaner.\n* Power 1600W.\n* Brand New 2 Filters (As Shown).\n* Includes metal telescopic tubes and interchangeable floor/crevice nozzles.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,

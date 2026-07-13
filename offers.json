@@ -1,19 +1,30 @@
 [
   {
-    "id": "158703",
-    "name": "washing machine 10kg",
-    "description": "10kg samsung washing machine in good condition.",
+    "id": "158705",
+    "name": "Microwave oven",
+    "description": "Sharp Double Grill Convection Microwave",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "520 x 309 x 486",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158704",
+    "name": "Electrolux Lite II (Model Z1860) Bagless Vacuum Cleaner",
+    "description": "* Bagless cylinder vacuum cleaner.\n* Power 1600W.\n* Brand New 2 Filters (As Shown).\n* Includes metal telescopic tubes and interchangeable floor/crevice nozzles.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "11 Aug 2026",
+    "validTill": "30 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158702",
-    "name": "REFRIGERATOR",
-    "description": "originally used for a family of 4. good clean working condition.",
+    "id": "158703",
+    "name": "washing machine 10kg",
+    "description": "10kg samsung washing machine in good condition.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "11 Aug 2026",
     "ageInYears": 4,
