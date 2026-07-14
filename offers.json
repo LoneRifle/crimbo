@@ -1,5 +1,16 @@
 [
   {
+    "id": "158766",
+    "name": "Hitachi fridge",
+    "description": "Good working condition.",
+    "location": null,
+    "validTill": "13 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158721",
     "name": "Standing fan",
     "description": "Standing fan in good condition.",
@@ -14,28 +25,6 @@
     "id": "158699",
     "name": "Bbq steamboat",
     "description": "Mini bbq steamboat for 2 pax",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "11 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "158696",
-    "name": "Oven",
-    "description": "Airfryer",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "11 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "158695",
-    "name": "Airfryer",
-    "description": "Airfryer",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "11 Aug 2026",
     "ageInYears": 1,
@@ -130,6 +119,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158769",
+    "name": "Velvet 3/4 seater sofa",
+    "description": "Sofa cushion slight sink in. No defects.",
+    "location": null,
+    "validTill": "19 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "1.9m by 0.9m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158768",
+    "name": "Castlery Round dining table",
+    "description": "Castlery round dining table",
+    "location": null,
+    "validTill": "13 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "D 1.6m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158761",
+    "name": "Coffee Table",
+    "description": "Used Ikea Coffee Table with some scratches.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "L180 x W59 x H40 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "158752",
@@ -414,6 +436,17 @@
     "validTill": "06 Aug 2026",
     "ageInYears": 1,
     "dimensions": "L135 cm x W 80 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158763",
+    "name": "4 Drawer Chest",
+    "description": "Used for 2 years from Ikea\nStill in very good condition",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "82 x 50 x 104 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
