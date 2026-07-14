@@ -97,17 +97,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "158766",
-          "name": "Hitachi fridge",
-          "description": "Good working condition.",
-          "location": null,
-          "validTill": "13 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "158369",
           "name": "Panasonic fridge",
           "description": "Panasonic 3 door Refrigerator\n- Model: NR-C432D\n- Type: Top Freezer\n\nWorking fridge - very cold freezer & fridge\nNeeds new defrost thermostat \nCurrently must manual defrost\n( I will repair it before collection )\nH180  W65 D68 cm",
@@ -174,17 +163,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "158766",
-          "name": "Hitachi fridge",
-          "description": "Good working condition.",
-          "location": null,
-          "validTill": "13 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "158369",
           "name": "Panasonic fridge",
           "description": "Panasonic 3 door Refrigerator\n- Model: NR-C432D\n- Type: Top Freezer\n\nWorking fridge - very cold freezer & fridge\nNeeds new defrost thermostat \nCurrently must manual defrost\n( I will repair it before collection )\nH180  W65 D68 cm",
@@ -228,6 +206,40 @@
           "dimensions": "NA",
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158776",
+    "category": "Others",
+    "name": "Shoe Rack",
+    "description": "Donor Request: Shoe Rack\nA family of four living in a rental 2-room flat in Yishun is in need of a new or used shoe rack.\nThe household comprises a husband (58), his wife (54), and their two adult sons (aged 22 and 20), who are currently serving National Service. As the family does not own a shoe rack, their footwear tends to pile up outside the flat entrance, creating a cluttered and disorganised space.\nThis is a particular concern for the wife, who is a stroke survivor and relies on a wheelchair and walker to get around. Clutter near the entrance poses a real safety risk for her when entering and leaving the home, and having a shoe rack would go a long way in keeping the area clear and safe.\nThe husband is the family's sole breadwinner, working as a private hire vehicle driver. As his income can be variable, and with his wife unable to work due to her condition, the family has limited means to purchase household items on their own.\nA donated shoe rack, whether new or used, would make a meaningful difference in supporting a safer and more comfortable home environment for this family. Your generosity would be deeply appreciated.\nRequired dimensions: Height up to 1m, width up to 1.5m, depth up to 0.3m",
+    "specifications": "Height up to 1m, width up to 1.5m, depth up to 0.3m",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Marc Chong",
+      "email": "marc_chong@msf.gov.sg",
+      "phone": [
+        "63548497",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158690",
+          "name": "Shoe rack",
+          "description": "Shoe rack",
+          "location": "North",
+          "validTill": "11 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
