@@ -1,16 +1,53 @@
 [
   {
-    "id": "158797",
+    "id": "158806",
     "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Looking for a washing machine for my Client (M/69) who has moved into his new rental flat. Should be small-medium size due to size constraints.",
-    "specifications": null,
+    "name": "Stove",
+    "description": "Client is a single mother, unemployed due to health issues, residing with 2 school-going children. Electric cooker has rusted and broken, client is seeking donations for electric cooker/stove.",
+    "specifications": "Any",
     "contact": {
-      "org": "TRANS Family Service Centre (Bedok Reservoir)",
-      "name": "Benjamin Chua",
-      "email": "benjamin@trans.org.sg",
+      "org": "AWWA Family Service Centre",
+      "name": "Nur Hidayah Bte Sarifudin",
+      "email": "hidayah_sarifudin@awwa.org.sg",
       "phone": [
-        "67473202"
+        "65119449",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026"
+  },
+  {
+    "id": "158805",
+    "category": "Electrical Home Appliances",
+    "name": "Electric Cooker",
+    "description": "Client has limited income and recently moved into a 1-room rental flat with a built in wall for an electric cooker. Client has difficulty affording one, seeking donations for an electric cooker.",
+    "specifications": "Any",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Nur Hidayah Bte Sarifudin",
+      "email": "hidayah_sarifudin@awwa.org.sg",
+      "phone": [
+        "65119449",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026"
+  },
+  {
+    "id": "158804",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client has limited income and recently moved into a 1-room rental flat with no furniture. Client has difficulty affording a refrigerator, seeking donations.",
+    "specifications": "Any",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Nur Hidayah Bte Sarifudin",
+      "email": "hidayah_sarifudin@awwa.org.sg",
+      "phone": [
+        "65119449",
+        "65119456"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1272,6 +1309,23 @@
     "date": "23 Jun 2026"
   },
   {
+    "id": "158808",
+    "category": "Infant and Children Items",
+    "name": "Baby cot",
+    "description": "Client and her husband have 7 children aged 6 to 22 years old who are schooling. Due to medical reasons, client and her husband have difficulty securing employment and face financial challenges. \n\nClient is currently pregnant with her eighth child and require a baby cot for her upcoming delivery.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026"
+  },
+  {
     "id": "158794",
     "category": "Infant and Children Items",
     "name": "Diapers and Milk Powder",
@@ -2394,6 +2448,24 @@
     "date": "15 Jun 2026"
   },
   {
+    "id": "158807",
+    "category": "Home Furnishing",
+    "name": "Double-Decker Bed",
+    "description": "Request for Double-Decker Bed with Mattress Donation\n \nFamily Background and Need\n \nClient is a 46-year-old single mother who is currently employed but continues to face financial difficulties and struggles to make ends meet. She resides with her two children, M/13 and F/8, in a two-room living arrangement. Due to limited space and financial constraints, all three family members currently share the same sleeping area.\n \nThe crowded sleeping arrangement has resulted in frequent conflicts between the siblings, particularly at night, disrupting the family's rest and overall well-being. The situation has had a noticeable impact on the younger child, F/8, who experiences irregular sleep patterns when disputes arise between the siblings. On some occasions, she leaves the shared sleeping area and sleeps in the hall with her mother. The resulting lack of quality sleep has affected her school attendance and ability to maintain a consistent daily routine.\n \nDespite being employed, the mother faces ongoing financial challenges in meeting the family's daily expenses and is unable to afford the purchase of a suitable bed arrangement to address the issue. As such, the family is seeking assistance in the form of a double-decker bed donation.\n \nA double-decker bed would be a practical and space-efficient solution that would provide both children with their own designated sleeping spaces while maximising the limited living area. This would help reduce sibling conflict, improve sleep quality, promote healthier routines, and support the children's overall well-being, development, and educational needs.\n \nWe would greatly appreciate any support that can be extended to this family through the donation of a double-decker bed. Such assistance would significantly enhance the family's living environment and contribute to greater stability and well-being for both the mother and her children.",
+    "specifications": "Standard Double Decker",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Marc Chong",
+      "email": "marc_chong@msf.gov.sg",
+      "phone": [
+        "63548497",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026"
+  },
+  {
     "id": "158793",
     "category": "Home Furnishing",
     "name": "Single Bed + Bedframe",
@@ -3198,6 +3270,24 @@
     "date": "15 Jun 2026"
   },
   {
+    "id": "158802",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "Client is a lower-income single mother residing in a 1-room rental flat. Her phone has spoiled, and is seeking donations for an Android phone.",
+    "specifications": "Android",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Nur Hidayah Bte Sarifudin",
+      "email": "hidayah_sarifudin@awwa.org.sg",
+      "phone": [
+        "65119449",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026"
+  },
+  {
     "id": "158799",
     "category": "Others",
     "name": "Ensure Milk Powder",
@@ -3959,23 +4049,6 @@
     "date": "25 Jun 2026"
   },
   {
-    "id": "158161",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Family is a single-mother with two children in Primary 4 and Primary 2. The mother has lupus and ongoing health challenges, affecting her ability to provide fully for the children’s educational needs. The children currently rely on their mother’s mobile phone for their Student Learning Space (SLS), but the small screen size and limited functionality make it difficult for them to complete assignments, read materials, and type their work effectively. A laptop would greatly support the children’s learning and ensure they can participate more fully in school requirements.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Muhammamd Farhan Bin Abdul Rahman",
-      "email": "muhdfarhan.abdrahman@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Jun 2026"
-  },
-  {
     "id": "158158",
     "category": "Learning Aids",
     "name": "Reconditioned Laptop",
@@ -4062,6 +4135,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "18 Jun 2026"
+  },
+  {
+    "id": "158803",
+    "category": "Kitchen Utility Items",
+    "name": "Electric Cooker",
+    "description": "Client has limited income and recently moved into a 1-room rental flat with a built in wall for an electric cooker. Client has difficulty affording one, seeking donations for an electric cooker.",
+    "specifications": "Any",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Nur Hidayah Bte Sarifudin",
+      "email": "hidayah_sarifudin@awwa.org.sg",
+      "phone": [
+        "65119449",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026"
   },
   {
     "id": "158557",
