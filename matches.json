@@ -1,5 +1,38 @@
 [
   {
+    "id": "158785",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a divorced middle aged man staying alone in a purchased flat under his father's name (father is currently being cared for by estranged sister). Due to long term physical and mental health issues, he is unfit for work and chronically relying on ComCare assistance. His fridge from 10+ years ago has broken down and he is financially unable to replace it.",
+    "specifications": "61cm width x 73.5cm height x 62cm depth",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158871",
+          "name": "2 door Fridge",
+          "description": "Pre-loved 2 door fridge (non halal), in working condition",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "53 x 53 x 70",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158781",
     "category": "Electrical Home Appliances",
     "name": "Airfryer",
@@ -26,6 +59,73 @@
           "validTill": "11 Aug 2026",
           "ageInYears": 1,
           "dimensions": "50cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158402",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "This family consists of a single-mother and a 1 year old baby. They recently obtained a rental flat from HDB and would be moving in to this new flat soon. They require a fridge to store fresh food items.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Cindy Koh",
+      "email": "cindykoh@kkcs.org.sg",
+      "phone": [
+        "64854720",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158871",
+          "name": "2 door Fridge",
+          "description": "Pre-loved 2 door fridge (non halal), in working condition",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "53 x 53 x 70",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "157893",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a divorced individual staying alone in his father's 3 room flat. Flat is overall in poor condition as client has no financial capability to upkeep home. Client is also chronically relying on SSO support as he has physical and mental health issues. His fridge is faulty and is leaking, and hopes to get a single door fridge so that it can fit into the current fridge's location in the kitchen.",
+    "specifications": "Single Door",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Jun 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158871",
+          "name": "2 door Fridge",
+          "description": "Pre-loved 2 door fridge (non halal), in working condition",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "53 x 53 x 70",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
