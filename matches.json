@@ -1,38 +1,5 @@
 [
   {
-    "id": "158785",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is a divorced middle aged man staying alone in a purchased flat under his father's name (father is currently being cared for by estranged sister). Due to long term physical and mental health issues, he is unfit for work and chronically relying on ComCare assistance. His fridge from 10+ years ago has broken down and he is financially unable to replace it.",
-    "specifications": "61cm width x 73.5cm height x 62cm depth",
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Regina Leong",
-      "email": "regina@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158871",
-          "name": "2 door Fridge",
-          "description": "Pre-loved 2 door fridge (non halal), in working condition",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "53 x 53 x 70",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158781",
     "category": "Electrical Home Appliances",
     "name": "Airfryer",
@@ -61,73 +28,6 @@
           "dimensions": "50cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158402",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "This family consists of a single-mother and a 1 year old baby. They recently obtained a rental flat from HDB and would be moving in to this new flat soon. They require a fridge to store fresh food items.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Cindy Koh",
-      "email": "cindykoh@kkcs.org.sg",
-      "phone": [
-        "64854720",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158871",
-          "name": "2 door Fridge",
-          "description": "Pre-loved 2 door fridge (non halal), in working condition",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": "53 x 53 x 70",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158600",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Elderly client is requesting for Adult Diapers. Due to his medical condition, he requires assistance with his daily care needs and the use of adult diapers to maintain his personal hygiene. As he is unable to work and support himself financially due to his health condition, he requires support for his essential daily necessities.",
-    "specifications": "Brand: Dr.P (Pull-up Pants) Size: M",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158843",
-          "name": "Assortment of Adult Diapers size M",
-          "description": "Assortment of Adult Diapers\n- size M TENA Institution Pack (1x10pcs + 1x4pcs)\n- size M TENA PROSkin Pants (1x9pcs)\n- size M Dr.P Premium Pants (1x3pcs)\n- size L Activ Travel Pack (1x2pcs)",
-          "location": null,
-          "validTill": "27 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "NA",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -185,6 +85,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "158899",
+          "name": "Baby cot + Mattress",
+          "description": "BAby cot in good condition with a comfortable mattress and sheets to go",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "27 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": "80*140 cms",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "158877",
           "name": "Baby cot",
           "description": "7 months great condition",
@@ -239,6 +150,84 @@
           "dimensions": "NA",
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158905",
+    "category": "Home Furnishing",
+    "name": "Single bed frame",
+    "description": "Client is a 72 year old Malay elderly who has recently moved into a rental flat with barely any furniture for her to live comfortably with. Having a Single bed frame will ensure that client is able to remain safe in the community/her home. Client ambulates with her motorised scooter in the community and quad stick /walking frame at home. She also has multiple health conditions such as hypertension, hyperlipidaemia, diabetes, and was previously diagnosed with cervical cancer. Client's legs are also weak, and she is unable to walk much in her home, requiring more rests. Having such household item will help her with settling into the rental flat sooner given her health and mobility issues.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Geylang",
+      "name": "Hajra Bee Binte Kamaludin",
+      "email": "Hajra.Kamaludin@thkmc.org.sg",
+      "phone": [
+        "68461228"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158885",
+          "name": "Super single bed frame",
+          "description": "This bed frame was only used from 30th March 2026 onwards.  Very new.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "22 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158887",
+    "category": "Home Furnishing",
+    "name": "Coffee table",
+    "description": "Family of three, comprising a single mother and her two school-going children. Family is facing financial constraints as the mother is the sole breadwinner and she is working hard towards clearing outstanding debts. To support her children's learning at home, the family is seeking donation of a coffee table for her children to use for homework and writing. As her children are more comfortable sitting on the floor while doing homework, a coffee table would suit their needs better than a child-sized desk. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158761",
+          "name": "Coffee Table",
+          "description": "Used Ikea Coffee Table with some scratches.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "L180 x W59 x H40 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158475",
+          "name": "coffee table",
+          "description": "brown coffee table",
+          "location": null,
+          "validTill": "31 Jul 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
