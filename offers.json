@@ -1,16 +1,5 @@
 [
   {
-    "id": "158906",
-    "name": "Standing fan",
-    "description": "Good condition with remote",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "158900",
     "name": "Standing mirror",
     "description": "Free standing lamp from Ikea in good condition.",
@@ -308,17 +297,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158591",
-    "name": "Sofa",
-    "description": "Stylish sofa with cushion.  In good condition. Could do with a clean and then would be in excellent condition.",
-    "location": null,
-    "validTill": "27 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "2 metres long",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158566",
     "name": "Curtains",
     "description": "2 pieces of curtain each measuring 150x175 cm. Has never been used. 1 piece is washed but not used because it is tab curtain which is not suitable. The other piece is still in package.",
@@ -460,6 +438,61 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "158937",
+    "name": "Bedside Cot",
+    "description": "Bedside Crib, it zips down and measures to height about 5cm. Already dismantled.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158925",
+    "name": "Pink princess dress for 9 to 12 months",
+    "description": "Brand new with tag not worn before.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158923",
+    "name": "Grey baby dress - 80cm",
+    "description": "80cm new grey dress with tag.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158921",
+    "name": "Baby Floral Shoes",
+    "description": "Brand new shoes for 12m - 18m.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158919",
+    "name": "Baby shoes",
+    "description": "Brand new baby shoes. Length about 11.5cm. Don’t want to waste new shoes.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "158899",
@@ -671,6 +704,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "158939",
+    "name": "Brand New Assessment Books",
+    "description": "Hi,\nWe have a few boxes of secondary school assessment books bought few years ago. They are brand new and clean. ie. no dust etc. Happy to send to to a center that is mentoring teenagers and can put them to good use.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "15 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": "A4 size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
     "id": "158540",
     "name": "Encyclopaedia Britannica",
     "description": "Full set of Britannica Encyclopaedia. 32 volumes. Aged but in good condition.",
@@ -836,6 +880,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "158938",
+    "name": "Wheel chair",
+    "description": "Used wheel chair, hardly used in the last year",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "158881",
     "name": "Hospital Bed (Electric)",
     "description": "Though it is a used bed but is in good condition.\n\nIs it possible to waive the delivery/transportation fee? If not, can it be subsidized, please?",
@@ -922,6 +977,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "158913",
+    "name": "Mobile TV cabinet",
+    "description": "TV cabinet with rollers",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158911",
