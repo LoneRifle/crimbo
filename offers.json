@@ -77,6 +77,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158942",
+    "name": "TV Console",
+    "description": "Brand new TV console. The length is adjustable",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "24 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "2.8mL x 0.32mD x 0.28mH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158901",
     "name": "Standing stylist mirror",
     "description": "Free standing mirror - 2 in number - one is white and the other is gold. Please take in pair",
@@ -128,17 +139,6 @@
     "validTill": "30 Jul 2026",
     "ageInYears": 1,
     "dimensions": "90cm by 200cm by 5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158878",
-    "name": "Drawers with accessories drawer",
-    "description": "With glass accessories display top\n3 drawers\nGood condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -440,6 +440,50 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "158952",
+    "name": "Lego-like toys and board game for 10years and above",
+    "description": "Space-ship set (semi-assembled)\nRace car set x 2 (brand new)\nPreloved Board game set",
+    "location": "Sengkang",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158950",
+    "name": "Books for 8-10 year old",
+    "description": "Preloved books suitable for 8-10 year old kids",
+    "location": "Sengkang",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158949",
+    "name": "Books and arts and craft paper punchers, for 6-8 years old",
+    "description": "Pre-loved books and arts and craft paper punchers, suitable for 6-8 years old kid",
+    "location": "Sengkang",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158945",
+    "name": "Toys and wallets for 7-12 years old",
+    "description": "Wallet and mini bag are brand new. Toys are pre-loved. Will do a wet-tissue wipe for the toys before giving to next user.",
+    "location": "Sengkang",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "158937",
     "name": "Bedside Cot",
     "description": "Bedside Crib, it zips down and measures to height about 5cm. Already dismantled.",
@@ -605,17 +649,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "158300",
-    "name": "Maclaren Baby Stroller",
-    "description": "Foldable Stroller, can fit in regular sedan car boot. If VWO is is in west/central area I can send over directly",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "30 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "158241",
     "name": "AeroChamber Plus Flow-vu for ages 1-5",
     "description": "Used twice over the last 2 years \n\nAeroChamber Plus* with Flow-Vu* Anti-static VHC with Medium Mask (1-5 years)\n\n\nhttps://aerochamber.com.sg/product/aerochamber-plus-with-flow-vu-anti-static-vhc-with-medium-mask-1-5-years/",
@@ -680,6 +713,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "159013",
+    "name": "Brother black and white printer DCP-L2535DW",
+    "description": "Print copy and scan. Still usable and working. We print documents and things occasionally only.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "158939",
@@ -858,13 +902,13 @@
     "category": "Medical Aids"
   },
   {
-    "id": "158938",
-    "name": "Wheel chair",
-    "description": "Used wheel chair, hardly used in the last year",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "19 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
+    "id": "158955",
+    "name": "Electric power adjustable power listing bed backrest",
+    "description": "Electric powered adjustable bed backrest. Less than a month old.",
+    "location": null,
+    "validTill": "31 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "75cmx180cmx75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -880,42 +924,9 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "158849",
-    "name": "Commode w/o pot",
-    "description": "Used commode without pot but there is a detachable cover that comes with it. Material is aluminum.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "16 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "158848",
     "name": "Geriatric Chair",
     "description": "Used geriatric chair still in excellent condition.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "16 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "158847",
-    "name": "Walking Frame with Wheels",
-    "description": "I have both walking frame with 2 front wheels and without wheels. \nPlease contact me for more pictures. Thank you.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "16 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "158846",
-    "name": "Walking Frame",
-    "description": "Used foldable walking frame without wheels. slightly worn on the handle rubbering but condition is still good",
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "16 Aug 2026",
     "ageInYears": 2,

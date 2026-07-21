@@ -1,5 +1,83 @@
 [
   {
+    "id": "158991",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "The family of 4 is struggling financially with only the mother working part time as father has health issues and is unemployed. Their TV is spoilt and they could not afford to purchase a new one.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158942",
+          "name": "TV Console",
+          "description": "Brand new TV console. The length is adjustable",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "24 Jul 2026",
+          "ageInYears": 1,
+          "dimensions": "2.8mL x 0.32mD x 0.28mH",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158913",
+          "name": "Mobile TV cabinet",
+          "description": "TV cabinet with rollers",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158953",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum",
+    "description": "Client would need a vacuum to help clean her ceiling.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Nur Iman Putera",
+      "email": "nurimanputera@frcsfsc.sg",
+      "phone": [
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158297",
+          "name": "Eraser debris vacuum",
+          "description": "///",
+          "location": null,
+          "validTill": "30 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158931",
     "category": "Electrical Home Appliances",
     "name": "Rice Cooker",
@@ -364,6 +442,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158914",
+    "category": "Learning Aids",
+    "name": "Printer",
+    "description": "The client has 6 school-going children and requires a printer for the kids' school needs. Husband has recently been released from prison and is now trying to obtain a full-time job. Despite the adversities, both are resilient in their challenges and are trying their best to provide for their children's school needs. This help would assist them to ensure the kid's school needs are met.(Sy)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159013",
+          "name": "Brother black and white printer DCP-L2535DW",
+          "description": "Print copy and scan. Still usable and working. We print documents and things occasionally only.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "20 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
         }
       ],
       "carousell": []
