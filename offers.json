@@ -1,5 +1,27 @@
 [
   {
+    "id": "159032",
+    "name": "Europace standing fan with air filter",
+    "description": "Europace standing fan with air filter",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159027",
+    "name": "LG refrigerator",
+    "description": "Working conditions, self collection is required.",
+    "location": null,
+    "validTill": "20 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "68 w x 175 H x 66cm D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158900",
     "name": "Standing mirror",
     "description": "Free standing lamp from Ikea in good condition.",
@@ -88,6 +110,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159033",
+    "name": "Dining table + chairs",
+    "description": "Dining table + 2 dining chair + a bench",
+    "location": null,
+    "validTill": "28 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159030",
+    "name": "Coffee Table, Tv Console, Desk",
+    "description": "Coffee table in mint condition. 2 drawers.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "100cmx70cmx450cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159026",
     "name": "King Size Mattress ONLY",
     "description": "King Spring Mattress Zinus Euro Top Pocketed Spring\n- Only started using less than 1 month with mattress protector and cover. \n- Giving away because thickness is too high for our preference.",
@@ -99,7 +143,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159024",
+    "id": "159028",
     "name": "Dining table",
     "description": "Wooden table with 4 wooden chairs",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
@@ -149,17 +193,6 @@
     "location": null,
     "validTill": "31 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158885",
-    "name": "Super single bed frame",
-    "description": "This bed frame was only used from 30th March 2026 onwards.  Very new.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Jul 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -337,6 +370,17 @@
     "validTill": "06 Aug 2026",
     "ageInYears": 4,
     "dimensions": "150x175 cm (w x h)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159029",
+    "name": "Cream Fabric 3 Seater Sofa with Incliner",
+    "description": "Fabric 3 seater sofa with incliner. Fabric is pet friendly and repels water.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "2.5mL x 1mD x 1.2mH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -589,17 +633,6 @@
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "30 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "158877",
-    "name": "Baby cot",
-    "description": "7 months great condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "22 Jul 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -924,17 +957,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "158034",
-    "name": "Pleur-x Drainage Kit with 1L bottle",
-    "description": "7 sets of these bottles to give away, with 1 set expiring on Feb 2027.\npreferably to self collect, arrangement can be made.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "22 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "158955",
     "name": "Electric power adjustable power listing bed backrest",
     "description": "Electric powered adjustable bed backrest. Less than a month old.",
@@ -999,6 +1021,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159031",
+    "name": "Queen size bed",
+    "description": "Well used bed with side tables.",
+    "location": null,
+    "validTill": "02 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "Standard queen size bed",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158913",
