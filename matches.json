@@ -1,61 +1,5 @@
 [
   {
-    "id": "158991",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "The family of 4 is struggling financially with only the mother working part time as father has health issues and is unemployed. Their TV is spoilt and they could not afford to purchase a new one.",
-    "specifications": "-",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158942",
-          "name": "TV Console",
-          "description": "Brand new TV console. The length is adjustable",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "24 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "2.8mL x 0.32mD x 0.28mH",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "158913",
-          "name": "Mobile TV cabinet",
-          "description": "TV cabinet with rollers",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "19 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
-        {
-          "id": "159030",
-          "name": "Coffee Table, Tv Console, Desk",
-          "description": "Coffee table in mint condition. 2 drawers.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "30 Jul 2026",
-          "ageInYears": 2,
-          "dimensions": "100cmx70cmx450cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158953",
     "category": "Electrical Home Appliances",
     "name": "Vacuum",
@@ -83,96 +27,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158931",
-    "category": "Electrical Home Appliances",
-    "name": "Rice Cooker",
-    "description": "Client (F/64) lives alone and has limited financial resources. She has been unemployed since 2014 due to asthma. Client reported ongoing depression and a chronic skin condition since 2017, with no significant improvement despite ongoing medical treatment. Financial difficulties have affected her ability to purchase essential items, indicating ongoing unmet basic needs and vulnerability. (JM)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159076",
-          "name": "Rice Cookerbla",
-          "description": "both are new , one is 1.5 L black cooker , the other brown cooker is 2L",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "158463",
-          "name": "Stainless Steel Rice Cooker",
-          "description": "Preloved Stainless Steel Rice Cooker. Have been unused for a some time after parents in law moved in with me. This has been tested to work.\n\nI have 2 rice cookers. So rather than throw these away, this can still be used. We have used it during festive occasions when hosting extended family where we cooked rice for the whole extended family.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "03 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158928",
-    "category": "Electrical Home Appliances",
-    "name": "Rice Cooker",
-    "description": "Client is a retiree with multiple health conditions. Her household is facing financial strain as her brother, who had been the breadwinner of the household, is temporarily unable to work due to medical constraints. (Aga)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159076",
-          "name": "Rice Cookerbla",
-          "description": "both are new , one is 1.5 L black cooker , the other brown cooker is 2L",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "158463",
-          "name": "Stainless Steel Rice Cooker",
-          "description": "Preloved Stainless Steel Rice Cooker. Have been unused for a some time after parents in law moved in with me. This has been tested to work.\n\nI have 2 rice cookers. So rather than throw these away, this can still be used. We have used it during festive occasions when hosting extended family where we cooked rice for the whole extended family.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "03 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -314,6 +168,51 @@
     }
   },
   {
+    "id": "159089",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is a mother supporting 3 children aged 14, 11 and 8. The family recently moved into a 2-room flat and requested for a 2-seater sofa. Client is a low-wage worker and the family faces financial constraints. Thank you.",
+    "specifications": "140 cm to 170 cm in width, 80 cm to 95 cm in depth, and 80 cm to 90 cm in overall height",
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Chen Yuxin",
+      "email": "chen_yuxin@msf.gov.sg",
+      "phone": [
+        "97407475",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "158855",
+          "name": "Sofa and dinning table set with 4 chairs",
+          "description": "Long big sofa and dinning table set with 4 chairs free , please arrange your own delivery. Thanks",
+          "location": null,
+          "validTill": "29 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "158673",
+          "name": "SOFA",
+          "description": "single sitting sofa, well maintained",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "10 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": "80x60x60",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158918",
     "category": "Home Furnishing",
     "name": "Sofa/Chairs",
@@ -366,17 +265,6 @@
     "date": "20 Jul 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "159061",
-          "name": "Queen sized bed and mattress",
-          "description": "Queen sized bed with mattress",
-          "location": null,
-          "validTill": "31 Jul 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "158859",
           "name": "folding bed and thin mattress",
@@ -463,6 +351,139 @@
           "validTill": "31 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158811",
+    "category": "Home Furnishing",
+    "name": "Chest of Drawers",
+    "description": "An elderly man with multiple medical conditions lives with his brother in a one-room public rental flat. Due to his health, he is unable to work and facesd ongoing financialn constraints. His brother was recently released from prison and is currently unemployed, further limited the household's financial resources.\n\nWith limited storage space, the brother's clothing and personal belongings are currently kept on the floor, creating a cluttered living environment.\n\nA doante chest of drawers would provide essential storage and help the brothers to organise their belongings, creating a more organised home environment for them.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Vanessa Goh",
+      "email": "vanessagoh@mws.sg",
+      "phone": [
+        "67564995ext102/83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159084",
+          "name": "Chest of Drawers",
+          "description": "Wooden Chest of Drawers.You may notice some missing handles. Dont worry, I have already fixed them.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "90cm x 50cm x 80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159083",
+          "name": "Chest of Drawers",
+          "description": "wooden chest of drawers.\nYou may notice some handles missing. Dont worry, I have already fixed them.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "100cm x 50cm x 150cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158767",
+    "category": "Home Furnishing",
+    "name": "Chest of Drawers",
+    "description": "Low-income family is currently caring for an ailing elderly aunt who is staying in their home. The family requires a dresser/chest of drawers to provide adequate storage for her clothing and personal belongings. Due to financial constraints, they are unable to purchase the item. The dresser will help create a more organised and comfortable living space while supporting the aunt's care needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Harry Muhammad Shahari Bin Suhaimi",
+      "email": "harrysuhaimi@kkcs.org.sg",
+      "phone": [
+        "64854750"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159084",
+          "name": "Chest of Drawers",
+          "description": "Wooden Chest of Drawers.You may notice some missing handles. Dont worry, I have already fixed them.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "90cm x 50cm x 80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159083",
+          "name": "Chest of Drawers",
+          "description": "wooden chest of drawers.\nYou may notice some handles missing. Dont worry, I have already fixed them.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "100cm x 50cm x 150cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158380",
+    "category": "Home Furnishing",
+    "name": "Chest Drawers",
+    "description": "Client (56) has chronic medical conditions and is living alone. She had been unemployed for many years due to her medical conditions and relies on government payouts to sustain her living. She is in need of chest drawers.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159084",
+          "name": "Chest of Drawers",
+          "description": "Wooden Chest of Drawers.You may notice some missing handles. Dont worry, I have already fixed them.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "90cm x 50cm x 80cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159083",
+          "name": "Chest of Drawers",
+          "description": "wooden chest of drawers.\nYou may notice some handles missing. Dont worry, I have already fixed them.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": "100cm x 50cm x 150cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -573,6 +594,61 @@
     }
   },
   {
+    "id": "159086",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "The client has a history of abdominal medical conditions and has recently been experiencing symptoms of vertigo. She reported frequent episodes of dizziness, particularly when walking in crowded environments or under prolonged exposure to heat. As a result, she often needs to stop after walking short distances to rest, regain her balance, and reorient herself.\n\nGiven her current functional limitations and the risk of falls or fainting during community mobility, the provision of a wheelchair would significantly enhance her safety and mobility by enabling her to travel longer distances without exacerbating her symptoms.",
+    "specifications": "A wheelchair with a high weight capacity",
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Filzah Faisarah",
+      "email": "filzah.aziz@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159077",
+          "name": "Wheelchair",
+          "description": "Foldable Wheelchair",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "159057",
+          "name": "Recliner Wheelchair",
+          "description": "Recliner Wheelchair",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Aug 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "159056",
+          "name": "Recliner Wheelchair",
+          "description": "Recliner Wheelchair",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Aug 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159046",
     "category": "Mobility Aids",
     "name": "commode",
@@ -633,61 +709,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159077",
-          "name": "Wheelchair",
-          "description": "Foldable Wheelchair",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "159057",
-          "name": "Recliner Wheelchair",
-          "description": "Recliner Wheelchair",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "159056",
-          "name": "Recliner Wheelchair",
-          "description": "Recliner Wheelchair",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159011",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "We are seeking a wheelchair for an elderly client with multiple chronic medical conditions who recently underwent left knee surgery. She also experiences daily leg cramps, has reduced bone strength, and underlying heart conditions, making it difficult for her to walk long distances safely.\n\nA donated wheelchair will enable her to attend medical appointments and move around the community more safely. Any donation would be greatly appreciated. Thank you for your kindness and support.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Geylang",
-      "name": "Nur Sabrina Binte Sanizal",
-      "email": "nur.sabrina@thkmc.org.sg",
-      "phone": [
-        "68461228"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026",
     "matches": {
       "passiton": [
         {
