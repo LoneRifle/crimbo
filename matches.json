@@ -431,13 +431,36 @@
           "dimensions": "200 x 110 x 65",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158829",
+    "category": "Home Furnishing",
+    "name": "Bunk Bed",
+    "description": "A single mother with two school going children is residing in a 2-room flat. They are looking for a bunk bed with a trundle (lower bed slides out from underneath) due to space constraint.",
+    "specifications": "Single size bed",
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Tan Yi Ping",
+      "email": "tan_yi_ping@msf.gov.sg",
+      "phone": [
+        "60138796",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jul 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "159071",
-          "name": "Wooden Single Bed Frame + Mattress",
-          "description": "Wooden Bed Frame + Mattress, good condition, lightly used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "30 Jul 2026",
+          "id": "159078",
+          "name": "Bunk Bed Kids",
+          "description": "Kids bunk bed available with mattress if needed. Good condition. Can donate with or without mattresses.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Jul 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -613,6 +636,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159077",
+          "name": "Wheelchair",
+          "description": "Foldable Wheelchair",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
           "id": "159057",
           "name": "Recliner Wheelchair",
           "description": "Recliner Wheelchair",
@@ -656,6 +690,17 @@
     "date": "21 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159077",
+          "name": "Wheelchair",
+          "description": "Foldable Wheelchair",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
         {
           "id": "159057",
           "name": "Recliner Wheelchair",
@@ -701,50 +746,16 @@
     "matches": {
       "passiton": [
         {
-          "id": "159057",
-          "name": "Recliner Wheelchair",
-          "description": "Recliner Wheelchair",
+          "id": "159077",
+          "name": "Wheelchair",
+          "description": "Foldable Wheelchair",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
           "validTill": "21 Aug 2026",
-          "ageInYears": 3,
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
         },
-        {
-          "id": "159056",
-          "name": "Recliner Wheelchair",
-          "description": "Recliner Wheelchair",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159008",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is a 90-year-old elderly who requires a wheelchair for mobility. Due to the family's financial constraints, they are unable to afford one. Client requested for a wheelchair with large rear wheels.",
-    "specifications": null,
-    "contact": {
-      "org": "REACH Community Services Ltd",
-      "name": "Gabriel Noparat",
-      "email": "gabriel.noparat@reach.org.sg",
-      "phone": [
-        "68010875",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026",
-    "matches": {
-      "passiton": [
         {
           "id": "159057",
           "name": "Recliner Wheelchair",
@@ -790,6 +801,17 @@
     "date": "21 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159077",
+          "name": "Wheelchair",
+          "description": "Foldable Wheelchair",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
         {
           "id": "159057",
           "name": "Recliner Wheelchair",
