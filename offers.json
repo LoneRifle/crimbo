@@ -66,6 +66,72 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159128",
+    "name": "Single bedframe with mattress",
+    "description": "Single Bed Frame with Mattress\nAll about 6 mths old",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": "190x92cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159126",
+    "name": "Work desk",
+    "description": "Work desk with wheels\n2 pcs",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159125",
+    "name": "Bulk bed",
+    "description": "Bulk bed with pull out\nComes with mattress",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159124",
+    "name": "Dinning table",
+    "description": "Extendable dinning table",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159123",
+    "name": "Single bed frame",
+    "description": "Single bed frame with bed board, dismantled, screws and allen key available. Bed board a bit crack where blue tapes are seen. Betw 4 to 6 years. Bought a super single bed frame recently. Rather than dispose, thought to donate if anybody wants it.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "1900mm lgth x 980mm width x 40mm ht from flr",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159121",
+    "name": "Single Sofa Bed",
+    "description": "New clean single sofa bed",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "23 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": "70x70x80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159120",
     "name": "IKEA kid's table",
     "description": "Kid's table to bless",
@@ -150,17 +216,6 @@
     "validTill": "10 Aug 2026",
     "ageInYears": 4,
     "dimensions": "5 feet diameter",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159048",
-    "name": "Bed frame",
-    "description": "Super single bedframe delivered in March 2026.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -425,17 +480,6 @@
     "validTill": "28 Jul 2026",
     "ageInYears": 4,
     "dimensions": "120 x 75 x 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158180",
-    "name": "Hospital Bed",
-    "description": "Hospital bed with manual crank shaft",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "25 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "200x100x80",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -858,17 +902,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "158164",
-    "name": "Tena Proskin Barrier Cream - 3 tubes",
-    "description": "Tena Proskin Barrier Cream - 3 tubes\n\nPls arrange for self pick-up at NCCS Building",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "25 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "159062",
     "name": "Rollator with armrests & seat",
     "description": "Item is a dual-function rollator frame that has a seat to allow for user to be pushed.\n\nMore details on item:\nhttps://www.amazon.sg/Standard-Adjustable-Mobility-Handicap-Disabled/dp/B0D957YTWS\n\nFor receiving organisation to pay for collection fee, please.",
@@ -966,6 +999,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159129",
+    "name": "Electric Hospital Bed",
+    "description": "Hospital bed used only 3 months, still under warranty.\n\nWill need help to pay for delivery",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "24 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "159127",
+    "name": "Pokemon snorlax plush",
+    "description": "Pokemon snorlax plush. Clean condition",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "50cm tall",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158911",

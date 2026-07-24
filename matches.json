@@ -219,6 +219,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159124",
+          "name": "Dinning table",
+          "description": "Extendable dinning table",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "28 Jul 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "159085",
           "name": "Dining table + 2 chairs + 1 bench",
           "description": "5year old dining wooden table, bench and 2 wooden chair from castlery. Right support of the bench is slightly loosen, just need to change the screw & it will be ok. Donating the item as i'm moving out. Item will need to be move out by 29 Jul.",
@@ -390,6 +401,73 @@
     }
   },
   {
+    "id": "158754",
+    "category": "Home Furnishing",
+    "name": "Sofa bed",
+    "description": "Family of 4 is presently staying a two-room rental flat and is seeking for a sofa bed to sleep and rest on. Finances are tight for the family as the client has to care for her son, while managing her financial debts.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Felicia Chua",
+      "email": "feliciachua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159121",
+          "name": "Single Sofa Bed",
+          "description": "New clean single sofa bed",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "23 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": "70x70x80",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158495",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Family consisting of mother, 2 children, a grandson and grandfather. They are needing of a new bed as mother has recently been released from prison",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159121",
+          "name": "Single Sofa Bed",
+          "description": "New clean single sofa bed",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "23 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": "70x70x80",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158380",
     "category": "Home Furnishing",
     "name": "Chest Drawers",
@@ -496,40 +574,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158087",
-    "category": "Others",
-    "name": "Adult Diapers",
-    "description": "The client is a 50-year-old female with chronic mobility challenges and relies heavily on a personal mobility device for daily functioning. Recently, her medical condition has worsened, resulting in a need for adult diaper support.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Nurul Adryana Abu Bakar",
-      "email": "nuruladryana@allkin.org.sg",
-      "phone": [
-        "60384270",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jun 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "158843",
-          "name": "Assortment of Adult Diapers size M",
-          "description": "Assortment of Adult Diapers\n- size M TENA Institution Pack (1x10pcs + 1x4pcs)\n- size M TENA PROSkin Pants (1x9pcs)\n- size M Dr.P Premium Pants (1x3pcs)\n- size L Activ Travel Pack (1x2pcs)",
-          "location": null,
-          "validTill": "27 Jul 2026",
-          "ageInYears": 1,
-          "dimensions": "NA",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
