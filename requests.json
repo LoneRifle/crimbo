@@ -88,24 +88,6 @@
     "date": "21 Jul 2026"
   },
   {
-    "id": "158996",
-    "category": "Medical Aids",
-    "name": "(Diaper) Depends Adult Diapers (Pants), Size M - 5x",
-    "description": "Client and his wife are both managing ongoing medical conditions, with the client being the sole breadwinner supporting their household of seven children. One of their children has a special needs condition that requires regular use of adult diapers. The family is currently experiencing financial hardship and would greatly benefit from additional support in the form of diapers to help alleviate their household expenses.",
-    "specifications": "-",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026"
-  },
-  {
     "id": "158971",
     "category": "Medical Aids",
     "name": "Milk powder (Fernleaf Full Cream Milk Powder, 1.8kg, 2 packs)",
@@ -440,23 +422,6 @@
       "phone": [
         "65613462ext503",
         "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jul 2026"
-  },
-  {
-    "id": "159162",
-    "category": "Infant and Children Items",
-    "name": "Water Dispenser (For baby’s milk)",
-    "description": "The family is expecting a newborn in August 2026. However, they have challenges purchasing baby items due to the limited financial means. In addition to supporting this newborn, client is also financially supporting 2 other family members which include a 1-year-old child. The family will benefit from receiving support to prepare them for the arrival of the baby.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2596,6 +2561,23 @@
     "date": "29 Jun 2026"
   },
   {
+    "id": "159209",
+    "category": "Home Furnishing",
+    "name": "Small sofa/sofabed",
+    "description": "Low income family is reorganising their rental flat and looking for a sofa/sofabed donation. Due to limited space, 2-seater size is preferred. Direct delivery to their home in Queenstown is appreciated. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Jul 2026"
+  },
+  {
     "id": "159189",
     "category": "Home Furnishing",
     "name": "Kitchen cabinet countertop",
@@ -2755,23 +2737,6 @@
     "date": "20 Jul 2026"
   },
   {
-    "id": "158908",
-    "category": "Home Furnishing",
-    "name": "Bed Frame and Mattress",
-    "description": "Client is a 72-year-old man who lives alone in a 1-room HDB public rental flat and faces significant health, financial and social challenges. He is single, never married, with no children and no siblings.  He is currently unemployed, has no regular income and experiences multiple medical conditions, including cardiac issues, epilepsy, Hepatitis B and C, malnutrition, frailty and a history of falls. He spends most of his time at home due to his declining health and sleeps on an old, thin, worn and torn mattress. Thank you",
-    "specifications": "Single bed",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jul 2026"
-  },
-  {
     "id": "158830",
     "category": "Home Furnishing",
     "name": "Bunk Bed with a trundle",
@@ -2878,23 +2843,6 @@
     "date": "07 Jul 2026"
   },
   {
-    "id": "158524",
-    "category": "Home Furnishing",
-    "name": "Single Bed Frame and Mattress",
-    "description": "Stay alone senior with mental health concern is unable to work due to poor health and is financially challenged. Looking to replace his current single bed (frame + mattress) after bed bug fumigation.",
-    "specifications": "Single bed",
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Marine Parade",
-      "name": "Tan Hui Min",
-      "email": "huimin.tan@montfortcare.org.sg",
-      "phone": [
-        "62423309"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jul 2026"
-  },
-  {
     "id": "158499",
     "category": "Home Furnishing",
     "name": "Cupboard / Drawer for clothes",
@@ -2970,23 +2918,6 @@
     "category": "Home Furnishing",
     "name": "Wardrobe",
     "description": "Client is in need of wardrobe. He is currently unemployed due to chronic medical conditions. He lives in a 2 room rental flat with a family of 5. The family is facing financial hardship and is struggling to afford basic necessities.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Jul 2026"
-  },
-  {
-    "id": "158380",
-    "category": "Home Furnishing",
-    "name": "Chest Drawers",
-    "description": "Client (56) has chronic medical conditions and is living alone. She had been unemployed for many years due to her medical conditions and relies on government payouts to sustain her living. She is in need of chest drawers.",
     "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
@@ -3262,27 +3193,45 @@
     "date": "30 Jun 2026"
   },
   {
+    "id": "159208",
+    "category": "Electrical Home Appliances",
+    "name": "Pressure cooker",
+    "description": "A single mother is currently caring for her 12-year-old daughter on her own. Due to her health conditions, including diabetes and high blood pressure, as well as her caregiving responsibilities, the mother is currently not working. As part of her daily routine, she prepares meals for her daughter after school each day. The family is seeking donation of a pressure cooker, as it would help reduce her cooking time and lower her gas consumption, thereby easing the financial strain on the household.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Jul 2026"
+  },
+  {
+    "id": "159207",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Low-income family residing in a 2-room HDB rental flat. Family requires a replacement washing machine as the current one is faulty and they are unable to purchase a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Vienne Chiam",
+      "email": "viennechiam@carecorner.org.sg",
+      "phone": [
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Jul 2026"
+  },
+  {
     "id": "159194",
     "category": "Electrical Home Appliances",
     "name": "Digital TV Set-Top Box",
     "description": "An elderly lady who lives alone is requesting support for a Digital TV Set-Top Box (Singapore) to enable her to access local television channels. As she spends much of her time at home after attending daycare activities and during weekends, television serves as an important source of entertainment, meaningful engagement, and companionship, helping to reduce feelings of loneliness and social isolation. Due to her limited financial means, she is unable to afford a Digital TV Set-Top Box on her own. If you're able to support by donating a Digital TV Set-Top Box in good working condition, do contact us. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jul 2026"
-  },
-  {
-    "id": "159193",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "An elderly lady (f/91) who lives alone is requesting support for a television. As she spends most of her time at home after attending daycare activities and during weekends, having a television would provide meaningful engagement, companionship, and entertainment, helping to reduce feelings of loneliness and social isolation. Due to her limited financial means, she is unable to afford one on her own. If you're able to support by donating a television in good working condition, do contact us. Thank you",
     "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
