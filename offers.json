@@ -1,5 +1,16 @@
 [
   {
+    "id": "159278",
+    "name": "Refrigerator",
+    "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158699",
     "name": "Bbq steamboat",
     "description": "Mini bbq steamboat for 2 pax",
@@ -33,6 +44,61 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159293",
+    "name": "Shoe Rack",
+    "description": "Solid rosewood shoe holder",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159292",
+    "name": "Armchair",
+    "description": "Ikea Armchair in good condition.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "06 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159291",
+    "name": "Bunk bed",
+    "description": "Kids bunk bed available with or without mattresses.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "10 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159290",
+    "name": "Island Living Gili Offset Bookshelf",
+    "description": "We purchased this in 2023 and now need to open more space in our house. It has a great mix shelves and cubbies. Hope to find someone who can continue to love it and take care of it.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": "105cm x 35cm x 156cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159279",
+    "name": "Foldable Mattresses",
+    "description": "Two single-size foldable mattresses. Self Pick-up",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159265",
     "name": "Super Single Mattress",
     "description": "2 pieces of Getha Super Single Mattress Sunny 5",
@@ -40,6 +106,17 @@
     "validTill": "02 Aug 2026",
     "ageInYears": 4,
     "dimensions": "107 x 190 x 13cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159300",
+    "name": "MATTRESS AND BED FRAME",
+    "description": "Bed frame and mattress single size",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -143,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159147",
-    "name": "IKEA study table",
-    "description": "IKEA study table still in good condition of 8/10.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "H75cm x W73cm x D50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159177",
     "name": "Grey Fabric Armchair x 4",
     "description": "Material\nMetal tube frame and legs in a black powder-coated finish\nFabric upholstery with quilted design\nFoam cushioned seat and backrest\n\nCare Instructions\nAvoid placing furniture from direct sunlight.\nClean away any dirt or dust on the furniture's surface with a soft cloth.\nAvoid using cleaning products that contain harsh chemicals, alcohol and solvents.\nLift to move furniture, avoid pushing.\nDo not stand on furniture\n\nWeight (Kg): 8.04\nBrand: Qoltured\nMax Load (kg): 100\nUpholstery Material: Fabric\nWidth (cm): 63\nDepth (cm): 63\nHeight (cm): 81\nArmrest Height (cm): 73\nBackrest Height (cm): 34\nSeat Width (cm): 40\nSeat Height (cm): 53\nSeat Depth (cm): 48\n\nGot 4 available",
@@ -216,6 +282,17 @@
     "validTill": "23 Aug 2026",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159089",
+    "name": "Sofa",
+    "description": "Sofa from Castlery, condition is 9/10, washable sofa covers",
+    "location": null,
+    "validTill": "31 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": "180cmX90cmX84cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -372,6 +449,17 @@
     "dimensions": "140cm long, 76cm wide, 65cm tall",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "159289",
+    "name": "baby items (shoes, walker, milk warner)",
+    "description": "baby items to bless",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "159246",
@@ -605,17 +693,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "159272",
-    "name": "Yamaha Guitar",
-    "description": "Yamaha Guitar - used quite a bit\nstrings are broken - you will have to replace it",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "28 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "158419",
     "name": "Golf Iron Set (3 Iron to S Wedge)",
     "description": "well used iron set.",
@@ -678,17 +755,6 @@
     "validTill": "26 Aug 2026",
     "ageInYears": 2,
     "dimensions": "(L)110cm x (W)75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "159198",
-    "name": "[For Donation] Philips Respironics EverFlo Oxygen Concentrator - CLEAN, EXCELLENT CONDITION",
-    "description": "●  Bought Jun-2024. UK/SG 3-pin plug. Provided as-is. Product documentation is included, where available. View for further details:-  \nhttps://www.dropbox.com/scl/fi/udhz9pkucl255e3j9m0jm/Everflo_1.mp4\n●  The recipient would ideally be:- (a) an elderly patient-in-need; (b) nursing/care home/ hospice or (c) welfare/charitable organisation\n●  Kindly DO NOT submit requests under fraudulent pretences as I will be monitoring and escalate to the platform/relevant authorities for account blacklisting/legal recovery/criminal action if the donation item is flipped for resale... thanks for your consideration towards genuine needy cases.\n●  [v.impt] This is a bulky but delicate high-value item NOT suitable to be conveyed by public transport.\n●  Please arrange collection on Fri 31 July or Sat 1 Aug. Do reach out if there's urgent need for earlier collection or alternative date.",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "26 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "58.4cm(H) x 38.1cm (W) x 24.1 cm (D)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -779,6 +845,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "159280",
+    "name": "Toilet Seat Raiser",
+    "description": "Barely used toilet seat raiser. able to dismantle for ease of storage and height is adjustable.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "29 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159276",
+    "name": "Commode",
+    "description": "Pre-loved commode that has been used for less than 1 year",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "29 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159275",
+    "name": "3-crank electrical hospital bed",
+    "description": "Pre-loved hospital bed that has been used for less than 1 year.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "29 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "159228",
@@ -964,6 +1063,17 @@
     "validTill": "31 Jul 2026",
     "ageInYears": 2,
     "dimensions": "212L 103W 73H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "159302",
+    "name": "Hotel toiletries",
+    "description": "Unopened hotel toiletries: toothbrush, toothpaste, soap, comb, shaving kit, shower cap",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
