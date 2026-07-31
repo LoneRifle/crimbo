@@ -1,11 +1,11 @@
 [
   {
-    "id": "159278",
-    "name": "Refrigerator",
-    "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Aug 2026",
-    "ageInYears": 4,
+    "id": "159311",
+    "name": "Dryer 8kg",
+    "description": "Good Condition",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "20 Aug 2026",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -42,6 +42,39 @@
     "dimensions": "See photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159330",
+    "name": "2 Crank Electrical Luxury Hospital Bed",
+    "description": "Like new. Only used for 2 months. User transferred to nursing home.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159320",
+    "name": "Single mattress with metal frame",
+    "description": "Single mattress has no stain front and back as good as new. The frame has wheels below and it is foldable.",
+    "location": null,
+    "validTill": "30 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159307",
+    "name": "Foldable  single bed mattress",
+    "description": "As good as new. Foldable single bed Mattress. No stain or dirt at all, as it has been protected by bed protector while using.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "30 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159293",
@@ -95,17 +128,6 @@
     "validTill": "02 Aug 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159265",
-    "name": "Super Single Mattress",
-    "description": "2 pieces of Getha Super Single Mattress Sunny 5",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "02 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "107 x 190 x 13cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -374,17 +396,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "159206",
-    "name": "Baby bassinet / cot",
-    "description": "Baby bassinet with mattress in perfect condition. Hardly used. Sturdy with lockable wheels and foldable on one side to allow for easy access next to bed.",
-    "location": null,
-    "validTill": "27 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "159178",
     "name": "Steam Sterilizer for baby bottles",
     "description": "Tommee Tippee steam sterilizer to sterilize baby bottles easily. Good working condition",
@@ -594,6 +605,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "159319",
+    "name": "Hospital bed",
+    "description": "Hospital bed with air mattress.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "223cm x 107cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "159199",
     "name": "[For Donation] Back-Support Recliner with Electronic-Control - CLEAN, EXCELLENT CONDITION",
     "description": "●  Bought Aug-2024. Lightly used; clean, excellent condition. Unfortunately, we already wrapped it up and forgot to photograph the actual thing, but looks exactly as vendor pix.\n●  This is a bulky/heavy item NOT suitable to be conveyed by public transport.\n●  Please arrange collection on Fri 31 July or Sat 1 Aug. Do reach out if there's urgent need for earlier collection or alternative date.",
@@ -649,17 +671,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "158639",
-    "name": "Crutches",
-    "description": "a pair of crutches",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "08 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "159276",
     "name": "Commode",
     "description": "Pre-loved commode that has been used for less than 1 year",
@@ -688,17 +699,6 @@
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "27 Aug 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159139",
-    "name": "Walking stick",
-    "description": "Broad based walking stick",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "24 Aug 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
