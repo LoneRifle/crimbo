@@ -1,5 +1,39 @@
 [
   {
+    "id": "159327",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client is looking for a bicycle (can be used) so that she can use it to send her child to and from school. Client resides in a rental flat at the Lavender area.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Cheah Cayyin",
+      "email": "cheahcayyin@kkcs.org.sg",
+      "phone": [
+        "68643015",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159349",
+          "name": "Kid Bicycle",
+          "description": "26 inch wheels. Very good condition. Pick up at Tampines",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "05 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158776",
     "category": "Others",
     "name": "Shoe Rack",
@@ -179,6 +213,40 @@
     }
   },
   {
+    "id": "158956",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "A 27-year-old woman has recently left an abusive marriage after her PPO had been approved and is starting over in a rental flat. She is working a daily-paid warehouse job and is also managing loans due to past financial exploitation. She is currently in urgent need of a refrigerator to help her settle into her new home.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159348",
+          "name": "Fridge",
+          "description": "Very good condition fridge. Pick up at Guilin View",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "05 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158951",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -206,6 +274,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Kitchen Utility Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158897",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is part of a family of 8 with 6 school-going children, relying on her husband as the sole breadwinner. The family faces ongoing financial difficulties due to husband's unstable ad-hoc employment. Client has previously been on long-term MC and continues to cope with multiple psychosocial stressors and is receiving counselling support. Client requests for a donation of a fridge, as the current one is no longer functioning and the family is unable to afford the replacement costs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159348",
+          "name": "Fridge",
+          "description": "Very good condition fridge. Pick up at Guilin View",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "05 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -246,6 +348,39 @@
     }
   },
   {
+    "id": "158785",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is a divorced middle aged man staying alone in a purchased flat under his father's name (father is currently being cared for by estranged sister). Due to long term physical and mental health issues, he is unfit for work and chronically relying on ComCare assistance. His fridge from 10+ years ago has broken down and he is financially unable to replace it.",
+    "specifications": "61cm width x 73.5cm height x 62cm depth",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159348",
+          "name": "Fridge",
+          "description": "Very good condition fridge. Pick up at Guilin View",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "05 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158743",
     "category": "Electrical Home Appliances",
     "name": "television",
@@ -271,6 +406,40 @@
           "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
           "validTill": "12 Aug 2026",
           "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158402",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "This family consists of a single-mother and a 1 year old baby. They recently obtained a rental flat from HDB and would be moving in to this new flat soon. They require a fridge to store fresh food items.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Cindy Koh",
+      "email": "cindykoh@kkcs.org.sg",
+      "phone": [
+        "64854720",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159348",
+          "name": "Fridge",
+          "description": "Very good condition fridge. Pick up at Guilin View",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "05 Aug 2026",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"

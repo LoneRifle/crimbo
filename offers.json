@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "159348",
+    "name": "Fridge",
+    "description": "Very good condition fridge. Pick up at Guilin View",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159344",
     "name": "2 pax mini bbq pot",
     "description": "2 pax mini bbq pot",
@@ -823,6 +834,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159350",
+    "name": "Leather Sofa",
+    "description": "Self Pick-up",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "159349",
+    "name": "Kid Bicycle",
+    "description": "26 inch wheels. Very good condition. Pick up at Tampines",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "159346",
