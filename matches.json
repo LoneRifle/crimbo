@@ -135,51 +135,6 @@
     }
   },
   {
-    "id": "158829",
-    "category": "Home Furnishing",
-    "name": "Bunk Bed",
-    "description": "A single mother with two school going children is residing in a 2-room flat. They are looking for a bunk bed with a trundle (lower bed slides out from underneath) due to space constraint.",
-    "specifications": "Single size bed",
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Tan Yi Ping",
-      "email": "tan_yi_ping@msf.gov.sg",
-      "phone": [
-        "60138796",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159291",
-          "name": "Bunk bed",
-          "description": "Kids bunk bed available with or without mattresses.",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "10 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "159149",
-          "name": "Bunk Bed",
-          "description": "Sturdy solid wood bunk bed with trundle. Very good condition",
-          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-          "validTill": "06 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "202 x 101 x 174",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159234",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -816,33 +771,45 @@
     }
   },
   {
-    "id": "158401",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "The family is a low-income household of seven members whose washing machine is no longer functional. As they have several school-going children, the lack of a working washing machine has made it difficult to maintain clean school uniforms and clothing. A replacement washing machine would enable the family to meet their basic household and hygiene needs.",
-    "specifications": null,
+    "id": "158829",
+    "category": "Home Furnishing",
+    "name": "Bunk Bed",
+    "description": "A single mother with two school going children is residing in a 2-room flat. They are looking for a bunk bed with a trundle (lower bed slides out from underneath) due to space constraint.",
+    "specifications": "Single size bed",
     "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Jocelyn  Tan",
-      "email": "jocelyn@shenghong.org.sg",
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Tan Yi Ping",
+      "email": "tan_yi_ping@msf.gov.sg",
       "phone": [
-        "62895022"
+        "60138796",
+        "64244017"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "02 Jul 2026",
+    "date": "16 Jul 2026",
     "matches": {
       "passiton": [
         {
-          "id": "159352",
-          "name": "Midea 7.5kg washing machine",
-          "description": "Slightly more than a year old. Used only for about 6 months.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "23 Aug 2026",
-          "ageInYears": 2,
-          "dimensions": "440*595*850mm",
+          "id": "159291",
+          "name": "Bunk bed",
+          "description": "Kids bunk bed available with or without mattresses.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "10 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159149",
+          "name": "Bunk Bed",
+          "description": "Sturdy solid wood bunk bed with trundle. Very good condition",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "06 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": "202 x 101 x 174",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
