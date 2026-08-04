@@ -33,6 +33,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159418",
+    "name": "Refrigerator",
+    "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158699",
     "name": "Bbq steamboat",
     "description": "Mini bbq steamboat for 2 pax",
@@ -64,6 +75,28 @@
     "dimensions": "See photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159419",
+    "name": "Single Size Bed Frame with Mattress",
+    "description": "still in great condition \nlightweight",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "24 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "196x97x42",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159417",
+    "name": "Single Size Bed Frame with Mattress",
+    "description": "light bed frame with mattress",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "24 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "196x97x42",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159404",
@@ -187,32 +220,10 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159330",
-    "name": "2 Crank Electrical Luxury Hospital Bed",
-    "description": "Like new. Only used for 2 months. User transferred to nursing home.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159320",
     "name": "Single mattress with metal frame",
     "description": "Single mattress has no stain front and back as good as new. The frame has wheels below and it is foldable.",
     "location": null,
-    "validTill": "30 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159307",
-    "name": "Foldable  single bed mattress",
-    "description": "As good as new. Foldable single bed Mattress. No stain or dirt at all, as it has been protected by bed protector while using.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "30 Aug 2026",
     "ageInYears": 3,
     "dimensions": null,
@@ -315,17 +326,6 @@
     "validTill": "23 Aug 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159402",
-    "name": "IKEA sofabed",
-    "description": "Lightly used IKEA sofabed to bless",
-    "location": null,
-    "validTill": "23 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "See pic",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -842,17 +842,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "05 Aug 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "159349",
-    "name": "Kid Bicycle",
-    "description": "26 inch wheels. Very good condition. Pick up at Tampines",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Aug 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
