@@ -11,11 +11,11 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "159409",
-    "name": "Washing Machine , Fridge",
-    "description": "L-23CM W-22CM H-1.07M",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "06 Aug 2026",
+    "id": "159432",
+    "name": "Tefal, 10cup, Rice cooker",
+    "description": "10+ years old Tefal.  Still in good working condition.  Good for large family",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "31 Aug 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -33,7 +33,18 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159418",
+    "id": "159429",
+    "name": "Refrigerator",
+    "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159430",
     "name": "Refrigerator",
     "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
     "location": "Pasir Ris, Simei, Tampines",
@@ -75,17 +86,6 @@
     "dimensions": "See photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "159424",
-    "name": "Study Table",
-    "description": "Lightly use table with 2 drawer",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "W60 H75 D120",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "159422",
@@ -638,17 +638,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "159319",
-    "name": "Hospital bed",
-    "description": "Hospital bed with air mattress.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "223cm x 107cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "159199",
     "name": "[For Donation] Back-Support Recliner with Electronic-Control - CLEAN, EXCELLENT CONDITION",
     "description": "●  Bought Aug-2024. Lightly used; clean, excellent condition. Unfortunately, we already wrapped it up and forgot to photograph the actual thing, but looks exactly as vendor pix.\n●  This is a bulky/heavy item NOT suitable to be conveyed by public transport.\n●  Please arrange collection on Fri 31 July or Sat 1 Aug. Do reach out if there's urgent need for earlier collection or alternative date.",
@@ -737,17 +726,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "159133",
-    "name": "Geriatric Chair",
-    "description": "Geriatric chair. Small tear on seat but perfectly functional.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "24 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "159062",
     "name": "Rollator with armrests & seat",
     "description": "Item is a dual-function rollator frame that has a seat to allow for user to be pushed.\n\nMore details on item:\nhttps://www.amazon.sg/Standard-Adjustable-Mobility-Handicap-Disabled/dp/B0D957YTWS\n\nFor receiving organisation to pay for collection fee, please.",
@@ -790,6 +768,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159431",
+    "name": "Fireproof Safe",
+    "description": "Safewell MSD105 - fireproof safe\n\nWithstands one hour of high-temperature industrial fire (1010℃)\nStoring large amounts of documents, fire prevention ensures safety.\nSuitable for both home and office use\nElectronic lock + key\n\nProduct Specifications:\n\nExternal Dimensions\n(W x H x D): 495*720*550mm\nInternal Dimensions \n(W x H x D): 335*514*340mm\n\nWeight: 127kg\n\nMaterial: Electro-galvanized sheet, fireproof mortar\nAccessories: Drawer, one shelf",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "23 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "49cm x 72cm x 55cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "159350",
