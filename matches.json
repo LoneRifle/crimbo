@@ -1,5 +1,49 @@
 [
   {
+    "id": "159454",
+    "category": "Infant and Children Items",
+    "name": "Baby cot",
+    "description": "Lower-income family living in rental flat is currently awaiting the arrival of their newborn near the end of the year. Both parents are still in the midst of stabilising their finances and this baby cot will be essential for the preparation of the newborn.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Joel Low",
+      "email": "joellow@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159044",
+          "name": "Baby Cot",
+          "description": "GOod condition",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "09 Aug 2026",
+          "ageInYears": 3,
+          "dimensions": "Standard",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "159150",
+          "name": "USED BABY COT",
+          "description": "Used baby cot with mattress and used bumpers, other contents in the photo not included",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "25 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159059",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -163,17 +207,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159097",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is staying in a rental flat and has been experiencing various emotional and mental-health related challenges. \n\nIn her journey of mental health recovery, she has highlighted that baking can be helpful. Hence, the donation of a small oven will contribute greatly to her progress.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Jana Lim",
+      "email": "jana.lim@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "159434",
-          "name": "IKEA Wooden Bunk Bed",
-          "description": "Link here\nhttps://www.ikea.com/sg/en/p/mydal-bunk-bed-frame-pine-00368772/\n\nPurchased in Feb and hardly used. Still smells new",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "08 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": "90 x 200",
+          "id": "159457",
+          "name": "Oven",
+          "description": "Client wished to bless to other family as this oven is too big for her household.\n\nPlease arrange your own transport",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "04 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "NA",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
