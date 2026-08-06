@@ -18,17 +18,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "159044",
-          "name": "Baby Cot",
-          "description": "GOod condition",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "09 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": "Standard",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
           "id": "159150",
           "name": "USED BABY COT",
           "description": "Used baby cot with mattress and used bumpers, other contents in the photo not included",
@@ -63,11 +52,55 @@
     "matches": {
       "passiton": [
         {
+          "id": "159484",
+          "name": "Dr P Adult Diapers XL size",
+          "description": "1box of 8 packets of XL size DrP diapers",
+          "location": null,
+          "validTill": "05 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
           "id": "159351",
           "name": "DR P ADULT DIAPERS (9PCS TAPE)",
           "description": "Was bought a couple of months for my husband's incontinence problem - he has recovered since - hence we are wanting to donate it - there are 7 such packs.",
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "01 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158948",
+    "category": "Infant and Children Items",
+    "name": "XXL Diapers",
+    "description": "Low income family has three children and their youngest 6-year-old child has special needs. He is unable to toilet train yet and reliant on diapers. Huggies Pants XXL is preferred as other brands may not fit. Direct delivery to family in Commonwealth is appreciated, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Fitrah Nabilah",
+      "email": "fitrahnabilah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159484",
+          "name": "Dr P Adult Diapers XL size",
+          "description": "1box of 8 packets of XL size DrP diapers",
+          "location": null,
+          "validTill": "05 Sep 2026",
           "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -96,6 +129,17 @@
     "date": "05 Aug 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159484",
+          "name": "Dr P Adult Diapers XL size",
+          "description": "1box of 8 packets of XL size DrP diapers",
+          "location": null,
+          "validTill": "05 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
         {
           "id": "159351",
           "name": "DR P ADULT DIAPERS (9PCS TAPE)",
@@ -130,6 +174,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159484",
+          "name": "Dr P Adult Diapers XL size",
+          "description": "1box of 8 packets of XL size DrP diapers",
+          "location": null,
+          "validTill": "05 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
           "id": "159351",
           "name": "DR P ADULT DIAPERS (9PCS TAPE)",
           "description": "Was bought a couple of months for my husband's incontinence problem - he has recovered since - hence we are wanting to donate it - there are 7 such packs.",
@@ -145,34 +200,68 @@
     }
   },
   {
-    "id": "159463",
-    "category": "Home Furnishing",
-    "name": "2-seater sofa",
-    "description": "Client is a young senior who she lives in a rental flat with limited family support and limited financial resources. The 2-seater sofa she is using now is worn out and dirty. It will be helpful if she can have a 2-seater sofa replacement so that she can sit comfortably on a clean sofa, in the living room.",
+    "id": "158836",
+    "category": "Others",
+    "name": "Laptop",
+    "description": "Family of three consist of single income parents with a 17 year old child with autism. Mother would like to get a laptop for her son as he is observed to be curious in using a laptop. It will be used for leisure and learning purposes such as using Zoom for home based learning and learning digital literacy skills such as using mouse, typing practices.",
     "specifications": null,
     "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Nadiah Aqilah Binte BOHARI",
+      "email": "MDSSPEDSW@rainbowcentre.org.sg",
       "phone": [
-        "94552166",
-        "67156715"
+        "98433193",
+        "64752072"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "05 Aug 2026",
+    "date": "17 Jul 2026",
     "matches": {
       "passiton": [
         {
-          "id": "159469",
-          "name": "Green fabric 2 seater sofa",
-          "description": "Very comfortable sofa in a very good condition",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 4,
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158579",
+    "category": "Others",
+    "name": "Adult Diapers (XL)",
+    "description": "The client is a 50-year-old female with chronic mobility challenges and relies heavily on a personal mobility device for daily functioning. Recently, her medical condition has worsened, resulting in a need for adult diaper support.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Nurul Adryana Abu Bakar",
+      "email": "nuruladryana@allkin.org.sg",
+      "phone": [
+        "60384270",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159484",
+          "name": "Dr P Adult Diapers XL size",
+          "description": "1box of 8 packets of XL size DrP diapers",
+          "location": null,
+          "validTill": "05 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -280,6 +369,207 @@
     }
   },
   {
+    "id": "159322",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Beneficiary has enrolled into a full-time course which involves online classes and requires a laptop to attend online classes and access course materials. Family is unable to afford a laptop at present.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159318",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is unemployed and would appreciate a 2nd-hand laptop donation. \nHis old laptop had spoilt after 7 years of usage",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159270",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "The family requires a laptop as one of their daughters is attending school and needs it for educational purposes. They are facing financial difficulties, as they also need to support another child who has Autism Spectrum Disorder.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Andrea Tan",
+      "email": "andreatan@fycs.org",
+      "phone": [
+        "69783017",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159256",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client's daughter is studying interior and product design course and requires\na donated laptop for her studies. Her current laptop is faulty. (HW)",
+    "specifications": "Processor: 13th Gen Intel core 19-14900HX, Operating system:window 11 Pro",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159114",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client (M/53) works long hours as a delivery driver to support his household while covering his vehicle's operating expenses. He hopes to transition to more sustainable employment by taking online upskilling courses and actively searching for new job opportunities.\nA donated laptop would equip him with the tools to build new skills and improve his employment prospects. Your support would make a meaningful difference in helping him work towards greater financial stability.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159034",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a single mother wishing to upskill herself. Her daughter is also in secondary school, currently both in transition shelter due to past family violence issues. She is requesting a laptop for the both of them.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Isabelle Chua",
+      "email": "isabellechua@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159277",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -306,39 +596,6 @@
           "validTill": "31 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159097",
-    "category": "Electrical Home Appliances",
-    "name": "Oven",
-    "description": "Client is staying in a rental flat and has been experiencing various emotional and mental-health related challenges. \n\nIn her journey of mental health recovery, she has highlighted that baking can be helpful. Hence, the donation of a small oven will contribute greatly to her progress.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Jana Lim",
-      "email": "jana.lim@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159457",
-          "name": "Oven",
-          "description": "Client wished to bless to other family as this oven is too big for her household.\n\nPlease arrange your own transport",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "04 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": "NA",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }

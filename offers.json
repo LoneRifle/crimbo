@@ -22,17 +22,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159457",
-    "name": "Oven",
-    "description": "Client wished to bless to other family as this oven is too big for her household.\n\nPlease arrange your own transport",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "159432",
     "name": "Tefal, 10cup, Rice cooker",
     "description": "10+ years old Tefal.  Still in good working condition.  Good for large family",
@@ -88,12 +77,23 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159469",
-    "name": "Green fabric 2 seater sofa",
-    "description": "Very comfortable sofa in a very good condition",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "id": "159482",
+    "name": "Sofa bed kid spill friendly",
+    "description": "3.IKEA HYLTARP Sofa Bed (Spill-Proof White) $0\n\n- KID/PET Friendly! \n Brought for $1000, less than 2 years old.\n 3-seater fabric couch.\n Removable & washable slipcover (100% washable) for easy maintenance.\n Converts easily into a bed with one hand.\n Comfortable seating, ideal for small apartments or guest rooms.\n \n Original link: https://www.ikea.com/sg/en/p/hyltarp-2-seat-sofa-hallarp-white-s29489617/",
+    "location": null,
+    "validTill": "07 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159477",
+    "name": "Electric hospital bed",
+    "description": "Fully functioning electrical hospital bed to give away. Used for less than 10 months.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "31 Aug 2026",
-    "ageInYears": 4,
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -124,17 +124,6 @@
     "id": "159419",
     "name": "Single Size Bed Frame with Mattress",
     "description": "still in great condition \nlightweight",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "24 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "196x97x42",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159461",
-    "name": "Single Size Bed Frame with Mattress",
-    "description": "light bed frame with mattress",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "24 Aug 2026",
     "ageInYears": 2,
@@ -194,6 +183,17 @@
     "validTill": "31 Aug 2026",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159476",
+    "name": "Bed Frame and Mattress",
+    "description": "Super single bed frame and mattress",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "202cm x 107 cm x 58cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -352,6 +352,39 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "159490",
+    "name": "Dual S Pump",
+    "description": "Dual S pump - Only right side suction / motor is working \nSuitable for mums that are latching one side and pumping the other side . \n\nComes with the motor, adapter, tube , one side flange and bottle (can be used directly).\n\nblessing together with a milk collector and my 2packet of breast bag storage.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "159481",
+    "name": "Baby Activity Bouncer",
+    "description": "- Ages 4m+\n\n- Three stages of use: Sit, swivel, bounce & play; Cruise & interact; Play table\n\n- 25+ developmental activities\n\n- Discovery Window lets baby see piano and their feet while playing\n\n- Clip-on toys can be positioned based on baby's abilities\n\n- Converts to a play table with a smooth, seamless surface\n\n- 360-degree rotating seat that stretches for bouncing and includes toy loops to attach toys\n\n- Musical, light-up piano with three ways to play: piano mode, song mode and motion sensor mode\n\n- Peek-a-boo owl pops out and hoots\n\n- Spring cloud with colorful beads\n\n- Swaying trees move back and forth\n\n- Hedgehog bead chaser with spinner\n\n- Includes suction bee snack bowl; dishwasher-safe\n\n- Foot support platform adjusts to the perfect height\n\n- Legs detach for easy storage\n\n- Phthalate-free",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "65cm x 65cm x 50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "159480",
+    "name": "Baby Walker",
+    "description": "Baby walker for babies to learn walking. There is a steering wheel for baby to play too.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "50cm x 40cm x 40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "159400",
     "name": "Pink Kid's Adjustable Table",
     "description": "Kids table\nAdjustable height",
@@ -414,17 +447,6 @@
     "validTill": "25 Aug 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159044",
-    "name": "Baby Cot",
-    "description": "GOod condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "09 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": "Standard",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -550,6 +572,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "159488",
+    "name": "Scooter",
+    "description": "Suitable for teen and adults with average height and weights",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "159458",
     "name": "ZigZaw puzzles",
     "description": "Used quality ZigZaw puzzle for elderly/teenager/adult .\nGood for cognitive training and leisure\n500 pieces (520x380mm)\n1000 pieces (700x500mm)",
@@ -570,6 +603,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "159486",
+    "name": "School bag",
+    "description": "The bag is new and never used before.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
+    "id": "159485",
+    "name": "Laptop bag",
+    "description": "Laptop bag which is new and never been used.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "159450",
@@ -614,6 +669,28 @@
     "dimensions": "A4 size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "159484",
+    "name": "Dr P Adult Diapers XL size",
+    "description": "1box of 8 packets of XL size DrP diapers",
+    "location": null,
+    "validTill": "05 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "159478",
+    "name": "Suction machine",
+    "description": "Fully functional suctioning machine to give away. Comes with a brand new suction tubing.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "159355",
@@ -669,6 +746,17 @@
     "dimensions": "Small",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "159483",
+    "name": "Commode without pot but with cover",
+    "description": "Used Commode, without pot but there is a cover.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "159472",
