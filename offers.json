@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "159499",
+    "name": "Halal Fridge",
+    "description": "Please arrange own pick up from Somerset",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "13 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159467",
     "name": "55 inch TV",
     "description": "55 inch Philips TV. Good working condition, no issues. However the remote control seems to no longer be working. All functions can be controlled from the TV itself.",
@@ -77,23 +88,23 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159494",
+    "name": "White IKEA Nordli Chest of 5 Drawers",
+    "description": "- White IKEA NORDLI chest of 5 drawers\n- Dimensions: 40cm (W) x 121cm (H) x 47cm (D)\n- Internal drawer dimensions: 32cm (W) x 17cm (H) x 37cm (D)\n- This configuration is no longer available at IKEA. \n- Very good for storage and still in good condition.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "10 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": "40cm x 47cm x 121cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159482",
     "name": "Sofa bed kid spill friendly",
     "description": "3.IKEA HYLTARP Sofa Bed (Spill-Proof White) $0\n\n- KID/PET Friendly! \n Brought for $1000, less than 2 years old.\n 3-seater fabric couch.\n Removable & washable slipcover (100% washable) for easy maintenance.\n Converts easily into a bed with one hand.\n Comfortable seating, ideal for small apartments or guest rooms.\n \n Original link: https://www.ikea.com/sg/en/p/hyltarp-2-seat-sofa-hallarp-white-s29489617/",
     "location": null,
     "validTill": "07 Aug 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159477",
-    "name": "Electric hospital bed",
-    "description": "Fully functioning electrical hospital bed to give away. Used for less than 10 months.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -183,17 +194,6 @@
     "validTill": "31 Aug 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159476",
-    "name": "Bed Frame and Mattress",
-    "description": "Super single bed frame and mattress",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "202cm x 107 cm x 58cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -748,6 +748,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "159497",
+    "name": "Walking stick umbrella",
+    "description": "Umbrella is in good condition too.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "60 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159496",
+    "name": "Mobility aid",
+    "description": "Estimated dimensions\nMobility aid, with a rather rusty horizontal bar. See photo",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "50 x 30 x 60",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "159483",
     "name": "Commode without pot but with cover",
     "description": "Used Commode, without pot but there is a cover.",
@@ -764,17 +786,6 @@
     "description": "Condition: Good / Working fine - just maybe a bit dusty due to place constrain and not able to clean it.\nRequirement:SELF-COLLECTION and SELF-DISMANTLE. You need to arrange your own movers or a large vehicle\nand manpower to carry it.(negotiable), depend on the transportation cost.",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "05 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159444",
-    "name": "Wheelchair",
-    "description": "Used by mother in law. She is using different type now.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "10 Aug 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -878,6 +889,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159491",
+    "name": "TOYS",
+    "description": "toys like dinosaurs, fire truck, gun, etc etc",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "159129",
