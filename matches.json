@@ -145,6 +145,73 @@
     }
   },
   {
+    "id": "159463",
+    "category": "Home Furnishing",
+    "name": "2-seater sofa",
+    "description": "Client is a young senior who she lives in a rental flat with limited family support and limited financial resources. The 2-seater sofa she is using now is worn out and dirty. It will be helpful if she can have a 2-seater sofa replacement so that she can sit comfortably on a clean sofa, in the living room.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159469",
+          "name": "Green fabric 2 seater sofa",
+          "description": "Very comfortable sofa in a very good condition",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159387",
+    "category": "Home Furnishing",
+    "name": "Double decker bed",
+    "description": "Mom of 6 children from low-income background require assistance in acquiring double-decker bed to accommodate space constraints in her rental flat.",
+    "specifications": "No specific dimensions",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Evelyn  Chin",
+      "email": "evelynchin@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159087",
+          "name": "Double Decker Bed",
+          "description": "It's a solid wood bunk bed with bottom queen and top super single. Used for 1 year plus. Still in good condition.",
+          "location": null,
+          "validTill": "01 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": "200 cm (L) × 158 cm (W) × 170 cm (H)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159326",
     "category": "Home Furnishing",
     "name": "Queen sized mattress",
