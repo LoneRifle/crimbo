@@ -11,11 +11,33 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "159467",
-    "name": "55 inch TV",
-    "description": "55 inch Philips TV. Good working condition, no issues. However the remote control seems to no longer be working. All functions can be controlled from the TV itself.",
-    "location": "Springleaf, Tagore, Upper Thomson",
-    "validTill": "31 Aug 2026",
+    "id": "159529",
+    "name": "Washing Machine",
+    "description": "Pick up at Upper Changi Road East. Lightly used and in very good condition.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "12 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159528",
+    "name": "Fridge",
+    "description": "In good working condition. Lightly used. Pick up at Upper Changi Road East.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "12 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159526",
+    "name": "Double Door Fridge",
+    "description": "Lightly used, in very good working condition. Pick up at Upper Changi Road East.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "12 Aug 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -75,6 +97,39 @@
     "dimensions": "See photo",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159523",
+    "name": "Queen size mattress topper",
+    "description": "Hardly use. Only try on it once. Initially bought for my father but not suitable for old folk cos too soft. \nBeneficiary Can use it as an interim solution to place on top of old and worn mattress. If placing on the floor it may be too thin.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": "Approx 152 x 190 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159520",
+    "name": "Sofa/coffee table and dining table",
+    "description": "as per photo, we are moving out of the office, so all this is free",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "02 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159518",
+    "name": "Fabri sofa",
+    "description": "Fabric sofa. In good condition as we seldom sit on it. Deep cleaning done once mid of 2025.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "06 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "260cm x 167cm x 84cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159501",
@@ -176,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159320",
-    "name": "Single mattress with metal frame",
-    "description": "Single mattress has no stain front and back as good as new. The frame has wheels below and it is foldable.",
-    "location": null,
-    "validTill": "30 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159291",
     "name": "Bunk bed",
     "description": "Kids bunk bed available with or without mattresses.",
@@ -273,6 +317,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "159531",
+    "name": "Parklon Playmat",
+    "description": "Lightly used. Pick up at Upper Changi Road East",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "13 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "159524",
+    "name": "NB Diapers",
+    "description": "Brand New NB Diapers, will cover delivery",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "13 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "159500",
@@ -605,18 +671,7 @@
     "category": "Learning Aids"
   },
   {
-    "id": "159484",
-    "name": "Dr P Adult Diapers XL size",
-    "description": "1box of 8 packets of XL size DrP diapers",
-    "location": null,
-    "validTill": "05 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "159478",
+    "id": "159525",
     "name": "Suction machine",
     "description": "Fully functional suctioning machine to give away. Comes with a brand new suction tubing.",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -704,17 +759,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "159513",
-    "name": "Walking frame - foldable (no wheels)",
-    "description": "Like new. Rarely used.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "06 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "159512",
     "name": "Commode with wheels (no pot & cover)",
     "description": "Still very functional and clean",
@@ -754,17 +798,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "31 Aug 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159445",
-    "name": "Wheelchair",
-    "description": "Used by mother in law. She is using different type now.",
-    "location": "Kranji/Woodgrove",
-    "validTill": "10 Aug 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
