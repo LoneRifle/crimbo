@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "159499",
-    "name": "Halal Fridge",
-    "description": "Please arrange own pick up from Somerset",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "13 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "159467",
     "name": "55 inch TV",
     "description": "55 inch Philips TV. Good working condition, no issues. However the remote control seems to no longer be working. All functions can be controlled from the TV itself.",
@@ -99,17 +88,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159494",
-    "name": "White IKEA Nordli Chest of 5 Drawers",
-    "description": "- White IKEA NORDLI chest of 5 drawers\n- Dimensions: 40cm (W) x 121cm (H) x 47cm (D)\n- Internal drawer dimensions: 32cm (W) x 17cm (H) x 37cm (D)\n- This configuration is no longer available at IKEA. \n- Very good for storage and still in good condition.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "10 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": "40cm x 47cm x 121cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159438",
     "name": "Foldable table",
     "description": "Foldable table",
@@ -128,28 +106,6 @@
     "validTill": "03 Sep 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159419",
-    "name": "Single Size Bed Frame with Mattress",
-    "description": "still in great condition \nlightweight",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "24 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "196x97x42",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159462",
-    "name": "Single Size Bed Frame with Mattress",
-    "description": "light bed frame with mattress",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "24 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "196x97x42",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -304,17 +260,6 @@
     "validTill": "23 Aug 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159087",
-    "name": "Double Decker Bed",
-    "description": "It's a solid wood bunk bed with bottom queen and top super single. Used for 1 year plus. Still in good condition.",
-    "location": null,
-    "validTill": "01 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "200 cm (L) × 158 cm (W) × 170 cm (H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -737,13 +682,57 @@
     "category": "Medical Aids"
   },
   {
-    "id": "159497",
-    "name": "Walking stick umbrella",
-    "description": "Umbrella is in good condition too.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "05 Sep 2026",
+    "id": "159515",
+    "name": "Wheelchair - back can be reclined",
+    "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "06 Sep 2026",
     "ageInYears": 4,
-    "dimensions": "60 cm",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159514",
+    "name": "Walking frame - foldable (with front wheels)",
+    "description": "Like new. Rarely used.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "06 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159513",
+    "name": "Walking frame - foldable (no wheels)",
+    "description": "Like new. Rarely used.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "06 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159512",
+    "name": "Commode with wheels (no pot & cover)",
+    "description": "Still very functional and clean",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "06 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159510",
+    "name": "Stationary commode (no wheels)",
+    "description": "No pot and cover.\nUsed only for showers.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "06 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -765,17 +754,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "31 Aug 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159472",
-    "name": "Electrical Hospital Bed",
-    "description": "Condition: Good / Working fine - just maybe a bit dusty due to place constrain and not able to clean it.\nRequirement:SELF-COLLECTION and SELF-DISMANTLE. You need to arrange your own movers or a large vehicle\nand manpower to carry it.(negotiable), depend on the transportation cost.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "05 Sep 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
