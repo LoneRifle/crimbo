@@ -72,6 +72,84 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        },
+        {
+          "id": "159548",
+          "name": "Adult Diapers, Pull Up. L Size. Fairprice",
+          "description": "4 packs of Fairprice Adult Diapers, size L. 10pc per pack.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159464",
+    "category": "Medical Aids",
+    "name": "Diapers (Adult)",
+    "description": "Client is a young senior who is medically unfit for work and requires diapers for issues of incontinence. She is currently relying on financial assistance for her daily living expenses that is barely sufficient to cover her basic needs. It will be helpful if she can receive diapers assistance of size M, pull-up diapers.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159548",
+          "name": "Adult Diapers, Pull Up. L Size. Fairprice",
+          "description": "4 packs of Fairprice Adult Diapers, size L. 10pc per pack.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159172",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is a person with disabilities who is cared for by dedicated family members who have been working hard to meet his daily care needs. However, the family is currently facing financial challenges in purchasing adult diapers and would greatly appreciate any support. Thank you for your kindness and generosity.",
+    "specifications": "Brand: TENA Size: XL",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159548",
+          "name": "Adult Diapers, Pull Up. L Size. Fairprice",
+          "description": "4 packs of Fairprice Adult Diapers, size L. 10pc per pack.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -106,6 +184,139 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159471",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition. Client is unemployed, living in a 1-room rental flat and without any family support. Her rental flat is without basic furniture and hopes for a proper wardrobe to keep her clothes.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nurul Huda Maarop",
+      "email": "nurulhuda@ainsociety.org.sg",
+      "phone": [
+        "68486033",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159543",
+          "name": "Wardrobe",
+          "description": "Excellent condition. Arrange own pick up.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159443",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is currently in the third trimester of her pregnancy and seeking accommodation at her boyfriend's residence. With limited financial and social resources, the young couple hope to tap on community support in preparing for their parenthood journey and securing the necessary essentials. \n\nClient would require donor's help to arrange and cover delivery costs.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+      "name": "Reina Chantelle Reyes",
+      "email": "reinachantelle@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159543",
+          "name": "Wardrobe",
+          "description": "Excellent condition. Arrange own pick up.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159442",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a PwD with a family consisting of his wife and baby. He requires support as he moves from a temporary shelter to their new home, and hopes to receive furniture that can help them in their new place.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159543",
+          "name": "Wardrobe",
+          "description": "Excellent condition. Arrange own pick up.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159394",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is 21yo and just recently got granted her own HDB rental flat in July 2026 after rough sleeping for a period as she was being kicked out of her husband's & FOO's place. Client is also diagnosed with mental health condition and hopes to rebuild her life after moving in to her own rental flat. As she is currently unfit for work due to her mental health condition, she does not have the finances to afford the furnishings needed for her new home.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159543",
+          "name": "Wardrobe",
+          "description": "Excellent condition. Arrange own pick up.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -169,6 +380,108 @@
           "description": "Queen sized mattress with bed frame",
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "02 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159296",
+    "category": "Home Furnishing",
+    "name": "King Size Mattress",
+    "description": "Client is a single mother who has 4 children aged 2-9 years old and living in a 2-rm rental flat. She is facing financial stress as she is the sole breadwinner. She is requesting for a mattress for her children to sleep on as the current one is old and soiled.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159544",
+          "name": "King Size Mattress",
+          "description": "Clean and soft King-size mattress used for less than a year.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159237",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Household of 3 with 1 breadwinner earning a very limited amount. Their washing machine and wardrobe has broken down beyond repair and they cannot afford to replace them.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Dishalani D/O Anbanathan",
+      "email": "dishalani@allkin.org.sg",
+      "phone": [
+        "60384135",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159543",
+          "name": "Wardrobe",
+          "description": "Excellent condition. Arrange own pick up.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158957",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "A 27-year-old woman has recently left an abusive marriage after her PPO had been approved and is starting over in a rental flat. She is working a daily-paid warehouse job and is also managing loans due to past financial exploitation. She is currently in need of a wardrobe for clothes to help her settle into her new home.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159543",
+          "name": "Wardrobe",
+          "description": "Excellent condition. Arrange own pick up.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -515,6 +828,39 @@
     }
   },
   {
+    "id": "158953",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum",
+    "description": "Client would need a vacuum to help clean her ceiling.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Nur Iman Putera",
+      "email": "nurimanputera@frcsfsc.sg",
+      "phone": [
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159542",
+          "name": "Wet and dry Dreame vacuum cleaner",
+          "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158929",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -642,6 +988,40 @@
           "validTill": "24 Aug 2026",
           "ageInYears": 4,
           "dimensions": "56cmx40cmx158cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158784",
+    "category": "Electrical Home Appliances",
+    "name": "Vaccum Cleaner",
+    "description": "Client has been allocated a rental flat after 20 years of being homeless. Client is currently undergoing financial stressors and is paying back numerous debts that he had accumulated while rough sleeping. Client has numerous medical conditions and would benefit from a vacuum cleaner in order to clean his rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+      "name": "Mervvyn Paul Singh",
+      "email": "mervvyn.singh@montfortcare.org.sg",
+      "phone": [
+        "62002111",
+        "62746904"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159542",
+          "name": "Wet and dry Dreame vacuum cleaner",
+          "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
