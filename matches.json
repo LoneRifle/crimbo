@@ -18,6 +18,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159553",
+          "name": "Baby Cot with Mattress",
+          "description": "Well used big cot but still in decent condition. Mattress is used but pretty new.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "LxBxH 1.4m x 80cm x 1.3m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
           "id": "159500",
           "name": "Baby Cot",
           "description": "I have a baby cot from Picket & Rail to give away. Baby barely slept in it less than 1 year before she prefers to co-sleep. Comes with mattress if you want it too.",
@@ -313,39 +324,6 @@
           "description": "Excellent condition. Arrange own pick up.",
           "location": "Pasir Ris, Simei, Tampines",
           "validTill": "14 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159387",
-    "category": "Home Furnishing",
-    "name": "Double decker bed",
-    "description": "Mom of 6 children from low-income background require assistance in acquiring double-decker bed to accommodate space constraints in her rental flat.",
-    "specifications": "No specific dimensions",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159501",
-          "name": "Double decker bed",
-          "description": "1.98m long bunk bed. \nI will pay for dismantling, delivery and assembly costs.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "26 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -660,39 +638,6 @@
     }
   },
   {
-    "id": "159034",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is a single mother wishing to upskill herself. Her daughter is also in secondary school, currently both in transition shelter due to past family violence issues. She is requesting a laptop for the both of them.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Isabelle Chua",
-      "email": "isabellechua@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159433",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -718,6 +663,40 @@
           "validTill": "12 Aug 2026",
           "ageInYears": 4,
           "dimensions": "78x66x184",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159277",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "This family of nine, including seven children aged between 7 months and 19 years old, lives in a 2-room rental flat and faces ongoing financial challenges despite both parents working to support the household. Several of the children are school-going, while one young child has developmental needs, placing additional caregiving and financial demands on the family.\n\nWith much of the household income going towards essential expenses such as food, milk, diapers, and school needs, the family is unable to afford a new televison as their old one has recently spoilt. A donated TV would provide the children with access to educational programmes and serve as a shared space for the family to spend quality time together after school and work.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Vanessa Goh",
+      "email": "vanessagoh@mws.sg",
+      "phone": [
+        "67564995ext102/83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159554",
+          "name": "27\" Samsung TV",
+          "description": "A 27\" fully functioning Samsung TV with remote control, TV box and antenna.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": "27\" TV",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
