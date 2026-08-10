@@ -1,5 +1,27 @@
 [
   {
+    "id": "159560",
+    "name": "XL Men's Clothes",
+    "description": "XL Men's clothes with some traditional malay clothings",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "159556",
+    "name": "Children Clothes",
+    "description": "Children Clothes\n(6-9mths baby boy & 1-2yrs old baby girl)",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "159547",
     "name": "Mix of Baby Girl and Baby Boy Clothes",
     "description": "I can arrange delivery and send to the family/organization that needs it.",
@@ -20,6 +42,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "159555",
+    "name": "Philips TV 50 inch",
+    "description": "Still working but has been many years",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "159542",
@@ -86,6 +119,39 @@
     "dimensions": "50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159565",
+    "name": "Double bed frame and mattress",
+    "description": "Low double bed with mattress in good condition. Suitable for young person or elderly",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "2.1m x 1.7m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159561",
+    "name": "Dining Chairs x2",
+    "description": "a pair of wooden dining chairs\nlightly used",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": "43x55x75",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159557",
+    "name": "Super Single Mattress",
+    "description": "Condition 9/10. Pick up at 684687.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159551",
@@ -328,6 +394,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "159564",
+    "name": "Pigeon Softouch T-Esther milk bottle 0+",
+    "description": "1xBrand new 160ml bottle with SS sized teat",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "159563",
+    "name": "Mdm Partum Milk saver bags, milk collector cup, milk saver shell",
+    "description": "Brand new",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "159562",
+    "name": "Brand new pacifier clips for boys",
+    "description": "Brand new, can mail to anywhere in sg",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "159553",
@@ -594,6 +693,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "159558",
+    "name": "Stepper",
+    "description": "As per picture.\nWorking well but digital counter not working. May need a battery change",
+    "location": null,
+    "validTill": "31 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "159488",
     "name": "Scooter",
     "description": "Suitable for teen and adults with average height and weights",
@@ -757,6 +867,17 @@
     "dimensions": "Small",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "159559",
+    "name": "Walker",
+    "description": "As per pic",
+    "location": null,
+    "validTill": "31 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "159515",
