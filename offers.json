@@ -44,12 +44,23 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "159555",
-    "name": "Philips TV 50 inch",
-    "description": "Still working but has been many years",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "09 Sep 2026",
+    "id": "159586",
+    "name": "LG Fully Automatic Washing Machine",
+    "description": "LG Fully Automatic Washing Machine.\n\nIt is 5 years old and in good condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Aug 2026",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159574",
+    "name": "Microwave",
+    "description": "White Panasonic microwave in very good condition. Light use. Non-halal.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "17 Aug 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -99,15 +110,37 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159344",
-    "name": "2 pax mini bbq pot",
-    "description": "2 pax mini bbq pot",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "16 Aug 2026",
+    "id": "159579",
+    "name": "Double bed mattress",
+    "description": "Free double bed mattress and frame. Hardly used as it was a guest bed, shipped from Australia but shipment was late so we ended up getting another bed. \nIn great condition, only used twice.",
+    "location": null,
+    "validTill": "31 Aug 2026",
     "ageInYears": 1,
-    "dimensions": "50x30x45mm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159572",
+    "name": "Pair of wooden bedside tables",
+    "description": "Two matching teak wooden bedside tables with two drawers. Some wear on the top of each.",
+    "location": null,
+    "validTill": "17 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "Height 60cm Depth 44cm Width 38cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159571",
+    "name": "Single Foldable Mattress",
+    "description": "Foldable mattress",
+    "location": null,
+    "validTill": "30 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159566",
@@ -128,17 +161,6 @@
     "validTill": "09 Sep 2026",
     "ageInYears": 3,
     "dimensions": "2.1m x 1.7m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159561",
-    "name": "Dining Chairs x2",
-    "description": "a pair of wooden dining chairs\nlightly used",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": "43x55x75",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -187,17 +209,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159543",
-    "name": "Wardrobe",
-    "description": "Excellent condition. Arrange own pick up.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159539",
     "name": "Sintered stone coffee table",
     "description": "Marble design sintered stone coffee table. Gold brass finishing at base. Never use before. Excellent condition.",
@@ -237,28 +248,6 @@
     "location": null,
     "validTill": "07 Sep 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159523",
-    "name": "Queen size mattress topper",
-    "description": "Hardly use. Only try on it once. Initially bought for my father but not suitable for old folk cos too soft. \nBeneficiary Can use it as an interim solution to place on top of old and worn mattress. If placing on the floor it may be too thin.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "Approx 152 x 190 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159520",
-    "name": "Sofa/coffee table and dining table",
-    "description": "as per photo, we are moving out of the office, so all this is free",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "02 Sep 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -446,17 +435,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "08 Sep 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159531",
-    "name": "Parklon Playmat",
-    "description": "Lightly used. Pick up at Upper Changi Road East",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "13 Aug 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -682,6 +660,28 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "159573",
+    "name": "Ninja double drawer air fryer",
+    "description": "Dual drawer Ninja air fryer in good condition. Non halal. Can be used one drawer at a time, two drawers cooking at different temperatures for different amounts of time or two drawers cooking in sync.",
+    "location": null,
+    "validTill": "22 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "159577",
+    "name": "Movable storage rack for 2 x foldable bicycles",
+    "description": "> Two tier wooden storage rack on wheels, specifically for storing foldable bicycles and/or accessories.\n> Fits 2 x small foldable bicycles (with 16\" tyres or smaller).\n> Disassembled but can be easily reassembled.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "159558",
     "name": "Stepper",
     "description": "As per picture.\nWorking well but digital counter not working. May need a battery change",
@@ -790,6 +790,28 @@
     "dimensions": "A4 size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "159582",
+    "name": "Hospital Bed and Mattress",
+    "description": "In very good condition. Self Pick-up",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "159567",
+    "name": "Ella Compact feeding bag",
+    "description": "Ella Compact Feeding Bag × 11pcs",
+    "location": null,
+    "validTill": "10 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "TBC",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "159540",
