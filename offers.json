@@ -88,6 +88,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159611",
+    "name": "Arm Chair",
+    "description": "Washable cover which has some stain currently. Wipes are used to remove part of stain. For full removal of stain, take out the cover to wash.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "68 cm width x 80 cm depth x 100 cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159610",
+    "name": "Glass TV Rack",
+    "description": "TV Rack In good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "790 mm width x 540 mm  depth x 690 cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159602",
     "name": "Bunk bed",
     "description": "Wooden bunk bed in excellent condition. Suitable for adult/ children. No major damage. Donating because it is no longer required. Condo collection required; bunk bed will need to be dismantled.",
@@ -143,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159579",
-    "name": "Double bed mattress",
-    "description": "Free double bed mattress and frame. Hardly used as it was a guest bed, shipped from Australia but shipment was late so we ended up getting another bed. \nIn great condition, only used twice.",
-    "location": null,
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159572",
     "name": "Pair of wooden bedside tables",
     "description": "Two matching teak wooden bedside tables with two drawers. Some wear on the top of each.",
@@ -161,17 +172,6 @@
     "validTill": "17 Aug 2026",
     "ageInYears": 4,
     "dimensions": "Height 60cm Depth 44cm Width 38cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159566",
-    "name": "A pair of sofa, 2 single sofa",
-    "description": "One BRAND NEW pair of sofa !\n\n2 single sofa of nice fabric design with good leather.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "01 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "60cm x 60cm x 78cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1054,6 +1054,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159609",
+    "name": "Outdoor clothes rack (Stainless Steel)",
+    "description": "Good condition, like new one. Can further extend the width.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "136 cm width x 96 cm depth x 150 cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "159545",
