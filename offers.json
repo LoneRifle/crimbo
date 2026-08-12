@@ -44,12 +44,34 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "159617",
-    "name": "Dreame wet & dry vacuum",
-    "description": "Like new condition. \nIts quite heavy.\n\nhttps://dasher.sg/products/dreame-h12s-ae\n\nOnly contact via whatsapp or email.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
+    "id": "159637",
+    "name": "Kenwood Bread Toaster",
+    "description": "Self pick-up at Tanjong Rhu Road",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159636",
+    "name": "Tefal Electric Kettle",
+    "description": "Self pick-up at Tanjong Rhu Road",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159635",
+    "name": "Microwave Oven",
+    "description": "Self pick-up at Tanjong Rhu Road",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Aug 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -97,6 +119,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159641",
+    "name": "Coffee table",
+    "description": "Coffee table. In good condition.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "21 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "120 x 70 x 36cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159616",
@@ -150,28 +183,6 @@
     "validTill": "21 Aug 2026",
     "ageInYears": 4,
     "dimensions": "56 x 46 x 54cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159589",
-    "name": "Wooden Sideboard Credenza with Drawers and Cabinet",
-    "description": "Wooden Sideboard Credenza with Drawers and Cabinet. Well-kept.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "21 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "120 x 58 x 94",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159588",
-    "name": "Tall wooden storage cabinet with drawers",
-    "description": "Tall wooden storage cabinet with drawers. Well-kept.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "21 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "71 x 71 x 140",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -238,28 +249,6 @@
     "validTill": "07 Sep 2026",
     "ageInYears": 2,
     "dimensions": "80cm wide by 40cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159538",
-    "name": "King mattress",
-    "description": "King mattress 2 months old. Was due to be returned as too firm for me but company agreed to donation instead.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "07 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159532",
-    "name": "SEAHORSE SUPER SINGLE BED",
-    "description": "Seahorse super single matter , half side is firm , half is soft. Wrap in plastic to prevent dusting .",
-    "location": null,
-    "validTill": "07 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -671,17 +660,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "159593",
-    "name": "Electrotherapy armchair",
-    "description": "Cosmp.Dr SE-14000 Electrotherapy system, with main machine, treatment chair and footstool. Working condition and well-kept.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "21 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "67 x 80 x 110cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "159577",
     "name": "Movable storage rack for 2 x foldable bicycles",
     "description": "> Two tier wooden storage rack on wheels, specifically for storing foldable bicycles and/or accessories.\n> Fits 2 x small foldable bicycles (with 16\" tyres or smaller).\n> Disassembled but can be easily reassembled.",
@@ -792,6 +770,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "159643",
+    "name": "hearing aids",
+    "description": "Rechargeable hearing aids (pair) + charging case. \nTested and fully functional before post.",
+    "location": null,
+    "validTill": "31 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": "Case : 8.5x5.5x4cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "159618",
     "name": "Waterproof leg Cast Cover",
     "description": "Waterproof Leg Cast Covers (2 pieces)\n\nProvides watertight protection for casts, bandages and wound areas during showering. Made from comfortable, odourless, non-toxic and latex-free material.\n\nIncludes:\n\n* 1 lightly used for one month\n* 1 brand new",
@@ -891,6 +880,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "159621",
+    "name": "Premium Nursing Bed",
+    "description": "Domiflex 3 Premium Nursing bed \nContinuous Side Rails\nPremium Foam Mattress\nProduct from Rainbow care.\n\nPls note, the sliding up is not working. The rest function well.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": "L 211 cm x W 101 cm x H 90 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "159619",
     "name": "KneeRover Evolution Steerable Seated Scooter Mobility Knee Walker Crutches",
     "description": "Steerable Medical Knee Walker / Knee Scooter\nA practical alternative to crutches for foot, ankle or lower-leg injuries and post-surgery recovery. It allows the user to rest the injured leg on a cushioned knee pad for hands-free, weight-free mobility.\nFeatures adjustable knee support, four wheels for stability, handlebars with hand brakes, and a front storage basket.",
@@ -908,17 +908,6 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "06 Sep 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159514",
-    "name": "Walking frame - foldable (with front wheels)",
-    "description": "Like new. Rarely used.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "06 Sep 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -1034,17 +1023,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "159056",
-    "name": "Recliner Wheelchair",
-    "description": "Recliner Wheelchair",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "21 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "158845",
     "name": "Hospital Bed",
     "description": "Used hospital bed but condition is still very good. Please contact if keen for more photos. Thank you.",
@@ -1085,17 +1063,6 @@
     "validTill": "10 Sep 2026",
     "ageInYears": 1,
     "dimensions": "136 cm width x 96 cm depth x 150 cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "159545",
-    "name": "2 seater recliner sofa",
-    "description": "Great condition. Pick up from Upper Changi Road East",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },

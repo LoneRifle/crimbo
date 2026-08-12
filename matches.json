@@ -146,6 +146,40 @@
     }
   },
   {
+    "id": "159634",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is a mother supporting 3 children aged 14, 11 and 8. The family recently moved into a 2-room flat and requested for a 2-seater sofa. Client is a low-wage worker and the family faces financial constraints. Thank you.",
+    "specifications": "48 to 72 inches wide, 30 to 40 inches deep.",
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Chen Yuxin",
+      "email": "chen_yuxin@msf.gov.sg",
+      "phone": [
+        "63548182",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159364",
+          "name": "beige fabric sofa",
+          "description": "comfy 2-seater sofa with two matching cushions; beige; structurally sound; no saggy parts",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159296",
     "category": "Home Furnishing",
     "name": "King Size Mattress",
@@ -348,6 +382,72 @@
     }
   },
   {
+    "id": "159640",
+    "category": "Electrical Home Appliances",
+    "name": "Bread toaster",
+    "description": "Family of four residing in a 2-room HDB rental flat and experiencing financial constraints. Their current bread toaster is rusty and has started sparking during use. Family is unable to afford a replacement and is seeking a functioning toaster for their daily household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Vienne Chiam",
+      "email": "viennechiam@carecorner.org.sg",
+      "phone": [
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159637",
+          "name": "Kenwood Bread Toaster",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159639",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Family of four residing in a 2-room HDB rental flat and experiencing financial constraints. Their current microwave is rusty and has started sparking during use. Family is unable to afford a replacement and is seeking a functioning microwave for their daily household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Vienne Chiam",
+      "email": "viennechiam@carecorner.org.sg",
+      "phone": [
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159594",
     "category": "Electrical Home Appliances",
     "name": "Rice cooker",
@@ -372,6 +472,73 @@
           "description": "10+ years old Tefal.  Still in good working condition.  Good for large family",
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
           "validTill": "31 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159581",
+    "category": "Electrical Home Appliances",
+    "name": "Electric Kettle",
+    "description": "Client is currently experiencing a strained relationship with her parents, which has affected her ability to comfortably access and use the shared kitchen facilities at home. As such, client requires a mini electric pot in her room to enable her to prepare simple meals independently and meet her daily nutritional needs while minimising potential conflict with her parents.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care Family Service (Telok Blangah)",
+      "name": "Celine Ming",
+      "email": "celine.ming@montfortcare.org.sg",
+      "phone": [
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159636",
+          "name": "Tefal Electric Kettle",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159522",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Family consisting of a single mother and her 3 children living in a 2-room rental flat requires a new microwave for food preparation. They would prefer a brand new microwave or a halal one if second hand. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
@@ -410,6 +577,139 @@
           "dimensions": "790 mm width x 540 mm  depth x 690 cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159234",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client is a Person with Disabilities (PWD) and is medically unfit for employment. He is dependent on his spouse for assistance with activities of daily living. Despite these challenges, the family has been working towards greater housing stability and has recently secured a rental flat from HDB. The unit provided as a bare flat, the household lacks essential furnishings and household items necessary for daily living. The family requires support to equip the home with basic necessities.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Dishalani D/O Anbanathan",
+      "email": "dishalani@allkin.org.sg",
+      "phone": [
+        "60384135",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159113",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client (M/53) has requested a microwave to support his daily meal preparation and help reduce food expenses by allowing him to cook and reheat meals more efficiently.\nHaving a microwave would help him save on cooking costs by allowing him to cook and store meals in advance, reheat leftovers, and reduce reliance on purchasing ready-made food.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159111",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client (F/21) recently moved into a rental flat with her family of four, including two young children aged 4 and 1. They are in the process of setting up their new home and hope for a microwave to prepare and reheat meals conveniently for the family.\nA donation of a microwave would greatly support their daily meal preparation and ease their transition into their new home.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159097",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is staying in a rental flat and has been experiencing various emotional and mental-health related challenges. \n\nIn her journey of mental health recovery, she has highlighted that baking can be helpful. Hence, the donation of a small oven will contribute greatly to her progress.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Jana Lim",
+      "email": "jana.lim@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -468,17 +768,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "159617",
-          "name": "Dreame wet & dry vacuum",
-          "description": "Like new condition. \nIts quite heavy.\n\nhttps://dasher.sg/products/dreame-h12s-ae\n\nOnly contact via whatsapp or email.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "159542",
           "name": "Wet and dry Dreame vacuum cleaner",
           "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
@@ -497,6 +786,39 @@
           "validTill": "31 Aug 2026",
           "ageInYears": 2,
           "dimensions": "340 × 114 × 217 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158951",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Low income client in her 60s is requesting for a microwave as her current one has spoilt. She has been going through emotional challenges in her life and is facing ongoing conflict which severely limits her cognitive bandwidth.  A donation of a micowave would greatly benefit her.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -531,6 +853,39 @@
           "validTill": "24 Aug 2026",
           "ageInYears": 4,
           "dimensions": "56cmx40cmx158cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "158786",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave Oven",
+    "description": "Mdm Salmah is a mother of two school-going children and the sole breadwinner of the family. Her husband is medically unfit for work, and the family is managing on financial assistance. They are hoping for a working microwave oven to help prepare and reheat meals more conveniently, especially on work and school days. This will help ease the family's daily caregiving and household responsibilities.",
+    "specifications": "Any",
+    "contact": {
+      "org": "Lutheran Community Care Services",
+      "name": "Nigel Lee",
+      "email": "nigel.lee@lccs.org.sg",
+      "phone": [
+        "64413906"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -631,17 +986,6 @@
           "location": "Admiralty Drive, Sembawang, Yishun",
           "validTill": "06 Sep 2026",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "159056",
-          "name": "Recliner Wheelchair",
-          "description": "Recliner Wheelchair",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Aug 2026",
-          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
