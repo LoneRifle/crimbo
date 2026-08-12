@@ -146,6 +146,40 @@
     }
   },
   {
+    "id": "159634",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is a mother supporting 3 children aged 14, 11 and 8. The family recently moved into a 2-room flat and requested for a 2-seater sofa. Client is a low-wage worker and the family faces financial constraints. Thank you.",
+    "specifications": "48 to 72 inches wide, 30 to 40 inches deep.",
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Chen Yuxin",
+      "email": "chen_yuxin@msf.gov.sg",
+      "phone": [
+        "63548182",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159654",
+          "name": "Sofa",
+          "description": "- Black leather 3-seater sofa \n- Plush and comfortable cushions\n- Soft and durable leather\n- Black metal legs\n- ⁠minor creases on seat cushions (normal wear)",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "11 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "208 x 90 x 87",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159296",
     "category": "Home Furnishing",
     "name": "King Size Mattress",
@@ -448,39 +482,6 @@
     }
   },
   {
-    "id": "159581",
-    "category": "Electrical Home Appliances",
-    "name": "Electric Kettle",
-    "description": "Client is currently experiencing a strained relationship with her parents, which has affected her ability to comfortably access and use the shared kitchen facilities at home. As such, client requires a mini electric pot in her room to enable her to prepare simple meals independently and meet her daily nutritional needs while minimising potential conflict with her parents.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care Family Service (Telok Blangah)",
-      "name": "Celine Ming",
-      "email": "celine.ming@montfortcare.org.sg",
-      "phone": [
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159636",
-          "name": "Tefal Electric Kettle",
-          "description": "Self pick-up at Tanjong Rhu Road",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Aug 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159522",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -682,40 +683,6 @@
     }
   },
   {
-    "id": "158956",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "A 27-year-old woman has recently left an abusive marriage after her PPO had been approved and is starting over in a rental flat. She is working a daily-paid warehouse job and is also managing loans due to past financial exploitation. She is currently in urgent need of a refrigerator to help her settle into her new home.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "60384138",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159533",
-          "name": "Mitsubishi Two Door Fridge",
-          "description": "Still in great condition",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "24 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "56cmx40cmx158cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158953",
     "category": "Electrical Home Appliances",
     "name": "Vacuum",
@@ -793,40 +760,6 @@
     }
   },
   {
-    "id": "158897",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is part of a family of 8 with 6 school-going children, relying on her husband as the sole breadwinner. The family faces ongoing financial difficulties due to husband's unstable ad-hoc employment. Client has previously been on long-term MC and continues to cope with multiple psychosocial stressors and is receiving counselling support. Client requests for a donation of a fridge, as the current one is no longer functioning and the family is unable to afford the replacement costs.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159533",
-          "name": "Mitsubishi Two Door Fridge",
-          "description": "Still in great condition",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "24 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "56cmx40cmx158cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158786",
     "category": "Electrical Home Appliances",
     "name": "Microwave Oven",
@@ -852,39 +785,6 @@
           "validTill": "14 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "158785",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is a divorced middle aged man staying alone in a purchased flat under his father's name (father is currently being cared for by estranged sister). Due to long term physical and mental health issues, he is unfit for work and chronically relying on ComCare assistance. His fridge from 10+ years ago has broken down and he is financially unable to replace it.",
-    "specifications": "61cm width x 73.5cm height x 62cm depth",
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Regina Leong",
-      "email": "regina@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159533",
-          "name": "Mitsubishi Two Door Fridge",
-          "description": "Still in great condition",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "24 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "56cmx40cmx158cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
