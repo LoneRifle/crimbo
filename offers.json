@@ -1,38 +1,5 @@
 [
   {
-    "id": "159560",
-    "name": "XL Men's Clothes",
-    "description": "XL Men's clothes with some traditional malay clothings",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "159556",
-    "name": "Children Clothes",
-    "description": "Children Clothes\n(6-9mths baby boy & 1-2yrs old baby girl)",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
-    "id": "159547",
-    "name": "Mix of Baby Girl and Baby Boy Clothes",
-    "description": "I can arrange delivery and send to the family/organization that needs it.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "159342",
     "name": "Dresses (formal and informal)",
     "description": "Very good condition work and casual dresses. Size 34 and 36, size M.",
@@ -42,6 +9,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "159704",
+    "name": "Xiao Mi Monitor",
+    "description": "-Xiao Mi Monitor 23/24 inch (HDMI port)",
+    "location": "Admiralty",
+    "validTill": "13 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "159680",
@@ -83,39 +61,6 @@
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "11 Sep 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "159637",
-    "name": "Kenwood Bread Toaster",
-    "description": "Self pick-up at Tanjong Rhu Road",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "159636",
-    "name": "Tefal Electric Kettle",
-    "description": "Self pick-up at Tanjong Rhu Road",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "159635",
-    "name": "Microwave Oven",
-    "description": "Self pick-up at Tanjong Rhu Road",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -249,17 +194,6 @@
     "validTill": "31 Aug 2026",
     "ageInYears": 2,
     "dimensions": "2000X600X740",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159544",
-    "name": "King Size Mattress",
-    "description": "Clean and soft King-size mattress used for less than a year.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -660,17 +594,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "159577",
-    "name": "Movable storage rack for 2 x foldable bicycles",
-    "description": "> Two tier wooden storage rack on wheels, specifically for storing foldable bicycles and/or accessories.\n> Fits 2 x small foldable bicycles (with 16\" tyres or smaller).\n> Disassembled but can be easily reassembled.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "159488",
     "name": "Scooter",
     "description": "Suitable for teen and adults with average height and weights",
@@ -814,17 +737,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "159582",
-    "name": "Hospital Bed and Mattress",
-    "description": "In very good condition. Self Pick-up",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "159567",
     "name": "Ella Compact feeding bag",
     "description": "Ella Compact Feeding Bag × 11pcs",
@@ -854,17 +766,6 @@
     "validTill": "31 Aug 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "159355",
-    "name": "Shower Chair",
-    "description": "Shower Chair. Seat is about 43 x 43cm. The legs are a bit rusty, so need to put a pad below, but the overall condition is still okay.",
-    "location": null,
-    "validTill": "14 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "43 x 43",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
