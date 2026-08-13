@@ -44,6 +44,40 @@
     }
   },
   {
+    "id": "159159",
+    "category": "Infant and Children Items",
+    "name": "Breast Pump",
+    "description": "Client is an expectant young mother from a low-income household who is preparing for the arrival of her first child. Due to her financial circumstances, purchasing essential baby care items presents a significant challenge.\n\nHaving access to a breast pump would alleviate some of the financial burden associated with preparing for her baby's arrival while promoting the health and well-being of both the client and her child",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Wong Li Yi",
+      "email": "wongliyi@kkcs.org.sg",
+      "phone": [
+        "62997662ext544",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159692",
+          "name": "Breast Pumps and Milk Collector",
+          "description": "Baby Express Pumps and Milk Collectors",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "12 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159327",
     "category": "Others",
     "name": "Bicycle",
@@ -480,39 +514,6 @@
     }
   },
   {
-    "id": "159439",
-    "category": "Electrical Home Appliances",
-    "name": "Cordless vacuum cleaner",
-    "description": "Client is medically unfit for employment and resides in a household of eight members. She is requesting assistance with a cordless vacuum cleaner to help manage household cleaning. Her previous vacuum cleaner has become faulty and is no longer usable. Given her inability to work, and the size of the household, a cordless vacuum cleaner would greatly support her in maintaining a clean living environment.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Claudine Ng",
-      "email": "claudineng@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159674",
-          "name": "Cordless stick vacuum cleaner",
-          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "340 × 114 × 217 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159234",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -561,40 +562,6 @@
           "validTill": "14 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159233",
-    "category": "Electrical Home Appliances",
-    "name": "Cordless Vacuum Cleaner",
-    "description": "Client is a Person with Disabilities (PWD) and is medically unfit for employment. He is dependent on his spouse for assistance with activities of daily living. Despite these challenges, the family has been working towards greater housing stability and has recently secured a rental flat from HDB. The unit provided as a bare flat; the household lacks essential furnishings and household items necessary for daily living. The family requires support to equip the home with basic necessities.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Dishalani D/O Anbanathan",
-      "email": "dishalani@allkin.org.sg",
-      "phone": [
-        "60384135",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159674",
-          "name": "Cordless stick vacuum cleaner",
-          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "340 × 114 × 217 mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -786,17 +753,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "159674",
-          "name": "Cordless stick vacuum cleaner",
-          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "340 × 114 × 217 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
           "id": "159542",
           "name": "Wet and dry Dreame vacuum cleaner",
           "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
@@ -940,17 +896,6 @@
     "date": "15 Jul 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "159674",
-          "name": "Cordless stick vacuum cleaner",
-          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "340 × 114 × 217 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "159542",
           "name": "Wet and dry Dreame vacuum cleaner",
