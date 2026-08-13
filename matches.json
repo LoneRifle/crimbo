@@ -112,40 +112,6 @@
     }
   },
   {
-    "id": "159296",
-    "category": "Home Furnishing",
-    "name": "King Size Mattress",
-    "description": "Client is a single mother who has 4 children aged 2-9 years old and living in a 2-rm rental flat. She is facing financial stress as she is the sole breadwinner. She is requesting for a mattress for her children to sleep on as the current one is old and soiled.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
-      "phone": [
-        "88333080",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159544",
-          "name": "King Size Mattress",
-          "description": "Clean and soft King-size mattress used for less than a year.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159322",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -314,6 +280,62 @@
     }
   },
   {
+    "id": "159686",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "The client is a single mother caring for her 2-year-old daughter, who has recently been allocated a one-room rental flat from HDB. She is currently going through divorce proceedings and is in the process of seeking employment, while also working towards setting up her new home with basic household necessities. Despite these challenges, the client has been managing her situation with resilience. With the support and kindness of members of the public, she would be deeply appreciative of any assistance in obtaining essential household items to help her and her daughter settle into their home.(Hin)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "159661",
+          "name": "Microwave oven",
+          "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "159635",
+          "name": "Microwave Oven",
+          "description": "Self pick-up at Tanjong Rhu Road",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159640",
     "category": "Electrical Home Appliances",
     "name": "Bread toaster",
@@ -365,6 +387,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159661",
           "name": "Microwave oven",
           "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
@@ -410,6 +443,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159661",
           "name": "Microwave oven",
           "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
@@ -428,6 +472,39 @@
           "validTill": "14 Aug 2026",
           "ageInYears": 4,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159439",
+    "category": "Electrical Home Appliances",
+    "name": "Cordless vacuum cleaner",
+    "description": "Client is medically unfit for employment and resides in a household of eight members. She is requesting assistance with a cordless vacuum cleaner to help manage household cleaning. Her previous vacuum cleaner has become faulty and is no longer usable. Given her inability to work, and the size of the household, a cordless vacuum cleaner would greatly support her in maintaining a clean living environment.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159674",
+          "name": "Cordless stick vacuum cleaner",
+          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "12 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "340 × 114 × 217 mm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -455,6 +532,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159661",
           "name": "Microwave oven",
           "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
@@ -481,6 +569,40 @@
     }
   },
   {
+    "id": "159233",
+    "category": "Electrical Home Appliances",
+    "name": "Cordless Vacuum Cleaner",
+    "description": "Client is a Person with Disabilities (PWD) and is medically unfit for employment. He is dependent on his spouse for assistance with activities of daily living. Despite these challenges, the family has been working towards greater housing stability and has recently secured a rental flat from HDB. The unit provided as a bare flat; the household lacks essential furnishings and household items necessary for daily living. The family requires support to equip the home with basic necessities.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Dishalani D/O Anbanathan",
+      "email": "dishalani@allkin.org.sg",
+      "phone": [
+        "60384135",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159674",
+          "name": "Cordless stick vacuum cleaner",
+          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "12 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "340 × 114 × 217 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159113",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -498,6 +620,17 @@
     "date": "24 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -543,6 +676,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159661",
           "name": "Microwave oven",
           "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
@@ -586,6 +730,17 @@
     "date": "23 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -631,6 +786,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159674",
+          "name": "Cordless stick vacuum cleaner",
+          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "12 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "340 × 114 × 217 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159542",
           "name": "Wet and dry Dreame vacuum cleaner",
           "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
@@ -663,6 +829,17 @@
     "date": "21 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -707,6 +884,17 @@
     "date": "15 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159680",
+          "name": "Microwave Oven",
+          "description": "Lightly used, non-halal",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -753,6 +941,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159674",
+          "name": "Cordless stick vacuum cleaner",
+          "description": "It's used but works fine. I would prefer is someone picks it up from me but can send it somewhere if necessary.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "12 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "340 × 114 × 217 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159542",
           "name": "Wet and dry Dreame vacuum cleaner",
           "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
@@ -796,6 +995,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159296",
+    "category": "Home Furnishing",
+    "name": "King Size Mattress",
+    "description": "Client is a single mother who has 4 children aged 2-9 years old and living in a 2-rm rental flat. She is facing financial stress as she is the sole breadwinner. She is requesting for a mattress for her children to sleep on as the current one is old and soiled.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159544",
+          "name": "King Size Mattress",
+          "description": "Clean and soft King-size mattress used for less than a year.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "14 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
