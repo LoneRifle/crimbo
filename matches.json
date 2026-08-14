@@ -78,6 +78,74 @@
     }
   },
   {
+    "id": "159717",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client is a homeless youth struggling with accomodation and employment. He is currently doing food delivery (walker), and hopes to deliver food via a bicycle to get more orders.\n\nHe is looking for a used bicycle to work. KKFSC can receive the bicycle and for him to collect it from the centre.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Cheah Cayyin",
+      "email": "cheahcayyin@kkcs.org.sg",
+      "phone": [
+        "68643015",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159719",
+          "name": "Bicycle - Adult",
+          "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": "Adult",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159327",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client is looking for a bicycle (can be used) so that she can use it to send her child to and from school. Client resides in a rental flat at the Lavender area.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Cheah Cayyin",
+      "email": "cheahcayyin@kkcs.org.sg",
+      "phone": [
+        "68643015",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159719",
+          "name": "Bicycle - Adult",
+          "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": "Adult",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "158836",
     "category": "Others",
     "name": "Laptop",
@@ -774,6 +842,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159021",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Adult Bicycle",
+    "description": "A single father is requesting support for an adult bicycle. He is the sole breadwinner of the family and has one young school-going child. He relies heavily on his bicycle as his primary mode of transportation to and from work. Recently, he was involved in a road accident, and his bicycle was severely damaged and is no longer usable. Due to his low income and financial commitments in supporting his children's daily needs and education, he is unable to afford a replacement bicycle.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159719",
+          "name": "Bicycle - Adult",
+          "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "18 Aug 2026",
+          "ageInYears": 4,
+          "dimensions": "Adult",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []

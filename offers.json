@@ -77,17 +77,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159702",
-    "name": "Queen size mattress",
-    "description": "Mattress in good quality",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "21 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159701",
     "name": "Two seater sofa",
     "description": "Two seater sofa blue color. Functioning well.",
@@ -106,17 +95,6 @@
     "validTill": "12 Sep 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159641",
-    "name": "Coffee table",
-    "description": "Coffee table. In good condition.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "21 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "120 x 70 x 36cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -306,6 +284,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "159712",
+    "name": "Kid Furniture",
+    "description": "Self-collect",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "17 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "159711",
+    "name": "Kid Table and Chairs",
+    "description": "Self-collect",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "17 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "159692",
@@ -612,6 +612,17 @@
     "validTill": "02 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "159719",
+    "name": "Bicycle - Adult",
+    "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "18 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": "Adult",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
   },
