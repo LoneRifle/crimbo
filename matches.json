@@ -78,74 +78,6 @@
     }
   },
   {
-    "id": "159717",
-    "category": "Others",
-    "name": "Bicycle",
-    "description": "Client is a homeless youth struggling with accomodation and employment. He is currently doing food delivery (walker), and hopes to deliver food via a bicycle to get more orders.\n\nHe is looking for a used bicycle to work. KKFSC can receive the bicycle and for him to collect it from the centre.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Cheah Cayyin",
-      "email": "cheahcayyin@kkcs.org.sg",
-      "phone": [
-        "68643015",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159719",
-          "name": "Bicycle - Adult",
-          "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "18 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "Adult",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159327",
-    "category": "Others",
-    "name": "Bicycle",
-    "description": "Client is looking for a bicycle (can be used) so that she can use it to send her child to and from school. Client resides in a rental flat at the Lavender area.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Cheah Cayyin",
-      "email": "cheahcayyin@kkcs.org.sg",
-      "phone": [
-        "68643015",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "31 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159719",
-          "name": "Bicycle - Adult",
-          "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "18 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "Adult",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158836",
     "category": "Others",
     "name": "Laptop",
@@ -527,6 +459,40 @@
     }
   },
   {
+    "id": "159158",
+    "category": "Electrical Home Appliances",
+    "name": "Air Purifier",
+    "description": "Client is an expectant mother who has been advised by her doctor to use an air purifier in her home to help maintain good indoor air quality during her pregnancy. As she has cats living in the household, the doctor recommended an air purifier to help reduce airborne pet dander, fur, dust, and other allergens that may affect respiratory health. This precaution has been advised to create a cleaner home environment and to support the health and well-being of both the client and her unborn baby throughout the pregnancy and after the baby's arrival.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Wong Li Yi",
+      "email": "wongliyi@kkcs.org.sg",
+      "phone": [
+        "62997662ext544",
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159723",
+          "name": "Sharp Air Purifier",
+          "description": "1 working condition Sharp Air Purifier, self collect from Toa Payoh please.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "13 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159113",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -659,39 +625,6 @@
     }
   },
   {
-    "id": "158953",
-    "category": "Electrical Home Appliances",
-    "name": "Vacuum",
-    "description": "Client would need a vacuum to help clean her ceiling.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Nur Iman Putera",
-      "email": "nurimanputera@frcsfsc.sg",
-      "phone": [
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159542",
-          "name": "Wet and dry Dreame vacuum cleaner",
-          "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "158951",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -780,40 +713,6 @@
     }
   },
   {
-    "id": "158784",
-    "category": "Electrical Home Appliances",
-    "name": "Vaccum Cleaner",
-    "description": "Client has been allocated a rental flat after 20 years of being homeless. Client is currently undergoing financial stressors and is paying back numerous debts that he had accumulated while rough sleeping. Client has numerous medical conditions and would benefit from a vacuum cleaner in order to clean his rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Kreta Ayer",
-      "name": "Mervvyn Paul Singh",
-      "email": "mervvyn.singh@montfortcare.org.sg",
-      "phone": [
-        "62002111",
-        "62746904"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159542",
-          "name": "Wet and dry Dreame vacuum cleaner",
-          "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159667",
     "category": "Mobility Aids",
     "name": "wheelchair",
@@ -842,39 +741,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159021",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Adult Bicycle",
-    "description": "A single father is requesting support for an adult bicycle. He is the sole breadwinner of the family and has one young school-going child. He relies heavily on his bicycle as his primary mode of transportation to and from work. Recently, he was involved in a road accident, and his bicycle was severely damaged and is no longer usable. Due to his low income and financial commitments in supporting his children's daily needs and education, he is unable to afford a replacement bicycle.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159719",
-          "name": "Bicycle - Adult",
-          "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "18 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": "Adult",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
