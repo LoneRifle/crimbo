@@ -1,16 +1,5 @@
 [
   {
-    "id": "159746",
-    "name": "Electric Steamer",
-    "description": "Almost brand-new electric steamer, used only one time. Non-halal since it was used once. Dimensions in one of the pictures.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "14 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "159741",
     "name": "Toaster",
     "description": "Good to use",
@@ -64,6 +53,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159782",
+    "name": "Sealy queen bed",
+    "description": "Queen bed with or without mattress. We are moving and will need to pass it on or throw it.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "24 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159781",
+    "name": "IKEA cupboards",
+    "description": "2 IKEA cupboards, more than 4 years old but still functional.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "W80xD30xH210, W72xD40xH219 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159780",
+    "name": "IKEA Pinewood Cupboards x6 sets",
+    "description": "6 sets pf IKEA pinewood cupboards, more than 4 years old but in functional conditions",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "Depth 38 x W70 x H119 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159779",
+    "name": "Ikea sofa bed",
+    "description": "Ikea Sofa bed, more than 4 years but hardly used since purchase.",
+    "location": null,
+    "validTill": "16 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L180 x W120 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159748",
@@ -295,17 +328,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "159733",
-    "name": "Ingenuity Baby Base 2-in-1 Seat",
-    "description": "2 lightly used Ingenuity Baby Base 2-in-1",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "14 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "159731",
@@ -658,17 +680,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "159776",
-    "name": "Fresubin 2kal",
-    "description": "16bottles of Fresubin 2kal. Exp Apr 2027",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "30 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "159703",
