@@ -1,16 +1,5 @@
 [
   {
-    "id": "159750",
-    "name": "LG TV 55\"",
-    "description": "Working condition LG OLED TV -",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "55 Inch TV",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "159746",
     "name": "Electric Steamer",
     "description": "Almost brand-new electric steamer, used only one time. Non-halal since it was used once. Dimensions in one of the pictures.",
@@ -72,17 +61,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "31 Aug 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "159655",
-    "name": "Computer Monitor + keyboard",
-    "description": "Both still in good working condition",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "11 Sep 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -227,6 +205,17 @@
     "validTill": "07 Sep 2026",
     "ageInYears": 2,
     "dimensions": "80cm wide by 40cm height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159767",
+    "name": "Double decker bed",
+    "description": "1.98m long bunk bed. \nI will pay for dismantling, delivery and assembly costs.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "26 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -671,6 +660,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "159776",
+    "name": "Fresubin 2kal",
+    "description": "16bottles of Fresubin 2kal. Exp Apr 2027",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "159703",
     "name": "Air Mattress",
     "description": "Air Mattress bought in Dec 2025. Sometimes has a bit of sound, but generally in good working condition.",
@@ -757,6 +757,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "159775",
+    "name": "Magnetic thermal knee support",
+    "description": "Brand new magnetic thermal support(free size)",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "159705",
