@@ -210,141 +210,6 @@
     }
   },
   {
-    "id": "158836",
-    "category": "Others",
-    "name": "Laptop",
-    "description": "Family of three consist of single income parents with a 17 year old child with autism. Mother would like to get a laptop for her son as he is observed to be curious in using a laptop. It will be used for leisure and learning purposes such as using Zoom for home based learning and learning digital literacy skills such as using mouse, typing practices.",
-    "specifications": null,
-    "contact": {
-      "org": "Rainbow Centre - Magaret Drive School",
-      "name": "Nadiah Aqilah Binte BOHARI",
-      "email": "MDSSPEDSW@rainbowcentre.org.sg",
-      "phone": [
-        "98433193",
-        "64752072"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159318",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is unemployed and would appreciate a 2nd-hand laptop donation. \nHis old laptop had spoilt after 7 years of usage",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
-      "phone": [
-        "87145182",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "31 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159256",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client's daughter is studying interior and product design course and requires\na donated laptop for her studies. Her current laptop is faulty. (HW)",
-    "specifications": "Processor: 13th Gen Intel core 19-14900HX, Operating system:window 11 Pro",
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159114",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client (M/53) works long hours as a delivery driver to support his household while covering his vehicle's operating expenses. He hopes to transition to more sustainable employment by taking online upskilling courses and actively searching for new job opportunities.\nA donated laptop would equip him with the tools to build new skills and improve his employment prospects. Your support would make a meaningful difference in helping him work towards greater financial stability.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Muhammamd Farhan Bin Abdul Rahman",
-      "email": "muhdfarhan.abdrahman@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159765",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -743,6 +608,107 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159318",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is unemployed and would appreciate a 2nd-hand laptop donation. \nHis old laptop had spoilt after 7 years of usage",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159256",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client's daughter is studying interior and product design course and requires\na donated laptop for her studies. Her current laptop is faulty. (HW)",
+    "specifications": "Processor: 13th Gen Intel core 19-14900HX, Operating system:window 11 Pro",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159114",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client (M/53) works long hours as a delivery driver to support his household while covering his vehicle's operating expenses. He hopes to transition to more sustainable employment by taking online upskilling courses and actively searching for new job opportunities.\nA donated laptop would equip him with the tools to build new skills and improve his employment prospects. Your support would make a meaningful difference in helping him work towards greater financial stability.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammamd Farhan Bin Abdul Rahman",
+      "email": "muhdfarhan.abdrahman@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
         }
       ],
       "carousell": []
