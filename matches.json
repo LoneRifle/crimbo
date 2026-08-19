@@ -400,39 +400,16 @@
     "matches": {
       "passiton": [
         {
-          "id": "159661",
-          "name": "Microwave oven",
-          "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 4,
+          "id": "159852",
+          "name": "Microwave",
+          "description": "near brand new. used for halal items only",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "24 Aug 2026",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159522",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Family consisting of a single mother and her 3 children living in a 2-room rental flat requires a new microwave for food preparation. They would prefer a brand new microwave or a halal one if second hand. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Fatimah Azzahrah",
-      "email": "fatimah_azzahrah_noor@msf.gov.sg",
-      "phone": [
-        "62319407",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Aug 2026",
-    "matches": {
-      "passiton": [
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -467,6 +444,17 @@
     "date": "29 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159852",
+          "name": "Microwave",
+          "description": "near brand new. used for halal items only",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "24 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -535,6 +523,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159852",
+          "name": "Microwave",
+          "description": "near brand new. used for halal items only",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "24 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159661",
           "name": "Microwave oven",
           "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
@@ -567,6 +566,17 @@
     "date": "24 Jul 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "159852",
+          "name": "Microwave",
+          "description": "near brand new. used for halal items only",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "24 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
         {
           "id": "159661",
           "name": "Microwave oven",
@@ -668,6 +678,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "159852",
+          "name": "Microwave",
+          "description": "near brand new. used for halal items only",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "24 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159661",
           "name": "Microwave oven",
           "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
@@ -677,6 +698,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159853",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client's husband has recently been discharged from the hospital due to stroke and is on hospitalisation leave. \nHe experience dizziness and thus cannot walk far and require wheelchair for therapy sessions and medical appointments.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Fahmi Bin Jazid",
+      "email": "fahmi@allkin.org.sg",
+      "phone": [
+        "60384207",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159515",
+          "name": "Wheelchair - back can be reclined",
+          "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "06 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
