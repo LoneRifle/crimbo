@@ -1,39 +1,5 @@
 [
   {
-    "id": "159159",
-    "category": "Infant and Children Items",
-    "name": "Breast Pump",
-    "description": "Client is an expectant young mother from a low-income household who is preparing for the arrival of her first child. Due to her financial circumstances, purchasing essential baby care items presents a significant challenge.\n\nHaving access to a breast pump would alleviate some of the financial burden associated with preparing for her baby's arrival while promoting the health and well-being of both the client and her child",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Wong Li Yi",
-      "email": "wongliyi@kkcs.org.sg",
-      "phone": [
-        "62997662ext544",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159692",
-          "name": "Breast Pumps and Milk Collector",
-          "description": "Baby Express Pumps and Milk Collectors",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159773",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -51,17 +17,6 @@
     "date": "17 Aug 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "159779",
-          "name": "Ikea sofa bed",
-          "description": "Ikea Sofa bed, more than 4 years but hardly used since purchase.",
-          "location": null,
-          "validTill": "16 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "L180 x W120 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "159701",
           "name": "Two seater sofa",
@@ -206,6 +161,73 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159881",
+    "category": "Electrical Home Appliances",
+    "name": "air purifier",
+    "description": "i would like to request on behalf for my client who has 9 children and lived in a rental flat. they have 2 children with asthma. they hope to request for air purifier to reduce the children experience asthma attrack",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Nurhidayah Binte Sazali",
+      "email": "hidayah@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159723",
+          "name": "Sharp Air Purifier",
+          "description": "1 working condition Sharp Air Purifier, self collect from Toa Payoh please.",
+          "location": "Balestier, Toa Payoh",
+          "validTill": "13 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159863",
+    "category": "Electrical Home Appliances",
+    "name": "Air fryer",
+    "description": "The family of three is facing financial challenges. Client  has been trying to gain employment but has not been successful. Their air fyer has spoilt and they are unable to purchase a new one due to limited finances which only sufficient for their basic needs.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159740",
+          "name": "Air Fryer (halal)",
+          "description": "Good as new",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
