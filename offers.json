@@ -11,17 +11,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159852",
-    "name": "Microwave",
-    "description": "near brand new. used for halal items only",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "24 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "159826",
     "name": "Bar Fridge",
     "description": "Good working condition. Self collect",
@@ -150,17 +139,6 @@
     "validTill": "18 Sep 2026",
     "ageInYears": 4,
     "dimensions": "est. 100x40x80cm LxWxH",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159834",
-    "name": "Super Single Bedframe and Mattress",
-    "description": "Brand new. Things on top of the mattress not included",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "30 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "Super Single Bed",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -748,6 +726,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "159913",
+    "name": "Electric Hospital Bed with Air Mattress",
+    "description": "Brand New Electric Hospital Bed with Air mattress",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "19 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "159703",
     "name": "Air Mattress",
     "description": "Air Mattress bought in Dec 2025. Sometimes has a bit of sound, but generally in good working condition.",
@@ -944,6 +933,17 @@
     "dimensions": "103cm x 72cm x 126cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159916",
+    "name": "Testing Item",
+    "description": "This is testing upload",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "21 Aug 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "159837",
