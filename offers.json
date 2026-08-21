@@ -1,16 +1,5 @@
 [
   {
-    "id": "159922",
-    "name": "KDK standing fan",
-    "description": "More than 4 years but in good working condition.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "19 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "159741",
     "name": "Toaster",
     "description": "Good to use",
@@ -66,6 +55,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159933",
+    "name": "High Chair",
+    "description": "I have 5 of this to donate.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159932",
+    "name": "Stools",
+    "description": "I have 40 of these to donate. Please let me know how many you need. Limit at the moment to 5 pieces per person.",
+    "location": "Kovan",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159919",
     "name": "Open shelf",
     "description": "More than 4 years old, but very good condition",
@@ -77,17 +88,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159918",
-    "name": "Double Bed",
-    "description": "more than 4 years old, but excellent conditio",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "19 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Length 200 cm Width 162 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159917",
     "name": "Computer table or normal study desk",
     "description": "Computer Desk or a Study table with drawers. Dark brown",
@@ -95,6 +95,17 @@
     "validTill": "15 Sep 2026",
     "ageInYears": 4,
     "dimensions": "60x107X77",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159939",
+    "name": "Queer Size Mattress with Frame",
+    "description": "Spare mattress, hardly used, some light stains",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "30 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -352,6 +363,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "159937",
+    "name": "Big Kid Stroller",
+    "description": "Big kid stroller, holds up to 50kg, 12 years old. This is larger than normal stroller and when folded may not fit into small car boot but can fit in car back seats or SUV boot.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "75cm x 64 x 107",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "159879",
     "name": "Babyletto convertible crib baby cot",
     "description": "Baby cot in excellent condition",
@@ -517,17 +539,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "159289",
-    "name": "baby items (shoes, walker, milk warner)",
-    "description": "baby items to bless",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "159246",
     "name": "Nature One newborn infant formula stage 1",
     "description": "New Nature One infant formula stage 1 (suitable for 0-6months) to give away. My baby has outgrow the stage. Pls collect yourself.",
@@ -647,6 +658,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "159934",
+    "name": "4-month old medical bed",
+    "description": "This is a Medpro Electric 3 functions bed w quad rails & backup battery pack. It has only been very lightly used for 4 months.  It is in excellent almost BN condition. It's still under warranty. I hope to find this bed a good new home.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "159913",
