@@ -1,5 +1,16 @@
 [
   {
+    "id": "159970",
+    "name": "Philip Garment Steamer",
+    "description": "Lightly used",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159741",
     "name": "Toaster",
     "description": "Good to use",
@@ -53,6 +64,72 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159971",
+    "name": "Dining chairs",
+    "description": "6 dining chairs old , used but in good condition \nGrey colour",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "08 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "450 x 450 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159968",
+    "name": "Carpet",
+    "description": "Carpet with nice modern design. Suitable for living or dining area. In good condition.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "160cm by 260cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159967",
+    "name": "Carpet",
+    "description": "Nice big shaggy carpet , black and white colour.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "200cm by 290cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159966",
+    "name": "SUPER SINGLE BED FRAME (NO MATTRESS)",
+    "description": "Super single bed frame without mattress and headboard. Beige colour, sturdy and in good condition.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159965",
+    "name": "Single Bed - foldable for easy storage",
+    "description": "Single bed frame with mattress, on rollers, can easily move from one location to another. Can easily fold and keep for storage",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "width 70cm, length 190cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "159964",
+    "name": "6 dining chair",
+    "description": "6 dining chairs in brown colour to give away, in good condition but there are scratches on the chair and some minor wear and tear. Not for fussy recipients",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "width 40cm, height 85cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159933",
@@ -121,31 +198,9 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159821",
-    "name": "side chest drawer",
-    "description": "drawer",
-    "location": null,
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159820",
     "name": "cabinet",
     "description": "wooden cabinet",
-    "location": null,
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159819",
-    "name": "table lamp",
-    "description": "table lamp",
     "location": null,
     "validTill": "31 Aug 2026",
     "ageInYears": 3,
@@ -878,6 +933,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "159969",
+    "name": "Young adult books & family-friendly board games",
+    "description": "Young adult books (brand new or in excellent condition). Family board games (brand new or in good condition).",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "21 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "159950",
