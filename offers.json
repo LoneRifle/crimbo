@@ -1,5 +1,16 @@
 [
   {
+    "id": "159973",
+    "name": "Television",
+    "description": "Still working well and no issues but giving up cos it does not allow us to watch Netflix on it soon",
+    "location": null,
+    "validTill": "10 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "123.1 cm n 70.8 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159970",
     "name": "Philip Garment Steamer",
     "description": "Lightly used",
@@ -64,6 +75,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159975",
+    "name": "Modular sofa with loose cushions",
+    "description": "Good as new sofa with loose cushions",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "267cm (W) × 65cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "159971",
@@ -715,6 +737,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "159972",
+    "name": "Hospital Bed",
+    "description": "Good condition.\nAir mattresses included.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "31 Aug 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "159934",
     "name": "4-month old medical bed",
     "description": "This is a Medpro Electric 3 functions bed w quad rails & backup battery pack. It has only been very lightly used for 4 months.  It is in excellent almost BN condition. It's still under warranty. I hope to find this bed a good new home.",
@@ -801,6 +834,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "159974",
+    "name": "Walking Aid",
+    "description": "the centre bars are rusty.  Maybe the client can use a masking tape to cover the rusty parts.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "02 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "50 x 30 x 60",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "159927",
