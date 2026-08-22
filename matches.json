@@ -68,6 +68,40 @@
     }
   },
   {
+    "id": "159437",
+    "category": "Infant and Children Items",
+    "name": "Nan Pro Stage 3",
+    "description": "Client has 3 children and her youngest recently discharged from NICU after being born 1 month premature. Due to the financial constraints, the family requires support in terms of Milk Powder & Diapers for their children.",
+    "specifications": "2 tins",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159980",
+          "name": "Nestle NAN Opti Pro Stage 3",
+          "description": "Brand new unopened milk powder for babies age 1 year onwards.",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "21 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159318",
     "category": "Learning Aids",
     "name": "Laptop",
