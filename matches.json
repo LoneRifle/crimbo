@@ -1,71 +1,5 @@
 [
   {
-    "id": "160002",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Client (22yo) is a young parent of 2 young children aged 4yo & a newborn. She is currently unemployed as she has just recently given birth. Husband is therefore the sole breadwinner of the family. As such, the family is still working on stabilising their finances and require support with getting new furniture currently (current sofa is spoilt)",
-    "specifications": "Sofa can be 2-3 seater, depending on the size",
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159975",
-          "name": "Modular sofa with loose cushions",
-          "description": "Good as new sofa with loose cushions",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "10 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "267cm (W) × 65cm (H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159997",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "She is a single mother with a 17-year-old son who is a survivor of domestic violence. The family has recently been allocated a new rental flat and they are currently looking into furnishing the unit.",
-    "specifications": null,
-    "contact": {
-      "org": "Marymount Centre - Good Shepherd Centre",
-      "name": "Michelle Ann Veluz",
-      "email": "Michelle_Veluz@marymountctr.org.sg",
-      "phone": [
-        "67556496"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159975",
-          "name": "Modular sofa with loose cushions",
-          "description": "Good as new sofa with loose cushions",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "10 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "267cm (W) × 65cm (H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159995",
     "category": "Home Furnishing",
     "name": "Dining Table",
@@ -183,39 +117,6 @@
           "dimensions": "60x107X77",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160006",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client requires a laptop to facilitate application for SSO financial assistance. Her previous one is spoiled. She is the sole caregiver for 4 young children and unable to work as one child is undergoing cancer treatment and requires full-time care.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Admiralty",
-      "name": "WONG Rui-Min, Sara Regan.",
-      "email": "sarawong@carecorner.org.sg",
-      "phone": [
-        "63658751"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
         }
       ],
       "carousell": []
@@ -368,40 +269,6 @@
     }
   },
   {
-    "id": "159687",
-    "category": "Electrical Home Appliances",
-    "name": "Air Fryer",
-    "description": "The client is a single mother caring for her 2-year-old daughter, who has recently been allocated a one-room rental flat from HDB. She is currently going through divorce proceedings and is in the process of seeking employment, while also working towards setting up her new home with basic household necessities. Despite these challenges, the client has been managing her situation with resilience. With the support and kindness of members of the public, she would be deeply appreciative of any assistance in obtaining essential household items to help her and her daughter settle into their home. (Hin)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159740",
-          "name": "Air Fryer (halal)",
-          "description": "Good as new",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "14 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159234",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -530,6 +397,62 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160019",
+    "category": "Mobility Aids",
+    "name": "Commode",
+    "description": "The client is single and she lives with her  partner who is her main caregiver in HDB 1 room rental flat. She has brain aneurysm which cause her to have bilateral eyes and hearing impairment. She also has left sided body weakness. Her caregiver needs commode to transfer her to and fro the toilet. In view of the limited financial resources, they are unable to afford to buy a commode.",
+    "specifications": null,
+    "contact": {
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
+      "phone": [
+        "66814941",
+        "63758600"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159483",
+          "name": "Commode without pot but with cover",
+          "description": "Used Commode, without pot but there is a cover.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "159276",
+          "name": "Commode",
+          "description": "Pre-loved commode that has been used for less than 1 year",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "29 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "159837",
+          "name": "Commode pan",
+          "description": "Brand new commode pan",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "17 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
