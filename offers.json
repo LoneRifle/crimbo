@@ -11,6 +11,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160028",
+    "name": "Fridge 431L (NOT Halal)",
+    "description": "Fridge used slightly less than 2 years.\nTransportation costs not covered. \nPlease arrange for self collection on Saturdays at 1130am only. \nDo not contact if transportation terms do not work for you.",
+    "location": null,
+    "validTill": "23 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "699 x 1725 x 723 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160022",
+    "name": "LG TV",
+    "description": "A  big LG TV still in good working condition. Giving away as the size is too big for owner's new and smaller apartment.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "58 x  34 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159981",
     "name": "Stereo (radio)",
     "description": "Panasonic stereo. Have not tested the tape slot but cd tray does not always close well, so sometimes it works, sometimes it does not. Radio working fine.",
@@ -88,13 +110,57 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160012",
-    "name": "Two single size foldable foam mattress",
-    "description": "SEA HORSE Single Size 3-Fold Portable Mattress Dual-Sided Comfort Firmness",
-    "location": "Balestier, Toa Payoh",
+    "id": "160027",
+    "name": "a set of living room furniture",
+    "description": "A set of wooden living room 2 seater sofa, 2 armchairs and a long glass coffee table. More than 4 years but in good condition with golden yellow upholstery. Can pick and choose items separately. Can throw in cushions and 2 leg rests/small ottomans as shown in pictures.",
+    "location": "Pasir Ris, Simei, Tampines",
     "validTill": "23 Sep 2026",
     "ageInYears": 4,
-    "dimensions": "91x190x8.4 cm",
+    "dimensions": "140x50x90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160026",
+    "name": "display cabinet",
+    "description": "It is a tall blue metal display cabinet with glass shelving. The measurement is an estimation as it is in a rented storage space.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "40x30x180 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160025",
+    "name": "IKEA covered shoe rack",
+    "description": "It is a tall white IKEA covered shoe rack. The measurement is an estimation as the item is in a rented storage space.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "50x30x140cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160024",
+    "name": "dressing table with mirror",
+    "description": "It is the colour of light pine with 4 chest of drawers and a detachable large mirror. Not new, more than 4 years old  but still very functional.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "100 x 50 x180cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160023",
+    "name": "chest of drawers",
+    "description": "A bright yellow chest of 3 drawers rather new and hardly used.\nThe measurement is an estimation only as it has been stored in a rented Storhub space.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "90 x 50 x 100 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },

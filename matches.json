@@ -123,6 +123,40 @@
     }
   },
   {
+    "id": "159664",
+    "category": "Home Furnishing",
+    "name": "shoe rack",
+    "description": "family of 3 going 4 requires a shoe rack to store their shoes. Family is still looking for a full-time job.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160025",
+          "name": "IKEA covered shoe rack",
+          "description": "It is a tall white IKEA covered shoe rack. The measurement is an estimation as the item is in a rented storage space.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "23 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "50x30x140cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159318",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -254,6 +288,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "160022",
+          "name": "LG TV",
+          "description": "A  big LG TV still in good working condition. Giving away as the size is too big for owner's new and smaller apartment.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "23 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "58 x  34 inches",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "159610",
           "name": "Glass TV Rack",
           "description": "TV Rack In good condition.",
@@ -263,6 +308,142 @@
           "dimensions": "790 mm width x 540 mm  depth x 690 cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159848",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge (Halal)",
+    "description": "Single mother living with 2 children, grandchildren and elderly in a 2 room rental flat",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160028",
+          "name": "Fridge 431L (NOT Halal)",
+          "description": "Fridge used slightly less than 2 years.\nTransportation costs not covered. \nPlease arrange for self collection on Saturdays at 1130am only. \nDo not contact if transportation terms do not work for you.",
+          "location": null,
+          "validTill": "23 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "699 x 1725 x 723 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159784",
+    "category": "Electrical Home Appliances",
+    "name": "Halal fridge",
+    "description": "The client is from a low-income family and cares for 7 children. Her husband is the sole breadwinner. Their refrigerator recently broke down, affecting their ability to store food and cooking staples for home-cooked meals. As the family does not have the financial means to purchase a replacement, it would be beneficial for them to receive a refrigerator to support their daily needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160028",
+          "name": "Fridge 431L (NOT Halal)",
+          "description": "Fridge used slightly less than 2 years.\nTransportation costs not covered. \nPlease arrange for self collection on Saturdays at 1130am only. \nDo not contact if transportation terms do not work for you.",
+          "location": null,
+          "validTill": "23 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "699 x 1725 x 723 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159765",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family consisting of parents and their 4 children are living in a 2-room rental flat. They require a new fridge as their current one is spoilt and leaking. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160028",
+          "name": "Fridge 431L (NOT Halal)",
+          "description": "Fridge used slightly less than 2 years.\nTransportation costs not covered. \nPlease arrange for self collection on Saturdays at 1130am only. \nDo not contact if transportation terms do not work for you.",
+          "location": null,
+          "validTill": "23 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "699 x 1725 x 723 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159735",
+    "category": "Electrical Home Appliances",
+    "name": "Halal Fridge",
+    "description": "Client is currently in need of a halal fridge. She has just moved into her new rental after more than a year of moving around and staying at different places. As a single mum, she has worked hard to get to this point. Currently, the house is still in the process of being furnished and she is in need of this essential to create a conducive space for her child and herself.",
+    "specifications": "Medium",
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Lee Hui Feng",
+      "email": "lee_hui_feng@msf.gov.sg",
+      "phone": [
+        "63582349",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160028",
+          "name": "Fridge 431L (NOT Halal)",
+          "description": "Fridge used slightly less than 2 years.\nTransportation costs not covered. \nPlease arrange for self collection on Saturdays at 1130am only. \nDo not contact if transportation terms do not work for you.",
+          "location": null,
+          "validTill": "23 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "699 x 1725 x 723 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -431,62 +612,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160019",
-    "category": "Mobility Aids",
-    "name": "Commode",
-    "description": "The client is single and she lives with her  partner who is her main caregiver in HDB 1 room rental flat. She has brain aneurysm which cause her to have bilateral eyes and hearing impairment. She also has left sided body weakness. Her caregiver needs commode to transfer her to and fro the toilet. In view of the limited financial resources, they are unable to afford to buy a commode.",
-    "specifications": null,
-    "contact": {
-      "org": "Lions Befrienders Service Association (Singapore)",
-      "name": "Chow Ching Hua",
-      "email": "chinghua.chow@lb.org.sg",
-      "phone": [
-        "66814941",
-        "63758600"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159483",
-          "name": "Commode without pot but with cover",
-          "description": "Used Commode, without pot but there is a cover.",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "159276",
-          "name": "Commode",
-          "description": "Pre-loved commode that has been used for less than 1 year",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "29 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "159837",
-          "name": "Commode pan",
-          "description": "Brand new commode pan",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "17 Sep 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         }
       ],
       "carousell": []
