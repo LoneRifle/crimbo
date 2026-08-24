@@ -1,5 +1,38 @@
 [
   {
+    "id": "160002",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client (22yo) is a young parent of 2 young children aged 4yo & a newborn. She is currently unemployed as she has just recently given birth. Husband is therefore the sole breadwinner of the family. As such, the family is still working on stabilising their finances and require support with getting new furniture currently (current sofa is spoilt)",
+    "specifications": "Sofa can be 2-3 seater, depending on the size",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159975",
+          "name": "Modular sofa with loose cushions",
+          "description": "Good as new sofa with loose cushions",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "10 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "267cm (W) × 65cm (H)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159997",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -156,34 +189,33 @@
     }
   },
   {
-    "id": "159437",
-    "category": "Infant and Children Items",
-    "name": "Nan Pro Stage 3",
-    "description": "Client has 3 children and her youngest recently discharged from NICU after being born 1 month premature. Due to the financial constraints, the family requires support in terms of Milk Powder & Diapers for their children.",
-    "specifications": "2 tins",
+    "id": "160006",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client requires a laptop to facilitate application for SSO financial assistance. Her previous one is spoiled. She is the sole caregiver for 4 young children and unable to work as one child is undergoing cancer treatment and requires full-time care.",
+    "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Muhammad Idris Bin Mohd Margono",
-      "email": "idris.margono@thkmc.org.sg",
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "WONG Rui-Min, Sara Regan.",
+      "email": "sarawong@carecorner.org.sg",
       "phone": [
-        "87145182",
-        "67671740"
+        "63658751"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "05 Aug 2026",
+    "date": "24 Aug 2026",
     "matches": {
       "passiton": [
         {
-          "id": "159980",
-          "name": "Nestle NAN Opti Pro Stage 3",
-          "description": "Brand new unopened milk powder for babies age 1 year onwards.",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "21 Sep 2026",
-          "ageInYears": 1,
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Learning Aids"
         }
       ],
       "carousell": []

@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160003",
+    "name": "Dryer",
+    "description": "Still in working condition",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "03 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159981",
     "name": "Stereo (radio)",
     "description": "Panasonic stereo. Have not tested the tape slot but cd tray does not always close well, so sometimes it works, sometimes it does not. Radio working fine.",
@@ -506,17 +517,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "159980",
-    "name": "Nestle NAN Opti Pro Stage 3",
-    "description": "Brand new unopened milk powder for babies age 1 year onwards.",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "21 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "159951",
     "name": "Soft toys in clean good conditions",
     "description": "Toys are soft cuddles and some are brand new unopen",
@@ -812,17 +812,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "159986",
-    "name": "Nasal oxygen cannula",
-    "description": "For free, self collection only",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "22 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "159983",
