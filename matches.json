@@ -207,6 +207,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "160073",
+          "name": "Study Desk with 2 drawers",
+          "description": "Slim White table with 2 drawers from IKEA.\nIn good condition",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "24 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": "132cm x 58cm x 76cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "159917",
           "name": "Computer table or normal study desk",
           "description": "Computer Desk or a Study table with drawers. Dark brown",
@@ -455,38 +466,16 @@
     "matches": {
       "passiton": [
         {
-          "id": "159515",
-          "name": "Wheelchair - back can be reclined",
-          "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "06 Sep 2026",
-          "ageInYears": 4,
+          "id": "160074",
+          "name": "Wheelchair",
+          "description": "considerably new and still in great condition",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159763",
-    "category": "Mobility Aids",
-    "name": "wheelchair",
-    "description": "Mdm H. is a frail elderly with mild dementia and chronic left leg pain, resulting in reduced mobility and an increased risk of falls. She requires a working wheelchair to facilitate safe mobility for medical appointments and community outings, while reducing her risk of falls and supporting her daily functioning",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Geylang",
-      "name": "Nur Sabrina Binte Sanizal",
-      "email": "nur.sabrina@thkmc.org.sg",
-      "phone": [
-        "68461228"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Aug 2026",
-    "matches": {
-      "passiton": [
+          "category": "Medical Aids"
+        },
         {
           "id": "159515",
           "name": "Wheelchair - back can be reclined",

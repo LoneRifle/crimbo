@@ -1,5 +1,16 @@
 [
   {
+    "id": "160075",
+    "name": "T shirts",
+    "description": "Lightly worn t shirts.\nMedium to Large size\nGood condition",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "24 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "Medium to Large",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "160029",
     "name": "Grey and Blue Blazer (Brand New)",
     "description": "approx bought 3 years ago, kept in the pictured dark suit carrier and never used since then\n\nideal for waist size 30~32 or below\nfor mens, authentic premium suit blazer",
@@ -64,6 +75,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160073",
+    "name": "Study Desk with 2 drawers",
+    "description": "Slim White table with 2 drawers from IKEA.\nIn good condition",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "24 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "132cm x 58cm x 76cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160071",
@@ -205,17 +227,6 @@
     "validTill": "10 Sep 2026",
     "ageInYears": 2,
     "dimensions": "160cm by 260cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159965",
-    "name": "Single Bed - foldable for easy storage",
-    "description": "Single bed frame with mattress, on rollers, can easily move from one location to another. Can easily fold and keep for storage",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "width 70cm, length 190cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -471,17 +482,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "160036",
-    "name": "Nestle NAN SUPREMEpro 4 (800g)",
-    "description": "2 tins of formula milk powder - NAN SUPREMEpro 4 (800g). Suitable for children aged 2 years and up. Brand new and unopened.\n\nExpiry Date: 04.08.2027\nBatch code: 52060017C1",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "24 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "160000",
@@ -812,6 +812,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "160074",
+    "name": "Wheelchair",
+    "description": "considerably new and still in great condition",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "14 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "160057",
