@@ -1,5 +1,41 @@
 [
   {
+    "id": "160080",
+    "category": "Home Furnishing",
+    "name": "Foldable Mattress",
+    "description": "Family has 3 school-going children. Their son requires a foldable mattress to sleep. Family faces financial constraints to afford one as father works a low-wage job and mother has been certified unfit for work.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Eileen Yong",
+      "email": "eileenyong@fycs.org",
+      "phone": [
+        "669010005",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026"
+  },
+  {
+    "id": "160077",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "The family consists of a single mother, and 3 children aged 14 and under. The family has just shifted into a 2-room public rental flat and needs a single-size mattress. The four of them are sharing 2 single-sized mattresses now. Should you agree to donate, kindly note our request for donor to bear delivery costs. Thanks.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Chen Yuxin",
+      "email": "chen_yuxin@msf.gov.sg",
+      "phone": [
+        "63548182",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026"
+  },
+  {
     "id": "160069",
     "category": "Home Furnishing",
     "name": "Wardrobe [Dimensions:  LxBxH = 118cm x 176cm x 55cm]",
@@ -1082,6 +1118,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Jul 2026"
+  },
+  {
+    "id": "158310",
+    "category": "Infant and Children Items",
+    "name": "Diaper",
+    "description": "Family with a 3-year-old child requires 5-6 packs of size L diapers. One parent is facing mental health challenges and debt, while the other earns a low income. Support is needed to help meet their child's essential needs.",
+    "specifications": "XL size",
+    "contact": {
+      "org": "AWWA Family Service Centre",
+      "name": "Peh Li Ping",
+      "email": "liping_peh1@awwa.org.sg",
+      "phone": [
+        "65119442",
+        "65119456"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026"
   },
   {
     "id": "160068",
@@ -2503,24 +2557,6 @@
     "date": "30 Jul 2026"
   },
   {
-    "id": "159297",
-    "category": "Infant and Children Items",
-    "name": "Bottle sterilizer, stroller",
-    "description": "Client resides in a 2-room rental flat with her husband and 5 young children (2 diagnosed with special needs). She is currently pregnant with her 6th child and requires some support with baby items as she is due in Sep 2026.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
-      "phone": [
-        "88333080",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Jul 2026"
-  },
-  {
     "id": "159271",
     "category": "Infant and Children Items",
     "name": "Formula milk powder",
@@ -2818,148 +2854,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "29 Jul 2026"
-  },
-  {
-    "id": "160060",
-    "category": "Medical Aids",
-    "name": "Adult Diapers [Tena Slip Maxi, Size: L, Qty: 4 packets]",
-    "description": "Client is main caregiver for a youth with special needs who requires use of adult diapers. Client is unemployed due to caregiving responsibilities for 2 other school-going children and family members with mental health needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
-      "phone": [
-        "60384207",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Aug 2026"
-  },
-  {
-    "id": "159948",
-    "category": "Medical Aids",
-    "name": "Milk powder (Diabetic milk (Ensure), 400g, 2 tins)",
-    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Nur Ain Afini Binte Hamdan",
-      "email": "nurainafini@allkin.org.sg",
-      "phone": [
-        "60384138",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Aug 2026"
-  },
-  {
-    "id": "159869",
-    "category": "Medical Aids",
-    "name": "(Diaper) Depends Adult Diapers (Pants), Size M - 5x",
-    "description": "Client and his wife are both managing ongoing medical conditions, with the client being the sole breadwinner supporting their household of seven children. One of their children has a special needs condition that requires regular use of adult diapers. The family is currently experiencing financial hardship and would greatly benefit from additional support in the form of diapers to help alleviate their household expenses.",
-    "specifications": "-",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Aug 2026"
-  },
-  {
-    "id": "159868",
-    "category": "Medical Aids",
-    "name": "(Diaper) DR P/Tena PROskin Adult Diapers (L size) - 4x",
-    "description": "Client is low-income earner and sole breadwinner of household of 5. His wife was recently diagnosed with muscle-related condition, which caused the weakening of muscles that led to continence issues. She is now heavily reliant on diapers. Family would require diapers' support as client is unable to sustain the high needs.",
-    "specifications": "-",
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Frank Lye Wei Bin",
-      "email": "franklye@allkin.org.sg",
-      "phone": [
-        "60384117",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Aug 2026"
-  },
-  {
-    "id": "158203",
-    "category": "Medical Aids",
-    "name": "Adult Diapers for caregiver of mother who is bed-bounded",
-    "description": "Client is a middle aged lady caring for her aged mother who is currently bed-bounded. Given her caregiving responsibilities, she is unable to work and has limited capacity for home-based employment given her personal ailments as well. Family requires regular adult diapers (size L, tape), underpads, wetwipes and other associated assistance as client is a full time caregiver with no income. Interested donors, please contact social worker Noelle at 67799488 (ext 29) or email at noelle@frcsfsc.sg. Thank you so much for your support.",
-    "specifications": "Size L, tape",
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Noelle Leong",
-      "email": "noelle@frcsfsc.sg",
-      "phone": [
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Aug 2026"
-  },
-  {
-    "id": "159659",
-    "category": "Medical Aids",
-    "name": "Glucometer Set",
-    "description": "Client is a 75-year-old lady living with Type 2 Diabetes, Hyperlipidemia, and chronic kidney disease. Despite her health challenges, she is single-handedly cares for her wheelchair-bound husband, who suffered a major stroke in 2024. She has no children and no family support. The couple lives in a rental flat and relies on financial assistance schemes to get by.\n\nAs part of her health goals, she is deeply committed to monitoring her blood glucose levels but does not have access to a glucometer at home. A donated glucometer would make a meaningful difference in helping her manage her condition independently — so that she can continue to be there for her husband.",
-    "specifications": null,
-    "contact": {
-      "org": "SingHealth (CGH) – Community Care",
-      "name": "Marhamah Binte Mohamed Ali",
-      "email": "marhamah.mohamed.ali@singhealth.com.sg",
-      "phone": [
-        "64267519",
-        "64268053"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Aug 2026"
-  },
-  {
-    "id": "159464",
-    "category": "Medical Aids",
-    "name": "Diapers (Adult)",
-    "description": "Client is a young senior who is medically unfit for work and requires diapers for issues of incontinence. She is currently relying on financial assistance for her daily living expenses that is barely sufficient to cover her basic needs. It will be helpful if she can receive diapers assistance of size M, pull-up diapers.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Aug 2026"
-  },
-  {
-    "id": "159172",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "The client is a person with disabilities who is cared for by dedicated family members who have been working hard to meet his daily care needs. However, the family is currently facing financial challenges in purchasing adult diapers and would greatly appreciate any support. Thank you for your kindness and generosity.",
-    "specifications": "Brand: TENA Size: XL",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jul 2026"
   },
   {
     "id": "160072",
@@ -4071,6 +3965,131 @@
     "date": "27 Jul 2026"
   },
   {
+    "id": "160060",
+    "category": "Medical Aids",
+    "name": "Adult Diapers [Tena Slip Maxi, Size: L, Qty: 4 packets]",
+    "description": "Client is main caregiver for a youth with special needs who requires use of adult diapers. Client is unemployed due to caregiving responsibilities for 2 other school-going children and family members with mental health needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Fahmi Bin Jazid",
+      "email": "fahmi@allkin.org.sg",
+      "phone": [
+        "60384207",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2026"
+  },
+  {
+    "id": "159948",
+    "category": "Medical Aids",
+    "name": "Milk powder (Diabetic milk (Ensure), 400g, 2 tins)",
+    "description": "Client is a diabetic patient who also experiences ongoing gastrointestinal issues. She suffers from frequent diarrhea and urinary urgency, which has resulted in her needing to use diapers daily. The client often feels physically weak, making it difficult for her to secure stable employment.\nShe is known to SSO and currently receives financial assistance. While she has adequate informal support, the client prefers not to trouble her support network and will only seek help when she has insufficient funds. She stays alone in a rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2026"
+  },
+  {
+    "id": "159869",
+    "category": "Medical Aids",
+    "name": "(Diaper) Depends Adult Diapers (Pants), Size M - 5x",
+    "description": "Client and his wife are both managing ongoing medical conditions, with the client being the sole breadwinner supporting their household of seven children. One of their children has a special needs condition that requires regular use of adult diapers. The family is currently experiencing financial hardship and would greatly benefit from additional support in the form of diapers to help alleviate their household expenses.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026"
+  },
+  {
+    "id": "159868",
+    "category": "Medical Aids",
+    "name": "(Diaper) DR P/Tena PROskin Adult Diapers (L size) - 4x",
+    "description": "Client is low-income earner and sole breadwinner of household of 5. His wife was recently diagnosed with muscle-related condition, which caused the weakening of muscles that led to continence issues. She is now heavily reliant on diapers. Family would require diapers' support as client is unable to sustain the high needs.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026"
+  },
+  {
+    "id": "159659",
+    "category": "Medical Aids",
+    "name": "Glucometer Set",
+    "description": "Client is a 75-year-old lady living with Type 2 Diabetes, Hyperlipidemia, and chronic kidney disease. Despite her health challenges, she is single-handedly cares for her wheelchair-bound husband, who suffered a major stroke in 2024. She has no children and no family support. The couple lives in a rental flat and relies on financial assistance schemes to get by.\n\nAs part of her health goals, she is deeply committed to monitoring her blood glucose levels but does not have access to a glucometer at home. A donated glucometer would make a meaningful difference in helping her manage her condition independently — so that she can continue to be there for her husband.",
+    "specifications": null,
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Marhamah Binte Mohamed Ali",
+      "email": "marhamah.mohamed.ali@singhealth.com.sg",
+      "phone": [
+        "64267519",
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2026"
+  },
+  {
+    "id": "159464",
+    "category": "Medical Aids",
+    "name": "Diapers (Adult)",
+    "description": "Client is a young senior who is medically unfit for work and requires diapers for issues of incontinence. She is currently relying on financial assistance for her daily living expenses that is barely sufficient to cover her basic needs. It will be helpful if she can receive diapers assistance of size M, pull-up diapers.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Aug 2026"
+  },
+  {
+    "id": "159172",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "The client is a person with disabilities who is cared for by dedicated family members who have been working hard to meet his daily care needs. However, the family is currently facing financial challenges in purchasing adult diapers and would greatly appreciate any support. Thank you for your kindness and generosity.",
+    "specifications": "Brand: TENA Size: XL",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Jul 2026"
+  },
+  {
     "id": "160046",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Handphone (Android or iphone)",
@@ -4313,59 +4332,6 @@
     "date": "28 Jul 2026"
   },
   {
-    "id": "160021",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Due to client mobility challenges, she confined herself to home. This wheelchair will allow her to engage in some community activities, and improve her overall quality of life.",
-    "specifications": null,
-    "contact": {
-      "org": "REACH Community Services Ltd",
-      "name": "Gabriel Noparat",
-      "email": "gabriel.noparat@reach.org.sg",
-      "phone": [
-        "68010875",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Aug 2026"
-  },
-  {
-    "id": "159850",
-    "category": "Mobility Aids",
-    "name": "Wheelchair [Heavy-Duty/High Load ~ above 100kg]",
-    "description": "Client is a single mother caring for her teenage child and elderly mother with multiple health conditions. Due to her mother's high risk of falls and limited mobility, the family is seeking a wheelchair donation to ensure her safety and mobility.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Cheng San 445",
-      "name": "Fahmi Bin Jazid",
-      "email": "fahmi@allkin.org.sg",
-      "phone": [
-        "60384207",
-        "60384120"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Aug 2026"
-  },
-  {
-    "id": "159414",
-    "category": "Mobility Aids",
-    "name": "Four Wheels Rollator Folding Portable Adjustable Walking Aids Walker",
-    "description": "Four Wheels Rollator Folding Portable Adjustable Walking Aids Walker",
-    "specifications": null,
-    "contact": {
-      "org": "Mother of Hope",
-      "name": "Tony Tan",
-      "email": "tan_tony@gebirah.org",
-      "phone": [
-        "92347889"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Aug 2026"
-  },
-  {
     "id": "159829",
     "category": "Attires/Clothings",
     "name": "Clothes",
@@ -4400,5 +4366,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Aug 2026"
+  },
+  {
+    "id": "160021",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Due to client mobility challenges, she confined herself to home. This wheelchair will allow her to engage in some community activities, and improve her overall quality of life.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Community Services Ltd",
+      "name": "Gabriel Noparat",
+      "email": "gabriel.noparat@reach.org.sg",
+      "phone": [
+        "68010875",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026"
+  },
+  {
+    "id": "159850",
+    "category": "Mobility Aids",
+    "name": "Wheelchair [Heavy-Duty/High Load ~ above 100kg]",
+    "description": "Client is a single mother caring for her teenage child and elderly mother with multiple health conditions. Due to her mother's high risk of falls and limited mobility, the family is seeking a wheelchair donation to ensure her safety and mobility.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Fahmi Bin Jazid",
+      "email": "fahmi@allkin.org.sg",
+      "phone": [
+        "60384207",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Aug 2026"
   }
 ]
