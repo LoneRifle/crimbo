@@ -77,6 +77,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160101",
+    "name": "Dining Table With 5 Chairs",
+    "description": "Dining Table With 5 chairs",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160100",
+    "name": "Wooden Dining Table With 2 Chair",
+    "description": "Solid wooden table with 2 solid wood chairs",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "140X 85",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160099",
     "name": "King Bed And Getha Matress",
     "description": "Used king size bed and mattress",
@@ -469,17 +491,6 @@
     "validTill": "01 Sep 2026",
     "ageInYears": 1,
     "dimensions": "Refer to the attached pictures.",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159227",
-    "name": "Stools",
-    "description": "4 x Foldable chairs (with backrest) \n6 x Plastic Stools (red plastic) \n6 x round-top \"metal stools",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "27 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1006,17 +1017,6 @@
     "description": "Pre-loved hospital bed that has been used for less than 1 year.",
     "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
     "validTill": "29 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159228",
-    "name": "Portable Toilet Bowl",
-    "description": "Commode with pot and cover, lightly used",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "27 Aug 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
