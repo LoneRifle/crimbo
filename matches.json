@@ -277,6 +277,17 @@
           "category": "Infant and Children Items"
         },
         {
+          "id": "160099",
+          "name": "King Bed And Getha Matress",
+          "description": "Used king size bed and mattress",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "25 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "182cm X 190cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "159913",
           "name": "Electric Hospital Bed with Air Mattress",
           "description": "Brand New Electric Hospital Bed with Air mattress",
@@ -442,73 +453,6 @@
           "dimensions": "136 cm width x 96 cm depth x 150 cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160090",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Client is 87 years old and prone of fall risk. Seeking for wheelchair with functioning handbrake",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care COMIT @ Bukit Merah",
-      "name": "Joy Chan Nian En",
-      "email": "joy.chan@montfortcare.org.sg",
-      "phone": [
-        "62746904"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159515",
-          "name": "Wheelchair - back can be reclined",
-          "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "06 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160084",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Clt is unemployed due to her health conditions as well as caregiving responsibilities. She is caring for her 10 year old child and has not been able to afford a wheelchair. Due to her mobility issues, the wheelchair would seek to ease her discomfort and increase her ability to be more mobile. \n\nnote: Clt requires a wheelchair that is wider and larger due to her physical needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Melissa Sim",
-      "email": "melissasim@fycs.org",
-      "phone": [
-        "66901002",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159515",
-          "name": "Wheelchair - back can be reclined",
-          "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "06 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
