@@ -247,95 +247,6 @@
     }
   },
   {
-    "id": "160077",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "The family consists of a single mother, and 3 children aged 14 and under. The family has just shifted into a 2-room public rental flat and needs a single-size mattress. The four of them are sharing 2 single-sized mattresses now. Should you agree to donate, kindly note our request for donor to bear delivery costs. Thanks.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-      "name": "Chen Yuxin",
-      "email": "chen_yuxin@msf.gov.sg",
-      "phone": [
-        "63548182",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159703",
-          "name": "Air Mattress",
-          "description": "Air Mattress bought in Dec 2025. Sometimes has a bit of sound, but generally in good working condition.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": "200cm x 90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "160081",
-          "name": "Queen Size Mattress + Frame",
-          "description": "Queen Size Mattress with Frame",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "01 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "159939",
-          "name": "Queer Size Mattress with Frame",
-          "description": "Spare mattress, hardly used, some light stains",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "30 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "159553",
-          "name": "Baby Cot with Mattress",
-          "description": "Well used big cot but still in decent condition. Mattress is used but pretty new.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "09 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "LxBxH 1.4m x 80cm x 1.3m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "160099",
-          "name": "King Bed And Getha Matress",
-          "description": "Used king size bed and mattress",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "25 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": "182cm X 190cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "159913",
-          "name": "Electric Hospital Bed with Air Mattress",
-          "description": "Brand New Electric Hospital Bed with Air mattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "19 Sep 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159995",
     "category": "Home Furnishing",
     "name": "Dining Table",
@@ -353,17 +264,6 @@
     "date": "24 Aug 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "160101",
-          "name": "Dining Table With 5 Chairs",
-          "description": "Dining Table With 5 chairs",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "25 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "159977",
           "name": "Dining table",
