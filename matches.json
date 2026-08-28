@@ -153,6 +153,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "160134",
+          "name": "TV console",
+          "description": "Beautifully carved wooden TV console, with storage rack and drawers at the bottom.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "27 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "65x46cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "159838",
           "name": "TV console",
           "description": "still very new looking. Could fit into a car.",
@@ -173,6 +184,17 @@
           "dimensions": "790 mm width x 540 mm  depth x 690 cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "160132",
+          "name": "55” LED TV",
+          "description": "Philips LED TV (Non-Smart) without stand, need to be mounted.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "26 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -213,34 +235,66 @@
     }
   },
   {
-    "id": "159158",
-    "category": "Electrical Home Appliances",
-    "name": "Air Purifier",
-    "description": "Client is an expectant mother who has been advised by her doctor to use an air purifier in her home to help maintain good indoor air quality during her pregnancy. As she has cats living in the household, the doctor recommended an air purifier to help reduce airborne pet dander, fur, dust, and other allergens that may affect respiratory health. This precaution has been advised to create a cleaner home environment and to support the health and well-being of both the client and her unborn baby throughout the pregnancy and after the baby's arrival.",
-    "specifications": null,
+    "id": "160136",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "Client is a single mother to 4 teenagers. She is the sole breadwinner and relies on her part-time employment and ComCare assistance to meet the family's basic needs. One of her children suffers from mental health issues.",
+    "specifications": "Queen Size",
     "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Wong Li Yi",
-      "email": "wongliyi@kkcs.org.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
       "phone": [
-        "62997662ext544",
-        "62997662"
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jul 2026",
+    "date": "28 Aug 2026",
     "matches": {
       "passiton": [
         {
-          "id": "159723",
-          "name": "Sharp Air Purifier",
-          "description": "1 working condition Sharp Air Purifier, self collect from Toa Payoh please.",
-          "location": "Balestier, Toa Payoh",
-          "validTill": "13 Sep 2026",
-          "ageInYears": 4,
+          "id": "159703",
+          "name": "Air Mattress",
+          "description": "Air Mattress bought in Dec 2025. Sometimes has a bit of sound, but generally in good working condition.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "31 Aug 2026",
+          "ageInYears": 1,
+          "dimensions": "200cm x 90cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
+        },
+        {
+          "id": "159939",
+          "name": "Queer Size Mattress with Frame",
+          "description": "Spare mattress, hardly used, some light stains",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "30 Aug 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159553",
+          "name": "Baby Cot with Mattress",
+          "description": "Well used big cot but still in decent condition. Mattress is used but pretty new.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "LxBxH 1.4m x 80cm x 1.3m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "159913",
+          "name": "Electric Hospital Bed with Air Mattress",
+          "description": "Brand New Electric Hospital Bed with Air mattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "19 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
