@@ -100,40 +100,6 @@
     }
   },
   {
-    "id": "159256",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client's daughter is studying interior and product design course and requires\na donated laptop for her studies. Her current laptop is faulty. (HW)",
-    "specifications": "Processor: 13th Gen Intel core 19-14900HX, Operating system:window 11 Pro",
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159485",
-          "name": "Laptop bag",
-          "description": "Laptop bag which is new and never been used.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "159902",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -152,17 +118,6 @@
     "date": "20 Aug 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "160134",
-          "name": "TV console",
-          "description": "Beautifully carved wooden TV console, with storage rack and drawers at the bottom.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "65x46cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "159838",
           "name": "TV console",
@@ -201,51 +156,17 @@
     }
   },
   {
-    "id": "159234",
-    "category": "Electrical Home Appliances",
-    "name": "Microwave",
-    "description": "Client is a Person with Disabilities (PWD) and is medically unfit for employment. He is dependent on his spouse for assistance with activities of daily living. Despite these challenges, the family has been working towards greater housing stability and has recently secured a rental flat from HDB. The unit provided as a bare flat, the household lacks essential furnishings and household items necessary for daily living. The family requires support to equip the home with basic necessities.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Dishalani D/O Anbanathan",
-      "email": "dishalani@allkin.org.sg",
-      "phone": [
-        "60384135",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jul 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159661",
-          "name": "Microwave oven",
-          "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160136",
+    "id": "160147",
     "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Client is a single mother to 4 teenagers. She is the sole breadwinner and relies on her part-time employment and ComCare assistance to meet the family's basic needs. One of her children suffers from mental health issues.",
-    "specifications": "Queen Size",
+    "name": "TV console",
+    "description": "Client (22yo) is a young parent of 2 young children aged 4yo & a newborn. She is currently unemployed as she has just recently given birth. Husband is therefore the sole breadwinner of the family. As such, the family is still working on stabilising their finances and require support with getting new furniture currently.",
+    "specifications": "Larger than 100cm x 46cm",
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
       "phone": [
-        "62706711"
+        "67872001"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -253,48 +174,104 @@
     "matches": {
       "passiton": [
         {
-          "id": "159703",
-          "name": "Air Mattress",
-          "description": "Air Mattress bought in Dec 2025. Sometimes has a bit of sound, but generally in good working condition.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Aug 2026",
-          "ageInYears": 1,
-          "dimensions": "200cm x 90cm",
+          "id": "159838",
+          "name": "TV console",
+          "description": "still very new looking. Could fit into a car.",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "18 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "est. 100x40x80cm LxWxH",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160095",
+    "category": "Home Furnishing",
+    "name": "sofa",
+    "description": "Family of 2, consisting of a single mother and her 5-year-old daughter. Their sofa had been infested with bed bugs and despite engaging someone from Carousell to clear the infestation, the family is worried to continue using it. The family is financially unable to afford a replacement and is seeking donation of a sofa. Assistance from the donor to cover transport arrangement and delivery costs would also be greatly appreciated. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "159939",
-          "name": "Queer Size Mattress with Frame",
-          "description": "Spare mattress, hardly used, some light stains",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "30 Aug 2026",
-          "ageInYears": 3,
-          "dimensions": null,
+          "id": "160164",
+          "name": "Dark Grey Sofa",
+          "description": "3 seater sofa, dark grey fabric.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "28 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "170x89x82",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
         {
-          "id": "159553",
-          "name": "Baby Cot with Mattress",
-          "description": "Well used big cot but still in decent condition. Mattress is used but pretty new.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "09 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "LxBxH 1.4m x 80cm x 1.3m",
+          "id": "160146",
+          "name": "2 Seaters Sofa 145cm",
+          "description": "2 Seaters Cloud Sofa",
+          "location": "Sengkang West Way",
+          "validTill": "27 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "145cm x 80cm approx",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160002",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client (22yo) is a young parent of 2 young children aged 4yo & a newborn. She is currently unemployed as she has just recently given birth. Husband is therefore the sole breadwinner of the family. As such, the family is still working on stabilising their finances and require support with getting new furniture currently (current sofa is spoilt)",
+    "specifications": "Sofa can be 2-3 seater, depending on the size",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160164",
+          "name": "Dark Grey Sofa",
+          "description": "3 seater sofa, dark grey fabric.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "28 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "170x89x82",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         },
         {
-          "id": "159913",
-          "name": "Electric Hospital Bed with Air Mattress",
-          "description": "Brand New Electric Hospital Bed with Air mattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "19 Sep 2026",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "160146",
+          "name": "2 Seaters Sofa 145cm",
+          "description": "2 Seaters Cloud Sofa",
+          "location": "Sengkang West Way",
+          "validTill": "27 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "145cm x 80cm approx",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -412,6 +389,73 @@
     }
   },
   {
+    "id": "159900",
+    "category": "Home Furnishing",
+    "name": "2 Seater Sofa",
+    "description": "Client and her husband is caring for 3 children (age 13, 11, and 7) is seeking support for a 2-seater sofa, as Client's father has recently been diagnosed with Stage 2 Colon cancer and requires a full time caregiver. Hence, Client's father will be moving into the family's two-room flat and will need the sofa to rest after his chemo-therapy begins. (Cl)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160146",
+          "name": "2 Seaters Sofa 145cm",
+          "description": "2 Seaters Cloud Sofa",
+          "location": "Sengkang West Way",
+          "validTill": "27 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "145cm x 80cm approx",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159604",
+    "category": "Home Furnishing",
+    "name": "foldable table",
+    "description": "Client is a single mother residing in a one-room flat with her 1 year old daughter. As daughter has recently learnt to walk and is exploring the home environment, Client requires a change in furniture to ensure that home environment stays child-friendly, to minimize any potential hazards.",
+    "specifications": "similar to dining table size",
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160157",
+          "name": "foldable table",
+          "description": "lightly used foldable table in white. In good condition. Can be used for study or side table.",
+          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+          "validTill": "27 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "65 w x 75 h x 45 d",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159829",
     "category": "Attires/Clothings",
     "name": "Clothes",
@@ -462,6 +506,62 @@
           "dimensions": "136 cm width x 96 cm depth x 150 cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160144",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "We would like to request for 1 standard adult wheelchair, either brand-new or pre-loved in good working condition, for emergency use at our centre. Preferably with foldable footrests and functioning brakes. Kindly email us for details or arrangements. Thank you.",
+    "specifications": "Approximately 107 cm (L) × 64 cm (W) × 91 cm (H), or equivalent standard adult size.",
+    "contact": {
+      "org": "Dementia Singapore",
+      "name": "Nur Aishah",
+      "email": "nur.aishah@dementia.org.sg",
+      "phone": [
+        "63895133",
+        "63895108"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160158",
+          "name": "Wheelchair",
+          "description": "Wheelchair",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "27 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "Unfolded Size (L x W x H): 930 mm × 620 mm × 860 mm    Folded Size (L x W x H): 670 mm × 300 mm × 685 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "159515",
+          "name": "Wheelchair - back can be reclined",
+          "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "06 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "160106",
+          "name": "Motorized wheelchair",
+          "description": "Newly bought this year but seldom use as my dad passed away before he can really use it.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "26 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
