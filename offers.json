@@ -77,13 +77,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160134",
-    "name": "TV console",
-    "description": "Beautifully carved wooden TV console, with storage rack and drawers at the bottom.",
-    "location": "Pasir Ris, Simei, Tampines",
+    "id": "160157",
+    "name": "foldable table",
+    "description": "lightly used foldable table in white. In good condition. Can be used for study or side table.",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
     "validTill": "27 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "65x46cm",
+    "ageInYears": 2,
+    "dimensions": "65 w x 75 h x 45 d",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160146",
+    "name": "2 Seaters Sofa 145cm",
+    "description": "2 Seaters Cloud Sofa",
+    "location": "Sengkang West Way",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "145cm x 80cm approx",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -106,17 +117,6 @@
     "validTill": "20 Sep 2026",
     "ageInYears": 4,
     "dimensions": "1.6m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159990",
-    "name": "Wood Desk",
-    "description": "Wooden desk, almost like dining table",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": "180 x 91 x 75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -209,17 +209,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159919",
-    "name": "Open shelf",
-    "description": "More than 4 years old, but very good condition",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "19 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Length 155 cm Height 195 cm, depth 37 cm.  shelf depth 31 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159917",
     "name": "Computer table or normal study desk",
     "description": "Computer Desk or a Study table with drawers. Dark brown",
@@ -227,17 +216,6 @@
     "validTill": "15 Sep 2026",
     "ageInYears": 4,
     "dimensions": "60x107X77",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159939",
-    "name": "Queer Size Mattress with Frame",
-    "description": "Spare mattress, hardly used, some light stains",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "30 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -350,6 +328,17 @@
     "dimensions": "Refer to the attached pictures.",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "160152",
+    "name": "Bonbijou Luna Baby Stroller",
+    "description": "Brand new (unassembled) Bonbijou Luna 2 Way Stroller. Colour: Grey/Black. Suitable from birth up to 20kg. Lightweight (5.4kg). 2-way seating option for parent facing or forward-facing use. Full UV canopy.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "46cm x 24cm x 75cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "160139",
@@ -671,6 +660,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "160141",
+    "name": "BION Oxygen Concentrator 8F-5A 5LPM",
+    "description": "Item is new and only used less than 10 times. For hygiene purposes, we have discarded the nasal cannula.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "47.5x33x58.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "159913",
     "name": "Electric Hospital Bed with Air Mattress",
     "description": "Brand New Electric Hospital Bed with Air mattress",
@@ -735,6 +735,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "160158",
+    "name": "Wheelchair",
+    "description": "Wheelchair",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "Unfolded Size (L x W x H): 930 mm × 620 mm × 860 mm    Folded Size (L x W x H): 670 mm × 300 mm × 685 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "160106",
@@ -814,15 +825,15 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "159276",
-    "name": "Commode",
-    "description": "Pre-loved commode that has been used for less than 1 year",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "29 Aug 2026",
-    "ageInYears": 1,
+    "id": "160140",
+    "name": "3 Tiers Wooden Rack Storage Cabinet",
+    "description": "3 Tiers Wooden Rack Storage Cabinet.",
+    "location": null,
+    "validTill": "04 Sep 2026",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
+    "category": "Others"
   },
   {
     "id": "160034",
