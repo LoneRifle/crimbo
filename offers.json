@@ -66,15 +66,59 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "159661",
-    "name": "Microwave oven",
-    "description": "Combo Microwave and Convection Oven.\nNote: Oven is quite old (25 years) but it is still working.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Aug 2026",
+    "id": "160179",
+    "name": "Cabinet Drawer",
+    "description": "White Chest of Drawer.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Sep 2026",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "L 81cm x D49cm x H101cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160178",
+    "name": "Beige Sofa",
+    "description": "3 seater sofa",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L193cm x D82cm x H95cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160177",
+    "name": "Side Shelf",
+    "description": "Side table",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L 72cm x D 31cm x H 65cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160176",
+    "name": "Writing Table",
+    "description": "Writing table without the side table. Side Table posted separately.",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L 149cm x D74cm x H 75cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160175",
+    "name": "Book Cabinet",
+    "description": "Book Cabinet with Glass",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L 76cm x D 41cm x H 180cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160172",
@@ -297,28 +341,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159933",
-    "name": "High Chair",
-    "description": "I have 5 of this to donate.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159932",
-    "name": "Stools",
-    "description": "I have 40 of these to donate. Please let me know how many you need. Limit at the moment to 5 pieces per person.",
-    "location": "Kovan",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159917",
     "name": "Computer table or normal study desk",
     "description": "Computer Desk or a Study table with drawers. Dark brown",
@@ -341,17 +363,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159818",
-    "name": "dinning table and chair",
-    "description": "1 glass table and 3 wooden chairs",
-    "location": null,
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "159794",
     "name": "Tempered Glass Extendable Dining Table",
     "description": "A tempered glass extendable dining table in clean and good condition. before extension is 120cm long, after extension is 160cm long, the width is 90cm. Good for family.",
@@ -370,17 +381,6 @@
     "validTill": "14 Sep 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159732",
-    "name": "Children’s Bear Bed Frame (Super Single)",
-    "description": "Lightly used children’s bed. Lovely bear design",
-    "location": null,
-    "validTill": "31 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "129.8cm x 211.6cm x 130cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -414,17 +414,6 @@
     "validTill": "10 Sep 2026",
     "ageInYears": 2,
     "dimensions": "790 mm width x 540 mm  depth x 690 cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159551",
-    "name": "IKEA LONG STUDY TABLE",
-    "description": "IKEA LONG DESK WITH DESK DIVIDER . GOOD FOR SITTING 2 PERSON",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "2000X600X740",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -524,17 +513,6 @@
     "validTill": "07 Sep 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159731",
-    "name": "Bed guard",
-    "description": "A bed guard suitable for single bed. Almost new. Wet set it up and didn’t find it suitable",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": "120-130cm wide",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -792,28 +770,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "159703",
-    "name": "Air Mattress",
-    "description": "Air Mattress bought in Dec 2025. Sometimes has a bit of sound, but generally in good working condition.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "200cm x 90cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "159643",
-    "name": "hearing aids",
-    "description": "Rechargeable hearing aids (pair) + charging case. \nTested and fully functional before post.",
-    "location": null,
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": "Case : 8.5x5.5x4cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "159618",
     "name": "Waterproof leg Cast Cover",
     "description": "Waterproof Leg Cast Covers (2 pieces)\n\nProvides watertight protection for casts, bandages and wound areas during showering. Made from comfortable, odourless, non-toxic and latex-free material.\n\nIncludes:\n\n* 1 lightly used for one month\n* 1 brand new",
@@ -832,17 +788,6 @@
     "validTill": "10 Sep 2026",
     "ageInYears": 2,
     "dimensions": "TBC",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "159525",
-    "name": "Suction machine",
-    "description": "Fully functional suctioning machine to give away. Comes with a brand new suction tubing.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -880,17 +825,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "159621",
-    "name": "Premium Nursing Bed",
-    "description": "Domiflex 3 Premium Nursing bed \nContinuous Side Rails\nPremium Foam Mattress\nProduct from Rainbow care.\n\nPls note, the sliding up is not working. The rest function well.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": "L 211 cm x W 101 cm x H 90 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "159515",
     "name": "Wheelchair - back can be reclined",
     "description": "Item is more than 4yrs but used for less than 1yr.\n\nHandbrake is faulty but manual wheel brake lever is working fine.\n\nGood for stationary use at home, especially when patient needs to recline  instead of sitting up the whole time.",
@@ -909,17 +843,6 @@
     "validTill": "05 Sep 2026",
     "ageInYears": 4,
     "dimensions": "50 x 30 x 60",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159483",
-    "name": "Commode without pot but with cover",
-    "description": "Used Commode, without pot but there is a cover.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
