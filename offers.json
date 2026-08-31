@@ -66,6 +66,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160201",
+    "name": "Cabinet",
+    "description": "White cabinet with sliding door and 3tier drawers, black glass top.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "1600 * 400* 900",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160178",
     "name": "Beige Sofa",
     "description": "3 seater sofa",
@@ -341,17 +352,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159347",
-    "name": "Brand New Plastic Chair with Back Rest",
-    "description": "- 4 units of Brand New Plastic Chair with Back Rest.\n- Refer to the attached pictures for the item dimensions.\n- Never been used before. \n- White or Grey colour.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "01 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "Refer to the attached pictures.",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160192",
     "name": "Bugaboo Baby Stroller",
     "description": "Bugaboo Cameleon 3, with baby bassinet and toddler seat in very good condition, lightly used.",
@@ -414,28 +414,6 @@
     "validTill": "20 Sep 2026",
     "ageInYears": 2,
     "dimensions": "75cm x 64 x 107",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159836",
-    "name": "Baby Stroller",
-    "description": "Good condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "01 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "Standard",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159835",
-    "name": "Baby Stroller",
-    "description": "Good Condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "01 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "Standard",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
