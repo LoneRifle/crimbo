@@ -33,6 +33,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160239",
+    "name": "LG LCD TV",
+    "description": "LG LCD TV - will provide wall mount and TV stand as well as Set top box",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "12 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160223",
+    "name": "Two doors fridge",
+    "description": "Need to give away asap.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "08 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160217",
+    "name": "Refridgerator",
+    "description": "401 Litres. Top Freezer. Works well and still in good condition.\n\navailable from 16 Sep",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "21 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "186H 70W 68D",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160132",
     "name": "55” LED TV",
     "description": "Philips LED TV (Non-Smart) without stand, need to be mounted.",
@@ -75,6 +108,61 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160238",
+    "name": "Table",
+    "description": "Excellent condition, can function as a small dining table or study table.",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "14 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160236",
+    "name": "Single sofa bed",
+    "description": "Single sofa bed. Removable cover. Freshly laundered. \n\n160 L x 70 W x 10cm H when opened. \n80 L x 70 W x 45cm when closed. \n\nI can deliver ONLY to Central/South areas.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160235",
+    "name": "Office chair",
+    "description": "Almost new office chair",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160232",
+    "name": "Hospital Bed",
+    "description": "Comes with alternating pressure mattress pump & medical positioning wedge pillow for minimising bed sores.\nWill appreciate if self-collection is possible.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160219",
+    "name": "Marble Table with 4 Chair",
+    "description": "Clean and in good conditions. come with 4 chairs.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "21 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "160x90cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160210",
@@ -139,6 +227,28 @@
     "validTill": "05 Sep 2026",
     "ageInYears": 4,
     "dimensions": "L 149cm x D74cm x H 75cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160225",
+    "name": "Book Cabinet",
+    "description": "Book Cabinet with Glass",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L 76cm x D 41cm x H 180cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160226",
+    "name": "Book Cabinet",
+    "description": "Book Cabinet with Glass",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "05 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L 76cm x D 41cm x H 180cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -517,28 +627,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "159480",
-    "name": "Baby Walker",
-    "description": "Baby walker for babies to learn walking. There is a steering wheel for baby to play too.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "05 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "50cm x 40cm x 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159400",
-    "name": "Pink Kid's Adjustable Table",
-    "description": "Kids table\nAdjustable height",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "02 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "60 x 40 x 63",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "160184",
     "name": "CIF - ALL-PURPOSE CLEANER",
     "description": "CIF PROFESSIONAL ALL-PURPOSE CLEANER 4.2L\nPLS SELF PICK UP FROM MY BLOCK.\nWILL ADVICE THE DETAILS WHEN YOU CONFIRM TAKING THIS ITEM.",
@@ -616,17 +704,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "159389",
-    "name": "Massage table or Reiki Table",
-    "description": "Massage table bought from Shopee. Almost brand new - used once. Quite big - see the photo of the man carrying the massage table.",
-    "location": null,
-    "validTill": "02 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "159486",
     "name": "School bag",
     "description": "The bag is new and never used before.",
@@ -658,6 +735,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "160233",
+    "name": "Medical supplies",
+    "description": "Includes adult wipes, underpads & surgical masks.\nSelf-collection will be greatly appreciated.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "160173",
@@ -704,6 +792,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "160231",
+    "name": "hospital bed and air mattress",
+    "description": "Bed and air matress to donate. Fully functional.\nAbout 2 years old. Collect at Woodlands area.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "200x95x50",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "160174",
     "name": "Elderly Rehab Chair",
     "description": "Self Collection and No transport allowance",
@@ -711,17 +810,6 @@
     "validTill": "29 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159974",
-    "name": "Walking Aid",
-    "description": "the centre bars are rusty.  Maybe the client can use a masking tape to cover the rusty parts.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "02 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "50 x 30 x 60",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -757,6 +845,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "160234",
+    "name": "Diben Vanilla Milk",
+    "description": "38 bottles.\nSelf-collection will be greatly appreciated.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "01 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160163",
