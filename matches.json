@@ -1,5 +1,38 @@
 [
   {
+    "id": "160255",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a single mother of 2 youths and she needs support in getting a laptop for them as their only laptop at home is no longer working. \n\nThis laptop has help the youths for their respective school work at times or to use it during their free time/school holidays as well. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Siti Aminah",
+      "email": "sitiaminah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159485",
+          "name": "Laptop bag",
+          "description": "Laptop bag which is new and never been used.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "05 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160102",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -33,40 +66,6 @@
     }
   },
   {
-    "id": "160207",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Single mother with health complication with 3 children and grandfather in a 2 room flat.",
-    "specifications": null,
-    "contact": {
-      "org": "Trybe Limited",
-      "name": "Nadiah Binte Abdul Razak",
-      "email": "nadiah.razak@trybe.org",
-      "phone": [
-        "-",
-        "67841481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160223",
-          "name": "Two doors fridge",
-          "description": "Need to give away asap.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "08 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "160128",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -86,7 +85,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "160223",
+          "id": "160247",
           "name": "Two doors fridge",
           "description": "Need to give away asap.",
           "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -120,7 +119,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "160223",
+          "id": "160247",
           "name": "Two doors fridge",
           "description": "Need to give away asap.",
           "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -172,28 +171,6 @@
           "validTill": "15 Sep 2026",
           "ageInYears": 3,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160178",
-          "name": "Beige Sofa",
-          "description": "3 seater sofa",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "05 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "L193cm x D82cm x H95cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160210",
-          "name": "Teal coloured sofa set, fabric",
-          "description": "Fabric teal L-shaped sofa. Not new but has been maintained with professional cleaning once a year and regular laundry of covers. \nSuitable for a family with children who does not want to worry about spillage or shoes on it. FREE to anyone against collection. I can't send it to you.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "01 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "60cm, 110cm, 55cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -347,111 +324,22 @@
     }
   },
   {
-    "id": "159604",
-    "category": "Home Furnishing",
-    "name": "foldable table",
-    "description": "Client is a single mother residing in a one-room flat with her 1 year old daughter. As daughter has recently learnt to walk and is exploring the home environment, Client requires a change in furniture to ensure that home environment stays child-friendly, to minimize any potential hazards.",
-    "specifications": "similar to dining table size",
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160157",
-          "name": "foldable table",
-          "description": "lightly used foldable table in white. In good condition. Can be used for study or side table.",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "27 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "65 w x 75 h x 45 d",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159829",
-    "category": "Attires/Clothings",
-    "name": "Clothes",
-    "description": "A elderly man lives alone in a one-room HDB rental flat is medically unfit for work, with no family support. He needs clothes - t-shirts & bermudas, both of size XL.",
-    "specifications": null,
-    "contact": {
-      "org": "NTUC Health Co-operative Limited",
-      "name": "Zoe Lee",
-      "email": "zoe.l1@ntuchealth.sg",
-      "phone": [
-        "94552166",
-        "67156715"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "159978",
-          "name": "Boys clothes (7-8 yrs old)",
-          "description": "Tshirts and shorts are preloved but still in good conditions. (Not used often)",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "07 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "Nil",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Attires/Clothings"
-        },
-        {
-          "id": "159802",
-          "name": "Ikea Clothes Hanger for Children",
-          "description": "Clothes Hanger with adjustable hooks for children.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "07 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "159609",
-          "name": "Outdoor clothes rack (Stainless Steel)",
-          "description": "Good condition, like new one. Can further extend the width.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "10 Sep 2026",
-          "ageInYears": 1,
-          "dimensions": "136 cm width x 96 cm depth x 150 cm height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160144",
+    "id": "160253",
     "category": "Mobility Aids",
     "name": "Wheelchair",
-    "description": "We would like to request for 1 standard adult wheelchair, either brand-new or pre-loved in good working condition, for emergency use at our centre. Preferably with foldable footrests and functioning brakes. Kindly email us for details or arrangements. Thank you.",
-    "specifications": "Approximately 107 cm (L) × 64 cm (W) × 91 cm (H), or equivalent standard adult size.",
+    "description": "Client is currently residing with her sister as she is unable to independently manage her daily needs. He has undergone a leg amputation and recently sustained a fall. Following the fall, he experienced increased difficulty with mobility and is currently unable to stand or ambulate independently.",
+    "specifications": null,
     "contact": {
-      "org": "Dementia Singapore",
-      "name": "Nur Aishah",
-      "email": "nur.aishah@dementia.org.sg",
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
       "phone": [
-        "63895133",
-        "63895108"
+        "87145182",
+        "67671740"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "28 Aug 2026",
+    "date": "02 Sep 2026",
     "matches": {
       "passiton": [
         {
