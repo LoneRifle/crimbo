@@ -33,33 +33,102 @@
     }
   },
   {
-    "id": "160190",
-    "category": "Home Furnishing",
-    "name": "TV console",
-    "description": "Mom of 6 children from low-income background require assistance in acquiring TV console to accommodate space constraints in her rental flat.",
-    "specifications": "NIL",
+    "id": "160207",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with health complication with 3 children and grandfather in a 2 room flat.",
+    "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Evelyn  Chin",
-      "email": "evelynchin@allkin.org.sg",
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
       "phone": [
-        "63128100"
+        "-",
+        "67841481"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "31 Aug 2026",
+    "date": "01 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "159838",
-          "name": "TV console",
-          "description": "still very new looking. Could fit into a car.",
-          "location": "Springleaf, Tagore, Upper Thomson",
-          "validTill": "18 Sep 2026",
+          "id": "160223",
+          "name": "Two doors fridge",
+          "description": "Need to give away asap.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Sep 2026",
           "ageInYears": 4,
-          "dimensions": "est. 100x40x80cm LxWxH",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160128",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single Muslim Mom with < 1 year born baby need a fridge.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Mark Lim",
+      "email": "mark_lim@msf.gov.sg",
+      "phone": [
+        "63549058",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160223",
+          "name": "Two doors fridge",
+          "description": "Need to give away asap.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160054",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Single mother with health issue living with her 2 children, grandchildren and elderly in a 2 room rental flat",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160223",
+          "name": "Two doors fridge",
+          "description": "Need to give away asap.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -91,6 +160,17 @@
           "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
           "validTill": "30 Sep 2026",
           "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160236",
+          "name": "Single sofa bed",
+          "description": "Single sofa bed. Removable cover. Freshly laundered. \n\n160 L x 70 W x 10cm H when opened. \n80 L x 70 W x 45cm when closed. \n\nI can deliver ONLY to Central/South areas.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "15 Sep 2026",
+          "ageInYears": 3,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
