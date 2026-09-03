@@ -85,12 +85,12 @@
     "matches": {
       "passiton": [
         {
-          "id": "160247",
-          "name": "Two doors fridge",
-          "description": "Need to give away asap.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "08 Sep 2026",
-          "ageInYears": 4,
+          "id": "160282",
+          "name": "Fridge",
+          "description": "Self collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
@@ -119,15 +119,127 @@
     "matches": {
       "passiton": [
         {
-          "id": "160247",
-          "name": "Two doors fridge",
-          "description": "Need to give away asap.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "08 Sep 2026",
-          "ageInYears": 4,
+          "id": "160282",
+          "name": "Fridge",
+          "description": "Self collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160291",
+    "category": "Home Furnishing",
+    "name": "Cupboard",
+    "description": "Single mother with one son looking to replace their broken cupboard to store their clothes. Max height is about 200cm and max width is 165cm.",
+    "specifications": "200cm x 165cm",
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
+      "phone": [
+        "68590811",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159979",
+          "name": "Ikea tent cupboard",
+          "description": "Ikea tent cupboard for hanging clothes.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "07 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "L73xB49xH152",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160288",
+    "category": "Home Furnishing",
+    "name": "mattresss",
+    "description": "This request is for a family of 5 – a single mother with 4 secondary & primary school children. Father passed away in Nov 2025. Since then, family’s finances are tight, on a single income. As youngest child has special needs, mother had to hire a domestic helper to assist with caregiving, which is an added financial burden every month. The family’s floor mattresses and pillows are in bad condition, but finances are too tight for mother to buy replacements. Donation of 5 new single size thin floor mattresses (approx. 90cm x 190cm x 5-10cm) and 5 pillows would greatly assist this family in their time of need.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "03 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160280",
+          "name": "Mattress (Single)",
+          "description": "This mattress is rarely use, clean and no stain, still in good condition.  Currently   wrapped in shrink-wrap.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "190cm x 93cm x 24cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160209",
+          "name": "Mattress (super single)",
+          "description": "Super-single sized mattress.\nPocketed-springs.\nClean; in very good condition.\nFirmness: 6.5 out of 10\nUsed for 2 years",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "01 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": "190cm x 110cm x 28 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160278",
+          "name": "Bed and mattress",
+          "description": "Super single bed\n190cm L x 107cm W x 28cm H (incl legs)\n\nMattress\n190cm L x 107cm W x 29cm H",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "190 cm x 107 cm x 60 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160265",
+          "name": "Super single mattress",
+          "description": "Like new super single mattress. Used for about 1 year. Clean, no stains",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "02 Oct 2026",
+          "ageInYears": 1,
+          "dimensions": "107cm x 190cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160231",
+          "name": "hospital bed and air mattress",
+          "description": "Bed and air matress to donate. Fully functional.\nAbout 2 years old. Collect at Woodlands area.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "10 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "200x95x50",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -171,17 +283,6 @@
           "validTill": "15 Sep 2026",
           "ageInYears": 3,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160164",
-          "name": "Dark Grey Sofa",
-          "description": "3 seater sofa, dark grey fabric.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "28 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "170x89x82",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
