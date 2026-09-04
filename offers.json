@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160301",
+    "name": "LED TV",
+    "description": "LED TV",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "32 inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160283",
     "name": "Washer and Dryer Combo",
     "description": "Self collect",
@@ -108,6 +119,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160299",
+    "name": "King Bed Frame with Mattress",
+    "description": "king size bed frame with mattress. bed frame comes with build in drawers and under bed storage. does not come with headboard",
+    "location": null,
+    "validTill": "01 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "183 x 200 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160278",
@@ -337,17 +359,6 @@
     "validTill": "18 Sep 2026",
     "ageInYears": 4,
     "dimensions": "est. 100x40x80cm LxWxH",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159794",
-    "name": "Tempered Glass Extendable Dining Table",
-    "description": "A tempered glass extendable dining table in clean and good condition. before extension is 120cm long, after extension is 160cm long, the width is 90cm. Good for family.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "120cm x 90cm x 80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -627,17 +638,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "159458",
-    "name": "ZigZaw puzzles",
-    "description": "Used quality ZigZaw puzzle for elderly/teenager/adult .\nGood for cognitive training and leisure\n500 pieces (520x380mm)\n1000 pieces (700x500mm)",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "159486",
     "name": "School bag",
     "description": "The bag is new and never used before.",
@@ -655,17 +655,6 @@
     "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "05 Sep 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
-  },
-  {
-    "id": "159450",
-    "name": "Learning materials",
-    "description": "Learning aids",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "04 Sep 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
@@ -831,17 +820,6 @@
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "28 Sep 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160140",
-    "name": "3 Tiers Wooden Rack Storage Cabinet",
-    "description": "3 Tiers Wooden Rack Storage Cabinet.",
-    "location": null,
-    "validTill": "04 Sep 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
