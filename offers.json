@@ -33,7 +33,7 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "160301",
+    "id": "160324",
     "name": "LED TV",
     "description": "LED TV",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
@@ -121,6 +121,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160326",
+    "name": "Single bed frame with mattress",
+    "description": "Bed frame and mattress to giveaway in good condition. Giving away as we have a new adjustable bed coming in for elderly, old bed is not suitable. Mattress is good condition (it is not heavily soiled, no bedbugs, etc).",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "200 x 95 x 50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160322",
+    "name": "Super Single Size Mattress",
+    "description": "Super Single size X2",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "04 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "Super Single Size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160299",
     "name": "King Bed Frame with Mattress",
     "description": "king size bed frame with mattress. bed frame comes with build in drawers and under bed storage. does not come with headboard",
@@ -139,17 +161,6 @@
     "validTill": "02 Oct 2026",
     "ageInYears": 4,
     "dimensions": "220x200x215 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160265",
-    "name": "Super single mattress",
-    "description": "Like new super single mattress. Used for about 1 year. Clean, no stains",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "02 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": "107cm x 190cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -282,17 +293,6 @@
     "validTill": "25 Sep 2026",
     "ageInYears": 4,
     "dimensions": "140X 85",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159989",
-    "name": "Wooden bed frame",
-    "description": "A pre-loved Scanteak bed frame\n\nSuper-Single size",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "22 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "202cm x 99cm x 40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },

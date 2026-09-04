@@ -198,13 +198,24 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "160265",
-          "name": "Super single mattress",
-          "description": "Like new super single mattress. Used for about 1 year. Clean, no stains",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "02 Oct 2026",
+          "id": "160322",
+          "name": "Super Single Size Mattress",
+          "description": "Super Single size X2",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "04 Oct 2026",
           "ageInYears": 1,
-          "dimensions": "107cm x 190cm",
+          "dimensions": "Super Single Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160326",
+          "name": "Single bed frame with mattress",
+          "description": "Bed frame and mattress to giveaway in good condition. Giving away as we have a new adjustable bed coming in for elderly, old bed is not suitable. Mattress is good condition (it is not heavily soiled, no bedbugs, etc).",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "200 x 95 x 50cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
