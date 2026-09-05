@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160338",
+    "name": "Small Freezer",
+    "description": "Kuche small freezer 95ml, upright freezer for breast milk storage",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160324",
     "name": "LED TV",
     "description": "LED TV",
@@ -55,7 +66,18 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160282",
+    "id": "160334",
+    "name": "Fridge",
+    "description": "Self collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160335",
     "name": "Fridge",
     "description": "Self collect",
     "location": "Pasir Ris, Simei, Tampines",
@@ -119,6 +141,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160339",
+    "name": "Dining table",
+    "description": "Dining table, like new, marble imitation",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "05 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "150*75",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160337",
+    "name": "Sofa 2-Seater",
+    "description": "2-Seater Sofa (Fabric) still in good condition.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "08 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "165 x 90 x 64",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160333",
+    "name": "6 feet TV console",
+    "description": "Good as new 6 feet TV console",
+    "location": null,
+    "validTill": "05 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "183cm x 56cm x 71cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160326",

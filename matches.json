@@ -19,7 +19,18 @@
     "matches": {
       "passiton": [
         {
-          "id": "160282",
+          "id": "160334",
+          "name": "Fridge",
+          "description": "Self collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "160335",
           "name": "Fridge",
           "description": "Self collect",
           "location": "Pasir Ris, Simei, Tampines",
@@ -53,7 +64,18 @@
     "matches": {
       "passiton": [
         {
-          "id": "160282",
+          "id": "160334",
+          "name": "Fridge",
+          "description": "Self collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "160335",
           "name": "Fridge",
           "description": "Self collect",
           "location": "Pasir Ris, Simei, Tampines",
@@ -102,84 +124,6 @@
     }
   },
   {
-    "id": "160288",
-    "category": "Home Furnishing",
-    "name": "mattresss",
-    "description": "This request is for a family of 5 – a single mother with 4 secondary & primary school children. Father passed away in Nov 2025. Since then, family’s finances are tight, on a single income. As youngest child has special needs, mother had to hire a domestic helper to assist with caregiving, which is an added financial burden every month. The family’s floor mattresses and pillows are in bad condition, but finances are too tight for mother to buy replacements. Donation of 5 new single size thin floor mattresses (approx. 90cm x 190cm x 5-10cm) and 5 pillows would greatly assist this family in their time of need.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Ann Wende",
-      "email": "wende_ann@msf.gov.sg",
-      "phone": [
-        "63765987",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "03 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160209",
-          "name": "Mattress (super single)",
-          "description": "Super-single sized mattress.\nPocketed-springs.\nClean; in very good condition.\nFirmness: 6.5 out of 10\nUsed for 2 years",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "01 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "190cm x 110cm x 28 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160322",
-          "name": "Super Single Size Mattress",
-          "description": "Super Single size X2",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "04 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": "Super Single Size",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160326",
-          "name": "Single bed frame with mattress",
-          "description": "Bed frame and mattress to giveaway in good condition. Giving away as we have a new adjustable bed coming in for elderly, old bed is not suitable. Mattress is good condition (it is not heavily soiled, no bedbugs, etc).",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "09 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": "200 x 95 x 50cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160299",
-          "name": "King Bed Frame with Mattress",
-          "description": "king size bed frame with mattress. bed frame comes with build in drawers and under bed storage. does not come with headboard",
-          "location": null,
-          "validTill": "01 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "183 x 200 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160231",
-          "name": "hospital bed and air mattress",
-          "description": "Bed and air matress to donate. Fully functional.\nAbout 2 years old. Collect at Woodlands area.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "10 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "200x95x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "160095",
     "category": "Home Furnishing",
     "name": "sofa",
@@ -198,6 +142,17 @@
     "date": "26 Aug 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "160337",
+          "name": "Sofa 2-Seater",
+          "description": "2-Seater Sofa (Fabric) still in good condition.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "165 x 90 x 64",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "160203",
           "name": "Sofa Bed",
@@ -253,6 +208,17 @@
     "date": "24 Aug 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "160339",
+          "name": "Dining table",
+          "description": "Dining table, like new, marble imitation",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "05 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": "150*75",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "159977",
           "name": "Dining table",
@@ -332,6 +298,17 @@
     "date": "20 Aug 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "160337",
+          "name": "Sofa 2-Seater",
+          "description": "2-Seater Sofa (Fabric) still in good condition.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "08 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "165 x 90 x 64",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "160146",
           "name": "2 Seaters Sofa 145cm",
