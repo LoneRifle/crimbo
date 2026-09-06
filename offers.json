@@ -33,6 +33,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160347",
+    "name": "Philips TV",
+    "description": "Working television.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "95cm by 56cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160346",
+    "name": "Midea Fridge 413L",
+    "description": "Non Halal\nNo budget for transportation/ delivery\nself collection only",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "12 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "70x67x172.3cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160341",
+    "name": "LG 2 door fridge",
+    "description": "LG 2 door fridge. Used by family of 2. Wrapped to preserve condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "06 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "31x26x68",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160338",
     "name": "Small Freezer",
     "description": "Kuche small freezer 95ml, upright freezer for breast milk storage",
@@ -141,6 +174,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160348",
+    "name": "Ikea Bookshelves and 2 Dining chairs",
+    "description": "IKEA Bookshelves (2 units) and Dining Chairs (2 units)",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "06 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160345",
+    "name": "Super Single Bed",
+    "description": "No budget for transportation/ delivery. Require self collection",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "11 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "190cm x 107cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160344",
+    "name": "TV console with 2 drawers",
+    "description": "TV console with lots of storage space. Two open compartments and two drawers.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "06 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "110 x 47 x 57",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160343",
+    "name": "Foldable Bed",
+    "description": "Foldable Bed with mattresses. Dimensions when folded 90 x 33 x 69 (L x W x H cm). It has wheels for ease of transport.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "06 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "180 x 90 x 26",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160340",
@@ -528,6 +605,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "160342",
+    "name": "Dining set",
+    "description": "2 x 6pc dinner set \n12 big plates, 12 small plates, 12 small bowls, 2 big serving bowls, 2 small serving bowls",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "06 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "Avg size",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "160277",
     "name": "Ikea food storage containers",
     "description": "I have a total of 4 pieces of this. Used to store dry food.",
@@ -724,6 +812,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "160349",
+    "name": "Chandelier",
+    "description": "Pre-loved chandelier that can be used in any room, or hallway. In very good condition.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "60x60x40",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160330",
