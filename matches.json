@@ -1,16 +1,17 @@
 [
   {
-    "id": "160405",
+    "id": "160382",
     "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Family of four with two young children is currently working but experiencing financial constraints, with limited disposable income after meeting their basic household expenses. The family is appealing for household items, as they are unable to afford to purchase or replace these items on their own. Assistance with the items would help to improve the family’s living conditions and ease their financial burden.",
+    "name": "Washing machine",
+    "description": "The client is a single mother and LTVP holder with two school-going children, one of whom has special needs. She is currently unemployed and undergoing medical treatment. The family’s existing washing machine is faulty and requires replacement. The client is seeking assistance to obtain a replacement washing machine to support the family’s daily household needs.",
     "specifications": null,
     "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
+      "org": "Catholic Welfare Services",
+      "name": "Ian Michael Binny",
+      "email": "michaelbinny@catholicwelfare.org.sg",
       "phone": [
-        "67547050"
+        "84840008",
+        "63394711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -18,13 +19,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "160393",
-          "name": "Mitsubishi Electric (Folio) Refrigerator",
-          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
-          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-          "validTill": "14 Sep 2026",
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
           "ageInYears": 4,
-          "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -72,6 +73,116 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "160415",
+          "name": "Mitsubishi fridge",
+          "description": "Fridge",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160274",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "74-year-old senior is single. She needs a washing machine to do her laundry. Currently, she is unemployed and experiencing financial difficulties. We hope donor can cover the cost of delivery. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "SAMH Mobile Support Team",
+      "name": "Valerie Low",
+      "email": "valerie_low@samhealth.org.sg",
+      "phone": [
+        "85112678"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160270",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 4 with 3 school-going children and none are able to contribute financially to the household. Mother is unable to work due to medical condition. \n\nThey do not have a washing machine, and situation has worsen as mother has to manually wash the clothes, which is causing them distress.",
+    "specifications": null,
+    "contact": {
+      "org": "Cheng San CCC",
+      "name": "Eunis Seah",
+      "email": "eunis_seah@pa.gov.sg",
+      "phone": [
+        "64588222"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160221",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family requires a working washing machine as theirs is currently faulty. They are currently using a laundromat to manage their laundry needs. A washing machine will be helpful to manage the family's laundry needs. Family is subsisting on financial assistance and cannot afford to purchase a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Khairunisa Binte Rusli",
+      "email": "khairunisarusli@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -103,6 +214,107 @@
           "validTill": "14 Sep 2026",
           "ageInYears": 4,
           "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160204",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Seeking a donation of a washing machine for a single mother with two young children (3 months and 3 years old). Their current machine is spoilt, and the family is unable to afford a replacement. The mother works part-time doing food delivery, while the children's father is currently incarcerated and will only be released next year. Any assistance would be greatly appreciated.",
+    "specifications": "any",
+    "contact": {
+      "org": "MSF Social Service Office @ Boon Lay",
+      "name": "Celene Ng",
+      "email": "celene_ng@msf.gov.sg",
+      "phone": [
+        "67367545",
+        "68678580"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160194",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a 70-year-old senior with multiple chronic medical conditions and leg weakness who has recently lost his job. His physical limitations make it increasingly difficult for him to handwash his clothes. We seek support for a washing machine, inclusive of installation and setup costs, as the client is unable to afford these expenses. This will ensure that the appliance can be safely installed and put into use to support his daily living needs and maintain his independence.",
+    "specifications": null,
+    "contact": {
+      "org": "SACS Anglican Cluster Operator - Peace Connect",
+      "name": "Andrea Lok",
+      "email": "andrea_lok@sacs.org.sg",
+      "phone": [
+        "62912473"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160135",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client comes from a low income family. She would require the support of a washing machine in her new rental block to reduce her financial burden.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Priscilla Tan",
+      "email": "priscillatan@fycs.org",
+      "phone": [
+        "60117651",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -150,6 +362,50 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "160415",
+          "name": "Mitsubishi fridge",
+          "description": "Fridge",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160123",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "The client is a grandmother who is currently caring for her two grandchildren, as their biological mother is incarcerated. She is unemployed due to her caregiving responsibilities, and the family relies on SSO assistance to make ends meet.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -182,6 +438,40 @@
           "validTill": "14 Sep 2026",
           "ageInYears": 4,
           "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160082",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "A single mother is currently caring for her 12-year-old daughter on her own. Due to her health conditions, including diabetes and high blood pressure, as well as her caregiving responsibilities, the mother is currently not working. Recently, their washing machine broke down and due to my client’s health condition, she is unable to handwash the clothings, including her daughter’s uniform. As the family is financially unable to afford a replacement, they are seeking donation of a washing machine. Assistance from the donor to cover transport arrangement and delivery costs would also be greatly appreciated. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -229,6 +519,118 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "160415",
+          "name": "Mitsubishi fridge",
+          "description": "Fridge",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160052",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "client is staying alone, he has financial difficulties, no family members. he needs a washing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160038",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single Mother of 1 that underwent C-Section, suffering from severe cramps and pains washing all of her and her child's clothes by hand. Would like to have a washing machine so that it will be easier on her body.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "P Luthrani",
+      "email": "Luthrani_P@msf.gov.sg",
+      "phone": [
+        "63549100",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159992",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "She is a single mother with a 17-year-old son who is a survivor of domestic violence. The family has recently been allocated a new rental flat and they are currently looking into furnishing the unit.\nNote: (a washing machine with a 7-8 kg laundry capacity)",
+    "specifications": null,
+    "contact": {
+      "org": "Marymount Centre - Good Shepherd Centre",
+      "name": "Michelle Ann Veluz",
+      "email": "Michelle_Veluz@marymountctr.org.sg",
+      "phone": [
+        "67556496"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -268,6 +670,106 @@
     }
   },
   {
+    "id": "159952",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "The elderly client, who was previously rough sleeping, has successfully secured home ownership and is preparing to move into her new home. However, the house is currently mostly empty and unfurnished. Due to her current financial constraints, she requires support in obtaining essential household items, particularly a washing machine, to help her establish a safe and comfortable living environment.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159815",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single parent family of 4 with 2 school-going children who requires a washing machine as recently a donated one was unable to spin anymore and is faulty. Family is on active Comcare assistance and unable to afford a washing machine. Would greatly appreciate if donor is able to cover transport expenses. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Mohamad Harith",
+      "email": "harith_husaini@msf.gov.sg",
+      "phone": [
+        "63254547",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159813",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client (F/56) is currently living in a rental flat and has medical limitations which impacts her capacity for employment, causing financila limitations as well. Client is currently seeking for a used washing machine donation as her current one has broken down, resulting in the need for her to use laundromat. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159772",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -293,6 +795,39 @@
           "validTill": "14 Sep 2026",
           "ageInYears": 4,
           "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159768",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family with sole breadwinner father, home-maker mother, and 3 school-going children. Motivated and committed to improve family's financial situation. Washing machine spoilt and mother using handwash and laundromat. Request for a washing machine - a basic household necessity.",
+    "specifications": "8kg and above",
+    "contact": {
+      "org": "THK Family Service Centre @ MacPherson",
+      "name": "Tan Ai Leng",
+      "email": "aileng.tan@thkmc.org.sg",
+      "phone": [
+        "67414255"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -335,55 +870,135 @@
     }
   },
   {
-    "id": "160399",
-    "category": "Home Furnishing",
-    "name": "Study Table",
-    "description": "Client is a single mother with 6 young children. She is currently unemployed due to heath reasons and relies on ComCare assistance to meet household needs.",
+    "id": "159718",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "This is a family of 8 people living in a rental flat, parents with six children, three of which have special needs. Father is the sole breadwinner, working as a limousine driver. Mother is the primary caregiver for the children, she is unable to work due to the caregiving needs of their youngest child, who has down syndrome. As such, father's sole income is insufficient to support the family's expenses. Their washing machine has spoiled recently, and the family has not been able to wash their clothes properly. Therefore, the family would appreciate it if there is any pre-loved washing machine that can be donated to ease their concerns over personal hygiene and ensure clean clothes for the family.",
     "specifications": null,
     "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
       "phone": [
-        "67547050"
+        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "07 Sep 2026",
+    "date": "14 Aug 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160350",
-          "name": "study table",
-          "description": "study table top, can table at an angle",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "06 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "159739",
-          "name": "Study / work table",
-          "description": "Well used. Bits of cracks however usable.\nCan be sent over from Mon to Saturday, morning till 3pm. A wheeled computer chair is available too",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "14 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "159917",
-          "name": "Computer table or normal study desk",
-          "description": "Computer Desk or a Study table with drawers. Dark brown",
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
           "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "15 Sep 2026",
+          "validTill": "22 Sep 2026",
           "ageInYears": 4,
-          "dimensions": "60x107X77",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159669",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a Singapore Citizen residing alone in a public rental flat. His wife and daughter are currently living in Batam, Indonesia. Client is employed but earns a low income, and his financial resources are limited due to daily living expenses and ongoing commitments to support his family. Hoping to get a washing machine to manage his household chores efficently while going to work. (Hin)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159646",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family with 3 children require a washing machine after their recent washing machine broke down. \nFather is the sole breadwinner while mother recently lost her job and is job seeking.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Charmaine Pang",
+      "email": "charmaine_pang@msf.gov.sg",
+      "phone": [
+        "65929978",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160413",
+          "name": "Washing machine",
+          "description": "Washing machine",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "22 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160313",
+    "category": "Others",
+    "name": "Air Mattress",
+    "description": "Pt, elderly female, is bedbound after a stroke, and her helper and elderly husband are the main caregiver. Husband had mini stroke recently. Main daughter is the spokesperson but she has 2 young dependents to support besides pt and pt's husband. Pt's air mattress is faulty, and she would benefit from a brand new air mattress (exact model: Bion Air Mattress V450) to ease daughter's financial burden.",
+    "specifications": "Bion Air Mattress V450",
+    "contact": {
+      "org": "St Luke's Hospital Ltd",
+      "name": "Lee Xin Yi",
+      "email": "xinyilee@stluke.org.sg",
+      "phone": [
+        "66977519",
+        "65632281"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160231",
+          "name": "hospital bed and air mattress",
+          "description": "Bed and air matress to donate. Fully functional.\nAbout 2 years old. Collect at Woodlands area.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "10 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "200x95x50",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -464,17 +1079,6 @@
     "date": "26 Aug 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "160337",
-          "name": "Sofa 2-Seater",
-          "description": "2-Seater Sofa (Fabric) still in good condition.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "08 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "165 x 90 x 64",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
         {
           "id": "160203",
           "name": "Sofa Bed",
@@ -621,17 +1225,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "160337",
-          "name": "Sofa 2-Seater",
-          "description": "2-Seater Sofa (Fabric) still in good condition.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "08 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "165 x 90 x 64",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "160146",
           "name": "2 Seaters Sofa 145cm",
           "description": "2 Seaters Cloud Sofa",
@@ -641,40 +1234,6 @@
           "dimensions": "145cm x 80cm approx",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160313",
-    "category": "Others",
-    "name": "Air Mattress",
-    "description": "Pt, elderly female, is bedbound after a stroke, and her helper and elderly husband are the main caregiver. Husband had mini stroke recently. Main daughter is the spokesperson but she has 2 young dependents to support besides pt and pt's husband. Pt's air mattress is faulty, and she would benefit from a brand new air mattress (exact model: Bion Air Mattress V450) to ease daughter's financial burden.",
-    "specifications": "Bion Air Mattress V450",
-    "contact": {
-      "org": "St Luke's Hospital Ltd",
-      "name": "Lee Xin Yi",
-      "email": "xinyilee@stluke.org.sg",
-      "phone": [
-        "66977519",
-        "65632281"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160231",
-          "name": "hospital bed and air mattress",
-          "description": "Bed and air matress to donate. Fully functional.\nAbout 2 years old. Collect at Woodlands area.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "10 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "200x95x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []

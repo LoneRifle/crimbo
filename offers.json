@@ -22,6 +22,39 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160415",
+    "name": "Mitsubishi fridge",
+    "description": "Fridge",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "22 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160414",
+    "name": "Samsung TV",
+    "description": "Tv",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "22 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160413",
+    "name": "Washing machine",
+    "description": "Washing machine",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "22 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160393",
     "name": "Mitsubishi Electric (Folio) Refrigerator",
     "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
@@ -297,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160337",
-    "name": "Sofa 2-Seater",
-    "description": "2-Seater Sofa (Fabric) still in good condition.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "08 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "165 x 90 x 64",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160333",
     "name": "6 feet TV console",
     "description": "Good as new 6 feet TV console",
@@ -447,6 +469,17 @@
     "validTill": "25 Sep 2026",
     "ageInYears": 4,
     "dimensions": "140X 85",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160412",
+    "name": "Wooden bed frame",
+    "description": "A pre-loved Scanteak bed frame\n\nSuper-Single size",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "22 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "202cm x 99cm x 40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -621,17 +654,6 @@
     "description": "Brand new, can mail to anywhere in sg",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "09 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159541",
-    "name": "Pink pacifier holders",
-    "description": "4 Brand new pink pacifier holders to give away\nCan mail to any part of SG",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "08 Sep 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
