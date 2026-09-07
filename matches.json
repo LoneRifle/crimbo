@@ -1,5 +1,116 @@
 [
   {
+    "id": "160405",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Family of four with two young children is currently working but experiencing financial constraints, with limited disposable income after meeting their basic household expenses. The family is appealing for household items, as they are unable to afford to purchase or replace these items on their own. Assistance with the items would help to improve the family’s living conditions and ease their financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160393",
+          "name": "Mitsubishi Electric (Folio) Refrigerator",
+          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160369",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160334",
+          "name": "Fridge",
+          "description": "Self collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
+          "id": "160335",
+          "name": "Fridge",
+          "description": "Self collect",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160212",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Single mother of two young child has recently moved in to her rental unit flat. She is on ComCare FA. Due to work and caregiving commitments, she urgently wishes to ease her life by being able to store food and goods in a refrigerator to keep ingredients fresh but she has no means to purchase one. Repeated grocery shopping takes up too much time at the expense of her caregiver duties and capacity.",
+    "specifications": "Refrigerator",
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Kong Wen Sheng",
+      "email": "kongwensheng@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160393",
+          "name": "Mitsubishi Electric (Folio) Refrigerator",
+          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160128",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -39,26 +150,38 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160092",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Single mother with two school-going children is currently unable to work due to medical reasons. The family's refrigerator, which is 15 years old, has broken down, leaving them unable to store frozen food or dairy products and requiring them to purchase fresh groceries daily. The family has also been eating more instant noodles to cut cost.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Queenstown",
+      "name": "Desmond Lim",
+      "email": "comLinkSSOQTJECL@msf.gov.sg",
+      "phone": [
+        "64710016",
+        "64719731"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "160346",
-          "name": "Midea Fridge 413L",
-          "description": "Non Halal\nNo budget for transportation/ delivery\nself collection only",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "70x67x172.3cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "160341",
-          "name": "LG 2 door fridge",
-          "description": "LG 2 door fridge. Used by family of 2. Wrapped to preserve condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "06 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "31x26x68",
+          "id": "160393",
+          "name": "Mitsubishi Electric (Folio) Refrigerator",
+          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "61cm width; 70 cm depth; 182cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -106,26 +229,37 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159991",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "She is a single mother with a 17-year-old son who is a survivor of domestic violence. The family has recently been allocated a new rental flat and they are currently looking into furnishing the unit.\nNote: (preferably a 1 door fridge)",
+    "specifications": null,
+    "contact": {
+      "org": "Marymount Centre - Good Shepherd Centre",
+      "name": "Michelle Ann Veluz",
+      "email": "Michelle_Veluz@marymountctr.org.sg",
+      "phone": [
+        "67556496"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026",
+    "matches": {
+      "passiton": [
         {
-          "id": "160346",
-          "name": "Midea Fridge 413L",
-          "description": "Non Halal\nNo budget for transportation/ delivery\nself collection only",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "12 Sep 2026",
-          "ageInYears": 2,
-          "dimensions": "70x67x172.3cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "160341",
-          "name": "LG 2 door fridge",
-          "description": "LG 2 door fridge. Used by family of 2. Wrapped to preserve condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "06 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "31x26x68",
+          "id": "160393",
+          "name": "Mitsubishi Electric (Folio) Refrigerator",
+          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "61cm width; 70 cm depth; 182cm height",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -134,32 +268,120 @@
     }
   },
   {
-    "id": "160230",
-    "category": "Home Furnishing",
-    "name": "Coffee table",
-    "description": "A single mother and her 12-year-old daughter are looking for a coffee table. The wheels of their existing coffee table have given way and have caused scratches on their flooring. The family relies on the coffee table for their daily mealtimes. The mother is currently unable to work due to health conditions, including diabetes and high blood pressure. Hence, the family is financially unable to afford a replacement. Assistance from the donor to cover transport arrangement and delivery costs would also be greatly appreciated. Thank you.",
+    "id": "159772",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client is a single mother caring for her 9-year-old daughter and is currently dependent on ComCare assistance to meet the family's basic needs. Following an incident involving her ex-partner, essential kitchen fixtures were damaged and are no longer usable. As client has limited financial means and is prioritising her daughter's daily needs and household expenses, she is unable to replace these items independently. The loss of these kitchen facilities has affected the family's ability to prepare meals safely and conveniently at home. Donations of a refrigerator, would help restore a safe and functional living environment while alleviating the family's financial strain during this challenging period.",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Toa Payoh",
-      "name": "Regina Pua",
-      "email": "regina_pua@msf.gov.sg",
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
       "phone": [
-        "67367647",
-        "67157503"
+        "67547050"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "01 Sep 2026",
+    "date": "17 Aug 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160340",
-          "name": "Marble coffee table",
-          "description": "Sturdy marble coffee table. Cherished it for many years, but now we are moving to a smaller space.",
-          "location": "West",
-          "validTill": "05 Oct 2026",
+          "id": "160393",
+          "name": "Mitsubishi Electric (Folio) Refrigerator",
+          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "14 Sep 2026",
           "ageInYears": 4,
-          "dimensions": "130cm X 70cm X 40cm",
+          "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159752",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client presented with multiple diseases and unemployed, recently her fridge broke down and do not have any storage to keep foods, hence she has been admitted to hospital due to food poisoning.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160393",
+          "name": "Mitsubishi Electric (Folio) Refrigerator",
+          "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "61cm width; 70 cm depth; 182cm height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160399",
+    "category": "Home Furnishing",
+    "name": "Study Table",
+    "description": "Client is a single mother with 6 young children. She is currently unemployed due to heath reasons and relies on ComCare assistance to meet household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160350",
+          "name": "study table",
+          "description": "study table top, can table at an angle",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159739",
+          "name": "Study / work table",
+          "description": "Well used. Bits of cracks however usable.\nCan be sent over from Mon to Saturday, morning till 3pm. A wheeled computer chair is available too",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "159917",
+          "name": "Computer table or normal study desk",
+          "description": "Computer Desk or a Study table with drawers. Dark brown",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "15 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "60x107X77",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -168,32 +390,54 @@
     }
   },
   {
-    "id": "160208",
+    "id": "160374",
     "category": "Home Furnishing",
-    "name": "Coffee table",
-    "description": "Family of 4 just moved into their rental flat. Looking for a coffee table for them to have their meals. Would be good if the coffee table does not have sharp edges as there are two young children in the house.",
+    "name": "Mattress (Single)",
+    "description": "",
     "specifications": null,
     "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
       "phone": [
-        "68590811",
-        "62957205"
+        "81883314",
+        "64491440"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "01 Sep 2026",
+    "date": "07 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160340",
-          "name": "Marble coffee table",
-          "description": "Sturdy marble coffee table. Cherished it for many years, but now we are moving to a smaller space.",
-          "location": "West",
-          "validTill": "05 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "130cm X 70cm X 40cm",
+          "id": "160209",
+          "name": "Mattress (super single)",
+          "description": "Super-single sized mattress.\nPocketed-springs.\nClean; in very good condition.\nFirmness: 6.5 out of 10\nUsed for 2 years",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "01 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": "190cm x 110cm x 28 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160322",
+          "name": "Super Single Size Mattress",
+          "description": "Super Single size X2",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "04 Oct 2026",
+          "ageInYears": 1,
+          "dimensions": "Super Single Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160326",
+          "name": "Single bed frame with mattress",
+          "description": "Bed frame and mattress to giveaway in good condition. Giving away as we have a new adjustable bed coming in for elderly, old bed is not suitable. Mattress is good condition (it is not heavily soiled, no bedbugs, etc).",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "09 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": "200 x 95 x 50cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -286,6 +530,17 @@
     "date": "24 Aug 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "160394",
+          "name": "Dinning Table for 6",
+          "description": "Wooden dinning Table, can sit 6 persons",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "123cm(L) x 73cm(W) x 73.5cm (H)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "160339",
           "name": "Dining table",
@@ -420,6 +675,40 @@
           "dimensions": "200x95x50",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160388",
+    "category": "Mobility Aids",
+    "name": "Commode",
+    "description": "The client is an 88-year-old widow who has been diagnosed with dementia and requires assistance with her activities of daily living. She needs a commode to assist with toileting and to provide additional support to her caregiver at home.",
+    "specifications": null,
+    "contact": {
+      "org": "Lions Befrienders Service Association (Singapore)",
+      "name": "Chow Ching Hua",
+      "email": "chinghua.chow@lb.org.sg",
+      "phone": [
+        "66814941",
+        "63758600"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "159837",
+          "name": "Commode pan",
+          "description": "Brand new commode pan",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "17 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
