@@ -33,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160414",
-    "name": "Samsung TV",
-    "description": "Tv",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160413",
     "name": "Washing machine",
     "description": "Washing machine",
@@ -62,17 +51,6 @@
     "validTill": "14 Sep 2026",
     "ageInYears": 4,
     "dimensions": "61cm width; 70 cm depth; 182cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160347",
-    "name": "Philips TV",
-    "description": "Working television.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "95cm by 56cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -165,13 +143,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160410",
-    "name": "Hospital Bed (Brand New)",
-    "description": "Brand New Hospital Bed, not used before. \n\nRefer to links for more information:\n\nHospital Bed\nhttps://www.rainbowcare.com.sg/3-crank-electrical-luxury?gad_source=1&gad_campaignid=16178945177&gbraid=0AAAAAD3E9DTOVmbJfEu5i1bd5gpjcBUiy&gclid=EAIaIQobChMI6ODKzc7PlgMVfcU8Ah1ighX0EAAYASAAEgJ3BvD_BwE\n\nPressure Mattress\nhttps://www.rainbowcare.com.sg/qdc-501b?search=qdc%20501B",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "11 Sep 2026",
+    "id": "160453",
+    "name": "New bamboo/rattan mat",
+    "description": "Brand new bamboo/rattan mat.\nSuitable to place on the floor.\nOr maybe can place over old/worn queen size mattress as temporary measure.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2026",
     "ageInYears": 1,
-    "dimensions": "(212 cm / 83.5\") x (109 cm / 43\") x (41 - 69 cm / 16.1\" - 27.2\") (Floor to Bed Base)",
+    "dimensions": "160cm x 180cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160440",
+    "name": "Super Single Mattress",
+    "description": "Good as new\nNo stains",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "12 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160423",
+    "name": "Fridge",
+    "description": "Single mattress\nQueen mattress\n3 seater sofa\n2 seater sofa\nMassage chair\nFridge \nWashing machine",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "16 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -308,17 +308,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160340",
-    "name": "Marble coffee table",
-    "description": "Sturdy marble coffee table. Cherished it for many years, but now we are moving to a smaller space.",
-    "location": "West",
-    "validTill": "05 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "130cm X 70cm X 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160339",
     "name": "Dining table",
     "description": "Dining table, like new, marble imitation",
@@ -425,17 +414,6 @@
     "validTill": "21 Sep 2026",
     "ageInYears": 3,
     "dimensions": "160x90cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160209",
-    "name": "Mattress (super single)",
-    "description": "Super-single sized mattress.\nPocketed-springs.\nClean; in very good condition.\nFirmness: 6.5 out of 10\nUsed for 2 years",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "190cm x 110cm x 28 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
