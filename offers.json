@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "160415",
-    "name": "Mitsubishi fridge",
-    "description": "Fridge",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160413",
     "name": "Washing machine",
     "description": "Washing machine",
@@ -44,35 +33,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160393",
-    "name": "Mitsubishi Electric (Folio) Refrigerator",
-    "description": "My refrigerator is in good working condition. It is slightly more than 7 years old and not 4 years as state above",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "14 Sep 2026",
+    "id": "160456",
+    "name": "LED TV",
+    "description": "LED TV",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "04 Oct 2026",
     "ageInYears": 4,
-    "dimensions": "61cm width; 70 cm depth; 182cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160334",
-    "name": "Fridge",
-    "description": "Self collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160335",
-    "name": "Fridge",
-    "description": "Self collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
+    "dimensions": "32 inch",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -95,17 +62,6 @@
     "validTill": "21 Sep 2026",
     "ageInYears": 4,
     "dimensions": "186H 70W 68D",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160132",
-    "name": "55” LED TV",
-    "description": "Philips LED TV (Non-Smart) without stand, need to be mounted.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "26 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -143,33 +99,11 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160453",
-    "name": "New bamboo/rattan mat",
-    "description": "Brand new bamboo/rattan mat.\nSuitable to place on the floor.\nOr maybe can place over old/worn queen size mattress as temporary measure.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "160cm x 180cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160440",
     "name": "Super Single Mattress",
     "description": "Good as new\nNo stains",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "12 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160423",
-    "name": "Fridge",
-    "description": "Single mattress\nQueen mattress\n3 seater sofa\n2 seater sofa\nMassage chair\nFridge \nWashing machine",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "16 Sep 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -308,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160339",
-    "name": "Dining table",
-    "description": "Dining table, like new, marble imitation",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "05 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "150*75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160333",
     "name": "6 feet TV console",
     "description": "Good as new 6 feet TV console",
@@ -326,17 +249,6 @@
     "validTill": "05 Oct 2026",
     "ageInYears": 2,
     "dimensions": "183cm x 56cm x 71cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160326",
-    "name": "Single bed frame with mattress",
-    "description": "Bed frame and mattress to giveaway in good condition. Giving away as we have a new adjustable bed coming in for elderly, old bed is not suitable. Mattress is good condition (it is not heavily soiled, no bedbugs, etc).",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "09 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": "200 x 95 x 50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -539,6 +451,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "160462",
+    "name": "Baby electronic Cradle",
+    "description": "cradle with 7 pcs springs support new born up to 16-19kg + electronic motor",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "09 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "160332",
     "name": "Infant Insert for Ergo Baby Carrier",
     "description": "The Ergobaby Infant Insert is a padded cushion accessory designed to safely adapt standard soft-structured carriers for newborns and small infants from birth up to about 4 to 4 months old (3.2 to 5.5 kg or 7 to 12 lbs). [1] (https://www.youtube.com/watch?v=NbaVrz5eAJo), [2] (https://ergobaby.com.au/blogs/news/faqs-easy-snug-infant-insert)Key Design FeaturesCushioned Nest: Creates a cozy, womb-like environment that keeps the baby close to the wearer's chest.Removable Pillow: Features an adjustable bottom cushion where the baby’s bottom rests to elevate them to the correct kissing height.Head and Neck Support: Includes a structured, adjustable back panel and foldable top edge to fully support a newborn's floppy head and neck.Ergonomic Seat: Promotes an optimal \"frog-leg\" or M-shape seating position to properly support the baby’s hips, thighs, and spine.",
@@ -611,28 +534,6 @@
     "location": "Braddell , Macpherson, Potong Pasir",
     "validTill": "11 Sep 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159564",
-    "name": "Pigeon Softouch T-Esther milk bottle 0+",
-    "description": "1xBrand new 160ml bottle with SS sized teat",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159562",
-    "name": "Brand new pacifier clips for boys",
-    "description": "Brand new, can mail to anywhere in sg",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 Sep 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -748,17 +649,6 @@
     "category": "Learning Aids"
   },
   {
-    "id": "160383",
-    "name": "Hospital bed with pressure mattress",
-    "description": "Still working fine.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "07 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "160331",
     "name": "Joycare Fluff Underpads",
     "description": "Absorbent pads suitable for home care, post-natal, babies, pets etc (indicated on packaging).\nreceived extras from hospital after parent had surgery. 11 pieces left from pack of 15.",
@@ -773,7 +663,7 @@
     "id": "160294",
     "name": "oxygen tanks",
     "description": "2 oxygen tanks for donation. One used and another unopened\nOxygen Cylinder 415L\nOne is very old but they work completely well... will deliver this",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Bukit Timah",
     "validTill": "03 Oct 2026",
     "ageInYears": 2,
     "dimensions": "20 cm high. 415L",
