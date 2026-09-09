@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160511",
+    "name": "Aerogaz Rice Cooker",
+    "description": "Used Rice cooker with Steamer included. Have only used for 3months. Giving away because we are moving house.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "14 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "1 Litre",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160413",
     "name": "Washing machine",
     "description": "Washing machine",
@@ -51,17 +62,6 @@
     "validTill": "12 Sep 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160387",
-    "name": "Refridgerator",
-    "description": "401 Litres. Top Freezer. Works well and still in good condition.\n\navailable from 16 Sep",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "21 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "186H 70W 68D",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -99,6 +99,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160508",
+    "name": "Bed Frame",
+    "description": "Self collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "25 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160507",
+    "name": "Home Furniture",
+    "description": "Self collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "22 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160468",
+    "name": "White study table",
+    "description": "Study table with side drawer.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160467",
+    "name": "Single electric bed",
+    "description": "Only 18 months super single electric bed. Need to dismantle and collect",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160440",
     "name": "Super Single Mattress",
     "description": "Good as new\nNo stains",
@@ -127,28 +171,6 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "15 Sep 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160366",
-    "name": "Shelves",
-    "description": "Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160365",
-    "name": "Ikea Shelves",
-    "description": "Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -209,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160345",
-    "name": "Super Single Bed",
-    "description": "No budget for transportation/ delivery. Require self collection",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "11 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "190cm x 107cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160344",
     "name": "TV console with 2 drawers",
     "description": "TV console with lots of storage space. Two open compartments and two drawers.",
@@ -227,17 +238,6 @@
     "validTill": "06 Oct 2026",
     "ageInYears": 4,
     "dimensions": "110 x 47 x 57",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160343",
-    "name": "Foldable Bed",
-    "description": "Foldable Bed with mattresses. Dimensions when folded 90 x 33 x 69 (L x W x H cm). It has wheels for ease of transport.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "06 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "180 x 90 x 26",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -330,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160203",
-    "name": "Sofa Bed",
-    "description": "Spacious and big. Can recline and use either as sofa or sofa bed as seen in the picture. Used less then 2x after purchase due to space constraint. Comes with 2 cushions.. material soft and cuddly.\n\nDue to the size, would prefer recipient to arrange own transport and self pay transportation",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160146",
     "name": "2 Seaters Sofa 145cm",
     "description": "2 Seaters Cloud Sofa",
@@ -429,26 +418,15 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159611",
-    "name": "Arm Chair",
-    "description": "Washable cover which has some stain currently. Wipes are used to remove part of stain. For full removal of stain, take out the cover to wash.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": "68 cm width x 80 cm depth x 100 cm height",
+    "id": "160509",
+    "name": "Babyhood Cot White",
+    "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "l140 x w76 x h84cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159610",
-    "name": "Glass TV Rack",
-    "description": "TV Rack In good condition.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "790 mm width x 540 mm  depth x 690 cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
     "id": "160462",
@@ -704,26 +682,15 @@
     "category": "Medical Aids"
   },
   {
-    "id": "159618",
-    "name": "Waterproof leg Cast Cover",
-    "description": "Waterproof Leg Cast Covers (2 pieces)\n\nProvides watertight protection for casts, bandages and wound areas during showering. Made from comfortable, odourless, non-toxic and latex-free material.\n\nIncludes:\n\n* 1 lightly used for one month\n* 1 brand new",
-    "location": "Fernvale Link",
-    "validTill": "10 Sep 2026",
+    "id": "160470",
+    "name": "Walking stick (barely used)",
+    "description": "Folded walking stick, rarely used.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "17 Sep 2026",
     "ageInYears": 1,
-    "dimensions": "width 50cm X Hight 75cm",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "159567",
-    "name": "Ella Compact feeding bag",
-    "description": "Ella Compact Feeding Bag × 11pcs",
-    "location": null,
-    "validTill": "10 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "TBC",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
+    "category": "Mobility Aids"
   },
   {
     "id": "160409",
@@ -781,17 +748,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "160231",
-    "name": "hospital bed and air mattress",
-    "description": "Bed and air matress to donate. Fully functional.\nAbout 2 years old. Collect at Woodlands area.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "200x95x50",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "160174",
     "name": "Elderly Rehab Chair",
     "description": "Self Collection and No transport allowance",
@@ -801,6 +757,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "160503",
+    "name": "electric bedrest Lifting for elderly",
+    "description": "Electric bedrest Lifting for elderly.\nDonor had asked the VWO/needy to come to the house to take the bed as she cannot afford to pay for transportation fees.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "09 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "160463",
+    "name": "Hospital Bed",
+    "description": "come with air mattresses.  easy dismantling & assembling",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "16 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "Length 204cm x Width 95cm x Height 33cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160349",
@@ -975,17 +953,6 @@
     "validTill": "17 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "159609",
-    "name": "Outdoor clothes rack (Stainless Steel)",
-    "description": "Good condition, like new one. Can further extend the width.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "10 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "136 cm width x 96 cm depth x 150 cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
