@@ -30,6 +30,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "160534",
+          "name": "Beige sofa",
+          "description": "3 seater sofa with chaise lounge.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "257 X 94 X 34; Chaise lounge width is 195",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "160236",
           "name": "Single sofa bed",
           "description": "Single sofa bed. Removable cover. Freshly laundered. \n\n160 L x 70 W x 10cm H when opened. \n80 L x 70 W x 45cm when closed. \n\nI can deliver ONLY to Central/South areas.",
@@ -198,6 +209,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "160534",
+          "name": "Beige sofa",
+          "description": "3 seater sofa with chaise lounge.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 2,
+          "dimensions": "257 X 94 X 34; Chaise lounge width is 195",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "160236",
           "name": "Single sofa bed",
           "description": "Single sofa bed. Removable cover. Freshly laundered. \n\n160 L x 70 W x 10cm H when opened. \n80 L x 70 W x 45cm when closed. \n\nI can deliver ONLY to Central/South areas.",
@@ -296,6 +318,94 @@
           "dimensions": "145cm x 80cm approx",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160542",
+    "category": "Infant and Children Items",
+    "name": "Baby Cot",
+    "description": "Family living in public rental flat and parents unable to work due to health issues. Family is looking for a baby cot for their 2 year old son.\n\nIt is preferred for baby cot's bottom to be as close to the floor as possible.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160538",
+          "name": "Babyhood Cot White",
+          "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "20 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": "l140 x w76 x h84cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "160540",
+          "name": "Babyhood Cot White",
+          "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "20 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": "l140 x w76 x h84cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        },
+        {
+          "id": "160543",
+          "name": "Babyhood Classic Curve Cot",
+          "description": "Used Babyhood Classic Curve Cot\nFits mattress size 130cm * 70 cm",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "20 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "L138 x W78 x H107cm (includes castors)",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160533",
+    "category": "Electrical Home Appliances",
+    "name": "rice cooker",
+    "description": "Client is married and has recently given birth to her 2nd child. Her husband is currently the sole-breadwinner of the family. The family requires a rice cooker as they are unable to afford one.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Simranjit Kaur",
+      "email": "simranjit.kaur@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160511",
+          "name": "Aerogaz Rice Cooker",
+          "description": "Used Rice cooker with Steamer included. Have only used for 3months. Giving away because we are moving house.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "14 Sep 2026",
+          "ageInYears": 1,
+          "dimensions": "1 Litre",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []

@@ -88,6 +88,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160545",
+    "name": "Double decker bed",
+    "description": "If it’s within Jurong area I will pay for the collection fee",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "10 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "H 177 x L 198 x W 98 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160541",
+    "name": "Store Room Shelf Unit",
+    "description": "Brand new store room shelf and condition is very good. Strong and sturdy and can place 5 levels of items.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "14 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "180cm x 45cm X 215cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160534",
+    "name": "Beige sofa",
+    "description": "3 seater sofa with chaise lounge.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": "257 X 94 X 34; Chaise lounge width is 195",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160524",
     "name": "Super Single Bed Frame",
     "description": "Nolan Super Single Bed Frame. Grey in colour. Used but still in good condition. No stains. Self-collection preferred if not can further discuss on collection.",
@@ -418,7 +451,29 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160509",
+    "id": "160543",
+    "name": "Babyhood Classic Curve Cot",
+    "description": "Used Babyhood Classic Curve Cot\nFits mattress size 130cm * 70 cm",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "L138 x W78 x H107cm (includes castors)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "160538",
+    "name": "Babyhood Cot White",
+    "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "l140 x w76 x h84cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "160540",
     "name": "Babyhood Cot White",
     "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -729,17 +784,6 @@
     "id": "160353",
     "name": "Walking stick",
     "description": "Barely used",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "160352",
-    "name": "Wheelchair",
-    "description": "Barely used.",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "15 Sep 2026",
     "ageInYears": 1,
