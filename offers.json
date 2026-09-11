@@ -33,28 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160456",
-    "name": "LED TV",
-    "description": "LED TV",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "04 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "32 inch",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160239",
-    "name": "LG LCD TV",
-    "description": "LG LCD TV - will provide wall mount and TV stand as well as Set top box",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160127",
     "name": "Canon Color imageClass MF8280Cw Wireless 4-in-1 Multifunction Laser Printer",
     "description": "Printer and ink cartridges provided\nApproximately 28kg altogether\nStill in working condition albeit slightly old \nNo warranty included, looking to donate and cover the cost for collection fee",
@@ -88,6 +66,61 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160577",
+    "name": "Home furnishings",
+    "description": "King Size mattress and bed frame\nQueen size bed frame only\nSingle seater sofa\n2 seater sofa\nDining table and 4 chairs \nTV console",
+    "location": null,
+    "validTill": "11 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160576",
+    "name": "Office chair",
+    "description": "Ikea office chair",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160575",
+    "name": "Office chair",
+    "description": "Ikea office chair",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160574",
+    "name": "180cm TV Console Very New",
+    "description": "Sturdy and good condition. Wrapped and ready",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "180cm x 50cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160566",
+    "name": "Single Loft Bed Frame & Mattress",
+    "description": "Pre-loved european wooden Manis-H loft bed in great condition to give away. Great for space creation.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "210 x 100 x 190",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160545",
     "name": "Double decker bed",
     "description": "If it’s within Jurong area I will pay for the collection fee",
@@ -95,17 +128,6 @@
     "validTill": "10 Oct 2026",
     "ageInYears": 1,
     "dimensions": "H 177 x L 198 x W 98 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160541",
-    "name": "Store Room Shelf Unit",
-    "description": "Brand new store room shelf and condition is very good. Strong and sturdy and can place 5 levels of items.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "14 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": "180cm x 45cm X 215cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -220,19 +242,8 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160364",
+    "id": "160569",
     "name": "King size bed + mattress",
-    "description": "Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160362",
-    "name": "Metal kitchen table",
     "description": "Self-collect",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "15 Sep 2026",
@@ -363,17 +374,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160146",
-    "name": "2 Seaters Sofa 145cm",
-    "description": "2 Seaters Cloud Sofa",
-    "location": "Sengkang West Way",
-    "validTill": "27 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": "145cm x 80cm approx",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160100",
     "name": "Wooden Dining Table With 2 Chair",
     "description": "Solid wooden table with 2 solid wood chairs",
@@ -440,23 +440,45 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159699",
-    "name": "IKEA Trolley / Bedside Table with Castors",
-    "description": "Still in good condition, everything works",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "12 Sep 2026",
-    "ageInYears": 2,
+    "id": "160563",
+    "name": "Baby crib",
+    "description": "Well used baby crib with drop down side, two mattresses",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
+    "category": "Infant and Children Items"
   },
   {
-    "id": "160546",
-    "name": "Huggies Diapers M Size",
-    "description": "Huggies Gold M Size Diapers",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "11 Oct 2026",
+    "id": "160557",
+    "name": "Baby car seat",
+    "description": "Graco baby car seat. very lightly used just as new",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "25 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "160556",
+    "name": "baby bouncer",
+    "description": "Tiny love baby bouncer",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "25 Sep 2026",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "160548",
+    "name": "BEBLUM BABY PRAM",
+    "description": "Branded baby pram/stroller to give away",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -469,28 +491,6 @@
     "validTill": "20 Sep 2026",
     "ageInYears": 4,
     "dimensions": "L138 x W78 x H107cm (includes castors)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "160538",
-    "name": "Babyhood Cot White",
-    "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "20 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "l140 x w76 x h84cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "160540",
-    "name": "Babyhood Cot White",
-    "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "20 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "l140 x w76 x h84cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -792,7 +792,18 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "160174",
+    "id": "160560",
+    "name": "Elderly Rehab Chair",
+    "description": "Self Collection and No transport allowance",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "29 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "160561",
     "name": "Elderly Rehab Chair",
     "description": "Self Collection and No transport allowance",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",

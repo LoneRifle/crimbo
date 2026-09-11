@@ -50,17 +50,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "160146",
-          "name": "2 Seaters Sofa 145cm",
-          "description": "2 Seaters Cloud Sofa",
-          "location": "Sengkang West Way",
-          "validTill": "27 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": "145cm x 80cm approx",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -173,6 +162,17 @@
           "dimensions": "Super Single Size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "160566",
+          "name": "Single Loft Bed Frame & Mattress",
+          "description": "Pre-loved european wooden Manis-H loft bed in great condition to give away. Great for space creation.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "11 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "210 x 100 x 190",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -229,17 +229,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "160146",
-          "name": "2 Seaters Sofa 145cm",
-          "description": "2 Seaters Cloud Sofa",
-          "location": "Sengkang West Way",
-          "validTill": "27 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": "145cm x 80cm approx",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -290,190 +279,77 @@
     }
   },
   {
-    "id": "159900",
-    "category": "Home Furnishing",
-    "name": "2 Seater Sofa",
-    "description": "Client and her husband is caring for 3 children (age 13, 11, and 7) is seeking support for a 2-seater sofa, as Client's father has recently been diagnosed with Stage 2 Colon cancer and requires a full time caregiver. Hence, Client's father will be moving into the family's two-room flat and will need the sofa to rest after his chemo-therapy begins. (Cl)",
+    "id": "160551",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "A grandmother lives alone and spends most of her days in silence and loneliness. A TV would be her only window to the world, bringing companionship, comfort, and a reason to smile each day.",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
+      "org": "Hougang Sheng Hong Family Service Centre",
+      "name": "Kayalvizhi Ganapathy",
+      "email": "kayalvizhi@shenghong.org.sg",
       "phone": [
-        "81883314",
-        "64491440"
+        "62895022"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2026",
+    "date": "11 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160146",
-          "name": "2 Seaters Sofa 145cm",
-          "description": "2 Seaters Cloud Sofa",
-          "location": "Sengkang West Way",
-          "validTill": "27 Sep 2026",
+          "id": "160521",
+          "name": "TV stand",
+          "description": "Wood TV console with space for.stprage",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Sep 2026",
           "ageInYears": 3,
-          "dimensions": "145cm x 80cm approx",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160542",
-    "category": "Infant and Children Items",
-    "name": "Baby Cot",
-    "description": "Family living in public rental flat and parents unable to work due to health issues. Family is looking for a baby cot for their 2 year old son.\n\nIt is preferred for baby cot's bottom to be as close to the floor as possible.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Claudine Ng",
-      "email": "claudineng@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160538",
-          "name": "Babyhood Cot White",
-          "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "20 Sep 2026",
-          "ageInYears": 1,
-          "dimensions": "l140 x w76 x h84cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         },
         {
-          "id": "160540",
-          "name": "Babyhood Cot White",
-          "description": "Used Babyhood Lulu Cot in White\nGood condition\nMade from clear A grade New Zealand plantation timber, has a 2 level base adjustment",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "20 Sep 2026",
-          "ageInYears": 1,
-          "dimensions": "l140 x w76 x h84cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "160543",
-          "name": "Babyhood Classic Curve Cot",
-          "description": "Used Babyhood Classic Curve Cot\nFits mattress size 130cm * 70 cm",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "20 Sep 2026",
+          "id": "160344",
+          "name": "TV console with 2 drawers",
+          "description": "TV console with lots of storage space. Two open compartments and two drawers.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "06 Oct 2026",
           "ageInYears": 4,
-          "dimensions": "L138 x W78 x H107cm (includes castors)",
+          "dimensions": "110 x 47 x 57",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159908",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "The family concists of a single mother with a 6 year old child diagnosed with moderate to severe Autism Specturm Disorder. Mother has recently been terminated from work due to caregiving responsbilities, and is looking for diapers for child to tide through this time. Child is able to wear any brand (pants), size XXL/XXXL",
-    "specifications": "Size XXL/XXXL",
-    "contact": {
-      "org": "Fei Yue Early Intervention Programme for Infants and Children - Upper Thomson",
-      "name": "Tessa Nai",
-      "email": "tessanai@fycs.org",
-      "phone": [
-        "66810508",
-        "67719600"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2026",
-    "matches": {
-      "passiton": [
+          "category": "Home Furnishing"
+        },
         {
-          "id": "160546",
-          "name": "Huggies Diapers M Size",
-          "description": "Huggies Gold M Size Diapers",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "11 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "159838",
+          "name": "TV console",
+          "description": "still very new looking. Could fit into a car.",
+          "location": "Springleaf, Tagore, Upper Thomson",
+          "validTill": "18 Sep 2026",
+          "ageInYears": 4,
+          "dimensions": "est. 100x40x80cm LxWxH",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159824",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is a young first-time single mother. She is currently working full-time while pursuing part-time evening studies to improve her qualifications and secure a better future. She requires assistance with essential infant supplies, specifically milk and diapers, to support her daughter’s needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
-    "matches": {
-      "passiton": [
+          "category": "Home Furnishing"
+        },
         {
-          "id": "160546",
-          "name": "Huggies Diapers M Size",
-          "description": "Huggies Gold M Size Diapers",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "id": "160574",
+          "name": "180cm TV Console Very New",
+          "description": "Sturdy and good condition. Wrapped and ready",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
           "validTill": "11 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": null,
+          "ageInYears": 2,
+          "dimensions": "180cm x 50cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159806",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is a single mother who is the sole caregiver of her 5-year-old daughter, who has a skin condition. Huggies diapers have been noted to be more suitable for her daughter and may help reduce skin irritation. Due to Lindy’s medical condition, she is currently unable to work and relies solely on government financial assistance. Providing diapers would therefore help reduce the family’s financial burden while ensuring that her daughter’s hygiene and care needs are adequately met.\tFor further liaison, kindly contact Harsheni at 81383741, thank you!",
-    "specifications": "XXXL (Kids)",
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
-    "matches": {
-      "passiton": [
+          "category": "Home Furnishing"
+        },
         {
-          "id": "160546",
-          "name": "Huggies Diapers M Size",
-          "description": "Huggies Gold M Size Diapers",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "11 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": null,
+          "id": "160333",
+          "name": "6 feet TV console",
+          "description": "Good as new 6 feet TV console",
+          "location": null,
+          "validTill": "05 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": "183cm x 56cm x 71cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -507,73 +383,6 @@
           "dimensions": "1 Litre",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159808",
-    "category": "Others",
-    "name": "Diapers",
-    "description": "Client has six children, five of whom have mild intellectual disabilities. Both him and his wife have medical conditions. Client is currently recovering from a stroke and continues to experience speech difficulties. He was previously working as a cleaner but is currently unemployed. Providing diapers for his two youngest children would therefore help ease the family’s financial burden and support their daily caregiving needs. For further liaison, kindly contact Harsheni at 81383741, thank you!",
-    "specifications": "Adult (L) & Kids (L)",
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160546",
-          "name": "Huggies Diapers M Size",
-          "description": "Huggies Gold M Size Diapers",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "11 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159709",
-    "category": "Others",
-    "name": "Diapers",
-    "description": "Client is a senior lady who lives alone - she has been experiencing sleep difficulties because of incontinence and abnormal discharge and would benefit from having diapers for comfort as she currently uses tissue. She requires pants diapers instead of tape due to spinal issues that causes her to bend forward. Thank you in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Szandra Law",
-      "email": "szandralaw@fycs.org",
-      "phone": [
-        "96421760",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160546",
-          "name": "Huggies Diapers M Size",
-          "description": "Huggies Gold M Size Diapers",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "11 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
