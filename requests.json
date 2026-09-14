@@ -1,5 +1,39 @@
 [
   {
+    "id": "160619",
+    "category": "Home Furnishing",
+    "name": "Single-sized foldable mattress",
+    "description": "Client is currently unemployed and requires relocation from her current residence due to safety concerns. She has requested a single-sized foldable mattress for use upon moving to her friend's residence, as she does not have a bed or suitable sleeping arrangement at the new accommodation.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160607",
+    "category": "Home Furnishing",
+    "name": "Queen-size Mattress",
+    "description": "Client (F/19) is staying in a 2-room flat with her boyfriend and son (M/6 months) with 6 other family members. They are looking for a Queen-sized mattress as their current shared mattress is too small and old for the family of three. Due to her young age, she is facing financial difficulties and is unable to provide the necessities for her family. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
     "id": "160572",
     "category": "Home Furnishing",
     "name": "Queen-size mattress",
@@ -9,23 +43,6 @@
       "org": "Care Corner Family Service Centre - Toa Payoh",
       "name": "Vienne Chiam",
       "email": "viennechiam@carecorner.org.sg",
-      "phone": [
-        "63561622"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Sep 2026"
-  },
-  {
-    "id": "160570",
-    "category": "Home Furnishing",
-    "name": "Food Cupboard",
-    "description": "A single father with 4 children is seeking a cupboard for food storage. As the household size has increased, additional storage space is needed to organise dry food items, groceries and household essentials. A food cupboard would help the family maintain a clean and organised living environment while ensuring that essential items are stored safely and conveniently.\n\nAny cupboard in good and usable condition would be greatly appreciated.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Toa Payoh",
-      "name": "Yeo Ser Ern, Chloe",
-      "email": "chloeyeo@carecorner.org.sg",
       "phone": [
         "63561622"
       ]
@@ -809,6 +826,95 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "17 Aug 2026"
+  },
+  {
+    "id": "160623",
+    "category": "Infant and Children Items",
+    "name": "Drypers Superdry Premium Tape - Size S - 4x",
+    "description": "Client is the main caregiver of his newborn daughter. He currently works as a relief security officer and faces difficulties affording milk powder and diapers for his newborn due to limited income.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160616",
+    "category": "Infant and Children Items",
+    "name": "Diapers (Huggies Air Soft Pants Diapers (XXL), 3 packs)",
+    "description": "Family consist of 3 members, Client (F/), her husband (M/) and their son (M). Son is diagnosed with mild autism and developmental speech delay and requires training diapers during his sleep. However, due to husband's difficulties finding stable employment in the past year, the family has been experiencing significant financial strain and require diaper support for their son's needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160614",
+    "category": "Infant and Children Items",
+    "name": "Milk powder (Fernleaf Full Cream Milk Powder, 2 packs)",
+    "description": "Client (F/25) is a single mother. She is currently living at parent's 3-room flat with her youngest son (M/8months) and is undergoing divorce and PPO proceedings against soon-to-be ex-husband. Older son (M/3) has returned to live with the family since March 2025. She recently started employment but is having difficulties managing financially due to the high expenses from her children's needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160613",
+    "category": "Infant and Children Items",
+    "name": "PediaSure Peptigro No Sucrose (Support Growth and Development), 800g (Classic Vanilla), 3 tins",
+    "description": "Client (F/25) is a single mother. She is currently living at parent's 3-room flat with her youngest son (M/8months) and is undergoing divorce and PPO proceedings against soon-to-be ex-husband. Older son (M/3) has returned to live with the family since March 2025. She recently started employment but is having difficulties managing financially due to the high expenses from her children's needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160609",
+    "category": "Infant and Children Items",
+    "name": "Scooter",
+    "description": "My client is a single mother who is currently unable to work due to health complications. As the family is facing financial difficulties, she is unable to provide a scooter that her 10-year-old daughter hopes to have. If you are able to support the family, it would bring her much joy and be a meaningful gesture of kindness. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
   },
   {
     "id": "160555",
@@ -1875,23 +1981,6 @@
     "date": "31 Aug 2026"
   },
   {
-    "id": "160142",
-    "category": "Infant and Children Items",
-    "name": "Diaper and Milk Powder",
-    "description": "This is a family with a 2-year-old child suffering from chronic illness. The family has limited income and would require support with diapers and milk pwoder.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Clarice Lim",
-      "email": "claricelim@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Aug 2026"
-  },
-  {
     "id": "160133",
     "category": "Infant and Children Items",
     "name": "Diapers for 2-year-old",
@@ -2920,6 +3009,129 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "18 Aug 2026"
+  },
+  {
+    "id": "160621",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator (Halal)",
+    "description": "Client lives alone and is a single senior who requires a simple refrigerator for her daily needs.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Community Services Ltd",
+      "name": "Gabriel Noparat",
+      "email": "gabriel.noparat@reach.org.sg",
+      "phone": [
+        "68010875",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160620",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client lives alone and is a single senior who requires a simple refrigerator for her daily needs.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Community Services Ltd",
+      "name": "Gabriel Noparat",
+      "email": "gabriel.noparat@reach.org.sg",
+      "phone": [
+        "68010875",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160612",
+    "category": "Electrical Home Appliances",
+    "name": "Any Vacuum",
+    "description": "Client (F/21) is a pregnant single mother staying with her friend (F/21) who is also a single mother of a 3-year old girl staying in a 1-room rental flat. As client is expecting, she finds it increasingly difficult to clear the house and experiences back pain when sweeping. Client hopes to get a vacuum so that it is easier to clean the flat without excessive extending of her back.",
+    "specifications": "-",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Frank Lye Wei Bin",
+      "email": "franklye@allkin.org.sg",
+      "phone": [
+        "60384117",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160608",
+    "category": "Electrical Home Appliances",
+    "name": "Air Fryer",
+    "description": "My client is looking to start a home-based business to help support her family of six. As her husband is currently the sole breadwinner, the family is facing financial difficulties and would greatly benefit from some support to help them establish this source of income. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160604",
+    "category": "Electrical Home Appliances",
+    "name": "CCTV",
+    "description": "Client, 29 years old, is a homemaker and caregiver to her 4 young children (ages 3-9). Her husband is the sole breadwinner but earns an irregular income due to the nature of his job. The family resides in a 2-room rental flat and has financial constraints. There is a history of mental health needs and conflicts within the family. To increase the safety of the family at home, client is keen to install a CCTV within her home.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160602",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave",
+    "description": "Client is a mother of 2 (13 and 16 years old). She is the sole contributor for her household and finances her mother’s household. Client needs a microwave to prepare meals for her children.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160600",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "This is a family of 8 people living in a rental flat, parents with six children, three of which have special needs. Father is the sole breadwinner, working as a limousine driver. Mother is the primary caregiver for the children, she is unable to work due to the caregiving needs of their youngest child, who has down syndrome. As such, father's sole income is insufficient to support the family's expenses. Their washing machine has spoiled recently, and the family has not been able to wash their clothes properly. Therefore, the family would appreciate it if there is any pre-loved washing machine that can be donated to ease their concerns over personal hygiene and ensure clean clothes for the family.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Thiviya D/O Athimoolam",
+      "email": "thiviya@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
   },
   {
     "id": "160571",
@@ -4187,6 +4399,24 @@
     "date": "14 Aug 2026"
   },
   {
+    "id": "160601",
+    "category": "Others",
+    "name": "Thicken up food thickener",
+    "description": "Senior has had 2 strokes and Parkinsons and his sole caregiver is his wife whose health is also declining. Would require food thickeners to avoid choking on liquids.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore- Senior Service",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "60384367",
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
     "id": "160547",
     "category": "Others",
     "name": "Items Needed for Elderly Clients",
@@ -4751,6 +4981,23 @@
     "date": "14 Aug 2026"
   },
   {
+    "id": "160595",
+    "category": "Kitchen Utility Items",
+    "name": "Kitchen Gas Stove",
+    "description": "Single mother and school-going son have been living in HDB public rental and moving to another rental flat housing. They are looking for the following item to help with their basic needs.",
+    "specifications": "2 or 3 burner Counter top stove",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Norsiah Binte Mohd Basir",
+      "email": "norsiah@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
     "id": "160049",
     "category": "Kitchen Utility Items",
     "name": "Induction compatible pot and pan (around 30 cm size)",
@@ -4784,6 +5031,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Aug 2026"
+  },
+  {
+    "id": "160603",
+    "category": "Mobility Aids",
+    "name": "Footdrop brace",
+    "description": "Client is suffering from Parkinsons and has foot drop, affecting his mobility and increasing his fall risk. His current brace is old and worn out and would like for it to be replaced. He has no income and his sole caregiver's health is also declining. Both him and his spouse are on wheelchair with limited mobility and increasingly high care needs",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Singapore- Senior Service",
+      "name": "Kei Ng",
+      "email": "ngkhuankungkei@allkin.org.sg",
+      "phone": [
+        "60384367",
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
   },
   {
     "id": "160388",
@@ -4941,6 +5206,59 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Aug 2026"
+  },
+  {
+    "id": "160617",
+    "category": "Medical Aids",
+    "name": "Recliner Armchair",
+    "description": "Household consist of client, Shanthi (F66) and her adult daughter (F25) who has special needs.  Client works as a part-time cashier in a supermarket.  Though she has financial challenges, she is unable to increase her working hours due to health issues which includes pain in her arms and legs.  She is requesting for a recliner armchair as the reclining position can temporarily alleviate her pain.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160615",
+    "category": "Medical Aids",
+    "name": "Milk (Diabetic milk Ensure, 2 tins)",
+    "description": "",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Cheng San 445",
+      "name": "Nur Ain Afini Binte Hamdan",
+      "email": "nurainafini@allkin.org.sg",
+      "phone": [
+        "60384138",
+        "60384120"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
+  },
+  {
+    "id": "160594",
+    "category": "Medical Aids",
+    "name": "Diapers for Senior",
+    "description": "Senior client in his 80s is estranged from his family and on his own. He is currently living in a transition home and is diagnosed with pancreatic conditions and require adult diapers to help him better manage his incontinence and to prevent him from having to get up in the middle of the night for toilet trips. Senior is employed however work and income is not guaranteed. Your generosity will help him a long way in keeping safe and saving for his daily bread.",
+    "specifications": "L3-sized Abena Pants (Premium)",
+    "contact": {
+      "org": "Hougang Sheng Hong Family Service Centre",
+      "name": "Isabel Kang",
+      "email": "isabel.kang@shenghong.org.sg",
+      "phone": [
+        "62895022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
   },
   {
     "id": "160573",
@@ -5121,6 +5439,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "21 Aug 2026"
+  },
+  {
+    "id": "160618",
+    "category": "Attires/Clothings",
+    "name": "Walking shoes",
+    "description": "A single mother with three young children is seeking a pair of walking shoes for her eldest child (M/12), who has an upcoming school trip. Due to financial difficulties, she is unable to afford a new pair and would be grateful for either a new or second-hand pair of walking shoes. She has no brand preference, and her child's shoe size is UK 7.",
+    "specifications": "Size UK 7",
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Andre Lim",
+      "email": "andre_lim@msf.gov.sg",
+      "phone": [
+        "63153658",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Sep 2026"
   },
   {
     "id": "160110",
