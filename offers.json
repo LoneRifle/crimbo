@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160653",
+    "name": "Single Bed Frame with Mattress",
+    "description": "Both bed frame and mattress are from Ikea, bed was used by Nanny for a month and another helper for another month. No usage after. Bed is still in good condition. SLATTUM upholst bed frm 90x200 Vissle dark grey AP VESTMARKA spr matt 90x200 extra firm/light blue AP",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "90x200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160628",
     "name": "Ikea Dinning table extendable",
     "description": "- Black dining table\n- Simple and sturdy design\n- Seats 4-6 people comfortably\n- 140 cm length x 84cm width. Extendable up to 220cm.\n- Versatile for dining or workspace\n- Easy-to-clean surface\n- Minor scuffs from normal use\n- I can arrange delivery to client who are in need directly.",
@@ -73,28 +84,6 @@
     "validTill": "28 Sep 2026",
     "ageInYears": 4,
     "dimensions": "Width 107cm ht with mirror : 122cm depth : 51cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160626",
-    "name": "Teak foldable dining table with chairs",
-    "description": "Unfolded : Width : 102cm ht : 66cm across 107\nFolded : width 65cm \nComes with dining chair if required \nPreference for beneficiary to pay",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "28 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160625",
-    "name": "Brown Leather Sofa 3 Seater",
-    "description": "Overall Dimensions: 89\"W x 37\"D x 33\"H\nComfy brown leather sofa - 3 seater, good condition, looking for a new home.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "16 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Overall Dimensions: 89\"W x 37\"D x 33\"H",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -264,17 +253,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160333",
-    "name": "6 feet TV console",
-    "description": "Good as new 6 feet TV console",
-    "location": null,
-    "validTill": "05 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "183cm x 56cm x 71cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160322",
     "name": "Super Single Size Mattress",
     "description": "Super Single size X2",
@@ -293,17 +271,6 @@
     "validTill": "30 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160384",
-    "name": "Marble Table with 4 Chair",
-    "description": "Clean and in good conditions. come with 4 chairs.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "21 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": "160x90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -539,6 +506,28 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "160654",
+    "name": "Musical recorder",
+    "description": "///",
+    "location": null,
+    "validTill": "15 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "160649",
+    "name": "Board games",
+    "description": "Cluedo, Scrabble and many more.",
+    "location": null,
+    "validTill": "15 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "160295",
     "name": "Niemeyer Piano",
     "description": "Still in good conditions! Middle Peddle does not work and only a few keys need tuning",
@@ -570,6 +559,17 @@
     "dimensions": "38~40cm in length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "160651",
+    "name": "Science kits",
+    "description": "///",
+    "location": null,
+    "validTill": "15 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "160311",
@@ -638,12 +638,23 @@
     "category": "Medical Aids"
   },
   {
-    "id": "160578",
-    "name": "Electric hospital bed with anti-sore air mattress",
-    "description": "To be given away as a full set, hospital bed + air mattress. Delivery cost will be borne by us.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "12 Oct 2026",
-    "ageInYears": 4,
+    "id": "160652",
+    "name": "Walking Frame with Wheels",
+    "description": "Bought in April 2026. Used only a few times.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "160650",
+    "name": "Wheelchair",
+    "description": "Bought in April 2026. Used only a few times.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
