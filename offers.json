@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160670",
+    "name": "Brandt Washing Machine",
+    "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "09 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160581",
     "name": "Ceiling fan",
     "description": "I have two ceiling fans with two speeds slow and fast with lights in good condition.",
@@ -53,6 +64,17 @@
     "dimensions": "43 x 48.5 x 43 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160669",
+    "name": "Ikea Tarva frame and mattress (King)",
+    "description": "Occasionally used when guest visit",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "150cm x 200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160667",
@@ -117,28 +139,6 @@
     "validTill": "28 Sep 2026",
     "ageInYears": 4,
     "dimensions": "Width 183cm ht : 90cm depth : 34cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160660",
-    "name": "Queen size bed frame",
-    "description": "- Queen size bed frame only \n- Dark brown headboard\n- Mattress not included\n- Fits standard queen mattress\n- Breadth 160cm x Length 200cm \n- I can arrange delivery direct to client",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "09 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "160cm x 200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160653",
-    "name": "Single Bed Frame with Mattress",
-    "description": "Both bed frame and mattress are from Ikea, bed was used by Nanny for a month and another helper for another month. No usage after. Bed is still in good condition. SLATTUM upholst bed frm 90x200 Vissle dark grey AP VESTMARKA spr matt 90x200 extra firm/light blue AP",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": "90x200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -242,17 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160524",
-    "name": "Super Single Bed Frame",
-    "description": "Nolan Super Single Bed Frame. Grey in colour. Used but still in good condition. No stains. Self-collection preferred if not can further discuss on collection.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "10 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160521",
     "name": "TV stand",
     "description": "Wood TV console with space for.stprage",
@@ -286,17 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160394",
-    "name": "Dinning Table for 6",
-    "description": "Wooden dinning Table, can sit 6 persons",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "123cm(L) x 73cm(W) x 73.5cm (H)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160350",
     "name": "study table",
     "description": "study table top, can table at an angle",
@@ -326,17 +304,6 @@
     "validTill": "04 Oct 2026",
     "ageInYears": 1,
     "dimensions": "Super Single Size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160235",
-    "name": "Office chair",
-    "description": "Almost new office chair",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -383,6 +350,17 @@
     "dimensions": "est. 100x40x80cm LxWxH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "160673",
+    "name": "Tape Diapers XL",
+    "description": "Brand new packs. I have a few packs.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "16 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "160590",
@@ -586,17 +564,6 @@
     "id": "160654",
     "name": "Musical recorder",
     "description": "///",
-    "location": null,
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "160649",
-    "name": "Board games",
-    "description": "Cluedo, Scrabble and many more.",
     "location": null,
     "validTill": "15 Oct 2026",
     "ageInYears": 2,

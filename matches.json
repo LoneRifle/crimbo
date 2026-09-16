@@ -118,17 +118,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "160394",
-          "name": "Dinning Table for 6",
-          "description": "Wooden dinning Table, can sit 6 persons",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "30 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "123cm(L) x 73cm(W) x 73.5cm (H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "160628",
           "name": "Ikea Dinning table extendable",
           "description": "- Black dining table\n- Simple and sturdy design\n- Seats 4-6 people comfortably\n- 140 cm length x 84cm width. Extendable up to 220cm.\n- Versatile for dining or workspace\n- Easy-to-clean surface\n- Minor scuffs from normal use\n- I can arrange delivery to client who are in need directly.",
@@ -241,17 +230,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "160394",
-          "name": "Dinning Table for 6",
-          "description": "Wooden dinning Table, can sit 6 persons",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "30 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": "123cm(L) x 73cm(W) x 73.5cm (H)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "160628",
           "name": "Ikea Dinning table extendable",
           "description": "- Black dining table\n- Simple and sturdy design\n- Seats 4-6 people comfortably\n- 140 cm length x 84cm width. Extendable up to 220cm.\n- Versatile for dining or workspace\n- Easy-to-clean surface\n- Minor scuffs from normal use\n- I can arrange delivery to client who are in need directly.",
@@ -305,6 +283,241 @@
           "dimensions": "Ht 190cm dpt 60 cm width 123cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160522",
+    "category": "Infant and Children Items",
+    "name": "XXL Diapers",
+    "description": "Client has recently gave birth and there is increase in financial expenses. Currently, family is a family of 7 (5 children) and husband is the only breadwinner. As such, they requested for diapers for the 2nd youngest child.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Nur Afiqah Binte Mohd Saidali",
+      "email": "nurafiqahsaidali@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160673",
+          "name": "Tape Diapers XL",
+          "description": "Brand new packs. I have a few packs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159908",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "The family concists of a single mother with a 6 year old child diagnosed with moderate to severe Autism Specturm Disorder. Mother has recently been terminated from work due to caregiving responsbilities, and is looking for diapers for child to tide through this time. Child is able to wear any brand (pants), size XXL/XXXL",
+    "specifications": "Size XXL/XXXL",
+    "contact": {
+      "org": "Fei Yue Early Intervention Programme for Infants and Children - Upper Thomson",
+      "name": "Tessa Nai",
+      "email": "tessanai@fycs.org",
+      "phone": [
+        "66810508",
+        "67719600"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160673",
+          "name": "Tape Diapers XL",
+          "description": "Brand new packs. I have a few packs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159824",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a young first-time single mother. She is currently working full-time while pursuing part-time evening studies to improve her qualifications and secure a better future. She requires assistance with essential infant supplies, specifically milk and diapers, to support her daughter’s needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160673",
+          "name": "Tape Diapers XL",
+          "description": "Brand new packs. I have a few packs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159806",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Client is a single mother who is the sole caregiver of her 5-year-old daughter, who has a skin condition. Huggies diapers have been noted to be more suitable for her daughter and may help reduce skin irritation. Due to Lindy’s medical condition, she is currently unable to work and relies solely on government financial assistance. Providing diapers would therefore help reduce the family’s financial burden while ensuring that her daughter’s hygiene and care needs are adequately met.\tFor further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": "XXXL (Kids)",
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160673",
+          "name": "Tape Diapers XL",
+          "description": "Brand new packs. I have a few packs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160680",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "A household of three (turning four) is seeking for a donated washing machine. The family comprises of a young married couple (both aged 24), their 1-year-old son, and will be expecting a newborn in a month's time - Oct 2026. In hopes to provide a stable environment for their growing family, the couple have secured their first home - a 2-room public rental flat in Yishun. They have mainly been lodging with relatives prior, without a proper space of their own. As the wife is currently unable to work due to her pregnancy and the need to care for their young son, the family relies solely on the husband's limited income. They have been preparing for the move mostly by sourcing for second-hand furniture. The only remaining item that they have challenges obtaining is a washing machine, due to their limited budget. A washing machine will greatly alleviate some of their daily household chores, thereby freeing up more capacity for them to focus on settling down into their new home and the arrival of their newborn in the coming month. This will also support the young family's fresh start as a unit of four in their new home.\nThe family is hoping to move and settle into their new home within Sep 2026, to ensure a proper space is ready by the time of their newborn's arrival. They will hence benefit from a donated, well-functioning washing machine the soonest.",
+    "specifications": "Washing Machine",
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Marc Chong",
+      "email": "marc_chong@msf.gov.sg",
+      "phone": [
+        "63548497",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160571",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of eight is residing in a 2-room rental flat and experiencing financial difficulties, with limited means to afford a washing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Vienne Chiam",
+      "email": "viennechiam@carecorner.org.sg",
+      "phone": [
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160567",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "A family of 5 in need of a new washing machine. The client, who is currently pregnant, has been handwashing the family's clothes in the meantime.",
+    "specifications": "8 kg load; front load only",
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Genessa Soh",
+      "email": "genessa_soh@msf.gov.sg",
+      "phone": [
+        "91115451",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -366,6 +579,575 @@
     }
   },
   {
+    "id": "160525",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "This single mother is caring for her four children and is currently unable to work due to the high caregiving needs of her youngest child, who requires speech therapy and support for developmental delays. With limited financial resources and no regular financial support from her ex-husband, replacing worn-out household essentials has been difficult.\n\nA donated washing machine would help ease the family's daily household responsibilities and reduce the burden on the mother as she manages the needs of her children.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Vanessa Goh",
+      "email": "vanessagoh@mws.sg",
+      "phone": [
+        "67564995ext102/83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160516",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of four with two young children is currently working but experiencing financial constraints, with limited disposable income after meeting their basic household expenses. The family is appealing for household items, as they are unable to afford to purchase or replace these items on their own. Assistance with the items would help to improve the family’s living conditions and ease their financial burden.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160382",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "The client is a single mother and LTVP holder with two school-going children, one of whom has special needs. She is currently unemployed and undergoing medical treatment. The family’s existing washing machine is faulty and requires replacement. The client is seeking assistance to obtain a replacement washing machine to support the family’s daily household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Catholic Welfare Services",
+      "name": "Ian Michael Binny",
+      "email": "michaelbinny@catholicwelfare.org.sg",
+      "phone": [
+        "84840008",
+        "63394711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160274",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "74-year-old senior is single. She needs a washing machine to do her laundry. Currently, she is unemployed and experiencing financial difficulties. We hope donor can cover the cost of delivery. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "SAMH Mobile Support Team",
+      "name": "Valerie Low",
+      "email": "valerie_low@samhealth.org.sg",
+      "phone": [
+        "85112678"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160270",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 4 with 3 school-going children and none are able to contribute financially to the household. Mother is unable to work due to medical condition. \n\nThey do not have a washing machine, and situation has worsen as mother has to manually wash the clothes, which is causing them distress.",
+    "specifications": null,
+    "contact": {
+      "org": "Cheng San CCC",
+      "name": "Eunis Seah",
+      "email": "eunis_seah@pa.gov.sg",
+      "phone": [
+        "64588222"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160221",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family requires a working washing machine as theirs is currently faulty. They are currently using a laundromat to manage their laundry needs. A washing machine will be helpful to manage the family's laundry needs. Family is subsisting on financial assistance and cannot afford to purchase a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Khairunisa Binte Rusli",
+      "email": "khairunisarusli@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160204",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Seeking a donation of a washing machine for a single mother with two young children (3 months and 3 years old). Their current machine is spoilt, and the family is unable to afford a replacement. The mother works part-time doing food delivery, while the children's father is currently incarcerated and will only be released next year. Any assistance would be greatly appreciated.",
+    "specifications": "any",
+    "contact": {
+      "org": "MSF Social Service Office @ Boon Lay",
+      "name": "Celene Ng",
+      "email": "celene_ng@msf.gov.sg",
+      "phone": [
+        "67367545",
+        "68678580"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160194",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a 70-year-old senior with multiple chronic medical conditions and leg weakness who has recently lost his job. His physical limitations make it increasingly difficult for him to handwash his clothes. We seek support for a washing machine, inclusive of installation and setup costs, as the client is unable to afford these expenses. This will ensure that the appliance can be safely installed and put into use to support his daily living needs and maintain his independence.",
+    "specifications": null,
+    "contact": {
+      "org": "SACS Anglican Cluster Operator - Peace Connect",
+      "name": "Andrea Lok",
+      "email": "andrea_lok@sacs.org.sg",
+      "phone": [
+        "62912473"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160135",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client comes from a low income family. She would require the support of a washing machine in her new rental block to reduce her financial burden.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Fei Yue Community Services",
+      "name": "Priscilla Tan",
+      "email": "priscillatan@fycs.org",
+      "phone": [
+        "60117651",
+        "63809169"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160123",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "The client is a grandmother who is currently caring for her two grandchildren, as their biological mother is incarcerated. She is unemployed due to her caregiving responsibilities, and the family relies on SSO assistance to make ends meet.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "27 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160082",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "A single mother is currently caring for her 12-year-old daughter on her own. Due to her health conditions, including diabetes and high blood pressure, as well as her caregiving responsibilities, the mother is currently not working. Recently, their washing machine broke down and due to my client’s health condition, she is unable to handwash the clothings, including her daughter’s uniform. As the family is financially unable to afford a replacement, they are seeking donation of a washing machine. Assistance from the donor to cover transport arrangement and delivery costs would also be greatly appreciated. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160052",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "client is staying alone, he has financial difficulties, no family members. he needs a washing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160038",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single Mother of 1 that underwent C-Section, suffering from severe cramps and pains washing all of her and her child's clothes by hand. Would like to have a washing machine so that it will be easier on her body.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "P Luthrani",
+      "email": "Luthrani_P@msf.gov.sg",
+      "phone": [
+        "63549100",
+        "62957205"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159992",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "She is a single mother with a 17-year-old son who is a survivor of domestic violence. The family has recently been allocated a new rental flat and they are currently looking into furnishing the unit.\nNote: (a washing machine with a 7-8 kg laundry capacity)",
+    "specifications": null,
+    "contact": {
+      "org": "Marymount Centre - Good Shepherd Centre",
+      "name": "Michelle Ann Veluz",
+      "email": "Michelle_Veluz@marymountctr.org.sg",
+      "phone": [
+        "67556496"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159952",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "The elderly client, who was previously rough sleeping, has successfully secured home ownership and is preparing to move into her new home. However, the house is currently mostly empty and unfurnished. Due to her current financial constraints, she requires support in obtaining essential household items, particularly a washing machine, to help her establish a safe and comfortable living environment.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "21 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159815",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Single parent family of 4 with 2 school-going children who requires a washing machine as recently a donated one was unable to spin anymore and is faulty. Family is on active Comcare assistance and unable to afford a washing machine. Would greatly appreciate if donor is able to cover transport expenses. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Kreta Ayer",
+      "name": "Mohamad Harith",
+      "email": "harith_husaini@msf.gov.sg",
+      "phone": [
+        "63254547",
+        "1800-222-0000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159813",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client (F/56) is currently living in a rental flat and has medical limitations which impacts her capacity for employment, causing financila limitations as well. Client is currently seeking for a used washing machine donation as her current one has broken down, resulting in the need for her to use laundromat. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "159777",
     "category": "Electrical Home Appliances",
     "name": "Ceiling fan",
@@ -399,34 +1181,66 @@
     }
   },
   {
-    "id": "160388",
-    "category": "Mobility Aids",
-    "name": "Commode",
-    "description": "The client is an 88-year-old widow who has been diagnosed with dementia and requires assistance with her activities of daily living. She needs a commode to assist with toileting and to provide additional support to her caregiver at home.",
-    "specifications": null,
+    "id": "159768",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family with sole breadwinner father, home-maker mother, and 3 school-going children. Motivated and committed to improve family's financial situation. Washing machine spoilt and mother using handwash and laundromat. Request for a washing machine - a basic household necessity.",
+    "specifications": "8kg and above",
     "contact": {
-      "org": "Lions Befrienders Service Association (Singapore)",
-      "name": "Chow Ching Hua",
-      "email": "chinghua.chow@lb.org.sg",
+      "org": "THK Family Service Centre @ MacPherson",
+      "name": "Tan Ai Leng",
+      "email": "aileng.tan@thkmc.org.sg",
       "phone": [
-        "66814941",
-        "63758600"
+        "67414255"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "07 Sep 2026",
+    "date": "17 Aug 2026",
     "matches": {
       "passiton": [
         {
-          "id": "159837",
-          "name": "Commode pan",
-          "description": "Brand new commode pan",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "17 Sep 2026",
-          "ageInYears": 1,
+          "id": "160670",
+          "name": "Brandt Washing Machine",
+          "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "09 Oct 2026",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "159808",
+    "category": "Others",
+    "name": "Diapers",
+    "description": "Client has six children, five of whom have mild intellectual disabilities. Both him and his wife have medical conditions. Client is currently recovering from a stroke and continues to experience speech difficulties. He was previously working as a cleaner but is currently unemployed. Providing diapers for his two youngest children would therefore help ease the family’s financial burden and support their daily caregiving needs. For further liaison, kindly contact Harsheni at 81383741, thank you!",
+    "specifications": "Adult (L) & Kids (L)",
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160673",
+          "name": "Tape Diapers XL",
+          "description": "Brand new packs. I have a few packs.",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "16 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
