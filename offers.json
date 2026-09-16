@@ -33,13 +33,24 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "160670",
-    "name": "Brandt Washing Machine",
-    "description": "Top loading washing machine. In good working condition. One rust spot on the cover but inside it is clean. Space saving.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "09 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
+    "id": "160701",
+    "name": "Electric Convection Oven",
+    "description": "IONA Vect-A-Jet convection oven \n- Glass bowl with handles\n- Stainless steel bowl \n- Top unit with power and heat controls\n- Max temperature: 250°C\n- Max timer: 60 minutes",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "about 40cm wide",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160695",
+    "name": "Philips Air Fryer 3000 Series 3.7L",
+    "description": "in good condition, everything working fine.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "25 x 38 x 30 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -66,24 +77,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160669",
-    "name": "Ikea Tarva frame and mattress (King)",
-    "description": "Occasionally used when guest visit",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "28 Sep 2026",
+    "id": "160703",
+    "name": "Teak Outdoor Swing",
+    "description": "Swing Set",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "21 Sep 2026",
     "ageInYears": 4,
-    "dimensions": "150cm x 200cm",
+    "dimensions": "190x 110 x 200cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "160667",
-    "name": "Teak wardrobe",
-    "description": "Preference for bene to cover delivery fees",
+    "id": "160694",
+    "name": "Single Bed",
+    "description": "Single bed with mattress",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "28 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Ht 190cm dpt 60 cm width 123cm",
+    "validTill": "01 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "200cm x 90cm x 30cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160693",
+    "name": "Bunk Bed",
+    "description": "Bunk Bed",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "01 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "202cm x 96cm x 190cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -143,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160628",
-    "name": "Ikea Dinning table extendable",
-    "description": "- Black dining table\n- Simple and sturdy design\n- Seats 4-6 people comfortably\n- 140 cm length x 84cm width. Extendable up to 220cm.\n- Versatile for dining or workspace\n- Easy-to-clean surface\n- Minor scuffs from normal use\n- I can arrange delivery to client who are in need directly.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "09 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "140 cm length x 84cm width. Extendable up to 220cm.",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160627",
     "name": "Teak dressing table",
     "description": "Dressing table with wear and tear\nPreference for bene to pay collection fee",
@@ -161,6 +172,17 @@
     "validTill": "28 Sep 2026",
     "ageInYears": 4,
     "dimensions": "Width 107cm ht with mirror : 122cm depth : 51cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160691",
+    "name": "Teak wardrobe",
+    "description": "Preference for beneficiary to pay for collection",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "28 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "Ht 190cm dpt 60 cm width 123cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -264,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160467",
-    "name": "Single electric bed",
-    "description": "Only 18 months super single electric bed. Need to dismantle and collect",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "17 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160350",
     "name": "study table",
     "description": "study table top, can table at an angle",
@@ -350,6 +361,17 @@
     "dimensions": "est. 100x40x80cm LxWxH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "160702",
+    "name": "Baby Diaper (Tape)",
+    "description": "brand new - i have 10 packets to donate",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "160673",
@@ -682,6 +704,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "160700",
+    "name": "Walking frame",
+    "description": "Foldable walking frame",
+    "location": null,
+    "validTill": "16 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "160652",
     "name": "Walking Frame with Wheels",
     "description": "Bought in April 2026. Used only a few times.",
@@ -698,17 +731,6 @@
     "description": "Bought in April 2026. Used only a few times.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "15 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "160470",
-    "name": "Walking stick (barely used)",
-    "description": "Folded walking stick, rarely used.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "17 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -768,6 +790,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "160699",
+    "name": "Hospital bed (Electric , single size) + Air Bed",
+    "description": "Blessing hospital bed.\nFunctions well.\nGood condition\n\nWith Mattress and with air mattress",
+    "location": null,
+    "validTill": "16 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "Single size bed",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160585",
@@ -940,17 +973,6 @@
     "description": "Young adult books (brand new or in excellent condition). Family board games (brand new or in good condition).",
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "21 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "159837",
-    "name": "Commode pan",
-    "description": "Brand new commode pan",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "17 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
