@@ -1,5 +1,16 @@
 [
   {
+    "id": "160719",
+    "name": "Women’s Sneakers",
+    "description": "Lightly used Adidas women’s sneakers - US9.5/ UK8",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "160587",
     "name": "Pre loved baby clothes 6-12months",
     "description": "A bag of pre loved baby clothes girls",
@@ -31,6 +42,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "160724",
+    "name": "SKG Mini Pot Electric Cooker (1.5L)",
+    "description": "Diameter of Pot = 17 CM\nDepth of Pot = 9 CM",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": "17 x 17 x 20 CM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "160701",
@@ -75,6 +97,61 @@
     "dimensions": "43 x 48.5 x 43 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160723",
+    "name": "3 seater sofa",
+    "description": "Well loved sofa, in great condition. Ready for a second home. Deep enough to use as a bed.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "17 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "190cm length, 94cm depth",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160722",
+    "name": "Mattress & Bed Frame",
+    "description": "Bed frame & mattress to be donated as soon as possible either this week or next week",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160718",
+    "name": "Foldable Mattress",
+    "description": "Foldable single mattress - lightly used",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160716",
+    "name": "Moll Forte ergonomic chair",
+    "description": "Moll Maximo Forte ergonomic chair with adjustable height.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "17 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160711",
+    "name": "Black Wicker Outdoor Dining Set",
+    "description": "Glass top table\n2 chairs and 1 bench with cushions\nTable (149x79x73)\nBench (135x38x46)\nChairs (56x50x83)",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "20 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "Table (149x79x73) Bench (135x38x46) Chairs (56x50x83)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160703",
@@ -319,28 +396,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "159987",
-    "name": "Ottoman",
-    "description": "Ottoman that can be used in various ways - as leg rest, side seating or even a table as it is pretty firm",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "18 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "110  x 60 x 28",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159838",
-    "name": "TV console",
-    "description": "still very new looking. Could fit into a car.",
-    "location": "Springleaf, Tagore, Upper Thomson",
-    "validTill": "18 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "est. 100x40x80cm LxWxH",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160702",
     "name": "Baby Diaper (Tape)",
     "description": "brand new - i have 10 packets to donate",
@@ -506,6 +561,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "160720",
+    "name": "Pots and pans",
+    "description": "Lightly used pots and pan\nFrying pan - 20cm\nSmall pot -  1.5l\nMedium pot - 3l",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "160342",
     "name": "Dining set",
     "description": "2 x 6pc dinner set \n12 big plates, 12 small plates, 12 small bowls, 2 big serving bowls, 2 small serving bowls",
@@ -548,6 +614,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "160721",
+    "name": "UniGym All-in-One Home Rehabilitation Equipment",
+    "description": "Brand new UniGym home rehabilitation equipment \n\nhttps://www.robot-gym.com/unigym-all-in-one-home-gym-system\n\nDesigned for home rehabilitation and fitness enthusiasts, UniGym caters to those who need to exercise or rehabilitate at home. It covers both upper and lower extremity training to help patients enhance muscle strength, motor control, fat loss and plasticity.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "160662",
