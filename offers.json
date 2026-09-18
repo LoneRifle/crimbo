@@ -1,5 +1,16 @@
 [
   {
+    "id": "160745",
+    "name": "Worn Tee Shirts (Guys)",
+    "description": "Preloved and worn tee shirts",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "18 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "Medium to Large",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "160719",
     "name": "Women’s Sneakers",
     "description": "Lightly used Adidas women’s sneakers - US9.5/ UK8",
@@ -42,6 +53,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "160734",
+    "name": "42\" TV (Sony bravia KDL-42W674A)",
+    "description": "Free to Bless Someone\nOver 10 years old but well kept and in good working condition. Clear picture and sound, with no prior issues. Able to receive digital channels (a separate digital antenna is required). Remote included. Available immediately. \n\nIf you or someone you know could make good use of it, please feel free to reach out. Refer to the link for the TV specifications - https://www.sony.com.sg/electronics/support/televisions-projectors-lcd-tvs/kdl-42w674a/specifications",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "954mmW x 696mmH x 197mmD",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "160724",
@@ -97,6 +119,17 @@
     "dimensions": "43 x 48.5 x 43 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160744",
+    "name": "Queen Sized Mattress",
+    "description": "Queen Sized Mattress Firm",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160723",
@@ -198,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160661",
-    "name": "Teak display shelf",
-    "description": "Preference for beneficiary to pay delivery \nTwo of these are available please contact me before claiming",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "28 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Width 183cm ht : 90cm depth : 34cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160627",
     "name": "Teak dressing table",
     "description": "Dressing table with wear and tear\nPreference for bene to pay collection fee",
@@ -216,17 +238,6 @@
     "validTill": "28 Sep 2026",
     "ageInYears": 4,
     "dimensions": "Width 107cm ht with mirror : 122cm depth : 51cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160691",
-    "name": "Teak wardrobe",
-    "description": "Preference for beneficiary to pay for collection",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "28 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Ht 190cm dpt 60 cm width 123cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -324,17 +335,6 @@
     "description": "Self collect",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "22 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160350",
-    "name": "study table",
-    "description": "study table top, can table at an angle",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "06 Oct 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -594,17 +594,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "160654",
-    "name": "Musical recorder",
-    "description": "///",
-    "location": null,
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "160295",
     "name": "Niemeyer Piano",
     "description": "Still in good conditions! Middle Peddle does not work and only a few keys need tuning",
@@ -636,17 +625,6 @@
     "dimensions": "38~40cm in length",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "160651",
-    "name": "Science kits",
-    "description": "///",
-    "location": null,
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Learning Aids"
   },
   {
     "id": "160311",
