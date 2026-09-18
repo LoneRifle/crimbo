@@ -1,5 +1,50 @@
 [
   {
+    "id": "160730",
+    "category": "Home Furnishing",
+    "name": "Mattress (Single)",
+    "description": "Seeking a gently used or new single sized mattress in good condition. This is for an elderly single mother navigating the lifelong journey of raising a special needs child on her own. Because she dedicates all her time and resources to her child's well-being, her own needs often fall behind. A proper, comfortable bed will give this dedicated mother a much-needed space to rest, recover, and recharge for the days ahead. Thank you for your kindness!",
+    "specifications": "1",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Esther Lim",
+      "email": "esther.l3@ntuchealth.sg",
+      "phone": [
+        "81230429",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160322",
+          "name": "Super Single Size Mattress",
+          "description": "Super Single size X2",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "04 Oct 2026",
+          "ageInYears": 1,
+          "dimensions": "Super Single Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160566",
+          "name": "Single Loft Bed Frame & Mattress",
+          "description": "Pre-loved european wooden Manis-H loft bed in great condition to give away. Great for space creation.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "11 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "210 x 100 x 190",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160710",
     "category": "Home Furnishing",
     "name": "Bunk Bed",
@@ -256,140 +301,6 @@
     }
   },
   {
-    "id": "160522",
-    "category": "Infant and Children Items",
-    "name": "XXL Diapers",
-    "description": "Client has recently gave birth and there is increase in financial expenses. Currently, family is a family of 7 (5 children) and husband is the only breadwinner. As such, they requested for diapers for the 2nd youngest child.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160673",
-          "name": "Tape Diapers XL",
-          "description": "Brand new packs. I have a few packs.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "16 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159908",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "The family concists of a single mother with a 6 year old child diagnosed with moderate to severe Autism Specturm Disorder. Mother has recently been terminated from work due to caregiving responsbilities, and is looking for diapers for child to tide through this time. Child is able to wear any brand (pants), size XXL/XXXL",
-    "specifications": "Size XXL/XXXL",
-    "contact": {
-      "org": "Fei Yue Early Intervention Programme for Infants and Children - Upper Thomson",
-      "name": "Tessa Nai",
-      "email": "tessanai@fycs.org",
-      "phone": [
-        "66810508",
-        "67719600"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160673",
-          "name": "Tape Diapers XL",
-          "description": "Brand new packs. I have a few packs.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "16 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159824",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is a young first-time single mother. She is currently working full-time while pursuing part-time evening studies to improve her qualifications and secure a better future. She requires assistance with essential infant supplies, specifically milk and diapers, to support her daughter’s needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160673",
-          "name": "Tape Diapers XL",
-          "description": "Brand new packs. I have a few packs.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "16 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159806",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is a single mother who is the sole caregiver of her 5-year-old daughter, who has a skin condition. Huggies diapers have been noted to be more suitable for her daughter and may help reduce skin irritation. Due to Lindy’s medical condition, she is currently unable to work and relies solely on government financial assistance. Providing diapers would therefore help reduce the family’s financial burden while ensuring that her daughter’s hygiene and care needs are adequately met.\tFor further liaison, kindly contact Harsheni at 81383741, thank you!",
-    "specifications": "XXXL (Kids)",
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "60156970"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160673",
-          "name": "Tape Diapers XL",
-          "description": "Brand new packs. I have a few packs.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "16 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "160551",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -434,33 +345,34 @@
     }
   },
   {
-    "id": "159808",
-    "category": "Others",
-    "name": "Diapers",
-    "description": "Client has six children, five of whom have mild intellectual disabilities. Both him and his wife have medical conditions. Client is currently recovering from a stroke and continues to experience speech difficulties. He was previously working as a cleaner but is currently unemployed. Providing diapers for his two youngest children would therefore help ease the family’s financial burden and support their daily caregiving needs. For further liaison, kindly contact Harsheni at 81383741, thank you!",
-    "specifications": "Adult (L) & Kids (L)",
+    "id": "160731",
+    "category": "Mobility Aids",
+    "name": "Walking frame",
+    "description": "Client is a 56yo female, suffering from health condition including arthritis which causes unstable gait. She is also the caregiver for her elderly father, who also has mobility issues. She also has ongoing financial concerns as she is on mental health treatment and is unable to work. As such, she would like to request for 2 walking frames with front wheels (for herself and father).\n\nKindly contact me at 96409381 for coordination thank you! :)\n\nExample of product: https://shopee.sg/4-Wheels-8-Height-Levels-Folding-Walking-Aid-With-Wheels-Walker-For-Elderly-Stainless-Steel-Frame-Walking-Stick-With-Seat-Bedpan-Walking-Frame-For-Elderly-Can-In-For-A-Bath-i.1361955684.29916282329?extraParams=%7B%22display_model_id%22%3A226966425242%2C%22model_selection_logic%22%3A3%7D",
+    "specifications": null,
     "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Shanelle Tan",
+      "email": "shanelle.tan@montfortcare.org.sg",
       "phone": [
-        "60156970"
+        "62746904",
+        "62708327"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "18 Aug 2026",
+    "date": "18 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160673",
-          "name": "Tape Diapers XL",
-          "description": "Brand new packs. I have a few packs.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "id": "160700",
+          "name": "Walking frame",
+          "description": "Foldable walking frame",
+          "location": null,
           "validTill": "16 Oct 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
