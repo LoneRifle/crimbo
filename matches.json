@@ -33,40 +33,6 @@
     }
   },
   {
-    "id": "160530",
-    "category": "Home Furnishing",
-    "name": "Queen-sized Mattress",
-    "description": "Family had been affected by bedbug infestation which led to the disposal of old furniture including mattress. Mother is a LTVP holder working part-time whereas father is at retirement age but still working full-time to support their 2 school-going children. Wardrobe is needed for proper clothes storage to replace their old one.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Boon Lay",
-      "name": "Lina Amirah",
-      "email": "Lina_AMIRAH@msf.gov.sg",
-      "phone": [
-        "65928744",
-        "68678580"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160744",
-          "name": "Queen Sized Mattress",
-          "description": "Queen Sized Mattress Firm",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "30 Sep 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "160464",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -151,6 +117,138 @@
           "dimensions": "52 x 6 x 105",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160689",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is currently engaged in part-time employment while pursuing a training course to upgrade her skills. She is facing significant financial hardship. She is unable to sustain her employment due to a recent toe amputation and potentially another one on the other foot. The combined pressure of healthcare costs and lack of income has exhausted the family's resources. She is hoping for any kind individuals to donate items like a laptop as it is a requirement for her educational needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160750",
+          "name": "Samsonite Laptop Backpack brand new",
+          "description": "Brand new, company logo at the bottom\nCan deliver to needy if in Tampines / Simei area",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160677",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Youth is currently pursuing her education and requires a laptop to support her schoolwork and assignments. Despite facing ongoing familial challenges, lack of social support and financial difficulties, she remains committed to her education. A laptop would greatly support her learning and help ensure she can fully participate in her studies.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Suhaina Binte Samsi",
+      "email": "suhaina@frcsfsc.sg",
+      "phone": [
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160750",
+          "name": "Samsonite Laptop Backpack brand new",
+          "description": "Brand new, company logo at the bottom\nCan deliver to needy if in Tampines / Simei area",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160255",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a single mother of 2 youths and she needs support in getting a laptop for them as their only laptop at home is no longer working. \n\nThis laptop has help the youths for their respective school work at times or to use it during their free time/school holidays as well. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Siti Aminah",
+      "email": "sitiaminah@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160750",
+          "name": "Samsonite Laptop Backpack brand new",
+          "description": "Brand new, company logo at the bottom\nCan deliver to needy if in Tampines / Simei area",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160102",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Low income client in need of a laptop as he will be commencing his part-time Diploma on 19 Oct 26. Client does not have the means to purchase a new laptop for himself due to his financial circumstances. Pursuing his education will be a significant stepping stone towards a more stable future.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Aug 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160750",
+          "name": "Samsonite Laptop Backpack brand new",
+          "description": "Brand new, company logo at the bottom\nCan deliver to needy if in Tampines / Simei area",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
