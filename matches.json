@@ -52,17 +52,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "160723",
-          "name": "3 seater sofa",
-          "description": "Well loved sofa, in great condition. Ready for a second home. Deep enough to use as a bed.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "17 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "190cm length, 94cm depth",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "160611",
           "name": "Adjustable reclining floor sofa",
           "description": "able to adjust the bank to different angles.\ntake note that the elastic on the pillow is loose. \nseldom use.",
@@ -78,10 +67,43 @@
     }
   },
   {
-    "id": "160095",
-    "category": "Home Furnishing",
-    "name": "sofa",
-    "description": "Family of 2, consisting of a single mother and her 5-year-old daughter. Their sofa had been infested with bed bugs and despite engaging someone from Carousell to clear the infestation, the family is worried to continue using it. The family is financially unable to afford a replacement and is seeking donation of a sofa. Assistance from the donor to cover transport arrangement and delivery costs would also be greatly appreciated. Thank you.",
+    "id": "160773",
+    "category": "Infant and Children Items",
+    "name": "Baby Diaper",
+    "description": "Client is staying in a 1-room rental flat with her husband and two sons (M/2 & M/1). As her husband has recently been incarcerated, the family is looking for assistance with the children's basic needs (i.e., milk and diapers) due to the financial constrains faced without the family's breadwinner. Thank you.",
+    "specifications": "Brand: Huggies (Tape), Size: XL",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160702",
+          "name": "Baby Diaper (Tape)",
+          "description": "brand new - i have 10 packets to donate",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "16 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160753",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Family of three, comprising a single mother and her two school-going children. Family is facing financial constraints as the mother is the sole breadwinner and she is working hard towards clearing outstanding debts. The screen of their current TV is partially blocked by grey lines, likely due to LCD display issue. The family is unable to afford a replacement and would appreciate donation of a TV. Thank you.",
     "specifications": null,
     "contact": {
       "org": "MSF Social Service Office @ Toa Payoh",
@@ -93,28 +115,28 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "26 Aug 2026",
+    "date": "21 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160723",
-          "name": "3 seater sofa",
-          "description": "Well loved sofa, in great condition. Ready for a second home. Deep enough to use as a bed.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "17 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "190cm length, 94cm depth",
+          "id": "160521",
+          "name": "TV stand",
+          "description": "Wood TV console with space for.stprage",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
         {
-          "id": "160611",
-          "name": "Adjustable reclining floor sofa",
-          "description": "able to adjust the bank to different angles.\ntake note that the elastic on the pillow is loose. \nseldom use.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "14 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "52 x 6 x 105",
+          "id": "160344",
+          "name": "TV console with 2 drawers",
+          "description": "TV console with lots of storage space. Two open compartments and two drawers.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "110 x 47 x 57",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
