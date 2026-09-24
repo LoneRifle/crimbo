@@ -55,6 +55,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "160890",
+    "name": "Fridge",
+    "description": "Used Fridge.Tested.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160891",
+    "name": "Fridge",
+    "description": "Used Fridge.Tested.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160724",
     "name": "SKG Mini Pot Electric Cooker (1.5L)",
     "description": "Diameter of Pot = 17 CM\nDepth of Pot = 9 CM",
@@ -108,6 +130,17 @@
     "dimensions": "43 x 48.5 x 43 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160889",
+    "name": "single mattress and wooden bed frame",
+    "description": "Delivery to Jalan Besar area only. My apologies, not able to pay and deliver other areas. \n\nNeedy/officer will need to DIY install the bed frame.",
+    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "about 90 x 180 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160850",
@@ -172,17 +205,6 @@
     "validTill": "21 Oct 2026",
     "ageInYears": 4,
     "dimensions": "70cm diameter, 42cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160787",
-    "name": "Single size  mattress with bedframe",
-    "description": "Standard single mattress with bedframe. Not available until Oct 3",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "21 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "910cm x 1900cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -721,17 +743,6 @@
     "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
     "validTill": "07 Oct 2026",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "160561",
-    "name": "Elderly Rehab Chair",
-    "description": "Self Collection and No transport allowance",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "29 Sep 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
