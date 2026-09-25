@@ -1,5 +1,41 @@
 [
   {
+    "id": "160926",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family of 6. 2 children with special needs and Husband is sole-bread winner. Family is under financial stress with outstanding debts. Family needs to spend on bills, rent and food, making it hard to pay for diapers and milk.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
+  },
+  {
+    "id": "160921",
+    "category": "Home Furnishing",
+    "name": "foldable mattresses",
+    "description": "Client is a 28-year-old single mother of three young children, aged 9, 8, and 2. She is currently unemployed due to family circumstances, and the family is in the process of moving to a HDB rental flat. As they are unable to afford the necessary household items, the family requires assistance in obtaining home furnishing items such as foldable mattresses for her children to support the family's transition into their new home.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Ang Ying Ying",
+      "email": "ang_yingying@msf.gov.sg",
+      "phone": [
+        "67025731",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
+  },
+  {
     "id": "160912",
     "category": "Home Furnishing",
     "name": "Bunk Bed (Single)",
@@ -770,6 +806,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "25 Aug 2026"
+  },
+  {
+    "id": "160925",
+    "category": "Infant and Children Items",
+    "name": "Dugro Stage 4",
+    "description": "Family of 6. 2 children with special needs and Husband is sole-bread winner. Family is under financial stress with outstanding debts. Family needs to spend on bills, rent and food, making it hard to pay for diapers and milk.",
+    "specifications": "6 tins",
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
   },
   {
     "id": "160906",
@@ -2819,6 +2873,77 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "25 Aug 2026"
+  },
+  {
+    "id": "160924",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Household consists of middle-aged married couple. Wife is unfit for work since spinal surgery in 2024, and also suffers from fits due to epilepsy. Husband is currently working overtime to repay back loans, which were taken under his name for a friend, who scammed him and absconded with the money. The couple lives in a 1 room rental flat and is unable to afford a new TV, as their current TV (which is also a second hand donatiion) has spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
+  },
+  {
+    "id": "160920",
+    "category": "Electrical Home Appliances",
+    "name": "washing machine",
+    "description": "Client is a 28-year-old single mother of three young children, aged 9, 8, and 2. She is currently unemployed due to family circumstances, and the family is in the process of moving to a HDB rental flat. As they are unable to afford the necessary household items, the family requires a front-loading washing machine, a refrigerator, and three foldable single mattresses.",
+    "specifications": "front load washing machine",
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Ang Ying Ying",
+      "email": "ang_yingying@msf.gov.sg",
+      "phone": [
+        "67025731",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
+  },
+  {
+    "id": "160919",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "The applicant is a single-mother household of two, currently facing financial hardship due to unemployment arising from health reasons. With no income at present, the family is unable to afford a replacement for their spoilt washing machine, which is essential for managing their daily household needs. The applicant is therefore requesting assistance to procure a top-load washing machine (10kg capacity) to support the basic needs of the household. We seek your kind consideration and support for this request.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+      "name": "Ashileen",
+      "email": "ashileen_raj@msf.gov.sg",
+      "phone": [
+        "62139480",
+        "64244017"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
+  },
+  {
+    "id": "160918",
+    "category": "Electrical Home Appliances",
+    "name": "Vaccum cleaner",
+    "description": "Single mother with 2 kids, a grandchild and her father living in a 2 room flat. Mother was recently released from incarceration and is dealing with health issues",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026"
   },
   {
     "id": "160910",
@@ -5087,24 +5212,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "31 Aug 2026"
-  },
-  {
-    "id": "160917",
-    "category": "Medical Aids",
-    "name": "Portable Oxygen Concentrator",
-    "description": "80 years old cancer patient relies on oxygen concentrator and requires a portable oxygen concentrator for visits to the hospital.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Cancer Society",
-      "name": "Tan Wen Shi",
-      "email": "wenshi_tan@singaporecancersociety.org.sg",
-      "phone": [
-        "81296306",
-        "62219578"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Sep 2026"
   },
   {
     "id": "160882",

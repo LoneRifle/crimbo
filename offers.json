@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "160914",
-    "name": "LG Smart TV",
-    "description": "55 inch TV. Other than screen burn in the background, colors are still vivid and good to use. 9 year old TV",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "24 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "55 Inch TV",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160843",
     "name": "Philips Air Fryer",
     "description": "Philips airfryer",
@@ -141,6 +130,28 @@
     "dimensions": "43 x 48.5 x 43 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160923",
+    "name": "Side rack",
+    "description": "Side shelving",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "03 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "30cm x 40cm x 82cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160922",
+    "name": "Tv console",
+    "description": "Take note of defect. The rest all ok",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "03 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "120cm x 30cm x 42.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160915",

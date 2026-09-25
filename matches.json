@@ -210,6 +210,61 @@
     }
   },
   {
+    "id": "160924",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Household consists of middle-aged married couple. Wife is unfit for work since spinal surgery in 2024, and also suffers from fits due to epilepsy. Husband is currently working overtime to repay back loans, which were taken under his name for a friend, who scammed him and absconded with the money. The couple lives in a 1 room rental flat and is unable to afford a new TV, as their current TV (which is also a second hand donatiion) has spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160922",
+          "name": "Tv console",
+          "description": "Take note of defect. The rest all ok",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "03 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "120cm x 30cm x 42.5cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160521",
+          "name": "TV stand",
+          "description": "Wood TV console with space for.stprage",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "30 Sep 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160344",
+          "name": "TV console with 2 drawers",
+          "description": "TV console with lots of storage space. Two open compartments and two drawers.",
+          "location": "Braddell , Macpherson, Potong Pasir",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "110 x 47 x 57",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160897",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
