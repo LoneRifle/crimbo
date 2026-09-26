@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "160205",
-    "name": "Newborn to 6months baby clothing",
-    "description": "Mixture of newborn to 6months old baby clothing and swaddle. Clothing that newborn needs.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "160843",
     "name": "Philips Air Fryer",
     "description": "Philips airfryer",
@@ -99,7 +88,7 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160695",
+    "id": "160941",
     "name": "Philips Air Fryer 3000 Series 3.7L",
     "description": "in good condition, everything working fine.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -108,6 +97,17 @@
     "dimensions": "25 x 38 x 30 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160943",
+    "name": "1.8m dining table",
+    "description": "Dining table 1.8m",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "1.8m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160937",
@@ -238,17 +238,6 @@
     "validTill": "22 Oct 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160799",
-    "name": "Ikea coffee table",
-    "description": "The edge is covered with edge protector as I have young kids.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "21 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "70cm diameter, 42cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -545,17 +534,6 @@
     "location": "Balestier, Toa Payoh",
     "validTill": "27 Sep 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "160118",
-    "name": "Preloved baby apparels from 6 to 12 months",
-    "description": "Preloved baby apparels for 6-12 months old",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "26 Sep 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
