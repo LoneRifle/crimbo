@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160965",
+    "name": "Mitsubishi Refrigerator MR-V42J-M",
+    "description": "This is an old refrigerator but still functional.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "09 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "676 x 635 x 1777 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160843",
     "name": "Philips Air Fryer",
     "description": "Philips airfryer",
@@ -64,6 +75,17 @@
     "dimensions": "25 x 38 x 30 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160966",
+    "name": "Grey 3-seater sofa",
+    "description": "3seater sofa only, grey",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "08 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "200x90x65",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160954",
@@ -396,6 +418,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "160958",
+    "name": "Stroller",
+    "description": "Suitable for infants who can sit up steadily (6 mths and up). Collapisble. With sunshade. Big storage compartment under the seat. With cup/bottle holder. Throw in 2 hanging hooks to hang light weight bags. Condition 7/10. Wheels all still good.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "160953",
     "name": "Toys",
     "description": "These toys are in good condition",
@@ -693,13 +726,24 @@
     "category": "Learning Aids"
   },
   {
-    "id": "160726",
-    "name": "Oxygen Concentrator",
-    "description": "The Nidek Nuvo Lite can deliver up to 5 litres of continuous oxygen per minute. Includes a smart sensor that alerts you if the oxygen purity falls below 86%. Weighing at 13.6 kg.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "18 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "36 x 23 x 58.5 (cm)",
+    "id": "160959",
+    "name": "Joycare Fluff Underpads",
+    "description": "Absorbent pads suitable for home care, post-natal, babies, pets etc (indicated on packaging).\nreceived extras from hospital after parent had surgery. 11 pieces left from pack of 15.",
+    "location": "Bedok",
+    "validTill": "05 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "160960",
+    "name": "Joycare Fluff Underpads",
+    "description": "Absorbent pads suitable for home care, post-natal, babies, pets etc (indicated on packaging).\nreceived extras from hospital after parent had surgery. 11 pieces left from pack of 15.",
+    "location": "Bedok",
+    "validTill": "05 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
