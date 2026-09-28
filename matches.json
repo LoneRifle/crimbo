@@ -1,5 +1,38 @@
 [
   {
+    "id": "160810",
+    "category": "Home Furnishing",
+    "name": "TV Cabinet",
+    "description": "A mother with two school-going children, who is currently undergoing divorce, is seeking support for a TV cabinet for her 1 room rental home. She is currently not working due to her physical and mental health concerns and would greatly appreciate assistance in meeting her household needs. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160986",
+          "name": "Tv Cabinet",
+          "description": "Tv console, heavily used and with some damages but functional.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "28 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "1.8m x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160873",
     "category": "Infant and Children Items",
     "name": "Breast Pump",
@@ -50,17 +83,6 @@
     "date": "21 Sep 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "160948",
-          "name": "Baby Diapers",
-          "description": "I am a local diaper retailer and would like to donate brand-new, sealed packs of baby diapers to families or shelters in need. I have multiple sizes available, from NB to XL which are often in high demand.",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "26 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
         {
           "id": "160702",
           "name": "Baby Diaper (Tape)",
@@ -195,6 +217,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "160986",
+          "name": "Tv Cabinet",
+          "description": "Tv console, heavily used and with some damages but functional.",
+          "location": "Cairnhill, Killiney, Orchard, River Valley",
+          "validTill": "28 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "1.8m x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "160922",
           "name": "Tv console",
           "description": "Take note of defect. The rest all ok",
@@ -232,6 +265,40 @@
     }
   },
   {
+    "id": "160839",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Elderly client (F/86) is taking care of several of her teenage grandchildren in a rental flat. The family has no source of income and is dependent on ComCare for their daily needs. In addition, client also suffers from a number of health conditions. The family urgently requires a fridge to store her medication and food items. Measurement of space available: L610mm x D635-685mm x H1830mm",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "22 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160805",
+          "name": "Smeg Fridge",
+          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
+          "location": "Sengkang",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160822",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -257,6 +324,40 @@
           "validTill": "09 Oct 2026",
           "ageInYears": 4,
           "dimensions": "676 x 635 x 1777 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160777",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family is a low-income family, parents were recently retrenched and just started new jobs as grab and f&b workers. They are financially tight, supporting 1 school going youth and 1 toddler. A good condition fridge will support them financially as they are moving to their own rental flat at the end of Sep. Require donor to cover delivery cost too",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Youth GO!",
+      "name": "Jesse Chua",
+      "email": "youthgo@fycs.org",
+      "phone": [
+        "96286110",
+        "67622779"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160805",
+          "name": "Smeg Fridge",
+          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
+          "location": "Sengkang",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -298,6 +399,40 @@
     }
   },
   {
+    "id": "160733",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Client is seeking a fridge for his rental flat. (Jo)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160805",
+          "name": "Smeg Fridge",
+          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
+          "location": "Sengkang",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160687",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -323,6 +458,40 @@
           "validTill": "09 Oct 2026",
           "ageInYears": 4,
           "dimensions": "676 x 635 x 1777 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160676",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Mother is a homemaker and is the sole caregiver of two school-going children, both of whom have been diagnosed with chronic illnesses. The family of three resides in a one-room rental flat. Their existing refrigerator has broken down, and mother is currently seeking assistance with a replacement refrigerator of a suitable size to store food and meet the household’s needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Club Rainbow (Singapore)",
+      "name": "Nurulhuda Binte Abu Bakar",
+      "email": "nurul@clubrainbow.org",
+      "phone": [
+        "81336189",
+        "63771789"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160805",
+          "name": "Smeg Fridge",
+          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
+          "location": "Sengkang",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
