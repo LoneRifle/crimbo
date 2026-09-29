@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "160997",
+    "name": "TV",
+    "description": "Non-smart TV\nComes with remote and antennae\nWorking condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "29 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "1014 x 622 x 230 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "160983",
     "name": "Electric Kettle",
     "description": "Bear Electric Kettle",
@@ -55,17 +66,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160965",
-    "name": "Mitsubishi Refrigerator MR-V42J-M",
-    "description": "This is an old refrigerator but still functional.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "09 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "676 x 635 x 1777 mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160977",
     "name": "Philips Air Fryer",
     "description": "Philips airfryer",
@@ -84,17 +84,6 @@
     "validTill": "22 Oct 2026",
     "ageInYears": 3,
     "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160724",
-    "name": "SKG Mini Pot Electric Cooker (1.5L)",
-    "description": "Diameter of Pot = 17 CM\nDepth of Pot = 9 CM",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": "17 x 17 x 20 CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -119,6 +108,50 @@
     "dimensions": "25 x 38 x 30 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160996",
+    "name": "Wooden bed frame Super Single",
+    "description": "Super Single bed frame. \nGood as new cos hardly used. \nAlready dismantled and packed for moving. Please arrange own transport.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160995",
+    "name": "Queen Size mattress and bed frame",
+    "description": "Less than 2 year old queen size mattress and bedframe",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "152x190CM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160993",
+    "name": "Coffee Table",
+    "description": "Coffee table\n- wood\n- dark color\n- bottom tier able to put newspaper etc",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160992",
+    "name": "3 Seater Sofa",
+    "description": "3 seater sofa, comes with\n- cushions seats\n- cushions cover\n- wood material",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "25 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "171 x 80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160986",
@@ -517,6 +550,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "160994",
+    "name": "Cups",
+    "description": "Quite a lot of cups to donate, all unused",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "160747",
     "name": "Teapot & Cooker",
     "description": "- Interested party to self collect or pay for delivery",
@@ -638,6 +682,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "160989",
+    "name": "Hospital Bed",
+    "description": "Hospital bed frame and air mattress \n\nPreviously used by an elderly women whom just passed away",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "160928",
     "name": "Walking stick",
     "description": "Lightly used walking stick",
@@ -724,6 +779,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "160990",
+    "name": "IKEA Loft bed",
+    "description": "2 sets of IKEA  loft bed frame with table attached. Bed frame and table need to be dismantled to allow it to leave the room.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160757",
