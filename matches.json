@@ -1,33 +1,132 @@
 [
   {
-    "id": "160985",
+    "id": "161018",
     "category": "Home Furnishing",
-    "name": "3 seater sofa",
-    "description": "Client facing significant financial vulnerabilities due to unemployment as she is managing caretaking of her newborn.",
+    "name": "Mattress",
+    "description": "Single mother living with 2 children is requesting for 2 single mattresses and a queen-sized mattress to replace the old and dirty mattresses at home which they have been using for years. They will also benefit from mattress cover. The 2 children are working odd jobs and are unable to afford new bedding.",
     "specifications": null,
     "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Dishalani D/O Anbanathan",
-      "email": "dishalani@allkin.org.sg",
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Joy Lew",
+      "email": "joylew@fycs.org",
       "phone": [
-        "60384135",
-        "60384100"
+        "69873106",
+        "67625215"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "28 Sep 2026",
+    "date": "29 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "160992",
-          "name": "3 Seater Sofa",
-          "description": "3 seater sofa, comes with\n- cushions seats\n- cushions cover\n- wood material",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "25 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "171 x 80",
+          "id": "161035",
+          "name": "Mattress",
+          "description": "feel like it'll be a waste if it's discarded, i would like to be collected by 3rd October",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "03 Oct 2026",
+          "ageInYears": 1,
+          "dimensions": "91cmx190cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "160322",
+          "name": "Super Single Size Mattress",
+          "description": "Super Single size X2",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "04 Oct 2026",
+          "ageInYears": 1,
+          "dimensions": "Super Single Size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160812",
+          "name": "Hospital bed with mattress and remote control",
+          "description": "Used hospital bed with wired remote control, light stains on bed mattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "82” height by 32” width by 20” height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "160566",
+          "name": "Single Loft Bed Frame & Mattress",
+          "description": "Pre-loved european wooden Manis-H loft bed in great condition to give away. Great for space creation.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "11 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "210 x 100 x 190",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160585",
+          "name": "Electric hospital bed and pressure relief mattress",
+          "description": "Electric hospital bed with pressure relief mattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161013",
+    "category": "Home Furnishing",
+    "name": "Bed Mattress",
+    "description": "Client would require a queen size mattress as her current one gives her back pain.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre",
+      "name": "Nur Iman Putera",
+      "email": "nurimanputera@frcsfsc.sg",
+      "phone": [
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160812",
+          "name": "Hospital bed with mattress and remote control",
+          "description": "Used hospital bed with wired remote control, light stains on bed mattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "82” height by 32” width by 20” height",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "160566",
+          "name": "Single Loft Bed Frame & Mattress",
+          "description": "Pre-loved european wooden Manis-H loft bed in great condition to give away. Great for space creation.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "11 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "210 x 100 x 190",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160585",
+          "name": "Electric hospital bed and pressure relief mattress",
+          "description": "Electric hospital bed with pressure relief mattress",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "13 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -118,7 +217,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "160702",
+          "id": "161026",
           "name": "Baby Diaper (Tape)",
           "description": "brand new - i have 10 packets to donate",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -127,6 +226,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161008",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is supporting a family of 4 members with both children having mental health issues. The wife is also struggling with mental health and emotional issue. Client is recently diagnosed with major depressive disorder and is struggling to meet the financial needs of the family. His son old laptop was broken down and he needs to have one for his studies.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Muhammad Idris Bin Mohd Margono",
+      "email": "idris.margono@thkmc.org.sg",
+      "phone": [
+        "87145182",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160750",
+          "name": "Samsonite Laptop Backpack brand new",
+          "description": "Brand new, company logo at the bottom\nCan deliver to needy if in Tampines / Simei area",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "19 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -233,6 +366,39 @@
     }
   },
   {
+    "id": "161021",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "A single mother and her young son needs a fridge as they moved in to their rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Viriya Family Service Centre",
+      "name": "Sarah Nasir",
+      "email": "sarah_nasir@viriya.org.sg",
+      "phone": [
+        "62858033"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160805",
+          "name": "Smeg Fridge",
+          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
+          "location": "Sengkang",
+          "validTill": "22 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "160924",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -250,17 +416,6 @@
     "date": "25 Sep 2026",
     "matches": {
       "passiton": [
-        {
-          "id": "160997",
-          "name": "TV",
-          "description": "Non-smart TV\nComes with remote and antennae\nWorking condition",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "29 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "1014 x 622 x 230 mm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        },
         {
           "id": "160986",
           "name": "Tv Cabinet",
@@ -280,17 +435,6 @@
           "validTill": "03 Oct 2026",
           "ageInYears": 3,
           "dimensions": "120cm x 30cm x 42.5cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160521",
-          "name": "TV stand",
-          "description": "Wood TV console with space for.stprage",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "30 Sep 2026",
-          "ageInYears": 3,
-          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },

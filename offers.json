@@ -22,50 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "160997",
-    "name": "TV",
-    "description": "Non-smart TV\nComes with remote and antennae\nWorking condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "29 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "1014 x 622 x 230 mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160983",
-    "name": "Electric Kettle",
-    "description": "Bear Electric Kettle",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160982",
-    "name": "Electric Cooker",
-    "description": "Simplus Electric Cooker",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "160981",
-    "name": "Xiaomi 24 inch Monitor",
-    "description": "Xiaomi A24i Monitor",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160977",
     "name": "Philips Air Fryer",
     "description": "Philips airfryer",
@@ -110,6 +66,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "161035",
+    "name": "Mattress",
+    "description": "feel like it'll be a waste if it's discarded, i would like to be collected by 3rd October",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "03 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "91cmx190cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161034",
+    "name": "Work/study table",
+    "description": "Please refer to the photos for dimensions.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161033",
+    "name": "Bed frame / divan (single size)",
+    "description": "Brand new single size bed frame/divan\nMattress is not included",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161032",
+    "name": "Sofa",
+    "description": "Brand new. Too big for my small house. Pls self collect as i am 76 yr old and cant afford collection fee. Thanks.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "01 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160996",
     "name": "Wooden bed frame Super Single",
     "description": "Super Single bed frame. \nGood as new cos hardly used. \nAlready dismantled and packed for moving. Please arrange own transport.",
@@ -117,17 +117,6 @@
     "validTill": "28 Oct 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160995",
-    "name": "Queen Size mattress and bed frame",
-    "description": "Less than 2 year old queen size mattress and bedframe",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "152x190CM",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -143,17 +132,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160992",
-    "name": "3 Seater Sofa",
-    "description": "3 seater sofa, comes with\n- cushions seats\n- cushions cover\n- wood material",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "25 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "171 x 80",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160986",
     "name": "Tv Cabinet",
     "description": "Tv console, heavily used and with some damages but functional.",
@@ -161,17 +139,6 @@
     "validTill": "28 Oct 2026",
     "ageInYears": 3,
     "dimensions": "1.8m x 40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160972",
-    "name": "Bed frame / Divan (queen size)",
-    "description": "Brand new queen size bed frame/divan",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "27 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -194,17 +161,6 @@
     "validTill": "10 Oct 2026",
     "ageInYears": 4,
     "dimensions": "1.8m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160937",
-    "name": "Office Long White Table x 5 and 1 grey sofa seater",
-    "description": "We have 5 office long white table and a grey sofa seater",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -297,17 +253,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160746",
-    "name": "White Study Table - Kids",
-    "description": "- Interested party to pay for delivery or self collect\n- item does not need to be dismantled",
-    "location": null,
-    "validTill": "30 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160716",
     "name": "Moll Forte ergonomic chair",
     "description": "Moll Maximo Forte ergonomic chair with adjustable height.",
@@ -352,17 +297,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160521",
-    "name": "TV stand",
-    "description": "Wood TV console with space for.stprage",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160344",
     "name": "TV console with 2 drawers",
     "description": "TV console with lots of storage space. Two open compartments and two drawers.",
@@ -385,11 +319,22 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160953",
-    "name": "Toys",
-    "description": "These toys are in good condition",
+    "id": "161028",
+    "name": "Few items to donate",
+    "description": "Booster Chair \nSpring cot\nBaby clothes\nDiaper bin",
+    "location": null,
+    "validTill": "29 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "161020",
+    "name": "Diapers (newborn)",
+    "description": "Newborn diapers",
     "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "30 Sep 2026",
+    "validTill": "29 Oct 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -495,7 +440,7 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "160702",
+    "id": "161026",
     "name": "Baby Diaper (Tape)",
     "description": "brand new - i have 10 packets to donate",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -539,33 +484,11 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "160462",
-    "name": "Baby electronic Cradle",
-    "description": "cradle with 7 pcs springs support new born up to 16-19kg + electronic motor",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "09 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "160994",
     "name": "Cups",
     "description": "Quite a lot of cups to donate, all unused",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "28 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "160747",
-    "name": "Teapot & Cooker",
-    "description": "- Interested party to self collect or pay for delivery",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "30 Sep 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -583,26 +506,15 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "160277",
-    "name": "Ikea food storage containers",
-    "description": "I have a total of 4 pieces of this. Used to store dry food.",
-    "location": null,
-    "validTill": "30 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
+    "id": "161010",
+    "name": "Used Treadmill",
+    "description": "Used treamill. Still working but no longer used due to busy schedule.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "29 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "49\"x30\"x27.5\"\" tall when folded. Running pad 59\" when open",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "160184",
-    "name": "CIF - ALL-PURPOSE CLEANER",
-    "description": "CIF PROFESSIONAL ALL-PURPOSE CLEANER 4.2L\nPLS SELF PICK UP FROM MY BLOCK.\nWILL ADVICE THE DETAILS WHEN YOU CONFIRM TAKING THIS ITEM.",
-    "location": null,
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "160956",
@@ -847,17 +759,6 @@
     "category": "Others"
   },
   {
-    "id": "160349",
-    "name": "Chandelier",
-    "description": "Pre-loved chandelier that can be used in any room, or hallway. In very good condition.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "60x60x40",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "160330",
     "name": "Care for bed sores",
     "description": "1. Normal Saline (0.9% Sodium Chloride, 20ml) x 9 units\n2. Gauze Swab (7.5 x 7.5cm) x 10 packets\n3. Mepilex Foam Dressing (16 x 20cm) x 2 pieces\n4. Mepilex Foam Dressing (10 x 10cm) x 4 pieces",
@@ -908,28 +809,6 @@
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "04 Oct 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160276",
-    "name": "Plastic clothes hangers (kids)",
-    "description": "Good condition hangers for kids' clothes",
-    "location": null,
-    "validTill": "30 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160275",
-    "name": "Metal clothes hangers",
-    "description": "Good condition clothes hangers",
-    "location": null,
-    "validTill": "30 Sep 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
