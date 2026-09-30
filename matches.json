@@ -1,5 +1,50 @@
 [
   {
+    "id": "161047",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "The family of 5 lives in a rental flat, though parents are both working, they can only meet basic needs in the household. Recently, the sofa in the living hall has broken down and it would benefit greatly for the family to receive a sofa of better condition. This would help alleviate financial stress from the family too. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Shree Ganga D/O Rajasagran",
+      "email": "ShreeGanga@thkmc.org.sg",
+      "phone": [
+        "88333080",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "160915",
+          "name": "2-seater sofa",
+          "description": "2-seater sofa and it can be extended to sofa bed\nThe mattress bed frame will be empty upon donating",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "24 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160611",
+          "name": "Adjustable reclining floor sofa",
+          "description": "able to adjust the bank to different angles.\ntake note that the elastic on the pillow is loose. \nseldom use.",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "14 Oct 2026",
+          "ageInYears": 2,
+          "dimensions": "52 x 6 x 105",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161018",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -18,6 +63,17 @@
     "date": "29 Sep 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "161052",
+          "name": "Mattresses with bedframes",
+          "description": "Would like to donate the good quality beds:\n1) Queen size mattress with bed frame (white cover)\n2) Super single / Semi Double mattress with bed frame (grey cover)\n3) Paediatric Super Single mattress (not in picture gallery)",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "Queen &amp; Super Single",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "161035",
           "name": "Mattress",
@@ -95,6 +151,17 @@
     "date": "29 Sep 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "161052",
+          "name": "Mattresses with bedframes",
+          "description": "Would like to donate the good quality beds:\n1) Queen size mattress with bed frame (white cover)\n2) Super single / Semi Double mattress with bed frame (grey cover)\n3) Paediatric Super Single mattress (not in picture gallery)",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "Queen &amp; Super Single",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "160812",
           "name": "Hospital bed with mattress and remote control",
@@ -366,39 +433,6 @@
     }
   },
   {
-    "id": "161021",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "A single mother and her young son needs a fridge as they moved in to their rental flat.",
-    "specifications": null,
-    "contact": {
-      "org": "Viriya Family Service Centre",
-      "name": "Sarah Nasir",
-      "email": "sarah_nasir@viriya.org.sg",
-      "phone": [
-        "62858033"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160805",
-          "name": "Smeg Fridge",
-          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
-          "location": "Sengkang",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "160924",
     "category": "Electrical Home Appliances",
     "name": "TV",
@@ -448,142 +482,6 @@
           "dimensions": "110 x 47 x 57",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160839",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Elderly client (F/86) is taking care of several of her teenage grandchildren in a rental flat. The family has no source of income and is dependent on ComCare for their daily needs. In addition, client also suffers from a number of health conditions. The family urgently requires a fridge to store her medication and food items. Measurement of space available: L610mm x D635-685mm x H1830mm",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Ann Wende",
-      "email": "wende_ann@msf.gov.sg",
-      "phone": [
-        "63765987",
-        "18002220000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "22 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160805",
-          "name": "Smeg Fridge",
-          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
-          "location": "Sengkang",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160777",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Family is a low-income family, parents were recently retrenched and just started new jobs as grab and f&b workers. They are financially tight, supporting 1 school going youth and 1 toddler. A good condition fridge will support them financially as they are moving to their own rental flat at the end of Sep. Require donor to cover delivery cost too",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Community Services - Youth GO!",
-      "name": "Jesse Chua",
-      "email": "youthgo@fycs.org",
-      "phone": [
-        "96286110",
-        "67622779"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160805",
-          "name": "Smeg Fridge",
-          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
-          "location": "Sengkang",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160733",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is seeking a fridge for his rental flat. (Jo)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160805",
-          "name": "Smeg Fridge",
-          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
-          "location": "Sengkang",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160676",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Mother is a homemaker and is the sole caregiver of two school-going children, both of whom have been diagnosed with chronic illnesses. The family of three resides in a one-room rental flat. Their existing refrigerator has broken down, and mother is currently seeking assistance with a replacement refrigerator of a suitable size to store food and meet the household’s needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Club Rainbow (Singapore)",
-      "name": "Nurulhuda Binte Abu Bakar",
-      "email": "nurul@clubrainbow.org",
-      "phone": [
-        "81336189",
-        "63771789"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160805",
-          "name": "Smeg Fridge",
-          "description": "Moving house thus giving away to needy family rather than to my house buyer. The Smeg fridge is just 3 years old given by my sister.",
-          "location": "Sengkang",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "Height 190cm Width 70cm Depth 73cm including handle",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
