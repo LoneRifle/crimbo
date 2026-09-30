@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "161064",
+          "name": "Black leather sofa",
+          "description": "Black sofa available for donation. \nStill in good condition \nTwo seater sofa",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "30 Oct 2026",
+          "ageInYears": 3,
+          "dimensions": "161x78x80",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "160915",
           "name": "2-seater sofa",
           "description": "2-seater sofa and it can be extended to sofa bed\nThe mattress bed frame will be empty upon donating",
@@ -119,68 +130,13 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "160585",
-          "name": "Electric hospital bed and pressure relief mattress",
-          "description": "Electric hospital bed with pressure relief mattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "13 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161013",
-    "category": "Home Furnishing",
-    "name": "Bed Mattress",
-    "description": "Client would require a queen size mattress as her current one gives her back pain.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre",
-      "name": "Nur Iman Putera",
-      "email": "nurimanputera@frcsfsc.sg",
-      "phone": [
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161052",
-          "name": "Mattresses with bedframes",
-          "description": "Would like to donate the good quality beds:\n1) Queen size mattress with bed frame (white cover)\n2) Super single / Semi Double mattress with bed frame (grey cover)\n3) Paediatric Super Single mattress (not in picture gallery)",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "06 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "Queen &amp; Super Single",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160812",
-          "name": "Hospital bed with mattress and remote control",
-          "description": "Used hospital bed with wired remote control, light stains on bed mattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "82” height by 32” width by 20” height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "160566",
-          "name": "Single Loft Bed Frame & Mattress",
-          "description": "Pre-loved european wooden Manis-H loft bed in great condition to give away. Great for space creation.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "11 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "210 x 100 x 190",
+          "id": "161063",
+          "name": "Super Single Bed Frame with mattress",
+          "description": "Almost new as purchase wrong size. Pls collect at own cost.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "07 Oct 2026",
+          "ageInYears": 1,
+          "dimensions": "Super Single Size",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
