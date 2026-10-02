@@ -1,61 +1,5 @@
 [
   {
-    "id": "161047",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "The family of 5 lives in a rental flat, though parents are both working, they can only meet basic needs in the household. Recently, the sofa in the living hall has broken down and it would benefit greatly for the family to receive a sofa of better condition. This would help alleviate financial stress from the family too. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Shree Ganga D/O Rajasagran",
-      "email": "ShreeGanga@thkmc.org.sg",
-      "phone": [
-        "88333080",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161064",
-          "name": "Black leather sofa",
-          "description": "Black sofa available for donation. \nStill in good condition \nTwo seater sofa",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "161x78x80",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160915",
-          "name": "2-seater sofa",
-          "description": "2-seater sofa and it can be extended to sofa bed\nThe mattress bed frame will be empty upon donating",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "24 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160611",
-          "name": "Adjustable reclining floor sofa",
-          "description": "able to adjust the bank to different angles.\ntake note that the elastic on the pillow is loose. \nseldom use.",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "14 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "52 x 6 x 105",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161018",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -82,17 +26,6 @@
           "validTill": "06 Oct 2026",
           "ageInYears": 4,
           "dimensions": "Queen &amp; Super Single",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "161035",
-          "name": "Mattress",
-          "description": "feel like it'll be a waste if it's discarded, i would like to be collected by 3rd October",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "03 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": "91cmx190cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -159,6 +92,73 @@
           "validTill": "28 Oct 2026",
           "ageInYears": 3,
           "dimensions": "1.8m x 40cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160809",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Family consists of a single mom (unemployed) and her son who lives with chronic illness (kidney issues). Son currently sleeps on a mattress on the floor. A sofa bed would help the family make full use of their 1rm rental flat space, while ensuring a proper sleeping space for son to sleep at.",
+    "specifications": null,
+    "contact": {
+      "org": "Club Rainbow (Singapore)",
+      "name": "Nurulhuda Binte Abu Bakar",
+      "email": "nurul@clubrainbow.org",
+      "phone": [
+        "81336189",
+        "63771789"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161116",
+          "name": "Ikea Friheten L shaped sofa-bed with storage",
+          "description": "IKEA L shaped sofa, convertible to a queen sized bed with storage. Not our main sofa as this is our second sofa in our family room.",
+          "location": "Seletar, Yio Chu Kang",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160714",
+    "category": "Home Furnishing",
+    "name": "L-shape Sofa",
+    "description": "Single mother and school-going son have been living in HDB public rental and moving to another rental flat housing. They are looking for the following items to help with their basic needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Claudine Ng",
+      "email": "claudineng@allkin.org.sg",
+      "phone": [
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Sep 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161116",
+          "name": "Ikea Friheten L shaped sofa-bed with storage",
+          "description": "IKEA L shaped sofa, convertible to a queen sized bed with storage. Not our main sofa as this is our second sofa in our family room.",
+          "location": "Seletar, Yio Chu Kang",
+          "validTill": "06 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -301,275 +301,18 @@
     }
   },
   {
-    "id": "161056",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "Family is made up of a couple and a 2 year old toddler. The couple is working odd jobs and is struggling financially. They stay in a one room one hall flat. Their current washing machine is faulty. Due to space constraints, the family can only use a front load washing machine.",
-    "specifications": "60 x 60cm",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Cindy Koh",
-      "email": "cindykoh@kkcs.org.sg",
-      "phone": [
-        "64854720",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160924",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Household consists of middle-aged married couple. Wife is unfit for work since spinal surgery in 2024, and also suffers from fits due to epilepsy. Husband is currently working overtime to repay back loans, which were taken under his name for a friend, who scammed him and absconded with the money. The couple lives in a 1 room rental flat and is unable to afford a new TV, as their current TV (which is also a second hand donatiion) has spoilt.",
+    "id": "160690",
+    "category": "Others",
+    "name": "Phone",
+    "description": "Client is a 60-year-old older adult who experienced significant financial challenges and was declared bankrupt in April 2026. Following considerable effort, she has recently managed to stabilize her situation and successfully opened a bank account, enabling her to actively seek employment. However, her current handphone is faulty and no longer functioning reliably. A working handphone is essential for her to communicate with potential employers, coordinate medical appointments, attend social work appointments, and manage her daily needs independently. Given her limited financial resources, she is unable to purchase a replacement device and would greatly appreciate support through a second-hand handphone.",
     "specifications": null,
     "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Regina Leong",
-      "email": "regina@sccfsc.org.sg",
+      "org": "Fei Yue Family Service Centre @ Yew Tee",
+      "name": "Freddy Ow Yong",
+      "email": "freddyowyong@fycs.org",
       "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160986",
-          "name": "Tv Cabinet",
-          "description": "Tv console, heavily used and with some damages but functional.",
-          "location": "Cairnhill, Killiney, Orchard, River Valley",
-          "validTill": "28 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "1.8m x 40cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160922",
-          "name": "Tv console",
-          "description": "Take note of defect. The rest all ok",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "03 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "120cm x 30cm x 42.5cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "160344",
-          "name": "TV console with 2 drawers",
-          "description": "TV console with lots of storage space. Two open compartments and two drawers.",
-          "location": "Braddell , Macpherson, Potong Pasir",
-          "validTill": "06 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "110 x 47 x 57",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160920",
-    "category": "Electrical Home Appliances",
-    "name": "washing machine",
-    "description": "Client is a 28-year-old single mother of three young children, aged 9, 8, and 2. She is currently unemployed due to family circumstances, and the family is in the process of moving to a HDB rental flat. As they are unable to afford the necessary household items, the family requires a front-loading washing machine, a refrigerator, and three foldable single mattresses.",
-    "specifications": "front load washing machine",
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Ang Ying Ying",
-      "email": "ang_yingying@msf.gov.sg",
-      "phone": [
-        "67025731",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160919",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "The applicant is a single-mother household of two, currently facing financial hardship due to unemployment arising from health reasons. With no income at present, the family is unable to afford a replacement for their spoilt washing machine, which is essential for managing their daily household needs. The applicant is therefore requesting assistance to procure a top-load washing machine (10kg capacity) to support the basic needs of the household. We seek your kind consideration and support for this request.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-      "name": "Ashileen",
-      "email": "ashileen_raj@msf.gov.sg",
-      "phone": [
-        "62139480",
-        "64244017"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160895",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Family consist of a single mum and 2 school-going children and they require washing machine as the current one is faulty. As the sole caregiver and provider managing all household responsibilities independently, the family is unable to afford a washing machine, which is an essential household appliance for maintaining the hygiene and cleanliness of the family.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Nurul Jannah Bointe Hafid",
-      "email": "nurul_jannah_hafid@msf.gov.sg",
-      "phone": [
-        "63549143",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "159079",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Client is in her 50s and is currently seeking full-time employment. She resides with and is the primary caregiver for her 72-year-old elderly mother, together with her husband, who is currently unfit for work due to severe back issues. The client and family requires a new washing machine as their current one is spoilt.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Bedok",
-      "name": "Nurul Farhahtil Raudhah Binte Khairul",
-      "email": "NurulFarhahtil@thkmc.org.sg",
-      "phone": [
-        "62418171"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160715",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Single mother and school-going son have been living in HDB public rental and moving to another rental flat housing. They are looking for the following items to help with their basic needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Claudine Ng",
-      "email": "claudineng@allkin.org.sg",
-      "phone": [
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160680",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "A household of three (turning four) is seeking for a donated washing machine. The family comprises of a young married couple (both aged 24), their 1-year-old son, and will be expecting a newborn in a month's time - Oct 2026. In hopes to provide a stable environment for their growing family, the couple have secured their first home - a 2-room public rental flat in Yishun. They have mainly been lodging with relatives prior, without a proper space of their own. As the wife is currently unable to work due to her pregnancy and the need to care for their young son, the family relies solely on the husband's limited income. They have been preparing for the move mostly by sourcing for second-hand furniture. The only remaining item that they have challenges obtaining is a washing machine, due to their limited budget. A washing machine will greatly alleviate some of their daily household chores, thereby freeing up more capacity for them to focus on settling down into their new home and the arrival of their newborn in the coming month. This will also support the young family's fresh start as a unit of four in their new home.\nThe family is hoping to move and settle into their new home within Sep 2026, to ensure a proper space is ready by the time of their newborn's arrival. They will hence benefit from a donated, well-functioning washing machine the soonest.",
-    "specifications": "Washing Machine",
-    "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Marc Chong",
-      "email": "marc_chong@msf.gov.sg",
-      "phone": [
-        "63548497",
-        "18002220000"
+        "64162186",
+        "64162162"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -577,13 +320,13 @@
     "matches": {
       "passiton": [
         {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
+          "id": "161093",
+          "name": "Cordless house phone",
+          "description": "Panasonic Cordless house phone",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "11 Oct 2026",
           "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -592,265 +335,31 @@
     }
   },
   {
-    "id": "160571",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Family of eight is residing in a 2-room rental flat and experiencing financial difficulties, with limited means to afford a washing machine.",
+    "id": "160481",
+    "category": "Others",
+    "name": "Phone",
+    "description": "Single elderly father, aged 69, sole caregiver to two young children, aged 8 and 5 and living together in a 1-room rental flat is in need of a new smartphone as his previous one has spoilt. As he is known to many agencies actively working with him, having a functioning phone will help to ensure consistent ease of communication between parties. Additionally, the phone can double up as an alarm clock to ensure stable attendance for the 2 children.",
     "specifications": null,
     "contact": {
-      "org": "Care Corner Family Service Centre - Toa Payoh",
-      "name": "Vienne Chiam",
-      "email": "viennechiam@carecorner.org.sg",
+      "org": "South Central Community FSC Ltd",
+      "name": "Claire Tan",
+      "email": "claire@sccfsc.org.sg",
       "phone": [
-        "63561622"
+        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "11 Sep 2026",
+    "date": "09 Sep 2026",
     "matches": {
       "passiton": [
         {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
+          "id": "161093",
+          "name": "Cordless house phone",
+          "description": "Panasonic Cordless house phone",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "11 Oct 2026",
           "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160567",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "A family of 5 in need of a new washing machine. The client, who is currently pregnant, has been handwashing the family's clothes in the meantime.",
-    "specifications": "8 kg load; front load only",
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Genessa Soh",
-      "email": "genessa_soh@msf.gov.sg",
-      "phone": [
-        "91115451",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160516",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Family of four with two young children is currently working but experiencing financial constraints, with limited disposable income after meeting their basic household expenses. The family is appealing for household items, as they are unable to afford to purchase or replace these items on their own. Assistance with the items would help to improve the family’s living conditions and ease their financial burden.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160382",
-    "category": "Electrical Home Appliances",
-    "name": "Washing machine",
-    "description": "The client is a single mother and LTVP holder with two school-going children, one of whom has special needs. She is currently unemployed and undergoing medical treatment. The family’s existing washing machine is faulty and requires replacement. The client is seeking assistance to obtain a replacement washing machine to support the family’s daily household needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Catholic Welfare Services",
-      "name": "Ian Michael Binny",
-      "email": "michaelbinny@catholicwelfare.org.sg",
-      "phone": [
-        "84840008",
-        "63394711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160274",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "74-year-old senior is single. She needs a washing machine to do her laundry. Currently, she is unemployed and experiencing financial difficulties. We hope donor can cover the cost of delivery. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "SAMH Mobile Support Team",
-      "name": "Valerie Low",
-      "email": "valerie_low@samhealth.org.sg",
-      "phone": [
-        "85112678"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160270",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Family of 4 with 3 school-going children and none are able to contribute financially to the household. Mother is unable to work due to medical condition. \n\nThey do not have a washing machine, and situation has worsen as mother has to manually wash the clothes, which is causing them distress.",
-    "specifications": null,
-    "contact": {
-      "org": "Cheng San CCC",
-      "name": "Eunis Seah",
-      "email": "eunis_seah@pa.gov.sg",
-      "phone": [
-        "64588222"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160221",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Family requires a working washing machine as theirs is currently faulty. They are currently using a laundromat to manage their laundry needs. A washing machine will be helpful to manage the family's laundry needs. Family is subsisting on financial assistance and cannot afford to purchase a new one.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Khairunisa Binte Rusli",
-      "email": "khairunisarusli@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160204",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Seeking a donation of a washing machine for a single mother with two young children (3 months and 3 years old). Their current machine is spoilt, and the family is unable to afford a replacement. The mother works part-time doing food delivery, while the children's father is currently incarcerated and will only be released next year. Any assistance would be greatly appreciated.",
-    "specifications": "any",
-    "contact": {
-      "org": "MSF Social Service Office @ Boon Lay",
-      "name": "Celene Ng",
-      "email": "celene_ng@msf.gov.sg",
-      "phone": [
-        "67367545",
-        "68678580"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161078",
-          "name": "Midea 8.5kg top load washing machine",
-          "description": "Top load washing machine \nBrand: Midea \nWorking well",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "50 x 50 x 93",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }

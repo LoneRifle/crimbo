@@ -22,13 +22,35 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "161078",
-    "name": "Midea 8.5kg top load washing machine",
-    "description": "Top load washing machine \nBrand: Midea \nWorking well",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Oct 2026",
+    "id": "161109",
+    "name": "Air Fryer",
+    "description": "Power Pac air fryer. Hardly used",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "01 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161099",
+    "name": "Electric kettle",
+    "description": "Philips brand electric kettle.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161093",
+    "name": "Cordless house phone",
+    "description": "Panasonic Cordless house phone",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "11 Oct 2026",
     "ageInYears": 2,
-    "dimensions": "50 x 50 x 93",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -44,24 +66,112 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161079",
-    "name": "Low loft bed",
-    "description": "Low loft bed",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "09 Oct 2026",
+    "id": "161116",
+    "name": "Ikea Friheten L shaped sofa-bed with storage",
+    "description": "IKEA L shaped sofa, convertible to a queen sized bed with storage. Not our main sofa as this is our second sofa in our family room.",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "06 Oct 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "161064",
-    "name": "Black leather sofa",
-    "description": "Black sofa available for donation. \nStill in good condition \nTwo seater sofa",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Oct 2026",
+    "id": "161115",
+    "name": "Display Rack",
+    "description": "Lightweight rack with 3 shelves",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "02 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161114",
+    "name": "Gaming/computer chair",
+    "description": "white IKEA gaming computer chair",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "124 height-63 width",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161112",
+    "name": "Wooden IKEA Table outdoor",
+    "description": "it is a wooden slat outdoor table but can be used indoors as well. Very good condition.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "140x75",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161111",
+    "name": "Adjustable study swivel chair",
+    "description": "Ikea adjustable height swivel chair",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161110",
+    "name": "Ikea cabinet",
+    "description": "Ikea cabinet",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "60x33x64 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161108",
+    "name": "Coffee Table",
+    "description": "Foldable coffee table",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "01 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "50 x 50 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161091",
+    "name": "Chair",
+    "description": "Midcentury modern style armchair, in good condition, seldom used",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "14 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161090",
+    "name": "Study desk",
+    "description": "100cm x 60cm x 75cm\nSolid wood modern style writing table",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "08 Oct 2026",
     "ageInYears": 3,
-    "dimensions": "161x78x80",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161080",
+    "name": "2-seater sofa",
+    "description": "Still in good condition. Cleaning done.\n\nCollect at Tanjung Pagar",
+    "location": null,
+    "validTill": "06 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "Length 2.27m Depth 90cm Height 80cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -121,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161035",
-    "name": "Mattress",
-    "description": "feel like it'll be a waste if it's discarded, i would like to be collected by 3rd October",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": "91cmx190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161034",
     "name": "Work/study table",
     "description": "Please refer to the photos for dimensions.",
@@ -183,39 +282,6 @@
     "validTill": "15 Oct 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160933",
-    "name": "Side rack",
-    "description": "Side shelving",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 3,
-    "dimensions": "30cm x 40cm x 82cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160934",
-    "name": "Side rack",
-    "description": "Side shelving",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 3,
-    "dimensions": "30cm x 40cm x 82cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160922",
-    "name": "Tv console",
-    "description": "Take note of defect. The rest all ok",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 3,
-    "dimensions": "120cm x 30cm x 42.5cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -297,21 +363,10 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161028",
+    "id": "161100",
     "name": "Few items to donate",
     "description": "Booster Chair \nSpring cot\nBaby clothes\nDiaper bin",
     "location": null,
-    "validTill": "29 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "161020",
-    "name": "Diapers (newborn)",
-    "description": "Newborn diapers",
-    "location": "Pasir Ris, Simei, Tampines",
     "validTill": "29 Oct 2026",
     "ageInYears": 1,
     "dimensions": null,
@@ -358,17 +413,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "04 Oct 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "160927",
-    "name": "Baby crib",
-    "description": "Baby crib frame to bless. Can be used from infant to toddler.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -462,17 +506,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "160295",
-    "name": "Niemeyer Piano",
-    "description": "Still in good conditions! Middle Peddle does not work and only a few keys need tuning",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "50cm × 150cm x 109.5cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "161054",
     "name": "Colour printer (Bluetooth)",
     "description": "HP printer that prints out black and full colours.  (cartridges not provided)",
@@ -506,15 +539,15 @@
     "category": "Learning Aids"
   },
   {
-    "id": "160294",
-    "name": "oxygen tanks",
-    "description": "2 oxygen tanks for donation. One used and another unopened\nOxygen Cylinder 415L\nOne is very old but they work completely well... will deliver this",
-    "location": "Bukit Timah",
-    "validTill": "03 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "20 cm high. 415L",
+    "id": "161103",
+    "name": "PMA x2",
+    "description": "Giving Away 2 Working Old PMA\nand 1 Faulty PMA.\n- PIC 1 NEO SCOOTER WT-T4SG9 \nBattery Change 2023 September\nCharger Included\n \n- PIC 2 Quality Life 4 Wheels Classic Scooter 22AH\nNo Charger, Been sharing charger with neo scooter.\nBattery Not change, but working fine \n\n- No PIC, Faulty PMA no picture, But look similar to EZYGO X20C 4 WHEEL PMA \nI am unsure which part is faulty, so you need to diagnose yourself.\nMight be able to work  after repair\n\n- All PMA Not registered with LTA because they were used by my parents who is above 70.\n- Its should be LTA approved as they were bought from Hospital.\n- Not required to transfer ownership. Just take and go register yourself\n- You Have to take all 3 PMA not just 1. \n- Only for serious needy, because i have tried donating to community but none of them are accepting.\n- Community Organization welcome to contact.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "14 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "standard size",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
+    "category": "Mobility Aids"
   },
   {
     "id": "160989",
@@ -561,17 +594,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "160700",
-    "name": "Walking frame",
-    "description": "Foldable walking frame",
-    "location": null,
-    "validTill": "16 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "160605",
     "name": "Left moonboot",
     "description": "Fits shoe size 39 to 42.",
@@ -603,6 +625,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "161113",
+    "name": "Laundry rack",
+    "description": "Laundry rack with wheels. Can fold down both sides of each rack level when not in use",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "11 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "H: 1.8m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "161077",
