@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "161127",
+    "name": "Portable air con",
+    "description": "portable air con",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "L40CM, W30CM, H60CM",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "161120",
     "name": "Hitachi Fridge",
     "description": "Hitachi Fridge in White",
@@ -66,13 +77,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161122",
-    "name": "bed",
-    "description": "KEA KRITTER kids bed \n\nIncludes:\n• Bed frame\n• Side safety rails\n• Mattress\n• Under-bed storage drawer",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "05 Oct 2026",
-    "ageInYears": 4,
+    "id": "161128",
+    "name": "I Anna UK Small Double Bed High Beadboard & Footboard",
+    "description": "Double Bed from FortyTwo; condition is like new.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "16 Oct 2026",
+    "ageInYears": 3,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161126",
+    "name": "Bed and Sofa and cabinet",
+    "description": "2 single bed, 1 king bed and 1 Super king bed to give away and more items",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "03 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": "90x200, 180x200, 200x200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -88,7 +110,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161121",
+    "id": "161125",
     "name": "Grey fabric sofa + ottoman",
     "description": "Light grey fabric 3-seater sofa with matching ottoman (from Castlery).",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
@@ -396,6 +418,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "161124",
+    "name": "small chest of drawers",
+    "description": "Beautiful oak chest of drawers With three deep drawers, there’s plenty of storage space for your little one’s clothing and bedding. The changer top is ideal for nappy changes, and can be easily removed or used as extra storage space when no longer needed.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "07 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "W83cm x D50cm x H91cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "161123",
+    "name": "Aston Martin Baby Cot / Crib",
+    "description": "This is a sturdy, well-made wooden baby cot bed from Silver Cross. Frame Material: solid oak with white rails and a light-grey wood stain finish.\nIt is a standard full-size cot bed, so it will last from birth up until they are ready for a toddler bed. Cot has been disassembled for transport. \n• Dimensions / Floor Space Needed: Approx. 148 cm long x 78 cm wide\n• Mattress Size Needed: Takes a standard 140 cm x 70 cm cot bed mattress",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "07 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "148cm x 70cm x 95cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "161100",
     "name": "Few items to donate",
     "description": "Booster Chair \nSpring cot\nBaby clothes\nDiaper bin",
@@ -515,6 +559,50 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "161132",
+    "name": "Wheelchair (foldable)",
+    "description": "Nil",
+    "location": null,
+    "validTill": "03 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161131",
+    "name": "Commode without pot but with cover on wheels",
+    "description": "Nil",
+    "location": null,
+    "validTill": "03 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161130",
+    "name": "Walking frame (foldable)",
+    "description": "Slightly used",
+    "location": null,
+    "validTill": "03 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161129",
+    "name": "Walking Stick (4-legged)",
+    "description": "Slightly used",
+    "location": null,
+    "validTill": "03 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "160989",
@@ -665,39 +753,6 @@
     "description": "Electric bedrest Lifting for elderly.\nDonor had asked the VWO/needy to come to the house to take the bed as she cannot afford to pay for transportation fees.",
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "09 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160330",
-    "name": "Care for bed sores",
-    "description": "1. Normal Saline (0.9% Sodium Chloride, 20ml) x 9 units\n2. Gauze Swab (7.5 x 7.5cm) x 10 packets\n3. Mepilex Foam Dressing (16 x 20cm) x 2 pieces\n4. Mepilex Foam Dressing (10 x 10cm) x 4 pieces",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160329",
-    "name": "Dandruff & Scalp Care Products",
-    "description": "Pristine Dandruff Shampoo x 4 bottles\nDermasone 0.1% Scalp Lotion x 4 bottles\n\nSelf-collection is most welcomed.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160328",
-    "name": "Urine Bags with Alcohol swaps",
-    "description": "1. Urine Bag x 4 pieces\n2. Alcohol Swap x ¾ box",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Oct 2026",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
