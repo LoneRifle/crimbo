@@ -19,6 +19,28 @@
     "matches": {
       "passiton": [
         {
+          "id": "161237",
+          "name": "Bed without mattress",
+          "description": "NA",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "15 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161234",
+          "name": "Bed without mattress",
+          "description": "NA",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "15 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "160812",
           "name": "Hospital bed with mattress and remote control",
           "description": "Used hospital bed with wired remote control, light stains on bed mattress",
@@ -61,40 +83,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160939",
-    "category": "Home Furnishing",
-    "name": "Double Deck Bed",
-    "description": "The daughter (19F) has recently reintegrated into the family, resulting in the household increasing from three to four members. The family is currently living in a two-room rental flat and the additional family member has created a need for more sleeping and living space.\n\nThe mother is a single parent and is working part-time due to health reasons, which limits the household’s financial capacity to purchase furniture. The family would benefit from assistance to obtain a bunk bed, which would help to provide suitable sleeping arrangements.",
-    "specifications": "Lower deck queen size and upper deck single size",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Wong Li Yi",
-      "email": "wongliyi@kkcs.org.sg",
-      "phone": [
-        "62997662ext544",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161156",
-          "name": "Double decker single bed",
-          "description": "double decker bed from Ikea, which was dismantled.",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "04 Nov 2026",
-          "ageInYears": 1,
-          "dimensions": "2000x900x1800",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []

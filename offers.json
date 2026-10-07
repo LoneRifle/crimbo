@@ -55,6 +55,39 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "161252",
+    "name": "Drawer Unit",
+    "description": "2 sets of Drawer Unit with 9 drawers",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "36 x 36 x 116cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161237",
+    "name": "Bed without mattress",
+    "description": "NA",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161234",
+    "name": "Bed without mattress",
+    "description": "NA",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "161199",
     "name": "Ikea sit-stand desk",
     "description": "This is a sit-stand desk whose height is adjustable from 70cm to 120cm so the user can sit or stand while using it. It's manually operated by cranking a handle. The table top is slightly worn but the table is in working condition. (the photo above is taken from the ikea website)",
@@ -88,32 +121,10 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161157",
-    "name": "stainless steel cabinet",
-    "description": "stainless steel shelf which is good for putting cooking stove. sticker label still intact, please kindly pay for collection.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "04 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": "1200Lx600wx900h",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161156",
-    "name": "Double decker single bed",
-    "description": "double decker bed from Ikea, which was dismantled.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "04 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": "2000x900x1800",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161128",
     "name": "I Anna UK Small Double Bed High Beadboard & Footboard",
     "description": "Double Bed from FortyTwo; condition is like new.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "location": "The Trizon",
     "validTill": "16 Oct 2026",
     "ageInYears": 3,
     "dimensions": null,
@@ -139,17 +150,6 @@
     "validTill": "02 Nov 2026",
     "ageInYears": 4,
     "dimensions": "200cm x 84cm x 82cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161115",
-    "name": "Display Rack",
-    "description": "Lightweight rack with 3 shelves",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "02 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -385,17 +385,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161100",
-    "name": "Few items to donate",
-    "description": "Booster Chair \nSpring cot\nBaby clothes\nDiaper bin",
-    "location": null,
-    "validTill": "29 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "160886",
     "name": "White baby cot",
     "description": "Baby cot. Rarely used . Still looks very new",
@@ -561,17 +550,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "161130",
-    "name": "Walking frame (foldable)",
-    "description": "Slightly used",
-    "location": null,
-    "validTill": "03 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "160989",
     "name": "Hospital Bed",
     "description": "Hospital bed frame and air mattress \n\nPreviously used by an elderly women whom just passed away",
@@ -603,6 +581,50 @@
     "dimensions": "82” height by 32” width by 20” height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "161251",
+    "name": "Piano",
+    "description": "Strauss upright piano",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "06 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "125cm(H) x 150cm(L) x 62cm(D)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "161250",
+    "name": "60 cartons of toys and household items",
+    "description": "60 cartons of toys and household items",
+    "location": null,
+    "validTill": "06 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "161221",
+    "name": "Hospital bed",
+    "description": "Hospital bed",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "06 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "161220",
+    "name": "Kenhancer plaster",
+    "description": "Kenhancer plaster x 3pkts, expiry date is 1 Nov 2026.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "01 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160990",
