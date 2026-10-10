@@ -1,5 +1,27 @@
 [
   {
+    "id": "161344",
+    "name": "Adidas Kids Shoes",
+    "description": "Lightly use pair of shoes. Need to wear one size down. Suitable for size US 3.5.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "161342",
+    "name": "Uniqlo Sling Bag",
+    "description": "Brand new uniqlo sling bag to bless.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "161210",
     "name": "Shorts",
     "description": "Shorts, socks, leg warmers and towels.",
@@ -44,17 +66,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161099",
-    "name": "Electric kettle",
-    "description": "Philips brand electric kettle.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "11 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "161324",
     "name": "TV",
     "description": "Non-smart TV\nComes with remote and antennae\nWorking condition",
@@ -64,6 +75,83 @@
     "dimensions": "1014 x 622 x 230 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161349",
+    "name": "Dresser with seat",
+    "description": "All still working well",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161348",
+    "name": "L shape sofa 5 seater",
+    "description": "Is still usable and has last clean a year ago.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "10 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161347",
+    "name": "Sofa",
+    "description": "Sofa fabric",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "09 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "2.4m x 1.5m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161346",
+    "name": "Round glass dining table with 5 wooden chairs with backing",
+    "description": "Round glass dining table with 5 wooden chairs (whole set)",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161343",
+    "name": "Gaming Chair",
+    "description": "Used for a month. Condition is still very new.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161341",
+    "name": "Foam Hospital Pillows (Health Care Pillows)",
+    "description": "Foam Hospital Pillows (Health Care Pillows). Used for two weeks only.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161340",
+    "name": "White Adjustable Height Overbed Bedside Table with Cup Holder",
+    "description": "Used for 2 weeks only. Table is very new. Suitable to use as overbed table.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "161338",
@@ -315,17 +403,6 @@
     "validTill": "14 Oct 2026",
     "ageInYears": 2,
     "dimensions": "52 x 6 x 105",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160576",
-    "name": "Office chair",
-    "description": "Ikea office chair",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "11 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
