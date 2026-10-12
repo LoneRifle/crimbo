@@ -167,6 +167,40 @@
     }
   },
   {
+    "id": "161329",
+    "category": "Home Furnishing",
+    "name": "Kitchen cabinets",
+    "description": "This is a family of six who just moved from a rental flat to a purchased flat. They have financial difficulties and cannot afford to renovate their kitchen. Their current kitchen cabinets have had their doors removed by the previous owner. As such, client has been covering them with cardboard/cloth and they are not usable. She does not have enough storage and can benefit from a carpentry service to install doors.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+      "name": "Rachael Chung",
+      "email": "rachael_chung@msf.gov.sg",
+      "phone": [
+        "62319095",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161358",
+          "name": "Wood Cabinets Kitchen Sideboard with Drawers",
+          "description": "Brand new kitchen cabinets with drawers",
+          "location": null,
+          "validTill": "10 Nov 2026",
+          "ageInYears": 1,
+          "dimensions": "160 x 50 x 90",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161228",
     "category": "Home Furnishing",
     "name": "Wardrobe",
