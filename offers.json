@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161437",
-    "name": "LG Refridgerator",
-    "description": "Relatively new fridge and clean.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "780mm x 750mm x 1850mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "161399",
     "name": "PC and standing wardrobe",
     "description": "-",
@@ -88,15 +77,15 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161324",
-    "name": "TV",
-    "description": "Non-smart TV\nComes with remote and antennae\nWorking condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "29 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "1014 x 622 x 230 mm",
+    "id": "161450",
+    "name": "3-seater sofa",
+    "description": "3-seater fabric sofa with 2 small pillows",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
+    "category": "Home Furnishing"
   },
   {
     "id": "161439",
@@ -121,17 +110,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161416",
-    "name": "IKEA Kids extendable bed in white (BUSUNGE))",
-    "description": "kids extendable bed",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "138cm x 90cm x 100cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161414",
     "name": "Sofa",
     "description": "fabric sofa. covers all detachable. can wash.",
@@ -139,17 +117,6 @@
     "validTill": "18 Oct 2026",
     "ageInYears": 4,
     "dimensions": "250cm x 100cm x 74cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161412",
-    "name": "double bed frame and mattress",
-    "description": "double bed size",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "30 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -451,24 +418,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160611",
-    "name": "Adjustable reclining floor sofa",
-    "description": "able to adjust the bank to different angles.\ntake note that the elastic on the pillow is loose. \nseldom use.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "14 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "52 x 6 x 105",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161386",
-    "name": "Baby cot and mattress",
-    "description": "Good condition.",
+    "id": "161454",
+    "name": "Baby milk bottles",
+    "description": "Clean baby bottles, used\nPhilips avent and Pigeon",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "are W74 x L133 x H90cm",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -495,17 +451,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161195",
-    "name": "Bottle warmer",
-    "description": "Can fit 2 milk bottles.\nRequires adaptor which I can provide.\nVariable heat setting",
-    "location": null,
-    "validTill": "05 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "160886",
     "name": "White baby cot",
     "description": "Baby cot. Rarely used . Still looks very new",
@@ -526,28 +471,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
-  },
-  {
-    "id": "161198",
-    "name": "Kitchen Wares",
-    "description": "Unused Items",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "05 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "161197",
-    "name": "Kitchen Wares",
-    "description": "Unused items",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "05 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
   },
   {
     "id": "160994",
@@ -616,6 +539,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "161447",
+    "name": "bed rails",
+    "description": "Set of 2 bed railings (1 for each side of the bed). Suitable for queen/king mattress. Railing is height- and length-adjustable, and just need to place the flat base of the railing between the mattress and the bed frame to ensure a secure & stable fit.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "161265",
     "name": "Moon boot",
     "description": "Size medium adult moon boot. Excellent condition. Barely used. Very clean. Only used for 2 days.",
@@ -627,13 +561,46 @@
     "category": "Medical Aids"
   },
   {
-    "id": "161445",
-    "name": "BION WHEELCHAIR 18\"",
-    "description": "The Bion iLight Detachable Wheelchair is a fully detachable model which is both lightweight and comfortable, suitable for longer sittings. The detachable armrests allow for easy transfer, while the removable footrests allow the wheelchair to fit easily into car boots.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
+    "id": "161466",
+    "name": "Commode",
+    "description": "For hygiene purpose, will change the seat and all necessary parts to new ones, where available.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "See photo",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161465",
+    "name": "Geriatric Chair",
+    "description": "In good condition.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "See photo",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161464",
+    "name": "Hospital Bed",
+    "description": "It comes with air-mattress. The seller will check the condition of bed, transport and install.",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": "See photo",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161456",
+    "name": "HOSPITAL BED (WITHOUT MATTRESS)",
+    "description": "HOSPITAL BED WITHOUT MATTRESS",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "12 Nov 2026",
     "ageInYears": 2,
-    "dimensions": "39\" L x 26\" W x 35.4\" H",
+    "dimensions": "82.6\" X 38\" X 17\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -733,28 +700,6 @@
     "validTill": "01 Nov 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160990",
-    "name": "IKEA Loft bed",
-    "description": "2 sets of IKEA  loft bed frame with table attached. Bed frame and table need to be dismantled to allow it to leave the room.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "28 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "160757",
-    "name": "Inkjet Printer Scanner copier",
-    "description": "Brother Color MFP (Printer, Scanner, Copier) with free refill bottle. \nPlease arrange self pickup if outside of Pasir Ris/Tampines/Punggol",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "21 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "44cm x 34cm x 15cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },

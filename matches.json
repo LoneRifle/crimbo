@@ -1,5 +1,39 @@
 [
   {
+    "id": "161430",
+    "category": "Infant and Children Items",
+    "name": "Baby milk bottle",
+    "description": "Baby is an ex-premature (born at 29 weeks gestation). She had just been discharged. Family of 3 faces severe financial difficulties. Father is the sole breadwinner working as a cleaner, mother is not able to work due to caregiving responsibility.",
+    "specifications": null,
+    "contact": {
+      "org": "KK Women's &amp; Children's Hospital - Medical Social",
+      "name": "Cheryl Chew",
+      "email": "cheryl.chew@kkh.com.sg",
+      "phone": [
+        "63942407",
+        "62255554"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161454",
+          "name": "Baby milk bottles",
+          "description": "Clean baby bottles, used\nPhilips avent and Pigeon",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161173",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -134,40 +168,6 @@
     }
   },
   {
-    "id": "161429",
-    "category": "Mobility Aids",
-    "name": "wheelchair",
-    "description": "client is a senior, has financial difficulties. she needs a wheelchair due to unsteady gaits and has lower limb weakness.",
-    "specifications": null,
-    "contact": {
-      "org": "Thye Hua Kwan Moral Charities",
-      "name": "Penelope Lim",
-      "email": "penelope.lim@thkmc.org.sg",
-      "phone": [
-        "68461228",
-        "63371201"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161445",
-          "name": "BION WHEELCHAIR 18\"",
-          "description": "The Bion iLight Detachable Wheelchair is a fully detachable model which is both lightweight and comfortable, suitable for longer sittings. The detachable armrests allow for easy transfer, while the removable footrests allow the wheelchair to fit easily into car boots.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "12 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "39\" L x 26\" W x 35.4\" H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161428",
     "category": "Mobility Aids",
     "name": "walking frame",
@@ -196,6 +196,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161448",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Client is a single mother of 3 kids and full-time caregiver for youngest daughter diagnosed with austism. The family is dependent on SSO ComCare assistance and is not able to financially afford a new cupboard. The family would appreciate a kind donation of a wardrobe (new or preloved) to better organise their items.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Norlizawati Binte Hamid",
+      "email": "norlizawati@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "13 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161399",
+          "name": "PC and standing wardrobe",
+          "description": "-",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "11 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
