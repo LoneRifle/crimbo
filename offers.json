@@ -44,6 +44,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "161438",
+    "name": "LG 32inch TV",
+    "description": "Only for wall mount. Misplace the TV leg to support the TV independently.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "22 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "32inch",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161437",
+    "name": "LG Refridgerator",
+    "description": "Relatively new fridge and clean.",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": "780mm x 750mm x 1850mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "161399",
     "name": "PC and standing wardrobe",
     "description": "-",
@@ -55,29 +77,7 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161397",
-    "name": "standing fan",
-    "description": "self collection at amk",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "11 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "161279",
-    "name": "Powerpac digital air fryer",
-    "description": "Good to use and in good condition. Blessing as bought another one. Self collection",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "161278",
+    "id": "161436",
     "name": "DESK FAN",
     "description": "FAN cannot swivel but still works with 3 speeds.Senior retiree has no means to deliver or pay for delivery fee. Self collect if acceptable.",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -99,13 +99,46 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161413",
-    "name": "White Shoe Cabinet",
-    "description": "White shoe cabinet with sliding doors, 6 shelves, glass top",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "30 Oct 2026",
+    "id": "161439",
+    "name": "Mattresses",
+    "description": "I have 2 single mattresses and 1 foldable mattress. All 3 are single size",
+    "location": "Farrer Park, Little India, Serangoon Road",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "91cm x 190cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161426",
+    "name": "High Table",
+    "description": "High table made of metal. Can be used as Standing Desk",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "12 Nov 2026",
     "ageInYears": 3,
-    "dimensions": "125cm X 40cm X 102cm",
+    "dimensions": "135*70*110cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161416",
+    "name": "IKEA Kids extendable bed in white (BUSUNGE))",
+    "description": "kids extendable bed",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "138cm x 90cm x 100cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161414",
+    "name": "Sofa",
+    "description": "fabric sofa. covers all detachable. can wash.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "18 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "250cm x 100cm x 74cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -374,6 +407,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "161418",
+    "name": "King size mattress and bedframe",
+    "description": "King size mattress and bedreame",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "22 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "160844",
     "name": "Lounge chair",
     "description": "Lounge chair. Adjustable backrest. Can lay flat",
@@ -484,17 +528,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161200",
-    "name": "Kitchen Wares",
-    "description": "Unused Items",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "05 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "161198",
     "name": "Kitchen Wares",
     "description": "Unused Items",
@@ -592,6 +625,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "161445",
+    "name": "BION WHEELCHAIR 18\"",
+    "description": "The Bion iLight Detachable Wheelchair is a fully detachable model which is both lightweight and comfortable, suitable for longer sittings. The detachable armrests allow for easy transfer, while the removable footrests allow the wheelchair to fit easily into car boots.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": "39\" L x 26\" W x 35.4\" H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161444",
+    "name": "WALKING FRAME",
+    "description": "BRAND NEW",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "161319",
