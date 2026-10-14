@@ -168,6 +168,40 @@
     }
   },
   {
+    "id": "161471",
+    "category": "Electrical Home Appliances",
+    "name": "Printer",
+    "description": "Family of five has three school-going children who requires a printer for the children's school work. Father is the sole breadwinner as mother has multiple health issues.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Red Cross Society",
+      "name": "Noor Fathullah Bin Mazlan",
+      "email": "casework@redcross.sg",
+      "phone": [
+        "96398415",
+        "66640500"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161207",
+          "name": "Printer ink cartridge",
+          "description": "Canon Pixma 770 and 771.",
+          "location": null,
+          "validTill": "05 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Learning Aids"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161428",
     "category": "Mobility Aids",
     "name": "walking frame",
