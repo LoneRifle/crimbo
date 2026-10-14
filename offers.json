@@ -44,17 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "161438",
-    "name": "LG 32inch TV",
-    "description": "Only for wall mount. Misplace the TV leg to support the TV independently.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "22 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "32inch",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "161399",
     "name": "PC and standing wardrobe",
     "description": "-",
@@ -66,9 +55,42 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161450",
-    "name": "3-seater sofa",
-    "description": "3-seater fabric sofa with 2 small pillows",
+    "id": "161477",
+    "name": "Hitachi Fridge",
+    "description": "Hitachi Fridge in White",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": "75cm x 71cm x 183cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161482",
+    "name": "Dining Chair",
+    "description": "We have 4 new dining chairs (Khaki). Letting go because it's small for us. Please refer to the shopee link for the chair dimension.\n\nhttps://sg.shp.ee/HE5M1xJz",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": "39cm(L) x 45cm(W) x 74cm(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161478",
+    "name": "Queen Size Mattress & Bedframe",
+    "description": "Queen size mattress and bedframe in the guest room, which is rarely used, hence condition almost pristine. Needed to sell to welcome a new baby, hence clearing the guest room to turn into nursery. Good quality thick Maxcoil mattress that was bought at $599, bedframe with headboard bought from Hipvan at $199. Will include 1 bolster, 1 duvet, and 2 bedsheet sets with duvet cover if you don’t mind to take it!",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "13 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161489",
+    "name": "2 seater sofa",
+    "description": "2 seater fabric sofa with 2 small pillows",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "12 Nov 2026",
     "ageInYears": 3,
@@ -143,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161362",
-    "name": "Study table",
-    "description": "Well-maintained study table.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "10 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "120x60x75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161360",
     "name": "Teak dining chairs",
     "description": "Chairs may need lacquering",
@@ -172,28 +183,6 @@
     "validTill": "10 Nov 2026",
     "ageInYears": 4,
     "dimensions": "1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161351",
-    "name": "Child's bed and mattress",
-    "description": "Ikea extendable children bed frame and mattress. Good condition.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "80cm x 200cm x 90cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161349",
-    "name": "Dresser with seat",
-    "description": "All still working well",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -495,17 +484,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "161475",
-    "name": "foot massager",
-    "description": "electric foot massager",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "31 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "161361",
     "name": "Tread Mill",
     "description": "Tread Mill for young adult. Seldom use.",
@@ -583,6 +561,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "161486",
+    "name": "Orange Color Wheel Chair",
+    "description": "Manual wheelchair in good working condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "13 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "161466",
     "name": "Commode",
     "description": "For hygiene purpose, will change the seat and all necessary parts to new ones, where available.",
@@ -612,6 +601,17 @@
     "validTill": "31 Oct 2026",
     "ageInYears": 3,
     "dimensions": "See photo",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161491",
+    "name": "WHEEL CHAIR",
+    "description": "WHEEL CHAIR",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -691,6 +691,17 @@
     "dimensions": "82” height by 32” width by 20” height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "161483",
+    "name": "Hospital bed and chair",
+    "description": "Hospital bed and chair",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "21 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "161396",
