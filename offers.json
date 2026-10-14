@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "161498",
+    "name": "vacuum cleaner",
+    "description": "bosch bagless vacuum cleaner",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "31 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "161399",
     "name": "PC and standing wardrobe",
     "description": "-",
@@ -51,17 +62,6 @@
     "validTill": "11 Nov 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "161477",
-    "name": "Hitachi Fridge",
-    "description": "Hitachi Fridge in White",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "75cm x 71cm x 183cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -242,39 +242,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161259",
-    "name": "Wooden Coffee Table with Rounded Edges 107cm x 53cm",
-    "description": "Wooden Coffee Table with Rounded Edges 107cm x 53cm.\nhave some scratches.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "107cm x 53cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161258",
-    "name": "Reclining Armchair - Dark Red- Manual Recliner Arm Chair",
-    "description": "manual reclining arm chair",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "not sure",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161253",
-    "name": "King Bed Frame with Drawer Storage",
-    "description": "kids bed frame house shape without top fabric.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 3,
-    "dimensions": "197cm x 97cm x 136cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161199",
     "name": "Ikea sit-stand desk",
     "description": "This is a sit-stand desk whose height is adjustable from 70cm to 120cm so the user can sit or stand while using it. It's manually operated by cranking a handle. The table top is slightly worn but the table is in working condition. (the photo above is taken from the ikea website)",
@@ -282,28 +249,6 @@
     "validTill": "31 Oct 2026",
     "ageInYears": 4,
     "dimensions": "160cm x 80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161114",
-    "name": "Gaming/computer chair",
-    "description": "white IKEA gaming computer chair",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "124 height-63 width",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161112",
-    "name": "Wooden IKEA Table outdoor",
-    "description": "it is a wooden slat outdoor table but can be used indoors as well. Very good condition.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "140x75",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -336,17 +281,6 @@
     "location": "Boon Lay, Jurong, Tuas",
     "validTill": "28 Oct 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160954",
-    "name": "Low folding bed",
-    "description": "2 nos. Low profile folding bed.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -473,6 +407,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "161497",
+    "name": "Bread machine",
+    "description": "https://www.panasonic.com/sg/consumer/kitchen-appliance/bread-preparation/bread-maker/sd-p104.html?srsltid=AU7gw4XF2cu1tvmOY2ZFfpv7Ih5_MW_FzSOjqJo1VI2z8HrvsNC-bX_g",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "20 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "160994",
     "name": "Cups",
     "description": "Quite a lot of cups to donate, all unused",
@@ -502,17 +447,6 @@
     "validTill": "29 Oct 2026",
     "ageInYears": 4,
     "dimensions": "49\"x30\"x27.5\"\" tall when folded. Running pad 59\" when open",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
-    "id": "160955",
-    "name": "Electric keyboard",
-    "description": "Electric keyboard",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
   },
@@ -559,6 +493,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "161501",
+    "name": "Homecare chair with meal tray",
+    "description": "This chair can be used for resting, while eating a meal and watching television.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161500",
+    "name": "Commode chair",
+    "description": "The commode chair has not been used before.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161499",
+    "name": "Wheel Chair",
+    "description": "The wheel chair is seldom used and in good condition.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "28 Oct 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "161486",
