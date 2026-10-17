@@ -135,39 +135,6 @@
     }
   },
   {
-    "id": "160689",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is currently engaged in part-time employment while pursuing a training course to upgrade her skills. She is facing significant financial hardship. She is unable to sustain her employment due to a recent toe amputation and potentially another one on the other foot. The combined pressure of healthcare costs and lack of income has exhausted the family's resources. She is hoping for any kind individuals to donate items like a laptop as it is a requirement for her educational needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Sep 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "160750",
-          "name": "Samsonite Laptop Backpack brand new",
-          "description": "Brand new, company logo at the bottom\nCan deliver to needy if in Tampines / Simei area",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "19 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161528",
     "category": "Others",
     "name": "Air Purifier",
@@ -366,40 +333,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161516",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Treadmill",
-    "description": "Client would require a treadmill to assist with losing weight for her her swollen ankles. She is also caring for her child with special needs. (HW)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161010",
-          "name": "Used Treadmill",
-          "description": "Used treamill. Still working but no longer used due to busy schedule.",
-          "location": "Boon Lay, Jurong, Tuas",
-          "validTill": "29 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "49\"x30\"x27.5\"\" tall when folded. Running pad 59\" when open",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
@@ -632,6 +565,40 @@
           "dimensions": "220X133.5X187CM",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161516",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Treadmill",
+    "description": "Client would require a treadmill to assist with losing weight for her her swollen ankles. She is also caring for her child with special needs. (HW)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Low Kim Yong",
+      "email": "lowkimyong@thkmc.org.sg",
+      "phone": [
+        "81883314",
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161010",
+          "name": "Used Treadmill",
+          "description": "Used treamill. Still working but no longer used due to busy schedule.",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "29 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": "49\"x30\"x27.5\"\" tall when folded. Running pad 59\" when open",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
