@@ -1,5 +1,39 @@
 [
   {
+    "id": "161632",
+    "category": "Infant and Children Items",
+    "name": "Milk",
+    "description": "Client is a single mother caring for her infant baby while transitioning into a new rental flat. As she is currently not working due to her caregiving responsibilities, she is facing financial constraints, especially after using much of her available funds to purchase essential household items for the new home.\n\nHer SSVP referral is still in progress, and interim support would help ease the financial pressure while she awaits further assistance.\n\nWe are hoping to source Dulac Stage 1 infant formula milk to help support the family.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+      "name": "Nurul Adryana Abu Bakar",
+      "email": "nuruladryana@allkin.org.sg",
+      "phone": [
+        "60384270",
+        "60384100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161454",
+          "name": "Baby milk bottles",
+          "description": "Clean baby bottles, used\nPhilips avent and Pigeon",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "12 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161430",
     "category": "Infant and Children Items",
     "name": "Baby milk bottle",
@@ -28,6 +62,73 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161634",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family of 8 requires a 2-door wardrobe to store their clothing and personal belongings, as their current storage space may be insufficient to meet the needs of all family members. We would appreciate any support in providing a suitable wardrobe for the family.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Kee Ru Wei",
+      "email": "keeruwei@fycs.org",
+      "phone": [
+        "63519525",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161399",
+          "name": "PC and standing wardrobe",
+          "description": "-",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "11 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161558",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Client resides in a household of 5 members, comprising a single mother and her 4 school-going children. Client is requesting assistance with a small dining table and chairs that can accommodate 4 persons, as the family's current dining set is no longer in good condition for use. Due to the family's limited financial resources, client is unable to afford the purchase of a replacement dining table. As such, client is seeking assistance through donated furniture items to provide her children with a proper and conducive space to have their meals together at home.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Nur Azzah Mas Andi Syah",
+      "email": "nurazzah@carecorner.org.sg",
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161622",
+          "name": "IKEA dining table and 4 chairs",
+          "description": "Table: 130 x 78 x 74\n4 chairs each: length 41cm x height 81cm\n\nFor pick up ONLY on 10 Dec 2026, in the late afternoon to be arranged",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "18 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "130 x 78 x 74",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -399,106 +500,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161605",
-    "category": "Mobility Aids",
-    "name": "Hospital bed",
-    "description": "Client's mother recently had a fall, requiring surgery. Her mother is currently in a nursing home and is expected to be discharged soon. (Su)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161611",
-          "name": "Hospital Bed",
-          "description": "- Two wheels cannot be unlocked, however no issues using the bed at home for adjusting the bed position for several inches.\n\n- Comes with a calling bell (Set up by previous patient's family manually)",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "18 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "161464",
-          "name": "Hospital Bed",
-          "description": "It comes with air-mattress. The seller will check the condition of bed, transport and install.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": "See photo",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "161456",
-          "name": "HOSPITAL BED (WITHOUT MATTRESS)",
-          "description": "HOSPITAL BED WITHOUT MATTRESS",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "12 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "82.6\" X 38\" X 17\"",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "160812",
-          "name": "Hospital bed with mattress and remote control",
-          "description": "Used hospital bed with wired remote control, light stains on bed mattress",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 4,
-          "dimensions": "82” height by 32” width by 20” height",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "161483",
-          "name": "Hospital bed and chair",
-          "description": "Hospital bed and chair",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "21 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        },
-        {
-          "id": "161319",
-          "name": "Hospital Electric Bed",
-          "description": "This Electric Hospital Bed used for less than 1 year for my late Uncle whom passed on. The condition is well maintained and comes with mattress adjustable pump. Attached photos are taken with each parts carefully wrapped properly to prevent dust or dirt on it. Self-Collection from Bishan. PM me. Thank you",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "31 Oct 2026",
-          "ageInYears": 1,
-          "dimensions": "200 cm x 100 cm x 90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "160851",
-          "name": "T-Motion Electric Hospital Bed with Remote Control",
-          "description": "4-function electric hospital / nursing care bed in good working condition, suitable for elderly care, home nursing, post-surgery recovery or long-term care.\n\nFeatures include:\n\nElectric backrest adjustment\nElectric leg/knee adjustment\nElectric bed height adjustment\nCombined contour positioning\nTiMOTION electric actuator system\nTiMOTION TBB2 backup battery\n4 safety side rails\nHeavy-duty castor wheels with brakes\nMattress included\nRemote control included\n\nBed is solid and suitable for home-care use.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "22 Oct 2026",
-          "ageInYears": 2,
-          "dimensions": "204 cm x 95 cm 40 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []

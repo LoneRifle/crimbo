@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "161625",
+    "name": "Ikea bedside lamps 2 qty",
+    "description": "IKEA Bedside lamps x2 \n(‘Strala’ lamp base/ ‘Skottorp’ \nlamp shade)",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "161554",
     "name": "Air Water Purifiers",
     "description": "1 brand new,\n4 lightly used",
@@ -64,6 +75,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161622",
+    "name": "IKEA dining table and 4 chairs",
+    "description": "Table: 130 x 78 x 74\n4 chairs each: length 41cm x height 81cm\n\nFor pick up ONLY on 10 Dec 2026, in the late afternoon to be arranged",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": "130 x 78 x 74",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161620",
+    "name": "Muji low table",
+    "description": "For pick up ONLY on one date 10 Dec 2026, in the afternoon to be arranged",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": "90 x 45 x 35",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "161619",
+    "name": "Ikea ‘Kivik’ 2-seat sofa",
+    "description": "Pick up ONLY on one particular date - 10 Dec 2026, in the afternoon to be arranged.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": "95 x 190 x 83",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "161616",
@@ -121,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161596",
-    "name": "Office / Study chair",
-    "description": "Chair for office or study",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "17 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161595",
     "name": "ScanTeak teak table and 4 chairs for garden",
     "description": "More than 4 years old. Looking good and sturdy. Needs varnishing. May I have a quotation for the COLLECTION FEES please first, before deciding.",
@@ -165,17 +198,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161589",
-    "name": "IKEA coffee table",
-    "description": "IKEA coffee table.  Some scratches on the surface but still in usable condition.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "14 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "90 cm x 55 cm x 45 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161588",
     "name": "Namu Maverick Storage Bed Frame + Sealy Mattress",
     "description": "Ezterior 183 x 196 x 95 (cm), Interior Size for mattress is 183 x 191 (cm)\nHeight from floor to platform (Where the mattress lay): 30cm\nEco Friendly Engineered Wood",
@@ -194,17 +216,6 @@
     "validTill": "31 Oct 2026",
     "ageInYears": 1,
     "dimensions": "180 x 92 x 76",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161581",
-    "name": "Extendable Ikea Child Bedframe with Mattress",
-    "description": "Very Clear and very new. No defeat",
-    "location": null,
-    "validTill": "20 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "125(extendable to 195) x 102 x 71",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -451,17 +462,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161503",
-    "name": "Yoyozen stroller",
-    "description": "Well used but in very good condition. Infant pack also available.",
-    "location": null,
-    "validTill": "31 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "161470",
     "name": "Baby Cot and Mattress",
     "description": "Joie Commuter Baby Travel Cot, foldable and space-saving, making it ideal for both home use and travel. Suitable for newborns up to 2-3 years old, with a weight capacity of up to 15 kg. Features mesh-lined panels on all four sides for excellent breathability and visibility.",
@@ -583,6 +583,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "161628",
+    "name": "Suction pump",
+    "description": "Suction pump and catherters. New tubes used for less than 1 month.  Clean.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "161613",
     "name": "Shower chair",
     "description": "- Water proof wheel chair use for taking shower at home\n- Comes with a handheld bucket",
@@ -625,6 +636,83 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "161639",
+    "name": "Commode",
+    "description": "Foldable Commode",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161638",
+    "name": "Foldable Wheelchair",
+    "description": "Foldable wheelchair",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161637",
+    "name": "Hospital Bed",
+    "description": "Electric hospital bed.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161636",
+    "name": "Foldable Wheelchair",
+    "description": "Bion foldable wheelchair",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161629",
+    "name": "Hoist for bedbound pt",
+    "description": "Hoist for bedbound patients transfer. Can learn usage through you tube video",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161635",
+    "name": "Geri Chair",
+    "description": "Geri chair with safety belt",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "18 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "161626",
+    "name": "Hospital bed",
+    "description": "Electric hospital bed + air pressure mattress",
+    "location": null,
+    "validTill": "18 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": "220 × 100 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "161466",
