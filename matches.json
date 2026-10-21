@@ -68,6 +68,129 @@
     }
   },
   {
+    "id": "161697",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "A family of four, including a three-year-old and an infant, recently moved into a two-room rental flat. One parent is the sole breadwinner, working as a delivery person while providing care, while the other parent is currently incarcerated. The flat is rather empty, with only a few pieces of furniture.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Boon Lay",
+      "name": "Celene Ng",
+      "email": "celene_ng@msf.gov.sg",
+      "phone": [
+        "67367545",
+        "68678580"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161702",
+          "name": "2-seater Sofa Bed",
+          "description": "Sofa bed is in good condition and is well maintain by the stay alone elderly female.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161674",
+          "name": "Cream L-Shaped Sectional Sofa with Chaise Lounge",
+          "description": "L 200 x D 100 (seat depth 60) x H 100 cm.\nL 100 x D 190 (seat depth 150) x H 100cm.\nFabric upholstery.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "02 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161619",
+          "name": "Ikea ‘Kivik’ 2-seat sofa",
+          "description": "Pick up ONLY on one particular date - 10 Dec 2026, in the afternoon to be arranged.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "18 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "95 x 190 x 83",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161695",
+    "category": "Home Furnishing",
+    "name": "Coffee Table",
+    "description": "A family of four, including a three-year-old and an infant, recently moved into a two-room rental flat. One parent is the sole breadwinner, working as a delivery person while providing care, while the other parent is currently incarcerated. The flat is rather empty, with only a few pieces of furniture.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Boon Lay",
+      "name": "Celene Ng",
+      "email": "celene_ng@msf.gov.sg",
+      "phone": [
+        "67367545",
+        "68678580"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161353",
+          "name": "Coffee table",
+          "description": "It usuable and quite new",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "10 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "1m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "160993",
+          "name": "Coffee Table",
+          "description": "Coffee table\n- wood\n- dark color\n- bottom tier able to put newspaper etc",
+          "location": "Boon Lay, Jurong, Tuas",
+          "validTill": "28 Oct 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161590",
+          "name": "IKEA small coffee table",
+          "description": "IKEA small coffee table.  Usable condition. Small scratches at the side only.  I have 2 such small tables.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "17 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "60 cm x 55 cm x 55 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161683",
+          "name": "Lorenzo Tempered Glass Coffee Table with 2 Drawers",
+          "description": "Heavy, will require 2 people to carry.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "02 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "L 110 x D 60 x H 40 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161670",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -85,6 +208,17 @@
     "date": "20 Oct 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "161702",
+          "name": "2-seater Sofa Bed",
+          "description": "Sofa bed is in good condition and is well maintain by the stay alone elderly female.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "161674",
           "name": "Cream L-Shaped Sectional Sofa with Chaise Lounge",
@@ -171,6 +305,39 @@
           "validTill": "17 Nov 2026",
           "ageInYears": 4,
           "dimensions": "60 cm x 55 cm x 55 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161140",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Client resides in a household of 10 members - 3 adults and 7 school-going children. Client requests for 2 single sofa beds for her daughters, as their existing mattresses are worn out and no longer in good condition for use. Due to their income, they do not have sufficient funds to purchase new ones. As such, client is seeking assistance through donated furniture items to meet her daughters' sleeping needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Nur Azzah Mas Andi Syah",
+      "email": "nurazzah@carecorner.org.sg",
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161702",
+          "name": "2-seater Sofa Bed",
+          "description": "Sofa bed is in good condition and is well maintain by the stay alone elderly female.",
+          "location": "Admiralty Drive, Sembawang, Yishun",
+          "validTill": "15 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
