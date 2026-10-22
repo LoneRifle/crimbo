@@ -169,39 +169,6 @@
     }
   },
   {
-    "id": "161140",
-    "category": "Home Furnishing",
-    "name": "Sofa Bed",
-    "description": "Client resides in a household of 10 members - 3 adults and 7 school-going children. Client requests for 2 single sofa beds for her daughters, as their existing mattresses are worn out and no longer in good condition for use. Due to their income, they do not have sufficient funds to purchase new ones. As such, client is seeking assistance through donated furniture items to meet her daughters' sleeping needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Admiralty",
-      "name": "Nur Azzah Mas Andi Syah",
-      "email": "nurazzah@carecorner.org.sg",
-      "phone": [
-        "63658751"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161721",
-          "name": "2-seater Sofa Bed",
-          "description": "Sofa bed is in good condition and is well maintain by the stay alone elderly female.",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "15 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161689",
     "category": "Electrical Home Appliances",
     "name": "Standing Fan",
@@ -221,7 +188,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -254,7 +221,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -287,7 +254,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -320,7 +287,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -387,7 +354,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -421,7 +388,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -454,7 +421,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "161732",
+          "id": "161738",
           "name": "Standing Fan",
           "description": "powerful standing fan.",
           "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
@@ -497,6 +464,40 @@
           "dimensions": "49\"x30\"x27.5\"\" tall when folded. Running pad 59\" when open",
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161754",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "client is staying with her spouse, he has unsteady gaits, lower limb weakness, requires wheelchair to better support him in the community;",
+    "specifications": null,
+    "contact": {
+      "org": "Thye Hua Kwan Moral Charities",
+      "name": "Penelope Lim",
+      "email": "penelope.lim@thkmc.org.sg",
+      "phone": [
+        "68461228",
+        "63371201"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161636",
+          "name": "Foldable Wheelchair",
+          "description": "Bion foldable wheelchair",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "18 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
