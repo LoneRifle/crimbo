@@ -44,6 +44,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "161733",
+    "name": "Portable air cooler",
+    "description": "Mistral brand \nMode: Natural, Normal Fan or Sleep\nFlexibility to add ice pack to back compartment for cool air",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "21 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "11x12x27 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "161732",
+    "name": "Standing Fan",
+    "description": "powerful standing fan.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "21 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "161625",
     "name": "Ikea bedside lamps 2 qty",
     "description": "IKEA Bedside lamps x2 \n(‘Strala’ lamp base/ ‘Skottorp’ \nlamp shade)",
@@ -66,7 +88,7 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "161702",
+    "id": "161721",
     "name": "2-seater Sofa Bed",
     "description": "Sofa bed is in good condition and is well maintain by the stay alone elderly female.",
     "location": "Admiralty Drive, Sembawang, Yishun",
@@ -117,28 +139,6 @@
     "validTill": "02 Nov 2026",
     "ageInYears": 4,
     "dimensions": "L 50 x D 50 x H 60 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161674",
-    "name": "Cream L-Shaped Sectional Sofa with Chaise Lounge",
-    "description": "L 200 x D 100 (seat depth 60) x H 100 cm.\nL 100 x D 190 (seat depth 150) x H 100cm.\nFabric upholstery.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "02 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161668",
-    "name": "Queen Bed with Mattress",
-    "description": "Faux Leather Queen Bed Frame with Seahorse Brand Foam Queen-size Mattress 7 inches thick. Bed frame is low without legs. Mattress professionally cleaned today.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "13 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -205,17 +205,6 @@
     "validTill": "05 Nov 2026",
     "ageInYears": 4,
     "dimensions": "210 x 90 x 77",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161607",
-    "name": "Baby cot bed and mattress",
-    "description": "White wooden baby cot bed with mattress",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "18 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -330,17 +319,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161506",
-    "name": "Study Table",
-    "description": "Ikea small compact study table. Not used much.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "22 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161482",
     "name": "Dining Chair",
     "description": "We have 4 new dining chairs (Khaki). Letting go because it's small for us. Please refer to the shopee link for the chair dimension.\n\nhttps://sg.shp.ee/HE5M1xJz",
@@ -392,17 +370,6 @@
     "validTill": "10 Nov 2026",
     "ageInYears": 4,
     "dimensions": "1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161343",
-    "name": "Gaming Chair",
-    "description": "Used for a month. Condition is still very new.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "31 Oct 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -462,28 +429,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160844",
-    "name": "Lounge chair",
-    "description": "Lounge chair. Adjustable backrest. Can lay flat",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "22 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160804",
-    "name": "Ikea fabric office chair",
-    "description": "Ikea office chair. Bought a few years ago but seldom used. Still in good condition but fabric is a bit stained, maybe from jeans rubbing against it (it's not mould)",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161617",
     "name": "Toddler cot mattress (no cot) and bedding, toddler pillow and pillow case",
     "description": "Toddler cot mattress (no cot) \nNot pictured: cot bedding, toddler pillow and pillow cases",
@@ -502,17 +447,6 @@
     "validTill": "18 Nov 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "161470",
-    "name": "Baby Cot and Mattress",
-    "description": "Joie Commuter Baby Travel Cot, foldable and space-saving, making it ideal for both home use and travel. Suitable for newborns up to 2-3 years old, with a weight capacity of up to 15 kg. Features mesh-lined panels on all four sides for excellent breathability and visibility.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "13 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "100cm x 80cm x 110cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -649,6 +583,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "161711",
+    "name": "Homecare / hospital bed",
+    "description": "Removable rails not obvious in the photo ; \nhardly used; kept in storage",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "212 x 100 cm ( see photo of details )",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "161677",
     "name": "Pushchair",
     "description": "Pushchair model - Lifeline 65/0709/16\n10 month old\nAttached picture only shows model",
@@ -777,28 +722,6 @@
     "validTill": "03 Nov 2026",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "160851",
-    "name": "T-Motion Electric Hospital Bed with Remote Control",
-    "description": "4-function electric hospital / nursing care bed in good working condition, suitable for elderly care, home nursing, post-surgery recovery or long-term care.\n\nFeatures include:\n\nElectric backrest adjustment\nElectric leg/knee adjustment\nElectric bed height adjustment\nCombined contour positioning\nTiMOTION electric actuator system\nTiMOTION TBB2 backup battery\n4 safety side rails\nHeavy-duty castor wheels with brakes\nMattress included\nRemote control included\n\nBed is solid and suitable for home-care use.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "204 cm x 95 cm 40 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "160812",
-    "name": "Hospital bed with mattress and remote control",
-    "description": "Used hospital bed with wired remote control, light stains on bed mattress",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "82” height by 32” width by 20” height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
