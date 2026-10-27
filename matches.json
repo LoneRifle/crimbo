@@ -235,6 +235,40 @@
     }
   },
   {
+    "id": "161830",
+    "category": "Home Furnishing",
+    "name": "Bed and mattress",
+    "description": "2 elderly brothers live together in a 2-room HDB rental flat. They are single with no children, and no committed caregiver. Due to low income, they do not have a bed frame to sleep on and this can pose fall risk or challenges for them when they lie down to sleep or to get up from the floor. Hence, it is helpful for them to have a metal bedframe with mattress each.",
+    "specifications": null,
+    "contact": {
+      "org": "NTUC Health Co-operative Limited",
+      "name": "Zoe Lee",
+      "email": "zoe.l1@ntuchealth.sg",
+      "phone": [
+        "94552166",
+        "67156715"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161617",
+          "name": "Toddler cot mattress (no cot) and bedding, toddler pillow and pillow case",
+          "description": "Toddler cot mattress (no cot) \nNot pictured: cot bedding, toddler pillow and pillow cases",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "18 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Infant and Children Items"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161826",
     "category": "Home Furnishing",
     "name": "Sofa bed",
@@ -261,6 +295,40 @@
           "validTill": "31 Oct 2026",
           "ageInYears": 3,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161820",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Family of 3 with a 5yo child with developmental delays residing in a 2-room HDB rental flat. Father is the sole breadwinner while mother is a housewife. Income is inadequate and the family has been facing challenges furnishing their home since they moved into their rental unit late-2025.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Venus Tang",
+      "email": "venus_tang@msf.gov.sg",
+      "phone": [
+        "65139140",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161833",
+          "name": "Solid wood dining Table",
+          "description": "Good condition solid wood dining table to be given away.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "06 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "145 cm x 85cm x 75cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -681,6 +749,74 @@
     }
   },
   {
+    "id": "161778",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "The mother is the sole breadwinner of her family, supporting her retired husband, aged 67, and their 19-year-old son, who is currently pursuing his studies at NAFA. As the cleaning company she works for will be closing down next year, she will need to switch to doing Grab delivery to continue providing for her family. She is hoping to receive a bicycle to help her get started as a delivery rider. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161832",
+          "name": "Foldable Bicycle",
+          "description": "Bicycle",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "25 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161714",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Family with divorced parents, and 6 children, with ongoing financial struggles due to single income from mum. Her eldest daughter is hoping to acquire a bicycle so that she can use that to do grab deliveries to help support family's finances.",
+    "specifications": "Bigger bicycle as rider is on the bigger side. Big enough to put the grab box behind.",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Chua Wen Hui Joanne",
+      "email": "joannechua@fycs.org",
+      "phone": [
+        "64162167",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161832",
+          "name": "Foldable Bicycle",
+          "description": "Bicycle",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "25 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161516",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Treadmill",
@@ -707,6 +843,40 @@
           "validTill": "29 Oct 2026",
           "ageInYears": 4,
           "dimensions": "49\"x30\"x27.5\"\" tall when folded. Running pad 59\" when open",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161257",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Youth with financial difficulties who needs bicycle to start part time job - for independence",
+    "specifications": null,
+    "contact": {
+      "org": "Trybe Limited",
+      "name": "Nadiah Binte Abdul Razak",
+      "email": "nadiah.razak@trybe.org",
+      "phone": [
+        "-",
+        "67841481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161832",
+          "name": "Foldable Bicycle",
+          "description": "Bicycle",
+          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+          "validTill": "25 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
         }
