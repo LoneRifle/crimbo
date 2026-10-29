@@ -201,202 +201,78 @@
     }
   },
   {
-    "id": "161903",
+    "id": "161939",
     "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "This family of 5 with parents are currently facing financial difficulties, including an outstanding housing loan. They have since secured jobs as delivery riders while continuing to seek full-time employment. In the meantime, the family continues to rely on ComCare assistance to meet their basic needs. They hope to receive household storage furniture to organise their clothing and personal belongings, improve home organisation, and ease their financial burden during this challenging period.",
-    "specifications": null,
+    "name": "Mattress",
+    "description": "Client is an elderly senior who requires a single-size mattress as he is moving into a new rental flat. If able to donate, kindly contact Dinie at 82922215. Thank you.",
+    "specifications": "91cm x 190cm",
     "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
+      "org": "THK CCMS @ AMK",
+      "name": "Nur Dinie Izzati Binte Yaziz",
+      "email": "NurDinie.Izzati@thkmc.org.sg",
       "phone": [
-        "69783108",
-        "62672900"
+        "69240367",
+        "65564833"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
+    "date": "29 Oct 2026",
     "matches": {
       "passiton": [
         {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
+          "id": "161804",
+          "name": "King mattress with frame",
+          "description": "In good condition",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
+          "validTill": "25 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": "Standard King",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161923",
+          "name": "King size mattress",
+          "description": "Excellent condition",
+          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+          "validTill": "28 Nov 2026",
+          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161877",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "The client is a low-income individual who lives alone in her flat. She has been unemployed for many years due to her medical conditions and relies on government assistance to meet her daily living expenses. She is currently in need of sofa for her home.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161857",
-          "name": "Reclinable Sofa",
-          "description": "Almost new grey fabric sofa and is fully reclinable. It is a five seater sofa with 3 pieces - one 3 seater and two sofas of 1 seat each.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "05 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
         },
         {
-          "id": "161777",
-          "name": "Brown leather sofa",
-          "description": "Large leather sofa",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "22 Nov 2026",
+          "id": "161617",
+          "name": "Toddler cot mattress (no cot) and bedding, toddler pillow and pillow case",
+          "description": "Toddler cot mattress (no cot) \nNot pictured: cot bedding, toddler pillow and pillow cases",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "18 Nov 2026",
           "ageInYears": 4,
-          "dimensions": "3m x 1m x 1m",
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Infant and Children Items"
         },
         {
-          "id": "161861",
-          "name": "3+2 leather recliner sofa",
-          "description": "Well loved leather recliner sofa set, worn but comfy still.",
+          "id": "161789",
+          "name": "Hospital Bed with Mattress",
+          "description": "Please note that transportation will need to be at recipient’s cost. \n\nHospital Bed has hardly been used as patient was mostly hospitalised.",
           "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "26 Nov 2026",
-          "ageInYears": 4,
+          "validTill": "23 Nov 2026",
+          "ageInYears": 1,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Medical Aids"
         },
         {
-          "id": "161793",
-          "name": "Brown 2.5 seater sofa",
-          "description": "8/10 condition 2.5 seater sofa. Lightly used.",
+          "id": "161456",
+          "name": "HOSPITAL BED (WITHOUT MATTRESS)",
+          "description": "HOSPITAL BED WITHOUT MATTRESS",
           "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "23 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
+          "validTill": "12 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": "82.6\" X 38\" X 17\"",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161869",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Family is seeking wardobe to replace their current broken one.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Nur Izzati Binte Kasmuri",
-      "email": "izzati_kasmuri@msf.gov.sg",
-      "phone": [
-        "62319502",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161846",
-    "category": "Home Furnishing",
-    "name": "2 seater sofa",
-    "description": "Family of 3 just moved into their rental flat and looking for a sofa to furnish the flat.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161793",
-          "name": "Brown 2.5 seater sofa",
-          "description": "8/10 condition 2.5 seater sofa. Lightly used.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "23 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161843",
-    "category": "Home Furnishing",
-    "name": "2 seater sofa",
-    "description": "Single mother with one son requires a 2 seater sofa as they currently do not own one.",
-    "specifications": "less than 1.4m in length",
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161793",
-          "name": "Brown 2.5 seater sofa",
-          "description": "8/10 condition 2.5 seater sofa. Lightly used.",
-          "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-          "validTill": "23 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
@@ -431,73 +307,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Infant and Children Items"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161825",
-    "category": "Home Furnishing",
-    "name": "Queen-size mattress",
-    "description": "Solo mother with 7 children requires queen-sized mattress after receiving a donated queen-sized bed. Their old bed frame was broken and sunken, requiring a replacement. Direct delivery to their home in Buona Vista is appreciated.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Fitrah Nabilah",
-      "email": "fitrahnabilah@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161905",
-          "name": "Wooden queen size Bedframe with mattress",
-          "description": "We bought this for guest bedroom but seldom used. Now we would like to convert the guest room to my little girl’s piano room and have to let it go…the bedframe comes with queen size mattress.",
-          "location": null,
-          "validTill": "08 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161717",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Client, F/26, is married with 4 young children (ages 2m - 8y). She is a homemaker and caregiver to her 4 children. The family stays in a 2-room HDB rental flat. There is high stress in this family - spousal conflicts, emotional & mental health struggles, irregular employment and income by husband, and developmental delays in oldest child. The family relies on SSO assistance for their basic needs. A wardrobe would help the family organise and store their clothing and belongings, making it easier to manage their limited living space and caregiving duties.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -560,207 +369,6 @@
     }
   },
   {
-    "id": "161693",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "A family of four, including a three-year-old and an infant, recently moved into a two-room rental flat. One parent is the sole breadwinner, working as a delivery person while providing care, while the other parent is currently incarcerated. The flat is rather empty, with only a few pieces of furniture.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Boon Lay",
-      "name": "Celene Ng",
-      "email": "celene_ng@msf.gov.sg",
-      "phone": [
-        "67367545",
-        "68678580"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161667",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "I would like to seek a wardrobe donation for a client who is a single mother and has recently been laid off from work. She is currently facing financial difficulties while supporting her teenage son. A wardrobe in good, usable condition would help to make their home more comfortable during this challenging period. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161634",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Family of 8 requires a 2-door wardrobe to store their clothing and personal belongings, as their current storage space may be insufficient to meet the needs of all family members. We would appreciate any support in providing a suitable wardrobe for the family.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Kee Ru Wei",
-      "email": "keeruwei@fycs.org",
-      "phone": [
-        "63519525",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161485",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "A single mother with two young children is moving into a rental flat and requires basic furniture and household appliances to set up their new home.\n\nWe are seeking kind donors who may be able to contribute a wardrobe. Any clean and functional wardrobe would be greatly appreciated to help the family settle into their new home.\n\nThank you for your kindness and support.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Muhammamd Farhan Bin Abdul Rahman",
-      "email": "muhdfarhan.abdrahman@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161448",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Client is a single mother of 3 kids and full-time caregiver for youngest daughter diagnosed with austism. The family is dependent on SSO ComCare assistance and is not able to financially afford a new cupboard. The family would appreciate a kind donation of a wardrobe (new or preloved) to better organise their items.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161228",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Client's daughter (F/20)  is the sole breadwinner of the household, supporting client (F/61) and her young son (M/4). Given the family's financial commitments, the daughter has requested assistance in the form of diapers, milk powder, and pre-loved furniture to help reduce household expenses while she remains employed and concurrently pursues part-time studies.(Ama)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Low Kim Yong",
-      "email": "lowkimyong@thkmc.org.sg",
-      "phone": [
-        "81883314",
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161848",
-          "name": "Single wardrobe (pre-loved)",
-          "description": "Small standalone cupboard/wardrobe with full-length mirror, 5-shelves, and 1 drawer (keys included). Lower shelf has a slight stain from a wooden box case. Good and clean condition. I will pay for collection/delivery fee. Dimension: Height (184cm), Width (46cm), Depth (40cm)",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Oct 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161854",
     "category": "Others",
     "name": "Adult diapers",
@@ -795,66 +403,32 @@
     }
   },
   {
-    "id": "161808",
+    "id": "161940",
     "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Club Rainbow (Singapore) is seeking the donation of a refrigerator for our AMK Resilience Hub to support daily living skills training under our Transition Care Plan programme.\n\nThrough guided practice, our clients will learn to store ingredients and prepared meals safely, organise chilled and frozen items, check expiry dates and maintain refrigerator cleanliness. These activities will help build their confidence and independence in managing food at home.\n\nWe welcome a new or pre-loved refrigerator in good working condition, preferably with separate fridge and freezer compartments. As it will be used for halal food storage, any pre-loved unit must have been used exclusively to store halal food.\n\nYour donation will support hands-on learning and help our clients develop essential skills for everyday living. Thank you for supporting their journey towards greater independence.",
+    "name": "Standing Fan",
+    "description": "Client is a senior who requires a standing fan for his rental flat as he just came out of prison. If able to donate, kindly contact Patrick at 8778 8712. Thank you.",
     "specifications": null,
     "contact": {
-      "org": "Club Rainbow (Singapore)",
-      "name": "Nurulhuda Binte Abu Bakar",
-      "email": "nurul@clubrainbow.org",
+      "org": "THK CCMS @ AMK",
+      "name": "Nur Dinie Izzati Binte Yaziz",
+      "email": "NurDinie.Izzati@thkmc.org.sg",
       "phone": [
-        "81336189",
-        "63771789"
+        "69240367",
+        "65564833"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "26 Oct 2026",
+    "date": "29 Oct 2026",
     "matches": {
       "passiton": [
         {
-          "id": "161906",
-          "name": "Refrigerator - 2 door",
-          "description": "Toshiba 2 door refrigerator, in perfect working condition. We have bought a new bigger one, hence are passing this one on",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "200x75x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161716",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is living alone and has multiple health issues including diffculities walking.\n\nShe requires a fridge so that she can store her groceries.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Tan Jie Liang",
-      "email": "tan_jie_liang@msf.gov.sg",
-      "phone": [
-        "62319439",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161906",
-          "name": "Refrigerator - 2 door",
-          "description": "Toshiba 2 door refrigerator, in perfect working condition. We have bought a new bigger one, hence are passing this one on",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "200x75x50",
+          "id": "161738",
+          "name": "Standing Fan",
+          "description": "powerful standing fan.",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "21 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
         }
@@ -1024,74 +598,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161455",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Family of eight requires a refrigerator as they are moving to their own rental flat. The client is working as a restaurant assistant, and is currently the main breadwinner. Husband has been retrenched from his job and has been working odd jobs. As the family is muslim, they would prefer a fridge that has stored halal food items. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Red Cross Society",
-      "name": "Noor Fathullah Bin Mazlan",
-      "email": "casework@redcross.sg",
-      "phone": [
-        "96398415",
-        "66640500"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161906",
-          "name": "Refrigerator - 2 door",
-          "description": "Toshiba 2 door refrigerator, in perfect working condition. We have bought a new bigger one, hence are passing this one on",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "200x75x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161365",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator (2 door)",
-    "description": "Small fridge/freezer required for single mother family with a child who has chronic illness (kidney disease).",
-    "specifications": null,
-    "contact": {
-      "org": "Club Rainbow (Singapore)",
-      "name": "Nurulhuda Binte Abu Bakar",
-      "email": "nurul@clubrainbow.org",
-      "phone": [
-        "81336189",
-        "63771789"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161906",
-          "name": "Refrigerator - 2 door",
-          "description": "Toshiba 2 door refrigerator, in perfect working condition. We have bought a new bigger one, hence are passing this one on",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "27 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "200x75x50",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
