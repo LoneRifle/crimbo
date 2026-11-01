@@ -254,6 +254,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "161994",
+          "name": "Queen sized mattress",
+          "description": "Good condition, rarely used.",
+          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+          "validTill": "30 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "192cm x 150cm x 30cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "161923",
           "name": "King size mattress",
           "description": "Excellent condition",
@@ -598,39 +609,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Learning Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161192",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Mother and child have recently moved out of a crisis shelter into an interim 1-room HDB flat. Mother is currently looking for part-time employment to stabilise the family’s financial situation. Family would greatly benefit from 2 standing fans to provide air circulation in the house and combat indoor heat and humidity in view of the haze situation.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Woodlands",
-      "name": "Joel Low",
-      "email": "joellow@carecorner.org.sg",
-      "phone": [
-        "63622481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161738",
-          "name": "Standing Fan",
-          "description": "powerful standing fan.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []

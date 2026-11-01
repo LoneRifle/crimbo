@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "161994",
+    "name": "Queen sized mattress",
+    "description": "Good condition, rarely used.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "30 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "192cm x 150cm x 30cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "161989",
     "name": "Manual hospital bed",
     "description": "Will not be paying for delivery",
@@ -154,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161580",
-    "name": "Pull out Mirror",
-    "description": "Pull out mirror for installation\nBrand new",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": "35CM x 15CM x 100CM",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161538",
     "name": "2 vintage chairs",
     "description": "Vintage chairs for give-away",
@@ -194,17 +194,6 @@
     "validTill": "10 Nov 2026",
     "ageInYears": 4,
     "dimensions": "1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161338",
-    "name": "Electric adjustable bed",
-    "description": "Electrically controlled adjustable bed",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "01 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "Single size bed",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -297,17 +286,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161354",
-    "name": "Toys for toddler",
-    "description": "Range of toys for toddlers (ages 1-3). Sodt toys, puzzles, other toys.",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "01 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": "Ikea bag 1m long, 30cm tall, 25cm wide",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "161753",
     "name": "A bag of kitchen items like can opener, ladle, stainer etc",
     "description": "All items are new and have not been used.",
@@ -372,6 +350,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "161993",
+    "name": "Yuwell 8F-5A Oxygenator",
+    "description": "The Yuwell Oxygen Concentrator 5LPM 8F-5A is a 5-liter-per-minute (LPM) medical-grade device designed for home and clinical oxygen therapy, available locally in Singapore starting around $699.00 SGD.\n\nKey Specifications & Features\n\n• Oxygen Flow Range: 0.5 to 5 liters per minute (L/min)\n• Oxygen Concentration: 87% to 95.5%\n• Sound Level: \\(\\le 54\\text{ dB(A)}\\) at 5 L/min\n• Power Supply / Input Power: 220V–240V, 350VA\n• Dimensions: 47.5 cm (L) × 33 cm (W) × 58.5 cm (H)\n• Weight: Net weight of approximately 16.5 kg (Gross weight 19 kg)\n• Indications: Supportive oxygen therapy for respiratory conditions such as COPD, asthma, pneumonia, or heart failure (note: not a life-support device).",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "161961",
@@ -579,17 +568,6 @@
     "validTill": "06 Nov 2026",
     "ageInYears": 4,
     "dimensions": "125cm(H) x 150cm(L) x 62cm(D)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "161220",
-    "name": "Kenhancer plaster",
-    "description": "Kenhancer plaster x 3pkts, expiry date is 1 Nov 2026.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "01 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
