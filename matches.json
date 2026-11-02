@@ -201,40 +201,6 @@
     }
   },
   {
-    "id": "161973",
-    "category": "Home Furnishing",
-    "name": "Drawers",
-    "description": "Family consists of a single mum with 4 school going children living in a 2-room rental flat. They require a large chest of drawers to store their clothes in, since their current one is broken. Please whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands, Sembawang",
-      "name": "Fatimah Azzahrah",
-      "email": "fatimah_azzahrah_noor@msf.gov.sg",
-      "phone": [
-        "62319407",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161683",
-          "name": "Lorenzo Tempered Glass Coffee Table with 2 Drawers",
-          "description": "Heavy, will require 2 people to carry.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "02 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "L 110 x D 60 x H 40 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161939",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -253,6 +219,28 @@
     "date": "29 Oct 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "162000",
+          "name": "Matresses (Hipvan)",
+          "description": "1 x Hipvan Snooze Super Single Mattress\n1 x Hipvan Levitate Super Single Mattress\n1 x Hipvan Dream King Mattress\nAll 5 years plus.  Still in very good condition.  Cleaned regularly by mattresses cleaner.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "161998",
+          "name": "Queen Size Mattress",
+          "description": "Queen size mattress without bed frame",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "07 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
         {
           "id": "161994",
           "name": "Queen sized mattress",
@@ -318,62 +306,6 @@
           "dimensions": "82.6\" X 38\" X 17\"",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161695",
-    "category": "Home Furnishing",
-    "name": "Coffee Table",
-    "description": "A family of four, including a three-year-old and an infant, recently moved into a two-room rental flat. One parent is the sole breadwinner, working as a delivery person while providing care, while the other parent is currently incarcerated. The flat is rather empty, with only a few pieces of furniture.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Boon Lay",
-      "name": "Celene Ng",
-      "email": "celene_ng@msf.gov.sg",
-      "phone": [
-        "67367545",
-        "68678580"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161353",
-          "name": "Coffee table",
-          "description": "It usuable and quite new",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "10 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "1m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "161590",
-          "name": "IKEA small coffee table",
-          "description": "IKEA small coffee table.  Usable condition. Small scratches at the side only.  I have 2 such small tables.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "17 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "60 cm x 55 cm x 55 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "161683",
-          "name": "Lorenzo Tempered Glass Coffee Table with 2 Drawers",
-          "description": "Heavy, will require 2 people to carry.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "02 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "L 110 x D 60 x H 40 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
