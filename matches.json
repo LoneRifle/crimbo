@@ -242,17 +242,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "161994",
-          "name": "Queen sized mattress",
-          "description": "Good condition, rarely used.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "30 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "192cm x 150cm x 30cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "161923",
           "name": "King size mattress",
           "description": "Excellent condition",
@@ -340,6 +329,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "160888",
+    "category": "Electrical Home Appliances",
+    "name": "Dryer",
+    "description": "Client is the primary caregiver of 5 young children and resides with her husband in a rental flat. The family's dryer has broken down, and they are unable to afford a replacement or repair.\nThe client's husband is living with end-stage kidney disease and is presently unable to work due to his medical condition. The family relies on financial assistance from the Social Service Office (SSO) to meet their basic needs. However, their limited resources do not allow for the repair or replacement of this essential household appliance.\nThe family would greatly appreciate support in the form of a dryer that is in good working condition for their laundry needs.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Sengkang West",
+      "name": "Ng Yan Ting",
+      "email": "ngyanting@mws.sg",
+      "phone": [
+        "64855501",
+        "64855500"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161522",
+          "name": "Hair dryer (brand new)",
+          "description": "Brand new. If social worker can collect from me will be better.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "14 Nov 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
