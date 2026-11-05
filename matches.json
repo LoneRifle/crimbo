@@ -220,15 +220,15 @@
     "matches": {
       "passiton": [
         {
-          "id": "162000",
-          "name": "Matresses (Hipvan)",
-          "description": "1 x Hipvan Snooze Super Single Mattress\n1 x Hipvan Levitate Super Single Mattress\n1 x Hipvan Dream King Mattress\nAll 5 years plus.  Still in very good condition.  Cleaned regularly by mattresses cleaner.",
+          "id": "162051",
+          "name": "Air Mattress",
+          "description": "Singa 4\" Cell Mattress with Static & Digital Mode Pump Mattress. Material is waterproof, flameproof and stain resistant",
           "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
+          "validTill": "03 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": "200cm x 90cm x 10.16cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
+          "category": "Mobility Aids"
         },
         {
           "id": "161998",
@@ -237,17 +237,6 @@
           "location": "Pasir Ris, Simei, Tampines",
           "validTill": "07 Nov 2026",
           "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "161923",
-          "name": "King size mattress",
-          "description": "Excellent condition",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "28 Nov 2026",
-          "ageInYears": 2,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -295,6 +284,119 @@
           "dimensions": "82.6\" X 38\" X 17\"",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "162065",
+          "name": "Single metal bed frame with mattress",
+          "description": "Bought brand new around may 2026 and used a few months and in storage since aug?",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "04 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161919",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame",
+    "description": "Requested for an elderly male client living in a very space-constrained room. Due to the tight layout of the unit, the bed frame must meet specific height/width measurements to fit into the room safely without obstructing movement or posing a fall hazard.\n\nDelivery & Contact Details:\n\nDonor Support Needed: Requesting donors/sponsors to kindly cover delivery costs, as the client is unemployed and has no income source.\n\nDimensions & Coordination: Please WhatsApp me at 8800 3073 so I can share the link/exact measurements for the bed frame. (Pardon if response is slow as I may be out on home visits).",
+    "specifications": null,
+    "contact": {
+      "org": "Hua Mei Care Management Service of TSAO Foundation",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "65939596"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162065",
+          "name": "Single metal bed frame with mattress",
+          "description": "Bought brand new around may 2026 and used a few months and in storage since aug?",
+          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+          "validTill": "04 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162079",
+    "category": "Others",
+    "name": "Adult Diapers",
+    "description": "Client, poor partial with weak knees, has other medical conditions, lives with his wife. Client’s wife is full-time caregiver to client, the couple are facing financial constraints, thus, they need adult diapers (pull up pants) for client’s incontinence conditions.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Association of the Visually Handicapped",
+      "name": "Steven Yew Kwok Wai",
+      "email": "steven@savh.org.sg",
+      "phone": [
+        "62514331ext507",
+        "62514331"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161797",
+          "name": "Adult diapers L size and underpads",
+          "description": "2 packs of diapers \n1 pack of 5ply underpads",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "24 Nov 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162052",
+    "category": "Others",
+    "name": "Adult diapers",
+    "description": "The sole caregiver of 2 elderly stroke survivors requires support through the purchase of sized L Tena night diapers, available from this link - https://shopee.sg/product/1181215185/24114586745?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEcAAAAAxkDVsk2sfuzbX1YyBPN93CoRxS_5huq36iCKjXZ_byt1YdJ_qUFCoDa01bd9s0owQo4hmTe7nzQR3lmF749yoiE1CwyfeIQDW_gf6_zsGMxHkA7YXM2QNDRuIr4jrq27dLZJDEkYjvTkZB9Cw. Your support will greatly ease the family's financial burden. Do reach out to Marilyn at 81214654 if you wish to support them. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "New Life Stories Limited",
+      "name": "Marilyn Heng",
+      "email": "marilyn@newlifestories.org.sg",
+      "phone": [
+        "81214654",
+        "63867688"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161797",
+          "name": "Adult diapers L size and underpads",
+          "description": "2 packs of diapers \n1 pack of 5ply underpads",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "24 Nov 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -363,207 +465,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161940",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Client is a senior who requires a standing fan for his rental flat as he just came out of prison. If able to donate, kindly contact Patrick at 8778 8712. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "THK CCMS @ AMK",
-      "name": "Nur Dinie Izzati Binte Yaziz",
-      "email": "NurDinie.Izzati@thkmc.org.sg",
-      "phone": [
-        "69240367",
-        "65564833"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161738",
-          "name": "Standing Fan",
-          "description": "powerful standing fan.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161689",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Client is a single mother with two children currently staying in a rental flat. Her current standing fan is spoiling and she hopes to get a new fan to replace the current one. Especially in this weather and haze situation, both her and her children would benefit greatly with this new fan.",
-    "specifications": "Any strong and good standing fan that doesn't take up too much space",
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Shirley Lee",
-      "email": "shirley_lee@msf.gov.sg",
-      "phone": [
-        "68590877",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161738",
-          "name": "Standing Fan",
-          "description": "powerful standing fan.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161577",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Family, of 4 on SSO Financial Assistance. With Husband, unable to work after surgery due to to Diabetes complication, and Wife as the main caregiver of their 2 young children in pre-school. They are in a need of a standing fan, as their current one have broken down. It would be good if at least two standing fans, with the current haze and hot weather at night.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Marine Parade Family Service Centre",
-      "name": "Muhammad Syahmir Bin Isnin",
-      "email": "syahmir.isnin@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161738",
-          "name": "Standing Fan",
-          "description": "powerful standing fan.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161576",
-    "category": "Electrical Home Appliances",
-    "name": "standing fan",
-    "description": "Low income family require standing fan as the weather is making the kids uncomfortable, the ones they had have stopped working",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Nurhidayah Binte Sazali",
-      "email": "hidayah@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161738",
-          "name": "Standing Fan",
-          "description": "powerful standing fan.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161574",
-    "category": "Electrical Home Appliances",
-    "name": "Standin fan",
-    "description": "Client is a 39-year-old man with limited social support and ongoing financial difficulties. Despite these challenges, he remains motivated to achieve financial independence and is currently working as a GrabFood delivery rider. He is seeking support for a standing fan to meet his basic household needs and improve his living conditions. These items would provide greater comfort at home and support his overall well-being, enabling him to better focus on sustaining his employment and working towards financial stability.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Sengkang 223D",
-      "name": "Syamirul Azim",
-      "email": "syamirulazim@allkin.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161738",
-          "name": "Standing Fan",
-          "description": "powerful standing fan.",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "21 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161471",
-    "category": "Electrical Home Appliances",
-    "name": "Printer",
-    "description": "Family of five has three school-going children who requires a printer for the children's school work. Father is the sole breadwinner as mother has multiple health issues.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Red Cross Society",
-      "name": "Noor Fathullah Bin Mazlan",
-      "email": "casework@redcross.sg",
-      "phone": [
-        "96398415",
-        "66640500"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161207",
-          "name": "Printer ink cartridge",
-          "description": "Canon Pixma 770 and 771.",
-          "location": null,
-          "validTill": "05 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Learning Aids"
         }
       ],
       "carousell": []
