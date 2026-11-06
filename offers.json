@@ -33,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "162008",
-    "name": "SAMSUNG 32",
-    "description": "32 inch Samsung television with remote control",
-    "location": null,
-    "validTill": "15 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "161625",
     "name": "Ikea bedside lamps 2 qty",
     "description": "IKEA Bedside lamps x2 \n(‘Strala’ lamp base/ ‘Skottorp’ \nlamp shade)",
@@ -66,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "162146",
+    "name": "Wooden Bedframe with Mattress (Single)",
+    "description": "Wooden Bedframe with Single-sized Mattress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "06 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "162117",
     "name": "Round Side Table",
     "description": "Round side ramble made of ABS plastic. Lightweight and easy to maintain.",
@@ -73,28 +73,6 @@
     "validTill": "30 Nov 2026",
     "ageInYears": 1,
     "dimensions": "47cm (Height), 47cm (Diameter)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162115",
-    "name": "Bunkbed frame",
-    "description": "https://www.ikea.com/sg/en/catalog/products/20411232/?query=20411232&cid=a1%3Asm%7Ca2%3Asg%7Ca3%3Aappshare%7Ca4%3Astore_app%7Ca5%3Aandroid%7Ca6%3Ashare%7Ca7%3Aikeaglobal%7Ccc%3A216",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162114",
-    "name": "Bunkbed frame",
-    "description": "https://www.ikea.com/sg/en/catalog/products/80239234/?query=80239234&cid=a1%3Asm%7Ca2%3Asg%7Ca3%3Aappshare%7Ca4%3Astore_app%7Ca5%3Aandroid%7Ca6%3Ashare%7Ca7%3Aikeaglobal%7Ccc%3A216",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -209,17 +187,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161998",
-    "name": "Queen Size Mattress",
-    "description": "Queen size mattress without bed frame",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "07 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161997",
     "name": "Sofa",
     "description": "sofa with 3 seaters",
@@ -319,17 +286,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161353",
-    "name": "Coffee table",
-    "description": "It usuable and quite new",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "161512",
     "name": "Carpet",
     "description": "New like carpet",
@@ -341,12 +297,56 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162101",
-    "name": "Multiple Baby Items",
-    "description": "Baby bathtub\nBaby chair with tray\nBaby boy clothes (assorted), 0 - 12m",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "05 Dec 2026",
-    "ageInYears": 1,
+    "id": "162128",
+    "name": "Toys - Peppa Pig Schoolhouse",
+    "description": "Peppa Pig Classroom Set. Peppa Pig, her classmates, and her teacher are included.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "02 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162127",
+    "name": "Toys - Peppa Pig Playhouse",
+    "description": "Playhouse came with only Peppa Pig by default. I'll pack the playhouse with the whole Peppa Pig family figurines. So there will be 2 Peppa Pig figurines in there.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "02 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162126",
+    "name": "Books - Bilingual (English and Chinese)",
+    "description": "Pepper Pig stories on TV in book form.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "06 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162124",
+    "name": "Books - suitable for adopted/foster kids",
+    "description": "Written and illustrated by local Singaporeans. Can be read to adopted/foster children as a conversation starter to process their concerns, or simply for leisure reading. Lovely storytelling with rich illustration.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "02 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162123",
+    "name": "Books - suitable for pri sch kids",
+    "description": "Includes a book that teaches kids to have constructive attitudes (adapted from 7 Habits of Highly Effective People).\n\nSome books are like brand new. Ages of books vary.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "02 Dec 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -449,17 +449,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
-  },
-  {
-    "id": "162006",
-    "name": "exercise machine",
-    "description": "Please quote your price before coming to collect.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "10 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "161996",
