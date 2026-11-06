@@ -201,6 +201,40 @@
     }
   },
   {
+    "id": "160888",
+    "category": "Electrical Home Appliances",
+    "name": "Dryer",
+    "description": "Client is the primary caregiver of 5 young children and resides with her husband in a rental flat. The family's dryer has broken down, and they are unable to afford a replacement or repair.\nThe client's husband is living with end-stage kidney disease and is presently unable to work due to his medical condition. The family relies on financial assistance from the Social Service Office (SSO) to meet their basic needs. However, their limited resources do not allow for the repair or replacement of this essential household appliance.\nThe family would greatly appreciate support in the form of a dryer that is in good working condition for their laundry needs.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Sengkang West",
+      "name": "Ng Yan Ting",
+      "email": "ngyanting@mws.sg",
+      "phone": [
+        "64855501",
+        "64855500"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "02 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161522",
+          "name": "Hair dryer (brand new)",
+          "description": "Brand new. If social worker can collect from me will be better.",
+          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+          "validTill": "14 Nov 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "161939",
     "category": "Home Furnishing",
     "name": "Mattress",
@@ -220,15 +254,15 @@
     "matches": {
       "passiton": [
         {
-          "id": "162051",
-          "name": "Air Mattress",
-          "description": "Singa 4\" Cell Mattress with Static & Digital Mode Pump Mattress. Material is waterproof, flameproof and stain resistant",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "03 Dec 2026",
-          "ageInYears": 1,
-          "dimensions": "200cm x 90cm x 10.16cm",
+          "id": "162103",
+          "name": "Mattress",
+          "description": "good condition has a mattress protecter",
+          "location": null,
+          "validTill": "12 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "90cm*180cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
+          "category": "Home Furnishing"
         },
         {
           "id": "161998",
@@ -284,48 +318,37 @@
           "dimensions": "82.6\" X 38\" X 17\"",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        },
-        {
-          "id": "162065",
-          "name": "Single metal bed frame with mattress",
-          "description": "Bought brand new around may 2026 and used a few months and in storage since aug?",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "04 Dec 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
     }
   },
   {
-    "id": "161919",
+    "id": "161843",
     "category": "Home Furnishing",
-    "name": "Single Bed Frame",
-    "description": "Requested for an elderly male client living in a very space-constrained room. Due to the tight layout of the unit, the bed frame must meet specific height/width measurements to fit into the room safely without obstructing movement or posing a fall hazard.\n\nDelivery & Contact Details:\n\nDonor Support Needed: Requesting donors/sponsors to kindly cover delivery costs, as the client is unemployed and has no income source.\n\nDimensions & Coordination: Please WhatsApp me at 8800 3073 so I can share the link/exact measurements for the bed frame. (Pardon if response is slow as I may be out on home visits).",
-    "specifications": null,
+    "name": "2 seater sofa",
+    "description": "Single mother with one son requires a 2 seater sofa as they currently do not own one.",
+    "specifications": "less than 1.4m in length",
     "contact": {
-      "org": "Hua Mei Care Management Service of TSAO Foundation",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
+      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+      "name": "Grace Lim",
+      "email": "grace_lim@msf.gov.sg",
       "phone": [
-        "65939576",
-        "65939596"
+        "68590811",
+        "62957205"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
+    "date": "27 Oct 2026",
     "matches": {
       "passiton": [
         {
-          "id": "162065",
-          "name": "Single metal bed frame with mattress",
-          "description": "Bought brand new around may 2026 and used a few months and in storage since aug?",
-          "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-          "validTill": "04 Dec 2026",
-          "ageInYears": 1,
+          "id": "162107",
+          "name": "Air Division Sofa 2 seater",
+          "description": "2 seater sofa, lightly used, more than 4 years old",
+          "location": null,
+          "validTill": "12 Nov 2026",
+          "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
@@ -431,40 +454,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "160888",
-    "category": "Electrical Home Appliances",
-    "name": "Dryer",
-    "description": "Client is the primary caregiver of 5 young children and resides with her husband in a rental flat. The family's dryer has broken down, and they are unable to afford a replacement or repair.\nThe client's husband is living with end-stage kidney disease and is presently unable to work due to his medical condition. The family relies on financial assistance from the Social Service Office (SSO) to meet their basic needs. However, their limited resources do not allow for the repair or replacement of this essential household appliance.\nThe family would greatly appreciate support in the form of a dryer that is in good working condition for their laundry needs.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Sengkang West",
-      "name": "Ng Yan Ting",
-      "email": "ngyanting@mws.sg",
-      "phone": [
-        "64855501",
-        "64855500"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Nov 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161522",
-          "name": "Hair dryer (brand new)",
-          "description": "Brand new. If social worker can collect from me will be better.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "14 Nov 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
