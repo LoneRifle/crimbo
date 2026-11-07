@@ -253,6 +253,28 @@
     "matches": {
       "passiton": [
         {
+          "id": "162147",
+          "name": "Single bed frame and mattress",
+          "description": "Bed frame and mattress in perfect conditions. Used for about 14 months only.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162151",
+          "name": "metal single bed frame",
+          "description": "metal single bed frame without mattress",
+          "location": null,
+          "validTill": "15 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "161860",
           "name": "small dresser, Queen bed frame, chair, small table",
           "description": "Queen bed frame (no mattress) 210x155cm\nSmall white dresser (5 drawers) 58x36x height 70cm\nChair + Small narrow table 1m x 30cm x height 75cm",
@@ -260,6 +282,40 @@
           "validTill": "11 Nov 2026",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161973",
+    "category": "Home Furnishing",
+    "name": "Drawers",
+    "description": "Family consists of a single mum with 4 school going children living in a 2-room rental flat. They require a large chest of drawers to store their clothes in, since their current one is broken. Please whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands, Sembawang",
+      "name": "Fatimah Azzahrah",
+      "email": "fatimah_azzahrah_noor@msf.gov.sg",
+      "phone": [
+        "62319407",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162152",
+          "name": "wooden chest of drawers",
+          "description": "Used for clothes",
+          "location": null,
+          "validTill": "15 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "160cm L x 45cm D x 80cm H",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -351,6 +407,130 @@
           "dimensions": "82.6\" X 38\" X 17\"",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "162147",
+          "name": "Single bed frame and mattress",
+          "description": "Bed frame and mattress in perfect conditions. Used for about 14 months only.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161919",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame",
+    "description": "Requested for an elderly male client living in a very space-constrained room. Due to the tight layout of the unit, the bed frame must meet specific height/width measurements to fit into the room safely without obstructing movement or posing a fall hazard.\n\nDelivery & Contact Details:\n\nDonor Support Needed: Requesting donors/sponsors to kindly cover delivery costs, as the client is unemployed and has no income source.\n\nDimensions & Coordination: Please WhatsApp me at 8800 3073 so I can share the link/exact measurements for the bed frame. (Pardon if response is slow as I may be out on home visits).",
+    "specifications": null,
+    "contact": {
+      "org": "Hua Mei Care Management Service of TSAO Foundation",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "65939596"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162147",
+          "name": "Single bed frame and mattress",
+          "description": "Bed frame and mattress in perfect conditions. Used for about 14 months only.",
+          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+          "validTill": "07 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162151",
+          "name": "metal single bed frame",
+          "description": "metal single bed frame without mattress",
+          "location": null,
+          "validTill": "15 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161901",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "Client is medically unfit for employment and has not been able to gain employment for years. She relies on financial assistance to meet her monthly expenses and is unable to afford a cabinet due to her financial constraints. Receiving a cabinet would help her store her belongings and meet her household needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162153",
+          "name": "metal storage cabinet",
+          "description": "used to store dry food items",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "15 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "60cm L x 40cm D x 120cm H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161898",
+    "category": "Home Furnishing",
+    "name": "Cabinet",
+    "description": "Client (M, 21) and his mother and 6-year-old stepsister had to vacate his late father's home within two weeks, leaving them little time to arrange assistance and storage. FSC supported the family in securing interim shelter, and they have recently moved into a rental flat with shelter assistance. As the client gave up the only bed for his mother and stepsister, he lacks proper bedding for himself. The family also lacks cabinets to store their belongings, with some items still kept in plastic bags. Beddings and storage cabinets would help meet their basic daily living needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Rachel Kong",
+      "email": "rachelkong@fycs.org",
+      "phone": [
+        "69783108",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162153",
+          "name": "metal storage cabinet",
+          "description": "used to store dry food items",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "15 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "60cm L x 40cm D x 120cm H",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -381,6 +561,40 @@
           "description": "2 seater sofa, lightly used, more than 4 years old",
           "location": null,
           "validTill": "12 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161820",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Family of 3 with a 5yo child with developmental delays residing in a 2-room HDB rental flat. Father is the sole breadwinner while mother is a housewife. Income is inadequate and the family has been facing challenges furnishing their home since they moved into their rental unit late-2025.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Venus Tang",
+      "email": "venus_tang@msf.gov.sg",
+      "phone": [
+        "65139140",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162149",
+          "name": "Round Glass Dinning Table",
+          "description": "PICK UP DATES: Now to 4 Nov; after 18 Nov. \n110cm diameter\n- Clear tempered glass top \n- Convenient lower glass shelf for extra storage",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "25 Nov 2026",
           "ageInYears": 4,
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
