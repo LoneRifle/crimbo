@@ -1,5 +1,16 @@
 [
   {
+    "id": "162159",
+    "name": "White dress",
+    "description": "Garment size\nBust: 17 \nWaist: 16 \nLength: 28 \n\nWhite skater dress from Love Bonito",
+    "location": null,
+    "validTill": "08 Dec 2026",
+    "ageInYears": 1,
+    "dimensions": "Garment size medium",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "162062",
     "name": "Baby girl clothing",
     "description": "Suitable for babies from 3 to 12 months\nIncludes 2 pyjamas, long and short sleeved onesies and dresses\nAll items are preloved and mostly well worn.\nNo stains or tears",
@@ -20,6 +31,17 @@
     "dimensions": "Nil",
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
+  },
+  {
+    "id": "162158",
+    "name": "Daewoo Electric Pressure Cooker",
+    "description": "- Features multiple cooking functions.\n- User-friendly interface.\n- Non-stick inner pot for easy cleaning.",
+    "location": null,
+    "validTill": "08 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
   },
   {
     "id": "162045",
@@ -317,6 +339,17 @@
     "dimensions": "135*70*110cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "162156",
+    "name": "Upseat Baby Floor & Booster Seat",
+    "description": "Well used, not broken\nmarker stain at the back\nComes with harness\nWill send to VWO if in Tampines/Simei",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "08 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "162128",
@@ -669,6 +702,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "162157",
+    "name": "Folding Wheel Chair",
+    "description": "Self propelled folding wheellcahir in very good condition",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "15 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "162155",
+    "name": "Walking Aids",
+    "description": "1 walking frame and various walking sticks",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "01 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "162118",
