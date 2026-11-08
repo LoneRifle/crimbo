@@ -108,6 +108,17 @@
           "category": "Medical Aids"
         },
         {
+          "id": "162160",
+          "name": "Hospital bed, Air mattress for the bed, Push chair",
+          "description": "Good working condition, clean, no wear or tear",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "08 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
           "id": "161456",
           "name": "HOSPITAL BED (WITHOUT MATTRESS)",
           "description": "HOSPITAL BED WITHOUT MATTRESS",
@@ -488,6 +499,39 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162110",
+    "category": "Mobility Aids",
+    "name": "Air Mattress",
+    "description": "A 26-year-old single woman assumed primary responsibility for her 58-year-old mother, who suffered a stroke and requires nursing home care, following her father's abandonment of the family and return to his home country. She faces ongoing financial challenges as she bears sole responsibility for her mother's caregiving expenses, including medical and transportation costs.\n\nDespite these difficulties, she remains committed to ensuring her mother's well-being while striving to maintain her own independence and financial stability. Purchasing essential household items would further strain her limited financial resources.\n\nA donated air mattress would help meet her mother's basic bedding needs, alleviate her financial burden, and enable her to prioritise her mother's care and other essential living expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "Serangoon Moral Family Service Centre",
+      "name": "Maggie Chin",
+      "email": "maggiechin@smfsc.org.sg",
+      "phone": [
+        "62847123"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "05 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162160",
+          "name": "Hospital bed, Air mattress for the bed, Push chair",
+          "description": "Good working condition, clean, no wear or tear",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "08 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
