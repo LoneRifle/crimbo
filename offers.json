@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "162175",
+    "name": "Hair dryer",
+    "description": "Used hair dryer . Phillips brand",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "01 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "162158",
     "name": "Daewoo Electric Pressure Cooker",
     "description": "- Features multiple cooking functions.\n- User-friendly interface.\n- Non-stick inner pot for easy cleaning.",
@@ -88,28 +99,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162166",
-    "name": "Plastic stackable storage cabinet",
-    "description": "Stackable. Used to store dry items like tissues, face masks etc.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "65cm L x 40cm W x 185cm H",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162163",
-    "name": "Wooden storage cabinet",
-    "description": "Used for storage of kitchenware.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "15 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "120cm L x 45cm D x 85cm H.",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162162",
     "name": "Dining table 6 seaters",
     "description": "Dining table with one long bench, 2 chairs with handles and 2 chairs without handles",
@@ -132,17 +121,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162151",
-    "name": "metal single bed frame",
-    "description": "metal single bed frame without mattress",
-    "location": null,
-    "validTill": "15 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162150",
     "name": "Study table and chair for children",
     "description": "Well Maintained study table for children. Adjustable lever is lost. But the height of the table is adjustable if can get the lever online.",
@@ -159,17 +137,6 @@
     "description": "PICK UP DATES: Now to 4 Nov; after 18 Nov. \n110cm diameter\n- Clear tempered glass top \n- Convenient lower glass shelf for extra storage",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "25 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162146",
-    "name": "Wooden Bedframe with Mattress (Single)",
-    "description": "Wooden Bedframe with Single-sized Mattress",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "06 Dec 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -209,18 +176,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162107",
-    "name": "Air Division Sofa 2 seater",
-    "description": "2 seater sofa, lightly used, more than 4 years old",
-    "location": null,
-    "validTill": "12 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162103",
+    "id": "162200",
     "name": "Mattress",
     "description": "good condition has a mattress protecter",
     "location": null,
@@ -271,17 +227,6 @@
     "validTill": "01 Dec 2026",
     "ageInYears": 3,
     "dimensions": "233cm by 96cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161997",
-    "name": "Sofa",
-    "description": "sofa with 3 seaters",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "10 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "230 x 100 x 78cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -359,17 +304,6 @@
     "validTill": "14 Nov 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161908",
-    "name": "High Table",
-    "description": "High table made of metal. Can be used as Standing Desk",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "135*70*110cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -539,17 +473,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "161996",
-    "name": "foot massage chair",
-    "description": "cabled massage chair with extractable foot rest massage slots",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "10 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "67 x 65 x 72mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "161988",
     "name": "Recliner Lazy chair",
     "description": "Comfortable Reclining Lounge Chair\n\nPadded reclining chair with adjustable backrest and leg support. Very comfortable and great for relaxing, reading or lounging.. Used 2-3 times only.",
@@ -570,6 +493,17 @@
     "dimensions": "42x14cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "162195",
+    "name": "Medical Bed (manual)",
+    "description": "Hello, I have a nursing/hospital+remote bed in good working condition that I would like to donate free of charge.\n\nThe bed is located in Yishun, Singapore.\n\nI hope to donate it to a needy family, elderly patient or home-care patient who would benefit from it.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "10 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "162064",
@@ -682,28 +616,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "161874",
-    "name": "Electrical hospital bed",
-    "description": "Hospital bed with air bed",
-    "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-    "validTill": "27 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "161868",
-    "name": "Hospital bed",
-    "description": "One hospital bed with air bed",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "27 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "161789",
     "name": "Hospital Bed with Mattress",
     "description": "Please note that transportation will need to be at recipient’s cost. \n\nHospital Bed has hardly been used as patient was mostly hospitalised.",
@@ -737,23 +649,34 @@
     "category": "Medical Aids"
   },
   {
+    "id": "162196",
+    "name": "Wheelchair",
+    "description": "Hello, I have a lightweight wheelchair in good working condition that I would like to donate free of charge.\n\nThe wheelchair is located in Yishun, Singapore.\n\nI hope to donate it to a needy family, elderly patient or home-care patient who would benefit from it.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "10 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "162190",
+    "name": "3 Crank Electrical Luxury Hospital Bed",
+    "description": "Rainbowcare 3 Crank Electrical Luxury Hospital Bed.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": "Length: 212 cm / 83.5\", Width: 109 cm / 43\", Height: 41 - 69 cm / 16.1\" - 27.2\" (Floor to Bed Base)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "162160",
     "name": "Hospital bed, Air mattress for the bed, Push chair",
     "description": "Good working condition, clean, no wear or tear",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "08 Dec 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "162155",
-    "name": "Walking Aids",
-    "description": "1 walking frame and various walking sticks",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "01 Dec 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -814,17 +737,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "161960",
-    "name": "Manual Recliner Geriatric Chair with Tray",
-    "description": "3 fixed recline angle, no dropdown armrest",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "161959",
     "name": "Lifeline 3 crank hospital bed",
     "description": "preloved hospital bed, good working condition, mattress included",
@@ -853,6 +765,28 @@
     "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
     "validTill": "18 Nov 2026",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "162191",
+    "name": "WHEEL CHAIR",
+    "description": "WHEEL CHAIR",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "162192",
+    "name": "WHEEL CHAIR",
+    "description": "WHEEL CHAIR",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "12 Nov 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"

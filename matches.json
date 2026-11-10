@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162175",
+          "name": "Hair dryer",
+          "description": "Used hair dryer . Phillips brand",
+          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+          "validTill": "01 Dec 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Electrical Home Appliances"
+        },
+        {
           "id": "161522",
           "name": "Hair dryer (brand new)",
           "description": "Brand new. If social worker can collect from me will be better.",
@@ -87,7 +98,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "162103",
+          "id": "162200",
           "name": "Mattress",
           "description": "good condition has a mattress protecter",
           "location": null,
@@ -118,17 +129,6 @@
           "dimensions": "82”x41”x34”",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        },
-        {
-          "id": "162146",
-          "name": "Wooden Bedframe with Mattress (Single)",
-          "description": "Wooden Bedframe with Single-sized Mattress",
-          "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-          "validTill": "06 Dec 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         },
         {
           "id": "161789",
@@ -162,164 +162,6 @@
           "dimensions": "82.6\" X 38\" X 17\"",
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161919",
-    "category": "Home Furnishing",
-    "name": "Single Bed Frame",
-    "description": "Requested for an elderly male client living in a very space-constrained room. Due to the tight layout of the unit, the bed frame must meet specific height/width measurements to fit into the room safely without obstructing movement or posing a fall hazard.\n\nDelivery & Contact Details:\n\nDonor Support Needed: Requesting donors/sponsors to kindly cover delivery costs, as the client is unemployed and has no income source.\n\nDimensions & Coordination: Please WhatsApp me at 8800 3073 so I can share the link/exact measurements for the bed frame. (Pardon if response is slow as I may be out on home visits).",
-    "specifications": null,
-    "contact": {
-      "org": "Hua Mei Care Management Service of TSAO Foundation",
-      "name": "Ryan Sim",
-      "email": "ryansim@tsaofoundation.org",
-      "phone": [
-        "65939576",
-        "65939596"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162151",
-          "name": "metal single bed frame",
-          "description": "metal single bed frame without mattress",
-          "location": null,
-          "validTill": "15 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161901",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Client is medically unfit for employment and has not been able to gain employment for years. She relies on financial assistance to meet her monthly expenses and is unable to afford a cabinet due to her financial constraints. Receiving a cabinet would help her store her belongings and meet her household needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162163",
-          "name": "Wooden storage cabinet",
-          "description": "Used for storage of kitchenware.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "15 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": "120cm L x 45cm D x 85cm H.",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162166",
-          "name": "Plastic stackable storage cabinet",
-          "description": "Stackable. Used to store dry items like tissues, face masks etc.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "15 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": "65cm L x 40cm W x 185cm H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161898",
-    "category": "Home Furnishing",
-    "name": "Cabinet",
-    "description": "Client (M, 21) and his mother and 6-year-old stepsister had to vacate his late father's home within two weeks, leaving them little time to arrange assistance and storage. FSC supported the family in securing interim shelter, and they have recently moved into a rental flat with shelter assistance. As the client gave up the only bed for his mother and stepsister, he lacks proper bedding for himself. The family also lacks cabinets to store their belongings, with some items still kept in plastic bags. Beddings and storage cabinets would help meet their basic daily living needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Services SSO @ Taman Jurong",
-      "name": "Rachel Kong",
-      "email": "rachelkong@fycs.org",
-      "phone": [
-        "69783108",
-        "62672900"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162163",
-          "name": "Wooden storage cabinet",
-          "description": "Used for storage of kitchenware.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "15 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": "120cm L x 45cm D x 85cm H.",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162166",
-          "name": "Plastic stackable storage cabinet",
-          "description": "Stackable. Used to store dry items like tissues, face masks etc.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "15 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": "65cm L x 40cm W x 185cm H",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161843",
-    "category": "Home Furnishing",
-    "name": "2 seater sofa",
-    "description": "Single mother with one son requires a 2 seater sofa as they currently do not own one.",
-    "specifications": "less than 1.4m in length",
-    "contact": {
-      "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-      "name": "Grace Lim",
-      "email": "grace_lim@msf.gov.sg",
-      "phone": [
-        "68590811",
-        "62957205"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162107",
-          "name": "Air Division Sofa 2 seater",
-          "description": "2 seater sofa, lightly used, more than 4 years old",
-          "location": null,
-          "validTill": "12 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -634,39 +476,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "162110",
-    "category": "Mobility Aids",
-    "name": "Air Mattress",
-    "description": "A 26-year-old single woman assumed primary responsibility for her 58-year-old mother, who suffered a stroke and requires nursing home care, following her father's abandonment of the family and return to his home country. She faces ongoing financial challenges as she bears sole responsibility for her mother's caregiving expenses, including medical and transportation costs.\n\nDespite these difficulties, she remains committed to ensuring her mother's well-being while striving to maintain her own independence and financial stability. Purchasing essential household items would further strain her limited financial resources.\n\nA donated air mattress would help meet her mother's basic bedding needs, alleviate her financial burden, and enable her to prioritise her mother's care and other essential living expenses.",
-    "specifications": null,
-    "contact": {
-      "org": "Serangoon Moral Family Service Centre",
-      "name": "Maggie Chin",
-      "email": "maggiechin@smfsc.org.sg",
-      "phone": [
-        "62847123"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Nov 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162160",
-          "name": "Hospital bed, Air mattress for the bed, Push chair",
-          "description": "Good working condition, clean, no wear or tear",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "08 Dec 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []
