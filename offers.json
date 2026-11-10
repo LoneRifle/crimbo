@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "162211",
+    "name": "Deep freezer",
+    "description": "Underused deep freezer. Bought locally and local brand. Been off after using a few months.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "10 Dec 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "162175",
     "name": "Hair dryer",
     "description": "Used hair dryer . Phillips brand",
@@ -88,24 +99,13 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "162170",
-    "name": "Queen size bed",
-    "description": "Very good condition queen size mattress (without bed frame). Would love to bless someone in need!",
-    "location": null,
-    "validTill": "28 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162162",
-    "name": "Dining table 6 seaters",
-    "description": "Dining table with one long bench, 2 chairs with handles and 2 chairs without handles",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "id": "162207",
+    "name": "Wooden Storage Bench / Seating Bench",
+    "description": "Giving away a wooden bench with a lift-up seat and spacious storage compartment underneath.\n\n* Dark brown wooden finish\n* Built-in storage for household items\n* Can be used as an entryway or hallway bench\n* Pre-loved condition with some signs of use\n* Still in usable condition",
+    "location": "Pasir Ris, Simei, Tampines",
     "validTill": "15 Nov 2026",
     "ageInYears": 4,
-    "dimensions": "145cm L x 85cm W x 75cm H",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -249,17 +249,6 @@
     "validTill": "20 Nov 2026",
     "ageInYears": 4,
     "dimensions": "75x 80x 60 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "161860",
-    "name": "small dresser, Queen bed frame, chair, small table",
-    "description": "Queen bed frame (no mattress) 210x155cm\nSmall white dresser (5 drawers) 58x36x height 70cm\nChair + Small narrow table 1m x 30cm x height 75cm",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "11 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -649,6 +638,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "162205",
+    "name": "Heavy weight wheelchair",
+    "description": "For weight up to 120kg. Less than 6 months old.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "20 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "162196",
     "name": "Wheelchair",
     "description": "Hello, I have a lightweight wheelchair in good working condition that I would like to donate free of charge.\n\nThe wheelchair is located in Yishun, Singapore.\n\nI hope to donate it to a needy family, elderly patient or home-care patient who would benefit from it.",
@@ -831,17 +831,6 @@
     "location": null,
     "validTill": "17 Nov 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "161396",
-    "name": "Bags, luggages",
-    "description": "self collection at amk",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "11 Nov 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
