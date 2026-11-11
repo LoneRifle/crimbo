@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "162246",
+    "name": "Washing Machine",
+    "description": "LG 8KG Washing Machine. Collect between 20 to 23 Dec",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "11 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "162211",
     "name": "Deep freezer",
     "description": "Underused deep freezer. Bought locally and local brand. Been off after using a few months.",
@@ -97,6 +108,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "162245",
+    "name": "Sofa bed",
+    "description": "2 to 3 seater sofa bed from IKEA",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "11 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162242",
+    "name": "Dining chairs",
+    "description": "Used but in good condition. Colour Grey fabric   dining chair",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "11 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": "450 mm X 450 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "162207",
@@ -418,17 +451,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161617",
-    "name": "Toddler cot mattress (no cot) and bedding, toddler pillow and pillow case",
-    "description": "Toddler cot mattress (no cot) \nNot pictured: cot bedding, toddler pillow and pillow cases",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "18 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "161614",
     "name": "Oribel high chair (green)",
     "description": "Foldable green baby high chair with detachable tray",
@@ -636,17 +658,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "162205",
-    "name": "Heavy weight wheelchair",
-    "description": "For weight up to 120kg. Less than 6 months old.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "20 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "162196",
