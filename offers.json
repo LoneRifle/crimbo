@@ -1,5 +1,16 @@
 [
   {
+    "id": "162311",
+    "name": "Small children clothes",
+    "description": "Pyjamas from Mothercare and H&M for children 1 to 2 years old.\n\nIt comes with a footie and double zipper which keeps the kid warm during colder nights. \n\n(The caregiver can unzip from the foot up for diaper change, unlike a normal zipper where you have to zip all the way from top down and strip the kid almost entirely)\n\nSwim top and long sleeve top.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "13 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "162159",
     "name": "White dress",
     "description": "Garment size\nBust: 17 \nWaist: 16 \nLength: 28 \n\nWhite skater dress from Love Bonito",
@@ -150,17 +161,6 @@
     "validTill": "16 Nov 2026",
     "ageInYears": 4,
     "dimensions": "200 cm x 86 cm x 65 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162245",
-    "name": "Sofa bed",
-    "description": "2 to 3 seater sofa bed from IKEA",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "11 Dec 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -550,17 +550,6 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
-    "id": "162195",
-    "name": "Medical Bed (manual)",
-    "description": "Hello, I have a nursing/hospital+remote bed in good working condition that I would like to donate free of charge.\n\nThe bed is located in Yishun, Singapore.\n\nI hope to donate it to a needy family, elderly patient or home-care patient who would benefit from it.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "10 Dec 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "162064",
     "name": "AIRE Adult Pull Up Pants Size S/M",
     "description": "7 new packets currently available for donation. Please kindly arrange for collection/delivery if interested.",
@@ -680,17 +669,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
-  },
-  {
-    "id": "162196",
-    "name": "Wheelchair",
-    "description": "Hello, I have a lightweight wheelchair in good working condition that I would like to donate free of charge.\n\nThe wheelchair is located in Yishun, Singapore.\n\nI hope to donate it to a needy family, elderly patient or home-care patient who would benefit from it.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "10 Dec 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
   },
   {
     "id": "162190",
