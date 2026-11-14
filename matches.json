@@ -19,6 +19,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162328",
+          "name": "Tv console",
+          "description": "Has a bit of peeling at the top but still very much usable",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "14 Dec 2026",
+          "ageInYears": 4,
+          "dimensions": "150cm x 55cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "162305",
           "name": "TV Console",
           "description": "like new although it has been more than 10years. With two drawers.",
@@ -62,17 +73,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Electrical Home Appliances"
-        },
-        {
-          "id": "161522",
-          "name": "Hair dryer (brand new)",
-          "description": "Brand new. If social worker can collect from me will be better.",
-          "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-          "validTill": "14 Nov 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Electrical Home Appliances"
         }
       ],
       "carousell": []
@@ -109,13 +109,13 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "161538",
-          "name": "2 vintage chairs",
-          "description": "Vintage chairs for give-away",
-          "location": "Pasir Ris, Simei, Tampines",
-          "validTill": "14 Nov 2026",
+          "id": "162327",
+          "name": "Dining table with chairs",
+          "description": "Table with 3 chairs",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "14 Dec 2026",
           "ageInYears": 4,
-          "dimensions": null,
+          "dimensions": "160cm x 90cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -158,17 +158,18 @@
     }
   },
   {
-    "id": "162248",
+    "id": "162226",
     "category": "Home Furnishing",
-    "name": "Dining Table",
-    "description": "A single mum with 2 children are in need of a dining table. No preference for material or dimensions as long as it can fit in the home.",
-    "specifications": null,
+    "name": "Sofa Bed",
+    "description": "Family is living in a rental flat and requires a sofa bed for their child (11/F).\n\nFamily has provided the carousell link for purchase: https://carousell.app.link/Zd2IM7O3X7b \n\nLooking for donor for sofa donation and delivery of sofa to family.",
+    "specifications": "Please refer to carousell link",
     "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Keith De Silva",
-      "email": "keith.desilva@shenghong.org.sg",
+      "org": "Montfort Care Family Service (Telok Blangah)",
+      "name": "Muhammad Akhbar Bin Abdul Rahman",
+      "email": "akhbar.rahman@montfortcare.org.sg",
       "phone": [
-        "62895022"
+        "91278495",
+        "62708327"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -176,13 +177,24 @@
     "matches": {
       "passiton": [
         {
-          "id": "162149",
-          "name": "Round Glass Dinning Table",
-          "description": "PICK UP DATES: Now to 4 Nov; after 18 Nov. \n110cm diameter\n- Clear tempered glass top \n- Convenient lower glass shelf for extra storage",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "25 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
+          "id": "162325",
+          "name": "Folding sofa bed",
+          "description": "Folding Sofa Bed (Ikea Nyhamn red)\nTwo years old but only lightly used. \nPerfect condition.\nRed/brown.\nVery comfortable for sleeping. \nEasy to change from bed to sofa.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "30 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": "2m by 1 m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162323",
+          "name": "IKEA Nyhamn 3 seater Grey sofa foldable bed",
+          "description": "Metal frame with wooden boards.\nOriginal item from IKEA.\n\nLightly used foam mattress. Can wash 2 separate grey cushion mattress cover. \nCan unzip mattress cover to open.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "22 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": "200 x 140 x 31",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -368,6 +380,28 @@
     "matches": {
       "passiton": [
         {
+          "id": "162327",
+          "name": "Dining table with chairs",
+          "description": "Table with 3 chairs",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "14 Dec 2026",
+          "ageInYears": 4,
+          "dimensions": "160cm x 90cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162331",
+          "name": "Wooden dining table",
+          "description": "Wooden dining table that can seat 6 pax. Table currently has a plastic covering on top which can be removed.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "150cm x 90cm x 74cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "162149",
           "name": "Round Glass Dinning Table",
           "description": "PICK UP DATES: Now to 4 Nov; after 18 Nov. \n110cm diameter\n- Clear tempered glass top \n- Convenient lower glass shelf for extra storage",
@@ -432,39 +466,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161797",
-          "name": "Adult diapers L size and underpads",
-          "description": "2 packs of diapers \n1 pack of 5ply underpads",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "24 Nov 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161420",
-    "category": "Infant and Children Items",
-    "name": "diapers",
-    "description": "Client has a young 3 year old daughter, is 5 months pregnant and currently navigating the difficult process of divorce with her husband. She is caring for her daughter mostly on her own while also holding a full-time job and household demands. With her husband only minimally contributing to the household, client is experiencing stress coping with financial day to day demands on her own, and support with milk and diapers will help ease her financial burden during this challenging time.",
-    "specifications": "(size XL, any brand), 5 packs diapers",
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nur Afiqah Binte Mohd Saidali",
-      "email": "nurafiqahsaidali@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2026",
     "matches": {
       "passiton": [
         {
