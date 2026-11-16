@@ -19,7 +19,7 @@
     "matches": {
       "passiton": [
         {
-          "id": "162342",
+          "id": "162365",
           "name": "TV console",
           "description": "White finish with lift wood-toned slanted legs; 2 pull-out drawers for hidden storage and open upper shelves for media devices",
           "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
@@ -37,17 +37,6 @@
           "validTill": "14 Dec 2026",
           "ageInYears": 4,
           "dimensions": "150cm x 55cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162305",
-          "name": "TV Console",
-          "description": "like new although it has been more than 10years. With two drawers.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "20 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "170cm(L) x45cm(B) x 50cm(H))",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -90,6 +79,40 @@
     }
   },
   {
+    "id": "162362",
+    "category": "Home Furnishing",
+    "name": "3-Seater Sofa",
+    "description": "Client is married with three children, aged 15, 13 and 2. He was recently laid off from his logistics job due to a lack of projects and is in the midst of changing employment. His wife is also exploring part-time employment opportunities that can accommodate her caregiving responsibilities for their 2-year-old child.\nWith both parents currently without regular employment, the family is facing financial constraints. Their existing sofa is torn and requires disposal and replacing it would place an additional financial burden on the household. Given the family’s present circumstances, the provision of a 3-seater sofa would help meet an immediate household need while allowing the family to prioritise their limited financial resources towards other essential expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "16 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162323",
+          "name": "IKEA Nyhamn 3 seater Grey sofa foldable bed",
+          "description": "Metal frame with wooden boards.\nOriginal item from IKEA.\n\nLightly used foam mattress. Can wash 2 separate grey cushion mattress cover. \nCan unzip mattress cover to open.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "22 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": "200 x 140 x 31",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
     "id": "162257",
     "category": "Home Furnishing",
     "name": "Chairs",
@@ -120,6 +143,17 @@
           "category": "Home Furnishing"
         },
         {
+          "id": "162359",
+          "name": "Dining table and chairs",
+          "description": "Wooden table with protective glass top, comes with dining benches and chairs. Six 6 - 8.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "23 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "1.6m x 1.0m x 0.76m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "162327",
           "name": "Dining table with chairs",
           "description": "Table with 3 chairs",
@@ -131,7 +165,7 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "162341",
+          "id": "162385",
           "name": "Wooden dining table with 6 chairs",
           "description": "Natural wood tabletop with angled wooden legs - including 6 x chairs",
           "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
@@ -308,6 +342,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Mobility Aids"
+        },
+        {
+          "id": "162358",
+          "name": "Hospital bed with air mattress",
+          "description": "Very new hospital bed with air mattress barely used for donation",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "15 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -401,6 +446,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162359",
+          "name": "Dining table and chairs",
+          "description": "Wooden table with protective glass top, comes with dining benches and chairs. Six 6 - 8.",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "23 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "1.6m x 1.0m x 0.76m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "162327",
           "name": "Dining table with chairs",
           "description": "Table with 3 chairs",
@@ -412,24 +468,13 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "162341",
+          "id": "162385",
           "name": "Wooden dining table with 6 chairs",
           "description": "Natural wood tabletop with angled wooden legs - including 6 x chairs",
           "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
           "validTill": "19 Nov 2026",
           "ageInYears": 4,
           "dimensions": "160 x 80 x 75 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162331",
-          "name": "Wooden dining table",
-          "description": "Wooden dining table that can seat 6 pax. Table currently has a plastic covering on top which can be removed.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "30 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "150cm x 90cm x 74cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
@@ -578,6 +623,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162378",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "The client is a vulnerable individual living in the community with a co-tenant. She experiences mobility challenges that prevent her from walking long distances or commuting to her medical appointments independently.\n\nWhile the client currently relies on a second-hand wheelchair, it is severely dilapidated and breaking apart, posing a significant safety hazard.",
+    "specifications": "1",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Esther Lim",
+      "email": "esther.l3@ntuchealth.sg",
+      "phone": [
+        "81230429",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162380",
+          "name": "Wheelchair",
+          "description": "Well kept wheelchair to donate immediately",
+          "location": "Seletar, Yio Chu Kang",
+          "validTill": "16 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
