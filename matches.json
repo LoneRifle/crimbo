@@ -19,17 +19,6 @@
     "matches": {
       "passiton": [
         {
-          "id": "162365",
-          "name": "TV console",
-          "description": "White finish with lift wood-toned slanted legs; 2 pull-out drawers for hidden storage and open upper shelves for media devices",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "19 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "120 x 40 x 55 cm.",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "162328",
           "name": "Tv console",
           "description": "Has a bit of peeling at the top but still very much usable",
@@ -79,32 +68,142 @@
     }
   },
   {
-    "id": "162362",
+    "id": "162409",
     "category": "Home Furnishing",
-    "name": "3-Seater Sofa",
-    "description": "Client is married with three children, aged 15, 13 and 2. He was recently laid off from his logistics job due to a lack of projects and is in the midst of changing employment. His wife is also exploring part-time employment opportunities that can accommodate her caregiving responsibilities for their 2-year-old child.\nWith both parents currently without regular employment, the family is facing financial constraints. Their existing sofa is torn and requires disposal and replacing it would place an additional financial burden on the household. Given the family’s present circumstances, the provision of a 3-seater sofa would help meet an immediate household need while allowing the family to prioritise their limited financial resources towards other essential expenses.",
-    "specifications": null,
+    "name": "Sofa",
+    "description": "An elderly client is experiencing severe financial hardship due to the ongoing financial demands of an incarcerated son. \n\nWe are seeking a donated sofa to give this vulnerable senior a comfortable and supportive place to rest at home.\n\nMeasurements of the sofa: 170cm long and 38cm from the ground to the seat.",
+    "specifications": "170cm long and 38cm from the ground to the seat.",
     "contact": {
-      "org": "MSF Social Service Office @ Yishun",
-      "name": "Ann Wende",
-      "email": "wende_ann@msf.gov.sg",
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Esther Lim",
+      "email": "esther.l3@ntuchealth.sg",
       "phone": [
-        "63765987",
-        "18002220000"
+        "81230429",
+        "62741602"
       ]
     },
-    "deliveryCostsCoveredByDonor": false,
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161999",
+          "name": "Sofa",
+          "description": "Still in use currently. Can only collect on  28 or 29 Dec 2026. Thanks.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "01 Dec 2026",
+          "ageInYears": 3,
+          "dimensions": "233cm by 96cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162330",
+          "name": "Wooden Sofa with Cushion",
+          "description": "Wooden sofa with cushion and cushion cover available. Two wooden rungs on the left have come off but still usable.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "30 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": "200 cm x 64 cm x 66 cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162325",
+          "name": "Folding sofa bed",
+          "description": "Folding Sofa Bed (Ikea Nyhamn red)\nTwo years old but only lightly used. \nPerfect condition.\nRed/brown.\nVery comfortable for sleeping. \nEasy to change from bed to sofa.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "30 Nov 2026",
+          "ageInYears": 2,
+          "dimensions": "2m by 1 m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162344",
+          "name": "Brown Leather Sofa",
+          "description": "Donating a brown lounge suite consisting of a three-seater couch and two matching armchairs.\n\nWell-used and could do with some TLC and a bit of repair, but still has plenty of life left.",
+          "location": null,
+          "validTill": "23 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162338",
+          "name": "Single person sofa bed, light grey",
+          "description": "light grey single person sofa - can be open up to be a mattress for one person.\nself collection preferred.\ncan discuss mode of delivery if staying nearby.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "14 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162354",
+          "name": "2 seater IKEA sofa with beige cover",
+          "description": "2 seater sofa in good condition.  Inside is red and has beige cover.  Total length is 1.7m due to arm rest. \n\nTo optimize delivery cost, prefer Punggol/Sengkang/Hougang area.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "19 Nov 2026",
+          "ageInYears": 4,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162090",
+          "name": "Ikea ‘Kivik’ 2-seat sofa",
+          "description": "Pick up ONLY on one particular date - 10 Dec 2026, in the afternoon to be arranged.",
+          "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+          "validTill": "18 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "95 x 190 x 83",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162391",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Family of four residing in a 2-room HDB rental flat with two young children who have complex medical and caregiving needs. The household faces financial difficulties due to irregular income and significant caregiving responsibilities.\n\nThe family is requesting a sofa bed to be placed in their living room to provide additional space for resting while attending to the children's needs.\n\nA second-hand sofa bed in good, usable condition would be greatly appreciated.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Harry Muhammad Shahari Bin Suhaimi",
+      "email": "harrysuhaimi@kkcs.org.sg",
+      "phone": [
+        "64854750"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
     "date": "16 Nov 2026",
     "matches": {
       "passiton": [
         {
-          "id": "162323",
-          "name": "IKEA Nyhamn 3 seater Grey sofa foldable bed",
-          "description": "Metal frame with wooden boards.\nOriginal item from IKEA.\n\nLightly used foam mattress. Can wash 2 separate grey cushion mattress cover. \nCan unzip mattress cover to open.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "22 Nov 2026",
+          "id": "162325",
+          "name": "Folding sofa bed",
+          "description": "Folding Sofa Bed (Ikea Nyhamn red)\nTwo years old but only lightly used. \nPerfect condition.\nRed/brown.\nVery comfortable for sleeping. \nEasy to change from bed to sofa.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "30 Nov 2026",
           "ageInYears": 2,
-          "dimensions": "200 x 140 x 31",
+          "dimensions": "2m by 1 m",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162338",
+          "name": "Single person sofa bed, light grey",
+          "description": "light grey single person sofa - can be open up to be a mattress for one person.\nself collection preferred.\ncan discuss mode of delivery if staying nearby.",
+          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+          "validTill": "14 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -174,6 +273,17 @@
           "dimensions": "160 x 80 x 75 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        },
+        {
+          "id": "162289",
+          "name": "Bistro dining table w 2 chairs",
+          "description": "2 chairs bistro dining set. perfect for a small space.",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "03 Dec 2026",
+          "ageInYears": 3,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
         }
       ],
       "carousell": []
@@ -206,17 +316,6 @@
           "validTill": "19 Nov 2026",
           "ageInYears": 3,
           "dimensions": "75 x 75 x 40 cm.",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "161590",
-          "name": "IKEA small coffee table",
-          "description": "IKEA small coffee table.  Usable condition. Small scratches at the side only.  I have 2 such small tables.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "17 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "60 cm x 55 cm x 55 cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -262,17 +361,6 @@
           "validTill": "14 Dec 2026",
           "ageInYears": 1,
           "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162323",
-          "name": "IKEA Nyhamn 3 seater Grey sofa foldable bed",
-          "description": "Metal frame with wooden boards.\nOriginal item from IKEA.\n\nLightly used foam mattress. Can wash 2 separate grey cushion mattress cover. \nCan unzip mattress cover to open.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "22 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "200 x 140 x 31",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -331,17 +419,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Medical Aids"
-        },
-        {
-          "id": "162261",
-          "name": "Hospital bed, Air mattress for the bed, Push chair",
-          "description": "Good working condition, clean, no wear or tear",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "08 Dec 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         },
         {
           "id": "162358",
@@ -427,73 +504,6 @@
     }
   },
   {
-    "id": "161820",
-    "category": "Home Furnishing",
-    "name": "Dining Table",
-    "description": "Family of 3 with a 5yo child with developmental delays residing in a 2-room HDB rental flat. Father is the sole breadwinner while mother is a housewife. Income is inadequate and the family has been facing challenges furnishing their home since they moved into their rental unit late-2025.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Toa Payoh",
-      "name": "Venus Tang",
-      "email": "venus_tang@msf.gov.sg",
-      "phone": [
-        "65139140",
-        "67157503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162359",
-          "name": "Dining table and chairs",
-          "description": "Wooden table with protective glass top, comes with dining benches and chairs. Six 6 - 8.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "23 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "1.6m x 1.0m x 0.76m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162327",
-          "name": "Dining table with chairs",
-          "description": "Table with 3 chairs",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "14 Dec 2026",
-          "ageInYears": 4,
-          "dimensions": "160cm x 90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162385",
-          "name": "Wooden dining table with 6 chairs",
-          "description": "Natural wood tabletop with angled wooden legs - including 6 x chairs",
-          "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-          "validTill": "19 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "160 x 80 x 75 cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162149",
-          "name": "Round Glass Dinning Table",
-          "description": "PICK UP DATES: Now to 4 Nov; after 18 Nov. \n110cm diameter\n- Clear tempered glass top \n- Convenient lower glass shelf for extra storage",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "25 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "161673",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -555,6 +565,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Others"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162363",
+    "category": "Others",
+    "name": "Bicycle",
+    "description": "Client is married with three children, aged 15, 13 and 2. He was recently laid off from his logistics job due to a lack of projects and is in the midst of changing employment. His wife is also looking for suitable part-time employment that would allow her to balance work with caring for their 2-year-old child. While awaiting suitable employment opportunities, client intends to undertake GrabFood/Foodpanda delivery by bicycle as an interim source of income to contribute towards the family's household expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Yishun",
+      "name": "Ann Wende",
+      "email": "wende_ann@msf.gov.sg",
+      "phone": [
+        "63765987",
+        "18002220000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "16 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162393",
+          "name": "Indoor Bicycle",
+          "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
+          "location": null,
+          "validTill": "30 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "105cm x 52cm x 115cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
@@ -629,34 +673,102 @@
     }
   },
   {
-    "id": "162378",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "The client is a vulnerable individual living in the community with a co-tenant. She experiences mobility challenges that prevent her from walking long distances or commuting to her medical appointments independently.\n\nWhile the client currently relies on a second-hand wheelchair, it is severely dilapidated and breaking apart, posing a significant safety hazard.",
-    "specifications": "1",
+    "id": "161937",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Family with divorced parents, and 6 children, with ongoing financial struggles due to single income from mum. Her eldest daughter is hoping to acquire a bicycle so that she can use that to do grab deliveries to help support family's finances.\n\nBigger bicycle as rider is on the bigger side. Big enough to put the grab box behind.",
+    "specifications": "Normal adult Bicycle",
     "contact": {
-      "org": "NTUC Health Cluster Support @ Bukit Merah",
-      "name": "Esther Lim",
-      "email": "esther.l3@ntuchealth.sg",
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Chua Wen Hui Joanne",
+      "email": "joannechua@fycs.org",
       "phone": [
-        "81230429",
-        "62741602"
+        "64162167",
+        "67625215"
       ]
     },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Nov 2026",
+    "deliveryCostsCoveredByDonor": false,
+    "date": "29 Oct 2026",
     "matches": {
       "passiton": [
         {
-          "id": "162380",
-          "name": "Wheelchair",
-          "description": "Well kept wheelchair to donate immediately",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "16 Dec 2026",
-          "ageInYears": 2,
-          "dimensions": null,
+          "id": "162393",
+          "name": "Indoor Bicycle",
+          "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
+          "location": null,
+          "validTill": "30 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "105cm x 52cm x 115cm",
           "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161778",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "The mother is the sole breadwinner of her family, supporting her retired husband, aged 67, and their 19-year-old son, who is currently pursuing his studies at NAFA. As the cleaning company she works for will be closing down next year, she will need to switch to doing Grab delivery to continue providing for her family. She is hoping to receive a bicycle to help her get started as a delivery rider. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Toa Payoh",
+      "name": "Regina Pua",
+      "email": "regina_pua@msf.gov.sg",
+      "phone": [
+        "67367647",
+        "67157503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162393",
+          "name": "Indoor Bicycle",
+          "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
+          "location": null,
+          "validTill": "30 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "105cm x 52cm x 115cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161714",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle",
+    "description": "Family with divorced parents, and 6 children, with ongoing financial struggles due to single income from mum. Her eldest daughter is hoping to acquire a bicycle so that she can use that to do grab deliveries to help support family's finances.",
+    "specifications": "Bigger bicycle as rider is on the bigger side. Big enough to put the grab box behind.",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Chua Wen Hui Joanne",
+      "email": "joannechua@fycs.org",
+      "phone": [
+        "64162167",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162393",
+          "name": "Indoor Bicycle",
+          "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
+          "location": null,
+          "validTill": "30 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "105cm x 52cm x 115cm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
         }
       ],
       "carousell": []
