@@ -389,6 +389,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162429",
+          "name": "Tatami matress",
+          "description": "Comes with folding bag and matching matress cover",
+          "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+          "validTill": "18 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": "Single size",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
           "id": "161985",
           "name": "Hospital bed & mattress",
           "description": "3-Function Electric Hospital Bed and air mattress \n (Excellent Condition)",
@@ -891,6 +902,51 @@
           "dimensions": "105cm x 52cm x 115cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162433",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "65yo elderly female, with bilateral foot amputation and has to ambulate on a wheelchair. However her current one is faulty and she would like to request for a new/second hand wheelchair to aid in her mobility. Kindly coordinate with me at 96409381 thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Shanelle Tan",
+      "email": "shanelle.tan@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "18 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162380",
+          "name": "Wheelchair",
+          "description": "Well kept wheelchair to donate immediately",
+          "location": "Seletar, Yio Chu Kang",
+          "validTill": "16 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
+        },
+        {
+          "id": "162427",
+          "name": "Travel Wheelchair",
+          "description": "Travel Wheelchair in very good condition!\nThis wheelchair was purchased from Rainbow Care, and the product photo is taken from the Rainbow Care website.\n\n- Only used *once*.\n- Purchased less than 3 months ago.\n- Still in excellent condition and well maintained.\n- Foldable design, making it convenient for storage and transportation.\n- Sturdy frame with comfortable seating.\n- Relatively high seating position, making it more suitable for taller individuals, particularly men.\n- Suitable for elderly people or individuals who need assistance with mobility.\n\nThe wheelchair is practically new and has barely been used. Hoping it can be useful to someone who needs it.",
+          "location": "Pasir Ris, Simei, Tampines",
+          "validTill": "17 Dec 2026",
+          "ageInYears": 1,
+          "dimensions": "81 x 52 x 93",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Mobility Aids"
         }
       ],
       "carousell": []
