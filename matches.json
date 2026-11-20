@@ -353,17 +353,6 @@
           "category": "Home Furnishing"
         },
         {
-          "id": "162359",
-          "name": "Dining table and chairs",
-          "description": "Wooden table with protective glass top, comes with dining benches and chairs. Six 6 - 8.",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "23 Nov 2026",
-          "ageInYears": 4,
-          "dimensions": "1.6m x 1.0m x 0.76m",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
           "id": "162327",
           "name": "Dining table with chairs",
           "description": "Table with 3 chairs",
@@ -418,62 +407,6 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161939",
-    "category": "Home Furnishing",
-    "name": "Mattress",
-    "description": "Client is an elderly senior who requires a single-size mattress as he is moving into a new rental flat. If able to donate, kindly contact Dinie at 82922215. Thank you.",
-    "specifications": "91cm x 190cm",
-    "contact": {
-      "org": "THK CCMS @ AMK",
-      "name": "Nur Dinie Izzati Binte Yaziz",
-      "email": "NurDinie.Izzati@thkmc.org.sg",
-      "phone": [
-        "69240367",
-        "65564833"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161985",
-          "name": "Hospital bed & mattress",
-          "description": "3-Function Electric Hospital Bed and air mattress \n (Excellent Condition)",
-          "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-          "validTill": "29 Nov 2026",
-          "ageInYears": 2,
-          "dimensions": "82”x41”x34”",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "161789",
-          "name": "Hospital Bed with Mattress",
-          "description": "Please note that transportation will need to be at recipient’s cost. \n\nHospital Bed has hardly been used as patient was mostly hospitalised.",
-          "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-          "validTill": "23 Nov 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
-        },
-        {
-          "id": "162358",
-          "name": "Hospital bed with air mattress",
-          "description": "Very new hospital bed with air mattress barely used for donation",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "15 Dec 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Medical Aids"
         }
       ],
       "carousell": []
@@ -542,6 +475,40 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "162475",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Family has 4 school-going children, 2 of them has special needs who require diapers. Their father, a single-father, had recently passed away suddenly due to health complications.",
+    "specifications": null,
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Venus Ong",
+      "email": "venusong@rainbowcentre.org.sg",
+      "phone": [
+        "68179411",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Nov 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "161797",
+          "name": "Adult diapers L size and underpads",
+          "description": "2 packs of diapers \n1 pack of 5ply underpads",
+          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+          "validTill": "24 Nov 2026",
+          "ageInYears": 1,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Others"
         }
       ],
       "carousell": []
@@ -748,40 +715,6 @@
     }
   },
   {
-    "id": "161631",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Client is a single mother who is currently caring for her infant baby and is in the process of moving into a new rental flat. As she is not currently working due to her caregiving responsibilities, she has limited financial resources. Much of her available funds have been spent on essential household items to prepare the new home for herself and her baby.\n\nHer SSVP referral is currently pending. In the meantime, we hope to source interim support to help ease her financial burden and ensure that her baby's essential needs are met.\n\nDiaper: Drypers diapers, Size M.",
-    "specifications": null,
-    "contact": {
-      "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-      "name": "Nurul Adryana Abu Bakar",
-      "email": "nuruladryana@allkin.org.sg",
-      "phone": [
-        "60384270",
-        "60384100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "161797",
-          "name": "Adult diapers L size and underpads",
-          "description": "2 packs of diapers \n1 pack of 5ply underpads",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "24 Nov 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Others"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "162363",
     "category": "Others",
     "name": "Bicycle",
@@ -800,6 +733,17 @@
     "date": "16 Nov 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "162481",
+          "name": "Stationary Bicycle",
+          "description": "Like-new stationary bike, ideal for senior active aging centers.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "19 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        },
         {
           "id": "162393",
           "name": "Indoor Bicycle",
@@ -902,6 +846,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162481",
+          "name": "Stationary Bicycle",
+          "description": "Like-new stationary bike, ideal for senior active aging centers.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "19 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        },
+        {
           "id": "162393",
           "name": "Indoor Bicycle",
           "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
@@ -935,6 +890,17 @@
     "date": "29 Oct 2026",
     "matches": {
       "passiton": [
+        {
+          "id": "162481",
+          "name": "Stationary Bicycle",
+          "description": "Like-new stationary bike, ideal for senior active aging centers.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "19 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        },
         {
           "id": "162393",
           "name": "Indoor Bicycle",
@@ -970,6 +936,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162481",
+          "name": "Stationary Bicycle",
+          "description": "Like-new stationary bike, ideal for senior active aging centers.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "19 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        },
+        {
           "id": "162393",
           "name": "Indoor Bicycle",
           "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
@@ -1004,6 +981,17 @@
     "matches": {
       "passiton": [
         {
+          "id": "162481",
+          "name": "Stationary Bicycle",
+          "description": "Like-new stationary bike, ideal for senior active aging centers.",
+          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+          "validTill": "19 Dec 2026",
+          "ageInYears": 2,
+          "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Leisure and Healthy Lifestyle"
+        },
+        {
           "id": "162393",
           "name": "Indoor Bicycle",
           "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
@@ -1013,51 +1001,6 @@
           "dimensions": "105cm x 52cm x 115cm",
           "deliveryCostsCoveredByDonor": true,
           "category": "Leisure and Healthy Lifestyle"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "162433",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "65yo elderly female, with bilateral foot amputation and has to ambulate on a wheelchair. However her current one is faulty and she would like to request for a new/second hand wheelchair to aid in her mobility. Kindly coordinate with me at 96409381 thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Shanelle Tan",
-      "email": "shanelle.tan@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Nov 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162456",
-          "name": "Wheelchair",
-          "description": "In good condition",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "15 Dec 2026",
-          "ageInYears": 3,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
-        },
-        {
-          "id": "162380",
-          "name": "Wheelchair",
-          "description": "Well kept wheelchair to donate immediately",
-          "location": "Seletar, Yio Chu Kang",
-          "validTill": "16 Dec 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Mobility Aids"
         }
       ],
       "carousell": []

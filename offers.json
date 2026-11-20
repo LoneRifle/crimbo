@@ -1,5 +1,27 @@
 [
   {
+    "id": "162479",
+    "name": "Girls dresses clothes",
+    "description": "Girls clothing, mostly dresses, including CNY dresses. Suitable for 9-11 yrs old. Mostly size 140.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "07 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "162472",
+    "name": "Lady Pyjamas",
+    "description": "Ladies Pyjamas 6 sets (2 sets new and 4 sets pre-loved). Fits sizes M-L",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "19 Dec 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "162394",
     "name": "Men's Tee Shirts",
     "description": "5 pre-loved Tee Shirts\nNot worn / lightly worn / well worn",
@@ -64,6 +86,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "162478",
+    "name": "Shoe organiser",
+    "description": "white SKUBB hanging shoe organizer with 16 pockets designed to hang behind a door using over-the-door hooks.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "07 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "162458",
@@ -150,17 +183,6 @@
     "validTill": "01 Dec 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162359",
-    "name": "Dining table and chairs",
-    "description": "Wooden table with protective glass top, comes with dining benches and chairs. Six 6 - 8.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "23 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "1.6m x 1.0m x 0.76m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -352,24 +374,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "161954",
-    "name": "Writing desk",
-    "description": "Wooden desk \nBuilt in shelf\nLift the top for hidden storage \nIdeal for small space",
+    "id": "162480",
+    "name": "Nestle Nan Stage 3 infant formula",
+    "description": "Nestle Nan Stage 3 infant formula, 400grams (small container)",
     "location": null,
-    "validTill": "20 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "75x 80x 60 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162336",
-    "name": "Keenz Air Plus Cabin Stroller",
-    "description": "https://babycarriersrentalsg.com/products/keenz-stroller\n\nWell used. But still very much functional and working well. Sturdy and lots of storage space under the stroller.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "14 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": "80×53×104cm",
+    "validTill": "19 Dec 2026",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -515,6 +526,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "162481",
+    "name": "Stationary Bicycle",
+    "description": "Like-new stationary bike, ideal for senior active aging centers.",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "19 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
   },
   {
     "id": "162393",
@@ -737,34 +759,23 @@
     "category": "Medical Aids"
   },
   {
-    "id": "162456",
-    "name": "Wheelchair",
-    "description": "In good condition",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "15 Dec 2026",
+    "id": "162464",
+    "name": "Shower Chair",
+    "description": "Medical Commode / Shower Chair (with Wheels) – Good Condition\n\nPortable medical commode and shower chair with lockable castor wheels, armrests, footrests, and removable commode pan.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "19 Dec 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
   {
-    "id": "162455",
-    "name": "Bed rails",
+    "id": "162456",
+    "name": "Wheelchair",
     "description": "In good condition",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "15 Dec 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "162454",
-    "name": "Shower chair",
-    "description": "Open but not used",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "15 Dec 2026",
-    "ageInYears": 1,
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
@@ -821,17 +832,6 @@
     "validTill": "10 Dec 2026",
     "ageInYears": 2,
     "dimensions": "Length: 212 cm / 83.5\", Width: 109 cm / 43\", Height: 41 - 69 cm / 16.1\" - 27.2\" (Floor to Bed Base)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "162118",
-    "name": "Foldable walk assist frame",
-    "description": "Infrequent usage ~2 years but in good condition",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "20 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": "L50cm x W50cm x H82cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
