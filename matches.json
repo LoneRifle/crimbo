@@ -145,50 +145,6 @@
     }
   },
   {
-    "id": "162441",
-    "category": "Home Furnishing",
-    "name": "Single Bed",
-    "description": "Client (M/38) is currently undergoing divorce proceedings and is the sole caregiver of his three young children. He is employed as a cleaner and is doing his best to make ends meet while providing for his family's needs.\nThe client is seeking assistance with the provision of a queen-sized bed for his children, as their existing bed is damaged and no longer fit for use. Given his current financial constraints and caregiving responsibilities, he would appreciate any support.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Norlizawati Binte Hamid",
-      "email": "norlizawati@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Nov 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162491",
-          "name": "Single storage bed",
-          "description": "Single bed with storage",
-          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-          "validTill": "20 Dec 2026",
-          "ageInYears": 4,
-          "dimensions": "EST 190 x 91 x 90cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162338",
-          "name": "Single person sofa bed, light grey",
-          "description": "light grey single person sofa - can be open up to be a mattress for one person.\nself collection preferred.\ncan discuss mode of delivery if staying nearby.",
-          "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-          "validTill": "14 Dec 2026",
-          "ageInYears": 1,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
     "id": "162391",
     "category": "Home Furnishing",
     "name": "Sofa Bed",
@@ -270,6 +226,17 @@
           "validTill": "11 Dec 2026",
           "ageInYears": 3,
           "dimensions": "450 mm X 450 mm",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162511",
+          "name": "Dining table and 2 chairs",
+          "description": "Table is lightly used",
+          "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+          "validTill": "27 Nov 2026",
+          "ageInYears": 3,
+          "dimensions": "140x77x75",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         },
