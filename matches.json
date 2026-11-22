@@ -73,72 +73,17 @@
           "dimensions": null,
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "162451",
-    "category": "Home Furnishing",
-    "name": "study desk",
-    "description": "A Single mum with 2 children is moving into a HDB rental flat and is need of a study desk for her two children.",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Keith De Silva",
-      "email": "keith.desilva@shenghong.org.sg",
-      "phone": [
-        "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Nov 2026",
-    "matches": {
-      "passiton": [
+        },
         {
-          "id": "162443",
-          "name": "Study Desk — 140 x 60 cm",
-          "description": "Used study desk, white with wood-tone top, 140 x 60 x 77 cm. Solid and fully functional, some scuffs from normal use. Collection from Siglap; donor can help load it.",
-          "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-          "validTill": "18 Dec 2026",
+          "id": "162513",
+          "name": "Solid wood single seat sofas, metal bed frame and a study chair with wheels",
+          "description": "Elderly home needs more space and youngsters have moved out so furnitures are no longer in use",
+          "location": null,
+          "validTill": "21 Dec 2026",
           "ageInYears": 4,
-          "dimensions": "140 x 60 x 77 cm",
+          "dimensions": "Normal sized",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
-        },
-        {
-          "id": "162329",
-          "name": "Study desk",
-          "description": "Glass top.",
-          "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-          "validTill": "14 Dec 2026",
-          "ageInYears": 4,
-          "dimensions": "150cm x 77cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Home Furnishing"
-        },
-        {
-          "id": "162269",
-          "name": "children study/desk chair (pink)",
-          "description": "preloved. clean. covers can remove abd wash. wheels are smooth. suitable for primary school children",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "12 Dec 2026",
-          "ageInYears": 4,
-          "dimensions": "H86cm x W62cm (base)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
-        },
-        {
-          "id": "162273",
-          "name": "IKEA children study/desk chair (blue)",
-          "description": "preloved. clean. covers can remove abd wash. wheels are smooth. suitable for primary school children",
-          "location": "Admiralty Drive, Sembawang, Yishun",
-          "validTill": "12 Dec 2026",
-          "ageInYears": 4,
-          "dimensions": "H86cm x W62cm (base)",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Infant and Children Items"
         }
       ],
       "carousell": []
@@ -181,6 +126,17 @@
           "validTill": "14 Dec 2026",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162513",
+          "name": "Solid wood single seat sofas, metal bed frame and a study chair with wheels",
+          "description": "Elderly home needs more space and youngsters have moved out so furnitures are no longer in use",
+          "location": null,
+          "validTill": "21 Dec 2026",
+          "ageInYears": 4,
+          "dimensions": "Normal sized",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -293,6 +249,51 @@
           "validTill": "14 Dec 2026",
           "ageInYears": 1,
           "dimensions": null,
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        },
+        {
+          "id": "162513",
+          "name": "Solid wood single seat sofas, metal bed frame and a study chair with wheels",
+          "description": "Elderly home needs more space and youngsters have moved out so furnitures are no longer in use",
+          "location": null,
+          "validTill": "21 Dec 2026",
+          "ageInYears": 4,
+          "dimensions": "Normal sized",
+          "deliveryCostsCoveredByDonor": true,
+          "category": "Home Furnishing"
+        }
+      ],
+      "carousell": []
+    }
+  },
+  {
+    "id": "161919",
+    "category": "Home Furnishing",
+    "name": "Single Bed Frame",
+    "description": "Requested for an elderly male client living in a very space-constrained room. Due to the tight layout of the unit, the bed frame must meet specific height/width measurements to fit into the room safely without obstructing movement or posing a fall hazard.\n\nDelivery & Contact Details:\n\nDonor Support Needed: Requesting donors/sponsors to kindly cover delivery costs, as the client is unemployed and has no income source.\n\nDimensions & Coordination: Please WhatsApp me at 8800 3073 so I can share the link/exact measurements for the bed frame. (Pardon if response is slow as I may be out on home visits).",
+    "specifications": null,
+    "contact": {
+      "org": "Hua Mei Care Management Service of TSAO Foundation",
+      "name": "Ryan Sim",
+      "email": "ryansim@tsaofoundation.org",
+      "phone": [
+        "65939576",
+        "65939596"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2026",
+    "matches": {
+      "passiton": [
+        {
+          "id": "162513",
+          "name": "Solid wood single seat sofas, metal bed frame and a study chair with wheels",
+          "description": "Elderly home needs more space and youngsters have moved out so furnitures are no longer in use",
+          "location": null,
+          "validTill": "21 Dec 2026",
+          "ageInYears": 4,
+          "dimensions": "Normal sized",
           "deliveryCostsCoveredByDonor": true,
           "category": "Home Furnishing"
         }
@@ -720,51 +721,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Oct 2026",
-    "matches": {
-      "passiton": [
-        {
-          "id": "162481",
-          "name": "Stationary Bicycle",
-          "description": "Like-new stationary bike, ideal for senior active aging centers.",
-          "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-          "validTill": "19 Dec 2026",
-          "ageInYears": 2,
-          "dimensions": null,
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
-        },
-        {
-          "id": "162393",
-          "name": "Indoor Bicycle",
-          "description": "Giving away a pre-loved M1 indoor stationary spin bike in [good / working] condition.\n\nKey Features:\nBullet Adjustable seat and handlebar height\n\nBullet Built-in LCD monitor and phone/tablet holder\n\nBullet Front transport wheels for easy rolling and moving\n\nBullet Sturdy steel frame with caged pedals",
-          "location": null,
-          "validTill": "30 Nov 2026",
-          "ageInYears": 3,
-          "dimensions": "105cm x 52cm x 115cm",
-          "deliveryCostsCoveredByDonor": true,
-          "category": "Leisure and Healthy Lifestyle"
-        }
-      ],
-      "carousell": []
-    }
-  },
-  {
-    "id": "161714",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Family with divorced parents, and 6 children, with ongoing financial struggles due to single income from mum. Her eldest daughter is hoping to acquire a bicycle so that she can use that to do grab deliveries to help support family's finances.",
-    "specifications": "Bigger bicycle as rider is on the bigger side. Big enough to put the grab box behind.",
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-      "name": "Chua Wen Hui Joanne",
-      "email": "joannechua@fycs.org",
-      "phone": [
-        "64162167",
-        "67625215"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Oct 2026",
     "matches": {
       "passiton": [
         {
