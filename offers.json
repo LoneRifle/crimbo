@@ -88,6 +88,50 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "162526",
+    "name": "King size bed",
+    "description": "King size bed including mattress",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "24 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": "180x200",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162525",
+    "name": "Super Single Mattress",
+    "description": "Simmons Beautyrest Super Single mattress is a premium pocketed-coil mattress for solo sleepers who want extra width alongside targeted spinal support and minimal motion transfer. It measures 107 cm wide by 190 cm long, with thickness of 25cm.",
+    "location": "Bukit Timah",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": "190 x 107 x 25 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162519",
+    "name": "Foldable bed",
+    "description": "This is a foldable bed in a good condition",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162518",
+    "name": "Single size mattress",
+    "description": "The outer cover is removable and has been washed. Includes washed fitted sheet and mattress protector.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "01 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": "90*200cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "162515",
     "name": "Standing table 1.5*0.75",
     "description": "Standing desk",
@@ -190,7 +234,7 @@
     "id": "162458",
     "name": "Dining chairs *4",
     "description": "Dining chairs * 4",
-    "location": "Admiralty Drive, Sembawang, Yishun",
+    "location": "Sembawang",
     "validTill": "15 Dec 2026",
     "ageInYears": 2,
     "dimensions": null,
@@ -201,7 +245,7 @@
     "id": "162457",
     "name": "Table with glass top",
     "description": "Table with glass top & 1 matching chair",
-    "location": "Admiralty Drive, Sembawang, Yishun",
+    "location": "Sembawang",
     "validTill": "15 Dec 2026",
     "ageInYears": 3,
     "dimensions": null,
@@ -286,34 +330,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162344",
-    "name": "Brown Leather Sofa",
-    "description": "Donating a brown lounge suite consisting of a three-seater couch and two matching armchairs.\n\nWell-used and could do with some TLC and a bit of repair, but still has plenty of life left.",
-    "location": null,
-    "validTill": "23 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162338",
     "name": "Single person sofa bed, light grey",
     "description": "light grey single person sofa - can be open up to be a mattress for one person.\nself collection preferred.\ncan discuss mode of delivery if staying nearby.",
     "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
     "validTill": "14 Dec 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162337",
-    "name": "shoe rack",
-    "description": "Rosewood shoe rack",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "23 Nov 2026",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -405,6 +427,61 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "162524",
+    "name": "Baby Bjorn bouncer",
+    "description": "Baby Bjorn bouncer in mesh",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162523",
+    "name": "Hamilton stroller",
+    "description": "Stroller was heavily used, but still in good working condition. Comes with rain cover and mosquito cover.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162522",
+    "name": "Oribel Cocoon Z Baby High Chair",
+    "description": "Oribel Cocoon Z high chair. Suitable for newborns, comes with table.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162521",
+    "name": "Doona stroller",
+    "description": "Doona stroller in green. Heavily used but still functional.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162520",
+    "name": "Hamilton Baby Car Seat",
+    "description": "Hamilton baby car seat, medium usage, good for newborns",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "22 Dec 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "162516",
@@ -748,21 +825,10 @@
     "category": "Medical Aids"
   },
   {
-    "id": "161789",
-    "name": "Hospital Bed with Mattress",
-    "description": "Please note that transportation will need to be at recipient’s cost. \n\nHospital Bed has hardly been used as patient was mostly hospitalised.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "23 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "162508",
     "name": "Commode with pot, cover and wheels",
     "description": "Bought 2 months ago and unused",
-    "location": "Admiralty Drive, Sembawang, Yishun",
+    "location": "Sembawang",
     "validTill": "30 Nov 2026",
     "ageInYears": 1,
     "dimensions": null,
