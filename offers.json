@@ -165,17 +165,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162526",
-    "name": "King size bed",
-    "description": "King size bed including mattress",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "24 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": "180x200",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162515",
     "name": "Standing table 1.5*0.75",
     "description": "Standing desk",
@@ -407,6 +396,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "162602",
+    "name": "Bicycle",
+    "description": "Decathlon BTWIN Bicycle + Gloves\nKids Bike (4 - 6 Years) - Flame Red\nSuitable for children 105 to 125 cm tall (4-6 years), this 16\" bike provides comfort and peace of mind with its innovative braking system, for even more exciting yet safe first rides!",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "23 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162601",
+    "name": "Baby Cot with Mattress",
+    "description": "Baby Cot (standard size) with Mattress and Covers. All unused and in pristine condition.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "07 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": "28\" x 48\" x 42\"",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "162524",
     "name": "Baby Bjorn bouncer",
     "description": "Baby Bjorn bouncer in mesh",
@@ -592,6 +603,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "162603",
+    "name": "Kitchen Necessity",
+    "description": "Pick up from Sembawang MRT station. Except the plastic measuring cup a little old, the rest never use b4 although the orchid bowl with cover keeps in cabinet for years.  I am cross posting on other site for blessing, text me to check availability",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "15 Dec 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "162481",
@@ -909,17 +931,6 @@
     "validTill": "30 Nov 2026",
     "ageInYears": 1,
     "dimensions": "various sizes",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "161797",
-    "name": "Adult diapers L size and underpads",
-    "description": "2 packs of diapers \n1 pack of 5ply underpads",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "24 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
