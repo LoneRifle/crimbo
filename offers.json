@@ -1,5 +1,16 @@
 [
   {
+    "id": "162629",
+    "name": "Kids romper",
+    "description": "Hi there, blessing a size 80 kids body suit from Uniqlo.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "04 Dec 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "162479",
     "name": "Girls dresses clothes",
     "description": "Girls clothing, mostly dresses, including CNY dresses. Suitable for 9-11 yrs old. Mostly size 140.",
@@ -88,17 +99,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "162565",
-    "name": "DVD Player, DVD Drama",
-    "description": "1 DVD player and drama in chinese, hong kong and koren.",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "14 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "162175",
     "name": "Hair dryer",
     "description": "Used hair dryer . Phillips brand",
@@ -108,6 +108,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "162625",
+    "name": "Daewoo Electric Pressure Cooker",
+    "description": "- Features multiple cooking functions.\n- User-friendly interface.\n- Non-stick inner pot for easy cleaning.",
+    "location": null,
+    "validTill": "08 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "162623",
+    "name": "Bunk Bed",
+    "description": "Bunk Bed - Single Size on top, Super Single at the bottom\n\nComes with mattresses \n\nNOTE: This is taller than most bunk beds \n\nI will pay for delivery and assembly",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "24 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": "Height - 214cm / Length 196cm / Width 147cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "162597",
@@ -128,28 +150,6 @@
     "validTill": "23 Dec 2026",
     "ageInYears": 2,
     "dimensions": "205 cm length 90 cm depth",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162583",
-    "name": "1.5m*2m mattress",
-    "description": "A functioning well mattress",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "23 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162581",
-    "name": "Black PVC Sofa, dining table, altar, side table, washing machine, mattress and bed frame,Rocking chair",
-    "description": "Washing machine, new mattress and bed frame, rosewood marble table, side matching rosewood marble table, rocking chair, teakwood altar (ornament not praying altar), PVC sofa. All items need to be clear by 31 Dec 2026",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "01 Dec 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -205,28 +205,6 @@
     "validTill": "27 Nov 2026",
     "ageInYears": 3,
     "dimensions": "140x77x75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162491",
-    "name": "Single storage bed",
-    "description": "Single bed with storage",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": "EST 190 x 91 x 90cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162485",
-    "name": "Branton Sofa Bed",
-    "description": "Well Kept, Preloved Branton Sofa Bed.",
-    "location": null,
-    "validTill": "15 Dec 2026",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -293,6 +271,17 @@
     "validTill": "08 Dec 2026",
     "ageInYears": 4,
     "dimensions": "85-mmx800mmx600mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162624",
+    "name": "Dinning Table and Chairs",
+    "description": "Dining table with 2 chairs and 1x2-seaters bench",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "08 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": "1400mmx800mmx760mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -594,15 +583,15 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161817",
-    "name": "Soft toys",
-    "description": "Toys",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "25 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": null,
+    "id": "162607",
+    "name": "Dishwasher",
+    "description": "Working Bosch Serie 4, white color freestanding dishwasher (60 cm), 2021 model, good condition.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "24 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": "H84.5xW60xD60 cm",
     "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "162603",
